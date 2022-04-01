@@ -1,0 +1,1623 @@
+﻿COLLECTIVE AGrtEEii/IENT
+00141(06)
+1999
+January
+February
+March
+s	M	T	W	T	F	s	s	M	T	W	T	F	S	s	M	T	W	T	F	S
+					1	2		1	2	3	4	5	6			2	3	4	5	6
+3	4	5	6	7	8	9	7	8	9	10	11	12	13	7	8	9	10	11	12	13
+10	11	12	13	14	15	16	14	15	16	17	18	19	20	14	15	16	17	18	19	20
+17	18	19	20	21	22	23	21	22	23	24	25	26	27	21	22	23	24	25	26	27
+24	25	26	27	28	29	30	28							28	29	30	31			
+31																				
+April							May							June						
+S	M	T	W	T	F	S	S	M	T	W	T	F	S	S	M	T	W	T	F	S
+				1	2	3							1			1	2	3	4	5
+4	5	6	7	8	9	10	2	3	4	5	6	7	8	6	7	8	9	10	11	12
+11	12	13	14	15	16	17	9	10	11	12	13	14	15	13	14	15	16	17	18	19
+18	19	20	21	22	23	24	16	17	18	19	20	21	22	20	21	22	23	24	25	26
+25	26	27	28	29	30		23	24	25	26	27	28	29	27	28	29	30			
+							30	31												
+July							August							September						
+s	M	T	W	T	F	s	s	M	T	W	T	F	S	s	M	T	w	T	F	S
+				1	2	3		2	3	4	5	6	7				1	2	3	4
+4	5	6	7	B	g	10	B	g	10	11	12	13	14	5	6	7	8	g	10	11
+11	12	13	14	15	16	17	15	16	17	18	19	20	21	12	13	14	15	16	17	18
+18	19	20	21	22	23	24	22	23	24	25	26	27	28	19	20	21	22	23'	24	25
+25	26	27	28	29	30	31	29	30	31					26	27	28	29	30		
+October							November							December						
+s	M	T	w	T	F	s	s	M	T	w	T	F	s	s	M	T	w	T	F	s
+					1	2				L	2J	3	4				■i1 •		'3	4
+3	4	5	6	7	8				:;\ )7,	f	V e	'.i'o	H	V			ft	ft	i0	11
+10	11	12	13	14	15	u	)l2	U		■«	t'6	l1	18	1i	13	14	is	lip	17	18
+17	18	19	20	21	22	ft	jft	20	21	22	23	24	25	19	20	21	22	'23	;24	25
+24	25	26	27	28	29	M		27		n	3«f 1	)		ft	$	ft	29	30	31	
+31																				
+January	February March
+October	November December
+COLLECTIVE AGREEMENT
+Effective on the 22nd day of July 1999 at
+Wabush, Labrador
+between
+WABUSH MINES and
+WABUSH LAKE RAILWAY CO. LTD Cliffs Mining Company, Managing Agent
+Hereinafter referred to as the “Company”
+and
+UNITED STEELWORKERS OF AMERICA Local 6285
+Hereinafter referred to as the “Union”
+INDEX
+Article
+Page
+1	Purpose of Agreement
+2	Scope of the Agreement
+3	Responsibilities of the Parties
+4	Management
+5	Union Recognition and Check-off Authorization for Payroll Deduction
+6	Absence
+7	Probationary Employees
+8	Seniority Termination
+Establishing Lines of Promotion Promotion
+Reduction and Lay-off Recall
+9	Adjustment of Grievances
+10	Arbitration
+11	Discharge Cases
+12	Hours of Work,
+Overtime and Allowed Time
+13	Shift Premiums and Cost
+of Living Allowance (C.O.L.A.)
+14	Wages
+Trade & Craft Additive Out-of-Line Differential Learner Rates Training of Employees for Trade or Craft jobs Temporary Assignment General
+15	Vacations Vacation Extensions
+16	Holidays
+17	Safety and Health
+18	Northern Allowance
+19	Cooperative Committee
+20	Notices
+21 Validity of Agreement
+22	Duration of Agreement
+1
+1
+4
+6
+7
+8 8
+12
+12
+15
+17
+17
+24
+27
+30
+35
+37
+39
+43
+47
+53
+54 56
+59
+61
+62
+62
+66
+68
+70
+79
+80 81 82 82
+APPENDIX"B"
+List of Learner Jobs	84
+APPENDIX"C"
+Mining (Lines of Promotion)	85
+APPENDIX "C"
+Concentrator	86
+APPENDIX "C"
+Services	87
+APPENDIX "D"
+Pension Plan	88
+APPENDIX "E"
+Insurance Agreement
+LETTERS OF AGREEMENT
+Exercise of seniority during reduction with layoff situation Rail Transportation Benefits Technological Change Training, Concentrator Job Group Apprenticeship Program Requirements Paid Time for Chairman of Employee Safety Committee Scheduling of Employees During shutdowns in excess of Four Days Scheduling of Employees During shutdowns of Four Days or Less Job Combination and Job Elimination Training - Conductor and Engineman 12 Hour Shifts Summer Students Utilization of Labourers on shift Contracting out Scheduling of 12 Hour Shifts Redress for Grievances Job Posting-Tradesmen Services Labourers Training for Entrance Jobs
+89
+90
+92
+93 98
+100
+102
+104
+106
+108
+110
+112
+119
+121
+123
+125
+127
+129
+130
+131
+ARTICLE 1
+PURPOSE OF AGREEMENT
+1.01	It is the intent and purpose of the Parties to establish, as herein set forth, their full Agreement covering wages, hours of work and other working conditions and to provide procedure for the prompt and equitable adjustment of grievances.
+ARTICLE 2
+SCOPE OF THE AGREEMENT
+2.01	This Agreement covers:
+A.	All employees of Wabush Mines, Cliffs Mining Company, Managing Agent, located at Wabush, Labrador, Newfoundland except office employees, medical and safety staff, chemists, guards and security personnel, foremen and those above the rank of foreman, students, professional and technical employees, cookery and camp employees, janitors, bakery and laundry workers; and
+B.	All employees of Wabush Lake Railway Company, Limited, working on installation, maintenance and operation of the railroad and facilities, except office workers, guards and security personnel, foremen and those above the rank of foreman, students and professional and technical employees.
+2.02	As used herein “students” means a person attending a high school, technical school, college or university, who may be employed by the Company during a regular school vacation for temporary work, but who shall attain no rights under this Agreement.
+1
+2.03	Supervisory personnel will not perform productionor maintenance jobs normally performed by employees in the bargaining unit except under the following circumstances:
+A.	For instruction or training,
+B.	In experimentationwith respect to process or operation,
+C.	For testing new machinery or new equipment, or assisting employees in testing repaired machinery or equipment.
+D.	In case of emergency affecting the safety of employees, damage to equipment or adversely affecting operations, for such time as is necessary to overcome the emergency.
+E.	Where the work is incidentalto supervisory duties.
+If a Supervisor performs work in violation of this section and the extent and classification of the work can be established, then the grievor, if he is in that classification, will be paid an allowance equal to the standard straight time rate appropriate to the work performed, for the time actually worked or for four (4) hours, whichever is the greater. If the grievor is not in the classification, as established above, then the employee who receives the payment will be the one who is the lowest on the overtime list in that classification.
+A grievance alleging violation of this Section maybe filed by the Union directly at Step No. 2 of the Grievance Procedure. In the event such a grievance is appealed to an Arbitrator he shall, if violation of this Section is established, be empowered to order payment of the aforementionedallowance.
+2
+2.04	It is general policy of the Company not to contract out production or maintenancework that is normally performed by members of the bargaining unit. However, abnormal circumstances may arise that require such contracting out. When the Company contemplates and decides to contract out production or maintenance work that has not previously been contracted out, it shall give the Union as early written notice as is feasible but no later than twenty (20) days before the contract is awarded providing details of the work to be contracted out. When the Company cannot give twenty (20) days notice, a verbal notice will be given immediately it becomes feasible to do so. On receipt of such notice, the Union may request a meeting to discuss the possibility cf qualified employees and available equipment starting and completing the work within the required time. Such a meeting may be attended by three (3) representatives of the Union and will be held within five (5) days of the notice. The Union representativeswill suffer no loss of pay for the time spent at such a meeting. Within seven (7) days following such meeting, the Company will advise the Union of the final disposition of the contract. Further, if the Company is unable to provide all the details for the work to be contracted out, at the above meeting, it will provide such details to the Union as soon as the information becomes available.
+In no case will the Company contract out production or maintenance work while employees who normally perform that work are laid-off or reduced as a result of a decrease in the work they normally performed or that would result in the reduction or lay-off of such employees. No employees cf any contractor will displace the regular production and maintenanceemployees.
+3
+Even though notice from the Company will not be required in the case of continuing work which has been contracted out in the past, the Company will notify the Union when a new contract is to be made for work which has been contracted out in the past and will, upon request, meet the Union concerning such work.
+Any alleged violation of the provisions of this Section or of an agreement between the Parties reached at a meeting to discuss contracting out shall be subject to the Grievance Procedure. Similarly, in the event the Parties fail to reach an agreement at such meeting, the matter will be subject to the Grievance Procedure.
+An employee who has been laid off and not recalled or who is displaced in violation of the provisions of this article may file a grievancefor the pay he claims to have lost.
+When a contractor performs work on site beyond the scope of work outlined in the aforementioned notice to the Union, an employee may submit a grievance at Step 2 in accordance with the provisions of paragraph 2.03 of the Collective Agreement. If the Company has not taken corrective action within twenty-four (24) hours of having been notified of the alleged violation any claim payable will apply from the date the grievance was filed.
+ARTICLE 3
+RESPONSIBILITIES OF THE PARTIES
+3.01	The Union, its officers and representatives at all levels, and all employees are bound to observe the provisions of this Agreement. The Company, its officials and representatives at all levels are bound to observe the provisions of this Agreement.
+4
+3.02	In addition to the responsibilitiesthat may
+be provided elsewhere in this Agreement, the
+following shall be observed.
+A.	There shall be no discrimination in any manner whatsoever by either the Company or the Union against any employee because of race, sex, creed, color, political affiliation, natural origin, membership or non-membership in the Union, lawful Union activity, personal prejudice or exercising a right granted under law.
+B.	No Union activity, including the solicitation of members, shall take place on Company premises or on Company time, except as provided for by this Agreement.
+C.	There shall be no strike, work stoppage, picketing, concerted slowdown, interruption or impeding of work.
+No officer or representative of the Union shall authorize, instigate, aid or condone any such activities. No employees shall participate in such activity.
+D.	The Union shall not involve any employee of the Company, or the Company itself, in any dispute which may arise between any other employer and his employees.
+E.	There shall be no lock-outs.
+F.	All grievances shall be considered carefully and processed promptly in accordance with the applicable procedures of Articles 9, 10 and 11. Such shall be the sole and exclusive procedures
+5
+to be utilized in the event any employee believes this Agreement has been violated as to him.
+3.03	The Company shall provide bulletin boards in designated areas for the posting of Union notices dealing with meetings, election of officers, appointments and committees, social affairs and other non-controversial matters dealing with the affairs of the Union. No bulletin shall be posted until approved by the Resident Supervisor Human Resources or his designated representative.
+ARTICLE 4
+MANAGEMENT
+4.01	It is the exclusive right of the Company to manage the affairs in which it is engaged and to direct the working forces. This right includes the right: to hire, promote, transfer, test; to suspend, demote or discharge for just and reasonable cause; to retire (in accordance with the provisions of the Company Pension Plan); to determine the number of employees to perform the work; to control and regulate the use of all equipment and to schedule the work; to determine the utilization of all machinery, tools or other labour-saving devices; all subject only to the provisions of this Agreement.
+4.02	In addition to the rights of the Company set forth in this Agreement, the Company shall retain all inherent rights of management.
+4.03	The Company has the full right to make and alter from time to time reasonable rules and regulations to be observed by employees. Such rules and regulationsshall not be inconsistentwith the provisions of this Agreement. Copies of rules and regulations required to be observed by all employees, will be
+6
+furnished to the Union. A copy of all new rules and regulations required to be observed by all employees, will be furnished to the Union at least seven (7) days prior to posting. Upon request, the Company will meet the Union to explain the new rules and regulations.
+ARTICLE 5
+UNION RECOGNITIONAND CHECK-OFF
+5.01	The Company recognizes the Union as the exclusive bargaining agent for all employees as defined in Article 2 of this Agreement.
+5.02	The Company agrees that during the term of this Agreement, or any renewal thereof, it will deduct in each pay period, in each month, from the earnings of each employee, an amount equal to the monthly dues of Union Members as authorized by the Constitution of the Union. The amounts so deducted shall be remitted each pay period to the person designated by the Union, in writing to the Company, along with the name of any employee whose wages were insufficient to permit such deduction and the Company shall not be obligated to make such deduction from subsequent wages.
+5.03	An employee may become a member of the Union or may refrain from becoming a member of the Union, as he so desires.
+5.04	Each employee hired on or after the date of execution of this Agreement shall sign a payroll deduction authorization in the following form:
+7
+AUTHORIZATION FOR PAYROLL DEDUCTION
+DATE:
+I hereby authorize and direct one of the following companies - WABUSH MINES, WABUSH LAKE RAILWAY COMPANY, LIMITED, to deduct each pay period from my earnings an amount equal to the Union dues authorized by the Constitution of the United Steelworkers of America and to remit the amount so deducted to the person designated by the Union in writing to the Company.
+Witness	Employee’s Signature Payroll#
+5,05	The Union shall indemnify and save the Company harmless against any and all claims, demands, suits or other forms of liability that shall arise out of or by reason of action taken by the Company for the purpose of complying with the provisions of this Article.
+ARTICLE 6
+ABSENCE
+6.01	Every employee shall work as scheduled unless he has:
+1.	Asked for and been granted EXCUSED ABSENCE (a period of three (3) consecutive working days or less) or,
+2.	Made written application on the form provided by the Company and been
+8
+granted a LEAVE OF ABSENCE (a period in excess of three (3) consecutive working days).
+Absences requested under 1 and 2 will not, particularly when they relate to a personal emergency, be arbitrarily denied, however, the Company shall have the right to approve or deny the requests and, if approved to determine duration of absences.
+6.02	Leave of absence without pay may be granted, upon receipt of one (1) week's notice, to not more than six (6) employees at any one time for attending Union conferences and conventions, providing such leave shall not interfere with the efficiency of the operations. Such leaves shall not exceed any aggregate of twenty (20) weeks in any year.
+6.03	The Company shall grant a leave of absence without pay to a maximum of two (2) employees for a period of not more than one (1) year for the purpose of performing Union, Newfoundland and Labrador Federation of Labour, or Canadian Labour Congress work. The Union agrees to give at least two (2) week's notice in writing to the Company requesting such leave and designating the employee for whom it is desired. Such leave will be extended from year to year thereafter, in writing, by mutual agreement between the Company and the Union up to a maximum of three (3) years.
+6.04	Leave of absence without pay may be granted, upon receipt of two (2) week's written notice, to not more than eight (8)employees at any one time for as long as they are in full time attendance at a recognized Training Institute, in
+9
+which their course of studies can directly further qualify them for work with the Company.
+In addition, upon receipt of one (1) week's written notice, the Company will grant leave of absence without pay to not more than two (2) employees at any one time to attend a regular course conducted by the Labour College of Canada.
+6.05	Except as otherwise provided, an employee while on leave of absence shall not become entitled to or have credited to him any benefits which arise out of this Agreement other than his length of continuous service for the purpose of seniority.
+6.06	An employee required to be absent from work to attend the funeral of his father, mother, wife, child, brother, sister, father-in-law, mother-in-law,brother-in-iaw, sister-in-law, grandparents or grandchild shall be granted a funeral leave for the time necessary for that purpose. For three (3) days of such leave he shall be paid for eight (8) hours at his straight time hourly rate.
+The above shall apply if the employee obtains leave of absence because of sickness in his immediate family and death occurs during such leave.
+These provisions will also apply if an employee is required to take leave cf absence to care for his children at Wabush or its immediate area while his wife attends the funeral of one of the relatives specified.
+Before such bereavement allowance is paid, the employee shall, if the Company so requests, provide evidence of attendance at the funeral.
+10
+6.07	An employee who is elected as a member of the House of Assembly of Newfoundlandor to the House of Commons will be granted a leave of absence for a period equal to the time that he continues as an elected member of either body. Such leave may be extended from term to term upon request to the Company.
+6.08	Maternity leave of absence will be granted to a female employee who has acquired seniority in the bargaining unit. Such leave of absence shall be mandatory and may commence (4) months prior to the anticipateddate of birth of the child (but not later than eleven (11) weeks before the anticipated date of birth) and shall terminate not later than four (4) months after the actual date of birth but not earlier than six (6) weeks after the actual date of birth. Such employee, upon return to work will be restored to the job she held at the commencement of leave of absence providing it is still available and she still qualifies in accordance with Article 8.
+6.09	An employee who is summoned to serve on a criminaljury or to attend court as a witness in a criminal or quasi-criminal case, will be paid an allowance equal to the difference between the payment he received for each day of such service and the pay he would normally have received had he worked as scheduled on each day of such service. To qualify for such an allowance, an employee must give his Foreman at least three (3) days notice of his impending absence and later must provide the Company with Court documentation justifying his absence for jury service or his attendance at court as a witness and verifying any payment he has received for jury service. The foregoing provisions shall also apply where an employee is scheduled to work the midnight to 08:00 AM. shift immediately prior to being required for jury duty or as a witness in
+11
+responseto a summons for anytime duringthe 8:00
+A.M. to 4:00 P.M. period of that day.
+ARTICLE 7
+PROBATIONARY EMPLOYEES
+7.01	An employee shall be considered probationary for a period of fifty- five (55) days of actual work. At the end of the probationary period such employee's name shall be placed upon the seniority lists, where applicable, as of the date of commencement of work for the Company.
+7.02	During the period of probation, an employee has no seniority standing and the Company shall not be required to retain him in employment or to reemploy him in the event he is released and such shall not be subject to the grievance procedure.
+7.03	If a probationary employee wishes to discuss a complaint with the Company, he may do so with or without the assistance of a Grievance Committeeman.
+ARTICLE 8
+SENIORITY
+8.01	Length of continuous service with the Company shall be determined by the date of the employee's first employment with the Company or the date of re-employment following termination under the provisions of Section 8.09 herein. On or after the date of execution of this Agreement, employees hired on the same day will be placed on seniority lists in the order of their hiringtimes during the day.
+12
+8.02	A. Except as provided for in Sections B) and
+C) following, length of continuous service in a job shall be determined by the date of the employee's first day worked in the job following permanent assignment to that job. Employees having the same job seniority date in a job shall be placed on job seniority lists in order of their Company continuous service.
+B.	When more than one employee is selected from a job posting, the employees selected who do perform work in the job following permanent assignment to it shall have the same job continuous service date as that of the first such employee.
+C.	An employee in a job in a line of promotion shall have, for each lowerjob in that line of promotion, job continuous service at least equal to that in the higher job. For all jobs of equal classification in a line of promotion, an employee shall have job continuous service he has in any one of these jobs. However, when a new job is placed in a line of promotion, employees in a higher or equal classification in that line will not have greater job continuous service than the date of the first permanent assignment to the new job.
+An employee shall not suffer any loss of job continuous service (gratuitous service) acquired through the provisions of this paragraph when a job is transferred to another line of promotion.
+8.03	Lines of promotionhave beenset up within each Department and one or more of these lines constitutes a Department Job Group, as shown on
+13
+appendix “C” of this Agreement. Each Trade and Craft Job and any other job not shown on appendix “C” shall be considered to be an individual line of promotion.
+8.04	A. There shall be three Department Labour
+Pools, one in each of the following Department Job Groups:
+Concentrator Job Group Mining Job Group Services Job Group
+B.	All jobs classified in Job Class 3 and below will be in the labour pools.
+C.	In the event of job posting, layoff or recall, the Department Labour Pools will constitute a common pool called the General Labour Pool.
+8.05	The Company shall post new continuous service lists, based upon the records of the Company as of each April 1 and October 1, setting forth the date of continuous service with the company and the date of continuous service in the lines of promotion for each employee who has attained such continuous service. The employees shall be listed in the order of the dates of their continuous service. When posted, copies of such lists shall be given to the Union.
+8.06	An employee who believes that his continuous service date or his relative position on a continuous service list is incorrect shall notify the Human Resources Department in writing within four (4) weeks following the date the list is posted. Any error will be corrected and the affected employee so notified. If agreement cannot be reached as to the correctness of a date shown, or as to the employee's relative position on a list, the affected
+14
+employee may file a grievance directly at Step 2 of the Grievance Procedure. Such grievance must be filed within forty (40) days of the date that the continuous service lists are posted.
+8.07	An employee who is off work on the date a continuous service list is posted shall be entitled to protest a date shown for him or his relative position on the list and to file a grievance if the matter is not satisfactorily resolved, providedthat such grievance is filed within thirty (30) days following his return to active employment with the Company.
+8.08	Following settlement of any grievance under the provisions of section 8.06 and 8.07 and where no protest has been made, the continuous service lists shall be considered binding. The posting of subsequent lists shall not serve to open any question as to the validity of any preceding lists.
+TERMINATION
+8.09	An employee shall be terminated for any of the following reasons:
+A.	Quit;
+B.	Discharge;
+C.	Retirement:
+D.	Absence without permissionfor a period of three (3) consecutive scheduled shifts of work, which shall be construed as a quit as of the day before the commencement of such absence, unless reasons which prevented the employee from requesting permission for such absence are judged valid by the Company;
+15
+E.	Absence due to non-compensable disability:
+1.	For a period in excess of 3 years in the case of an employee having less than 3 years of continuous service at the time of the disability.
+2.	For a period in excess of his length of continuousservicefor an employee having 3 years to 5 years of continuous service at the time of the disability.
+3.	For a period in excess of 5 years for an employee having more than 5 years of continuous service at the time of the disability.
+F.	Absence due to layoff:
+1.	For a period in excess of 3 years in the case of an employee having less than 3 years of continuous service at the time of layoff.
+2.	For a period in excess of his length of continuousservicefor an employee having 3 years to 5 years of continuous service at the time of layoff.
+3.	For a period in excess of 5 years for an employee having more than 5 years of continuous service at the time of layoff.
+G.	Failure to notify the Company within five (5) days of receipt of notice of recall, sent by registered mail to the employee's last address on record with the Company, of his intention to return from layoff or, having so notified the Company, failure to return
+16
+\s
+to work within twelve (12) days following receipt by the Company of the notice that he intends to return to work.
+ESTABLISHING LINES OF PROMOTION
+8.10	Promotional lines as referred to in Section
+8.03	are intendedto provide channels for purposes of promotion and demotion giving consideration to logical work relationships. It is the objective that each job in a line of promotion will provide opportunities for each employee to receive on-the job training and prepare themselves for the job immediately above in that line of promotion. Where possible, without conflicting with the foregoing objective, the jobs within these lines of promotion shall be in ascending order of standard hourly wage rates.
+8.11	If new jobs are established, the Company shall place them in the most appropriate Department Job Group, or if more appropriate, establish a new Department Job Group. In the event the C.W.S. Committee cannot agree on the placement of jobs in the lines of promotion, the Union may file a grievance at Step No. 2 of the Grievance Procedure within fifteen (15) days of the date the C.W.S. Committee declares that it is unable to reach agreement.
+PROMOTION
+8.12	For the purposes of promotion, the following factors will be considered:
+A.	Length of continuous service,
+B.	Physical fitness,
+C.	Ability to perform the job concerned.
+17
+If two or more employees meet the Company’s requirements in factors B) and C) then A, length of continuous service, shall govern.
+8.13	A. Vacancies resulting from termination in
+accordance with Section 8.09, permanent promotion or demotion and the creation of new jobs shall be considered as permanent.
+B.	Vacancies resulting from absenteeism, illness, injury, suspension or leave of absence will be considered as permanent if they last longer than (15) fifteen shifts.
+C.	Vacancies such as those in B preceding, which last less than fifteen (15) shifts, vacancies which are caused by annual vacation and those which exist while permanentvacancies are being filled, shall be considered as temporary.
+D.	An employee whose absence has created a permanent vacancy shall be placed in his former job on his return.
+8.14	When there is a requirement for more employees than have been scheduled on a shift, employees of the classifications, who regularly perform the work involved, will first be given the opportunity to perform the work.
+8.15	If the Company decides to fill a permanent vacancy, such vacancy shall be filled, by an employee capable of doing the job, in the following order of priority:
+A.	By recall to the job, in which the vacancy exists, of the employee having the most job continuous service in the job and who
+18
+was reduced from that job or from any other equal or higher job in that line of promotion, providing he is not already in that line of promotion in an equal or higher rated job, or if none:
+B.	By the employee with the most Company continuous service currently in a job of
+equal classification in the same line of promotion and who has expressed his desire to fill such vacancy by completion of a form, furnished by the Company, or who is in a job directly below in the same line of promotion, or who has been reduced from a job directly below in the same line of promotion, of if none by the employee with the most Company continuous service, in the next successively lowerjob in such line or who has been reduced from it, or if none;
+C.	By job posting under the provisions of Section 8.18, except that a vacancy in a labour pool or in a trade or craft job shall not be posted.
+When an employee who is selected to fill a permanentvacancy in accordance with B), above is prevented from starting work in his new job, because of personal reasons, the job will be filled temporarily for 45 calendardays by the next eligible employee in the line of promotion. If the employee is still unableto be assignedtothejob after45 days, the employee who has been temporarily assigned will be assigned permanently.
+8.16	An employee who is not on Mine Equipment or has not previously been trained on Mine Equipment and who believes he has the capacity and physical fitness to operate Mine
+19
+Equipment may apply in writing to the Company at any time. Applicants, who meet the Company's qualifications as listed below, will be selected for training on the basis of continuous service when the Company conducts a Mine Equipment Training Course. They must:
+A.	Hold a valid driver's license for the Province of Newfoundland.
+B.	Be at least 19 years of age.
+C.	Be in all respects physically fit to perform the work.
+An employee whose performance in such a course is unsatisfactory will be returned to his regular job and will no longer be eligible for such training. An employee who completes 50% of the Mine Equipment Training course will be required to complete the training. Upon satisfactory completion of a course, the employee will be returned to his regular job, and he will automatically be considered as having applied to fill a permanent vacancy, in the position for which he was trained, if such a vacancy is filled in accordance with section 8.15 or 8.18 within 2 years. Further, he will be selected to fill a vacancy in a position for which he was trained ahead of any employee who has not taken such course or who has not been previously assigned to that position. If he is selected to fill the vacancy in accordance with the promotion provisions of this Agreement, he will be assigned to the job.
+An employee who completes the Mine Equipment Training Course for Production Truck, Rotary Drill Operator, Shovel Operator or Mine Equipment Operator will not be required to complete one of the learner periods for either of these jobs.
+20
+The Company will endeavour to provide such training in order to have a minimum of 8 employees qualified to fill permanent vacancies on Mine Equipment, as of May 1st of each year.
+Refresher training will be provided to those employees who have successfully completed the training course and who have not had an opportunity to fill a vacancy for which they were trained for a period of two years.
+8.17	An employee who believes that he has the requisite qualifications and ability for filling a vacancy in a Trade or Craft job may make application in writing to the Company at any time, setting forth his experience, knowledge and training in relation to the trade or craft. Such applicants will be considered when the Company decides to fill such vacancies and will be selected in accordance with the provisions of Section 8.12.
+8.18	A. When it is necessary to fill a vacancy
+under 8.15 C., it will be posted for five (5) days. An employee may apply for the job on a form furnished by the Company within this five (5) day period. Within five (5) days following the posting and application period, the Company will post the name of the employee selected and no further selections will be made following the posting of the successful applicants. Saturdays, Sundays and Holidays shall be excluded from the time limits referred to in this paragraph.
+An employee not in a labour pool shall only be entitled to make application for an equal or higher rated job or, for a job which is in a line having a higher rated job than exists in his current line of promotion except that:
+21
+1.	Any employee may apply for a Helper job;
+2.	An employee may make application for any posted job if he has been permanently assigned in his current line of promotion for at least six (6) months. However, an employee who posts to a lower rated job in his current line of promotion shall then forfeit his job seniority in all jobs which are equal to or higher rated than the job to which he has posted. Also, an employee who posts to a job in another line in which he has previously establishedjob seniority will not be given credit for any previous seniority date he may have held in that job or in any equal or higher rated job in that line.
+B.	If an employee, applying for a posted job, has had no opportunity to demonstrate his ability to perform the job, his ability to absorb the training for the job, as demonstrated by his work record with the Company, shall be taken into consideration.
+C.	A copy of each job posting and the name of the applicant selected will be given to the Union.
+8.19	A. An employee selected on a job posting for a single vacancy but who, solely to meet Company needs, is unable to start work on the new job while it is being filled on a temporary basis, shall be paid at the higher of his old rate, or the rate of the new job for work performed after the commencement of the next work schedule following the date of the notice of his selection.
+22
+B. If, solely to meet Company needs, an employee selected on a job posting is unable to start work on the new job on the same date as other employees selected on the same posting, while that vacancy is being filled on a temporary basis, he shall be paid retroactivelyat the higher of his old rate or the rate of the new job for the period between his acquired job continuous service date, as defined in Section 8.02	B., and his actual
+performance of work on the newjob.
+If it is determined that the above employee will be delayed from starting work on the new job for a period in excess of three (3) weeks, then the job will be filled on a permanent basis until such time as the employee initially selected is ready to commence work on the new job. The time limit will commence with the beginning of the first work schedule following the date of the notice of his selection.
+8.20	An employee before proceeding on vacation or leave of absence not exceeding thirty-five (35) days, may make application for the job in which he is interested and which may become vacant during his absence. He shall be considered as an applicant for such job should the job be posted during his absence and provided he meets the current qualifications of the job before leaving on vacation or leave of absence.
+8.21	If no employee qualified for promotion makes application for a posted job or trade or craft vacancy, the Company shall be free to fill such job by other means.
+8.22	When the Company fills a temporary vacancy it will use it to provide training for employees in the same line of promotion and fill it in the same manner as in filling permanent vacancies
+23
+within the lines of promotion (Section 8.15B), subject to the following modifications:
+A.	A vacancy shall be filled from among employees on the shift in which it occurs;
+B.	In the event a vacancy cannot be filled from within the line of promotion, it will be filled by the senior employee from the labour pool cf the Department Job Group concerned, who is presently on the shift in which the vacancy occurred.
+If it is necessary to hold over or call out an employee, an employee in the classification where the vacancy exists, who is qualified to fill the vacant job will be held over or called out, taking into consideration the equitable distribution of overtime.
+REDUCTION AND LAY-OFF
+8.23	A. A reduction without lay-off will be effected in the following order of priority by applying job continuous service down the lines of promotion in each Department Job Group affected, resulting in each employee being:
+1.	Retained in his present job or in a job of equal classification within his line of promotion.
+2.	Reduced to a lower job in line of promotion; or
+3.	Returned if he so requests, to the highest job in another line of promotion provided his continuous service in the previous job allows him to hold that job and he is then able to perform the full requirementsof the job.
+24
+4.	Reduced to the Department Labour Pool. However, an employee in a trade or craft job may elect to be laid off rather than accept reduction to the Department Labour Pool. He will be recalled only to vacancies in his trade or in the event he has not been recalled to his trade or craft job and if he desires to return to work after a one-year period he will advise the Human Resources Department in writing as soon as possible but not less than 4 weeks before the date he desires to return to work. He will then be recalled to the Department Labour Pool, provided his seniority allows him to do so. This provision is also subject to the time limits specified in Section 8.09 R
+B. In the event of reduction with lay-off, the same procedure will be followed as in paragraphA. preceding, except that:
+1.	Each employee likely to be affected by layoff, either directly or through the exercising of his seniority by another employee, will receive a minimum notice of the layoff as follows:
+“	7 days if the employee has been recalled or
+hired for 3 months or less.
+"	14 days if the employee has been recalled
+or hired for a period in excess of 3 months.
+If such notice is not given, the Company will reimburse each employee so affected for eight (8) hours at the rate of the job from which he was reduced multiplied by the number of regular shifts during which
+25
+he would have worked had the notice been given.
+2.	A reduction as referred to in A. 4 preceding, will be to the General Labour Pool defined in Section 8.04 C. instead of to the Department Labour Pool; and
+3.	Before a reduction under B)2, preceding is made, an employee whose job continuous service enables him to retain the same job in another lineof promotion may request to be transferred to that job.
+4.	Any employee being reduced under 8.23 B.2 may exercise his company continuous service within his Department Labour Pool before proceeding to the General Labour Pool.
+C.	No employee may attain a higher job classification as a result of any reduction or lay-off procedure, except as provided in A.3, preceding, and any displaced employee must be able to perform the work in the job to which he reverts through the application of the reduction or lay-off procedure.
+D.	An employee, reduced to the General Labour Pool, may elect to be laid off instead of displacing another employee, by so notifying the Human Resources Department, in writing within forty eight (48) hours (Saturdays, Sundays and Holidays excluded) following his being notified of such reduction. Failure to so notify the Company shall be construed as his acceptance of work in the General Labour Pool.
+26
+E.	An employee will be laid off from the General Labour Pool on the basis of his length of continuous service with the Company.
+8.24	During a temporary reduction or layoff caused by circumstances beyond the reasonable control of the Company, the provisions of Article 8 will be waived for a period not exceeding three (3) days (Saturdays, Sundays and Holidays excluded). However, where practicable, senior employees in each job shall be given the opportunity to perform any available work in that job, on their shift, within their Department.
+8.25	When it is determined by the Company that a reduction or lay-off will exceed three (3) days (Saturdays, Sundays and Holidays excluded) the work force will be revised as soon as practicable in accordance with the provisions of this Article. Failure to revise the work force within five (5) days shall not be subject to grievance.
+RECALL
+8.26	A. To a vacancy in a job above a Labour Pool.
+Such a vacancy will be filled in accordance with Section 8.15 A
+B. To vacancies in the General Labour Pool. Employees on lay-off will be recalled to vacancies in this Pool in order of Company continuous service, except that employees who accept lay-off rather than displace employees in the General Labour Pool, as provided in Section 8.23 D., will not be recalled to vacancies in the General Labour Pool until all employees laid off from it have been recalled. Further, an employee reduced from a trade or craft job
+27
+and who has elected to be laid off as provided in Section 8.23 D, will be recalled only to his trade or craft job. In the event such an employee has not been recalled to his trade or craft job and if he desires to return to work after a one-year period he will advise the Human Resources Department in writing as soon as possible but not less than 4 weeks before the date he desires to return to work. He will then be recalled to the General Labour Pool provided his seniority allows him to do so. However, this provision shall be subject to the time limits specified in Section 8.09 F.
+C.	An employee recalled to work for a period of less than thirty (30) days may refuse such a recall. The employee who refuses such a recall, will retain all rights to a subsequent recal I.
+Not withstanding the provisions in paragraph 8.09 g), the employee must advise within 24 hours of his intention to accept or refuse such a recall. If he chooses to accept such a recall, he must report to work as required.
+The Company will not be responsiblefor any claims as a result of errors arising out of the administration of this Article.
+8.27	An employee who, by reason of minor disability, advancing age or other causes, is unable to maintain the necessary standard of efficiencyor safety on his job may, after discussion between the Parties, be moved to some other job for which he is qualified and be exempted from the continuous service provisions of this Article.
+28
+Article 8.23 (a) 1. (a) 2., and (a) 3. will be utilized prior to giving consideration for other jobs for which the employee may be qualified and capable of performing.
+8.28	A. An employee in a line of promotion may
+request transfer to the labour pool of his Department Job Group. If his request is approved by the Company he shall then forfeit his job seniority in all jobs in the line of promotion from which he has requested transfer.
+B. When the Company fills a permanent vacancy in a Department Labour Pool it will consider on the basis of Company continuous service, any labourer from another Department Labour pool who has expressed a preference for work in the pool where the vacancy exists except that during the peak vacation period only fifty (50) percent of the Mine Department Labour Pool vacancies may be filled in this manner.
+8.29	A. An employee may, by completion of a form
+furnished by the Company, voluntarily relinquish his eligibility:
+1.	For recall to a job outside his line of promotion from which he has been reduced.
+2.	For recall and promotion for filling permanent vacancies within his line of promotion.
+3.	For promotion for filling temporary vacancies within his line of promotion.
+29
+B.	An employee may regain his eligibility within his line of promotion by application on a form provided by the Company, not less than thirty (30) days after his voluntary relinquishment. Eligibility for filling temporary vacancies shall be effective immediately on the Company's receipt of such an application; eligibility for promotion for filling permanent vacancies shall be regained thirty (30) calendar days after receipt of the application.
+C.	An employee who relinquishes his right to recall in accordance with this Article shall lose seniority in that job and in all other equal or higher jobs in that line of promotion.
+An employee who has not voluntarily relinquished his eligibility in accordance with (A) above at the time a vacancy is being filled, shall be considered eligible to fill such a vacancy and will be promoted in accordance with 8.15 A and B.
+8.30	Except as provided for in this Article, no employee may displace another.
+ARTICLE 9
+ADJUSTMENT OF GRIEVANCES
+9.01	The purpose of this Article is to establish procedure for discussion and prompt settlement of grievances related to the application and interpretation of the provisions of this Agreement.
+9.02	The Union may select a Union Grievance Committee composed of one Committeeman for each twenty-five (25) regular bargaining unit employees. The Union shall immediately advise the
+30
+Company in writing of the names of those selected and of any changes that may occur. Not more than two Grievance Committeemen may act on the Union Grievance Committee at Step No. 1 and no more than three (3)at Step No. 2 of the Grievance Procedure.
+9.03	It is the purpose of this Article to settle complaints promptly and no grievance will be processed if the event or circumstances on which it is based occurred or originated more than seven (7) days prior to the time the grievance is first presented in writing except in the event of a suspension. In the event of a suspension a grievance will be processed if it is presented within five (5) days of the return to work of the employee who was suspended. A grievance protesting a suspension of ten (10) days or greater that is appealed to arbitration within the specified time limits shall have the same priority as a discharge as outlined in Paragraph 3 of Article 11.04
+9.04	Any employee who believes that the Agreement has been violated with respect to him shall discuss his complaint with his Foreman, accompanied by a Grievance Committeeman, if he so desires, and there shall be no deduction from their pay for time spent in such discussion. Recognizing the importance of full discussion between the Foreman and the employee in clearing up misunderstandings and preserving harmonious relations, every effort shall be made at this point to settle the complaint. Should the employee feel that his complaint has not been satisfactorily resolved after he has discussed it with his Foreman, he may request and shall receive from his Foreman a signed “Record of Complaint” form in duplicate.
+31
+STEP NO. 1
+No earlier than twenty-four (24) hours following receipt by the employee of the “Record of Complaint” form, his complaint may become a grievance and be presented to the aggrieved employee's Department Head in writing, clearly stating the violation being alleged and the adjustment requested. A grievance shall be on a form provided by the Company and shall be signed by the aggrieved employee and by a Grievance Committeeman along with a copy of the “Record of Complaint” form. The Department Head and/or his representatives shall meet with the Grievance Committeeman within five (5) days following receipt of the grievance.
+If the circumstances so warrant, the Foreman and/or the grievor may be present.
+The Department Head's decision shall be given in writing and a copy thereof returnedto the Grievance Committeeman within seventy-two (72) hours after the Step No. 1 meeting. If no appeal is taken from the Department Head‘s decision within the time limit set forth below, the grievance shall be considered settled on the basis of the Department Head's decision.
+STEP NO. 2
+If the Department Head's decision is judged to be unsatisfactory, it may be appealed by the Grievance Committeeman within five (5) days of its receipt. The appeal shall be made by completing the grievance form and mailing it to the Company using the official notice procedure set forth in Article 19.
+The Resident Manager and/or his representatives shall meet with the GrievanceCommitteeman within ten (10) days following receipt of such appeal to
+32
+discuss the grievance. A representative cf the International Union may attend the meeting and witnesses either Party may require may be heard.
+Within seven (7) days, the Resident Manager's decision shall be given in writing to the Union, unless a definite date for decision is mutually agreed upon. If no appeal to Arbitration is taken from the Resident Manager's decision within the time set forth in Article 10, the grievance shall be considered settled on the basis of the Resident Manager's decision.
+9.05	The Grievance Procedure may be utilized by the Union in processing a grievance which is not a personal grievance and which alleges a violation or misinterpretation of this Agreement. Such grievances may be introduced at Step No. 2 of the Grievance Procedure. In processing such a grievance, the Company and the Union shall observe the specified time limits in appealing and answering.
+9.06	Saturdays, Sundays and Holidays recognized herein shall not be included when determiningthe time within which any action is to be taken under Articles 9, 10, or 11. Any and all time limits fixed by this Article or Articles 10 and 11 may be extended by mutual agreement in writing between the Company and the Union. Any grievance not answered by the Company within the prescribed time limits may be appealed by the Union to the next step.
+9.07	Grievance meetings will be held during working hours and neither a Grievance Committeeman nor a grievor will suffer any loss of pay for attendance.
+33
+To attend a Grievance Meeting within his working hours a Grievance Committeeman or a Grievor must obtain permission from his Foreman to leave his work. Such permission will not be refused arbitrarily. Time spent in scheduled Grievance Meetings with the Company during a Committeeman’s or a Grievor’s regular scheduled shift shall be considered as time worked for the purpose of computing overtime.
+When Step 1 and 2 Grievance Meetings are scheduled outside or go beyond the regular scheduled shift of the Grievance Committeeman referred to in 9.02, he shall be paid one (1) hour at straight time rates for such attendance in addition to hours lost during his regular scheduled shift.
+9.08	When an employee completes one (1) year of active service free of any written disciplinary action, his official previous disciplinary record maintained in the Human Resources Department will not be referred to or considered in establishing any future discipline for him.
+When an employee has been disciplined, the Human Resources Department will, upon request, inform the Union President, or the Grievance Committeeman involved of the employee's disciplinary record.
+When an employee has been disciplined, the Human Resources Department will send copies of all such written discipline to the Union.
+9.09	If the facts alleged in a grievance involving a number of employees are identical and the remedy sought is the same, a decision on the grievance of one of the employees involved will be applied to all who are entitled, at that time, to such a decision without the necessity of each filing an individual grievance.
+34
+9.10	When the Company has established that an infraction has been committed by an employee and that disciplinary action is warranted, he will be disciplined within five (5) working days.
+ARTICLE 10 ARBITRATION
+10.01	A grievance concerning the interpretation or alleged violation of the Collective Agreement, which has been properly carried through all the steps of the grievance procedure described in Article 9 and which has not been settled, may be referred to Arbitration within twenty-one (21) days following the Company's Step No. 2 answer. The grievance shall be referred to Arbitration using the procedure covering official notices set forth in Article 20.
+10.02	Within ten (10) days following receipt of notice that a grievance has been referred to Arbitration, the Parties can agree on the choice of an Arbitrator. If agreement is not reached within this ten (10) day period, the designation of the Arbitrator shall be by rotation from the following roster:
+1. Mr. D. Alcock	2.	Mr.	D. Brown
+3. Dr. I. Bruce	4.	Dr.	L. Harris
+5. Dr. J. Scott	6.	Mr.	W. Thistle
+10.03	Should a person selected in rotation from the panel be unable to act for any reason, he shall not be asked again until his name comes up again in the normal rotation order unless mutually agreed upon in accordance with the provisions of Section 10.02.
+10.04	Should the preceding methods of selecting an Arbitrator fail, the Minister of Labour of the
+35
+Government of Newfoundland and Labrador will be asked to nominate one.
+10.05	Upon thirty (30) days written notice, the Company and the Union shall each be entitled to strike one name from the Panel of Arbitrators during the term of this Agreement.
+10.06	Two (2) or more grievances may be presented to an Arbitrator if the Company and the Union mutually agree.
+10.07	Arbitration hearings shall be held in Wabush unless some other place is mutually agreed between the Parties.
+10.08	Arbitration hearings shall be held within thirty (30) days following notice to the Arbitrator of his selection and if further hearings are required they shall be held within thirty (30) days following the last meeting. The decision of the Arbitrator shall be forwarded to the Parties within thirty (30) days following the last day of the Arbitration hearing. These time limits may be extended by mutual agreement between the Parties.
+10.09	The decision of the Arbitrator shall be binding on both Parties.
+10.10	The Arbitrator shall have jurisdiction and authority only to interpret and apply the provisions of this Agreement so far as shall be necessary to the determination of the grievance and shall not have any power to alter or change in any way the provisions of this Agreement or to substitute any new provisions for any existing provisions; nor to give any decision inconsistent with the terms or provisions of this Agreement; nor shall any past practices or customs become binding unless they are in writing between the Company and the Union.
+36
+10.11	No award in Arbitration shall be retroactive beyond fifteen (15) days prior to the date the grievance was first presented in writing. The Arbitration shall have authority to modify the penalty in a grievance involving the suspension of an employee, but shall have no authority beyond that provided for in Article 11 in a grievance involving discharge.
+10.12	The Parties will jointly bear the expenses of the Arbitrator.
+10.13	No person shall be selected as Arbitrator who has been directly involved in attempts to settle the grievance.
+ARTICLE 11 DISCHARGE CASES
+11.01	An employee who is discharged shall be so notified in writing by the Company. If the employee considers he has been discharged for other than just and reasonable cause he may request a hearing with the Department Head, or his designated representative within forty-eight (48) hours of receipt of such notice of discharge.
+11.02	A hearing will be held within three (3) days following receipt of the request referred to in Section 11.01 and within three (3) days after such hearing, a decision as to whether the discharge shall be upheld, modified or revoked shall be rendered in writing by the Company. The employee may be accompanied at the hearing by a Union Grievance Committeeman and/or representative of the International Union if he so desires.
+11.03	Within three (3) days following receipt of the Company's decision, the employee, may, if he
+37
+considers that he has been unjustly discharged, file a written grievance commencing at Step No. 2 of the Grievance Procedure which will be heard within three (3)days.
+11.04	If the discharge is appealed to Arbitration,
+the Arbitrator will have full jurisdiction to uphold or reject the discharge or to reduce the discharge to a suspension and to fix the duration of the suspension. If the Arbitrator rejects the discharge or reduces it to a suspension, the employee shall be reinstated and paid for time lost since the date of discharge or for the period of time not covered by the suspension but in no case shall this period exceed 180 working days, to which shall be added any number of days that the Arbitration was delayed by request of the Company or from which shall be subtracted any number of days that the arbitration was delayed by request of the Union. Such payment shall be the difference between the amount of money actually received by the employee for work performed by him in each week during the period that he was Off work due to discharge and the amount that he would have received for each such week for regularly scheduled work had he been continued at work in the job classification that he held at the time of his discharge.
+To the extent of time an employee is compensated by the Company in accordance with the provisions of the foregoing paragraph, he shall be paid NorthernAllowance, C.O.L.A., Holidays as provided for under Article 16, for which he would have qualified had he not been discharged.
+A grievance protesting a discharge that is appealed within the specified time limits to arbitration shall have priority over other grievances previously appealed to arbitration unless the Parties mutually agree otherwise.
+38
+ARTICLE 12
+HOURS OF WORK, OVERTIME AND ALLOWED TIME
+12.01	This Article is intended solely to define the normal hours of work and shall not be construed to be a guarantee of hours of work per day or days of work per week.
+12.02	For the purpose only of computing overtime and not as a limitation upon the scheduling of employees for work, the work week shall be a period of seven (7) consecutive days commencing with the beginning of the day shift on Monday and the work day shall be a period of twenty-four (24) hours commencing at the beginning of the day shift.
+12.03	A. The normal week shall consist of five (5)
+days, of eight (8) hours each, establishing a normal work week of forty (40) hours.
+B.	As far as is practicable in accordance with good operating procedures, the Company will endeavour to schedule employees, who are not on a rotating shift basis, to work a five (5) day work week scheduled Monday through Saturday and will schedule all employees so that their days off are consecutive.
+12.04	Daily hours of work shall be consecutive and a lunch period, not to exceed twenty (20) minutes, shall be considered as time worked. Where required, the employee shall eat on the job and the Company shall not be obligated to provide a relief man for such time. An employee who works more than two (2) hours beyond his regular shift will be provided with a hot meal and the time to eat it
+39
+(not to exceed twenty (20) minutes) will be considered as time worked.
+12.05	Weekly work schedules shall be posted no later than noon, Thursday, of the preceding week and no changes shall be made in such schedules solely for the purpose of avoiding the payment of overtime rates. If it is later necessary to change his schedule, without having given him at least twenty-four (24) hours notice of the change, an employee will be paid at the rate of double time for hours worked on the first shift of the changed schedule.
+12.06	Overtime at the rate of time and one-half will be paid for hours worked in excess of eight (8) consecutive hours or hours worked in excess of forty (40) in any work week or on an employee's scheduled days off. Overtime at the rate of double time will be paid for hours worked in excess of twelve (12) consecutive hours.
+Work scheduled and performed on Sunday will be paid for at the rate of time and one-half. Work performed on Sundays in excess of eight (8) hours or in excess of forty (40) straight time hours in the work week will be paid for at double time.
+Any period of overtime which ends with an incomplete half (1/2) hour, that portion of the half (1/2) hourwill be roundedto afull half (1/2) hourfor pay purposes.
+12.07	Any time paid for at overtime rates in any work day shall not be used to compute overtime for the work week. To the extent that hours are compensated for at overtime rates under one provision they shall not be considered as hours worked in determining overtime under the same or any other provision of this Agreement.
+40
+12.08	Overtime rates shall not apply to time worked by an employee in excess of his regular work day or work week because of a change of shift granted at the employee's request.
+12.09	An employee who reports for work as scheduled without having been notified not to report, and for whom no work is available will be allowed four (4) hours pay at the rate of the job for which he was scheduled to report.
+12.10	An employee who reports for and actually performs work as assigned on a scheduled shift will be paid for at least four (4) hours, eight (8) hours if he works more than four (4) hours, at the rate of pay for the job for which scheduled unless he is assigned to a higher rated job in which event he will be paid at the rate of the job performed.
+12.11	Provisions 12.09 and 12.10 shall not apply if the work is not available due to causes beyondthe reasonable control of the Company and hours, paid for but not worked under these provisions, shall be considered as hours worked for the purpose of computing overtime.
+12.12	A. An employee requested to return to work
+for a full extra shift after having left the property and with at least four (4) hours prior notice, and who reports for such work and works as assigned, will be paid at the overtime rate of time and one-half or at the appropriate Holiday or Sunday rate, where applicable, for all hours so worked and shall be given the opportunity to work at least eight (8)hours.
+B. An employee requested to return to work, after having left the property, other than for his scheduled shift, with less than four (4)
+41
+s°
+hours prior notice or for less than eight (8) hours work, and who reports for such work and works as assigned, will be paid at the overtime rate of double time and for at least three (3) hours for such extra work. Upon being requestedto return to work the employee will be informed of the work to be performedand the work requiredwill be confined to work necessitated by the callout. At the completion of said work, the employee, at his discretion, may leave the job or, if he agrees, be assigned to other work, in which case he will continue to be paid at the rate of double time for so long as the extra work continues, or to the commencement of his scheduled shift.
+C.	An employee required to return to work after having left the property, other than for his scheduled shift due to an emergency will be paid at the overtime rate of double time and for at least three (3) hours for such work. The nature cf the emergency work will be made known to him and he will not be assigned to other work. For purposes of the Section, “emergency work” is defined as that required by a breakdown of equipment or facilities that will affect the continuity of operations, or other unusual circumstance, such as storm, fire or power failure.
+12.13	A period of five (5) minutes will be allowed at the end of an employee's shift for putting away tools, cleaning work area, washing up and doing other tasks incidental to finishing work, except an employee on continuous operations must remain on the job until properly relieved or if he has expressed the desire to be relieved, for a maximum of two (2) hours.
+42
+12.14	Overtime will, as far as practicable, be equitably distributed among the employees in the department who normally perform the work. A record of overtime hours offered in each department will be available for inspection in the Foreman's office and will be sent to the Union at least once every two (2) months. An employee will be charged with overtime work refused, unless given less than one (1) hour's notice of availability of overtime work. Overtime will be worked on a voluntary basis provided that operating requirements are met. However, if an insufficient number of employees accept overtime work, employees with the least Company continuous service shall be assigned.
+12.15	An employee, notified during a shift that he will be required to work overtime beyond the end of the shift because no other qualified employee will accept the overtime opportunitywill, if he requires it, be provided with transportation to his residence after he completes the overtime work.
+ARTICLE 13
+SHIFT PREMIUMSAND COST OF LIVING ALLOWANCE(C.O.L.A.)
+13.01	For purposes of this Article:
+A.	All shifts beginning between6:00 AM. and noon will be day shifts.
+B.	All shifts beginning between noon and 8:00 P.M. will be afternoon shifts.
+C.	All shifts beginning between 8:00 P.M. and 6:00 AM. will be night shifts.
+13.02	A shift premium of thirty (30) cents per hour shall be paid for any work performed during the afternoon shifts.
+43
+13.03	A shift premium of fifty (50) cents per hour shall be paid for any work performed during the night shift.
+13.04	Any premium pursuant to the foregoing in this Article shall be increased by reason of having been earned in overtime.
+COST OF LIVING ALLOWANCE (C.O.L.A.)
+13.05	A. For the purpose of this Agreement:
+1.	A. Consumer Price Index” refers to the
+Consumer Price Index for Canada. All items (1971 = 100), referredto hereafter as “C.P.I.” published by Statistics Canada.
+B. “Consumer Price Index Base” refers to the
+C.P.I. for the month of October, 1998 published in November 1998 at 437.7.
+2.	“Adjustment Days” will be March 1, 1999, June 1, 1999, September 1, 1999, December 1,1999, March 1,2000, June 1, 2000, September 1, 2000, December 1,
+2000,	March 1, 2001, June 1, 2001, September 1, 2001 and December 1,
+2001,	March 1, 2002, June 1, 2002, September 1, 2002, December 1, 2002, March 1, 2003, June 1, 2003, September 1,2003 and December 1,2003. The actual date of each adjustment day shall be the first day of the pay period closest to the adjustment day.
+3.	“Change in the C.P.I.” is defined as the difference between the C.P.I. Base and the C.P.I. published for the second calendar month preceding the month in which the applicable adjustment day falls.
+44
+4,	The “C.O.L.A.” is calculated as below and, except as provided in Sections D), E), and F) will be payable for the quarterly period commencing with each adjustment date.
+B.	Effective on each adjustment date, a C.O.L.A. equal to one cent ($0.01) per hour for each M .30 of a point change in the C.P.I. shall become payable for all hours worked and for any reporting allowance credited before the next adjustment date. However, such C.O.L.A. shall be reduced by an amount equal to the sum of all prior adjustments, if any, which shall have been folded in the Standard Hourly Rates or Salary Rates pursuant to the provisions of Sections D), E) and F).
+C.	Until folded into the rates pursuant to the provisions of Sections D), E) and F), the C.O.L.A. shall be an “add-on” and shall not be part of the employee's Standard Hourly Rate or Salary Rate. Until folded in, such adjustment shall be payable only for hours actually worked and for reporting allowance and shall not be included for the computation of vacation pays nor shall it be paid during vacation and it shall be excluded in the calculation of any other pay, allowance or benefit.
+D.	Effective March 1,1999, the fifty-nine ($0.59) actual C.O.L.A. accumulated under the previous agreement shall be folded into the Standard Hourly Rates or Salary Rates.
+E.	Effective March 1, 2001 an amount equal to one third (1/3) of the new C.O.L.A. float,then payable, shall be folded into the Standard Hourly Rates or Salary Rates.
+45
+F.	Effective December 31, 2003, an amount equal to one third (1/3) of the newC.O.L.A. float, then payable, shall be folded into the Standard Hourly Rates or Salary Rates.
+G.	The actual date upon which the sums mentioned in paragraphs D), E) and F) shall be folded into the Standard Hourly Rates or Salary Rates is the first day of the pay period nearest to the date cf adjustments, i.e. March 1, 1999, March 1, 2001 and in the case of the December31, 2003, the nearest pay period to that date.
+H.	Any part of the C.O.L.A. not folded in the Standard Hourly Rates or Salary Rates shall continue to be payable only for hours actually worked, and for reporting allowance and shall not be included for the computation of vacation pays, nor shall it be paid during vacation and it shall be excluded in the calculation of any other pay, allowance or benefit.
+I.	In the event that Statistics Canada does not issue the appropriate C.P.I. on or before the beginning of one of the periods referred to inA2, any adjustment required by the appropriate index shall be effective at the beginning of the next pay period after Index official publication.
+J.	No adjustment, retroactive or otherwise, shall be made due to any revision which may later be made in C.P.I. published by Statistics Canada.
+K.	The continuance of the C.O.L.A. is contingent upon the availability of the official C.P.I. from Statistics Canada in its present form and on the present basis
+46
+(1971=100), unless otherwise agreed upon by the Parties. In the event that such form or basis of the Index is changed, the Parties shall attempt to adjust this Section or, if agreement is not reached, request Statistics Canada to provide appropriate conversion or amendment which shall then be applicable as of the appropriate adjustment day and thereafter.
+L.	If the C.P.I. declines, the C.O.L.A. will be reduced or eliminated, as applicable.
+ARTICLE 14 WAGES
+14.01	The Co-operative Wage Study (C.W.S,) Manual for Job Description, Classification and Wage Administration dated July 14, 1965, hereinafter referred to as “The Manual” is incorporated into this Agreement as appendix " A and its provisions shall apply as if set forth in full herein. It is understood that inclusion of any jobs or groups of jobs in the Manual shall not of itself establish existence of such jobs in the operation of the Company and reference to clerical or technical jobs shall not establish that such jobs are within or not within the jurisdiction of the Bargaining Unit.
+Members of the Union C.W.S. Committee will suffer no loss of pay while attending meetings of the Joint
+C.W.S. Committee.
+14.02	Each job shall be described and classified and a rate of pay appliedto each employee on such job in accordance with the provisions of this Agreement.
+47
+14.03	A. Effective 8:00 A.M., March 1, 1999 the Standard Hourly Rate for Job Class 1 shall be nineteen dollars and fifty-five ($ 19.55) and the increment between succeeding job classes shall be twenty-eight cents ($ 0.28) establishing a Standard Hourly Wage as follows:
+Job	Standard	Job Standard
+Class Hourly Rate Class Hourly Rate
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12
+$19.55	13
+19.83	14
+20.11	15
+20.39	16
+20.67	17
+20.95	18
+21.23	19
+21.51	20
+21.79	21
+22.07	22
+22.35	23
+22.63	24
+$22.91
+23.19
+23.47
+23.75
+24.03
+24.31
+24.59
+24.87
+25.15
+25.43
+25.71
+25.99
+NOTE : The above includes a C.O.L.A. fold-in of $ 0,59 into the base wage rate.
+48
+B. Effective 8:00 A.M., March 1, 2000 the Standard Hourly Rate for Job Class 1 shall be nineteen dollars and seventy-five cents ($ 19.75) and the increment between succeeding job classes shall be twenty-eight cents ($ 0.28) establishing a Standard Hourly Wage as follows:
+Job	Standard	Job Standard
+Class Hourly Rate Class Hourly Rate
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12
+$19.75	13
+20.03	14
+20.31	15
+20.59	16
+20.87	17
+21.15	18
+21.43	19
+21.71	20
+21.99	21
+22.27	22
+22.55	23
+22.83	24
+$23.11
+23.39
+23.67
+23.95
+24.23
+24.51
+24.79
+25.07
+25.35
+25.63
+25.91
+26.19
+NOTE : The above includes a base rate increase of $ 0.20 per hour.
+49
+C. Effective 8:00 A.M., March 1, 2001 the Standard Hourly Rate for Job Class 1 shall be nineteen dollars and ninety five cents ($19.95) and the increment between succeeding job classes shall be twenty-eight cents ($ 0.28) establishing a Standard Hourly Wage as follows:
+Job	Standard	Job Standard
+Class Hourly Rate Class Hourly Rate
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12
+$ 19.95	13
+20.23	14
+20.51	15
+20.79	16
+21.07	17
+21.35	18
+21,63	19
+21.91	20
+22.19	21
+22.47	22
+22.75	23
+23.03	24
+$ 23.31 23.59 23.87 24.15 24.43 24.71 24.99 25.27 25.55 25.83 26.11 26.39
+NOTE : The above includes a base rate increase of $ 0.20 per hour.
+50
+D.	Effective 8:00 A.M., March 1, 2002, the Standard Hourly Rate for Job Class 1 shall be twenty dollars and twenty-five cents ($ 20.25) and the increment between succeeding job classes shall be twenty-eight cents ($ 0.28) establishing a Standard Hourly Wage as follows:
+Job	Standard	Job Standard
+Class Hourly Rate Class Hourly Rate
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12
+$20.25	13
+20.53	14
+20.81	15
+21.09	16
+21.37	17
+21.65	18
+21.93	19
+22.21	20
+22.49	21
+22.77	22
+23.05	23
+23.33	24
+$ 23.61 23.89 24.17 24.45 24.73 25.01 25.29 25.57 25.85 26.13 26.41 26.69
+NOTE : The above includes a base rate increase of $ 0.30 per hour.
+51
+E.	Effective 8:00 AM., March 1, 2003, the Standard Hourly Rate for Job Class 1 shall be twenty dollars and sixty-cents ($20.60) and the increment between succeeding job classes shall be twenty-eight cents ($
+0.28) establishing a Standard Hourly Wage as follows:
+Job	Standard	Job Standard
+Class Hourly Rate Class Hourly Rate
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12
+$20.60	13
+20.88	14
+21.16	15
+21.44	16
+21.72	17
+22.00	18
+22.28	19
+22.56	20
+22.84	21
+23.12	22
+23.40	23
+23.68	24
+$ 23.96 24.24 24.52 24.80 25.08 25.36 25.64 25.92 26.20 26.48 26.76 27.04
+NOTE : The above includes a base rate increase of $ 0.35 per hour.
+52
+TRADE & CRAFT ADDITIVE
+B.	Effective March 1, 1974, employees in the trade or craft jobs described and classified in accordance with the Manual shall receive an additive of 2 job classes.
+Effective March 1, 1990, employees in the trade or craft jobs described and classified in accordance with the Manual shall receive an additive of 2 job classes.
+Effective March 1, 1991, employees in the trade or craft jobs described and classified in accordance with the Manual shall receive an additive of 1 job class.
+Effective March 1, 1992, employees in the trade or craft jobs described and classified in accordance with the Manual shall receive an additive of 1 job class.
+Notwithstanding these additives, the following shall apply:
+1.	The description and classification of such trade or craft jobs shall be carried out in accordance with the Manual;
+2.	The additive mentioned above shall be incorporated into the total classification of the job;
+3.	Where a change in an existingjob requires a new description and classificationfor a job on which the additive has already been applied such job shall be classified in the same manner as that followed prior to the incorporation of the additive and the provisionsof 1 and 2, preceding, shall apply.
+53
+14.04	As of the dates the Standard Hourly Wage Scales become effective, the standard hourly rate for each job class shall be the standard hourly rate for all jobs classified within such job class and shall be applied to any employee in accordance with the provision of this Agreement.
+14.05	Each standard hourly rate established under Article 14.03 shall be:
+A.	The established rate of pay for all hours paid for a non-incentive job.
+and
+B.	The established hourly base rate and minimum guaranteed rate of pay under any incentive applied to the job.
+14.06	Except as otherwise provided by this Agreement, the established rate of pay for each productionor maintenance job, other than a trade or craft or apprentice job shall apply to any employee during such time as the employee is required to perform the job.
+14.07	Except as otherwise provided by this Agreement, the established rate of pay for a trade or craft or apprentice job shall apply to any employee during the time the employee is assigned to the respective rate classifications in accordance with the provisions of this Agreement.
+OUT-OF-LINE DIFFERENTIAL
+14.08	The Company shall furnish to the Union a list agreed to by the Company and the Union of employees who are to be paid “out-of-line differentials”. Such list shall contain the following information:
+54
+A.	Name and badge number of incumbent to whom such out-of-line differential is to be paid;
+B.	Job title of job on which his out-of-line differential is to be paid;
+C.	Job class of such job;
+D.	Standard hourly rate of such job;
+E.	Amount of out-of-line differential;
+F.	Date such out-of-line differential became effective.
+14.09	Except as such out-of-line differential may be changed by means hereinafter provided, any employee included in the list referred to in Section 14.08, shall continue to be paid such out of-line differential during such time as the employee continues to occupy the job for which the differential was established.
+14.10	If an employee with an out-of-line differential is transferred or assigned to a job having a higher standard hourly rate, then the differential shall be reduced by the amount of the increase in the standard hourly rate.
+14.11	If through the exercise of seniority rights an employee with an out-of-line differential is moved to a job having a lower or equal hourly rate, then the out-of-line differential is cancelled.
+14.12	If such employee referred to in Sections 14.10 and 14.11 shall be returned to the job for which the out-of-line differential was established the out-of-line differential shall be reinstated except as it may have been reduced or eliminated by other means.
+55
+14.13	When an employee would, in accordance with the terms of this Agreement, be entitled to receive his regular rate, he shall also receive any out of-line differential to which he is entitled.
+14.14	Increases in standard hourly rates which result from increases in the increment between job classes shall be used to reduce or eliminate out of-line differentials.
+14.15	Except for the application of the out-of-line differentials, as called for herein, the terms of this Agreement which govern transfers, promotions and demotions shall apply.
+14.16	In determining out-of-line differentials, no employee shall be listed as an incumbent on more than one job, unless he is regularly assigned to more than one job.
+LEARNER RATES
+14.17	Learner jobs requiring "learner" rates, due to lack of adequate training opportunity provided by the promotional sequence of related jobs, shall be negotiated and made a part of this Agreement.
+14.18	A schedule of learner rates for the respective learning periods of 520 hours of actual learning experience with the Company on jobs for which training opportunity is not provided by the promotional sequence of related jobs, shall be established at the level of the Standard Hourly Wage Scale for the respective job classes. This determination shall be on the basis of the required employment training and experience time specified in Factor 2 of the job classification record of the respective job as follows:
+A. Code C: Seven (7) to twelve (12) months:
+56
+1.	One learner period classification at a level two (2) job classes below the job class of the job:
+B.	Code D: Thirteen (13) to eighteen (18) months:
+1.	A first learner period classification at a level four (4) job classes below the job class of the job.
+and
+2.	A second learner period classification at a level two (2) job classes below the job class of the job:
+C.	Code E and higher: Nineteen (19) months and above:
+1.	A first learner period classification at a level six (6) job classes below the job class of the job;
+2.	A second learner period classification at a level four (4) job classes below the job class of the job,
+and
+3.	A third learner period classification at a level two (2) job classes below the job class of the job.
+14.19	Learner periods shall apply only to jobs in Job Class 8 and up, except where the provisions of Section 14.24 and 14.25 apply.
+14.20	The Company shall furnish the Union on the form set forth as ExhibitT” of the Manual, a list
+57
+of jobs agreed to by the Company and the Union as appropriate for the application of learner rates. Such list shall be attached to this agreement as Appendix “B” and may be added to or deleted from by mutual agreement of the Company and the Union. The schedule of learner rates set forth in Section 14.18 shall apply only to jobs in this list.
+14.21	Any employee who has qualified for a job through a learner schedule shall not be required to repeat that learner schedule.
+14.22	Employee's time spent on a job requiring a learner schedule shall be cumulative.
+14.23	The established learner rate of pay for each learner period classification shall apply in accordance with the learner training periods as defined in Section 14.18. However, an employee whose current rate of pay is higher than the minimum rate of a learner job to which he has acceded, shall maintain his current rate, but no higher than the standard hourly rate of the job being learned until such time as the rate for the applicable learner period classification is equal to or exceeds his present rate.
+14.24	The Company, at its discretion may apply a learner rate to a learner on any job where another employee other than a learner is on the job, provided the learner rate applied is:
+A.	In the case of an employee hired, for the learning job, the standard hourly rate for Job Class 2: or
+B.	In the case of an employee transferred from another job in the Plant, the lower figure of:
+58
+1.	The standard hourly rate of the job from which transferred. or
+2.	The standard hourly rate of the job being learned.
+14.25	The learner provisions set forth in Section 14.24 shall apply:
+A.	For a period of time sufficient to learn to do the job, provided that such period shall at no time exceed 520 hours;
+B.	To fill job vacancies or anticipated vacancies;
+and
+C.	In accordance with the provisions of the Collective Agreement for filling vacancies.
+TRAINING OF EMPLOYEES FOR TRADE OR CRAFT JOBS
+14.26	Employees who possess the necessary qualifications and ability shall be eligible for training for the respective trade or craft jobs. Such employees shall be selected in accordance with the provisions which apply for filling of job vacancies. Employees who meet the above criteria will be given preference over candidates outside the Company when such vacancies are filled.
+14.27	Employees training through apprenticeship courses in a given trade or craft shall commence their training at the beginning of the first 1040-hour period unless assigned to a higher 1040-hour period. Thereafter at the successful conclusion of each training period cf 1040 hours of actual training experience with the Company they shall be
+59
+advanced to the succeeding period. Each apprentice shall be paid the standard hourly rate appropriate to the period to which he is assigned.
+14.28	Employees enrolled for training through apprenticeship courses in a given trade or craft shall, upon satisfactory completion of the apprenticeship course, be assigned to the standard rate of the respective trade or craft.
+14.29	The established apprentice rate of pay for each apprentice training period classification shall apply to an employee during a period in accordance with the apprentice training periods, as provided in Section 14.27. Rate changes as determined by the apprentice training periods, shall be made at the beginning of the pay period closest to the completion of the respective training period.
+14.30	An employee's progression through the Schedule of Apprenticeship Training up to the starting rate classification for the respective trade or craft job shall be determined by his qualifications and ability, which determination shall be made at the conclusion of each training period of 1040 hours of actual training experience, in a manner that is fair, equitable and appropriate to the respective period of apprenticeship training.
+14.31	An employee training through an apprenticeship course shall be initially assigned to that period of the Schedule of Apprenticeship Training which is appropriate to his accumulated training and experience.
+14.32	Employees assigned to training through an apprenticeshipcourse in a given trade or craft shall be furnished by the Company with a list indicating the prescribed schedule of work processes and organized related instruction which apply to each
+60
+period of such apprenticeshiptraining, together with the requirement standards which must be fulfilled in order to qualify at each period of training.
+14.33	In the event an employee assigned to training through an apprenticeship course fails to qualify for progression at the conclusion of any 1040-hour training period, the Company at such time shall indicate in detail to such an employee the reason for such failure and advise and instruct such employee in an attempt to enable him to succeed at the conclusion of the next 1040-hour training period.
+14.34	In the event an employee assigned to training through an apprenticeship course fails to qualify for progression at the conclusion of any 1040-hour training period, such employee shall repeat the 1040-hour training period from which he failed to qualify.
+14.35	An employee assigned to training through an apprenticeship course who consecutivelyfails to progressatthe conclusion of two 1040-hour training periods shall be subject to removal from such apprenticeship course.
+14.36	An employee who has been removed from an apprenticeship course, as provided in Section 14.35 shall exercise any seniority rights he may have accumulated.
+TEMPORARY ASSIGNMENT
+14.37	If an employee shall be assigned temporarily for the Company's convenience to a job other than his regularjob, When work is available to the employee on his regular job, he shall receivethe established rate of pay for the job performed or for his regular job, whichever is higher. Such an employee assigned to a higher rated job during a work day will be paid at the higher rate for the
+61
+balance of that day even though he returned to his regular job during that day.
+GENERAL
+14.38	Any mathematical or clerical errors made in the preparation, establishment or application of job descriptions, classifications or standard hourly rates shall be corrected to conform to the provisions of this Agreement.
+14.39	Except as otherwise provided, no basis shall exist for an employee covered by this Agreement to allege that wage rate inequity exists.
+14.40	An employee who attends classroom training outside working hours will be paid one (1) hour at straight time rates for each hour in attendance at such formal classroom training. Such hours will not be construed as hours worked for the purpose of computing overtime. In the case of voluntary training, the Company will make every reasonable effort to schedule training on day shift or on an employee's day off.
+ARTICLE 15
+VACATIONS
+15.01	An eligible employee will receive an annual vacation in accordance with the following schedule:
+Length of
+Continuous Service
+After 1 Year After 2 Years After 3 Years After 4 Years
+Total Days of Vacation
+18
+23
+28
+33
+62
+15.02	To be eligible for vacation an employee must be actively employed by the Company since his last continuous service anniversary date, unless he has not been so actively employed because of injury or illness for which he is receiving Workmen's Compensation payments.
+15.03	Vacation pay shall be calculated by multiplying the appropriate calculation factor listed below by the employee's earnings accumulated in the last calendar year (January 1st to December 31st) prior to his vacation except that vacation pay for an employee's first vacation taken after one year of continuous service will be calculated by multiplying the appropriate factor (5.33%)by the employee's earnings accumulated during the first year of his continuous service.
+Years of	Vacation Pay
+Continuous Service Calculation Factor
+After 1 year	5.33%
+15.04	A. Vacations shall be granted throughout the year and consideration will be given to individual requests for the time that the vacation will be taken. Although the final allotment of vacation time shall be determined by the Company a Joint Vacation Committee will be established which will serve as a forum for discussion on vacation allotment, including individual requests for the time that the vacation will be taken.
+B. Employees taking annual vacation in the periods of January 16th to May 31st and October 1st to December 14th will receive
+After 2 years After 3 years After 4 years
+63
+an Annual Vacation Bonus of $55.00 per week or $7.86 per day. This bonus shall not be considered as earnings in calculating the amount of any other employee benefit. Effective March 1, 1982 the above rates are increased to $110.00 per week or $15.71 per day.
+15.05	It is the desire of the Company and the Union that every employee entitled thereto shall receive a vacation. An employee shall not be entitled to any payment in lieu of a vacation unless the Company, due to operating requirements and employment conditions, shall arrange, with the consent of the employee, that he shall not take such vacation or portion thereof in which case the Company shall pay to him an allowance equivalent to his vacation pay in lieu of such vacation.
+15.06	An employee, eligible for vacation pay, will receive such pay when he/she is laid off, if he/she so requests, or ten (10) days before proceeding on authorized vacation unless he/she has requestedto have it included as regular pay and paid each pay period while on vacation.
+15.07	An employee with less than a full year's service since his last anniversary date will, upon termination of employment, receive four (4) percent of his earnings since his last anniversary date.
+15.08	In consideration of the fact that no road connects Wabush with a Provincial Highway System, the Company will, once per an employee's vacation anniversary year, at the time of annual vacation, provide free rail transportation to Sept-lles and return:
+A. For him and his immediate family, and
+64
+B. For his motorcycle or car and attached trailer or camper or boat on trailer. Size and or weight limitations for these attachments will be established by the Company on a reasonable basis, e.g. not to exceed 28’ in length.
+The Company will require adequate proof of transportation of an employee and his family. Provisions for the transportation referred to in B) precedingwill depend upon proof of shipment either at the time of the employee's travel or at the time of his family's travel if he has taken vacation prior to his family's vacation, but has not then shipped his automobile and/or attachments. If the employee does not request the benefit outlined in A above at the time of his Annual Vacation, he may do so at any time during his anniversary year.
+An employee who does not transport his automobile and/or attachments from Wabush to Sept-lles but who transports them from Sept-lles to Wabush on his return from authorized annual vacation will also be eligibleto receivefree rail transportation for them to Wabush.
+In addition to the benefits outlined above, an employee may obtain a second voucher in any anniversary year for the purposes of transporting either his motorcycle or car or boat or snowmobile with sleigh to Sept-lles and return.
+15.09	Once in each year in which he is eligible for vacation, the Company will provide free air transportation from Wabush to St. John’s and return, or its equivalent in cash to each employee and dependent members of his immediate family (over the age of 2) residing in Wabush. Dependent members of his immediate family will be defined as wife and not fully employed children (under 18 or
+65
+who are full time students under 24). This will be provided at the time he takes his vacation and, in the case of the cash equivalent, if the employee fails to return to work from vacation, half will be repaid by the employee.
+The spouse of an employee who marries, while on vacation, at a location at least as far distant as Sept-lies, will be provided with free air transportation or its equivalent in cash from St. John’s to Wabush.
+No person is entitled to more than one (1) benefit under this Section in any calendar year.
+VACATION EXTENSIONS
+15.10	Each employee shall be entitled to an extension of five (5) weeks to his next regular vacation taken following completion of his first five (5)years of continuous service and an extension of nine (9) weeks to his next regular vacation taken following completion of his next five (5) years of continuous service and nine (9) weeks to his next regular vacation taken following any subsequent additional five (5) years of continuous service thereafter.
+For the second and each subsequent year of service completed after March 1, 1979, and for which an employee receives an annual vacation pay, extended vacation pay will be increased by a 20-hour Service Bonus. Such Service Bonus will be paid at the same time as extended vacation and at the standard hourly rate of the regular job held at each service year anniversary date in the applicable period of years preceding the date Extended Vacation is paid.
+15.11	Vacation Extensionpay shall be calculated by multiplying the appropriate calculation factor
+66
+15
+listed below by one-fifth (1/5) of the employee’s earnings accumulated during the five (5) year period of qualification for the Vacation Extension.
+Continuous Service Calculation Factor
+After each five (5) Years in Excess of ten (10) Years	18.65%
+An employee may request his extended vacation pay at the time he becomes eligible to receive it and defer the taking of a portion or all of his extended vacation days. However, the employee must advise the Company of his intentions and the vacation extension days will be scheduled in accordance with the provisions of 15.12.
+15.12	An employee's Vacation Extension shall be added to and taken with the first regular vacation following the completion of the five (5) year period entitling him to the Vacation Extension. However, if operating requirements warrant it, the Company may schedule such extension in the year following entitlement. Further, the Company will consider a request for the taking of any portion of the Vacation Extension up to a maximum of two periods during the period following entitlement to it and before his next entitlement for Vacation Extension is established.
+15.13	An employee who would otherwise be entitled to a Vacation Extension in any year may, at the time vacation allotments are established and with the permission of the Company, refuse one or more week(s) of such Vacation Extension and continue to work as scheduled. In this event, he shall be paid for such refused Vacation Extension
+Years of
+Vacation Extension
+After 5 Years After 10 Years
+67
+weeks as though he had taken such weeks as vacation.
+15.14	An employee on layoff shall receive any Vacation Extension to which he is entitled upon completion of the required number of years of continuous service.
+15.15	In the event of his termination of employment, an employee will receive any Vacation Extension to which he is then entitled.
+ARTICLE 16 HOLIDAYS
+16.01	Each employee shall receive, for any of the holidays set forth in Section 16.02, a holiday allowance equal to the number of hours in the normal work day at the time the holiday is observed times the straight time hourly rate which he received, or would have received had he worked, on such holiday, providing the following criteria are met:
+A.	The employee is not absent without permission on his last scheduled working day preceding and his first scheduled working day following the holiday, unless reasons for such absence are judged valid by the Company.
+B.	He performs work or is on vacation in the pay period in which the holiday is observed.
+16.02	Whenever used in this Agreement, the term “holiday” means one of the following days:
+68
+New Year’s Day St. Patrick’s Day Good Friday Christmas Day Victoria Day
+Labour Day Remembrance Day Day After Christmas Day Dominion Day Civic Day*
+* The Union will give 30 days notice of the date of observance but not later than June 15th of each year. Otherwise the Company will set the date. The holiday will not be scheduled in any week when another holiday is scheduled in that same week.
+16.03	In addition to holiday allowance provided in 16.01, the employees who are required to work on a holiday shall be paid, in addition to the shift premiums provided by this Agreement, as follows:
+150% of their regular rate for the first 8 hours;
+200%of their regular rate for the next 4 hours;
+250% of their rate for all hours worked in excess of 12.
+However, in the event an employee would earn a higher rate of pay for such hours worked, under another provision of this Agreement, he shall be paid that higher rate in lieu of the rates provided in this Section.
+16.04	Hours for which holiday allowance is paid shall be considered as hours worked only to make the hours actually worked after the holiday within the work week eligible for overtime. If the Holiday falls on a day following the last day worked by the employee in the work week, the holiday allowance hours shall not be considered as hours worked for the purpose of computing overtime.
+69
+16.05	Any employee who is instructed to work on a holiday and fails to do so shall not receive holiday allowance.
+ARTICLE 17
+SAFETY AND HEALTH
+17.01	The Company will make reasonable provision for the safety, health and hygiene of employees during working hours and will continue its present practice of supplying protective clothing and safety accessories when required in order to adequately protect employees from injuries and industrial disease in accordance with recognized present efficient practices or any improved method which could be instituted from time to time by the Company or following recommendations from the Joint Occupational Health and Safety Committee.
+17.02	The Company, the Union and the employees recognize their obligations and rights under existing law with respect to matters of safety and health at work. The Company and the Union will cooperate in the objective of eliminating accidents and health hazards and in promoting the observance of safety rules and policies.
+The Parties recognize that it is the responsibility of the Company to make necessary provisions for the safety and health of its employees at work.
+17.03 The Company recognizes a Joint Occupational Health and Safety Committee comprised of six (6) members named by the Company and six (6) employees named by the Union, the latter to represent the following Departments:
+70
+Services -	1 Electrician
+Concentrator -	2 Members
+Mine -	2 Members
+"	1 Chairman
+The Union shall inform the names of the employees appointed by the Union, one of whom will be the Chairman of the Employee Health and Safety Committee. The Company shall inform the Union of the names of the Members appointed by the Company to the Joint Occupational Health and Safety Committee.
+For each Department named there may be an employee alternate who may act in the absence of one of the regular employee members.
+17.04	A. Once each month the Joint Occupational Health and Safety Committee shall meet to carry out its function which shall be to study and make recommendations for the promotion of the health and safety of employees; to consider existing practices and rules relating to safety and health; to review and revise proposed new safety and health programs; to review accident statistics, trends, frequencies, causes and the way to prevent same, as well as dust sampling, toxic gases, exhaust fumes, hazardous chemicals, heat problems and noise level reports; to review the findings of the monthly inspection tour and discuss any item which may appear on the meeting agenda. The Company will provide the Chairman of the Employee Health and Safety Committee with minutes of the monthly meeting within forty-eight (48) hours (excluding Saturdays, Sundays and Holidays) following this meeting.
+71
+B. Should particular circumstances arise which require attention before the next regular meeting of the Joint Occupational Health and Safety Committee, the Employee Safety Committeeman of the Department involved may request a special meeting with his Department Head. The Department Head, or his Representative, and a Representative of the Safety Department shall meet with the Employee Safety Committeeman who has requested the meeting and who may be accompanied by the Chairman of the Employee Safety Committee or his designee in order to discuss and to solve the problem and if required, proceed to an inspection of the area involved.
+17.05	A. Should an employee believe that there exists an unsafe, unhealthy or dangerous condition with respect to the area in which he is working, other than the normal hazards in his work or working area, he shall have the right to stop working and he shall immediately report the condition to his foreman who shall immediately investigate the condition and take steps as appear necessary to correct it.
+B.	If the employee is not satisfied with the decision of his foreman, he shall have the right to be relieved from his duty in respect of which he has complained, and he will be assigned to another job.
+C.	As soon as possible, the Foreman involved will inform his superior who will call two (2) representatives of the Joint Occupational Health and Safety Committee (the Employee Safety
+72
+Committeeman of the Department concerned and a Representative of the Company Safety Committee) in order to inspect the alleged unsafe condition.
+D.	If the two (2) representatives agree that the conditions were in fact unsafe, the employee shall not be reassigned to the job until such unsafe condition has been remedied.
+E.	If the two (2) representatives disagree as to the safety of the condition, the Union shall have the rightto present a grievance at Step 2 of the Grievance Procedure as set out in Article 9 or request appropriate governmental intervention. The employee shall also have the rightto file a grievance at Step 2 of the grievance procedure for wages he claims to have lost as a result of the alleged unsafe condition.
+F.	Pending resolution of the matter, the Company may offer the work in dispute to other Bargaining Unit Employees, provided they are advised of the prior refusal. If these other employees refuse to perform the work in dispute, the Company retains the right to have the work performed.
+G.	Following the final decision on the matter, the Company may take disciplinary action against the employee who abuses his rights under this Article.
+17.06	The schedule of monthly inspection tours prepared by the Safety Department will be presented to the Joint Occupational Health and Safety Committee at the regular monthly meeting.
+73
+The Employee Safety Committeeman for the area, along with the Electrical Safety Committeeman when required, will be invited to accompany the Safety Inspector who conducts the inspection of his particular area. After the tour, a copy of the Safety Inspector's Report will be given to the Safety Committeeman.
+17.07	Time spent by a member of the Employee Safety Committee in attending a meeting of the Joint Committee, inspection tours or investigations as providedfor under 17.04,17.05,17.06 and 17.08 during his schedule hours of work, will be considered as time worked. A member of the Employee Safety Committee who participates in such activities outside his scheduled hours of work or an employee requested by the Company to act as a witness at an accident investigationoutside his scheduled hours of work, will be paid for time so spent, to a maximum of four (4) hours, at his straight time hourly rate.
+17.08	A. When the Company conducts a formal
+investigation into a lost time or potentially serious accident, the Chairman of the Employee Safety Committee or the member representing the Department involved shall be advised and may participate.The Chairman of the Employee Safety Committee may visit the scene of the accident with the Resident Supervisor - Safety or his designee. Copies of the report of the above investigation will be given to the Employee Safety Committee or the member representing the Department involved of the aforementioned accident within seventy-two (72) hours (excluding Saturdays, Sundays and Holidays).
+74
+B. When the Company conducts an immediate investigation into an accident in which an employee has sustained personal injury, the Chairman of the Employee Safety Committee, or in his absence the Union President and the member representing the Department involved, will be invited to be present.
+17.09	The Company will continue its scheduled periodic in-plant sampling and noise testing. Results of these samplings and tests will be presented and discussed at the Joint Occupational Health and Safety Committee Meeting. When the Chairman of the Employee Safety Committee or his designee following representation from the area Employee Safety Committee Member alleges a significant on job health hazard due to air pollution, or noise, he or his designee may request that additional samplings or tests be taken and may be present for such additional samplings and tests if so requested. Special reports based on such additional samplings and tests shall be given him for discussion and study at the Joint Occupational Health and Safety Committee Meetings. In the case where the Company uses radiation devices or materials of known toxic value, special measures shall be taken so that the Union and all employees involved in their usage or having to work in proximity be fully informed as to the necessary precautions to be taken to ensure their safety and health.
+17.10	The existing safety devices and practices of the Company for the purpose of protecting the employees from injury, accident, or unhealthful conditions of work during their working hours shall be continued subject to such improvement or changes as the Company from time to time may deem advisable. The Employee Safety Committee
+75
+may make any recommendations it deems appropriate relative to improvements or changes to such safety devices and practices.
+When the Company introduces new personal protective apparel or extends the use of protective apparel to new areas or issues new rules relating to the use of protective apparel, the matter will be discussed by the members of the Joint Occupational Health and Safety Committee in advance in order for the Committee to form an opinion as to the adequacy of the protective apparel and with the objective of increasing cooperation.
+17.11	The Company will pay the cost of providing safety glasses for an employee who requires corrective lenses. Such glasses must be ordered through the Company and shall be to Canadian Standards Association approved specifications.
+When an employee's corrective safety lenses become pitted, scratched or otherwise damaged on the job, to a point where wearing of them would represent a danger to him, the glasses, to the extent necessary, will be replaced on the following basis:
+A.	The Company will pay the full replacement cost but not more than once every six (6) months;
+B.	The	Company will pay half the
+replacement cost when new lenses are required within six (6) months of new lenses having been provided.
+The cost of examination for prescriptions will be assumed by the Company once every two years.
+17.12	An	employee's annual medical
+examination will be carried out in accordance with
+76
+the standards prescribed by the Company designated physician.
+The examination may be carried out by the Company designated physician or by a physician of the employee's choice. Should the employee not use the services of the Company designated physician, the Company will pay an amount up to the cost of providing the complete examination through the Company. Where the employee uses the services of the physician of his choice for this annual medical examination, the examination results required for employment purposes shall be forwarded to the Company's designated physician.
+An employee undergoing his annual medical examination will be paid one (1) hour at his standard hourly rate. When a second appointment is necessary for such examination, an additional hour will be paid. Should the Company require an employee to undergo his annual medical examination from the Company designated physician during the employee's regular scheduled shift, he shall suffer no loss of Pay.
+17.13	A. Should an employee contract an industrial disease from Company work - processes which renders the employee unable to maintain necessary standards of health on the job he was regularly performing at the time it is determined by a medical doctor and confirmed by a Company designated physician that he has an industrial disease, the employee will be moved to some other job for which he is qualified.
+The foregoing will also apply to an employee who contracts an industrial disease, from Company work processes or who sustains a Company compensable
+77
+injury, for which a permanent partial disability is recognized under the Workmen's Compensation Act.
+B.	Should the Company offer the employee, in accordance with the Collective Agreement, an equal or higher rated job for which he is medically qualified, he will accept the job offered.
+C.	Should the Company not offer the employee an equal or higher rated job, the employee will be treated as being reduced and paragraph 8.23 A will apply.
+D.	If the employee is treated as being reduced, the Company will maintain the difference between the rate of the regular job held and the rate of the highest job in which the employee could qualify medically and in accordance with the terms of the Collective Agreement.
+E.	If an employee whose rate is maintained as set out in 17.13 refuses or accepts a job, for which he qualifies medically and in accordance with the terms of the Collective Agreement, the amount required to maintain his rate shall be reduced by the increase in the standard hourly rate of the job refused or accepted as outlined in 14.10.
+F.	Any disagreement as to the employee's medical condition rendering the employee unable to perform a job under the terms of
+17.13	shall be examined by a third physician, chosen promptly by the employee's physician and the Company designated physician. The medical opinion
+78
+of the third physician after examination of the employee and consultation with the other two (2) physicians shall decide the matter. The fees and expenses of the third physician shall be shared equally by the Company and the Employee. Regular wages lost and reasonable expenses incurred, by the employee, to be examined by the third physician will be paid by the Company.
+17.14	When an employee signs a form prescribed by the Workmen's Compensation Board, a copy of the form, as submitted by the Company to the Board, will be sent to the Union.
+The Company will inform the Union of any contested Workmen's Compensation Board claims.
+ARTICLE 18
+NORTHERNALLOWANCE
+18.01	A. Effective March 1, 1990, a Northern Allowance will be paid to eligible employees as follows:
+1.	Married employees - $245.00 per month;
+2.	Single employees - $230.00 per month.
+B. Effective March 1, 1991, a Northern Allowance will be paid to eligible employees as follows:
+1.	Married employees - $270.00 per month;
+2.	Single employees - $255.00 per month.
+79
+C.	Northern Allowance will be calculated and paid on a bi-weekly basis.
+D.	To be eligible for Northern Allowance an employee must:
+1.	Having completed his probationary period, his eligibility will commence at the beginning of the pay period immediately after such completion;
+2.	Be a regular employee throughout the pay period concerned and have worked or been on vacation or vacation extension in that pay period. Vacation including extended vacation, taken at the time of or during lay-off shall not be considered vacation for the purpose of this Section.
+E.	It shall be the responsibility of the employee to notify the Company in writing of any change in status that affects the amount of his NorthernAllowance.
+F.	Northern Allowance shall not be considered as earnings in calculating the amount of any other employee benefits.
+G.	Employees who break their continuous service are eligible to receive Northern Allowance to which they are entitled on the prorata of hours worked in the pay period in which they terminate their employment.
+ARTICLE 19
+COOPERATIVE COMMITTEE
+19.01	The Resident Manager and/or his
+representativewill meet the Officers of Local 6285
+of the United Steelworkers of America for the
+80
+purpose of discussing problems of mutual interest related to the operation of the plant.
+An agenda, listing the subjects to be discussed, shall be prepared prior to such meetings. Within seven (7) days following receipt of an agenda, the Company shall suggest a date for the meeting which shall, where practicable, be held between 9:00 AM. and 5:00 P.M.
+ARTICLE 20
+NOTICES
+20.01	Any Notice in writing required by this Agreement or which either Party desires to give to the other shall be registered, postage paid, addressed as follows:
+To the Company:
+Wabush Mines Cliffs Mining Company Managing Agent Wabush Labrador, Newfoundland AOR IBO
+Attention: Human Resources Department
+To the Union:
+The Secretary
+Local Union No. 6285
+United Steelworkers of America Wabush
+Labrador, Newfoundland
+AOR IBO
+20.02	Any notices so mailed shall be deemed given as of the next business day after date of mailing. The registration receipt shall establish the date of mailing.
+81
+20.03	Either Party may change its address for service of notices at any time by notice as above mentioned.
+ARTICLE 21
+VALIDITY OF AGREEMENT
+21.01 If any provisions of this Agreement is null and void in view of the provisions of the Labour RelationsAct of the Province of Newfoundland, the other provisions of the Agreement shall not be affected in any way by such nullity.
+ARTICLE 22
+DURATION OF AGREEMENT
+This Agreement shall become effective July 22, 1999, and shall remain in full force and effect until March 1, 2004 and from year to year thereafter unless written notice of intention to terminate or amend this Agreement is given by either Party to the other, not more than ninety (90) days and not less than thirty (30) days before the date of termination of this Agreement. IN WITNESS WHEREOF the Parties hereto have duly executed this Agreement this 22"“ day of July, 1999.
+82
+FOR:
+FOR:
+UNITED
+STEELWORKERS OF AMERICA Local Union 6285 Agent
+WABUSH MINES Cliffs Mining Co. Managing Agent WABUSH LAKE RAILWAY LTD.
+President
+Negotiating Committee
+R. Pvnn
+Human Resources Administrator
+L.'	.
+Resident Supe^isor Human Resources
+Negotiating Committee
+K. McDermott
+Area Manager Concentrating
+G. Mercer
+Negotiating Committee
+•LlMcGrath / (^Director	/
+Human Resources
+T. Harris
+Staff Representative
+Cal Lueoee Sub-District Director
+D. Lebel
+General Manager
+83
+LIST OF LEARNER JOBS
+JOB REQUIRING LEARNER RATE							
+STANDARD CODE	STANDARD TITLE	MONTHS FACTOR 2	JOB CLASS	NO. OF LEARNER PERIODS	520 HOURS FIRST PERIOD	520 HOURS SECOND PERIOD	520 HOURS THIRD PERIOD
+285	BLASTER	7-12	10	1	8		
+406	CONDUCTOR	19-24	14	1			12
+404	EQUIPMENT OPERATOR	13-18	10	1		8	
+210	HYDRAULIC CRANE OPERATOR	7-12	9	1	7		
+400	LOCOMOTIVE ENGINEMAN	19-24	15 3/4	1			14
+312	MINE EQUIPMENT OPERATOR	13-18	10	1		8	
+147	MOBILE CRANE OPERATOR	13-18	12	1		10	
+222	PIT ATTENDANT	7-12	9	1	7		
+296	PRODUCTION LOADER OPERATOR	19-24	14	1			12
+228	ROTARY DRILL OPERATOR	13-18	11	2		7	9
+275	SHOVEL OPERATOR	25-30	17	3	11	13	15
+298	TRUCK DRIVER PRODUCTION	7-12	11	1	9		
+W
+APPENDIX
+MINING
+SHOVEL OPERATOR 275	1;
+BLASTER I
+10J
+PITATTENDANT
+222	______J
+PROD. LOADER I 296 0PERAT0R J
+				
+PROD. TRUCK DRIVER 298 11			! MINE EQUIPMENT 1312 °PERAT0R 10	
+				
+				
+ROTARY DRILL
+LABOUR POOL
+I
+APPENDIX
+CONCENTRATOR
+LOCOMOTIVE ENGINEMAN ,
+15 3/4
+LABOUR POOL
+APPENDIX “C
+SERVICES
+00
+WAREHOUSEMAN
+MOBILE CRANE 1 147 OPERATOR 12|	
+	
+HYDRAULIC CRANE 21HYDBAUWCORANE g	
+	
+SERVICE DRI 199	TRUCK VER g
+LABOUR POOL
+APPENDIX
+APPENDIX “D'
+PENSION PLAN
+FOR BARGAINING UNIT EMPLOYEES (LOCAL 6285)
+OF WABUSH MINES CLIFFS MINING COMPANY MANAGINGAGENT
+WABUSH LAKE RAILWAY COMPANY LIMITED
+AS AMENDED EFFECTIVE MARCH 1, 1999
+88
+APPENDIX “E”
+INSURANCE AGREEMENT
+FOR BARGAINING UNIT EMPLOYEES (LOCAL 6285)
+OF WABUSH MINES CLIFFS MINING COMPANY MANAGING AGENT
+WABUSH LAKE RAILWAY COMPANY LIMITED
+AS AMENDED EFFECTIVE JULY 22,1999
+89
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local6285, hereinafter referredto as the Union.
+SUBJECT:	EXERCISE OF SENIORITY
+DURING REDUCTION WITH LAYOFF SITUATION
+This will confirm our agreement reached during negotiations for the renewal of our Collective Agreement 1999-2004.
+The Parties agree that notwithstanding the provisions of Article 8, an employee affected by a permanent reduction with lay-off situation in accordance with Article 8.23 may exercise his company continuous service to displace an employee with the least Company continuous service in a Job Class 11 classification or lower, prior to being laid off.
+Further an employee who has previouslyworked in a job above Job Class 11 may exercise his Company continuous service to displace the employee with the least Company continuous service in any such job prior to being permanently laid off provided he is still capable of performing such job.
+90
+This provision will also apply to an employee already in a labour pool, who is being laid off as a result of reductions as outlined above.
+The provisions outlined in this letter shall not apply in the case of a vacation shutdown of six weeks duration or less.
+For the Union:
+
+
+T.	Harris
+Staff Representative
+5r^kinn€r, President
+U.	S.W.A., Local Union 6285
+For the Company:
+D. Lebel
+General Manager
+91
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referredto as the Company.
+And
+On the Other Part: United Steelworkers of America, Local 6285, hereinafter referredto as the Union.
+SUBJECT	RAIL TRANSPORTATION
+BENEFITS
+This will confirm our understanding reached during
+negotiations Re: the benefits outlined in Article
+15.08.
+The Company does not intend to withdraw this
+benefit during the life of the Agreement.
+For the Union:
+For the Company:
+T. Harris
+Staff Representative
+U.S.W.A., Local Union6285
+D. Lebel
+General Manager
+92
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as
+the Company.
+And
+On the Other Part: United Steelworkers of America,
+The Parties recognize the importance of lessening as much as reasonably possible the effects of technological change upon the job security and the earnings of an employee having seniority who may be displaced from his/her job as a result of such change.
+The Company will notify the Union as far in advance as practicable but no later than sixty (60) days in advance of any technological change which may cause displacement of employees from their jobs. This notice shall indicate the approximate date the change will be in effect, the nature of the change, and the approximate number of employees affected. The Company will meet and inform the Union of the planned change and will, if requested, hold further meetings with the Union for the purpose of discussing general matters of mutual concern as to the interests of displaced employees. The Parties will also meet as far in advance as practicable prior to the time that the technological change is to take place to discuss methods to
+Local referred to
+as the Union.
+SUBJECT:
+TECHNOLOGICAL CHANGE
+93
+minimize the unfavourable effects of the technological change with respect to such displaced employees.
+In order to reduce the impact of displacement from a job due to technological change, an eligible employee will be entitled to assistance in accordance with the following:
+A.	DEFINITION
+Technological change shall mean the automation of equipment, or the mechanization or automation of duties, introduction of new equipment, or the replacement of existing plant equipment with new equipment.
+The displacement of an employee from a job description for any reason(s) not specified in the immediately preceding paragraph shall not be considered to be a displacement because of technological change.
+B.	ELIGIBILITY
+An employee, in order to be eligible for an Earnings Supplement, must:
+(1)	have 1 or more years of service, and
+(2)	be permanently displaced from a job due to a technological change which directly or indirectly caused his/her displacement from that job description
+(3)	have been a permanent occupant of the job from which he/she is displaced throughout the six (6) months immediately preceding the date that such displacement occurred and have worked on such job for
+94
+a minimum of 520 hours, unless he/she was prevented from working during such six (6) month period by reason of justifiable absence or authorized leave of absence in which event he/she must have worked a minimun of 520 hours on such job during the prior six (6) month period, and
+(4)	remain in the employment of the Company during the benefit period and,
+(5)	accept the job with the highest rate of pay to which he/she is entitled and qualified to receive under the terms of the Collective Agreement during the benefit period and continue to accept assignment to any job with a higher rate of pay during the term of the benefit period.
+C.	EARNINGS SUPPLEMENT
+For each pay period during the benefit period to which an employee is entitled as provided in D below, an eligible employee will be paid the greater of:
+(1)	his/her actual earnings during such pay period, or
+(2)	the earnings supplement benefit for such period. The earnings supplement will be calculated by multiplying the applicable Standard Hourly Rate times the actual hours worked by such employee during the pay period. The applicants Standard Hourly Rate will be the Standard Hourly Rate of the job from which the employee was displaced provided that he/she had been a permanent occupant of such job for the period specified in B3. above.
+95
+DURATION- EARNINGS SUPPLEMENT
+D,
+(1)	An eligible employee will be entitled to have his/her earnings maintained in accordance with C. above for a period of 39 pay periods.
+(2)	The period of time during which an employee will be eligible to receive an Earnings Supplement will commence at the beginning cf the pay period in which the employee became eligible and shall continue for each subsequent consecutive pay period thereafter as provided in D)1. above.
+(3)	Any pay period, during the whole of which an employee is absent from work solely due to sickness or injury and so certified to the Company, and is not entitled to any payment from the Company during such pay period, shall not be counted and the benefit period shall continue for the remainder of its unexpired term commencing with the pay period in which the employee returns to work or would have returned to work following such sickness or injury, provided further that such employee remains in the employment of the Company.
+(4)	Any pay period during which, either in whole or in part, an employee is absent from work for any reason other than sickness or injury, shall be considered as part of the consecutive period of time.
+96
+E.	TRAINING
+If an eligible employee requires training or retraining, the Company will, subject to operating requirements and the availability of training opportunities, offer such training or retraining on a job in his/her department which would potentially provide as closely as possible the job classification level which he/she held before his/her displacement.
+F.	GENERAL
+Any dispute which may arise regarding the application of this Letter of Agreement to eligible employees may be discussed with the Company by representatives of the Union, at the request of either Party.
+In the event of a disagreement concerning the interpretation or application of this agreement, a grievance may be presented at Step 2 of the Grievance Procedure provided for in the Collective Agreement. If the disagreement is not resolved,the grievance may be submitted for arbitration.
+The effective date of this Letter of Agreement is 22nd day of July, 1999.
+For the Union:
+
+T. Harris
+Staff Representative
+Srldr
+For the Company:
+D. Lebel
+General Manager
+TSkinn^r, President U.S.W.A., Local Union 6285
+97
+LETTER CF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local 6285, hereinafter referred to as the Union.
+SUBJECT:	TRAINING, CONCENTRATOR
+JOB GROUP
+This will confirm our agreement reached during negotiations for the renewal of our Collective Agreement 1999-2004.
+The present agreement establishes the provisions of training employees in the Concentrator Job Group prior to filling job vacancies.
+JOBS COVERED BY THIS AGREEMENT & MINIMUM TRAINING TIME NEEDED
+Concentrator Repairman (171)
+Final Product Attendant (221)
+Mill Tailings Attendant (220)
+Analyst	(362)
+Sampler Tester	(168)
+Pipe Turner Trackman (169)
+Equipment Operator (404)
+Only trained employees will be assigned to fill vacancies in the jobs listed.
+48 Hours 108 Hours 120 Hours 120 Hours 72 Hours 40 Hours 96 Hours
+98
+Training, excluding classroom training, will be given by working the minimum required number of hours with a qualified employee on the job, and under normal circumstances such training will be done on a continuous basis, however, in no case will a training session be less than 6 hours. Whenever overtime is necessary to meet these objectives, it will be offered to the qualified employee and not to the employee being trained. The employee being trained will be paid the rate of pay of the job for which he is being trained.
+An employee who wishes to refuse the training outlined above or who wishes to cancel after having completed less than 50% of the training as provided for in this letter, may do so by relinquishment of his eligibility for promotion or recall as outlined in Article 8.29 A. of the CollectiveAgreement.
+Once an employee receives the training for a job listed above his relinquishment for promotion as provided for in 8.29 A. of the CollectiveAgreement will not apply in the case of promotion for filling temporary vacancies.
+For the Union:	For the Company:
+T. Harris
+Staff Representative
+D. Lebel
+General Manager
+99
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local 6285, hereinafter referredto as the Union.
+SUBJECT:	APPRENTICESHIP PROGRAM
+REQUIREMENTS
+This will confirm our understanding on the posting of apprentice openings.
+The following requirements will be maintained for entrance into the Company Apprenticeship Training Program:
+Maintenance Mechanic
+Welding
+Automotive
+Machinist
+Electrical
+Grade XII plus 1 Year Trade School GradeXII plus 1 Year Trade School Grade XII plus 1 Year Trade School Grade XII plus 1 Year Trade School Grade XII plus 1 Year Trade School
+100
+For the Union:
+For the Company:
+-/T /^JilaaJL/3-
+T. Harris
+Staff Representative
+5r^kinrfer, President U.S.W.A., Local Union 6285
+D. Lebel
+General Manager
+101
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local 6285, hereinafter referredto as the Union.
+SUBJECT:	PAID TIME FOR CHAIRMAN
+OF EMPLOYEE SAFETY COMMITTEE
+This will confirm our agreement reached during negotiations for the renewal of our Collective Agreement 1999-2004.
+In addition to the provisions of Article 17 of our Collective Agreement in respect to the above mentioned subject, the Chairman of the Employee Safety Committee will be granted a maximum of thirty-six (36) hours per month with no loss of pay to participate in safety related activities outside the property of the Company.
+Furthermore, the hours listed above may be used to accompany a Government Safety Inspector on official tours on the Company property.
+An additional twenty-four (24) hours per month will be granted with no loss of pay for the purposes of accompanying a Company Representative in
+102
+environmental activities related to the monitoring of dust levels in the plant.
+For the Union:
+
+
+T. Harris Staff Representative
+For the Company:
+D. Lebel
+General Manager
+Jrfkinnir, President U.S.W.A., Local Union 6285
+103
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referredto as the Company.
+And
+On the Other Part: United Steelworkers cf America, Local6285, hereinafter referredto as the Union.
+SUBJECT	SCHEDULING OF
+EMPLOYEES DURING SHUTDOWNS IN EXCESS OF FOUR DAYS
+This will confirm our understanding reached during negotiations with respect to the selection of employees for work during shutdowns in excess of four days.
+Whenever possible, work requirements will be filled by the employee with the greatest job continuous service in the classification required.
+When such a shutdown is a vacation shutdown employees will be offered the available work in order of their job continuous service, until the work requirements have been met. Should insufficient employees accept the opportunity to work, employees with the leastjob continuous service will be assigned.
+104
+For the Union:
+--------------------
+T.	Harris
+Staff Representative
+5^kinrter President
+U.	S.W.A., Local Union6285
+For the Company:
+D. Lebel
+General Manager
+105
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referredto as the Company.
+And
+On the Other Part: United Steelworkers of America, Local6285, hereinafter referredto as the Union.
+SUBJECT:	SCHEDULING OF
+EMPLOYEES DURING SHUTDOWNS OF FOUR DAYS OR LESS
+This will confirm our understanding reached during negotiations with respect to the selection of employees for work during shutdowns of four days or less.
+Whenever possible, work requirements will be filled by the classified employees on the shift in which it occurs.
+However, if there is a requirement for labourers during a shutdown of four days or less, it will be offered to the senior employees in the Department concerned.
+When there is a requirement for a classified employee to work, it will be offered to the senior employee in that classification on the shift in which it occurs.
+106
+If insufficient employees accept the opportunity to work on a given shift, and before the junior classified employee is forced to work, it will be offered to employees in the same classification on the other shifts.
+However, in no case will an employee from another shift be offered the work if it results in the payment of overtime.
+For the Union:
+
+For the Company:
+T.	Harris
+Staff Representative
+■«—
+5r^kinn€r, President
+U.	S.W.A.. Local Union 6285
+D. Lebel
+General Manager
+107
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local 6285, hereinafter referred to as the Union.
+SUBJECT	JOB COMBINATION AND JOB
+ELIMINATION
+This confirms the Company's intent with respect to Job Combination and Job Elimination.
+When two or more jobs are combined and a new classification is established as a result of such a combination, the new job shall be filled by senior employees in the jobs being combined.
+The remaining employees in the jobs being combined shall be granted seniority in the newjob and will be reduced in accordance with Article 8.23 of the CollectiveAgreement.
+Employees who have worked in any of the jobs being combined, but are not incumbents at the time of combination, shall be granted job seniority in the new job effective the date it is first filled and shall be consideredto have worked inthejobforthe purpose of applying the provisions of Article 8.23 A.3.
+When a job is eliminatedand the functions of the job being eliminated are added to an existing job, the
+108
+incumbents in the job being eliminated will be granted job seniority as of the date that the new duties were added to the existing job and shall have rights as outlined in 8.23 A.3.
+For the Union:
+
+For the Company:
+T.	Harris
+Staff Representative
+J7Skinner, President
+U.	S.W.A., Local Union 6285
+D. Lebel
+General Manager
+109
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referredto as the Company.
+And
+On the Other Part: United Steelworkers of America, Local6285, hereinafterreferredto as the Union.
+SUBJECT:	TRAINING - CONDUCTOR AND
+ENGINEMAN
+The present agreement establishes the provisions of training employees for the jobs of Conductor and Engineman in the Concentrator Job Group.
+Jobs Covered by This Agreement and Minimum Training Time Needed
+CONDUCTOR -	200	Hours
+ENGINEMAN -	200	Hours
+Only trained employees will be assigned to fill vacancies in the jobs listed.
+Training, excluding classroom training, will be given by working the minimum required number of hours with a qualified employee on the job, and under normal circumstances such training will be done on a continuous basis. When overtime is necessary to meet these objectives, it will be offered to the qualified employee and not to the employee being
+110
+trained. The employee being trained will be paid the rate of pay of the job for which he is being trained.
+An employee who wishes to cancel training for the job of Conductor and Engineman, after having completed less than 50% of the required training, may do so by relinquishment of his eligibility for promotion as outlined in Article 8.29 A of the Collective Agreement.
+Once an employee receives the training for either of the above jobs, his relinquishmentfor promotion as provided for in 8.29 a), of the Collective Agreement will not apply in the case of promotion for filling temporary and permanent vacancies.
+For the Union:
+
+T.	Harris
+Staff Representative
+5cSkinner, President
+U.	S.W.A., Local Union 6285
+For the Company:
+D. Lebel
+General Manager
+in
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referredto as the Company.
+And
+On the Other Part: United Steelworkers of America, Local6285, hereinafter referredto as the Union.
+SUBJECT:	12 HOUR SHIFTS
+This confirms our understanding with respect to the implementation of a 12-hour shift schedule for employees who are assigned to a seven-day rotating shift schedule. The Company agrees to implement such schedule on the basis that it does not cost the Company any additional monies.
+For employees working a twelve-hour shift schedule, the Parties agree that the following amendments shall be applied to the current Collective Agreement (1999-2004).
+6.06	An employee required to be absent from work to attend the funeral of his father, mother, wife, child, brother, sister, father-in-law, mother-in-law, brother-in-law, sister-in-law, grandchildren or grandparents shall be granted a funeral leave for the time necessary for that purpose. For three days of such leave he shall be paid for twelve (12) hours at his straight time hourly rate.
+112
+6.09 An employee who is summoned to serve on a criminal jury or to attend court as a witness in a criminal or quasi-criminal case, will be paid an allowance equal to the difference between the payment he received for each day of service and the pay he would normally have received had he worked as scheduled on each day of such service. To qualify for such an allowance, an employee must give his Foreman at least three (3) days notice of his impending absence and later must provide the Company with Court documentation justifying his absence for jury service or his attendance at court as a witness and verifying any payment he has received for jury service. The foregoing provisions shall also apply where an employee is scheduled to work the 20:00 to 08:00 shift immediately prior to being required for jury duty or as a witness in response to a summons for any time during the 08:00 to 20:00 period of the day.
+7.01	An employee shall be considered probationary for a period of forty (40) days of actual work. At the end of the probationary period such employee's name shall be placed upon the seniority lists, where applicable, as of the date of commencement of work for the Company.
+8.13 B. Vacancies resulting from absenteeism, illness, injury, suspension or leave cf absence will be considered as permanent if they last longer than 10 shifts.
+C. Vacancies such as those in B) preceding, which last less than ten (10) shifts, vacancies which are caused by annual vacation and those which exist
+113
+while permanent vacancies are being
+filled shall be considered as temporary.
+11.04	If the discharge is appealed to arbitration, the Arbitrator will have full jurisdiction to uphold or to reduce the discharge to a suspension and to fix the duration of the suspension. If the Arbitrator rejects the discharge or reduces it to a suspension, the employee shall be reinstated and paid for time lost since the date of discharge or for the period of time not covered by the suspension but in no case shall this period exceed 120 working days, to which shall be added any number of days that the Arbitration was delayed by request of the Company or from which shall be subtracted any number of days that the arbitration was delayed by request of the Union. Such payment shall be the difference between the amount of money actually received by the employee for work performed by him in each week during the period that he was off work due to discharge and the amount that he would have received for each such week for regularly scheduled work had he been continued at work in the job classification that he held at the time of his discharge.
+12.03	A.The normal week shall be established by
+the work schedule.
+12.04	Daily hours of work shall be consecutive and two (2 lunch periods, not to exceed twenty (20) minutes each, shall be considered as time worked. Where required, the employee shall eat on the job and the Company shall not be obligated to provide a relief man for such time. An employee who works more than two (2) hours beyond his regular shift will be provided with a
+114
+hot meal and the time to eat it (not to exceed twenty (20) minutes) will be considered as time worked.
+12.05	Weekly work schedules shall be posted no later than noon, Thursday, of the preceding week and no changes shall be made in such schedules solely for the purpose of avoiding the payment of overtime rates. If it is later necessary to change his schedule, without having given him at least twenty-four (24) hours notice of the change, an employee will be paid at the rate of double time for the first eight (8) hours of the changed scheduled. The remaining scheduled hours will be paid at straight time.
+12.06	Overtime at the rate of time and one-half will be paid for hours worked on an employee's scheduled days off. Overtime at the rate of double time will be paid for hours worked in excess of twelve (12) consecutive hours. Overtime will not be paid on the basis of hours worked in a week.
+Work scheduled and performed on Sunday will be paid for at the rate of time and one-half for the first eight (8) hours and at the rate of double time for hours worked in excess of eight (8), except that an employee who is scheduled and works 84 straight time hours in a pay period will receive double time for hours worked on a scheduled Sunday off during that pay period.
+Any period of overtime which ends with an incomplete half (1/2) hour, that portion of the half hour will be rounded to a full half (1/2) hour for pay purposes.
+115
+12.10 An employee who reports for and actually performs work as assigned on a scheduled shift will be paid for at least four (4) hours, eight (8) hours if he works more than four (4) hours, twelve (12) hours if he works more than eight (8) hours, at the rate of pay for the job for which scheduled unless he is assigned to a higher rated job in which event he will be paid at the rate of the job performed.
+12.12 A.An employee requested to return to work for a full extra shift after having left the property and with at least four (4) hours prior notice or who is requested to provide shift relief with less than four (4) hours prior notice, and who reports for such work and works as assigned, will be paid at the overtime rate of time and one-half or at the appropriate Holiday or Sunday work rate, when applicable, for all hours worked and shall be given the opportunity to work at least twelve (12) hours.
+B. An employee requested to return to work, after having left the property other than for his scheduled shift or shift relief, with less than four (4) hours prior notice or for less than twelve (12) hours work, and who reports for such work and works as assigned, will be paid at the overtime rate of double time and for at least three (3) hours for such extra work. Upon being requested to return to work the employee will be informed of the work to be performed and the work required will be confined to work necessitated by the callout. At the completion of said work,
+116
+the employee, at his discretion, may leave the job or, if he agrees, to be assigned to other work, in which case he will continue to be paid at the rate of double time for so long as the extra work continues, or to the commencement of his scheduled shift.
+13.01	For the purposes of this Article:
+A.	All shifts beginning between 6:00 A.M. and Noon will be day shift.
+B.	All shifts beginning between 6:00 P.M. and 6:00 A.M. shall be night shifts.
+13.02	Not applicable.
+13.03	A shift premium of fifty (50) cents per hour will be paid for all hours worked during the night shift.
+14.37 If an employee shall be assigned temporarily for the Company's convenience to a job other than his regular job, when work is available to the employee on his regular job, he shall receive the established rate of pay for the job performed or for his regular job whichever is higher. Such an employee assigned to a higher rated job during a work day will be paid at the higher rate for the remaining portion of the first eight (8) hours of the shift even though he returned to his regular job during that period. Should the employee work at the higher rated job in excess of the first eight (8) hours he shall be paid at the higher rate for the balance of the shift.
+16.01 Each employee shall receive, for any of the holidays set forth in Section 16.02, a holiday
+117
+allowance equal to eight (8) hours pay at the straight time rate which he receives, or would have received had he worked on such holiday, providing the following criteria are met:
+A.	The employee is not absent without permission on his last scheduled working day preceding and his first scheduled working day following the holiday, unless reasons for such absence are judged valid by the Company.
+B.	He performs work or is on vacation in the pay period in which the holiday is observed.
+16.03	In addition to holiday allowance provided in 16.01, the employees who are required to work on Holidays shall be paid, in addition to the shift premiums provided by the Agreement, as follows:
+■	150% of their regular rate for the first twelve (12) hours;
+■	200% of their regular rate for the next four (4) hours;
+'	250% of their rate for all hours worked in
+excess of sixteen (16).
+16.04	Not applicable due to change in Article
+12.06	which stipulates that overtime will not be paid on the basis of hours worked in a work week.
+118
+For the Union:
+For the Company:
+
+T, Harris
+Staff Representative
+5r"^kinn£r, President U.S.W.A., Local Union6285
+D. Lebel
+General Manager
+119
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local 6285, hereinafter referredto as the Union.
+SUBJECT:	SUMMER STUDENTS
+This will confirm our agreement reached during negotiationswith respect to summer students.
+Students will be assigned to labourer positions throughout the operation and the Parties agree on a reduced rate of pay to be determined prior to hiring.
+The Company agrees that 50% of summer vacation relief will be hired prior to the placement of hourly students.
+The Parties agree to the terms and conditions of this letter on a trial basis for the year 2000 and thereafter subject to review by both Parties for the duration of the Agreement.
+120
+For the Union:
+For the Company:
+
+T. Harris
+Staff Representative
+fr^kinrrgr, President U.S.W.A., Local Union 6285
+D. Lebel
+General Manager
+121
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local6285, hereinafterreferredto as the Union.
+SUBJECT	UTILIZATION OF LABOURERS
+ON SHIFT
+This will confirm our agreement reached during negotiations for the renewal of our Collective Agreement 1999 - 2004.
+The Parties agree that notwithstanding the provisions of Article 8.14, two labourers may be utilized in classified positions on shift up to a maximum of eight hours.
+However, when it is necessary to increase the number of employees who are scheduled on a shift, the provisions of 8.14 will apply.
+This agreement applies to 12 hour shift employees in the Concentrator and Mining Job Groups.
+122
+For the Union:
+For the Company:
+-✓T /^vvvUi-
+T. Harris
+Staff Representative
+5r^kinngr, President U.S.W.A,, Local Union 6285
+D. Lebel
+General Manager
+123
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local 6285, hereinafter referredto as the Union.
+SUBJECT:	CONTRACTING OUT
+This will confirm our understanding reached during
+negotiations for the renewal of our Collective
+Agreement 1999-2004.
+1.	When a contractor is awarded a contract to perform work on site, every effort will be made to have the contractor, or subcontractor, hire laid off Wabush Mines’ employees providing they are capable of performing the work requirements. The Contractor will be advised of this arrangement and given a list of laid off employees at the time the contract is awarded.
+2.	The Company will assign Bargaining Unit Employees with Service Representatives who are performing maintenance work on equipment under warranty provisions. In cases involving maintenance of mine equipment, a Service Representative may provide technical assistance to Bargaining
+124
+Unit Employees in carrying out their functions.
+3.	Should further information be required, following discussions provided for under Article 2.04, a Committee of two (2) representatives from each Party will be established to deal with the matter. The Company will delay its final decision until the Committee has completed discussions and made its recommendations.
+For the Union:
+
+T. Harris
+Staff Representative
+For the Company:
+D. Lebel
+General Manager
+5r^kinn€r, President U.S.W.A., Local6285
+125
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local 6285, hereinafter referredto as the Union.
+SUBJECT:	SCHEDULING OF 12 HOUR
+SHIFTS
+This confirms our understanding reached during negotiations with respect to scheduling of employees.
+The Company will not change the work schedule of an employee working on 12 hour shifts, in the middle of a pay period, when such change will result in an employee working two consecutive 60 hour work weeks in the same pay period.
+When it is necessary to change an employee from a day shift schedule to a 12 hour schedule, such change will also be done at the beginning of a pay period, if the change otherwise results in an employee working more than 84 hours in the pay period.
+126
+For the Union:
+For the Company:
+T. Harris
+Staff Representative
+U.S.W.A., Local 6285
+D. Lebel
+General Manager
+127
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local 6285, hereinafter referredto as the Union.
+SUBJECT:	REDRESS FOR GRIEVANCES
+This will confirm our understanding reached during negotiations with respect to redress for grievances presented under 9.04 of the Collective Agreement.
+If it is determined that redress is required following the presentation cf a record of complaint or grievance under the provisions of 9.04, the redress will be made to the grievor who presents the complaint or grievance provided he is not at work at the time of the incident. If the grievor is at work at the time of the incidentand redress is determined, it will be made to the employee in the classification who would have performed the work and who is lowest on the overtime list.
+An alleged violation of Article 2.03 and 2.04 will be processed in accordance with the provisions of these Articles.
+128
+For the Union:
+For the Company:
+/f	&%/
+T. Harris	D. Lebel
+Staff Representative	General Manager
+5r^kinn€r, President U.S.W.A., Local 6285
+129
+$
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local6285, hereinafterreferredto as the Union.
+SUBJECT JOB POSTING - TRADESMEN
+This will confirm our understanding reached during negotiations for the renewal of our Collective Agreement 1999-2004.
+A Tradesmen who posts to a job, in a line of promotion and is subsequently reduced, may return to the job he previously occupied, provided he has not been absent from the job for more than two years: his continuous service in the previous job allows him to hold that job, and he is then able to perform the full requirements of the job.
+For the Union:
+
+T.	Harris
+Staff Representative
+JT'Skinrftjr, President
+U.	S.W.A., Local 6285
+For the Company:
+D. Lebel
+General Manager
+130
+LETTER OF AGREEMENT
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+On the Other Part: United Steelworkers of America, Local 6285, hereinafter referredto as the Union.
+SUBJECT:	SERVICES LABOURERS
+This will confirm our understand with respect to job assignments to Labourers in the Services Group.
+The Senior Labourer may request a particular job assignment at the beginning of a shift.
+However, when insufficient labourers are available to meet all job assignments, labourers will be required to accept such assignments.
+When an overtime opportunity exists, the normal overtime provisions will apply.
+For the Union:
+
+T.	Harris Staff Representative
+^Skinner, President
+U.	S.W.A., Local 6285
+For the Company:
+D. Lebel
+General Manager
+131
+LETTER OF AGREEMENT
+OP
+Between
+On One Part:	Wabush Mines, Cliffs Mining
+On the Other Part: United Steelworkers of America,
+In order to have trained employees available to fill entrance jobs, in the lines of promotion, the Company may select employees in accordance with the Collective Agreement for the purposes of training in these jobs even though there may be employees eligible for recall in such jobs. Once the training has been completed an employee will be returned to his/her regular job and will not be permitted to refuse a recall to the position for which he/she was trained if a vacancy for such job is filled in accordance with 8.15 or 8.18 within six (6) months. Entrance jobs are:
+Company, Managing Agent and Wabush Lake Railway Company Limited, hereinafter, referred to as the Company.
+And
+Local6285, hereinafter referred to as the Union.
+SUBJECT:
+TRAINING FOR ENTRANCE JOBS
+Pit Attendant Warehouse
+Service Truck Driver Mill Tailings Attendant Pipe T urnernrackman Sampler/Tester  
+132
+In the event that all employees in an entrance job have relinquishedpromotion,the next job in the line of promotion will be considered as an entrance job.
+Should a vacancy occur while an employee is being trained, it will be filled in accordance with the provisions of 8.15 or 8.22 of the Collective Agreement and not by the employee being trained.
+An employee will not be credited with overtime while he is absent from his job for purposes of training as outlined above.
+For the Union:
+/'T
+T. Harris
+Staff Representative
+For the Company:
+D. Lebel
+General Manager
+Sr^kinnfjr, President U.S.W.A., Local 6285
+133
+2001
+
+January_________February	March
+s	M	T	W	T	F	S	s	M	T	W	T	F	s	s	M	T	w	T	F	S
+	1	2	3	4	5	6					1	2	3					1	2	3
+7	8	9	10	11	12	13	4	5	6	7	8	9	10	4	5	6	7	8	9	10
+14	15	16	17	18	19	20	11	12	13	14	15	16	17	11	12	13	14	15	16	17
+21	22	23	24	25	26	27	18	19	20	21	22	23	24	18	19	20	21	22	23	24
+28	29	30	31				25	26	27	28				25	26	27	28	29	30	31
+April		May												June						
+s	M	T	W	T	F	S	s	M	T	W	T	F	S	s	M	T	w	T	F	s
+1	2	3	4	5	6	7			1	2	3	4	5						1	2
+8	9	10	11	12	13	14	6	7	8	9	10	11	12	3	4	5	6	7	8	9
+15	16	17	18	19	20	21	13	14	15	16	17	18	19	10	11	12	13	14	15	16
+22	23	24	25	26	27	28	20	21	22	23	24	25	26	17	18	19	20	21	22	23
+29	30						27	28	29	30	31			24	25	26	27	28	29	30
+July							August							Se	ptember					
+s	M	T	W	T	F	S	s	M	T	w	T	F	s	s	M	T	w	T	F	s
+1	2	3	4	5	6	7				1	2	3	4							1
+8	9	10	11	12	13	14	5	6	7	8	9	10	11	2	3	4	5	6	7	8
+15	16	17	18	19	20	21	12	13	14	15	16	17	18	9	10	11	12	13	14	15
+22	23	24	25	26	27	28	19	20	21	22	23	24	25	16	17	18	19	20	21	22
+29	30	31					26	27	28	29	30	31		23	24	25	26	27	28	29
+														30						
+October	November December
+s	M	T	W	T	F	S	s	M	T	w	T	F	s	s	M	T	w	T	F	s
+	1	2	3	4	5	6					1	2	3							1
+7	8	9	10	11	12	13	4	5	6	7	8	9	10	2	3	4	5	6	7	8
+14	15	16	17	18	19	20	11	12	13	14	15	16	17	9	10	11	12	13	14	15
+21	22	23	24	25	26	27	18	19	20	21	22	23	24	16	17	18	19	20	21	22
+28	29	30	31				25	26	27	28	29	30		23	24	25	26	27	28	29
+														30	31					
+2003
+October	November December
+2004
+
+January_________February March
+S	M	T	W	T	F	S	S	M	T	W	T	F	S	S	M	T	W	T	F	S
+				1	2	3	1	2	3	4	5	6	7		1	2	3	4	5	6
+4	5	6	7	8	9	10	8	9	10	11	12	13	14	7	8	9	10	11	12	13
+11	12	13	14	15	16	17	15	16	17	18	19	20	21	14	15	16	17	18	19	20
+18	19	20	21	22	23	24	22	23	24	25	26	27	28	21	22	23	24	25	26	27
+25	26	27	28	29	30	31	29							28	29	30	31			
+April				Ma				py						June						
+s	M	T	W	T	F	s	s	M	T	W	T	F	S	s	M	T	W	T	F	S
+				1	2	3							1				2	3	4	5
+4	5	6	7	8	9	10	2	3	4	5	6	7	8	6	7	8	9	10	11	12
+11	12	13	14	15	16	17	9	10	11	12	13	14	15	13	14	15	16	17	18	19
+18	19	20	21	22	23	24	16	17	18	19	20	21	22	20	21	22	23	24	25	26
+25	26	27	28	29	30		23	24	25	26	27	28	29	27	28	29	30			
+							30	31												
+July							August							September						
+s	M	T	W	T	F	s	s	M	T	W	T	F	S	S	M	T	W	T	F	S
+				1	2	3	1	2	3	4	5	6	7				1	2	3	4
+4	5	6	7	8	9	10	8	9	10	11	12	13	14	5	6	7	8	9	10	11
+11	12	13	14	15	16	17	15	16	17	18	19	20	21	12	13	14	15	16	17	18
+18	19	20	21	22	23	24	22	23	24	25	26	27	28	19	20	21	22	23	24	25
+25	26	27	28	29	30	31	29	30	31					26	27	28	29	30		
+Octo		ber					Novemt			ier				December						
+S	M	T	W	T	F	s	S	M	T	W	T	F	S	S	M	T	w	T	F	S
+					1	2		1	2	3	4	5	6				1	2	3	4
+3	4	5	6	7	8	9	7	8	9	10	11	12	13	5	6	7	8	9	10	11
+10	11	12	13	14	15	16	14	15	16	17	18	19	20	12	13	14	15	16	17	18
+17	18	19	20	21	22	23	21	22	23	24	25	26	27	19	20	21	22	23	24	25
+24	25	26	27	28	29	30	28	29	30					26	27	28	29	30	31	
+31																				

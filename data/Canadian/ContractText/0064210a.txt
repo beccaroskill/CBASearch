@@ -1,0 +1,1731 @@
+﻿M- 023-05
+LABOUR AGREEMENT
+between
+MOOSEHEAD BREWERIES LIMITED Saint John, N. B.
+and
+NEW BRUNSWICK UNION OF PUBLIC AND PRIVATE EMPLOYEES: BREWERY AND SOFT DRINK WORKERS LOCAL 362
+EXPIRES JANUARY 31, 2018
+00642 (10)
+LABOUR AGREEMENT
+between
+MOOSEHEAD BREWERIES LIMITED Saint John, N. B.
+and
+NEW BRUNSWICK UNION OF PUBLIC AND PRIVATE EMPLOYEES: BREWERY AND SOFT DRINK WORKERS LOCAL 362
+EXPIRES JANUARY 31, 2018
+INDEX
+#	SUBJECT	PAGE
+	Parties	1
+	Forward	1
+	Purpose	1
+	Statement of Shared Principles	2
+1.00	Recognition and Scope of Bargaining Unit	4
+1.02	Definition of “Employee”	4
+1.03	Contracting Out	5
+1.04	Union Activities and	7
+	Representation During Working Hours	
+1.05	Negotiations	10
+1.06	Labour Management Meetings	10
+1.07	Copies of Agreement	11
+1.08	Bulletin Board	11
+2.00	Management Functions	11
+3.00	Union Security	13
+3.04	Leave of Absence	15
+3.05	Educational Leave	17
+4.00	No Strikes or Lockouts	17
+5.00	Grievance Procedure	18
+5.01	Individual Grievance	19
+5.02	Collective Grievance	19
+5.03	Company/Union Grievance	20
+5.04	Discipline, Suspension, Discharge	20
+5.07	Arbitration	23
+6.00	Health & Safety	25
+6.08	E.F.A.P. Program	29
+7.00	Clothing & Equipment	29
+8.00	Seniority, Vacancies, Promotions, Postings, Temporary Employees	32
+9.00	Technological Change	46
+10.00	Training Assistance	51
+11.00	Adequate Manpower	53
+12.00	Wage & Job Classifications	53
+13.00	Hours of Work - Overtime and	55
+	Premiums	
+13.04	Shift Premiums	60
+13.05	Rest Periods - Lunch Breaks	60
+13.06	Schedule of Hours	61
+13.07	Overtime	63
+13.12	Assignment of Overtime	65
+13.14	Overtime Rest Periods and Meal Allowances	69
+13.15	Call-In	70
+13.16	Reporting Allowance	71
+13.17	“Banking’ of Overtime Pay	72
+13.18	Sleep Time	73
+14.00	Special Allowance	73
+15.00	Paid Holidays	73
+16.00	Vacations	78
+17.00	Paid Time Off	85
+17.01	Sick Leave	85
+17.02	Jury Duty	86
+17.03	Bereavement Leave	87
+18.00	Workers Compensation Supplement	88
+19.00	Employee Benefits	89
+20.00	General	91
+20.02	Maternity Leave	92
+21.00	Duration of Agreement	95
+	Signature Page	96
+	Appendices A - F	
+A	Wages and Job Classifications, Relieving Foreman, COLA	99
+B	Guaranteed Wage Plan	110
+C	Employee Benefit Plan	125
+	General Information	125
+	How To Make Your Claim	129
+	Schedule of Insurance	131
+Group Life Insurance	136
+Accidental Death &	137
+Dismemberment
+Table of Losses	138
+Weekly Indemnity Insurance	142
+Long Term Disability	145
+Insurance
+Dental Care Insurance	152
+Supplementary Hospital	159
+Benefits
+Extended Health Benefits	159
+Vision Care Benefits	164
+Prescription Drug Coverage	165
+Group Travel Plan	166
+Co-ordination of Benefits	170
+D	Pension Plans	171
+E	Letters of Understanding	181
+1.	Deferred Retirement	183
+2.	Pre-retirement Counseling	186
+Program
+3.	Rest Periods and Lunch	187
+Period for Kettlemen
+4.	Call In From Call List	189
+5.	Apprenticeship Program	191
+6.	Retiree Health & Dental	192
+7.	Vacation Preference	194
+8.	6 day - 12 Hour Shifts Only	197
+9.	Extended Work W eek,	199
+Article 13.00
+10.	Energy Efficiencies	202
+11.	Staffing	203
+12.	Recall Provision for	204
+Temporary Employees
+	13. Work Cell and Work Cell	206
+	Operator Guidelines	
+	14. Overtime	210
+F	Separation Pay	212
+COLLECTIVE AGREEMENT
+BETWEEN:
+MOOSEHEAD BREWERIES LIMITED, hereinafter called "the Company"
+AND
+BREWERY AND SOFT DRINK WORKERS LOCAL 362, hereinafter called "the Union"
+FORWARD
+For the purpose of this Agreement, the masculine pronoun shall be deemed to include the feminine.
+PURPOSE
+In recognition of their mutual interests, this Agreement is entered into for the purpose of recording the hours, wage rates and terms or conditions of employment of the Company's employees; to set up the means for settling amicably any differences or grievances which may possibly arise and for the general purpose of promoting and improving industrial relations between the Company and the Union.
+1
+Statement of Shared Principles
+Moosehead Breweries Limited will strive to become a profitable enterprise, which will help ensure that employees will have an expectation for a long-term career. For their part, employees will work towards excellence in quality while delivering the highest degree of service to our customers; achieving this through the talent and commitment of our people and the use of modern processes and practices.
+Moosehead will establish and maintain a healthy and safe workplace that fulfills individual needs for mutual trust, personal growth and appreciation for results. We will be recognized as having employees that are willing to learn, to change, and to act quickly, to maintain and grow our market position.
+To realize the strategic goals of the company and therefore to benefit employees requires the combined efforts of Management, union leaders, and all employees. Therefore all employees within the Brewery shall strive to:
+•	Meaningfully participate in the decisions that affect them.
+•	Willingly do work and assume all tasks for which they are qualified in
+2
+consideration of the relevant provisions of the Collective Agreement.
+•	Develop and maintain a high level of technical, administrative and relationship skills.
+•	Promote Quality, Reliability, Efficiency and Waste Reduction.
+•	Support and encourage initiative, new ideas, trust, mutual respect, equitable and fair treatment as well as cooperation.
+•	Communicate information promptly, accurately and completely.
+•	Assist in training other employees.
+•	Take pride in their work and promote and adhere to the highest standards.
+•	Provide support to those employees with difficulty within the workplace.
+•	Know, understand, respect and practice the intent of the Collective Agreement.
+Both parties agree that their common objective is the desire to ensure the company is competitive, enhancing the job security of employees. The parties believe that these objectives can be best met through good planning and monitoring; the Brewery Management/Union Executives will provide guidance to all the departments in their efforts to bring lasting changes and sustainable results.
+3
+Management and Union leadership agree that in order to manage change there is a commitment to on-going consultation, problem solving, and discussion between the company and the union. As part of these consultations, the company is committed to providing the union with the opportunity to participate in decisions related to change as early as possible.
+ARTICLE 1 RECOGNITION AND SCOPE OF THE BARGAINING UNIT
+1.01	Recognition
+The company recognizes that the Union has been duly certified by the Industrial Relations Board as sole representative to bargain with the Company for all employees, except hereinafter mentioned in 1.02 with respect to wages, rates of pay, hours and terms or conditions of employment during the life of this Agreement and that it has all the rights inherent to such certification.
+1.02	Definition of "Employee"
+The term "employee", wherever used in this Agreement, shall mean all employees of the Company, save and except office staff, salesmen, public relations personnel, watchmen, chief engineer, supervisors and
+4
+foremen and persons above the ranks of supervisor and foreman.
+1.03	Work of the Bargaining Unit -Contracting Out
+(a)	All work coming within the jurisdiction of the bargaining unit shall be reserved for employees in the bargaining unit. Plant maintenance work may be contracted out, as in the past, provided it does not result in layoffs or continuation of layoffs. Truck Drivers and Helpers of outside firms, who are not employees of the Company shall be confined to the plant loading area.
+(b)	Supervisors and foremen including Relieving Foremen and persons above those ranks, shall not perform work of the bargaining unit.
+(c)	Supervisors and foremen may, from time to time, perform work of the bargaining unit for the purposes of training and instructing employees and in emergency situations, or temporarily relieving employees for short periods when other employees are not available.
+(d)	Emergency situations shall mean situations where employees able and willing to do the work are unexpectedly unavailable on the shift
+5
+or on an overtime basis, or where the delay in arranging their assignment or call-in to perform the work, would result in lost production and/or product. Work performed in such situations shall not continue beyond the time required to arrange for assignment or call-in of an employee.
+(e)	The Company will advise all employees of the names of supervisors and foremen to be recognized in each department by posting such information on the bulletin boards. A copy of each such notice and revision shall be delivered to the Union.
+(f)	From time to time, the Company may appoint temporary Charge Hands, who while working with a crew of one (1) or more employees, are specifically charged with the responsibility for the quality and/or quantity of work performed by such crew, provided however, that the temporary Charge Hand only performs work within the jurisdiction of the bargaining unit. Such temporary Charge Hand shall be a member of the bargaining unit and shall be paid thirty cents (.30) per hour above the highest rate being paid to employees under his direction or his classification, whichever is higher, while performing the duties of the Charge Hand.
+6
+(g)	Where the Company contracts out work to be done within its premises for construction to a non-union contractor, it shall advise the Union as to the nature of the work and the name of the contractors. Where price, availability. experience and quality of work are equal. preference shall be given to contractors employing union personnel. The foregoing shall not apply to outside personnel who periodically service equipment.
+1.04	Union Activities and Representation -During Working Hours
+No Discrimination
+(a)	The Company and the Union agree that there will be no discrimination against any employee because of race, colour, creed, nationality, place of origin, sex, sexual orientation, marital status, language, religion, disability or membership in the Union, all as is more particularly set out in the Human Rights Act.
+All employees will refrain from comments, gestures, the display of material or physical contact of a sexual nature that may be construed as objectionable or offensive. This includes deliberate, unsolicited and nonconsenting behaviour, either on a one time basis or a series of incidents.
+7
+Shop Stewards and Grievance Committee
+(b)	The Company shall recognize one (1) Shop Steward or alternate who shall act in the absence of the regular Shop Steward, appointed by the Union in each of the following departments:
+Production (on each shift)
+Production Maintenance Brewhouse and Cellars Shipping and Receiving Engineering and Brewing Maintenance Quality Assurance
+Union Activities - During Working Hours
+(c)	There shall be no Union activities during working hours which interfere with the duties of any employee, unless permission is first obtained from the employee's immediate supervisor, such permission will not be unreasonably withheld at any time and all such time off during an employee's working hours shall be without loss of pay. Such activities shall be limited to those required for the administration and application of the terms of this Agreement.
+(d)	Union representatives and committee members shall be entitled to leave their work during hours to enable them to carry out their
+8
+functions under the Agreement, including the investigation and processing of grievances. If performing such functions interferes with their duties, permission to leave work during working hours for such purposes shall first be obtained from their immediate supervisor, and such permission shall not be unreasonably withheld at any time. All such time spent in performing Union duties during working hours shall be without loss of pay.
+Meetings with Management Personnel
+(e)	Every Officer and Steward of the Union who is an employee shall be allowed such time off as may be necessary to enable them to attend those appointments with Management Personnel at which their presence is required under any provision of this Agreement, and every employee who is a necessary witness at a grievance or arbitration hearing established under this Agreement, shall be allowed such time off as may be necessary to enable them to give evidence at such a hearing. The allowing of such time off shall, however, be subject to the employee's having obtained permission from their immediate supervisor to leave their work. Such permission shall not be unreasonably withheld and all such time off during an employee's working hours shall be without loss of pay.
+9
+1.05	Negotiations
+At the request of the Union, the Company will grant time off, without loss of pay, during the employee's regular working hours, to the employee holding the highest ranking office in the Local Union and four (4) additional employees selected by the Union, to allow them to be members of the Union Negotiating Committee and to enable such employees to attend meetings with the Company representatives, a Conciliation Board, or Mediator, for the purposes of negotiating this Agreement, a renewal, or amendments during the life of this or any subsequent Agreement. The Local Union will reimburse the Company with 50% of the wages paid to such employees for these purposes.
+The Company and the Local Union will equally share the costs of any meeting rooms or other expenses incurred during meetings between the Union Negotiating Committee and Company representatives, a Conciliation Board, or Mediator, for the purposes of negotiating this Agreement, a renewal, or amendments during the life of this or any subsequent Agreement.
+1.06	Labour-Management Meetings Labour-Management meetings shall be held during the third week of each month or a time
+10
+mutually agreed upon by the Company and the Union. Union representation at Labour-Management meetings shall consist of its Local Executive Board members and departmental Shop Stewards, to a maximum of twelve (12).
+The Company and the Union agree to discuss disability issues following completion of negotiations. The Labour-Management Committee will be responsible for development of any joint programs dealing with such issues.
+1.07	Copies of Agreement
+The Company agrees to supply the Union with sufficient copies of this Agreement in booklet form for all employees, and a reasonable number of additional copies for the Union.
+1.08	Bulletin Board
+The company agrees to provide a bulletin board for the use of the Union and will allow the Union to post notices of meetings and other official Union notices duly signed by an Officer of the Union.
+ARTICLE 2 MANAGEMENT FUNCTIONS
+2.01
+The Union acknowledges that it is the right of the Company to:
+11
+(a)	maintain order, discipline and efficiency.
+(b)	hire, discharge, transfer, promote, demote or discipline employees.
+(c)	generally to manage the industrial enterprise in which the Company is engaged and without restricting the generality of the foregoing to determine the products and by-products to be manufactured, processed, packaged, shipped and distributed, the methods of manufacturing, processing, packaging, shipping and distribution, the sources, quantities and kinds of ingredients, supplies, and other materials used in the manufacturing, processing and packaging of the Company's products and by-products, the schedules of manufacturing, processing, packaging, shipping and distribution and the kinds and locations of machinery, equipment and tools used throughout the Company's operations.
+2.02
+The Company has the right to make reasonable rules to be observed by the employees, and these rules shall not be inconsistent with the terms or spirit of this Agreement.
+12
+2.03
+The company agrees that it will not discharge or discipline any employee without just cause.
+2.04
+It is understood that in exercising these functions the Company must conform to all other clauses of this Agreement.
+2.05
+There shall be a meeting between the representatives of the Company and the Union, at the request of either party, on any matter of interest or concern, which affects the administration of this Agreement.
+ARTICLE 3 UNION SECURITY -ACTIVITIES
+3.01	Union Security
+(a)	Every employee in the bargaining unit shall be a member in good standing of the Union, and as a condition of his continued employment he shall continue to remain a member in good standing of the union.
+(b)	The Union agrees that it will not refuse membership to any employee without just cause. Whenever an employee is suspended or expelled from membership the Union will give
+13
+the Company, in writing, the reasons for such action.
+3.02	Check-off. Union Dues and Initiation Fee
+(a)	Every employee shall, as a condition of his continued employment, authorize the Company in writing, to deduct from each pay payable to him thereafter during the life of this Agreement and during the life of any subsequent collective agreement containing similar provisions, such amount as may from time to time be certified in writing by the Union to the Company as being the amount of Union Dues and assessments currently payable.
+(b)	Every new regular employee shall at his time of hiring, if he is not at such time a member in good standing, of the Union, complete and sign an application for membership in the Union and an authorization for deduction from his pay of such amount as may at that time be certified by the Union to the Company, in writing, as being the amount of the Union's standard Initiation Fee.
+(c)	An Application for Membership and Authorization For Deduction of Initiation Fee shall have no application until ninety (90) days after date of hire.
+14
+(d)	Authorization for Deduction of the Union Initiation Fee, Union Dues and assessments shall be in the forms provided by the Union.
+(e)	Initiation Fees, Union Dues and assessments deducted by the Company shall be remitted to the Financial Secretary of the Union prior to the 15th day of the month following the month in which such deductions were made, together with such detail and explanations as may be reasonably required.
+3.03	Union Dues. To Be Indicated on Statements of Income
+The Company will indicate the amount of Union Dues deducted from each employee's pay, for each calendar year, on statements of income required for taxation purposes by any government agency, federal or provincial.
+3.04	Leave of Absence - Union Activities
+(a) The Company will grant a leave of absence for a short period to perform legitimate duties on behalf of the union or to attend a trade union convention or a labour institute and shall not be prejudiced thereby provided sufficient prior notification is given to the Company and leave of absence sought does not disrupt normal brewery operations.
+15
+(b)	Leave of absence will be granted for a period of not more than twelve (12) months or for the balance of the duration of this Agreement, whichever is longer, for any employee who has been elected or appointed as an official of the National Union or of the Local Union, if such duties require him to have leave of absence from his Company duties on a full time basis.
+(c)	Employees on such leave of absence will be continued as active members of the Employee Benefit Plan upon payment of total contributions whether from the Union or from the employee concerned. During such periods of leave of absence the employee's seniority shall continue to accumulate as if he were employed at his regular post by the Company.
+(d)	Upon the written request of the Union, the Company agrees to continue to pay employees granted leaves of absence under (a) or (b) above, their regular hourly rate while on such leave, subject to being fully reimbursed by the Union. Billing will be at $30.00 per hour for full time employees on leave pursuant to (a) above. For (b) above billing will be for such employees’ wages and the associated cost of all benefits, contractual or otherwise, for such employees.
+16
+3.05	Educational Leave
+(a)	Upon written application by the President of Local Union No. 362, the Company agrees to grant an educational leave of absence, without loss of regular pay, up to a total maximum of twenty-four (24) working days in any calendar year, to the Union Executive Officers and elected Stewards. Such educational leave will be arranged between the Union and the Company to minimize disruption of the Company's operations.
+(b)	Employee members of Company and Union joint committees established under this Agreement shall be provided reasonable opportunities through leaves of absence, without loss of regular pay, to attend conferences, seminars, workshops and training programs, approved by the Company and the Union, to enable them to participate effectively on such committees.
+ARTICLE 4 NO STRIKES OR LOCKOUTS
+4.01
+The Union undertakes that there shall be no strikes, slowdowns or other interruptions of operations and the Company undertakes that there will be no lockouts, each for the duration
+17
+of the Agreement, it being understood that all differences between the parties shall be settled in accordance with the provisions of this Agreement.
+4.02
+If an employee in the bargaining unit encounters a bona fide picket line in the course of his normal duties, there shall be an immediate conference between the Company and the Union Executive before any decision is made by either party as to whether the picket line should or should not be respected.
+ARTICLE 5 GRIEVANCE PROCEDURE
+Any difference or dispute which may arise between the parties during the life of this Agreement, concerning the interpretation, application, administration or alleged violation of this Agreement, including any question as to whether a matter is arbitrable, shall be dealt with as a grievance, as hereinafter provided.
+There shall be an earnest effort on the part of both parties to this Agreement to deal promptly with grievances through the procedure provided below.
+18
+5.01 Individual Grievances
+(a)	An employee who has a grievance will ordinarily discuss the matter with his immediate supervisor and if the matter is not resolved in that discussion, he may refer the question to his Shop Steward for consideration. However, should the nature of the grievance be such that the employee prefers to refer it to his Shop Steward first, then he may do so.
+(b)	If a grievance is referred by an employee to his shop steward and if the shop steward considers that there is a reasonable basis for the grievance, he or the chief shop steward may refer the matter in writing to the Company designate as notified by the Company to the Union in writing with a copy to the relevant supervisor. The Company designate will within 10 working days arrange a meeting with all the principals to hear the grievance. The company’s decision will be given to the union in writing within 10 working days after such meeting.
+5.02	Collective Grievance Should a group of two (2) or more employees who have a grievance based upon the same provision or provisions of this Agreement, or upon similar facts, desire to have such matter dealt with collectively rather than as individual grievances, they may refer the matter to their
+19
+Shop Steward or Chief Shop Steward if employees from more than one (1) department are involved, and if the Shop Steward or Chief Shop Steward considers that there is a reasonable basis for the grievance, the Shop Steward or Chief Shop Steward may present such matter, in writing, for the Grievance Procedure.
+5.03	Company/Union Grievance
+Should any grievance or dispute arise directly between the Company and the Union, concerning the general policy of either the Company or the Union, which affects the orderly administration of this Agreement, either party may invoke the grievance and arbitration procedure.
+5.04	Discipline. Suspension or Discharge
+(a)	Should it become necessary to officially warn an employee that failure to improve his record with the Company may result in disciplinary action being taken, such an employee shall be advised of his right to have his Shop Steward present at such meeting. The giving of the warning shall be confirmed to the employee by the Company in writing. A copy of such letter will be given to the employee's Shop Steward on the same date it is given to the employee.
+20
+(b)	When an employee is to be suspended or discharged, he shall be advised of his right to have his Shop Steward present and if requested, shall have his Shop Steward present for such meeting or the employee may waive his right to a Shop Steward in writing, on a form agreed to between the Union and the Company, with a copy to the Union. The reasons for his suspension or discharge will be given. In any event, an employee who is suspended or discharged will be given the opportunity to discuss the matter with his Shop Steward during working hours and prior to leaving the Company's premises. Such suspension or discharge shall be confirmed to the employee by the Company, in writing, and a copy of such letter will be given to the employee's Shop Steward on the date it is given or mailed to the employee.
+(c)	The Company agrees that in the event an employee is disciplined for just cause, the records of such disciplinary action shall be removed from such an employee's personnel files, and destroyed, after a period of twelve (12) months (two (2) years in the case of suspension) from the date the employee was officially advised in writing to such discipline, provided the employee has not been subject to further discipline within such period. In any event, discipline imposed will not be referred to
+21
+after the expiry of three (3) years from the date of discipline.
+(d)	It is further understood and agreed that records relating to discipline reversed or withdrawn under the grievance or arbitration procedure shall not be kept or recorded in an employee's personnel files. The Company also agrees that any employee shall have the right to review their personnel files upon request in the presence of a representative of the Company, with a Shop Steward present if requested by the employee, concerning information in such an employee's personnel files concerning his application for employment, hiring date, transfer, demotions, discipline (including written warnings), work performance and evaluation by supervisors and others. Upon request, the Company will also provide an employee with a copy of any material or documents in an employee's personnel files, which if inaccurate, shall be corrected.
+(e)	The Company agrees that the discharge of any employee shall only be made by the Company designate, after the grounds upon which the discharge for just cause are based have been thoroughly investigated by the Company, and the employee has been given an opportunity, with his Shop Steward present, to respond to the reasons stated for the discharge.
+22
+5.05
+Saturdays, Sundays and observed holidays shall not count as "working days" as referred to in this Article 5.
+5.06
+The Company will only consider grievances the circumstances of which are alleged to have occurred not more than fifteen (15) working days prior to the presentation of the grievance, in writing, unless the employee is prevented from doing so by unusual circumstances.
+5.07	Arbitration
+(a)	Should any grievance or dispute arise which is not satisfactorily determined under the foregoing provisions, and should the grieving party desire to carry the matter further, the matter may then, by notice in writing given to the other party within ten (10) working days from the date when a decision was given, or should have been given, as provided for above, be referred by the grieving party to arbitration as provided for below.
+(b)	Any matter referred to arbitration under this Agreement, shall be submitted to a single Arbitrator.
+23
+(c)	The party giving notice of desire to refer a matter to arbitration shall include, in the written notice given to the other party, the names of at least three (3) persons for the consideration of the other party as an Arbitrator. An earnest effort will be made by both the Company and the Union to reach mutual agreement on the person to be requested to serve as Arbitrator.
+(d)	In the event that the parties fail agreement on such an Arbitrator, the Minister of PostSecondary Education, Training and Labour for the Province of New Brunswick may, on the request of the grieving party, appoint an Arbitrator.
+(e)	The Arbitrator shall hear the grievance and shall issue a decision, within fifteen (15) days, or within such other period as the parties may agree upon or the Arbitrator may reasonably require, following the hearing, which shall be final and binding upon the parties and any employee affected by it.
+(f)	The Arbitrator shall not have the power to alter or amend any of the provisions of this Agreement.
+(g)	Where an Arbitrator determines that an employee has been discharged or otherwise disciplined by the employer for just cause, the
+24
+Arbitrator may substitute such other penalty for the discharge or discipline as to the Arbitrator seems just and reasonable in all the circumstances.
+(h)	The parties and the Arbitrator shall have access to the employer's premises to view working conditions, machinery, or operations, which may be relevant to the resolution of a grievance.
+(i)	The arbitrator shall have jurisdiction to determine whether a grievance is arbitrable.
+(j)	Each of the parties to this Agreement shall pay one-half (1/2) of the remuneration and expenses of the Arbitrator.
+(k)	Any of the time limits referred to in this Article 5 may be extended by mutual agreement, in writing, between the parties to this Agreement.
+ARTICLE 6 OCCUPATIONAL HEALTH AND SAFETY
+6.01
+The Company agrees to make all necessary and reasonable provisions for the health and safety of all employees during the working
+25
+hours. The Company will furnish adequate facilities, equipment and devices for that purpose. The Company and the Union mutually agree that employees will be encouraged to cooperate in the maintenance of healthy and safe working conditions, in the proper use of protective clothing and equipment, and in the observance of all safety rules and regulations as laid out in the Occupational Health and Safety Act.
+6.02	Illness or Accident
+(a)	While at work, an employee who suffers any injury, no matter how slight, or who, due to work related cause, becomes ill, shall report to his supervisor and be allowed reasonable time to secure proper treatment, with no loss of pay, during an employee's regular working hours. In the event that such an employee is unable to complete the balance of his shift on that day due to such disability, the employee shall be paid for the balance of his shift, at his regular hourly rate.
+(b)	Illness or injury which results in an employee being absent from work or affects the employee’s ability to do his job must be reported promptly by the employee to his immediate Supervisor.
+26
+(c)	In the event of a dispute between the Company and an employee's physician relating to any employee's claim or entitlement to benefits for a non-occupational illness or injury, the employee may be referred to an independent specialist for an examination, at the expense of the Company.
+6.03
+For the bargaining unit a Joint Health and Safety Committee will be established, consisting of six (6) members. Three (3) members will be appointed by the Union and three (3) members will be appointed by the Company, each for a term of two (2) years. A number of alternates, equal to their regular members, shall be appointed by the Union and the Company, who will act in the absence of the regular Committee member(s).
+6.04
+The duties of the Committee will consist of making recommendations for the improvement of health and safety, investigation of all accidents, and working towards the elimination of all health and safety hazards.
+6.05
+The Committee, consisting of a majority of its members shall meet regularly, at least once in each month, or at the request of the Union or
+27
+the Company's representatives, to discuss matters related to health and safety within the Company's operations, to review accident reports and plan health and safety programs. They shall also make regular inspections of work sites and equipment to check all health and safety conditions. A copy of the reports and recommendations of the Committee shall be forwarded, in writing, to the Company and the Union.
+6.06
+When an employee has reason to believe that a job or work site, equipment, or a vehicle, is not in safe operating condition or presents a danger to the health or safety of the employee personally or other persons, the employee shall promptly report the matter to the employee’s Supervisor for immediate attention. In the event that the employee is not satisfied with the action taken by the Supervisor or the Supervisor fails to take any action, the employee may submit the matter to a member of the Committee, who shall immediately take the matter up with the Department Head, and then if necessary, in consultation with the Company or Union counterpart on the Committee, investigate the matter and submit a written report, with recommendations, to the Chairman and Secretary of the Committee.
+28
+6.07
+The Company, the Union, all employees, and the Joint Health and Safety Committee shall at all times in matters relating to occupational health and safety be guided by the provisions of this Agreement, the Occupational Health and Safety Act, Regulations and Codes of Practice made pursuant to that Act, New Brunswick WHMIS regulations and procedures and common sense.
+6.08	Employee and Family Assistance Program
+The parties agree that the Employee and Family Assistance Program will be maintained and promoted by them.
+ARTICLE 7 UNIFORMS, PROTECTIVE CLOTHING AND EQUIPMENT
+7.01
+Where the Company requires an employee to wear a uniform or special work clothing, such uniforms or work clothing will be provided by the Company, at no cost to the employee. Such employees are required to present a clean and neat appearance at all times. Those employees issued uniforms by the Company must wear them at all times while at work.
+29
+7.02
+All regular employees shall be issued two (2) sets of uniforms each calendar year, consisting of two (2) trousers and two (2) shirts (long or short sleeves). The Company will continue to issue lab coats to Quality Control Technicians as it has in the past.
+7.03
+(a)	The Company agrees to supply vests to protect employees exposed to low temperatures while performing their work, such as employees working as Fork Lift Operators in Loading Docks during Winter, and Carbonating and Fermenting in cellars.
+(b)	Employees requiring vests on a regular basis will retain them. Those employees requiring vests on a part-time or temporary basis shall return them to the Company when no longer required.
+(c)	The Company shall also maintain two (2) clean heavy winter jackets and two (2) clean sets of heavy rainwear garments in the Storeroom, for use in emergencies and breakdowns occurring outside the plant, to be used on a sign-out and return basis.
+30
+7.04	Uniforms. Protective Clothing and Equipment
+Employees who require coveralls shall be issued two (2) sets per calendar year. These coveralls shall be purchased and cleaned at Company expense. Maintenance men shall be issued 3 sets of coveralls per calendar year.
+7.05
+(a)	The Company shall pay to all eligible employees an allowance of $175 per calendar year towards the cost of safety boots or shoes to be paid in the April 15th pay period of each year. Eligible employees for this benefit shall be:
+(i)	All full time employees. and
+(ii)	New hires (temporary or probationary employees) who have worked 720 hours (90 days * 8 hours), and
+(iii)	All employees not identified in (i) or (ii) above who worked 1040 hours in the previous calendar year.
+(b)	Any unused balance accumulated to December 31. 2010 of the boot allowance will expire on the later of March 31. 2011 or 30 days after the ratification of this collective agreement.
+(c)	Every two calendar years the Company will pay for prescription safety glasses.
+31
+Reimbursement will be made on presentation of an approved receipt. Eligible employees for this benefit shall be:
+(i)	All full time employees, and
+(ii)	New hires (temporary or probationary employees) who have worked 720 hours (90 days * 8 hours), and
+(iii)	All employees not identified in (i) or (ii) above who worked 1040 hours in the previous calendar year.
+7.06
+All employees shall be required to wear protective hearing devices and approved safety glasses in work areas designated by the Company. The Company shall issue such devices to employees who require them, on a replacement basis due to normal wear and use, at no cost to the employee.
+7.07
+Rubber boots, aprons, gloves and goggles will be issued to employees engaged in work which requires this protection.
+ARTICLE 8 SENIORITY
+8.01	Definition of Seniority Seniority of an employee shall mean the length of his unbroken service with the Company, in the bargaining unit.
+32
+8.02	Definitions. Establishment of Seniority
+A probationary employee is one who has been hired with a view to his becoming a regular employee. but who has not yet completed ninety (90) days of actual work. On completion of his probationary period. such an employee shall be credited with seniority from a date which is ninety (90) working days prior to the date on which he completed his probationary period.
+8.03
+A regular employee is one who
+(a)	has actually worked in excess of ninety (90) working days as a probationary employee. or
+(b)	having been reclassified from temporary to probationary status. has actually worked in excess of a total of ninety (90) working days from the commencement of his last employment with the Company, or
+(c)	is the temporary employee who works 2000 hours or more in any two calendar (January 1 - December 31) years. or
+(d)	is the temporary employee with the earliest date of hire who will be placed on the regular employee’s seniority list if the
+33
+number of temporary employees is greater than fifteen percent (15%) of the regular workforce, not to exceed thirty (30) employees. The date on which such temporary employee is placed on the regular employee’s seniority list shall be his or her seniority date. This is based on the working of reasonable overtime by employees on the regular employee’s seniority list.
+8.04
+(a)	A "temporary employee" is one who is hired by the Company to perform work of a temporary nature, which shall mean work during peak business periods and relieving when regular employees are on vacation, or absent due to illness or injury.
+(b)	Temporary employees shall be rehired to perform available work as temporary employees, in order of first day hired.
+(c)	A temporary employee who works 1200 hours or more in any two calendar years (January 1 - December 31) will have their wage rate increased to $18.00 per hour.
+(d)	A temporary employee who works 1200 hours or more in any three calendar years (January 1 - December 31) will have their wage rate increased to $21.00 per hour.
+34
+(e)	A temporary employee who works 1200 hours or more in any four calendar years (January 1 - December 31) will have their wage rate increased to $24.00 per hour.
+(f)	A temporary employee who works 1200 hours or more in any five calendar years (January 1-December 31) will have their wage rate increased to the general labour rate.
+(g)	The wage rates set out in (c), (d) and (e) above will be increased by the rate and on the dates set out below:
+1.0% - April 1, 2012 1.5% - January 1, 2014 1.0% - January 1, 2015 1.5% - January 1, 2016 1.5% - January 1, 2017
+8.05	Seniority List
+A seniority list shall be established and maintained by the Company for all employees in the bargaining unit, showing the name and seniority date of each employee who has acquired seniority. Copies of the original and all revised seniority lists shall be delivered to the Union and posted on the plant bulletin boards. Such lists shall be subject to review by the Union and any irregularities in the list not
+35
+consistent with the seniority provisions defined in this Agreement shall be corrected.
+8.06	When Service Broken
+An employee's service with the Company shall
+be broken if that employee:
+(a)	quits voluntarily,
+(b)	is discharged for just cause and not reinstated.
+(c)	Is laid off for a period in excess of twelve (12) consecutive months or more, or for a period in excess of benefit entitlement under the Guaranteed Wage Plan, whichever is greater.
+(d)	fails to return to work on the expiration of any period of leave granted by the Company, without just cause, or unless excused by the Company.
+(e)	fails to reply to a notice of recall, or report for work as required under clause 8.09, without just cause, or unless excused by the Company.
+(f)	is absent from work for three (3) consecutive days without having notified the Company and received permission in advance, where that is possible, or
+36
+(g)	otherwise ceases to be employed by the Company.
+The Company will advise the Union, in writing of any leave of absence granted to any employee for any period of five (5) working days or more, including any extension of such leave.
+8.07	Application of Seniority - Vacancies, Promotions. Demotions. Transfers, etc.
+(a)	In filling posted vacancies within the bargaining unit, seniority shall govern, provided the senior employee has the ability to perform the job.
+(b)	Employees selected under 8.07 (a) above, shall be given an appropriate training and trial period, during which they must demonstrate ability progressing towards satisfactorily fulfilling the normal requirements of the job.
+(c)	If within the training and trial period an employee is demoted or transferred back due to his inability to satisfactorily perform such new duties, he shall be permitted to revert to his former position and wage rate, without loss of seniority and the employee who has been promoted or transferred because of the
+37
+re-arrangement of positions shall also be returned to his former position and wage rate without loss of seniority.
+(d)	Within two (2) weeks of a job vacancy, the creation or establishment of a new job, notice of such vacancy or new job shall be posted on the Union bulletin boards for a period of ten (10) working days for the information of all employees in the bargaining unit. The notice shall set out the job description, qualifications required by the job, the classification and wage rate. All brewing department postings (brewhouse, carbonating, fermenting, kegging) both permanent and relief shall be held for a minimum of one (1) year.
+(e)	During the period referred to in (d) above, any employee in the bargaining unit may make application for the job posted. All applicants shall receive consideration in accordance with the provisions of this clause 8.07. Employees in the bargaining unit having the ability to perform the job in accordance with this clause
+8.07	which shall include those employees having preferential rights for recall or rehiring, shall receive the job in preference to persons outside of the bargaining unit. The Company may fill any job vacancy temporarily, pending completion of the Job Posting procedures set out in this Agreement.
+38
+(f)	The Company will deliver to the Union a copy of each Job Posting, a list of all applicants, and will also advise the Union of the name of the successful applicant, in writing, prior to declaring and posting such information. The Company agrees to use a standard form, to be mutually agreed upon, for Job Postings.
+(g)	The Company will select the successful applicant, if any, within ten (10) working days of the close of the posting period and will advise the employees in the bargaining unit of its decision by posting that information on the Union bulletin boards. The successful applicant shall be assigned to the job for which he applied within thirty (30) working days of the close of the posting period.
+(h)	Employees may be transferred temporarily from one position or department to another. An employee transferred to perform work on a temporary job shall revert to his regular job and classification upon completion of such temporary work assignment. The transferring of an employee to work outside of his regular classification and job or to another department may only be done by an employee's departmental supervisor.
+39
+(i)	An employee who holds a permanent job at present or who acquires such a position through the Job Posting procedure, shall not at the same time hold a relief or temporary position with the exception of Relief Chief Operating Engineer. Employees who do not hold a permanent position may not hold more than two (2) relief or temporary positions at any one time, except for brewing department, production maintenance and the lab which shall be limited to one (1) position within that occupational group, other than training or upgrading positions. Employees holding relief positions through a job posting shall be assigned to perform work on such jobs in order of seniority. Employees who must be replaced partway through any shift may be replaced for the remainder of that shift by the most readily available person who can do the job. Employees will be limited to two posting changes in any twenty-four (24) month period, either relief or full time.
+(j)	The Company will assign regular employees to work on skilled jobs, prior to assigning non-posted temporary employees to such jobs, provided regular employees are able and willing to do the job and are not at that time assigned to an equally paid skilled position.
+40
+8.08	Layoff and Recall From Layoff
+(a)	In the event that it becomes necessary to reduce staff, seniority shall govern. The Company shall first lay off all temporary employees and then all probationary employees, in order of first day hired. If further reduction of staff is required, it shall be made impartially and in strict reverse order of seniority, provided the senior employee is able to perform the work available, in accordance with the provisions of clause 8.07 of this Agreement. Any employee transferred to another job under these seniority provisions in order to avoid layoff shall immediately be paid at the rate of the job to which such an employee is transferred.
+When the working force is increased following a layoff, the employees will be recalled, in order of seniority, in the case of regular employees, or in the order of first day hired, in the case of probationary and temporary employees, to their former jobs, or to jobs which they are able and willing to perform.
+(b)	The Local President, Vice President and Chief Shop Steward shall be exempt from temporary layoffs as long as there is work in their respective departments, provided they can satisfactorily fulfill the normal requirements of
+41
+the job. Should one or more of these Union Officers be absent for any reason at any time during the layoff, the most senior steward otherwise on layoff will be recalled to work for such period of absence, for the purpose of maintaining union representation.
+(c)	The minimum call-in period will be four (4) hours. For the purposes of page 46, appendix B 4(iv), the minimum call-in will constitute a normal working day.
+(d)	All employees subject to call from the call list must be available for call-in as required, unless prior notification has been provided. In the event that an employee refuses (except for reasonable cause as per Letter of Understanding 4) or is unobtainable for three calls in any 12 month period during the hours of 6:00 a.m. to 10:00 a.m., 2:00 p.m. to 6:00 p.m. and 10:00 p.m. - 2:00 a.m. will be subject to discipline up to and including dismissal. Two calls, 10 minutes apart, will be made for each call-in.
+8.09
+(a)	The Company shall maintain a list of employees laid off by it for the bargaining unit, and such lists shall show the seniority of such employees, or the first day hired in the case of temporary and probationary employees. When
+42
+workers are required for the bargaining unit, the layoff list will be examined and, to the extent of the number of jobs available, the employees will be recalled from transfer or layoff in accordance with the applicable provisions of Article 8. Such lists shall be revised regularly, with copies of each such list posted on the plant bulletin boards and delivered to the union.
+(b)	If, following such recalls, there is still a deficiency of workers in the bargaining unit, probationary employees and then temporary employees on the lay-off list, in order of the first day hired, shall be offered such vacancies provided the employee can satisfactorily fulfill the normal requirements of the job. Probationary and temporary employees shall retain preferential rights for recall after lay-off for a period of twelve (12) months from the date following the date of their last lay-off provided their previous employment was satisfactory.
+(c)	If, at the time of recall, a regular employee is not in the active employment of the Company, a written notice shall be sent to him, addressed to the last address which he shall have recorded with the Company. Such written notice shall indicate the job for which the individual is considered qualified, the proposed time and place of rehiring (which shall not be
+43
+less than seven (7) working days from the date of mailing such notice by the Company) and shall state that if the individual desires to be rehired for such job, he shall so notify the Company in writing, within five (5) working days of receipt of such written notice from the Company. A copy of each such written notice shall be delivered to the Union.
+(d)	The individuals to whom such notices are sent and who report ready for work at the time and place of rehiring as set out in such notices, or at such other time as may be mutually agreed upon between the Company and such employees, shall, if they are then so qualified to fill the jobs available, be rehired. The Company shall not be required, however, to rehire at any time, any individual who failed to notify the Company of his desire to be rehired, or who failed to report for rehiring in accordance with and at the time stated in any such notice sent to him. The company shall be entitled to fill any jobs available on a temporary basis, pending rehiring of those having preferential rights for rehiring. If the employee is not available when required, the Company may then recall the next employee on the recall list, but he is subject to being replaced if the employee first recalled does report within seven (7) working days. On such rehiring, there shall be deemed to have been no break in such employee's service if the
+44
+employee had acquired seniority rights prior to his last layoff.
+8.10	Illness or Disability
+Illness or disability, which qualifies under the Long Term Disability Plan or Worker's Compensation, will not be considered cause for discharge of a regular employee. An employee who has been continuously absent from work due to illness or disability, for a period of up to twenty-four (24) months, shall be allowed to return to their former job and work, if he is capable of satisfactorily performing the work required. If after recovery, such an employee is unable to perform his former duties, or in the event he has been continuously absent from work due to such illness or disability for a period in excess of twenty-four (24) months, and if there is at that time a regular job in the bargaining unit, which is either vacant or has been created by mutual agreement between the Company and the Union, he shall be transferred to such position, if he is capable of satisfactorily performing the required duties.
+8.11	Progress Report - New Employees
+The Company must advise the union in all cases of unsatisfactory progress or performance of new employees.
+45
+8.12	Guaranteed Wage Plan Employees on layoff under the provisions of this Agreement may claim supplementary income under the terms of the Guaranteed Wage Plan, attached hereto and forming part of this Agreement as Appendix "B" - Guaranteed Wage Plan. The Guaranteed Wage Plan is a supplement intended to provide assistance to eligible employees who are laid off as a result of the application of the layoff provisions of this Agreement, but this is not to be construed as altering the layoff provisions specified in this Agreement. Employees hired after January 1, 2009, are not eligible for The Guaranteed Wage Plan (GWP).
+ARTICLE 9 TECHNOLOGICAL CHANGE
+9.00
+For the purposes of this Article, “technological change” shall be defined as the introduction of labour-saving machinery or devices or new production techniques, resulting in manpower reduction or job elimination.
+9.01
+(a)	If, during the life of this Agreement, the Company wishes to make a technological change in its operations, which would have the effect of substantially altering or abolishing any
+46
+existing classifications, or creating new classifications, or which would result in the layoff of any regular employee, the Company agrees that it will meet with the Union and engage in meaningful and constructive discussion of the matter and attempt to resolve the problems created by such technological changes, as well as to attempt to lessen the impact of technological change on the employees affected.
+(b)	When the Company is considering the introduction of a technological change, the Company agrees to notify the Union as far as possible in advance of its intention and to update the information provided as new developments arise and modifications are made. The Company shall provide the Union with a detailed description of the project it intends to carry out, disclosing all foreseeable effects and repercussions on employees.
+(c)	If, as a result of a technological change in the Company's operations, an employee is assigned to a job having a lower rate of pay than the rate of pay he formerly received, he shall continue to be paid at his former rate of pay until the job rate for his new classification equals his former rate.
+47
+9.02
+In the event that, during this collective agreement, the Company plans to introduce a major technological change which it anticipates will directly result in the permanent layoff of ten (10) or more regular employees, the following shall apply:
+(a)	The Company will give the Union notice of such technological change at least sixty (60) days before the date on which the technological change is to be effected. After giving notice, the Company shall identify by job classification, the number of jobs to be displaced. The jobs to be displaced shall be grouped by the Company for the purposes of paragraph (c) herein.
+(b)	The Company will meet and discuss with the Union the redeployment of the affected regular employees in accordance with the provisions of the collective agreement and the provisions as set out in the Guaranteed Wage Plan (GWP) where applicable; and, in so doing, shall designate the employees to be permanently laid off;
+(c)	During the first thirty (30) days of the notice period and prior to effecting any layoffs or separations under the collective agreement, the Company shall canvass employees eligible for
+48
+special early retirement ('eligible employees') as to their willingness to elect special early retirement. Such eligible employees shall be approached within each group determined in paragraph (a) in order of seniority and, if they choose to take special early retirement within the above thirty (30) day period and actually retire within thirty (30) days thereafter, will receive a Technological Change Bonus (TCB). The TCB will be determined by dividing the total amount of the GWP separation pay entitlement of all the employees designated for permanent layoff in paragraph (b) above, by the total number of employees so designated. The number of special early retirees in any group who may receive the TCB will not exceed the number of jobs in that group which are to be permanently displaced by the technological change and, if a greater number of eligible employees in any group so elect to take special early retirement, the TCB will only be paid to the most senior of them.
+9.03
+(a)	If the number of eligible employees in any group who elect to take special early retirement is less than the number of jobs in that group to be permanently displaced by the technological change, or
+49
+(b)	the Company did not anticipate the number of layoffs but the introduction of the major technological change actually directly results in the permanent layoff of ten (10) or more regular employees, the following provisions shall apply:
+(i)	The employees ultimately designated for permanent layoff hereunder, who are eligible for participation in the GWP, will be permitted to elect separation and to terminate from the Company prior to their scheduled date of layoff. Those employees so electing and terminating from the Company shall be entitled to receive the amount of separation payment calculated in accordance with Section 10 of the Guaranteed Wage Plan. If any of those employees who are eligible for participation in the Guaranteed Wage Plan were classified as regular employees prior to May 1, 1985, their separation payment calculation shall include an additional eight (8) weeks of benefit entitlement for the purposes of paragraph (b) of Section 10 of the Guaranteed Wage Plan;
+(ii)	those employees designated for permanent layoff hereunder who do not elect to terminate from the Company pursuant to the provisions of the preceding
+50
+paragraph, and who are eligible for participation in the Guaranteed Wage Plan, shall receive the benefits provided for under that Plan. In addition, if any employee who is eligible for participation in the Guaranteed Wage Plan was classified as a regular employee prior to May 1, 1985, he shall receive an additional eight (8) weeks of benefit entitlement under the plan, subject to the following conditions:
+(a)	An employee may use the additional eight (8) weeks of entitlement only once during his employment, and not withstanding Section 8 of the Plan, the eight (8) weeks can never be restored;
+(b)	the additional eight (8) weeks of entitlement shall be the first weeks used.
+ARTICLE 10 TRAINING ASSISTANCE
+10.01
+Based on its operational needs the Company shall maintain the established practice of on-the-job and other training, which shall be sufficient to allow the employees reasonable
+51
+opportunities to leam additional skills and to upgrade their knowledge or skills, to the extent required to perform their jobs.
+10.02
+(a)	Where deemed necessary by the Company, assistance shall be given to employees who attend Company approved, off premises training programs at approved institutions outside of their regular working hours, where such training relates to their employment. Assistance shall be in the form of tuition fees and books upon successful completion of the program.
+(b)	If such training is required by the Company and is outside the immediate area of the City of Saint John, the Company will reimburse the employee for legitimate expenses.
+(c)	Where the training program is conducted by the Company, time spent in such training shall be considered for the purposes of wages and benefits to be time worked and payable at the regular hourly rate.
+(d)	A joint labour-management committee will be established to review training requirements on a regular basis.
+52
+ARTICLE 11 ADEQUATE MANPOWER
+11.01
+The Company will supply adequate manpower on all operations in all departments at all times so that an employee will not be required to perform more than a fair day's work.
+11.02
+Clause 11.01 shall not be construed to mean that the manning of all operations is at present exactly adequate or that all employees are presently assigned exactly a fair day's work and, accordingly, changes in the manning of crews and changes in an employee's workload may be made so long as the resulting situation is not a violation of clause 11.01.
+ARTICLE 12 WAGES AND JOB CLASSIFICATIONS
+12.01
+The Company shall pay wages and a Cost of Living Allowance (COLA) as set out in Appendix "A" - Wages and Job Classifications, attached hereto and forming part of this Agreement.
+53
+12.02
+(a)	If, during the life of this Agreement, the Company wishes to establish any new classification, it will advise the Union in writing and negotiate the classification and rate of pay with the Union.
+(b)	Job classifications are set out in Appendix "A" and they shall not be changed or deleted, nor shall the jobs themselves be substantially altered or amended, without the agreement of the Company and the Union.
+12.03
+Employees who are temporarily transferred to a higher rated job and not training under supervision, shall continue to be paid their regular rate unless the transfer continues for one (1) or more working days, in which case they shall be paid the higher rate for all hours worked during the day, or for more than twenty (20) hours in a week, in which case they shall be paid the higher rate for the job, for a minimum of forty (40) hours during such week. Any employee transferred to a lower rated job for the convenience of the Company shall not have his regular rate reduced.
+54
+ARTICLE 13 HOURS OF WORK, OVERTIME AND PREMIUMS
+13.01	Definition of Work Week
+For the purposes of this Agreement, the work week shall commence at midnight Saturday -Sunday.
+13.02	Regular Work Week
+(a)	For the purposes of this Agreement, the regular work week for all employees (other than Operating Engineers) shall consists of forty (40) hours to be worked in five (5) consecutive shifts of eight (8) consecutive hours (including a one-half hour paid lunch period) each day, Monday to Friday, inclusive.
+(b)	12 Hour Shift Schedule for Operating Engineers
+Schedule for 4 - 12 hour shifts for Operating Engineers:
+A.	Two 12 hour shifts scheduled as follows:
+(1)	Normal paid hours of work shall be 12 hours per day. Hours of work shall be from 7:00 a.m. to 7:00 p.m. and from 7:00 p.m. to 7:00 a.m.
+55
+(2)	Shifts commencing 7:00 a.m. to 7:00 p.m. shall be considered the day shift for which no shift premium will be paid.
+(3)	Shifts commencing 7:00 p.m. to 7:00 a.m. shall be considered the midnight shift for which the midnight shift premium will be paid.
+(4)	All regular shifts are to be paid on the day the shift starts, e.g. 7:00 p.m. Mon.-7:00 a.m. Tue., will be considered Monday's work.
+(5)	Shift schedule of 4 days x 12 hours:
+Sat.-Sun.-Mon.-Tue. - 36 hours Sun.-Mon.-Tue.-Wed. - 48 hours Mon.-Tue.-Wed.-Thur. - 48 hours Tue.-Wed.-Thur.-Fri. - 48 hours 48 = 44 RT + 4 OT (1 1/2)
+(6)	Any Overtime hours worked by Shift Engineers as part of their regularly scheduled shift will be paid out at appropriate Overtime rates but will not be included in the calculation of the daily Overtime list.
+B.	(i) The normal work week for the relief engineer shall be 40 hours when not on
+56
+relief, but shall be up to 44 regular hours if required on relief.
+(ii)	A relief engineer shall have the option to work an extra eight hour shift, at straight time, and at a time agreed to by his Supervisor, between Monday and Friday of any week during which he is scheduled to work fewer than 40 hours. If the Supervisor fails to agree to schedule the relief engineer for such extra shift, the relief engineer shall nevertheless be paid for the time.
+(iii)	A relief engineer performing four consecutive days of engineering work shall be entitled to either (a) four consecutive days off immediately following such period subject to the limitation described in subsection (v) below, or (b), a top-up as described in (ii) above.
+(iv)	If a relief engineer performs engineering work for four or more full consecutive rotations, he shall be permitted to take vacation as a shift engineer either during or immediately following that period of time, subject to availability, operational requirement and his vacation allotment.
+57
+(v)	13.02(b)Part E, below, shall apply to a relief engineer during the period immediately following four consecutive days of engineering work, provided that he has not yet begun his next rotation in maintenance.
+C.	Overtime
+e.g. - 15 hours = 12RT + 3OT
+- 16 hours = 12RT + 3OT + 1DT Only overtime after 12 hours can be banked.
+D.	Holiday falling on day off paid as 12 hours. Holiday falling on working day paid as 12 hours x 2 times rate. The holiday shall be considered to begin at 7:00 a.m. on the day of the holiday and extend to 7:00 a.m. on the day immediately following the holiday for only those persons working the 12 hour shift.
+E.	1st day off shall be considered a Saturday. 2nd day off shall be considered a Sunday. 3rd and 4th days off shall be considered time and one half days.
+F.	Sick leave based on 56 hours per year (maximum).
+G.	Bereavement or leave based on one (1) day or 12 hour shift.
+58
+H.	Bank time taken in blocks of 12 hours only. 48 hours maximum accumulation at any one time.
+I.	Vacation pay to be on a 40 hour basis. Vacation bonus to be on 40 hour basis.
+General
+The availability of relief personnel to cover absenteeism is critical and it is understood that those people on time off must show a willingness when requested to report for relief work.
+13.03	Regular Day Shifts
+The regular day shift shall commence between
+the hours of 6:00 a.m. and 9:30 a.m.
+The Company and the Union have agreed that, in relation to clauses 13.03 and 13.04, notwithstanding the express provisions of these clauses, the regular shift starting times for employees on certain operations shall for the life of the current Collective Agreement continue to be deemed to have been worked in the calendar day in which the majority of such scheduled hours are actually worked as follows:
+Brewing Dept. - Midnight Shift -Commences on Sunday at 11:00 p.m.
+59
+Carbonating Man - On late cleanup when cleaning filler line - Friday evening into Saturday when on 2nd Shift - 6:00 p.m. to 2:00 a.m.
+Production Dept. - Afternoon Shift
+Engineering Dept.	('Operating
+Engineers) - Midnight Shift - On a calendar Sunday, commences at 11:00 p.m.
+13.04	Shift Premium
+(a)	Any shift commencing after 9:30 a.m. up to and including 6:00 p.m. shall be considered the afternoon shift and a premium of $.65 per hour shall be paid. Any shift commencing after 6:00 p.m. and before 6:00 a.m., shall be considered the midnight shift and effective January 1, 2009, a premium of $1.50 per hour shall be paid.
+(b)	Such shift premiums shall not be deemed to be part of an employee's regular hourly rate in the calculation of overtime, holiday or vacation
+pay.
+13.05	Rest Periods and Lunch Periods
+(a)	Every employee will be allowed one (1) paid rest period of fifteen (15) minutes during
+60
+each one-half (1/2) shift. Rest periods will be arranged as near the mid-point of each one-half (1/2) shift as possible. Every employee shall be granted, and the Company shall arrange, a lunch period one-half (1/2) hour to be scheduled to commence near the mid-point of each shift. Such rest and lunch periods shall be from the time the employee leaves his job to the time he returns to the job.
+(b)	Any change in the rest and lunch periods presently existing for employees working in Brewhouse, Cellars and Operating Engineers shall be mutually agreed upon between the Company and the Union, in writing.
+13.06	Schedule of Hours (a) The manpower schedule of hours to be worked each week shall be posted by 12:00 noon on Thursday of the previous week for the following week. The scheduling shall provide for at least twelve (12) hours elapsed time between the completion of any employee's shift and the commencement of his next shift, except when an employee is scheduled to change from one (1) group of consecutive shifts to another, in which case the elapsed time may be reduced to eight (8) hours.
+61
+Changes in Schedules of Hours
+(b)	Without changing schedules posted pursuant to clause (a) above, an employee may be requested to take over a work assignment different from that which was posted for him, and the Company will endeavour wherever possible to give at least twelve (12) hours notice of such change, and provide at least twelve (12) hours elapsed time from the end of his posted assignment to that of his new assignment.
+(c)	In the event of an employee being transferred, for the purposes of relieving for vacations, from one (1) group of consecutive shifts in a week to another in the following week, and the last day worked in that week connects, without a scheduled day off, with the first day to be worked in the following week, such day or shift shall not be recognized as a Saturday or first scheduled day off, or Sunday or second scheduled day off, in such cases. When scheduled to perform such work an employee shall be scheduled for two (2) days off during the week in which he is relieving for vacation purposes. Such as employee shall be paid at the rate of one and one-half (1 1/2) times his hourly rate for all work performed and required by the Company on the first of his two (2) scheduled days off and at the rate of two (2) times his hourly rate for all work
+62
+performed and required by the Company on the second of his two (2) scheduled days off.
+(d)	In the event a Quality Control Technician is scheduled to return to the brewery after completion of his regular shift he shall receive at least two (2) hours pay at the appropriate overtime rate for each time he returns to the Brewery for any reason.
+13.07	Overtime
+Every employee having performed eight (8) hours work in any day or shift, shall be paid at the rate of one and one-half (1 1/2) times his hourly rate for all work performed by him and required by the Company in excess of eight (8) hours, and two (2) times his hourly rate for all such work performed by him in excess of eleven (11) hours.
+13.08	Overtime on Saturday or First Scheduled Day Off
+(a)	Every employee (other than Operating Engineers) shall be paid at the rate of one and one-half (1 1/2) times his hourly rate for all work performed and required by the Company on a Saturday and two (2) times his hourly rate for all hours worked in excess of the first eight (8). In the course of accumulating a forty-hour week, shifts which commence on Friday will be at regular rate.
+63
+(b)	An Operating Engineer shall be paid at the rate of one and one-half (1 1/2) times his hourly rate for all work performed and required by the Company on the first of his two (2) weekly scheduled days off.
+(c)	Weekend Bonus
+An Operating Engineer who is regularly scheduled to work on a Saturday and/or Sunday shall, while so scheduled, be paid a weekend bonus as shown below:
+For Saturday - $2.00 per hour For Sunday - $3.00 per hour for work performed by him and required by the Company, unless he is entitled under the other provisions of this Article to be paid at the rate of one and one-half (1 1/2), two (2) or two and one-half (2 1/2) times his hourly rate. Such weekend bonus shall be payable in addition to the shift premiums payable under clause 13.04. For the purposes of this Agreement, such bonuses shall not be considered as forming part of an employee's hourly rate.
+13.09	Overtime on Sunday or Second Scheduled Day Off
+(a) Every employee (other than Operating Engineers) shall be paid at the rate of two (2) times his hourly rate for all work performed by him and required by the Company on a Sunday
+64
+or on the second of his two (2) weekly scheduled days off.
+(b) An Operating Engineer shall be paid at the rate of two (2) times his hourly rate for all work performed by him and required by the Company on the second of his two (2) weekly scheduled days off.
+13.10	Overtime on Paid Holiday
+Every employee shall be paid at the rate of two (2) times his hourly rate for all work performed and required by the Company on a day which is observed as a paid holiday under the provisions of Article 15, in addition to pay for the holiday and two and one-half (2 1/2) times his regular rate for all hours worked in excess of the first eight (8).
+13.11	No Duplication of Premiums or Overtime Payments
+Except as provided for in clause 13.08 (c) above, there shall not be any duplication of the various forms of premium and overtime pay provided for in this Agreement.
+13.12	Assignment of Overtime
+(a) The Company agrees to distribute overtime as equally as possible among regular employees who normally perform the work required.
+65
+(b) The Company will assign overtime work on the following basis:
+(i)	Such opportunity will first be made available on a "least overtime hours" basis to those regular employees in the department in the occupational group who normally perform the work on which such overtime is required. NOTE: OCCUPATIONAL GROUP SHALL MEAN ALL POSTED FULL TIME AND POSTED RELIEF OPERATORS.
+(ii)	in the event that the Company's needs cannot be entirely satisfied in that manner, the overtime opportunity will then be made available on a "least overtime basis" to regular employees in the bargaining unit in the occupational group who are able to perform the work required, and then to regular employees in the bargaining unit who are able to perform the work required.
+(iii)	it is further understood that in the event that all overtime requirements cannot be satisfied on a voluntary basis, such work may then be assigned on a reverse-seniority basis to those employees
+66
+in the bargaining unit who are able to perform the work required.
+(iv)	except in the case of equipment breakdown or emergency, all overtime shall be voluntary, provided the employee can be replaced by an employee who is able to perform the work required, and
+(v)	except in the case of equipment breakdown or emergency, notice of planned overtime shall be given prior to the end of an employee's regular shift on the day prior to which the work is required.
+Notice of overtime planned for Saturday shall be given prior to the end of an employee's shift on Thursday of any such week.
+NOTE:
+The Company and the Union agree that the above provisions are intended to provide reasonable provisions for lessening of the problems created by overtime work for employees, however, it is anticipated that all employees will continue to cooperate in sharing required overtime assignments, particularly in situations where the least senior employees
+67
+request to be relieved from such work, due to personal or other reasons.
+(c)	It is further agreed that overtime will not be assigned to temporary or probationary employees while regular employees are available and able and willing to perform the work required.
+(d)	It is understood that to facilitate the equitable distribution of overtime work, the Company shall maintain departmental list of overtime hours worked and offered. Copies of such lists shall be posted on the plant bulletin boards and be made available to the Union upon request.
+(e)	Overtime hours offered to employees within their department which are refused, will be recorded and considered as overtime hours actually worked, for the purposes of satisfying the requirements of (a) above. Union representatives shall not be recorded as overtime hours offered and refused when unable to accept due to Union business.
+(f)	For the purpose of “weekly overtime work”, overtime occurring due to production overruns shall not be recorded and considered as overtime hours actually worked unless it is at least one-half hour per day.
+68
+(g)	A change from one series of clean up shifts to a different series of clean up shifts in the same calendar day will be paid at time and one-half.
+(h)	When overtime is required on an operation, and such work is “a continuation of work in progress” and was unforeseen or beyond the control of the Company. the Company may assign such overtime work to the regular employee performing the work on which the overtime is required. subject to the other provisions of clause 13.12. and provided such assignment of overtime does not result. on a continuing basis. in the unequal distribution of overtime.
+13.13	Rest Periods Before Overtime
+When an employee is required to work at least two (2) hours overtime immediately following his normal work period in any day or shift. he shall be granted a rest period of fifteen (15) minutes with pay. before commencing such additional work.
+13.14	Overtime Rest Periods and Meal Allowances
+In the case of unplanned overtime (employee not notified on the day prior). the employee shall. after having worked two (2) hours. be
+69
+given a paid one-half (1/2) hour lunch period. An employee working such unplanned overtime shall be granted a meal allowance of $10.00.
+If such additional work continues for more than two (2) consecutive hours following resumption of work after the meal break, the employee shall be granted an additional rest period of fifteen (15) minutes, with pay, for such period and each additional two (2) hour period.
+13.15 Call-In
+(a)	When an employee, after leaving the Company's premises, is called by the Company and requested to return to work due to an equipment breakdown, emergency, or other urgent situation following completion of his day's work and before the commencement of his next scheduled day's work and is assigned to less than four (4) hours work outside of regular scheduled working hours, he shall be paid at least four (4) hours pay at his appropriate overtime rate. Call-in - e.g. (1) 4 hrs. call-in and total time not worked = 4 hrs. x 1 1/2 rate. (2) 4 hrs. call-in and total time worked = 3 hrs. x 1 1/2, 1 hr. x 2 times rate.
+(b)	In the event that work on a call-in continues to be required up to or beyond the time such an
+70
+employee's regularly scheduled shift commences, such an employee will cease to be on call-in status at such time and shall be paid for the call-in without being required to perform four (4) hours work on the call-in.
+(c)	An employee called in on a call-in shall be free to leave the plant when the equipment breakdown, emergency, or other urgent situation has been satisfied, and be paid for the call-in without being required to perform at least four (4) hours work.
+(d)	An employee on call-in who has worked for four (4) hours shall be paid a meal allowance in accordance with Article 13.14.
+13.16	Reporting Allowance
+(a)	In the event an employee reports for work at his scheduled time, without having been previously notified not to report, unless his failure to receive notice not to report is due to absence without just cause from his shift, and less than four (4) hours work is available for him, he shall be paid four (4) hours at his regular hourly rate.
+(b)	It shall be the responsibility of an employee who has been absent from work for any reason, to check with his departmental supervisor or the personnel department on the day prior to
+71
+returning to work, so that he may be advised of his shift schedule.
+(c)	The company is only required to make a concerted effort to call employees at their last known listed phone number as recorded in the HR Department. It shall be the responsibility of the employee or retiree to ensure the HR Department has their current address and telephone numbers.
+(d)	The Company will provide the Union with an updated employee and retiree address and telephone number list quarterly or as required.
+13.17	"Banking" of Overtime Pay An employee who performs work on an overtime basis may, at the option of the employee, receive payment for the time worked at the appropriate overtime rate, or "bank" such overtime hours, calculated on the basis of the regular hourly rate equivalent for such time. Such "banked" time may be taken as paid time off at a time or times to be mutually agreed upon between the employee and his immediate supervisor, payable at the employee's regular hourly rate. Banked overtime may be accumulated to a maximum of forty (40) hours, at any one time. Such time off shall be taken in minimum periods of eight (8) hours.
+72
+13.18	Sleep Time
+(a)	Any maintenance employee called in during the eight (8) hours immediately preceding his regular day shift shall receive time off at straight time to the extent of all actual time worked during that period of time, providing he is scheduled to work the regular day shift the following day.
+(b)	Such time will be used to defer the regular starting time or to advance the regular quitting time.
+ARTICLE 14 SPECIAL ALLOWANCES
+14.01
+The Company agrees to pay the annual renewal fee for the licenses of operating engineers, electricians and welders. The Company further agrees to pay the annual renewal fees for the licenses of any other employees who require licenses relevant to the business.
+ARTICLE 15 PAID HOLIDAYS
+15.01
+The expression "Holiday" wherever used in this Agreement, shall mean any one of the following:
+73
+New Year's Day Labour Day Good Friday Thanksgiving Day Easter Monday
+Remembrance Day (November 11)
+Victoria Day Christmas Day Canada Day Boxing Day New Brunswick Day
+In the event that the Provincial or Federal Government declares an additional holiday during the term of this Agreement, it will be recognized as one of the above holidays.
+15.02
+(a)	Should any of the holidays mentioned above fall on a Sunday, the regular working day which next follows will normally be designated as the holiday.
+(b)	Should any of the holidays referred to above fall on a Saturday, the holiday will, by mutual agreement, be rescheduled within thirty (30) calendar days of the day which would have otherwise been the holiday. Such lieu day
+74
+shall be recognized as the holiday for the purpose of the Agreement.
+(c)	Should any of the above holidays fall on the scheduled day off of an Operating Engineer, while on an eight (8) hour shift, such an employee shall be paid for such holiday in an amount equal to his regular hourly rate, multiplied by twelve (12).
+15.03
+(a)	Employees on the seniority list shall receive pay for each such holiday, provided the employee worked or was available for work on the scheduled working day preceding the holiday and the scheduled working day following the holiday. Any employee's pay for each such holiday shall be an amount equal to his regular hourly rate, multiplied by eight (8). Effective January 1, 2002, employees who have exhausted their GWP would not receive holiday pay unless they work the day immediately preceding and following the holiday.
+(b)	Temporary employees and probationary employees (who have worked five (5) working days in the twenty (20) working days prior to the holiday) shall receive pay for each such holiday, provided the employee worked on the working day preceding the holiday and the
+75
+working day following the holiday. An employee's pay for each such holiday shall be an amount equal to his regular hourly rate, multiplied by eight (8).
+15.04
+An employee who is absent on his last regular work day before and/or his first regular work day after the holiday will qualify for holiday pay (as set out in 15.03 above) if such absence is paid for under Article 17 - Paid Time Off, has been approved by the Company, or is for just cause, provided, however, that holiday pay shall not be payable if the employee is eligible for payment for the day on which the holiday is observed under Worker's Compensation, the Long Term Disability Plan or the Guaranteed Wage Plan. An employee who is eligible for payment for the day on which the holiday is observed under the Weekly Indemnity Plan, shall receive as pay for the holiday an amount equal to the holiday pay set out in clause 15.03, less the amount he received for that day under the Weekly Indemnity Plan.
+15.05
+In the event that an employee is required or called in to work on any of the holidays referred to above and he is assigned less than eight (8) hours work, he will receive pay for at
+76
+least four (4) hours in an amount equal to two (2) times his regular hourly rate.
+15.06
+Should an employee agree to work on any of the holidays mentioned above, if requested to do so by the Company, the Company shall, at the option of the employee, pay such an employee at the appropriate overtime rate for all work performed by him and required by the Company on such holiday, in addition to:
+(a)	pay for the holiday, or
+(b)	allowing the employee to retain the holiday with pay as a "floater" to be granted to the employee at his request, with pay, at a time to be mutually agreed upon between the employee and his immediate supervisor in lieu of such holiday. Floaters may be accumulated to a maximum of forty hours; subject to definition of “day” under any new scheduling structure, at any one time. Such time off shall be taken in minimum periods of eight hours; subject to same qualifications as above.
+15.07
+Where bereavement leave occurs on a paid holiday, such holiday may be rescheduled with
+77
+mutual agreement between the employee and the personnel department.
+ARTICLE 16 VACATIONS
+16.01
+Every regular employee who, during the life of this Agreement, completes a year of continuous service with the Company, will qualify for a vacation with pay.
+16.02
+The length of vacation to which each employee will be entitled will be governed by the total length of his continuous service with the Company, and will be determined from the schedule in clause 16.04 below.
+16.03
+The amount of vacation pay to which each employee is entitled in respect to his vacation entitlement under clause 16.04 below, shall be an amount equal to his regular hourly rate, multiplied by forty (40) hours, for each week of vacation.
+16.04	Schedule of Vacation With Pay Entitlement During The Life of This Agreement
+78
+LENGTH OF SERVICE
+LENGTH OF VACATION
+1 but less than 3 years 3 but less than 8 years 8 but less than 15 years 15 but less than 20 years 20 but less than 25 years 25 but less than 35 years 35 or more years
+2	weeks
+3	weeks
+4	weeks
+5	weeks
+6	weeks
+7	weeks
+8	weeks
+Employees with less than one (1) year of continuous service in any calendar year shall be granted a vacation with pay on the following basis:
+(i)	if seniority attained by June 30th - one (1) week,
+(ii)	if seniority attained after June 30th - a pro-rated vacation entitlement based on time worked during that year, with pay in an amount equal to one (1) week pro-rated at his regular hourly rate, whichever is greater.
+(iii)	If the employee during that year of service in respect of which vacation, vacation bonus and sick days granted is absent due to lay off, maternity leave or other approved absence other than Short
+79
+or Long Term Disability or W. C. B., then entitlement will be pro-rated.
+e. g. (sick days)
+#	of days worked x 7 or 80 days worked x 7 = 2.2
+#	of working days	250 working days
+days
+e. g. (vacation)
+#	of days worked x Normal Vacation Entitlement
+#	of working days
+or
+150 days worked x 10	= 5.6 days
+264 working days
+When pro-rating, .6 and higher will be rounded up, .5 and lower will be rounded down.
+16.05
+(a)	When an employee has commenced his vacation, he shall not be required to work during his vacation, except by mutual agreement.
+80
+(b)	In the event that an employee becomes ill or is injured, or a bereavement occurs, after having commenced his vacation, he shall at that time have the remainder of that period of his scheduled vacation postponed and rescheduled at another time to be mutually agreed upon between the employee and his immediate supervisor. To qualify under this clause for such a postponed vacation, the employee must, at the time of such disability or bereavement, immediately contact his immediate supervisor or the personnel department, and qualify for benefits under the Weekly Indemnity Plan or Bereavement Leave.
+16.06
+Should one or more of the holidays referred to in clause 15.01 fall within the period of an employee's vacation, he may request an additional day off, with pay, in lieu of each such holiday. If an employee does not elect time off in lieu of vacation containing such holiday(s), his vacation pay shall be increased by an amount equal to his regular hourly rate, multiplied by eight (8), for each such holiday.
+16.07
+Every employee will, upon request, be paid immediately prior to going on vacation, by separate cheque for each week of vacation with pay, the vacation pay to which he is entitled.
+81
+16.08
+(a)	Employees who are entitled to two (2) or more weeks of vacation may take up to two (2) consecutive weeks vacation during the period between the second Monday in June and the second Friday in September.
+(b)	Employees who are entitled to seven (7) or more weeks of vacation may take an additional week of vacation during the period between the second Monday in June and the second Friday in September.
+(c)	To provide employees with reasonable opportunities to plan and arrange their vacation periods, the following procedure shall apply:
+(i)	Beginning in 2012. on or before February 1st of each calendar year, the Company shall post a notice outlining the names of employees and the dates on which they are required to submit their choice of vacation dates to the Personnel Department. For this purpose. the seniority list will be divided into four equally-sized groups by order of seniority, with each group having a different date for submission. Within four (4) business days of each date of submission, the Company shall approve
+82
+vacation dates, based on seniority, for employees in such groups and notify all of the employees in writing of the status of their vacation request. The submission dates shall be as follows: Group One - February 20th, Group Two - March 2nd. Group Three - March 13th. Group Four - March 24th. Employees not receiving approved vacation will fall into the next group and will re-submit their vacation request by the submission date of that group.
+(ii)	Employees shall be allowed until their stated submission date to submit their choice of dates for vacation during the twelve (12) month period from April 1st to March 31st of the subsequent year.
+(iii)	If an employee fails to submit his
+choice of dates, he shall lose any preference in choice of dates based on seniority.	Such an employee shall
+submit his choice of dates as soon as possible and such vacation will be approved	based on availability,
+seniority, and a first come/first served basis.
+83
+(iv)	All vacation time must be scheduled by October 1 of each year or it may be scheduled by the Company.
+(d)	Subject to the limitations of clauses 16.08 (a), (b) and (c) above, preference in regard to the available vacation dates will be given, in order of seniority, to employees within each occupational group and department.
+(e)	Vacation time shall be deducted from the vacation allotment for the calendar year in which it is to be taken.
+(f)	The Union Executive and the Company will work together to ensure the above procedure is delivered fairly and equitably.
+16.09	Vacation Pay on Termination Every employee, whose employment with the Company is terminated during the life of this Agreement, shall be entitled to a vacation pay allowance based on the length of his continuous employment with the Company, in respect of which he has not received a paid vacation, in accordance with clause 16.04 above. Such payment shall be as provided for in clause 16.03 for any vacation earned but not taken prior to his last anniversary of employment, plus a pro-rated payment for vacation earned since his last anniversary to his
+84
+termination date. Employees who retire during the calendar year shall also be entitled to receive their full vacation pay bonus, based on their vacation entitlement that year, upon retirement.
+16.10	Vacation Pay Bonus
+Employees who have three (3) or more years of continuous service will be paid a Vacation Bonus of 20% of their actual (pro-rated) vacation pay entitlement. Such bonus will be paid to all employees in a lump sum payment on the second pay period of June in each year.
+16.11
+Employees who are absent from work for the entire calendar year for any reason shall not accrue vacation, vacation bonus or sick days.
+ARTICLE 17 PAID TIME OFF
+17.01	Sick Leave
+(a) On January 1st of each calendar year, all regular employees will be credited with seven (7) days of sick leave (pro-rated) for that year at their regular hourly rate, multiplied by eight (8) for each such day. These days are to be used to offset loss of pay caused by occasional illnesses or injury of up to three (3) working days which are not covered by the Weekly Indemnity Plan. Any unused portion of sick leave will be paid
+85
+to eligible employees in the first pay of December. Sick days must be taken as full days only. Unused sick days can be cashed out at any time for full unused balance only.
+(b)	Employees who attain seniority during the calendar year shall be credited with four (4) hours at their regular hourly rate for each full month worked from the date they attained seniority.
+(c)	Employees who terminate their employment or retire during the calendar year shall receive any unused sick leave benefits pro-rated at one-half (1/2) day (at their regular hourly rate then in effect) for each full month worked from January 1 to their termination date. In the event of the death of an employee such payment shall be made to his named beneficiary, if any, or to his estate.
+(d)	All other employees (except student employees) shall receive this benefit on a pro rated basis based on hours worked.
+17.02	Jury Duty. Appearances in Court An employee who is called for Jury Duty, or who is subpoenaed to appear in court as a Crown witness, or who is required to appear before any court. commission. board or tribunal in the Province of New Brunswick in any
+86
+matter relating to his employment with the Company, will receive for each day of necessary absence on that account, the difference between his regular earnings for that day and the amount of any fee received, provided the employee furnishes the Company with a certificate of service and satisfactory evidence as to the amount of fee received.
+17.03	Bereavement Leave
+(a)	In the event of a death of the wife, husband, common-law spouse, grandchild or child, the employee will be granted time off by the Company, without loss of regular earnings, for not more than five (5) consecutive working days in total. In the event of a death of the mother, father, brother, sister, niece, nephew, mother-in-law, father-in-law, son-in-law or daughter-in-law, which shall include step-relatives (child, mother, father, sister, or brother), that employee will be granted time off by the Company, without loss of regular earnings, for not more than three (3) consecutive working days. If an additional day is necessary to enable the employee to attend the funeral, the employee will be granted the day, without loss of regular earnings. In the event of the death of the brother-in-law, sister-in-law, grandparent, uncle or aunt of an employee, that employee will be granted one
+87
+(1) day, without loss of regular earnings, for the purpose of attending the funeral.
+Employees who serve as Active Pallbearers at the funeral of a fellow employee shall be paid up to a full day regular pay for time not worked on a scheduled shift.
+(b) On advance notice to the Company one executive member of the local will be given time off with pay to attend the funeral of a past or present member.
+ARTICLE 18 WORKER'S COMPENSATION SUPPLEMENT
+18.01
+(a) The company will pay a supplement to any regular employee, who is unable to work due to a disability that entitles him to Worker's Compensation benefits, resulting from an illness or injury while at work. The amount of such supplement shall be in an amount equal to seventy-five percent (75%) of such an employee's regular hourly rate, multiplied by eight (8) for each day of such absence, less any compensation received under a Worker's Compensation claim. Such supplement will be paid while the employee is receiving his benefits from the Worker's Compensation
+88
+Board, or until the employee becomes eligible for benefits under the Long Term Disability Plan. The Company will continue to pay such an employee such supplement, subject to the employee endorsing payments received from Worker's Compensation payable to the Company, or arranging with the Worker's Compensation Board to have such payments sent directly to the Company.
+(b)	The above (a) “Top-up” is prohibited as long as a legislated prohibition on Worker’s Compensation Supplement is in effect.
+ARTICLE 19 EMPLOYEE BENEFITS
+19.01
+The Company shall continue the existing Employee Benefit and Pension Plan, with the improvements to such plans, which are summarized in Appendix "C" - Employee Benefit Plans and Appendix "D" - Pension Plan, attached hereto and forming part of this Agreement and which shall not be changed without the agreement of the Union. Details of these benefits and plans shall be as set forth in the Master Policies and Plan referred to in Appendices "C" and "D". Should there be any dispute in relation to these plans, the terms of the Master Policy or Plan shall govern. The
+89
+Company is responsible for the application and administration of these plans.
+19.02
+The employee benefits and pension plan referred to in clause 19.01 above, shall be the following:
+Appendix "C" - Employee Benefits
+Weekly Indemnity Plan
+Long Term Disability Plan
+Group Life Insurance Plan
+Accidental Death and Dismemberment Plan
+Extended Health Care Plan (Blue Cross)(which
+includes major medical, prescription drugs,
+hearing and vision care, etc.)
+Dental Care Plan
+Appendix "D" - Pension Plan
+Moosehead Breweries Limited Pension Plan
+19.03	Weekly Indemnity Pay
+(a) Employees absent due to illness or non-occupational injury and entitled to Weekly Indemnity Benefits, shall be paid an amount equal to their weekly benefit entitlement each pay day during their disability contingent on claim approval only.
+90
+(b) Such employees will be required to submit completed Weekly Indemnity claim forms and may submit additional medical information as required by the insurer to continue to receive full Weekly Indemnity pay in subsequent pay periods. It is understood that Weekly Indemnity Benefit cheques will be endorsed by the employee payable to the Company and returned to the Company.
+ARTICLE 20 GENERAL
+20.01 Local Union President
+(a)	The Company and the Union agree that the employee holding the office of President of the Local union shall be granted paid time off on the basis of two (2) days, sixteen (16) hours each month, at his regular hourly rate, to enable him to attend to matters related to the administration of this Agreement and his duties as President. The employee holding the office of President, shall also be paid a premium equivalent to 1.5% of his regular hourly rate, for all hours paid for each week, to a maximum of forty (40) hours.
+(b)	The Local Union President and Local Union Vice President shall be regularly scheduled for day and afternoon shifts only. It is further understood that, to
+91
+facilitate good labour relations, the Local Union President and the Local Union Vice President shall make every reasonable effort to be available to meet with the Company as reasonably requested during normal business hours.
+The Company shall only adjust scheduling in order to facilitate meeting with the Local Union President and Local Union Vice President if it is necessary. If an adjustment in scheduling is necessary in order to facilitate meetings, the Company shall make every reasonable effort to do so with minimal disruption to the schedule of work and operation of the brewery.
+20.02	Maternity Leave
+(a) The Employer shall not terminate the employment of an employee who has been an employee for one (1) year or longer because of the employee's pregnancy, but the Employer, before or after the commencement of the period referred to in Article (b), may require the employee to commence leave without pay at a time when the duties of the employee's position cannot reasonably be performed by a pregnant woman or the performance of the employee's work is materially affected by the pregnancy.
+92
+(b)	The Employer shall, at any time from a date ten (10) weeks before the specified date of delivery to the date of actual delivery, upon request of a pregnant employee made through the employer and receipt of a certificate by a legally qualified medical practitioner, stating that the employee is pregnant and specifying the date upon which delivery will occur in his/her opinion, grant to the employee a leave of absence without pay:
+(1)	of seventeen (17) weeks; or
+(2)	to a date of seven (7) weeks after the
+date of actual delivery; or
+(3)	for any shorter period
+at the option of the employee, except that an employee shall not work and the Employer shall not cause or permit the employee to work for at least seven (7) weeks after the date of delivery or for a shorter period that, in the written opinion of a legally qualified medical practitioner, is sufficient.
+(c)	Where an employee reports for work upon the expiration of the period referred to in Article (b), the employee shall resume work in the same position she held prior to the commencement of the maternity leave, with no loss of seniority or benefits accrued to the commencement of the maternity leave.
+93
+(d)	While an employee is on maternity leave, the Employer shall maintain coverage for medical, extended health, group life and any other employee benefit plan and shall continue to pay its share of premium costs for maintaining such coverage during the period of maternity leave.
+(e)	While on maternity or parental leave, an employee shall continue to accrue and accumulate service and seniority credits for the duration of her/his leave, and her/his service and seniority shall be deemed to be continuous. Vacation credits will accrue during maternity and parental leaves.
+(f)	For the purposes of Article (a), an employee shall produce when so requested by the Employer, the Certificate referred to in Article (b).
+(g)	Leave for illness of an employee arising out of or associated with her pregnancy prior to the commencement of, or the ending of, maternity leave granted in accordance with Article (b) may be granted in accordance with the provisions of Article 17.01.
+94
+DURATION OF
+ARTICLE 21 AGREEMENT. RENEWAL AND AMENDMENT
+21.01
+(a)	This Agreement shall be effective from the date of ratification and shall remain in full force and effective through January 31, 2018. Either party to this Agreement desiring to negotiate a new Agreement shall give notice to the other party, in writing, at any time within the sixty (60) day period prior to the expiration date. Unless such notice of desire to negotiate is given, the Agreement shall automatically be renewed, without change, from year to year thereafter, until such time as notice is given, within the sixty (60) days prior to the annual expiration date. Following receipt of such notice, by either party, of intention to renegotiate or modify the existing Agreement, a joint conference will be held for the purpose of commencing negotiations for a new Agreement.
+(b)	Following receipt of notice of desire to negotiate, within the period referred to above, or within such further period as the parties may agree upon, the parties shall meet, bargain in good faith and make every reasonable effort to conclude an Agreement.
+95
+(c)	It is agreed and understood between the parties to this Agreement that all provisions of this Agreement are to remain in full force and effect until negotiations are completed and/or conciliation proceedings exhausted.
+In Witness Whereof the parties hereto have caused this Agreement to be executed by their respective duly authorized representatives at the City of Saint John, in the Province of New Brunswick, this 26th day of March, 2011.
+FOR THE UNION FOR THE COMPANY
+Jeff Stoddard Luke Coleman Robert Edgecombe Chris Vautour Bernice Harquail Leigh Sprague Thomas Mann
+Wayne Arsenault Paul Fitzgerald George Magee Patrick Parent Anna Marie Hutton
+96
+97
+APPENDIX ‘A’
+Wages and Job Classifications
+Classifications	1/1/ 2011	1/4/ 2012	1/1/ 2013
+Production Department			
+Baler Operator	$28.05	$28.33	$28.33
+Carton Makeup Operator	$28.05	$28.33	$28.33
+Depalletizer Operator	$28.05	$28.33	$28.33
+Filler Operator	$28.05	$28.33	$28.33
+Labeller Operator	$28.05	$28.33	$28.33
+Packer Operator	$28.05	$28.33	$28.33
+Palletizer Operator	$28.05	$28.33	$28.33
+Uncaser Operator	$28.05	$28.33	$28.33
+Work Cell Operator	$28.05	$28.33	$28.33
+Keg Filler Operator	$28.13	$28.41	$28.41
+1/1/2014	1/1/2015	1/1/2016	1/1/2017
+Production Department			
+$28.75	$29.04	$29.48	$29.92
+$28.75	$29.04	$29.48	$29.92
+$28.75	$29.04	$29.48	$29.92
+$28.75	$29.04	$29.48	$29.92
+$28.75	$29.04	$29.48	$29.92
+$28.75	$29.04	$29.48	$29.92
+$28.75	$29.04	$29.48	$29.92
+$28.75	$29.04	$29.48	$29.92
+$28.75	$29.04	$29.48	$29.92
+$28.84	$29.13	$29.57	$30.01
+99
+Classifications	1/1/ 2011	1/4/ 2012	1/1/ 2013
+Production Maintenance			
+Oiler	$28.10	$28.38	$28.38
+Maintenanceman "B"	$29.63	$30.07	$30.07
+Maintenanceman "A"	$32.02	$32.50	$32.50
+Brewing Department			
+Carbonating Man	$28.13	$28.41	$28.41
+Fermenting Room Man	$28.13	$28.41	$28.41
+Kettleman	$28.13	$28.41	$28.41
+Hospitality Steward	$28.05	$28.33	$28.33
+			
+Brewing Maintenance			
+Maintenanceman “B”	$29.63	$30.07	$30.07
+Maintenanceman “A”	$32.02	$32.50	$32.50
+Welder “A”	$32.02	$32.50	$32.50
+Maintenance Helper/Painter	$28.10	$28.38	$28.38
+100
+1/1/2014	1/1/2015	1/1/2016	1/1/2017
+Production Maintenance			
+$28.81	$29.10	$29.54	$29.98
+$30.68	$30.98	$31.45	$31.92
+$33.15	$33.48	$33.98	$34.49
+Brewing Department			
+$28.84	$29.13	$29.57	$30.01
+$28.84	$29.13	$29.57	$30.01
+$28.84	$29.13	$29.57	$30.01
+$28.75	$29.04	$29.48	$29.92
+			
+Brewing Maintenance			
+$30.68	$30.98	$31.45	$31.92
+$33.15	$33.48	$33.98	$34.49
+$33.15	$33.48	$33.98	$34.49
+$28.81	$29.09	$29.53	$29.97
+101
+Classifications	1/1/ 2011	1/4/ 2012	1/1/ 2013
+Engineering Department			
+3rd Class Stationary Engineer	$32.02	$32.50	$32.50
+Electrician (Journeyman)	$32.02	$32.50	$32.50
+			
+Instrumentation Mechanic (Journeyman)	$32.02	$32.50	$32.50
+			
+Shipping and Receiving			
+Checker	$28.05	$28.33	$28.33
+Stores Clerk	$28.05	$28.33	$28.33
+Fork Lift Mechanic A	$32.02	$32.50	$32.50
+102
+1/1/2014	1/1/2015	1/1/2016	1/1/2017
+Engineerin	g Department		
+$33.15	$33.48	$33.98	$34.49
+$33.15	$33.48	$33.98	$34.49
+			
+$33.15	$33.48	$33.98	$34.49
+			
+Shipping and Receiving			
+$28.75	$29.04	$29.48	$29.92
+$28.75	$29.04	$29.48	$29.92
+$33.15	$33.48	$33.98	$34.49
+103
+Classifications	1/1/ 2011	1/4/ 2012	1/1/ 2013
+All Other Departments and General			
+Fork Lift Operator	$28.05	$28.33	$28.33
+General Labour	$27.87	$28.15	$28.15
+Temporary Employee	$15.20	$15.35	$15.35
+Student Rate	$11.31	$11.42	$11.42
+Quality Control Technician	$29.63	$30.07	$30.07
+			
+Supervisory Personnel			
+Production Lead Hand	$32.38	$32.87	$32.87
+			
+Production Relief Lead Hand	$32.38	$32.87	$32.87
+104
+1/1/2014	1/1/2015	1/1/2016	1/1/2017
+All Other Departments and General			
+$28.75	$29.04	$29.48	$29.92
+$28.57	$28.86	$29.29	$29.73
+$15.58	$15.74	$15.97	$16.21
+$11.59	$11.71	$11.89	$12.07
+$30.68	$30.98	$31.45	$31.92
+			
+Supervisory Personnel			
+$33.52	$33.86	$34.37	$34.88
+			
+$33.52	$33.86	$34.37	$34.88
+105
+1. Cost of Living Allowance (COLA)
+A Cost of Living Allowance in a lump sum payment will be paid to regular employees for all hours worked, including vacations and statutory holidays, in the period from January
+1,	2003 to December 31, 2003, the first pay period following publication of the December, 2003 Consumer Price Index (1986 = 100), on the basis of $.0l per hour for each full .3 change in the Consumer Price Index, (1986 = 100) in the period from January 1, 2003 to December 31, 2003, calculated by subtracting the Consumer Price Index for the month of December 2002, after adding thereto 7% of the December, 2003 Consumer Price Index from the Consumer Price Index for the month of December 2002.
+2.	Retroactivity
+There is no retroactivity to any of the matters referred to in this agreement except where specifically indicated.
+106
+3. Tool Allowance
+The Company agrees to replace all tools for tradesmen, required to perform their work, which need replacement due to breakage, unusability due to normal wear and tear, or theft.
+4.	Hospitality Steward
+The Company and the Union agree that, in the event a vacancy occurs in the job of Hospitality Steward, the prime considerations for candidates for the job will be, (1) ability to do the job, (2) disability causing difficulty to perform work in any other job in the bargaining unit, (3) seniority. In cases where an employee requires the job due to (2) above, these three (3) factors will be given equal value points and the employee with greater points and seniority shall be given the job, where there is a choice to be made between two (2) or more applicants.
+5.	Progression Within Maintenanceman "A" Classification
+107
+Employees qualified for progression to Maintenanceman "A" status will be reviewed annually. If not considered qualified, they will be given the reasons for the decision and shall have recourse to the grievance procedure if they are not satisfied with the review, or the reasons given. If qualified, they will be reclassified as Maintenanceman "A".
+6.	Relieving Foreman - Premium
+An employee, while performing work as a Relieving Foreman, whose regular rate is $0.36 per hour or more above the differential applicable to a Relieving Foreman under Appendix "A", shall be paid a premium of $0.36 per hour above the highest rate paid to the employees under his direction or his classification, whichever is greater.
+7.	Probationary Tradesmen
+Probationary tradesmen shall be paid ten cents ($0.10) per hour less than their classification rate when hired and until they become a regular employee.
+108
+8.	If an employee is hired or promoted on the express understanding that he attain and maintain a certain educational standard, failure to secure and maintain those qualifications would provide the company with grounds for demotion.
+109
+APPENDIX B’
+GUARANTEED WAGE PLAN
+AGREEMENT between Moosehead Breweries Limited and Brewery and Soft Drink Workers Local 362.
+WHEREAS the Company has entered into a Collective Agreement with the above named Union covering the Bargaining Unit in Saint John, New Brunswick.
+AND WHEREAS the said Parties have agreed to make this supplementary Agreement which is to be a supplement to the said Collective Agreement, and any grievances arising out of the administration of this supplement may be dealt with under the Grievance Procedure of the Collective Agreement.
+NOW THEREFORE the Parties agree to the continuation of the Guaranteed Wage Plan as hereinafter set forth with such continuation to become effective on the 1st day of May, 1991 or on any later date on which approval for
+110
+continuation has been received from the Federal Government holding that:
+(a)	The Plan meets the requirement of Employment and Immigration Canada with respect to Supplemental Unemployment Benefit Plans,
+(b)	Payments by the Company pursuant to this Plan will be classed as deductible expenses for corporate income tax purposes, and,
+(c)	The receipt by employees of the benefits provided by this Plan will not disqualify such employees from receiving any part of the Unemployment Insurance Benefits to which they would otherwise be entitled.
+1.	Purpose
+The purpose of this Plan is to provide a method of guaranteeing income to certain employees who are laid off temporarily.
+2.	Eligibility for Participation in the Plan Any regular hourly-rated employee having at least three years of seniority (After April 1, 1994) at the date of his lay-off from the
+111
+bargaining unit will be eligible to participate in this Plan.
+Temporary employees hired on or before January 1, 2009 will be eligible upon obtaining seniority working a minimum of 1,800 hours for a minimum of 5 years.
+Employees hired after January 1, 2009 are not eligible for GWP.
+3.	Exceptions
+This Plan has no application to and provides no benefits for:
+(a)	Employees who have been laid off for disciplinary reasons and if such lay-off is questioned under the Grievance Procedure of the Collective Agreement final disposition of any grievance will determine the employee's status under the Plan.
+(b)	Employees who have been laid off because of any strike, lockout, slowdown, picketing or other action by employees of this Company or by employees of any other employer who are represented for collective bargaining purposes
+112
+by the National Union or by any local Union thereof, or successors thereof.
+(c)	Employees who have been terminated because of specific direction or decree from any governmental authority which has the effect of curtailing any of the Company's operations, unless:
+(i)	the direction or decree is the result of an illegal act committed by the Company or one of its representatives, or
+(ii)	the direction or decree purports to change the method of beer distribution or beer retailing within the province of New Brunswick; or
+(d)	Employees who have been laid off because of any act of war or the hostile act of any foreign power or by any act of sabotage or insurrection or by any act of God.
+(e)	Employees who are laid off and who have arranged with the Company to take leave of absence without pay for a specific period in lieu of their layoff. These employees will be
+113
+deemed to have opted out of the Plan for such period.
+4.	Disqualification for Benefits An employee who has been laid off and who would otherwise be eligible for participation in the Plan shall not receive any payments under the Plan for any week:
+(i)	in which he has been on layoff and has failed to apply for E. I. benefits, or in which he has been disqualified or disentitled from E. I. benefits by any reason other than serving a two (2) week waiting period.
+(ii)	in which he has been on layoff and has failed to keep himself registered for employment with Human Resources and Skills Development Canada in those cases where such registration is necessary to qualify for E. I. benefits or for reduction of E. I. waiting period.
+(iii)	in which he has failed or refused to accept employment deemed suitable for
+114
+him by the Employment Insurance Commission.
+(iv)	in which he has failed to accept and report for any appropriate work assignment of at least one normal working day unless excused for reasonable cause.
+(v)	in which he is in receipt of a benefit provided by the Company's insured weekly indemnity or Long Term Disability Plans.
+(vi)	After he has become entitled to receive any pension under the Company or Government Pension Plan.
+(vii)	In respect of which he is qualified for compensation from the Workers Compensation Board for any compensable accident or illness.
+5.	Definitions
+For the purpose of this Plan:
+115
+"Wages" shall mean actual earnings for work performed and vacation pay, payment for any leave of absence with pay granted, e.g. jury duty, bereavement pay, payment for Statutory Holidays and call-in pay.
+"Week" shall mean the Company's payroll week.
+"Compensated and available hours" means as applied to any particular week for any employee:
+(a)	All hours worked by the employee for the Company or for any other employer in such week, plus
+(b)	All hours not worked by the employee in such week but for which he received wages from any employer, plus
+(c)	All hours scheduled in such week for an employee who is not on layoff and which he has not worked for any reason other than lack of work, plus
+116
+(d)	All hours scheduled in such week for an employee who is on layoff and which he has not worked for any reason other than lack of work after being given reasonable notice according to the established practice of the Company that such scheduled hours were available to be worked by him.
+"Week of layoff" means a week in which the employee's compensated and available hours are less than forty (40).
+6.	Benefits Provided for Laid Off Employees Subject to the terms and conditions of the Plan as herein set out each eligible employee who is laid off from the Bargaining Unit shall receive in addition to any wages earned in the week a benefit from the Plan for each week of layoff calculated by determining the product of items 1, 2 and 3 below and deducting from such product the sum of item 4 below.
+(1)	Seventy percent (70%) for eligible employees as hereinabove defined.
+(2)	The straight time hourly rate of the employee in effect as of time of layoff.
+117
+(3)	The excess of forty (40) over the compensated and available hours of the employee.
+(4)	The actual benefit, if any, for which such employee is eligible under the Employment Insurance Act for such week.
+7.	Employee Benefits During Layoff An employee who is laid off continues to participate in the Employee Benefit Plan of the Company applicable to employees in his Bargaining Unit to the end of the month following the last month in which he has worked in the Bargaining Unit, or until the end of the last month during which he has drawn a benefit under this Plan, whichever is the later. Employee Benefit Plan for the purpose of this section does not include the Pension Plan or the Company's insured Weekly Indemnity and Long Term Disability Plans which cover only indemnity for wages actually lost because of illness or accident.
+An employee on layoff who, pursuant to the above, has ceased to participate in the
+118
+Employee Benefit Plans are restored to participation immediately upon completion of eight (8) hours work in the Bargaining Unit.
+8.	Duration of Benefits
+The maximum benefit entitlement of an employee at any time shall not exceed that benefit established in accordance with Table "A". However, the employee's actual benefit entitlement will be less than the maximum benefit entitlement if he has used any benefits and has not subsequently restored them.
+Weeks of benefits are restored based upon the formula of 1/10 of a week for each eight (8) full hours during which the employee earned wages from the Company up to the employee's maximum benefit entitlement set out in Table "A" below. No credits towards future benefit entitlements are allowed for wages earned during any period in which the employee is already entitled to the maximum benefits set out in Table "A".
+119
+TABLE A’
+Completed Years of Seniority Determined at the date of first layoff in any twelve month period.	Maximum Benefit Entitlement
+15 Years or More	78 Weeks of Benefits
+10 Years or More	65 Weeks of Benefits
+5 Years or More	52 Weeks of Benefits
+4 Years or More	45 Weeks of Benefits
+3 Years or More	35 Weeks of Benefits
+2 Years or More	25 Weeks of Benefits
+1 Year or More	15 Weeks of Benefits
+The maximum number of weeks of benefits which an employee may use during any twelve (12) month period commencing at the
+120
+date of first layoff shall not exceed his Maximum Benefit Entitlement determined at the date of first layoff in any twelve month period in accordance with Table "A" above.
+(b) All employees attaining seniority after April 1, 1994 and with 3 years of seniority will be eligible.
+Each eligible employee's weeks of benefits shall be decreased by one week for each week in respect of which he is on layoff and in receipt of benefits for more than thirty-two (32) hours; and by 4/5th of one week for each week in which he is on layoff and in receipt of benefits for more than twenty-four (24) hours; and by 3/5th of one week for each week in which he is on layoff and in receipt of benefits for more than sixteen (16) hours; and by 2/5th of one week for each week in which he is on layoff and in receipt of benefits for more than eight (8) hours; and by 1/5th of a week in which he is on layoff and in receipt of benefits for eight (8) hours or less; and his weeks of benefits shall also be decreased by one week for each week in which he is on layoff but was
+121
+disqualified for any of the reasons set out in subsections (i), (ii), (iii) and (iv) of Section 4.
+9.	Deductions
+Any payment made under this Plan shall be subject to any deductions required by Federal, Provincial or Municipal authority or by the provisions of the Collective Agreement, or by voluntary authorization from the employee concerned.
+10.	Applications
+Employees shall be required to observe such rules and follow such procedures and make such reports and applications as shall be prescribed by the Company after consultation with the Union. The willful falsification of any fact material to the determination of an employee's benefit rights under the Plan shall result in the forfeiture of any benefit rights he may have under the Plan for a period of twelve (12) months subsequent to the discovery of such falsification, and this shall not preclude any other disciplinary action which may be imposed subject to the Grievance Procedure of the Collective Agreement.
+122
+11.	Reporting
+The Company will make periodic reports to the Union while employees are laid off and receiving benefits under the Plan and quarterly if no employees are on layoff, giving the Union complete information as to the number of employees who have been laid off, the duration thereof, the payments made to each individual under the Plan, the number of ineligible and disqualified employees, and such other similar information as may be relevant.
+12.	Duration of Agreement
+This Agreement shall continue until January 31, 2018. During negotiations for renewal of the relevant Collective Agreement, the Union is free to request amendments to this Agreement which shall also be part of such negotiations, but on the understanding that any amendments to this Agreement will not take effect any earlier than the date of ratification of the collective agreement.
+Furthermore, the company and the union do hereby enter into a collective agreement to be in effect at the date of ratification (March 30,
+123
+2011) which will remain in effect until January 31, 2018, the terms of which shall be identical to the terms of the collective agreement, subject to only the additions, deletions, alterations, amendments or other modifications hereinafter set forth.
+IN WITNESS WHEREOF the parties hereto have affixed their signatures this 26th day of March, 2011.
+FOR THE UNION FOR THE COMPANY
+Jeff Stoddard Luke Coleman Robert Edgecombe Chris Vautour Bernice Harquail Leigh Sprague Thomas Mann
+Wayne Arsenault Paul Fitzgerald George Magee Patrick Parent Anna Marie Hutton
+124
+APPENDIX ’C’
+EMPLOYEE BENEFIT PLANS MOOSEHEAD BREWERIES LIMITED SAINT JOHN, NEW BRUNSWICK
+Outline of Insured Employee Benefits:
+The terms and conditions of the benefits set out below shall be governed by the Master Policies with the insurers. The effective dates for the improved coverage are indicated appropriately. The full premium cost of the benefits referred to below shall be paid by the Company.
+GENERAL INFORMATION
+1.	Definition of Dependent
+Your spouse (legal or common-law, provided the common-law relationship has existed for one year or more) for health and dental insurance;
+125
+Your unmarried children or your spouse's unmarried children (including adopted, foster or step-children) who are chiefly dependent on you for support and maintenance and for whom you are entitled to an income tax deduction, and provided they are up to 19 years of age. Under certain conditions as outlined below, coverage for dependent children may be extended:
+up to age 21 if qualified as a dependent according to the Federal Income Tax Act; or
+up to age 25 if qualified as a dependent and is a full time student at an accredited school, college or university; or
+up to age 25 if qualified as a dependent and is incapable of self-sustaining support or employment by reason of mental or physical disability.
+2.	Co-ordination of Benefits
+In addition to the benefits payable under this plan, sometimes an employee or dependent is
+126
+entitled to benefits for the same expenses under an automobile insurance plan or another group insurance plan.
+Should this type of duplication occur, the benefits under this plan will be co-ordinated so that the total benefits for all plans will not exceed the expenses actually incurred.
+3.	Termination of Insurance
+Unless otherwise specified in the booklet, insurance coverage for yourself and/or your dependents cease when:
+-	you leave your job;
+-	the group policy expires;
+-	you stop making contributions when required; or
+-	attainment of age 65.
+4.	General Limitations
+Your supplementary health insurance and vision care insurance does not cover services and supplies in the following situations:
+-convalescent, custodial or rehabilitation services;
+127
+-conditions not detrimental to health; -services or supplies normally provided without cost or at nominal cost by the participant's government health plan; -benefits that you receive or are entitled to receive from Workers Compensation; -mileage or delivery charges;
+-insurrection of war;
+-participation in the commission of a criminal offence.
+5.	Eligibility for Employee Benefits
+-	- all regular employees will have Employee Benefits and GWP as per Appendices B and C of the current collective agreement.
+-	- Commencing in year 2002, employees who have less than 20 weeks remaining in their GWP bank will be subject to a 50% co-pay for any month following a month in which the employee has worked less than 48 regular time hours.
+-	- If an employee opts out of paying the premium, he will serve a waiting period for reenrollment of 6 months unless he re-qualifies due to working 48 hours.
+128
+HOW TO MAKE YOUR CLAIM
+Life, Accidental Death and Dismemberment and Long Term Disability Insurance
+- the employer must be contacted.
+Extended Health Insurance
+-	save your receipts for covered expenses;
+-	complete the claims form which is available from your employer, attach supporting receipts and return to your employer; and
+-	be sure each bill shows:
+(1)	patient's name
+(2)	dates of services
+(3)	nature of service
+(4)	complete itemization of the charges.
+Group Travel Insurance
+*	you must pay for services rendered
+*	obtain receipts in duplicate
+129
+*	submit one copy of the receipts to the provincial health plan for payment.
+*	forward receipts and the original proof of payment made by the provincial health plan to your employer.
+*	be sure that each receipt for drug expenses shows the name of the drug and the prescription number.
+Dental Insurance
+*	ask your dentist to complete Part 1 of the Standard Dental Claims Form;
+*	Part 2 of this form is to be completed by the employee;
+*	mail directly to:
+Blue Cross of Atlantic Canada P. O. Box 220 Moncton, N. B.
+ElC 8L3
+130
+SCHEDULE OF INSURANCE (HOURLY)
+Your group insurance benefits are underwritten by the following insurance companies:
+Group Life Insurance - Blue Cross of Atlantic Canada
+Accidental Death and Dismemberment Insurance - Unum Life Insurance Company
+Long Term Disability Insurance - Blue Cross of Atlantic Canada
+Weekly Indemnity, Supplemental Health and Dental Insurance - Blue Cross of Atlantic Canada
+FOR EMPLOYEES
+GROUP LIFE INSURANCE Classification
+Active hourly-rated employees.
+131
+Amount of Benefit at ratification - Effective January 1/96 - $70,000.
+All employees shall have the option of purchasing additional life insurance through the Group Life Insurance Plan. It is agreed that 100% of the cost of this optional life insurance will be the responsibility of the employee.
+Employees Retired After May 1, 1991 -$5,000.
+Basic Accidental Death and Dismemberment
+An amount equal to your group life insurance under this plan - the principal sum.
+Weekly Indemnity Insurance
+All full-time union employees - 70% of weekly salary to a maximum benefit. Benefits are based on a normal work week (Monday through Friday) and payments commence on the fourth working day of disability if due to an accident and the fourth working day of disability if due to sickness and are payable for a maximum of 26 weeks.
+132
+Long Term Disability Insurance
+Hourly-rated Employees - 66 2/3% of monthly insured earnings to a maximum monthly benefit of $3,500 (taxable)
+FOR EMPLOYEES AND DEPENDENTS
+Supplementary Health Insurance There is no deductible;
+Reimbursement is at 100% of eligible expenses, unless otherwise stated in the policy. Effective Jan. 1, 2004 other medical practitioners are at 80% of eligible expense. There is a co-pay for prescription drug items based on the following table:
+January 1, 2003	$ 6.00
+January 1, 2005	$ 8.00
+January 1, 2008	$10.00
+April 1,2012	$15.00
+Drugs must require a prescription (no over the counter medications). For certain prescriptions
+133
+(such as “drugs of last resort”) Blue Cross reviews to ensure appropriate medication.
+Overall maximum is unlimited;
+Coverage for, prescription drugs, vision care and extended health care benefits.
+Dental Insurance
+Annual deductible - nil.
+Basic-no annual maximum.
+Additional annual Maximums - $1,000.
+Orthodontics - 50% to a $2,500 lifetime maximum. Covers medically necessary treatments only.
+Co-Insurance - basic - 100%, additional -70%, orthodontics - 50%.
+Basic, Additional and Orthodontic Services
+Reimbursement based on the current Dental Fee Schedule of your province of residence.
+134
+Eligibility
+If you are an hourly-rated employee, you are eligible to participate in this group insurance plan on the first of the month following the date of becoming a permanent full-time employee.
+Participation in the plan is a condition of employment and you and your dependents will be covered automatically as soon as you become eligible.
+Be sure to report any changes in dependent status to your employer within 31 days of this change so that the appropriate coverage may be obtained.
+Any increase in benefit amounts becomes effective the first day of the month following date of ratification.
+Temporary Employees - All temporary employees hired before June 12, 1999 are eligible for optional Blue Cross on a 50/50 premium cost sharing basis.
+135
+GROUP LIFE INSURANCE
+In the event of your death from any cause whatsoever, your designated beneficiary will be paid the amount of your group life insurance (see Schedule of Benefits section of this booklet for the amount). You may change your beneficiary at any time, subject to applicable laws.
+If you become totally disabled prior to your 65th birthday, the amount of your group life insurance will be continued in force, without payment of further premiums, provided that evidence of disability is submitted at least once a year. The amount of group life insurance continued under the waiver of premium provision will be subject to any reduction due to age prior to age 65 and to termination at age 65.
+Life insurance reduces to $5,000 at retirement.
+If any or all of your insurance terminates prior to your 65th birthday, you may apply for an individual life policy without taking a medical
+136
+examination. See your employer for complete details about the types of conversion policies that are available.
+Application for an individual policy must be made, and the first premium paid, within 31 days of termination of employment. If you die during this 31 day period, the amount of the cancelled group life insurance will nevertheless be paid to the beneficiary.
+ACCIDENTAL DEATH & DISMEMBERMENT INSURANCE
+Should you suffer paralysis or loss of life, limb, sight, speech or hearing as the result of an accident, the insurance company will pay up to the "principal sum" (the principal sum is listed in the Schedule of Benefits section of this booklet). If multiple losses occur as the result of any one accident, benefits will be paid for only one of the losses specified in the following TABLE OF LOSSES, the largest specified.
+TABLE OF LOSSES
+137
+FOR LOSS OF: THE AMOUNT PAYABLE WILL BE:
+Life - the Principal Sum Both Hands or Both Feet - the Principal Sum Sight of Both Eyes - the Principal Sum One Hand and One Foot - the Principal Sum One Hand or Foot and Sight of One Eye - the Principal Sum
+Speech and Hearing - the Principal Sum
+One Leg or One Arm - 3/4 of the Principal
+Sum
+Either Hand or Foot - 2/3 of the Principal Sum Speech or Hearing - 2/3 of the Principal Sum Sight of One Eye - 2/3 of the Principal Sum Thumb and Index Finger of the Same Hand -1/3 of the Principal Sum Quadriplegia (total and irreversible paralysis of all four limbs) - 2 times the Principal Sum Paraplegia (total and irreversible paralysis of both lower limbs) - 2 times the Principal Sum Hemiplegia (total and irreversible paralysis of one arm and one leg on the same side of the body) - 2 times the Principal Sum Loss of Use of:
+Both hands or arms - the Principal Sum
+One arm or one leg - 3/4 the Principal Sum
+138
+One hand or one foot - 2/3 the Principal Sum
+Points to note about Accidental Death and Dismemberment Insurance:
+Your basic accidental death and dismemberment insurance will be continued without further premium payment after a six month period of continuous disability from either accident or sickness for any further period of continuous total disability up to age 65, termination of employment or termination of the Master Policy with the insurer, whichever occurs first.
+In the event you suffer injuries as a result of an accident, you will be paid $1,500.00 for special training if such training is required for you to be qualified to engage in an occupation in which you would not otherwise have been engaged. Expenses must be incurred within two years from the date of your accident but would not include ordinary living, traveling or clothing expenses.
+139
+Not more than the Maximum Limit of Indemnity as defined in the Master Policy ($750,000) would be paid for all covered losses sustained by members of this group plan as a result of any one accident. If more than the Maximum Limit of Indemnity in losses is sustained, the amount which would otherwise be payable to each insured member will be reduced proportionately so that the total amount payable by the insurance company in respect of all insured members of the plan who have sustained losses in the accident equals the Maximum Limit of Indemnity.
+Accidental death and dismemberment insurance would not be paid in the event of injury or death resulting from:
+-	intentionally self-inflicted injuries, suicide or attempted suicide while sane or insane;
+-	declared or undeclared war, or while serving on full-time active duty in the Armed Forces of any country or international authority;
+140
+-	illness, disease, bodily infirmity or any bacterial infection other than bacterial infection occurring in consequence of an accidental cut or wound;
+-	travel or flight in any vehicle or device for aerial navigation, including boarding or alighting therefrom while being used for any test of experimental purpose, or while operating, learning to operate or serving as a crew member while being operated by or for or under the direction of any military authority, other than the transport type aircraft operated by the Armed Forces Air Transport Group of Canada or similar air transport service of any country, or travel in aircraft owned, leased or operated by the employer.
+-	accidental death and dismemberment insurance will not be paid if paralysis, loss of limb, sight, speech or hearing occurs more than 365 days after the accident.
+For the purposes of this accidental death and dismemberment insurance, "loss" shall mean with regard to hands or feet, actual severance through or above wrist or ankle joints; with
+141
+regard to eyes, entire and irrecoverable loss of sight, with regard to leg or arm, actual severance through or above knee or elbow joints, with regard to thumb and index finger, actual severance	through or above
+metacarpophalangeal joints; with regard to speech, hearing, entire and irrecoverable loss, with regard to paralysis, (quadriplegia, paraplegia, hemiplegia) loss must be complete and irreversible recovery of the use of such limbs.
+Accidental death	and dismemberment
+insurance will also be paid if loss is presumed to have occurred due to an accident resulting in the sinking of, or disappearance of, a conveyance and if the body has not been found within 365 days of the accident.
+WEEKLY INDEMNITY INSURANCE
+The weekly income benefit specified in the Schedule of Benefits is payable from the 4th working day of illness or non-occupational accident for a period of twenty-six weeks. Regular medical attendance is required throughout the benefit period. Employees who
+142
+are receiving weekly indemnity benefits due to a non-occupational accident will have the three-day waiting period paid following 20 working days of continuous disability.
+Successive disabilities are considered to be different periods if they are separated by fourteen consecutive days of active, full-time work or the disability is due to wholly different causes.
+Disabilities arising from pregnancy are covered, however, no benefits are payable during any period:
+(a)	for which benefits are paid under the Employment Insurance Act.
+(b)	of maternity leave taken pursuant to provincial or federal law or pursuant to mutual agreement between the employee and the employer, or
+(c)	which commences with the tenth week prior to the expected week of confinement for pregnancy and which ends with the sixth week of confinement.
+143
+Limitations
+No weekly indemnity benefits shall be payable if:
+-	vour claim has been denied by the insurance provider.
+-	you are disabled as the result of sickness or bodily injury for which you are entitled to any indemnity or compensation under any Workers' Compensation Act.
+-	during any period of disability during which you are not under the treatment of a physician legally licensed to practice medicine.
+-	during any period of disability resulting from intentionally self-inflicted injury.
+Your weekly income benefits will be reduced by an amount payable under a government automobile insurance plan which is approved as a reduction by the Employment Insurance Act.
+144
+Collective Bargaining Agreement
+If you are receiving benefits under the weekly indemnity plan as provided for under the terms of the Collective Bargaining Agreement, you shall be entitled to receive increases in the weekly indemnity benefit relative to increases in the hourly rate of pay provided in the Collective Bargaining Agreement.
+LONG TERM DISABILITY INSURANCE
+Elimination Period
+The monthly income benefits specified in the Schedule of Benefits is payable after 26 weeks of total disability through to recovery, age 65 or retirement, whichever occurs first.
+For a period of total disability which is a result of pregnancy, the elimination period commences on the date the pregnancy terminates, or, if earlier, the date the employee is totally disabled. Ceasing to be actively at work with the employer does not, by itself, mean than an employee is totally disabled.
+145
+Definition of Disability
+An insured employee is not considered totally disabled during the first 24 months following the elimination period if he/she is deemed able by the Company, to do the substantial (60%) portion of the regular duties of his own occupation for any employer. Thereafter, an insured employee is not considered totally disabled for the period following the first 24 months of benefits if he/she is deemed able, by the company, to perform at least 60% of the regular duties of any occupation for any employer for which he/she is reasonably fitted, or could become, by education, training or experience. Regular duties are defined as those work related activities which are considered essential to the employee’s performance of the occupation and which proportionately take the majority of time to complete.
+Successive Periods of Disability
+If you return to work after a period of total disability, any subsequent period of total disability will be considered a continuation of the previous one, unless the two periods of
+146
+total disability are separated by an interval of full-time employment of less than:
+-one day, if the two periods of total disability are due to unrelated causes; or
+-six continuous months, if the two periods of total disability are due to the same or related causes.
+If the period of total disability is considered to be a continuation of a previous period of total disability, benefits will be resumed in the same amount but without the application of another elimination period. Unless you have been at work for at least two weeks, your monthly indemnity will be based on the amount of your basic earnings prior to your original disability.
+Benefit Reduction
+The purpose of this insurance is to extend to you a reasonable level of income when you are disabled, but it is not designed to give you income which would exceed or even equal your normal take-home pay when you are working. For this reason, the benefits that you
+147
+receive from the plan will be reduced by any income from the following sources.
+Direct Offsets
+1.	any amount of income provided for you and your dependents by reason of your same or subsequent disability under the legislation of any government or emanation thereof, other than Employment Insurance. However, any increase in the disability under the Quebec/Canada Pension Plan because of an automatic adjustment in the cost-of-living index occurring while you are receiving monthly indemnity of monthly rehabilitative income is not considered income for the purpose of determining the amount payable.
+2.	any amount of income provided to you under any Workers' Compensation Law or similar legislation.
+In addition, if your monthly indemnity exceeds 85% of monthly basic earnings, your monthly indemnity will be further reduced by the amounts received from the following sources.
+148
+Indirect Offsets
+1.	any amount of income provided for you from any employer by reason of the same or subsequent disability;
+2.	any amount of income provided for you under any other group insurance or group pre-payment plan, including any policy issued to you as a result of your membership in an association of any kind;
+3.	any amount of income provided for you under any retirement or pension plan of your employer;
+4.	where permitted by law, any amount of income provided for you for the same disability under a contract of motor vehicle insurance which provides mandatory disability income benefits under the legislation of any government;
+5.	when permitted by law, any amount of income provided for you under the Criminal
+149
+Injuries Compensation Act or similar legislation.
+Rehabilitation
+If, after having received payments, you are unable to return to your former full-time position but can engage in some work (approved by the insurer) for remuneration, the benefits will continue but will be reduced by 50% of your rehabilitative earnings provided your total income during a rehabilitative program does not exceed 100% of your pre-disability income. The benefits will cease once you are no longer classified as being totally disabled or on attainment of age 65.
+Limitations
+Your long term disability income continuance benefit does not include coverage during which:
+-	you are not under the regular care of a doctor; or
+-	you engage in any occupation or employment for wage or profit, other than rehabilitative employment; or
+150
+- beyond your 65th birthday.
+Exclusions
+Payment will not be made for any period of disability:
+-	in respect of pregnancy:
+-	if you are on a pregnancy leave of absence mutually agreeable to both you and your employer; or
+-	if you are on a pregnancy leave of absence to which you are entitled under applicable provincial statute;
+-	due to or resulting from any of the following:
+-	intentionally self-inflicted injuries, or attempted suicide;
+-	commission or attempted commission of a criminal offence by you;
+-	war, declared or undeclared, or active duty in any armed service during a time of war; or
+-	participation in any riot, rebellion or insurrection.
+151
+The company will make weekly payments equal to L.T.D. benefit until actual payments are received at which time the company will be reimbursed by the employee.
+DENTAL CARE INSURANCE
+Dental care insurance has been designed to help you pay for your family dental expenses, both for routine care and for expenses for unforeseen treatment.
+To be considered as a "covered expense", the charge for a particular service must be reasonable and customary for the service provided in the area when the expense is incurred.
+The plan covers necessary dental treatment by a dentist, physician or other qualified personnel under the direct supervision of the dental or medical profession. (e.g., dental assistants, dental hygienists) and will also cover services rendered by specialists, dental mechanics, denturologists, denturists, therapists, etc. where permitted by law to deal directly with the public. If there is no fee
+152
+schedule for these practitioners in your province, payment will be based on the appropriate General Practitioners' schedule.
+Treatment Plan
+-	before your dentist starts a course of treatment, he will, upon request, prepare a "treatment plan" - a written report describing his recommendations as to necessary treatment and cost.
+-	you will be required to submit a "treatment plan" to the insurance company before treatment commences for any Routine Treatment expected to cost more than $200. This enables the insurance company to determine in advance the share of the cost of the proposed treatment and thus allows you to know the extent of any part of the costs you will have to pay.
+-	if you do not submit a "treatment plan" where required, you may find that your claim, or a portion of it, may not be covered.
+153
+ELIGIBLE EXPENSES
+Basic Benefits (reimbursement at 100%) Diagnostic:
+-	clinical recall oral examination - adults and children dependents - one every six months. Effective January 1, 2004 benefit goes to one recall per year for adults and two for children. No annual maximum.
+-	x-ray examinations - full mouth or panoramic films (1 set of each in 12 months);
+-	single film (up to 4);
+-	occlusal, posterior bite wing or extraoral films (2 of each type in 6 months).
+Preventative:
+-	cleaning and polishing, fluoride treatments -adults, 1 per year, and dependant children - 2 per year
+Restorative:
+-	fillings and other specific restorations. Surgical:
+-	extraction of teeth.
+154
+General:
+- emergency treatment of pain	and consultation with another dentist.
+Additional Benefits (reimbursement at 70% up to $1000/calendar year)
+This program provides for a denture replacement after you have been enrolled under this program for one year.
+Prosthodontic:
+-	complete dentures, partial dentures, denture
+adjustments and repairs, crowns and fixed bridges. This	program	excludes	the
+replacement of the denture unless it is at least five years old and cannot be made serviceable and the replacement of dentures which may have been lost, mislaid or stolen. One denture rebasing will be covered for a denture or replacement which was covered by this plan.
+Endodontic:
+-	diagnosis and treatment of the pulp (nerve) and tissues which supports the end of the root, root canal therapy and emergency procedures.
+155
+Periodontic:
+-	diagnosis and treatment of disease which affects the supporting tissue of the teeth, such as the gums and bones surrounding the teeth.
+Orthodontic Benefits:
+(reimbursement at 50% to $2,500 lifetime coverage. (Covers Medically necessary treatments only.)
+-	proper fitting of natural teeth and prevention or correction of irregularities of the teeth.
+Exclusions:
+The dental plan does not cover:
+-	services for which you or your dependents are entitled to indemnity from any government plan, or any plan or arrangement.
+-	dental treatment required as the result of self-inflicted injuries, insurrection, war or engaging in a riot.
+-	services for which the Government prohibits the payment of benefit;
+-	services provided without charge or paid for by the employer;
+-	services performed by an unqualified practitioner;
+156
+-	charges for missed appointments or the completion of claim forms;
+-	services not listed as a covered benefit.
+SUPPLEMENTARY HEALTH INSURANCE
+Supplementary health insurance provides a supplement to the Government Medicare, Hospitalization or Pharmacare Plans.
+Expenses are reimbursed at 100% of the actual cost or to the maximum specified in the list of eligible expenses.
+Covered Expenses
+The following covered expenses are payable while insured and as the result of a non-occupational injury or disease. The plan covers medically-necessary expenses for the service provided in the area where the expenses are incurred.
+157
+A. SUPPLEMENTARY HOSPITAL BENEFITS
+The supplementary hospital benefit provides for full coverage for the following expenses incurred by you or your eligible dependent
+Out-patient Services
+-	diagnostic and out-patient services in a participating hospital or private facility in the Atlantic Provinces;
+-	diagnostic and out-patient services in a general hospital outside the Atlantic Provinces up to the amount payable for similar services in the Atlantic Provinces.
+Ancillary Services
+-	an amount up to $1,000 for hospitalization will be provided toward the cost of ancillary hospital services when such charges are not fully covered by a government insurance plan.
+158
+B. EXTENDED HEALTH BENEFITS
+Ward Room Accommodation
+-	When confined in a licensed general hospital outside Canada, the ward room charge in excess of that paid by the government hospital care program of the normal province of residence.
+Private Duty Nursing
+-	charges for home nursing care by a registered nurse, registered or certified nursing assistant (but not a relative) to a maximum of 50 eight-hour shifts per calendar year, based on the current Nursing Association Fee Guide.
+Physician Services Out of Province
+-	customary charges of a physician licensed to practice where services are rendered, less the amount equal to the charges allowed under the provincial government medical plan.
+Professional Ambulance
+-	charges for professional ambulance, including air ambulance for a stretcher patient, on a regularly scheduled flight, to and from the nearest hospital able to provide the type of
+159
+care essential to the patient, to a maximum eligible expense of $500.00 per calendar year.
+Special Ambulance Attendant
+-	charges for travel expenses of an accompanying registered nurse, when medically necessary and approved by Blue Cross to a maximum eligible expense of $300.00 in a calendar year.
+Accidental Dental
+-	charges for dental treatment when natural teeth have been damaged by a direct accidental blow to the mouth, or when a fractured or dislocated jaw requires setting. Treatment must be rendered or reported and approved for payment by Blue Cross within 180 days of the accident. Eligible expenses will be the dentist's usual and customary fee up to the Dental Fee Guide where services are rendered.
+Diagnostic and X-Ray Services
+-	charges for diagnostic and x-ray services, including laboratory services, x-ray examinations, x-ray therapy and radium and isotope therapy treatment by a certified
+160
+radiologist, of a hospital or private facility where such services are not eligible under government programs.
+Oxygen and Blood
+-	charges for oxygen and blood or blood products when not provided for by the Canadian Red Cross or other agencies.
+Diabetic Supplies
+-	charges for needles, syringes, swabs, test tapes and lancets prescribed by a physician.
+Ostomy Supplies
+-	charges for essential ostomy supplies.
+Burn Pressure Garments
+-	special made-to-measure garments when prescribed by a physician to a maximum eligible expense of $500.00 per calendar year.
+Speech Aids
+-	speech aid equipment, approved by a qualified speech therapist and the attending physician, for persons who do not have normal oral communication ability, limited to a
+161
+lifetime maximum eligible expense of $500.00.
+Other Practitioners (effective Jan. 1, 2004 reimbursement is at 80%)
+-	charges for treatment, except when performed in a hospital, by a licensed speech therapist, masseur, clinical psychologist, chiropractor, osteopath, chiropodist/podiatrist, physiotherapist, acupuncturist or naturopath. The maximum eligible reimbursement for each type of practitioner is $500 per calendar year. The overall maximum reimbursed for this benefit is $1,500. The maximum eligible expense toward X-rays per calendar year is $35 per practitioner.
+Prosthetic Appliances
+-	charges for remedial prosthetic appliances, such as artificial limbs or eyes and including crutches, splints, casts, trusses and braces when required due to sickness or accident. Replacement of these items will not be a benefit except for pathological change. Repairs and/or adjustments are limited to a maximum eligible expense of $50.00 in a calendar year.
+162
+Equipment Rental
+-	charges for rental (or purchase) if approved by Blue Cross of a wheelchair, hospital bed and equipment for the administration of oxygen.
+Orthopedic Supplies
+-	charges for orthopedic shoes, molded arch supports and shoe modification supplies prescribed by an orthopedic surgeon, podiatrist, rheumatologist, or the attending physician to a maximum eligible expense of $75.00 per calendar year.
+Hearing Aids
+-	charges for hearing aids (excluding batteries) up to a total eligible expense of $300.00 per person in any five consecutive year period when prescribed by an otologist, and/or clinical audiologist and accompanied by an audiogram.
+163
+C.	VISION CARE BENEFIT - Health Wise Plan
+Charges for the following will be covered when prescribed or performed by a licensed optometrist or ophthalmologist:
+Eye Examinations, Lenses and Frames
+-	charges for cataract lenses, laser surgery and for eye examinations, lenses and frames when prescribed or performed by a licensed optometrist or ophthalmologist.
+-	Frequency - Adults every 4 years, children every two years. Waiting periods are waived if prescription changes by the prescribed amount.
+-	Lenses are paid at 100% of Blue Cross fee guide.
+-	Frames are paid at $100.00 for combined frames and exams every four years for adults and every two years for children.
+-	Eye Exams - $100 for combined frames and exams every four years for adults and every two years for children.
+164
+Contact Lenses
+-	when medically necessary for ulcerated keratitis, severe corneal scarring, keratoconus or aphakia, provided sight can be improved to at least the 20/40 level. The maximum eligible expense in any two consecutive calendar year period is $200.00.
+Visual Training
+-	visual training and remedial eye exercises up to a maximum lifetime eligible expense of $150.00.
+D.	PRESCRIPTION DRUG COVERAGE -Blue Cross Health Plan
+Eligible drug expenses include medically-necessary items which by law can only be obtained with a written prescription of a physician or dentist, and dispensed by a licensed pharmacist, excluding over the counter medications. For certain prescriptions (such as “drugs of last resort”) Blue Cross reviews to ensure appropriate medication. These items include prescription drugs, allergy
+165
+serums, insulin and oral contraceptives. Some prescription drugs may require “Special Authorization”.
+The plan pays the full cost of a member pharmacy's usual, customary and reasonable charges (as agreed upon with the member pharmacies) based on the following co-pay schedule:
+January 1, 2003 $6.00 per prescription January 1, 2005 $8.00 per prescription January 1,2008 $10.00 per prescription April 1,2012	$15.00 per prescription
+E.	GROUP TRAVEL PLAN
+The group travel plan covers a wide range of services which may be a result of an accident or unexpected illness incurred outside the participant's province of residence while on business or vacation. Subject to the maximum amounts indicated below, the plan pays 100% of the eligible expense with no overall maximum, less the amount allowed under any government health plan.
+166
+Hospital Charges
+-	room accommodation (not a suite) and medically necessary inpatient-outpatient services.
+Physicians and Surgeons
+-	customary charges by physician and surgeons for services rendered.
+Ambulance
+-	licensed ambulance service to and from the nearest hospital able to provide essential care to the patient.
+Air Transport
+-	on the written authorization of a physician, charges for air transportation of a stretcher patient from the place where the illness or accident occurred to the home city in Canada. If a stretcher is required, the maximum benefit will be the cost of two economy seats, and where medically necessary, the cost of one additional economy seat (including return fare) for any accompanying registered private duty nurse or other qualified person.
+167
+Private Duty Nursing
+-	registered nurses' care ordered by a physician, up to a maximum of 20 nursing shifts per illness.
+Diagnostics and X-Rays
+-	laboratory services for diagnostics and x-rays.
+Accidental Dental
+-	dental treatment when natural teeth have been damaged by a direct blow to the mouth or jaw. The maximum eligible expense is $1,000. Dental treatment must be rendered or reported and payment approved by Blue Cross within 180 days of the accident.
+Other Services
+-	treatment by a licensed chiropractor, chiropodist, osteopath, podiatrist and physiotherapist, up to a maximum eligible expense of $10 per visit.
+Equipment Rental
+-	charges for the rental of a wheel chair, crutches, braces or other medical appliance.
+168
+Prescription Drugs
+-	charges for prescription drugs, allergy serums, insulin and oral contraceptives in a quantity sufficient for the period of travel, purchased on a written prescription of a physician and dispensed by a pharmacist, physician or hospital. Oral vitamins and patent or proprietary drugs are excluded.
+Return of Vehicle Allowance
+-	an allowance of up to $250 per travel period payable to a commercial agency, for the return of a private vehicle to the subscriber's place of residence, or in the event of a rented vehicle, to the nearest rental agency. Authorization must be obtained from a physician stating that the participant is unable to drive the vehicle.
+Homeward Carriage
+-	an eligible expense of up to $1,000 towards the actual cost incurred for transporting a deceased participant to his/her place of residence in Canada.
+Board and Lodging expense
+-	additional board and lodging expenses incurred by a relative or friend remaining with
+169
+the participant during his/her hospitalization as an inpatient. The maximum amount payable for this benefit is $500. To be eligible for coverage, the friend or relative must be traveling with the participant, be covered by a Blue Cross Travel Plan, and the return of the participant (patient) must be unavoidably delayed beyond the expected date of return. Only expenses incurred beyond the expected return date of the participant will be considered as benefits and these expenses must be supported by official receipts from commercial organizations.
+CO-ORDINATION OF BENEFITS
+Benefit payments will be co-ordinated with any other plan or arrangement, including any government health program, so that the total amount received from all sources will not be greater than the actual expenses incurred.
+170
+APPENDIX ”D
+MOOSEHEAD BREWERIES LIMITED PENSION PLAN
+Effective January 1, 2009, the Company will sponsor 2 separate pension plans for eligible unionized employees as defined below.
+Plan #1 - Defined Benefit Pension Plan (“DB Plan”)
+Eligibility for Membership All full time unionized employees at December 31, 2008 who participated in the Defined Benefit program at that date. No employee hired after January 1, 2009 will be eligible to participate in the DB plan. All new employees hired after January 1, 2009 will be required to enroll in the DC Plan the latter of the 1st of the month after attaining full time seniority or completion of the probationary period. Temporary Employees who were hired prior to January 1, 2009 will be eligible to participate in the DB Plan upon achieving full-time employment status.
+171
+Service
+Service means service credited under the old Standard Life Plan plus all service since July 1, 1974. 1800 hours is necessary for credit for a full year with fractional years computed as at present.
+Normal Retirement Date
+The first day of the month following the
+month in which a member attains age 65.
+Optional Retirement Date A member may elect to retire after age 55 and receive the pension benefits accrued to the date of his retirement (not including the bridge benefit) but reduced by 1/4 of 1% per month of early retirement.
+He may also defer his retirement date but no period of service after age 65 counts for pension purposes. Participants may retire after having both completed 30 years of service and attained the age of 58 without reduction of their accrued pension.
+172
+Contributions
+Effective July 1, 2003 employees contribute 2% of the base labourer rate.
+Effective July 1, 2005 employees contribute 4% of the base labourer rate.
+Pension Benefit
+A member retiring at age 65 on or after January 1, 2002 will receive a pension of $60.00 per month for each year of service to a maximum of 40 years.
+Future pension accrual rates will be as follows:
+Year	Accrual	Employee Contribution*	
+2003	$60.00	2.0% (July	1)
+2004	$60.00	2.0%	
+2005	$75.00	4.0% (July	1)
+2006	$76.00	4.0%	
+2007	$77.00	4.0%	
+2008	$77.00	4.0%	
+2009	$77.00	4.0%	
+2010	$77.00	4.0%	
+2011	$77.00	4.0%	
+2012	$77.00	4.0%	
+2013	$77.00	4.0%	
+2014	$77.00	4.0%	
+173
+2015	$77.00	4.0%
+2016	$77.00	4.0%
+2017	$77.00	4.0%
+2018	$77.00	4.0%
+*Employee contributions are tax deductible and would start on July 1, 2003. They will be based on the hourly labourer rate.
+The Company will form a joint Pension Committee to review the financial status of the Plan.
+Bridge Pension
+(a) Effective January 1, 1996 each member who retires on or after his 58th birthday, having completed at least 30 years of credited service, shall receive a supplementary bridge pension payment from his retirement date to the first of the month following his 65th birthday of $20.00 per month for each year of service to a maximum of 40 years. Only for the term of this agreement, the rule of 80 will be incorporated for bridge pension. (Minimum of 55 years of age with 25 years of service required to reach 80.) For the term of this Agreement, the Bridge rate will be $30.
+174
+Indexing
+Effective January 1, 1989 and each January 1 thereafter, all pensions payable under this plan and the old Standard Life plan will be increased by 75% of the increase in the Consumer Price Index, minus 1%, subject to a maximum increase of 6%. This escalation also applies to all existing pensioners. This escalation will apply only to those already retired, and to those who retire during the term of the present Collective Agreement.
+Disability Pension
+A member who has attained age 50 and completed ten years of service, who has exhausted the benefits under any short or long term disability plan arranged by the Company, and who is totally and permanently disabled such as to prevent him from continuing in active employment, with such disability certified by a medical practitioner, will receive the basic pension (but not the $20.00 bridge) based on service to the date of disability retirement.
+175
+Termination Benefits
+If at the date of termination a member has completed at least ten years of service, and has left his contributions in the previous plans, he will receive the pension, commencing at his Normal Retirement Date, which had been credited to him up to the date of termination of employment.
+Form of Pension
+The normal form of pension is for life only. Sixty percent of the pension being paid will continue to the member's spouse for the remainder of his/her life, except the 60% of the bridge pension is only payable until the month in which the member would have attained age 65.
+Death Benefits
+(a) If a member dies in service after having attained age 55 and having completed at least ten years of continuous service, his surviving spouse (if any) will receive a pension determined as if he had retired as of his date of death but excluding the bridge pension. This implies a 60% spousal pension, and an actuarial reduction if the member is under age
+176
+60 at the date of death, or if the member has less than 30 years of service at the date of death.
+(b) Spouses of those employees who have been in the current Moosehead pension plan for 10 years will be entitled to 60% of the commuted value of the employees pension which will be eligible for roll over to an approved locked-in RRSP on the death of the member.
+Early Retirement
+For the term of the collective agreement, a member retiring after having attained age 55 and whose age plus years of credited service total 80 or more (but prior to having qualified for Special Early Retirement) or has reached the age of 60 is entitled to an immediate accrued pension equal to the amount of accrued vested pension to his credit for service to date of early retirement. This will be reviewed at the expiration of the extended collective agreement.
+177
+Plan #2 - Defined Contribution Pension Plan (“DC Plan”)
+Re: Pension for Employees hired after January 1,2009
+New hires after January 1, 2009 (after obtaining Regular/Seniority status)
+Defined Contribution Pension Plan
+-	3% Company Contribution with Employee match
+-	Optional additional contribution of 2.5% Company and 2.0% Employee.
+Contribution to Registered Retirement Savings Plan (“RRSP”)
+Effective at the date of ratification of the Agreement and up to January 31, 2018, employees who attain their retirement eligibility by January 31, 2018 (‘grandfathered employees’), will contribute
+0.25% of his/her gross annual earnings to a RRSP and the Company will match such contribution for a total annual contribution of 0.5% of earnings.
+178
+Effective at the date of ratification of the
+Agreement and up to December 31, 2012, all other active employees (‘non-grandfathered employees’) will contribute 0.25% of his/her gross annual earnings to a RRSP and the Company will match such contribution for a total annual contribution of 0.5% of earnings.
+Effective January 1, 2013 and up to December 31, 2014, all other active employees (‘non-grandfathered employees’) will contribute 0.50% of his/her gross annual earnings to a RRSP and the Company will match such contribution for a total annual contribution of 1.0% of earnings.
+Effective January 1, 2015 and up to December 31, 2016, non-grandfathered employees will contribute 0.75% of his/her gross annual earnings to a RRSP and the Company will match such contribution for a total annual contribution of 1.5% of earnings.
+Effective January 1, 2017 and up to December 31, 2017, non-grandfathered employees will contribute 1.75% of his/her gross annual earnings to a RRSP and the
+179
+Company will match such contribution for a total annual contribution of 3.5% of earnings.
+Effective January 1, 2018, non-grandfathered employees will contribute 2.0% of his/her gross annual earnings to a RRSP and the Company will match such contribution for a total annual contribution of 4.0% of earnings.
+Grandfathered and non-grandfathered employees, at their option, may contribute more than the amounts set out above but the Company portion remains as stated above.
+180
+APPENDIX ”E
+LETTERS OF UNDERSTANDING
+The Letters of Understanding referred to below have been made in relation to the Collective Agreement between the parties
+referred to, dated this _________ day of
+____________, 2011 are attached and continue
+to form part of this Appendix "E".
+1.	Deferred Retirement
+2.	Employee Benefits Committee -Pre-retirement Counseling Program
+3.	Rest Periods and Lunch Periods for Kettleman
+4.	Call in from Call List
+5.	Apprenticeship Program
+6.	Retiree Health & Dental
+7.	Vacation Preference
+8.	6 day - 12 Hour Shifts Only
+9.	Extended Work Week, Article 13.00
+10.	Energy Efficiencies
+11.	Staffing
+12.	Recall Provision for Temporary Employees
+181
+13.	Work Cell and Work Cell Operator Guidelines
+14.	Overtime
+182
+LETTER OF UNDERSTANDING NO. 1
+BETWEEN:
+MOOSEHEAD BREWERIES LIMITED, hereinafter called "the Company"
+and
+BREWERY WORKERS LOCAL 362 hereinafter called "the Union"
+Re: Deferred Retirement
+Should mandatory retirement at age 65 be no longer permitted by law in this province and a regular employee continues in employment beyond his normal retirement date, the following conditions shall govern such employment and be added to the Collective Agreement:
+1.	The Pension to which the employee has become entitled at his normal retirement date (the "Pension") shall be frozen as of the
+183
+employee's normal retirement date as defined in the Pension Plan.
+2.	The employee's Pension shall become
+payable as of the first day of the month immediately	following the month the
+employee ceased to be employed with the Company or as of the first day of the month immediately	preceding the	employee's
+seventy-first (71st) birthday whichever shall first occur (the "Pension Date").
+3.	The employee's Pension will include any escalation benefits which occur from his normal retirement date to his Pension Date.
+4.	No contributions to the Pension Plan will be made after the employee has reached his normal retirement date and no service shall be credited after the aforementioned date.
+5.	An employee's Pension will not be affected by any amendments made to the Pension Plan after the employee's normal retirement date.
+6.	An employee's Pension benefits will be actuarially reviewed effective as at the Pension
+184
+Date having regard to the employee's Pension having been deferred since his normal retirement date.
+7.	For purposes of calculation any minimum pension supplement, the Canada Pension Plan and old age security benefits, where applicable, will be taken into account at the level in effect at the employee's normal retirement date.
+8.	An employee who continues in the employ of the Company after his normal retirement date as defined in the Pension Plan, shall be entitled to only the insured welfare benefits provided to employees on retirement as at his normal retirement date.
+185
+LETTER OF UNDERSTANDING NO. 2
+BETWEEN:
+MOOSEHEAD BREWERIES LIMITED hereinafter called "the Company"
+and
+BREWERY WORKERS LOCAL 362 hereinafter called "the Union"
+RE:	Employee Benefits Committee -
+Pre-retirement Counseling Program
+During the life of the Collective Agreement the Joint Employee Benefits Committee shall also review and bring forth recommendations, including a policy and program design for use in establishing on an on-going basis, a pre-retirement counseling program. The primary objective of the pre-retirement counseling program shall be to provide assistance to employees in planning for retirement and continued financial security.
+186
+LETTER OF UNDERSTANDING NO. 3
+BETWEEN:
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the Company”
+and
+BREWERY WORKERS LOCAL 362 Hereinafter called “the Union”
+RE: Rest Periods and Lunch Periods for Kettleman
+The Kettleman shall receive one (1) hour credit regular time for any afternoon and midnight shift worked when we are in full Brewhouse Operation and you are not able to leave the area for your lunch period. In other words, the time will not be accumulated for clean-up shifts or shifts that we are shut down waiting for Fermenters, etc. The Brewhouse Supervisor will keep track and post the accumulated time. “In Lieu” time shall be taken in periods that don’t require replacement personnel. The time taken will be at the end of
+187
+the Brewing week at the discretion of the Brewmaster, i.e. you can’t take a full week of “lieu” time. Vacation shall take preference to “lieu” time.
+This arrangement shall be considered null and void when Brewhouse automation allows the appropriate lunch time to be taken.
+188
+LETTER OF UNDERSTANDING NO. 4
+BETWEEN:
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the Company”
+and
+BREWERY WORKERS LOCAL 362 Hereinafter called “the Union”
+RE: Call in From Call List
+Prior notification to mean no later than 4:00 p.m. of the previous working day, or in the event of illness, prior to being contacted by the employer for call in on the working day on which the employee is ill.
+Reasonable cause to mean personal sickness, confinement to hospital, illness of spouse or child or any other time off as approved by the Company.
+189
+In the event of unavailability due to personal sickness without prior notice, medical certification may be requested.
+190
+LETTER OF UNDERSTANDING NO. 5
+BETWEEN:
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the Company”
+and
+BREWERY WORKERS LOCAL 362 Hereinafter called “the Union”
+RE: Apprenticeship Program
+The company will undertake to hold meaningful discussions regarding the issues associated with establishing a Mechanical Apprentice. This would be without prejudice on a one person one time basis only.
+191
+LETTER OF UNDERSTANDING NO. 6
+BETWEEN
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the company”
+and
+BREWERY WORKERS, LOCAL 362 Hereinafter called “the union”
+Re: Retiree Health & Dental Benefits
+The parties have reached agreement on post retirement health care benefits and the details are set out in a separate post retirement health care benefits agreement (‘Benefits Agreement’). The Benefits Agreement provides a guarantee for grandfathered employees should they retire after expiry of the current or any subsequent collective agreement, specific mandatory buy-out information for non-grandfathered employees and the terms and conditions
+192
+attached to each of these employee categories.
+Upon ratification of this collective agreement, all employees hired before January 1, 2009, are subject to the Benefits Agreement.
+193
+LETTER OF UNDERSTANDING NO. 7
+BETWEEN
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the company”
+and
+BREWERY WORKERS, LOCAL 362 Hereinafter called “the union”
+Re: Vacation Preference
+The parties agree to implement the following vacation preference on a one year trial basis beginning the calendar year 2009 (likely 2010) to replace the language in article 16.08(c).
+Before the end of September 2009 (likely 2010) the parties will convene to assess the viability of the following approach and determine the continuance of the approach to replace article 16.08(c) on a go forward basis.
+16.08(c) To provide employees with reasonable opportunities to plan and arrange
+194
+their vacation periods, the following procedure shall apply:
+(i)	On or before January 31st of each calendar year, the Company shall post a notice requesting all employees to submit their choice of dates to the personnel department.
+(ii)	Employees shall by/on February 28th submit their choice of dates for vacation during that calendar year.
+(iii)	The personnel department shall post a preliminary vacation schedule by March 15th and provide written confirmation to employees with seniority rights who secured the available dates.
+(iv)	Employees who did not receive their preferred dates on the first vacation schedule may submit their second choice of dates amongst the dates available by March 31st according to seniority.
+(v)	If an employee fails to submit his choice of dates by March 31st, he/she shall lose any preference in choice of dates based on seniority. Such an employee shall submit his choice of dates as soon as possible to facilitate the
+195
+preparation and completion of the vacation schedule.
+(vi)	The final vacation schedule shall be posted by April 15th.
+(vii)	All vacation time must be scheduled by October 1st of each year or it will be scheduled by the Company.
+This letter shall be of no force and effect after December 31,2011.
+196
+LETTER OF UNDERSTANDING NO. 8
+BETWEEN
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the Company”
+and
+BREWERY WORKERS, LOCAL 362 Hereinafter called “the Union”
+6 day - 12 Hour shifts only.
+(i) Excess of 12 Hours	Double time
+(ii) Work on Stat Holiday	Double time for first 12 hours, Double and for any excess, Lieu day or 12 hours straight time.
+(iii) Saturday Shift Work	Time and one half for first 8 hours. Double time for
+197
+	excess
+(iv) Sunday Shift Work	Double time
+(v) Saturday shift work “day-off”	Time and one half for first 8 hours. Last four hours at double time
+Sick Leave Credits: 56 hours Vacation Credits:	40 hours
+Breaks:	Four 15 minute breaks and one 30 minute
+198
+LETTER OF UNDERSTANDING NO. 9 BETWEEN
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the company”
+and
+BREWERY WORKERS, LOCAL 362 Hereinafter called “the union”
+Re: Extended Work Week. Article 13.00
+The parties agree that the Company may implement extended work week schedules provided that the Company shall provide the Union with a schedule of production for the year, and
+(a)	The implementation of an extended work week schedule will be initiated by increased production requirements, and/or customer demand.
+(b)	That the extended work week schedule would be implemented in four (4) week cycles, with an equality of
+199
+days/evening for each employee and no less than a four (4) week notice to revert back to a regular shift arrangement.
+(c)	The implementation of the summer peak period shall be for a sixteen (16) week period to allow for the occurrence of the approved vacation schedule without interruption.
+(d)	Should there be required a change in the shift arrangement outside of the peak period in (c) above, employees will have two (2) weeks from the date of notice in (b) above to make vacation changes for the vacation weeks affected by such change.
+(e)	By January 31st of each year the Company shall provide the Union with the annual schedule for each department defining peak periods of production. When a full time employee is assigned to a shift, A, B, C, and/or D, he is to remain on that shift for the year subject to any changes required. An effort will be made to keep employees on the same shift. It is understood that there are occasions where management
+200
+will require employees to change shifts. In these cases the Company will provide two (2) weeks notice of change.
+201
+LETTER OF UNDERSTANDING NO. 10
+BETWEEN
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the company”
+and
+BREWERY WORKERS, LOCAL 362 Hereinafter called “the union”
+Re: Energy Efficiencies
+The parties agree that it is in the best interest of the employees and the Company to raise awareness of the positive implications for joint efforts on climate change issues and energy conservation initiatives.
+202
+LETTER OF UNDERSTANDING NO. 11
+BETWEEN
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the company”
+and
+BREWERY WORKERS, LOCAL 362 Hereinafter called “the union”
+Re: Staffing
+In the event of layoffs the company and the union will work together so as to ensure an equal distribution of production over the course of a work week so that the maximum number of senior employees will have a 40 hour work week.
+203
+LETTER OF UNDERSTANDING NO. 12
+BETWEEN
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the company”
+and
+BREWERY WORKERS, LOCAL 362 Hereinafter called “the union”
+Re: Recall Provision for Temporary Employees
+In order to become more competitive in securing incremental temporary volumes and with an interest of protecting our future prosperity, the Company must have the necessary flexibility to withstand volume fluctuations. For the continued health of the Company and the Union, the Company must have the ability to bid on short term brewing contracts.
+204
+In order to achieve this, and for the life of this collective agreement only, notwithstanding articles 8.09(b) Layoff and Recall from Layoff, a temporary employee’s right to recall shall terminate after a period of two continuous months of layoff.
+205
+LETTER OF UNDERSTANDING NO. 13
+BETWEEN
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the company”
+and
+BREWERY WORKERS, LOCAL 362 Hereinafter called “the union”
+RE: Work Cell and Work Cell Operator Guidelines
+The parties recognize that, as part of its Long Range Plan, the Company may desire to make significant investments in the brewery and/or introduce new equipment, systems and layout during the life of this Collective Agreement. To do this, the Company may wish to introduce Work Cells and post for Work Cell Operators.
+In order to facilitate this, notwithstanding Article 12.02, and in keeping with the
+206
+parties’ mutual desire for the brewery to be successful and competitive, the parties agree to the guidelines outlined below.
+The following Guidelines shall apply:
+-	There must be a significant redesign and/or reconfiguration-affecting layout and/or work flow in order for the Company to introduce Work Cells or post for a Work Cell Operator.
+-	An upgrade in equipment, without a significant redesign and reconfiguration. affecting layout and/or work flow. shall not be sufficient for the Company to introduce Work Cells or post for a Work Cell Operator.
+-	The Company must provide the Union with at least thirty (30) days notice prior to the introduction of Work Cells or posting for a Work Cell Operator.
+-	The parties understand and agree that the current configuration. as of January 1. 2011. would not allow for the introduction of a Work Cell or posting of a Work Cell Operator.
+207
+-	The parties understand and agree that the reconfiguration/redesign must be in the same area of the brewery as the proposed introduction of a Work Cell and/or posting of a Work Cell Operator.
+A Work Cell shall be defined as:
+-	A geographically proximate zone in which one or more employees are responsible for multiple tasks.
+A posting for Work Cell Operator shall include but not be limited to:
+-	The zone in which the work cell is located.
+-	How many Work Cell Operators are to be included within that Work Cell.
+-	The tasks and/or machinery for which the Work Cell Operator shall be responsible.
+The Union shall participate in the development of any Work Cell Operator posting, and shall have input into the particulars of such a posting, while
+208
+respecting the guidelines contained in this letter. Both parties agree to be reasonable in the development of the Work Cell Operator posting.
+209
+LETTER OF UNDERSTANDING NO. 14
+BETWEEN
+MOOSEHEAD BREWERIES LIMITED Hereinafter called “the company”
+and
+BREWERY WORKERS, LOCAL 362 Hereinafter called “the union”
+RE: Overtime
+The parties agree to implement the following overtime rules into the existing overtime system on a trial basis for the life of this collective agreement:
+-	Overtime shall be calculated on a daily basis.
+-	Overtime shall be assigned based on the list as of two days prior to the assignment of the overtime.
+-	When an employee moves to a new Department to fill a permanent posting, his overtime accumulation number shall be either:
+210
+(a)	his overtime accumulation number immediately prior, or
+(b)	equal to the lowest overtime accumulation number of any active employee in the new Department. whichever is greater.
+- At the end of each calendar year. each employee’s overtime accumulation number shall have subtracted from it a number equal to the lowest overtime accumulation number of any permanent employee in that employee’s Department. The number shall. subject to that subtraction. rollover from year to year.
+211
+APPENDIX "F'
+MOOSEHEAD BREWERIES LIMITED SEPARATION PAY
+Separation Pay
+.01 - A Regular employee shall be entitled to separation pay as set out in subsection .03 provided he has not been excluded by subsection .02 and provided he meets any of the following eligibility provisions:
+(a)	if he is terminated for a reason other than set out in subsection .02
+(b)	if he is laid off and on any date during his layoff the hours scheduled for him during the previous twelve (12) consecutive months were less than fifty percent (50%) of normal full time hours provided he is not eligible for any Company or Government pension or for benefits under the Company's insured Weekly Indemnity or Long Term Disability Plans;
+212
+(c)	in special cases where a laid off employee appears to have little prospect of recall to regular work within a period of six months he may request immediate termination and separation pay, and with the concurrence of the Company and the Union this may be granted notwithstanding the eligibility of clause in (b) above;
+(d)	if he is ultimately designated for indefinite lay off as a result of a major technological change as provided in Section 8.02;
+An employee eligible for a separation payment hereunder must apply for it not later than six months after he first becomes eligible thereof, otherwise his right to such payment shall be cancelled.
+Notwithstanding the above if the Company permanently discontinues an operation, an employee laid off as a result thereof must apply for and shall receive any separation pay
+213
+to which he is entitled without waiting the six month's period.
+.02 - Notwithstanding subsection .01, an employee shall be excluded from separation pay eligibility if:
+(a)	he quits;
+(b)	he is terminated for just cause;
+(c)	he is terminated under section 8.06 (loss of seniority provision) of this collective agreement;
+(d)	he has been terminated because of specific direction or decree from any Government authority which has the effect of curtailing any of the Company's operations; unless
+(i) the direction or decree is the result of an illegal act committed by the Company or one of its representatives, or
+214
+(ii) the direction or decree purports to change the method of beer retailing within the Province;
+(e)	he has been laid off because of any act of war or the hostile act of any foreign power or by any act of sabotage or insurrection or by any act of God;
+(f)	he is laid off and has arranged with the Company to take leave of absence without pay for a specific period in lieu of his layoff;
+(g)	he is in receipt of income replacement benefits under the Weekly Indemnity or Long Term Disability Plans or the Worker's Compensation Act.;
+(h)	he is entitled to receive any pension under the Company or Government Pension Plan.
+.03 - The amount of the separation payment of an eligible employee shall be equal to:
+215
+(a)	one week's base earnings (computed
+on the basis of his hourly rate in effect as of time of layoff) multiplied by the number of his completed years of seniority	(as	used	for	vacation
+entitlement) as of the last day he actively worked in the Bargaining Unit, plus
+(b)	for	employees	classified	as
+probationary or regular employees prior to May 1, 1988, an additional Three Hundred and Seventy-five Dollars ($375.00) multiplied by his completed years of seniority used in (a) above to a maximum of 15 years. However, such eligible employee who applies for separation pay at the time he first becomes eligible	thereof shall	have	his
+separation	pay	under	this	part	(b)
+calculated as seven hundred and fifty dollars ($750.00) multiplied by his completed years of seniority used in (a) above to a maximum of 15 years. If there is a permanent closure of the brewery the 15 year maximum is replaced with a 22 year maximum.
+216
+.04 - The company shall be authorized to deduct from any separation pay payable to an employee hereunder the amount of any Guaranteed Wage Plan payment made to such employee which the employee was not entitled to receive.
+.05 - If an employee applied for and accepts a separation payment hereunder, his employment is terminated and his seniority and other rights under the Collective Bargaining Agreement are cancelled.
+217

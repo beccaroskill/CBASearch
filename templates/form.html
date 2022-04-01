@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', path='/css/uikit.min.css') }}">
+
+    <title>CBA Search</title>
+</head>
+<body>
+    <div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
+        <div class="uk-grid">
+            <div class="uk-width-medium-1-1 uk-row-first uk-vertical-align">
+                <form method="post">
+                    <input class="uk-form-large" style="height:50px" type="text" name="contract_id" value="{{ contract_id }}"/>
+                    <input class="uk-button uk-button-primary uk-button-large" style="margin-top:-5px" type="submit">
+                </form>
+            </div>
+        </div>
+        <hr class="uk-grid-divider">
+        <div class="uk-grid">
+            <div class="uk-width-medium-1-1">
+                {% for line in results %}
+                    {% if line.is_header %}
+                        <h3>{{ line.text }}</h3>
+                    {% else %}
+                        <p>{{ line.text }}</p>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</body>
+</html>
