@@ -6,11 +6,11 @@ from fastapi import FastAPI, Request, Form
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
-from contractdata import ContractDatabase
+from loaddata import get_contract_lines
 
 app = FastAPI(title="CBA Search")
 app.mount("/static", StaticFiles(directory="static"), name="static")
-contract_db = ContractDatabase("data/DOL_Scrape/ContractText", "data/CBAList.csv")
+print('woot', app)
 templates = Jinja2Templates(directory="templates/")
 
 @app.get("/", response_class=HTMLResponse)
@@ -18,24 +18,26 @@ async def read_items():
     return """
     <html>
         <head>
-            <title>Collective Bargaining Agreement Search Tool</title>
+            <title>Simple HTML app</title>
         </head>
         <body>
-            <h1>Navigate to <a href="http://localhost:8000/search">/search</a></h1>
+            <h1>Navigate to <a href="http://localhost:8000/form">/form</a></h1>
         </body>
     </html>
     """
 
-@app.get("/search")
+
+@app.get("/form")
 def form_post(request: Request):
-    search_results = []
+    contract_id = "Enter a contract id"
     return templates.TemplateResponse(
-        "search.html", context={"request": request, "results": search_results}
+        "form.html", context={"request": request, "results": contract_id}
     )
 
-@app.post("/search")
+
+@app.post("/form")
 def form_post(request: Request, contract_id: str = Form(...)):
-    search_results = contract_db.get_search_results(contract_id)
+    contract_text = get_contract_lines(contract_id)
     return templates.TemplateResponse(
-        "search.html", context={"request": request, "results": search_results}
+        "form.html", context={"request": request, "results": contract_text, "contract_id": contract_id}
     )
