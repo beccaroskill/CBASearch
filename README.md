@@ -4,8 +4,8 @@
 
 ### Monday, April 4, 2022
 I updated the search tool (both backend and UI) such that the search term is now designed to be a string the user is hoping to find in the text of the contracts. The results show previews of the 3 lines before and the 3 lines after the line that the string appears in. Here's a preview of where I'm at:
-![Preview image 1](/progress_pics/4.03-1.png)
 ![Preview image 2](/progress_pics/4.03-2.png)
+![Preview image 1](/progress_pics/4.03-1.png)
 
 ### Friday, April 1, 2022
 To get things up and running, I created a pretty simple web app that lets the user search for a contract and view that contract, formatting the lines labeled as section headers as header text. 
