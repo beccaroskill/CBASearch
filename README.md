@@ -2,6 +2,10 @@
 
 ## Project Journal
 
+### Monday, May 4, 2022
+I added functionality for North American Industry Classification System parsing, because this is the format used for industry information in the Department of Labor-sourced data. The coding system kind of reminds me of zip codes or IP addresses, in that there's an encoded hierarchy, so the first $k$ digits denote increasing levels of industry-specificity, with all $n$ digits representing the unique code for the most specific associated industry. Parsing these codes was a little more complex than expected because the coding system is not implemented perfectly (e.g. some classes have several corresponding codes because unique codes could not be assigned to all their subclasses). Next up, I need to make the UI components for sector and topic filtering functional. This should be extremely simple for sector, but I will need to do some offline data parsing to get into topic filtering.
+![Preview image 1](/progress_pics/5.04-1.png)
+
 ### Monday, April 4, 2022
 I updated the search tool (both backend and UI) such that the search term is now designed to be a string the user is hoping to find in the text of the contracts. The results show previews of the 3 lines before and the 3 lines after the line that the string appears in. Here's a preview of where I'm at:
 ![Preview image 2](/progress_pics/4.03-2.png)
