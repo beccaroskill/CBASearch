@@ -1,4 +1,9 @@
-__pycache__/*
-data/DOL_Scrape/Contracts/*
-data/DOL_Scrape/ContractImages
-data/HigherEd/*
+*__pycache__*
+cba_search/data/DOL_Scrape/Contracts/*
+cba_search/data/DOL_Scrape/ContractImages
+cba_search/data/HigherEd/*
+*Icon*
+*.ipynb_checkpoints*
+.git
+.gitignore
+

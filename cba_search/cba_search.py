@@ -1,7 +1,4 @@
-"""
-https://fastapi.tiangolo.com/advanced/custom-response/#html-response
-"""
-
+"""Main module for cba_search."""
 from fastapi import FastAPI, Request, Form
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
@@ -9,11 +6,11 @@ from fastapi.staticfiles import StaticFiles
 from contractdata import ContractDatabase
 
 app = FastAPI(title="CBA Search")
-app.mount("/static", StaticFiles(directory="static"), name="static")
 contract_db = ContractDatabase("data/DOL_Scrape/ContractText", 
                                "data/CBAList.csv",
                                "data/2022_NAICS_Structure.csv")
 templates = Jinja2Templates(directory="templates/")
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
 def get_context(request, search_results):
     return {"request": request, 
@@ -36,7 +33,7 @@ async def read_items():
             <title>Collective Bargaining Agreement Search Tool</title>
         </head>
         <body>
-            <h1>Navigate to <a href="http://localhost:8000/search">/search</a></h1>
+            <h1>Navigate to <a href="/search">/search</a></h1>
         </body>
     </html>
     """
