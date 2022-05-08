@@ -1,8 +1,9 @@
 import pandas as pd
 import urllib.request as urlreq
-from tqdm import tqdm
+from multiprocessing import Pool
 
-def download_by_doc_id(doc_id, download_folder=''):
+
+def download_by_doc_id(doc_id, download_folder='DOL_Scrape/Contracts'):
     doc_url = 'https://olmsapps.dol.gov/olpdr/GetAttachmentServlet?docId={}'.format(doc_id)
     web_file = urlreq.urlopen(doc_url)
     local_file = open('{}/{}.pdf'.format(download_folder, doc_id), 'wb')
@@ -13,5 +14,10 @@ def download_by_doc_id(doc_id, download_folder=''):
 cba_list_file = "CBAList.csv"
 cba_df = pd.read_csv(cba_list_file)
 download_folder = "DOL_CBAs/Contracts"
-for doc_id in tqdm(cba_df['CBA File']):
-    download_by_doc_id(doc_id, download_folder)
+    
+def main():
+    with Pool(5) as p:
+        p.map(download_by_doc_id, cba_df['CBA File'])
+
+if __name__ == "__main__":
+    main() 

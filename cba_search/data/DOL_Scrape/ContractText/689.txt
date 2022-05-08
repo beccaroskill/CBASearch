@@ -1,52 +1,52 @@
 Ces = 1,600  
-### Le L349 6  
+Le L349 6  
 ### COLLECTIVE BARGAINING AGREEMENT  
 ### BETWEEN  
 ### THE GREAT ATLANTIC & PACIFIC TEA COMPANY, INC.  
 ### AND  
 ### UNITED FOOD AND COMMERCIAL WORKERS  
 ### LOCAL 342-50, AFL-CIO  
-### OCTOBER 31, 1999 to October 30, 2003  
+OCTOBER 31, 1999 to October 30, 2003  
 0100-0000  
 ### INDEX  
 ### DESCRIPTION ARTICLE PAGE  
 ### ACCIDENTS AND SAFETY... bebe 26  
 ### BULLETIN BOARDS & TIME CARDS... 2400. 24  
-### CHECK OFF... ee 5  
+CHECK OFF... ee 5  
 ### DISCHARGE AND 18  
 ### FUNERAL LEAVE. 14  
 ### GRIEVANCE PROCEDURE AND ARBITRATION. 18  
 ### HEALTH AND WELFARE. 19  
-### HOLIDAYS... ccc Boece 9  
-### HOURS... 7  
+HOLIDAYS... ccc Boece 9  
+HOURS... 7  
 ### JOB CLASSIFICATION. ..... 2.0.0.  
-JURY 13  
+### JURY 13  
 ### LEAVES OF ABSENCE 24  
-### LEGAL ye 23  
+LEGAL ye 23  
 ### LEGISLATION 1 re 25  
 ### MANAGEMENT CLAUSE 5 6  
 ### MARKET STEWARDS. 1) ee 25  
-### PENSIONS. 0.0 21  
+PENSIONS. 0.0 21  
 ### RECOGNITION. 3  
 ### SAFETY-EDUCATION- CULTURAL 7h re 22  
-### SENIORITY... ccc 14  
-### SEVERANCE. ooo ooo 17  
+SENIORITY... ccc 14  
+SEVERANCE. ooo ooo 17  
 ### STRIKES AND 18  
 se 27  
-### TRANSFERS ooo 14.00. 16  
+TRANSFERS ooo 14.00. 16  
 ### UNIFORMS AND TOOLS. 0.0... Oo 13  
 ### UNION SHOP CLAUSE. ree 5  
-### UNION VISITATION. ccc 5 ooo 25  
+UNION VISITATION. ccc 5 ooo 25  
 11  
-### WAGES... ooo coc | ee 9  
-### SCHEDULE “A” - o.oo ccc 28  
-### APPENDIX “A” ooo 34  
+WAGES... ooo coc | ee 9  
+SCHEDULE “A” - o.oo ccc 28  
+APPENDIX “A” ooo 34  
 ### APPENDIX “B” 35  
 ### APPENDIX “C? 36  
-### APPENDIX “D” ooo ccc 37  
+APPENDIX “D” ooo ccc 37  
 ### APPENDIX 38  
 ### BLS  
-### THIS AGREEMENT made as of the 31st day of October, 1999, by and between THE  
+THIS AGREEMENT made as of the 31st day of October, 1999, by and between THE  
 ### GREAT ATLANTIC TEA & PACIFIC TEA COMPANY, INC., (hereinafter called the  
 ### “Employer’) and the UNITED FOOD AND COMMERCIAL WORKERS LOCAL 342-50,  
 affiliated with the American Federation of Labor-Congress of Industnal Organizations and The  
@@ -55,7 +55,7 @@ Mineola, New York 11501 (hereinafter called the "Union”).
 ### WITNESSETH  
 ### ARTICLE 1 RECOGNITION  
 The Employer the Union as the exclusive bargaining representative for all  
-### Grocery Department and Meat Department employees, including Meat Department Heads and  
+Grocery Department and Meat Department employees, including Meat Department Heads and  
 part-time employees, and Pharmacy Department employees except all executives, supervisory  
 employees and Pharmacy managers of stores which are located in the Counties of Nassau,  
 Suffolk, Kings, Queens and the stores located in the Borough of Richmond.  
@@ -65,53 +65,53 @@ stores within the geographical junsdiction of this Agreement, the Employer and t
 negotiate as to the terms of wages, hours, and conditions for eligible employees working in such  
 type departments.  
 ### ARTICLE 2 JOB CLASSIFICATION  
-### A. MEAT DEPARTMENT HEAD: A skilled Journeyman who is qualified to direct  
+A. MEAT DEPARTMENT HEAD: A skilled Journeyman who is qualified to direct  
 the operation of a fresh Meat Department, prepare orders for the products sold in that  
 department, supervise the employees in the Fresh Meat Department and assume direct  
 responsibility for the efficient operation of the department.  
-### B. JOURNEYMAN: A skilled Butcher Workman who has either served a complete  
+B. JOURNEYMAN: A skilled Butcher Workman who has either served a complete  
 apprenticeship in his/her trade or has developed equivalent ability by practical experience and is  
 capable of cutting and preparing meat in forms acceptable to the Retail Trade and in a manner that  
 will yield the maximum of profitable cuts from a carcass. He must also be proficient in waiting on  
 customers and have the knowledge and ability to perform the general detailed tasks in the Meat  
-### and Fish Departments.  
-### C. JOURNEYMAN B: A skilled journeyman or apprentice meat cutter capable of  
+and Fish Departments.  
+C. JOURNEYMAN B: A skilled journeyman or apprentice meat cutter capable of  
 cutting and preparing meat in forms acceptable to the Retail Trade whose duties shall consist of  
 handling, cutting, selling, processing, pricing, and displaying of meat, poultry, sausage or fish:  
 frozen, chilled or smoked, and the performance of all work incidental thereto.  
-### D. APPRENTICE: Individual employed for the purpose of learning all the details,  
+D. APPRENTICE: Individual employed for the purpose of learning all the details,  
 and developing manual skill for performing, after a stated number of years’ training, all the duties  
 of Journeyman/Journeyman B as commonly accepted in the trade.  
-### E. PART-TIME JOURNEYMAN: A journeyman is considered a part-time employee  
+E. PART-TIME JOURNEYMAN: A journeyman is considered a part-time employee  
 covered by this Agreement if his regularly scheduled work week is less than forty (40) hours per  
 week excluding overtime.  
-### F. SEAFOOD DEPARTMENT HEAD: A skilled Seafood employee who is qualified  
+F. SEAFOOD DEPARTMENT HEAD: A skilled Seafood employee who is qualified  
 to direct the operation of a service fresh Seafood Department, prepare orders for the products  
 sold in that department, supervise the employees in the fresh Seafood Department and assume  
 direct responsibility for the efficient operation of the department and perform all other duties  
 incidental for the operation of the department for which they have been trained and qualified, as  
 directed by the store manager.  
-### G. FLORAL DEPARTMENT HEAD: A skilled Floral employee who is qualified to  
+G. FLORAL DEPARTMENT HEAD: A skilled Floral employee who is qualified to  
 direct the operation of a service Floral Department, prepare orders for the products and  
 merchandise sold in that department, supervise the employees in the Floral Department and  
 assume the direct responsibility for the efficient operation of the department and perform all other  
 duties incidental to the operation of the department for which they have been trained and  
 qualified, as directed by the store manager.  
-### H. FRONT END ADMINISTRATOR: Is qualified to direct the operation of the  
+H. FRONT END ADMINISTRATOR: Is qualified to direct the operation of the  
 Front End, supervise the employees in the checkout/front end areas of the store, and assume the  
 direct responsibility for the efficient operation of the checkout areas and perform all other duties  
 incidental to the operation of the front end for which they have been trained and qualified, as  
 directed by the store manager.  
-### I. SCANNING ADMINISTRATOR: Is qualified to direct the activities associated  
+I. SCANNING ADMINISTRATOR: Is qualified to direct the activities associated  
 with the timely and accurate administration of the pricing of merchandise, maintaining UPC codes  
 and such other duties incidental to the maintenance of computer systems associated with price  
 control, and all other duties incidental to operation of the function for which they have been  
 trained and qualified, as directed by the store manager.  
-### J. HEAD CASHIER: Duties shall include all book work, balancing statements,  
+J. HEAD CASHIER: Duties shall include all book work, balancing statements,  
 signing off on cash, making deposits, all duties related to payroll, pick-ups, cashier tills and  
 deposits, and all other duties incidental to the operation of the cash office as directed by the store  
 manager.  
-### K. REGISTERED PHARMACIST: An individual who is a professional licensed  
+K. REGISTERED PHARMACIST: An individual who is a professional licensed  
 employee who must practice the profession in conformity with the relevant Federal, State, and  
 Municipal laws and regulations. The Registered Pharmacist retains the sole right, therefore, to  
 make decisions concerning the professional and ethical aspects of the practice of Pharmacy as it  
@@ -208,31 +208,31 @@ or discharge.
 ### ARTICLE 8 HOLIDAYS  
 A. The following legal holidays shall be observed by the Employer for all full time  
 employees on the payroll as of October 29, 1999:  
-### New Year’s Day Labor Day  
-### Washington’s Birthday Thanksgiving Day  
-### Memorial Day Christmas Day  
-### Fourth of July Employee’s Birthday  
-### Presidential Election Day three (3) Employee Personal Holidays  
+New Year’s Day Labor Day  
+Washington’s Birthday Thanksgiving Day  
+Memorial Day Christmas Day  
+Fourth of July Employee’s Birthday  
+Presidential Election Day three (3) Employee Personal Holidays  
 Full time employees hired on or after October 30, 1999 shall receive the following holiday  
 entitlement after two (2) months of continuous full time service (except those hired within thirty  
 [30] months with Local 342-50 industry experience):  
-### New Year’s Day Labor Day  
-### Memorial Day Thanksgiving Day  
-### Fourth of July Christmas Day  
+New Year’s Day Labor Day  
+Memorial Day Thanksgiving Day  
+Fourth of July Christmas Day  
 After one (1) year of employment — two (2) Personal Days per year  
 After two (2) years of employment ~ three (3) Personal Days per year  
 After three (3) years ofemployment - four (4) Personal Days per year  
 Part time employees hired on or after October 30, 1999 shall receive the following holiday  
 entitlement after six (6) months of continuous part time service (except those hired within thirty  
 [30] months with Local 342-50 industry experience):  
-### New Year’s Day Labor Day  
-### Memorial Day Thanksgiving Day  
-### Fourth of July Christmas Day  
+New Year’s Day Labor Day  
+Memorial Day Thanksgiving Day  
+Fourth of July Christmas Day  
 Baggers shall receive the following holiday entitlement of four (4) hours holiday pay after  
 six (6) months of continuous service if the holiday falls on regular scheduled workdays:  
-### New Year’s Day  
-### Thanksgiving Day  
-### Christmas Day  
+New Year’s Day  
+Thanksgiving Day  
+Christmas Day  
 When Christmas Eve falls on a working day, fifty percent (50%) of the regular full-time  
 employees shall be excused from work at 5 p.m. on Christmas Eve and the other fifty percent  
 (50%) excused at 5 p.m. on New Year’s Eve, without loss of pay. Fifty percent (50%) of the  
@@ -253,7 +253,7 @@ E. In the event of termination, unused personal days shall be paid on a pro-rata
 F. Any time worked except on holidays by any full-time employee, in excess of thirty-  
 two (32) hours per week during a week in which a full holiday falls, shall be paid for at time and  
 one-half (1-1/2) the regular hourly rate of pay. Overtime shall be worked required by the  
-### Employer.  
+Employer.  
 G. The Employer shall notify the Union fifteen (15) calendar days prior to each  
 holiday observed by the Employer under this Agreement whether it intends to keep the stores  
 open. If during said fifteen (15) day period the Employer finds that competition is to remain open  
@@ -317,7 +317,7 @@ locations” who have earned three (3) weeks vacation shall be eligible to recei
 vacation during the summer vacation period. Full-time employees employed in stores designated  
 “summer locations’ who have earned less than three (3) weeks’ vacation shall be eligible to  
 receive one (1) week’s vacation during the summer period. The summer period shall begin with  
-### Memorial Day and conclude Labor Day weekend.  
+Memorial Day and conclude Labor Day weekend.  
 L. Each week of part-time vacation entitlement shall be calculated by dividing the  
 number of straight time hours worked, in the preceding calendar year, by fifty-two (52) weeks.  
 Part time employees hired before October 30, 1999, will earn the following vacations on an  
@@ -432,7 +432,7 @@ O. All full-time employees hired prior to December 31, 1985, shall not be severe
 guarantee full-time employment to these full-time employees but not to establish a guarantee  
 against reclassification.  
 P, When full-time openings become available, part-time employees will be given first  
-### Pp  
+Pp  
 (1°) consideration to fill the full-time openings.  
 ### ARTICLE 14 TRANSFERS  
 A. In the event a full-time employee is permanently transferred to another store, the  
@@ -546,11 +546,11 @@ the amount in effect on August 5, 1983. All full-tume employees who retire after
 Hundred Dollars ($1,500.00). Full-time employees hired or reclassified to full-time after August  
 5, 1983, shall, after six (6) months of employment, be covered for Twenty Thousand Dollars  
 ($20,000.00) life insurance.  
-### B. The Welfare Fund will provide a PPO Network for all Medical Services. This cost  
+B. The Welfare Fund will provide a PPO Network for all Medical Services. This cost  
 is to be paid by the Amalgamated Meat Cutters Local 342/A&P Welfare Fund. The present MOB  
 structure shall remain in place. The Employer will continue to pay the premiums to provide for the  
 existing full-time employees’ hospitalization and surgical benefit coverage. The current Blue  
-### Cross Insurance and the Amalgamated Meat Cutters Local 342/A&P Welfare Plan shall continue  
+Cross Insurance and the Amalgamated Meat Cutters Local 342/A&P Welfare Plan shall continue  
 to be available to eligible members as an alternative to the MagnaCare Network. The benefits  
 provided under this paragraph shall be fully described in the Summary Plan Description booklet to  
 be distributed to employees. Such coverage shail begin on the first (1“) of the month after six (6)  
@@ -575,7 +575,7 @@ paid for by the Employer.
 G. The Employer will provide for full-time employees and their dependents a  
 comprehensive Prescription Drug Plan with a mmimum deductible as determined by the trustees  
 of the Plan.  
-### H. The premium for the Optical Plan, the Dental Plan, Major Medical, Prescription  
+H. The premium for the Optical Plan, the Dental Plan, Major Medical, Prescription  
 Drug Plan, shall be paid by the Company to the Health & Welfare Fund of the Local Union.  
 L. Sickness absence benefits shall be provided in accordance with the Employer’s  
 present practice, except that Workmen’s Compensation will be covered by the N.Y.S. rate  
@@ -600,7 +600,7 @@ N. The Company will provide medical coverage for those eligible (age sixty [60] 
 [30] years of continuous employment who retire directly from active employment and collect a  
 benefit from the National Meat Cutters Pension Fund) for continued “Hospital and Surgical Plan”  
 until the retiree reaches age sixty-five (65) or becomes Medicare eligible. The plan will be US  
-### HealthCare HMO. Coverage will be continued as long as the retiree and his/her spouse are not  
+HealthCare HMO. Coverage will be continued as long as the retiree and his/her spouse are not  
 eligible for any other coverage or Medicare, and are under age sixty-five (65). If the spouse  
 becomes ineligible, he/she cannot continue to be covered under this plan, and the Company shall  
 only be required to contribute for retiree coverage.  
@@ -609,7 +609,7 @@ only be required to contribute for retiree coverage.
 International Union - Industry Pension Fund (hereinafter the “Fund”) for each regular full-time  
 employee covered by this Agreement the sum of Ninety-Five Dollars and Fifty Cents ($95.50) per  
 month  
-### B. The Employer agrees to contribute to the New York-New Jersey Amalgamated  
+B. The Employer agrees to contribute to the New York-New Jersey Amalgamated  
 Pension Plan for Full-Time A&P Employees (hereinafter the “Fund”) to provide future credit  
 service benefits for each regular full-ttme employee covered by this Agreement the following  
 monthly contributions on the dates indicated:  
@@ -625,7 +625,7 @@ Trust establishing the Pension Funds and has agreed to be bound by ail the terms
 of said Agreements. The Employer, by the execution of this Collective Bargaining Agreement,  
 approves and ratifies the appointment as its representative of Employer Trustees heretofore made  
 or hereafter made pursuant to the terms of the said Agreements and Declarations of Trust. The  
-### Employer has executed Participation Agreements for the Pension Funds.  
+Employer has executed Participation Agreements for the Pension Funds.  
 E. The Employer will provide a Pension Plan for all eligible part-time employees  
 covered by this Agreement, in accordance with the terms and conditions of the Plan. Effective  
 January 1, 1993 the Plan definition of eligibility shall be seven hundred (700) hours of service per  
@@ -648,7 +648,7 @@ present Pension Plan for the period of time served in management provided they h
 received credit from the National Pension Fund for those years.  
 ### ARTICLE 21 SAFETY-EDUCATION-CULTURAL FUND  
 ### A. The Employer agrees to contribute to the Amalgamated Meat Cutters and Retail  
-### Food Store Employees Union Safety-Education-Cultural Fund Local 342, AFL-CIO, on behalf of  
+Food Store Employees Union Safety-Education-Cultural Fund Local 342, AFL-CIO, on behalf of  
 each regular full-time employee, on the first (1*) day of the calendar month following completion  
 of six (6) consecutive months of full-time employment, the following amounts:  
 Effective September 1, 2000 $ 8.00 per month  
@@ -660,7 +660,7 @@ immediately preceding his date of hire, the Employer will make contributions on 
 the rates set forth above, commencing with the first (1") day of the calendar month following the  
 date of his hire.  
 C. The Employer agrees to contribute to the Amalgamated meat Cutters and Retail  
-### Food Store Employees Union Safety-Education-Cultural Fund Local 342, AFL-CIO, on behalf of  
+Food Store Employees Union Safety-Education-Cultural Fund Local 342, AFL-CIO, on behalf of  
 each regular part-time employee on the first day of the calendar month following completion of  
 six (6) months employment.  
 D It is understood and agreed that the Safety-Education-Cultural Fund referred to  
@@ -670,7 +670,7 @@ may be amended establishing the Safety-Education-Cultural Fund including the pro
 collection of contributions.  
 ### ARTICLE 22 LEGAL FUND  
 ### The Employer agrees to contribute to the Amalgamated Meat Cutters and Retail Food  
-### Store Employees Union Legal Fund Local No. 342, AFL-CIO, the sum of Two Dollars ($2.00)  
+Store Employees Union Legal Fund Local No. 342, AFL-CIO, the sum of Two Dollars ($2.00)  
 per month on behalf of each regular full-time employee on the first (1*) day of the calendar month  
 following completion of thirty (30) days of full-tume employment.  
 For a newly-hired full-time employee on whose behalf another employer made  
@@ -679,8 +679,8 @@ date of hire, the Employer will make contributions on his behalf at the rates se
 commencing with the first (1°) day of the calendar month following the date of his hire.  
 It is understood and agreed that the Legal Fund referred to herein shall be such as will  
 continuously qualify for approval by the Internal Revenue Service.  
-### The Employer agrees to contribute to the Amalgamated Meat Cutters and Retail Food  
-### Store Employees Union Legal Fund Local No. 342, AFL-CIO, the sum of Two Dollars ($2.00)  
+The Employer agrees to contribute to the Amalgamated Meat Cutters and Retail Food  
+Store Employees Union Legal Fund Local No. 342, AFL-CIO, the sum of Two Dollars ($2.00)  
 per month on behalf of each regular part-time employee on the first (1st) day of the calendar  
 month following completion of ninety (90) days of employment  
 It is understood and agreed that the Legal Fund referred to herein shall be such as will  
@@ -690,7 +690,7 @@ amended establishing a closed panel, representative Legal Fund including the pro
 collection of contributions.  
 ### ARTICLE 23 LEAVES OF ABSENCE  
 Any employee will be entitled to a thirty (30) day leave of absence if approved by the  
-### Personnel Director.  
+Personnel Director.  
 ### NATIONAL GUARD SERVICE AND RESERVES:  
 Any full-time employee or part-time employee who is a member of an organized  
 Reserve program or in the National Guard shall be eligible for a two (2) weeks’ leave of absence  
@@ -700,7 +700,7 @@ military training required by such organization.
 Any employee who wishes to use his regular vacation period for military absence  
 shall be paid in accordance with the regular vacation procedure.  
 All notices for any Military Leave of Absence must be submitted in writing to the  
-### Personnel Director via the Store Manager.  
+Personnel Director via the Store Manager.  
 ### MILITARY SERVICE:  
 When a full-time employee or part-time employee is called into service, he shall be paid  
 his normal vacation pay at the time of induction. Upon return he shall receive a vacation  
@@ -789,7 +789,7 @@ October, 2003 and shall be automatically renewed from year to year thereafter, u
 ninety (90) days prior to the 30th day of October, 2003, or any annual day of expiration  
 thereafter, written notice by registered mail is given by either Party to the other of a desire to  
 revise or terminate this Agreement.  
-### IN WITNESS WHEREOPF, the Parties hereto have executed this Agreement.  
+IN WITNESS WHEREOPF, the Parties hereto have executed this Agreement.  
 ### THE GREAT ATLANTIC & PACIFIC  
 ### TEA COMPANY, INC.  
 (Signature)  
@@ -808,14 +808,14 @@ Effective 10/31/99 10/29/00 04/29/01 10/28/01 04/28/02 10/27/02
 Meat Department Heads $25.00 $15.00 $10.00 $15.00 $20.00 $20.00  
 Journeyman Butcher $25.00 $15.00 $10.00 $15.00 $15.00 $15.00  
 Clerks $20.00 $15.00 $10.00 $15.00 $10.00 $15.00  
-### Minimum Weekly Rates:  
+Minimum Weekly Rates:  
 Meat Department Head $945.00 $960.00 $970.00 $985.00 $1005.00 $1025.00  
-### Maximum Weekly Rates:  
-### Journeyman Butchers &  
+Maximum Weekly Rates:  
+Journeyman Butchers &  
 Apprentices $881.00 $896.00 $906.00 $921.00 $936.00 $951.00  
 Seafood Head $761.00 $776.00 $786.00 $801.00 $811.00 $826.00  
 Clerks $741.00 $756.00 $766.00 $781.00 $791.00 $806.00  
-### B. Journeyman B and Apprentice Meat Cutters hired or advanced after October 31,  
+B. Journeyman B and Apprentice Meat Cutters hired or advanced after October 31,  
 1992 shall progress as follows:  
 Start $300 $ 7.5000 per hour  
 After 6 months $335 $ 8.3750 per hour  
@@ -892,22 +892,22 @@ Dairy Head $25.00 $15.00 $10.00 $15.00 $15.00 $15.00
 Bakery Head $25.00 $15.00 $10.00 $15.00 $15.00 $15.00  
 Liquor Head $25.00 $15.00 $10.00 $15.00 $15.00 $15.00  
 Clerks $20.00 $15.00 $10.00 $15.00 $10.00 $15.00  
-### Minimum Weekly Rates:  
+Minimum Weekly Rates:  
 Produce Head $781.00 $796.00 $806.00 $821.00 $836.00 $851.00  
 Deli Head $776.00 $791.00 $801.00 $816.00 $831.00 $846.00  
 Head Cashier $774.00 $789.00 $799.00 $814.00 $829.00 $844.00  
 Bakery Head $766.00 $781.00 $791.00 $806.00 $821.00 $836.00  
 Dairy Head $766.00 $781.00 $791.00 $806.00 $821.00 $836.00  
 Liquor Head $766.00 $781.00 $791.00 $806.00 $821.00 $836.00  
-### Maximum Weekly Rates:  
+Maximum Weekly Rates:  
 Grocery Clerks $741.00 $756.00 $766.00 $781.00 $791.00 $806.00  
 Front End Administrator Shall receive their rate plus a $15.00 per week premium  
 (may be assigned in stores  
 doing $150,000 per week)  
 Scanning Administrator Shail receive their rate plus a $10.00 per week premium  
 Floral Department Head Shall receive their rate plus a $10.00 per week premium  
-### HBC/GM Clerk (full-time) Shall receive their rate plus a $20.00 per week premium  
-### B.  
+HBC/GM Clerk (full-time) Shall receive their rate plus a $20.00 per week premium  
+B.  
 All full-time Grocery employees who are promoted to Department Head or Head  
 Cashier are to continue their existing salary progression until they reach the maximum provided  
 thereby. Commencing six (6) months thereafter, or in the case of employees presently at the top  
@@ -915,10 +915,10 @@ of the progression, six (6) months after the date hereof, they shall be entitled
 additional semi-annual increments to bring their rate to the current top rate. These additional  
 increments shall be in addition to any general contract increase and cost of living protection  
 increase provided by this Agreement, but shall not exceed the maximums provided for herein.  
-### C.  
+C.  
 Full-time Clerks hired or advanced to full-time after December 4, 1992 shall  
 progress as follows:  
-### D.  
+D.  
 After 30 days $240 $6.0000 per hour  
 After 6 months $268 $6.7000 per hour  
 After 12 months $296 $7.4000 per hour  
@@ -985,10 +985,10 @@ Classifications shall be entitled to a premium of Twenty Dollars ($20.00) per we
 their regular rate.  
 ### APPENDIX “A”  
 October 31, 1999  
-### UFCW Local 342-50  
-### 166 E. Jericho Turnpike  
-### Mineola, New York 11501  
-### Dear Mr. Abondolo:  
+UFCW Local 342-50  
+166 E. Jericho Turnpike  
+Mineola, New York 11501  
+Dear Mr. Abondolo:  
 In order to provide the agreed upon health and welfare benefits through the Health &  
 Welfare Funds of the Local Unions, the Company agrees to remit the following contributions for  
 eligible employees;  
@@ -997,27 +997,27 @@ include the contribution of Two Dollars ($2.00) per month to the Legal Fund whic
 listed in Article 22 - Legal Fund. It is understood that the contribution to the Legal F und (Article  
 22) shall not be in addition to the Welfare contribution.  
 ### EFFECTIVE MONTHLY CONTRIBUTION  
-### FULL-TIME 11/1/99 $127.00  
-### EMPLOYEES 11/1/00 MOB (to be verified by the Company) for benefits  
+FULL-TIME 11/1/99 $127.00  
+EMPLOYEES 11/1/00 MOB (to be verified by the Company) for benefits  
 11/1/01 in effect in 1999. Fund Reserve maximum not to  
 11/1/02 exceed six (6) months.  
-### PART-TIME 11/1/99 $78.00  
-### EMPLOYEES 11/1/00 MOB (to be verified by the Company) for benefits  
+PART-TIME 11/1/99 $78.00  
+EMPLOYEES 11/1/00 MOB (to be verified by the Company) for benefits  
 11/1/01 in effect in 1999. Fund Reserve maximum not to  
 11/1/02 exceed six (6) months.  
-### PART-TIME 11/1/99 $30.00  
-### SPECIAL 11/1/00 MOB (to be verified by the Company) for benefits  
+PART-TIME 11/1/99 $30.00  
+SPECIAL 11/1/00 MOB (to be verified by the Company) for benefits  
 11/1/01 in effect in 1999. Fund Reserve maximum not to  
 11/1/02 exceed six (6) months.  
 Very truly yours,  
-### The Great Atlantic & Pacific Tea Company, Inc.  
-### By  
+The Great Atlantic & Pacific Tea Company, Inc.  
+By  
 ### APPENDIX “B”  
 October 31, 1999  
-### UFCW Local 342-50  
-### 166 E. Jericho Turnpike  
-### Mineola, New York 11501  
-### Dear Mr. Abondolo:  
+UFCW Local 342-50  
+166 E. Jericho Turnpike  
+Mineola, New York 11501  
+Dear Mr. Abondolo:  
 The Company agrees that if the Employer hires summer employees at a rate higher than  
 the existing rate in that store, all other employees in the same classification in that store shall have  
 their rate adjusted to the higher rate during the period that the summer employee is receiving the  
@@ -1026,14 +1026,14 @@ At the end of the summer period, September Ist, any such temporary higher rates 
 revert to the appropriate rate based on classification and date of hire.  
 Very truly yours,  
 ow  
-### Wt ear’ The Great Atlantic & Pacific Tea Company, Inc.  
-### By  
+Wt ear’ The Great Atlantic & Pacific Tea Company, Inc.  
+By  
 ### APPENDIX “C”  
 October 29, 1989  
-### UFCW Local 342-50  
-### 166 E. Jericho Turnpike  
-### Mineola, New York 11501  
-### Dear Mr. Abondolo:  
+UFCW Local 342-50  
+166 E. Jericho Turnpike  
+Mineola, New York 11501  
+Dear Mr. Abondolo:  
 This will confirm our discussion during recent negotiations when the following items were  
 reviewed and it was agreed that they would be covered in a letter.  
 1. The Company will review with the Union the areas raised re: entrapment.  
@@ -1047,26 +1047,26 @@ to launder them.
 5. The Company agrees that if an employee classified and paid as a Journeyman Meat  
 Cutter was as of the expiration of the old Agreement performing work as a “Fish Cutter”, such  
 employee shall continue to receive the Journeyman Meat Cutter rate for the life of this  
-### Agreement.  
+Agreement.  
 Very truly yours,  
-### The Great Atlantic & Pacific Tea Company, Inc.  
-### By  
+The Great Atlantic & Pacific Tea Company, Inc.  
+By  
 ### APPENDIX “D”  
 October 31, 1999  
-### UFCW Local 342-50  
-### 166 E. Jericho Turnpike  
-### Mineola, New York 11501  
-### Dear Mr. Abondolo:  
+UFCW Local 342-50  
+166 E. Jericho Turnpike  
+Mineola, New York 11501  
+Dear Mr. Abondolo:  
 The Company and the Union agree to establish a Joint Labor-Management Committee.  
 Very truly yours,  
-### The Great Atlantic & Pacific Tea Company, Inc.  
-### By  
+The Great Atlantic & Pacific Tea Company, Inc.  
+By  
 ### APPENDIX “E”  
 October 31,1999  
-### UFCW Local 342-50  
-### 166 E. Jericho Turnpike  
-### Mineola, New York 11501  
-### Dear Mr. Abondolo:  
+UFCW Local 342-50  
+166 E. Jericho Turnpike  
+Mineola, New York 11501  
+Dear Mr. Abondolo:  
 The Company agrees to provide the Union with any written policies that it now has or that it may  
 develop in the future, regarding the following areas which could involve discipline of bargaining  
 unit members:  
@@ -1076,5 +1076,5 @@ The Company will provide a letter outlining its program concerning Age Restricte
 include its training schedule for the next six (6) months. The Union will be invited to attend this  
 program.  
 Very truly yours,  
-### The Great Atlantic & Pacific Tea Company, Inc.  
-### By
+The Great Atlantic & Pacific Tea Company, Inc.  
+By
