@@ -1,2 +1,0 @@
-[console_scripts]
-cba_search = cba_search.cba_search:main
