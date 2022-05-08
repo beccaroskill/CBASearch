@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 import os
 from pathlib import Path
 
-contracts_folder = 'DOL_Scrape/Contracts_Test'
+contracts_folder = 'DOL_Scrape/Contracts'
 imgs_folder = 'DOL_Scrape/ContractImages'
 txt_folder = 'DOL_Scrape/ContractText'
 cba_list_file = "CBAList.csv"
@@ -111,17 +111,19 @@ def download_by_doc_id(doc_id, download_folder='DOL_Scrape/Contracts'):
     local_file.close()
     
 def main():
-    block_size = 2
-    pool_size = 12
+    block_size = 64
+    pool_size = 14
     with Pool(pool_size) as p:
-        all_file_ids = cba_df['CBA File']
+        all_file_ids = [f_id for f_id in cba_df['CBA File'] if not f'{f_id}.txt' in os.listdir(txt_folder)]
         split_list = lambda l, x: [l[i:i+x] for i in range(0, len(l), x)]
         file_id_blocks = split_list(all_file_ids, block_size)
         for i, file_id_block in enumerate(file_id_blocks):
             print('Downloading', (i+1), 'of', len(file_id_blocks))
-            p.imap(download_by_doc_id, file_id_block)
+            p.map(download_by_doc_id, file_id_block)
             print('Reading', (i+1), 'of', len(file_id_blocks))
             p.map(read_contract_from_path, list(os.listdir(contracts_folder)))
+            for f in os.listdir(contracts_folder):
+                os.remove(os.path.join(imgs_folder, f))
             for f in os.listdir(contracts_folder):
                 os.remove(os.path.join(contracts_folder, f))
 
