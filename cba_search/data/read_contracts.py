@@ -41,7 +41,7 @@ def pdf_to_imgs(pdf_path, out_path, out_name):
       for i, page in enumerate(pages):
           img_path = '{}_{}.jpg'.format(out_path_full, i+page_block_size*j)
           page.save(img_path, 'JPEG')
-          img_paths += [img_path]
+          img_paths.append(img_path)
     return img_paths
 
 def imgs_to_md(img_paths):
@@ -98,6 +98,9 @@ def read_contract_from_path(file_path):
                 doc_text = imgs_to_md(img_paths)
                 with open(text_file_path, "w") as text_file:
                     text_file.write(doc_text)
+                for img_path in img_paths:
+                    os.remove(img_path)
+                os.remove(pdf_path)
         except Exception as e:
             print(e)
 
@@ -111,7 +114,7 @@ def download_by_doc_id(doc_id, download_folder='DOL_Scrape/Contracts'):
     local_file.close()
     
 def main():
-    block_size = 64
+    block_size = 128
     pool_size = 14
     with Pool(pool_size) as p:
         all_file_ids = [f_id for f_id in cba_df['CBA File'] if not f'{f_id}.txt' in os.listdir(txt_folder)]
@@ -122,7 +125,7 @@ def main():
             p.map(download_by_doc_id, file_id_block)
             print('Reading', (i+1), 'of', len(file_id_blocks))
             p.map(read_contract_from_path, list(os.listdir(contracts_folder)))
-            for f in os.listdir(contracts_folder):
+            for f in os.listdir(imgs_folder):
                 os.remove(os.path.join(imgs_folder, f))
             for f in os.listdir(contracts_folder):
                 os.remove(os.path.join(contracts_folder, f))
