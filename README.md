@@ -1,7 +1,6 @@
 # CBASearch
 
-##
-Future to-dos:
+## Future to-dos
 - Pagination (currently only first 40 results load)
 - Search results corpus download
 - Topic grouping & filtering 
