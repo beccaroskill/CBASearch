@@ -3,10 +3,11 @@ from fastapi import FastAPI, Request, Form
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
+from typing import Optional
 from contract_data import ContractDatabase
 
 app = FastAPI(title="CBA Search")
-contract_db = ContractDatabase("data/DOL_Scrape/ContractText", 
+contract_db = ContractDatabase("data/DOL_Scrape/ContractText_Reflattened", 
                                "data/CBAList.csv",
                                "data/2022_NAICS_Structure.csv")
 templates = Jinja2Templates(directory="templates/")
@@ -40,15 +41,29 @@ async def read_items():
 
 @app.get("/search")
 def form_post(request: Request):
-    search_results = []
+    search_results = contract_db.get_all_contracts()
     return templates.TemplateResponse(
         "search.html", context=get_context(request, search_results)
     )
 
 @app.post("/search")
-def form_post(request: Request, search_term: str = Form(...), industry_codes: str = Form(...)):
+def form_post(request: Request, 
+              search_term: str = Form("search_term"), 
+              industry_codes: str = Form("industry_codes")):
     search_filters = {"industry_codes": industry_codes}
-    search_results = contract_db.get_search_results(search_term, search_filters)
+    if search_term != "search_term":
+        print('Search term present:', search_term, len(search_term))
+        search_results = contract_db.get_search_results(search_term, search_filters)
+    else:
+        search_results = contract_db.get_all_contracts(search_filters)
     return templates.TemplateResponse(
         "search.html", context=get_context(request, search_results)
+    )
+
+@app.get("/contracts/{contract_id}")
+async def read_item(request: Request, contract_id: int):
+    contract = contract_db.get_contract_text(contract_id)
+    return templates.TemplateResponse(
+        "contract.html", context={"request": request, 
+                                  "contract": contract}
     )

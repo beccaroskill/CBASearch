@@ -14,7 +14,9 @@ class ContractLine:
         
 class ContractSearchResult:
     
-    def __init__(self, contract_name, contract_industry, lines, result_line_index):
+    def __init__(self, contract_id, contract_name, contract_industry, \
+                 lines, result_line_index):
+        self.contract_id = contract_id
         self.contract_name = contract_name
         self.contract_industry = contract_industry
         self.lines = lines
@@ -23,6 +25,7 @@ class ContractSearchResult:
 class ContractDatabase:
     
     def __init__(self, contract_text_folder, contract_metadata_file, naics_structure_file):
+        self.contract_text_folder = contract_text_folder
         self.contract_text_db = self.load_contract_text(contract_text_folder)
         self.contract_metadata_db = pd.read_csv(contract_metadata_file)
         self.naics_structure_db = pd.read_csv(naics_structure_file)
@@ -87,23 +90,24 @@ class ContractDatabase:
             "Invalid value for contract_id, no contracts match in database."
         return id_matches.tolist()[0]
     
-    def filter_search_results(search_results, filters):
-        filter_industry_codes = json.loads(filters['industry_codes'])
-        filtered_results = []
-        for result in search_results:
-            if len(filter_industry_codes):
-                for code in filter_industry_codes:
-                    code = str(code)
-                    if result.contract_industry == result.contract_industry:
-                        result_industry = str(int(result.contract_industry))
-                        if result_industry[:len(code)]==code:
-                            filtered_results.append(result)
-            else:
-                filtered_results.append(result)
-        return filtered_results
-    
-    def get_search_results(self, search_term, filters):
-        matches = self.contract_text_db[self.contract_text_db['text'].str.contains(search_term, case=False)]
+    def get_contract_text(self, contract_id):
+        contract_lines = self.contract_text_db[self.contract_text_db['contract_id']==str(contract_id)]
+        contract_name = self.get_contract_name(contract_id)
+        contract_industry = self.get_contract_industry(contract_id)
+        lines = []
+        for _, line_row in contract_lines.iterrows():
+            line = ContractLine(line_row['text'], line_row['is_header'], line_row['contract_id'], 
+                                line_row['line_index'], False)
+            lines.append(line)
+        search_result = ContractSearchResult(contract_id, contract_name, contract_industry, lines, 0)
+        return search_result 
+
+    def get_all_contracts(self, filters=None):
+        matches = self.contract_text_db[self.contract_text_db['line_index']==0]
+        if filters:
+            matches = self.filter_search_results(matches, filters)
+            matches = matches[:min(len(matches),40)]
+        print(matches, filters)
         search_results = []
         for _, match in matches.iterrows():
             line_index = match['line_index']
@@ -118,12 +122,54 @@ class ContractDatabase:
             lines = []
             for _, match_adj in matches_adj.iterrows():
                 line = ContractLine(match_adj['text'], match_adj['is_header'], match_adj['contract_id'], 
+                                    match_adj['line_index'], False)
+                lines.append(line)
+            search_result = ContractSearchResult(contract_id, contract_name, contract_industry, lines, line_index)
+            search_results.append(search_result)
+        return search_results
+    
+    def filter_search_results(self, search_results, filters):
+        filter_industry_codes = json.loads(filters['industry_codes'])
+        valid_index = []
+        for _, result in search_results.iterrows():
+            valid = False
+            contract_id = result['contract_id']
+            contract_industry = self.get_contract_industry(contract_id)
+            if len(filter_industry_codes):
+                for code in filter_industry_codes:
+                    code = str(code)
+                    if contract_industry == contract_industry:
+                        result_industry = str(int(contract_industry))
+                        if result_industry[:len(code)]==code:
+                            valid = True
+            else:
+                valid = True
+            valid_index.append(valid)
+        return search_results[valid_index]
+    
+    def get_search_results(self, search_term, filters):
+        matches = self.contract_text_db[self.contract_text_db['text'].str.contains(search_term, case=False)]
+        filtered_matches = self.filter_search_results(matches, filters)
+        filtered_matches = filtered_matches[:min(len(filtered_matches),40)]
+        search_results = []
+        for _, match in filtered_matches.iterrows():
+            line_index = match['line_index']
+            contract_id = match['contract_id']
+            contract_name = self.get_contract_name(contract_id)
+            contract_industry = self.get_contract_industry(contract_id)
+            contract_lines = self.contract_text_db[self.contract_text_db['contract_id']==contract_id]
+            line_range_min = max(0, line_index-3)
+            line_range_max = min(line_index+3, len(contract_lines))
+            matches_adj = contract_lines[(contract_lines['line_index']>=line_range_min) & \
+                                         (contract_lines['line_index']<=line_range_max)]
+            lines = []
+            for _, match_adj in matches_adj.iterrows():
+                line = ContractLine(match_adj['text'], match_adj['is_header'], match_adj['contract_id'], 
                                     match_adj['line_index'], match_adj['line_index']==line_index)
                 lines.append(line)
-            search_result = ContractSearchResult(contract_name, contract_industry, lines, line_index)
+            search_result = ContractSearchResult(contract_id, contract_name, contract_industry, lines, line_index)
             search_results.append(search_result)
-        filtered_results = ContractDatabase.filter_search_results(search_results, filters)
-        return filtered_results
+        return search_results
         
     def lines_to_response(lines, contract_id):
         response = []
