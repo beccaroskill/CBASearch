@@ -45,7 +45,7 @@ setup(
     include_package_data=True,
     keywords='cba_search',
     name='cba_search',
-    packages=find_packages(include=['cba_search', 'cba_search.*']),
+    packages=find_packages(include=['cba_search', 'contract_data']),
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/beccaroskill/cba_search',
