@@ -36,7 +36,7 @@ setup(
     description="Search Collective Bargaining Agreements made available by the Department of Labor.",
     entry_points={
         'console_scripts': [
-            'cba_search=cba_search.cba_search:main',
+            'cba_search=cba_search.cli:main',
         ],
     },
     install_requires=requirements,
@@ -49,6 +49,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/beccaroskill/cba_search',
-    version='0.1.2.2',
+    version='0.1.2.3',
     zip_safe=False,
 )
