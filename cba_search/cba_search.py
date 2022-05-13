@@ -52,7 +52,6 @@ def form_post(request: Request,
               industry_codes: str = Form("industry_codes")):
     search_filters = {"industry_codes": industry_codes}
     if search_term != "search_term":
-        print('Search term present:', search_term, len(search_term))
         search_results = contract_db.get_search_results(search_term, search_filters)
     else:
         search_results = contract_db.get_all_contracts(search_filters)

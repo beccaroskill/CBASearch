@@ -107,7 +107,6 @@ class ContractDatabase:
         if filters:
             matches = self.filter_search_results(matches, filters)
             matches = matches[:min(len(matches),40)]
-        print(matches, filters)
         search_results = []
         for _, match in matches.iterrows():
             line_index = match['line_index']
