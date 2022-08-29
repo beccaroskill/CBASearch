@@ -2,6 +2,9 @@ import os
 from pathlib import Path
 import pandas as pd
 import json
+from whoosh.index import open_dir
+from whoosh.query import Term
+from datetime import datetime
 
 class ContractLine:
     
@@ -24,9 +27,11 @@ class ContractSearchResult:
 
 class ContractDatabase:
     
-    def __init__(self, contract_text_folder, contract_metadata_file, naics_structure_file):
+    def __init__(self, contract_text_folder, contract_text_index, 
+                 contract_metadata_file, naics_structure_file):
         self.contract_text_folder = contract_text_folder
         self.contract_text_db = self.load_contract_text(contract_text_folder)
+        self.contract_text_index = open_dir(contract_text_index)
         self.contract_metadata_db = pd.read_csv(contract_metadata_file)
         self.naics_structure_db = pd.read_csv(naics_structure_file)
         
@@ -102,13 +107,13 @@ class ContractDatabase:
         search_result = ContractSearchResult(contract_id, contract_name, contract_industry, lines, 0)
         return search_result 
 
-    def get_all_contracts(self, filters=None):
+    def get_all_contracts(self, filters=None, page_num=1):
         matches = self.contract_text_db[self.contract_text_db['line_index']==0]
         if filters:
             matches = self.filter_search_results(matches, filters)
-            matches = matches[:min(len(matches),40)]
+            # matches = matches[:min(len(matches),40)]
         search_results = []
-        for _, match in matches.iterrows():
+        for _, match in matches.iloc[10*(page_num-1):10*page_num].iterrows():
             line_index = match['line_index']
             contract_id = match['contract_id']
             contract_name = self.get_contract_name(contract_id)
@@ -127,10 +132,10 @@ class ContractDatabase:
             search_results.append(search_result)
         return search_results
     
-    def filter_search_results(self, search_results, filters):
+    def filter_search_results(self, search_results, filters, page_num=1):
         filter_industry_codes = json.loads(filters['industry_codes'])
         valid_index = []
-        for _, result in search_results.iterrows():
+        for result in search_results:
             valid = False
             contract_id = result['contract_id']
             contract_industry = self.get_contract_industry(contract_id)
@@ -144,30 +149,42 @@ class ContractDatabase:
             else:
                 valid = True
             valid_index.append(valid)
-        return search_results[valid_index]
+        return [search_results[i] for i, x in enumerate(valid_index) if x]
     
-    def get_search_results(self, search_term, filters):
-        matches = self.contract_text_db[self.contract_text_db['text'].str.contains(search_term, case=False)]
-        filtered_matches = self.filter_search_results(matches, filters)
-        filtered_matches = filtered_matches[:min(len(filtered_matches),40)]
-        search_results = []
-        for _, match in filtered_matches.iterrows():
-            line_index = match['line_index']
-            contract_id = match['contract_id']
-            contract_name = self.get_contract_name(contract_id)
-            contract_industry = self.get_contract_industry(contract_id)
-            contract_lines = self.contract_text_db[self.contract_text_db['contract_id']==contract_id]
-            line_range_min = max(0, line_index-3)
-            line_range_max = min(line_index+3, len(contract_lines))
-            matches_adj = contract_lines[(contract_lines['line_index']>=line_range_min) & \
-                                         (contract_lines['line_index']<=line_range_max)]
-            lines = []
-            for _, match_adj in matches_adj.iterrows():
-                line = ContractLine(match_adj['text'], match_adj['is_header'], match_adj['contract_id'], 
-                                    match_adj['line_index'], match_adj['line_index']==line_index)
-                lines.append(line)
-            search_result = ContractSearchResult(contract_id, contract_name, contract_industry, lines, line_index)
-            search_results.append(search_result)
+    def get_search_results(self, search_term, filters, page_num=1):
+        start = datetime.now()
+        with self.contract_text_index.searcher() as searcher:
+            q = Term('contract_text', search_term.lower())
+            matches = searcher.search(q, limit=None)
+            searched = datetime.now()
+            print('searched:', searched - start)
+            if filters:
+                matches = self.filter_search_results(matches, filters)
+                # matches = filtered_matches[:min(len(filtered_matches),40)]
+            filtered = datetime.now()
+            print('filtered:', filtered - start)
+            
+            search_results = []
+            for match in matches[10*(page_num-1):10*page_num]:
+                line_index = match['line_index']
+                contract_id = match['contract_id']
+                contract_name = self.get_contract_name(contract_id)
+                contract_industry = self.get_contract_industry(contract_id)
+                contract_lines = self.contract_text_db[self.contract_text_db['contract_id']==contract_id]
+                line_range_min = max(0, line_index-3)
+                line_range_max = min(line_index+3, len(contract_lines))
+                matches_adj = contract_lines[(contract_lines['line_index']>=line_range_min) & \
+                                             (contract_lines['line_index']<=line_range_max)]
+                lines = []
+                for _, match_adj in matches_adj.iterrows():
+                    line = ContractLine(match_adj['text'], match_adj['is_header'], match_adj['contract_id'], 
+                                        match_adj['line_index'], match_adj['line_index']==line_index)
+                    lines.append(line)
+                search_result = ContractSearchResult(contract_id, contract_name, contract_industry, lines, line_index)
+                search_results.append(search_result)
+                
+            paginated = datetime.now()
+            print('paginated:', paginated - start)
         return search_results
         
     def lines_to_response(lines, contract_id):

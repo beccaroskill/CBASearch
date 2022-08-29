@@ -3,14 +3,16 @@ from fastapi import FastAPI, Request, Form
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
-from cba_search.contract_data import ContractDatabase
+from contract_data import ContractDatabase
 
 app = FastAPI(title="CBA Search")
-contract_db = ContractDatabase("/app/./cba_search/data/DOL_Scrape/ContractText_Reflattened", 
-                               "/app/./cba_search/data/CBAList.csv",
-                               "/app/./cba_search/data/2022_NAICS_Structure.csv")
-templates = Jinja2Templates(directory="/app/./cba_search/templates/")
-app.mount("/static", StaticFiles(directory="/app/./cba_search/static"), name="static")
+contract_db = ContractDatabase("data/DOL_Scrape/ContractText_Abbey", 
+                               "data/DOL_Scrape/index_Abbey", 
+                               "data/CBAList.csv",
+                               "data/2022_NAICS_Structure.csv")
+page_num = 1
+templates = Jinja2Templates(directory="templates/")
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
 def get_context(request, search_results):
     return {"request": request, 
@@ -51,9 +53,9 @@ def form_post(request: Request,
               industry_codes: str = Form("industry_codes")):
     search_filters = {"industry_codes": industry_codes}
     if search_term != "search_term":
-        search_results = contract_db.get_search_results(search_term, search_filters)
+        search_results = contract_db.get_search_results(search_term, search_filters, page_num)
     else:
-        search_results = contract_db.get_all_contracts(search_filters)
+        search_results = contract_db.get_all_contracts(search_filters, page_num)
     return templates.TemplateResponse(
         "search.html", context=get_context(request, search_results)
     )

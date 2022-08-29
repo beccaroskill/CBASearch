@@ -4,7 +4,6 @@
 
 from setuptools import setup, find_packages
 
-print(find_packages(include=['cba_search', 'cba_search.*']))
 
 with open('README.md') as readme_file:
     readme = readme_file.read()
@@ -48,7 +47,7 @@ setup(
     include_package_data=True,
     keywords='cba_search',
     name='cba_search',
-    packages=find_packages(include=['cba_search', 'contract_data']),
+    packages=find_packages(include=['cba_search', 'cba_search.*']),
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/beccaroskill/cba_search',
