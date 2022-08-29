@@ -12,10 +12,13 @@ with open('README.md') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = ['fastapi>=0.63.0',
-                'uvicorn>=0.13.3',
-                'python-multipart>=0.0.5',
-                'Jinja2>=2.11.2']
+requirements = ['uvicorn==0.18.3',
+                'pandas==1.4.2',
+                'fastapi==0.81.0',
+                'Whoosh==2.7.4',
+                'python-multipart==0.0.5',
+                'Jinja2>=2.11.2',
+                'Whoosh==2.7.4']
 
 test_requirements = [ ]
 

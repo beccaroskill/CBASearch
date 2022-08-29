@@ -1,0 +1,7 @@
+uvicorn==0.18.3
+pandas==1.4.2
+fastapi==0.81.0
+Whoosh==2.7.4
+python-multipart==0.0.5
+Jinja2>=2.11.2
+Whoosh==2.7.4

@@ -1,0 +1,1 @@
+web: uvicorn cba_search.cba_search:app --host=0.0.0.0 --port=${PORT:-5000}
