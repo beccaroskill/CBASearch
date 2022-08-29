@@ -10,7 +10,7 @@ contract_db = ContractDatabase("/app/./cba_search/data/DOL_Scrape/ContractText_R
                                "/app/./cba_search/data/CBAList.csv",
                                "/app/./cba_search/data/2022_NAICS_Structure.csv")
 templates = Jinja2Templates(directory="templates/")
-app.mount("/static", StaticFiles(directory="static"), name="static")
+app.mount("/static", StaticFiles(directory="/app/./cba_search/static"), name="static")
 
 def get_context(request, search_results):
     return {"request": request, 
