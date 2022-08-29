@@ -6,9 +6,9 @@ from fastapi.staticfiles import StaticFiles
 from cba_search.contract_data import ContractDatabase
 
 app = FastAPI(title="CBA Search")
-contract_db = ContractDatabase("data/DOL_Scrape/ContractText_Reflattened", 
-                               "data/CBAList.csv",
-                               "data/2022_NAICS_Structure.csv")
+contract_db = ContractDatabase("/app/./cba_search/data/DOL_Scrape/ContractText_Reflattened", 
+                               "/app/./cba_search/data/CBAList.csv",
+                               "/app/./cba_search/data/2022_NAICS_Structure.csv")
 templates = Jinja2Templates(directory="templates/")
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
