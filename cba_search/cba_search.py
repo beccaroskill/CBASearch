@@ -1,8 +1,8 @@
 """Main module for cba_search."""
-# from fastapi import FastAPI, Request, Form
-# from fastapi.templating import Jinja2Templates
-# from fastapi.responses import HTMLResponse
-# from fastapi.staticfiles import StaticFiles
+from fastapi import FastAPI, Request, Form
+from fastapi.templating import Jinja2Templates
+from fastapi.responses import HTMLResponse
+from fastapi.staticfiles import StaticFiles
 from cba_search.contract_data.contract_data import ContractDatabase
 
 app = FastAPI(title="CBA Search")
