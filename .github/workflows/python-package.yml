@@ -11,7 +11,7 @@ jobs:
     name: Build and publish Python distribution
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@main
       - name: Set up Python 3.7
         uses: actions/setup-python@v1
         with:
@@ -29,7 +29,7 @@ jobs:
       - name: Build binary wheel and a source tarball
         run: python setup.py sdist
       - name: Publish distribution to Test PyPI
-        uses: pypa/gh-action-pypi-publish@master
+        uses: pypa/gh-action-pypi-publish@main
         with:
           password: ${{ secrets.test_pypi_password }}
           repository_url: https://test.pypi.org/legacy/
