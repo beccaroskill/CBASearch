@@ -37,7 +37,8 @@ setup(
     description="Search Collective Bargaining Agreements made available by the Department of Labor.",
     entry_points={
         'console_scripts': [
-            'cba_search=cba_search.cli:main',
+            'run_cli=cba_search.cli:main',
+            'run_dev=cba_search.dev:main',
         ],
     },
     install_requires=requirements,
