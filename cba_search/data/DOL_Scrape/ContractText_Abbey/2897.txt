@@ -1,0 +1,1418 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection
+Title: Memphis Light, Gas & Water Division and International Brotherhood of Electrical
+Workers (IBEW), AFL-CIO, Local 1288 (2002)
+K#: 811276
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+The complete metadata for each collective bargaining agreement can be found at -
+http://digitalcommons.ilr.cornell.edU/blscontracts/1/
+For a glossary of the elements see - http://digitalcommons.ilr.cornell.edU/blscontracts/2/
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+For more information aboUt the BLS Contract Collection, see http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Mi
+MEMORANDUM of
+UNDERSTANDING
+between
+MEMPHIS LIGHT; GAS AND WATER DIVISION and	I
+LOCAL UNION NO. 1288	I
+INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS
+JANUARY 1,2002 •	•	to
+^M1_QW^>	] A Kl| I A r»»z -« r. «« -
+MEMORANDUM of UNDERSTANDING between MEMPHIS LIGHT, GAS AND WATER DIVISION and LOCAL UNION NO. 1288 of INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS
+JANUARY 1,2002 to
+JANUARY 1,2005
+INDEX
+Article	Subject	Page
+35	Apprenticeship (Training for
+Skills Improvement).........................  50
+35	Apprentice Bidding (restriction)...............50
+32	Arbitration (Grievance and
+Arbitration Procedure)........................43
+14	Assistant Business Manager.................... 19
+31	Authorized Leaves............................  42
+17	Bid, Job (Promotions and Transfers)............23
+17	Bid, Restriction (Promotions and Transfers)....23
+39	Bonus Days /Pay (Sick Leave)...................58
+9	Bulletin Boards and Business Television........13
+14	Business Manager...............................19
+28	Call-Out Pay...................................40
+14	Chief Stewards (Union Representatives).........18
+3	Classifications Eligible for
+Bargaining Unit (Included Employees)...........7
+4	Co-op Students (Temporary and
+Part-Time Employees)...........................9
+23	Death in Family (Time Off
+for Death in Family)..........................33
+15	Discipline & Discharge........................ 20
+6	Discrimination (Non-Discrimination)............11
+7	Division Responsibility........................12
+12	Dues Deduction.................................15
+28	Emergency Overtime (Call-Out Pay)..............38
+3	Excluded Employees (Included Employees).........7
+23	Funeral Leave (Time Off for Death in Family)...33
+35	General Training Committee (Training
+for Skills Improvement).......................50
+32	Grievance and Arbitration......................43
+37	Holidays.......................................53
+27	Hours and Overtime.............................35
+30	Inclement Weather..............................41
+3	Included Employees..............................7
+35	Joint Apprenticeship Committee
+(Training for Skills Improvement).............50
+24	Jury Duty......................................34
+18	Layoff or Reduction in Force...................28
+31	Leaves of Absence (Authorized Leaves)..........42
+7	Management Rights (Division Responsibility)....12
+40 Meals.......................................-....59
+34	Merit Increase (Performance Appraisal).........49
+25	Military Service...............................35
+10	New Employees (Probationary Period
+of Employment)..............................  14
+41	Night Premium Pay (Shift Differential Pay).....59
+6	Non-Discrimination.............................11
+8	No Strike -- No Lockout......................  13
+27	Overtime (Hours and Overtime)..................35
+4	Part-Time Employees
+and Temporary Employees........................9
+22	Pay Differential (Work Out of Classification)..32
+42	Pay Schedule (Salary Schedules)................60
+20	Pensions.......................................31
+34	Performance Appraisal..........................49
+13	Picket Lines...................................17
+10	Probationary Period of Employment..............14
+17	Promotions and Transfers.......................23
+15	Records of Discussion, Discipline,
+and Discharge (Discipline and Discharge)......20
+18	Reduction in Force (Layoff or
+Reduction in Force)...........................28
+43	Re-opener......................................61
+15	Reprimands (Discipline and Discharge)..........20
+27	Rest Periods (Hours and Overtime)..............36
+11	Rules and Regulations..........................15
+36	Safety and Health............................  50
+42	Salary Schedules...............................60
+33	Salary Grades for New
+or Revised Job Classifications................48
+27	Schedules (Hours and Overtime).................35
+16	Seniority......................................21
+41	Shift Differential Pay.........................59
+27	Shift Work Schedules (Hours and Overtime)......38
+27	Show-Up Time (Hours and Overtime)..............40
+39	Sick Leave...................................  56
+39	Sick Leave Pay at Retirement...................58
+29	Stand-By Pay...................................41
+1	Statement of Principle...........................6
+14	Stewards (Union Representatives)...............18
+16	Steward Seniority (Seniority)..................22
+4	Temporary Employees (Part-Time
+and Temporary Employees).......................9
+44	Term of Agreement............................. 62
+19	Termination Pay................................29
+23	Time Off for Death in Family...................33
+14	Time Off to Handle Grievances
+(Union Representatives).......................18
+26	Tools and Equipment............................35
+35	Training for Skills Improvement................50
+17	Trial Period (Promotions and Transfers)........26
+17	Transfers (Promotions and Transfers)...........23
+2	Union Recognition...............................6
+14	Union Representatives..........................18
+14	Union Stewards (Union Representatives).........18
+38	Vacation for Emergency (Vacation)..............56
+5	Work by Supervisors, Foremen or
+Comparable First-Line Supervisors.............10
+22	Work-Out-of-Classification.....................32
+MEMORANDUM OF UNDERSTANDING
+THIS MEMORANDUM OF UNDERSTANDING, made and entered into this 1 st day of January, 2002, by and between the MEMPHIS LIGHT, GAS AND WATER DIVISION, hereinafter referred to as the “DIVISION” and LOCAL 128S of the INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, affiliated with the American Federation of Labor and the Congress of Industrial Organization, hereinafter referred to as the “UNION.”
+WHEREAS, certain employees of the Division have designated the Union as their representative to deal with the Division in matters pertaining to wages, working conditions, and all other conditions of employment, and
+WHEREAS, the City of Memphis, Tennessee, owns and operates its electric, gas and water systems and is engaged in supplying services to its schools, parks, playgrounds, streets, hospitals, public buildings, and in serving the public, these services being vital to the public health and welfare, and
+WHEREAS, the Board of Commissioners was created to administer the affairs of the utility systems and the exclusive management, control and operation of said systems was imposed upon said Board of Commissioners, with the exclusive authority to engage, determine the number of, and fix the duties and salaries of all employees, and
+WHEREAS, for the purpose of facilitating orderly and prompt settlement pertaining to wages, hours, working conditions, other conditions of employment, and grievances affecting these employees, this Memorandum of Understanding is made and constitutes the entire agreement between the Union and the Division.
+ARTICLE 1
+Statement of Principle
+The Division and the Union have a mutual interest in providing low cost and reliable service to the public which the Division serves. In recognition of the mutual responsibility in attaining this end, and believing that all will benefit by harmonious relations and by adjusting any differences through rational, common sense methods, the Division and Union enter into this Memorandum of Understanding in an effort to provide conditions of employment suitable to maintain a competent work force providing uninterrupted service to the public.
+ARTICLE 2
+Union Recognition
+The Memphis Light, Gas and Water Division, City of Memphis, hereby recognizes Local Union No. 1288 of the International Brotherhood of Electrical Workers, AFL-CIO-CLC, as the designated representative of non-supervisory employees of the Division for the purpose of negotiations on wages, hours, working conditions and all other conditions of employment to the full extent provided by the applicable laws of the City of Memphis and the State of Tennessee.
+In acknowledgment of the relationship between IBEW 1288 and Memphis Light, Gas and Water Division that is built on cooperation and mutual respect, the IBEW logo shall be displayed on Division vehicles operated by bargaining unit employees and will also be included on Division-furnished shirts and jackets in accordance with established guidelines. Prior to issuance, the employee will sign a form if he elects not to display a logo on shirts or jackets.
+While the recognition herein is not intended to constitute exclusive recognition, it is the policy of the Division that no other labor organization shall be recognized unless they be designated by a majority of the non-supervisory employees.
+It is mutually agreed there shall be no limitations or restrictions on the right of any employee to belong to the Union or to refrain from belonging to the Union.
+The terms and conditions of this Memorandum of Understanding shall apply only to employees as defined in Article 3 INCLUDED EMPLOYEES.
+ARTICLE 3
+Included Employees
+The classifications listed in this Article are those covered by the Memorandum of Understanding.
+See list on Pages 65 - 83.
+Any changes in this list relative to classification titles or new or changed classifications, job numbers, line of progression status, or pay grades, will be sent to the Union office, and an updated total listing will be prepared for the Union on a quarterly basis unless there have been no changes in the current quarter.
+The Union will be advised of any new job classifications. With respect to such new job classifications, the Union Business Manager and the Manager of Labor Relations shall meet and discuss the categories and tests for excluding job classifications in an effort to reach agreement.
+If agreement cannot be reached, the Union Business Manager may file a Union grievance with the Manager of Labor Relations and if necessary, pursue such a grievance directly to arbitration.
+1.	PROFESSIONAL EMPLOYEES. Employees whose work is predominantly intellectual in nature and varied in character as opposed to routine manual, mechanical or physical, and involves consistent exercise of discretion and judgment. Requiring knowledge of an advanced type in a field of science or learning customarily acquired after prolonged course of study, specialized training or study in an institute of higher learnino, or learned on the job and performing such work.
+2.	SECURITY PERSONNEL. Watchmen and Guards.
+3.	EXECUTIVE AND CONFIDENTIAL SECRETARIES. Secretaries who work for the President of the Division and executive management members down through the level of Manager or equivalent.
+4.	CONFIDENTIAL EMPLOYEES. Confidential employees are those individuals whose departmental responsibilities or normal activities in connection with the personnel, fiscal, or other matters affecting collective bargaining relations give them access to confidential data with respect to such matters.
+All Personnel Department, Payroll Department and Labor Relations Department employees are considered as Confidential employees.
+5.	SUPERVISORS. Any individual having authority in the interest of the Division to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward or discipline other employees, or responsibility to direct them, or adjust their grievances, or to effectively recommend such action provided that such authority is not merely routine or of a clerical nature and requires the use of independent judgment. (Present criteria for determining supervisory status shall continue unless altered elsewhere in this Memorandum of Understanding.)
+6.	PART-TIME AND TEMPORARY EMPLOYEES. See Article 4.
+If the Union Business Manager is in disagreement with the exclusion as determined by the above definitions, he/she may file a Union grievance with the Manager of Labor Relations and if necessary pursue such a grievance directly to arbitration.
+ARTICLE 4
+Part-Time and Temporary Employees
+A. PART-TIME EMPLOYEES
+1.	All part-time employees are excluded from coverage of this Memorandum of Understanding.
+2.	Part-time employees are those employees who are employed to work less than forty (40) hours a week on a regular basis, excluding any necessary overtime.
+3.	Part-time employees will be hired as needed by the Division; however, part-time employees will not be hired for the purpose of avoiding hiring of full-time employees.
+4.	In the office areas it is not the intent of Management to work part-time employees on overtime until the overtime has first been declined by those regular employees on duty who normally perform the work.
+5.	In the field areas it is not the intent of Management to work part-time employees on overtime unless the regular employees who normally perform the work are unavailable.
+6.	Part-time employees are not entitled to employee benefits such as insurance, pensions, or pay for time off except as a result of occupational injury.
+7.	Part-time employees will be considered as new job applicants on jobs for which they apply.
+B.	TEMPORARY EMPLOYEES
+1.	All temporary employees are excluded from coverage of this Memorandum of Understanding.
+2.	Temporary employees are those employees who are employed to work full-time but for a limited time period, not on a permanent basis. This includes but is not limited to co-op students, temporary office help, and summer employees.
+3.	Temporary employees will not be hired for the purpose of avoiding hiring of permanent employees, but may be hired for specific needs not of a permanent nature. Co-op students
+will perform bargaining unit work only with bargaining unit employees.
+4.	In the office areas it is not the intent of Management to work temporary employees on overtime until the overtime has first been declined by those regular employees who nor mally perform the work.
+5.	In the field areas it is not the intent of Management to work temporary employees on overtime unless the regular employees who normally perform the work are unavailable.
+6.	Temporary employees will not be used to avoid the utilization of qualified regular employees within the Area on work-out-of-classification.
+7.	Temporary employees will not take part in planned overtime but may work if they are part of a crew which works overtime to complete a job.
+8.	Temporary employees are not entitled to employee benefits such as insurance, pensions, or pay for time off except as a result of occupational injury.
+9.	Temporary employees will be considered as new job applicants on jobs for which they apply.
+The Union will be provided with a monthly list of all temporary employees, defining the category and initial hire date of each.
+ARTICLES
+Work by Supervisors, Foremen or Comparable First-Line Supervisors
+Supervisors shall not perform work which is normally done by employees covered by this Memorandum of Understanding. The Division reserves the right, however, to have all its first-line supervisors and foremen do such work as may be necessary on their part to properly fulfill functions as supervisors. This includes the responsibility of organizing their nrAWS fnr* tho nroatact	—
+may be required to get a job properly organized and started, which shall be limited to necessary clerical work, teaching, instructing, and demonstrating proper techniques and methods, layout work, developmental and experimental work, work incidental to devising new or improved methods and techniques, emergency work and work incidental to checking and trying out tools, equipment or methods.
+Emergency work under this Article shall mean:
+1.	Work necessary to protect the safety of persons, equipment or property, or,
+2.	Work necessary to maintain or restore service to customers in the absence of qualified non-supervisory personnel, if a reasonable effort has been made to secure such qualified personnel after the condition is reported.
+3.	The circumstances surrounding the urgent necessity to perform the work shall determine whether the supervisor shall perform the work. The presence or absence of qualified non-supervisory personnel shall not be the determining factor in defining the emergency.
+4.	If problems of interpretation of the above occur because of a supervisor’s action, such problems shall be discussed by the Business Manager of the Union and the Manager of Labor Relations in an attempt to resolve them.
+ARTICLE 6
+Non-Discrimination
+There shall be no discrimination, coercion, threats or intimidation by the Division or the Union against any employee because of sex, marital status, race, religion, national origin, age, disability, veterans status, political affiliation, membership or nonmembership in the Union, or because any employee chooses
+
+to use the grievance and/or arbitration procedures provided in the Memorandum of Understanding.
+The intent expressed in this Non-Discrimination Article takes precedence over any other provision in the Memorandum of Understanding.
+“Employee” as used in this Agreement or use of the male gender in this Agreement shall be construed as including female.
+The parties recognize the need for compliance with the Americans with Disabilities Act.
+ARTICLE?
+Division Responsibility
+It is understood that nothing herein shall require the Board to do anything forbidden by, or refrain from doing anything permitted to be done by applicable law. Nothing in this Memorandum of Understanding shall be interpreted as abrogating the authority vested in the Board for the exclusive management, control and operation of the Division.
+The Division has the exclusive right among others: to determine the purpose and duties of each of its departments; to set the standards of services to be offered to its customers; to enter into any contracts for Division business; and to exercise control and discretion over its organization and employees, so long as the determination does not violate this Memorandum of Understanding.
+Included is the Division’s right: to direct its employees; to hire, promote, demote, transfer, assign or retain employees in positions and locations within any department; to select its managerial and supervisory employees; to establish work rules; to suspend, discharge or take other appropriate disciplinary action against its employees for just cause; to determine job qualifications and classifications, the number of employees required at any time; to relieve its employees from duty in the event of lack
+12
+of work, funds, or for other legitimate reasons; and to determine work schedules, hours, and number of shifts; provided, however, that nothing contained in this Article shall be deemed to deny the right to submit a grievance concerning the application or interpretation of the terms of this Memorandum of Understanding or a claimed violation, misinterpretation or misapplication of the working conditions or rules and regulations of the Division affecting the terms and conditions of employment.
+ARTICLE 8
+No Strike-No Lockout
+During the term of this Memorandum of Understanding, the Union agrees that it shall not engage in, encourage or approve any strike, work stoppage, boycott or any other form of interfei-ence with continuous and peaceful operation of the Division and progress of the work.
+If employees engage in any of the actions listed above, they shall be subject to disciplinary action, including discharge.
+The Division agrees that it will not lock out any of the employees covered by this Memorandum of Understanding.
+In case of any interruption of work, as described above, the Union will take every legal, affirmative step necessary to terminate the interruption of work.
+Inasmuch as the Union does not claim the right to strike under any circumstances, it is agreed that all matters shall be settled according to Article 32, the Grievance and Arbitration Procedure.
+ARTICLE 9
+Bulletin Boards and Business Television
+It is agreed that the Union may have reasonable use of Division bulletin boards and the business television for the posting of notices of meetings, elections, recreational and social functions. Other matters may be posted with the specific approval
+13
+of the Manager of Labor Relations.
+At no time shall the Union material occupy more than approximately 50 percent of the space on a bulletin board or available program time utilized for Division information purposes on the business television system.
+ARTICLE 10
+Probationary Period of Employment
+All new employees shall serve a probationary period of six (6) months exclusive of time away from the job. Bids will not be accepted during the probationary period.
+During the period of probationary employment, an employee covered by this Memorandum of Understanding shall work under the conditions provided by this Memorandum of Understanding and receive not less than the minimum rate of pay for his/ her classification.
+During this period, the employee shall not be entitled to time off with pay for any reason except occupational injury, holidays (including birthday), military leave, jury duty, and death in family.
+The employee shall accrue sick leave and vacation credit from date of employment but may not use either until after the end of the probationary period.
+The employee’s services may be terminated at any time during this period for any cause without recourse to the Grievance Procedure or appeal provided such cause of discharge is not in violation of the Non-Discrimination Article of this Memorandum of Understanding. Grievances of discharged probationary employees submitted on the issue of a violation of the Non-Discrimination Article of this Memorandum will not be challenged on the basis of arbitrability. The reasons for the termination shall be supplied to the employee, the Union Steward, and the Union
+Business Manager in writing and shall be subject to review by the Manager of Labor Relations if requested by the Union Business Manager.
+ARTICLE 11
+Rules and Regulations
+The Union recognizes Management’s final authority in making new rules and changing rules, however, such rules will not be made in an arbitrary or capricious manner.
+Management recognizes the importance of informing employees about these matters as early as feasible, and it is the intent of Management to discuss these matters with affected employees in advance, if not prevented by circumstance.
+ARTICLE 12
+Dues Deduction
+Employees of the Division may authorize payroll deductions for the purpose of paying Union dues and IBEW-COPE contributions. No authorization shall be allowed for payment of initiation fees, assessments or fines.
+The Union will indemnify, defend, and hold the Division harmless against any claims made and against any suits instituted against the Division that may arise out of or by reason of action taken by the Division in making payroll deductions as herein set forth. The Union agrees to refund to the Division any amounts paid to it in error on account of the payroll deduction provision upon presentation of proper evidence thereof.
+The employee’s earnings must be regularly sufficient after other legal and required deductions are made to cover the amount of the appropriate Union dues and the IBEW-COPE deduction. When a member in good standing of the Union is in non-pay status for an entire pay period, no withholding will be made to cover that pay period from future earnings. In the case of any employee who is in a non-pay status during only part of
+the pay period, and the wages are not sufficient to cover the full withholding, deductions shall be made according to established priority. In this connection, all other legal and required deductions have priority over Union dues and the IBEW-COPE deduction, and Union dues have priority over the IBEW-COPE deduction.
+1.	Union Dues Deduction
+The procedure which shall be followed by all employees in authorizing deductions of Union dues shall be for each employee to execute a written assignment in the form agreed Upon. The payroll dues deduction shall be revocable by a separate cancellation card provided by the Payroll Department of the Division and signed by the employee in the Payroll Department, or if the employee is physically unable to sign the waiver in the Payroll Department, by written notice, signed by the employee (certified mail, return receipt requested) addressed to the Payroll Department. This revocation may be made during the month prior to the anniversary date of the implementation of this Memorandum of Understanding. The Union shall be promptly notified if the cancellation card is used.
+In the event the Union members vote to change Union dues, the Union shall notify the Division at least two (2) calendar weeks prior to the beginning of the pay period in which the new dues are to be deducted. The dues of both “A” and “BA” members shall be deducted 24 times a year in an amount certified by the Union and the aggregate deductions of all employees shall be remitted together with an itemized statement to the duly authorized representative of the Union within fifteen (15) days after such deductions are made.
+Notification of dues not deducted because of an employee's non-pay status will be sent to the duly authorized representative of the Union as soon as it is possible to do so.
+2.	IBEW-COPE Deduction
+The IBEW-COPE deduction will be handled as follows:
+(A)	The Company agrees to deduct and transmit to the Financial Secretary of IBEW Local Union 1288, IBEW-COPE, the amount from the wages of those employees who voluntarily authorize such contributions on the forms provided for that purpose by Local Union 1288, IBEW-COPE. These transmittals shall occur at the same time and in the same manner as IBEW Union Dues, subject to the approval of the IBEW International Office.
+(B)	The payroll deduction authorization form for IBEW-COPE Local Union 1288 contributions shall authorize the Division to deduct from the employee’s pay the sum designated by the employee, which specified sum shall be deducted twenty-four (24) times a year, at the same time as IBEW Union Dues, and forwarded to the Financial Secretary of the Local Union 1288 for the purpose of the International Brotherhood of Electrical Workers Committee on Political Education. This Authorization shall indicate that it is signed voluntarily and not out of any fear of reprisal and on the understanding that IBEW-COPE is engaged in a joint fund-raising effort with the AFL-CIO, that the money contributed shall be utilized to that effort to make political contributions and expenditures in connection with Federal and State elections, and that this voluntary Authorization may be revoked at any time by notifying the Division and IBEW-COPE in writing of a desire to do so. Contributions or gifts to IBEW-COPE are not deductible as charitable contributions for federal income tax purposes.
+ARTICLE 13
+Picket Lines
+The Union and management shall discuss any problems arising from assignments of employees to cross picket lines on a case-to-case basis if there be a problem concerning such assignments. The parties agree to cooperate to resolve such problems if it is possible.
+ARTICLE 14
+Union Representatives
+The Division recognizes and shall deal with the appropriate and accredited Union Stewards and Chief Stewards for their respective Areas or locations and appropriate steps in all matters relating to grievances that involve working conditions or the interpretation, application, or performance of the Memorandum of Understanding. One Steward and one Alternate will be recognized for each (Area) Supervisor; however, if this does not afford adequate representation, additional Union Stewards or Alternates may be authorized by the Manager of Labor Relations, upon written request from the Union Business Manager, to represent employees of a specific section or sections of the department involved.
+The Union shall designate twelve (12) of the above authorized Union Stewards to serve as Union Stewards in their Areas and Chief Stewards in one (1) of the following geographic locations or areas:
+Administration Building.......................3
+North Service Center..........................2
+Orleans Street..............................  1
+Central Shops.................................1
+Electric & Systems Operation Facility.........1
+Sheahan Pumping Station.......................1
+Brunswick Road Service Center.................1
+Hickory Hill Service Center...................1
+South Service Center..........................1
+As additional Service nontaro ----------
+The Union shall furnish a written list of the Chief Stewards, Union Stewards and Alternates and designate the Areas and/or locations they have been selected to represent. Union Stewards shall represent only the Areas in which they are employed. Chief Stewards shall represent only geographical locations in which they are employed.
+In the absence of the Union Steward, the Alternate can act in his/her place. In the absence of both the Steward and Alternate Steward, the Chief Steward in that geographic location may act as Steward. A Chief Steward may be authorized by the Manager of Labor Relations upon request from the Union Business Manager to act in the absence of another Chief Steward.
+Union Stewards and Chief Stewards shall be granted necessary time off during working hours to handle and settle grievances in their respective Areas, locations and steps of the Grievance Procedure, without loss of regular pay. These matters will be handled at such times as will not interfere with orderly and efficient operations. Union Stewards and Chief Stewards shall request permission of their Supervisor when it is necessary to leave their work, as far in advance as possible. Permission to handle grievances and have time off will not be unreasonably delayed. Time keeping procedures in each Area will be strictly followed.
+Upon election or appointment to the position of Union Business Manager or Assistant Business Manager, such employee(s), not to exceed three (3) employees will be transferred to the Labor Relations Department.
+Upon leaving the Union office, such employee shall be reinstated in his/her former classification and location if in effect and the employee is qualified to perform the duties of that position. The employee shall be deemed to have continued to accrue Division occupational and classification seniority in his/her former position during his/her term in Union office. In the event there is no vacancv in his/her nrfnr	—
+cation seniority is lower than the incumbent’s. The displaced employee may in turn use occupational seniority to displace another employee in his/her occupational line of progression.
+If the returning employee's position or the displaced employee's position is no longer in effect or he/she is barred from displacing another employee under the previous paragraph, placement efforts will be made to find a comparable position for a three (3) month period. If a comparable position is not found, the employee will be placed in an available position and paid at the appropriate rate of pay for that classification.
+Upon leaving the Union office, the employee's pay will be adjusted to the appropriate pay rate of the former classification.
+The Union Business Manager and/or Assistant Business Manager shall be allowed access to the buildings and grounds of the Division for the investigation or handling of grievances and complaints provided that a Manager is present at any adjustment. However, the Union Business Manager and/or Assistant Business Manager shall notify the appropriate Manager prior to visiting any area or work site. If the participation of an employee is required, the Union Business Manager and/or Assistant Business Manager must get permission from the supervisor or crew leader at the work site.
+ARTICLE 15
+Discipline and Discharge
+Oral discussion between Supervisors or Foremen and the employees under their supervision are routine for the purpose of correction as to procedure or method, instruction or explanation of the duties and responsibilities in their job.
+When a direct oral reprimand becomes necessary that may lead to more serious disciplinary action, the reprimand shall be given in the presence of the Steward if requested by the affected employee. If a difference of opinion arises between the employee and his/her Supervisor as to whether or not an oral
+discussion constitutes a reprimand, the employee may request the presence of the Steward. When the offense is serious enough or when it is a repetition of a prior offense, the reprimand rnay be put in writing and a copy given to the employee, the Steward and the Union Office. This written reprimand shall also be made a part of the employee’s record in the Personnel Department.
+If there are no repetitions of specific infractions within six (6) months, written reprimands will be considered cleared and marked as cleared in the employee’s personnel record in the Personnel Department.
+Suspensions, without pay, may be imposed by a Supervisor or higher authority when this will effect the necessary improvement in the conduct of an employee to prevent discharge. Suspensions shall be effective no sooner than the day following the day on which the offense occurs. Suspensions and the reasons shall be put in writing and supplied to the employee, the Steward and the Union Office.
+The Division shall have the right to discharge any employee for just cause. If requested, the discharged employee will be granted a hearing by his/her Manager in the presence of the Steward. The reason for such discharge shall be put in writing and given to the employee and the Union Business Manager.
+Any employee whose reprimand, suspension or discharge is found to be wholly unjustified shall have his/her record cleared of said offense, shall be reinstated and compensated in full for all lost time, and have restored all other rights and conditions of employment.
+ARTICLE 16
+Seniority
+The Division and the Union accept the principle of employee seniority as herein defined and applied in the Memorandum of Understanding.
+Division seniority is defined as continuous length of service
+since latest date of employment as a regular full-time employee.
+Occupational seniority is defined as accrued service time in an employee’s occupational line of progression as a regular full-time employee.
+Job classification seniority is defined as accrued service time in any employee’s current job classification extending beyond but including the trial period.
+Each employee shall accumulate seniority Division-wide and in his/her occupational line of progression and job classification.
+Stewards appointed by the Union shall have seniority during such appointment over the other employees in their department in the event of a layoff or reduction in force, subject to the qualifications and capabilities of the Stewards to fill the remaining jobs.
+The seniority of an employee will be broken under the following conditions and when so broken such employee shall be for all purposes considered a new employee if and when rehired:
+1.	Resignation or other voluntary termination of employment.
+2.	Discharge.
+3.	Failure to report to work after layoff within ten (10) days after the Division gives the employee written notice to return to work and failure to notify the Division of his/her intention to return to work within five (5) days after such notice is given. Such notice shall be deemed to have been sufficiently given if sent to the employee by registered or certified mail addressed to the last address furnished to the Personnel Department of the Division.
+4.	Layoff without recall to work within one (1) year from the date of such layoff.
+5.	Does not return at the end of approved leave of absence.
+Where an employee has established seniority privileges in a job classification covered by the Memorandum of Understand-Iha	***	-- •
+'	•	— iiiiim....................mi...nw
+not covered by the Memorandum of Understanding, and such employee is later restored to a covered position, such employee shall be deemed to have retained, but not accumulated seniority, during said period outside the covered classification.
+Subject to the needs of the department, Department Heads should use the principle of seniority in making selections from within classifications for assignments to locations and shifts. Where there is an agreed upon occupational line of progression, occupational seniority shall be used. When there are employees with the same occupational seniority date, tie breakers will be decided in the following order: 1) Division, 2) if a tie remains, classification, 3) if a tie remains, initial employment, JPO (Job Placement Order) number. Where there is no occupational line of progression, job classification seniority shall be used.
+An employee who promotes or transfers to another classification shall be deemed to have continued to accrue seniority in his/her former classification and/or occupational line of progression for the prescribed trial period if the employee subsequently fails to satisfactorily perform in the new classification.
+Seniority lists will be maintained on all three types of seniority and will be updated quarterly and will be posted on bulletin boards.
+In instances where there are disputes regarding the order of employees on seniority lists such disputes will be mutually resolved by agreement between the Manager of Labor Relations and the Union Business Manager.
+Any employee who objects to his/her standing on seniority lists should protest during the thirty (30) days from the date of original posting.
+ARTICLE 17
+Promotions and Transfers
+It is the policy of the Division that senior qualified employees
+new positions and to vacancies in jobs covered by the Memorandum of Understanding prior to considering applicants from outside the Division. However, employees must complete the probationary period for new employees prior to submitting bids for positions filled through the bid procedures.
+Employees will be considered for promotions as follows:
+1.	For openings in occupational lines of progression above entry level, in the following order:
+a.	Employees in the next preceding classification or classifications in the line of progression.
+b.	Employees in other preceding classification or classifications in the line of progression in descending order.
+c.	All employees covered by this Memorandum of Understanding, except as may be provided by law.
+2.	For all other openings: All employees covered by this Memorandum of Understanding, except as may be provided by law.
+All job openings are to be filled by the use of the bid procedure except those openings above the entry level in lines of progression, as in (1.) above.
+The following factors shall be considered in making selections:
+a.	Seniority: On bid jobs including entry jobs in the lines of progression-Division seniority; on jobs in occupational lines of progression-occupational seniority. When there are employees with the same occupational seniority date, tie breakers will be decided in the following order: 1) Division, 2) if a tie remains, classification, 3) if a tie remains, initial employment, JPO (Job Placement Order) number.
+b.	Qualifications, including training, experience, competence and service record.
+
+Seniority shall be the determining factor when qualifications are sufficient and relatively equal.
+Bid Procedure
+Positions will be posted and bids accepted by one (1) of three (3) methods:
+1.	PERMANENT POSTING: Positions on this list are ones which are difficult to fill within the Division. These postings remain on the board permanently. Bids will be accepted at any time for these positions. A list will be kept from which subsequent openings can be filled.
+2.	PREBID POSTING: Positions on this list are generally ones with high turnover. Positions on prebid postings will be posted two (2) times a year for eight (8) days. A list will be kept from which subsequent openings can be filled. Prebid positions will be re-posted whenever the list gets short. An employee may bid on a limited number of the prebid postings per year. For every five (5) positions on the prebid list, an employee will be allotted one bid. If an opening cannot be filled from a prebid list, the position will be posted for eight (8) days.
+3.	VACANCY POSTING: Positions on this list are ones which are posted as a vacancy occurs. Positions will be posted for each vacancy for eight (8) days. Employees must bid on each posting to be considered. An employee may bid on twenty (20) of these positions per year.
+If qualified bidders are not available for positions on these postings, the Division will fill the position from any available source.
+The determination of the type of posting for each classification will be made by agreement of the Union Business Manager, Personnel Manager and Labor Relations Manager. If agreement cannot be reached, the position will be posted us-ino the vanannv nnctinn
+area of the Division. Necessary information regarding the positions will be stated on the posting notices, along with the minimum qualifications necessary to meet the job requirements. Copies of all posting notices will be sent to the Union Business Manager.
+After notification and acceptance of a new position, the employee’s pending bids will be voided and the employee will not be considered for further openings for a period of six (6) months. This restriction refers only to positions received through the bid procedures or openings to be filled through the bid procedures.
+General:
+Persons promoted or transferred shall be allowed a trial period to prove their ability to perform their new duties; however, no employee will be expected to be at peak proficiency or production within this trial period. Trial periods, exclusive of time away from the job in excess of five (5) working days (cumulative), will be as follows:
+Grades l-V	Three (3) months
+Grades VI-IX	Four (4) months
+Grades X-XV	Six (6) months
+During the first two weeks of the trial period, the employee may opt to return to his/her old classification by request to the Personnel Department.
+Training and assistance will be provided to assist the employee in learning his/her new duties. If found unable to perform his/her new duties, the employee will be returned to his/her old position or a comparable one at the appropriate rate of pay. In this event, the next selection for the position will be from the qualified applicants of the original bid list.
+Any employee returning to his/her old position after a trial period may be considered again for promotion when a suitable
+Once an employee has been selected for promotion, the employee shall be released from his/her present position as soon as is reasonably feasible; however, in ail cases, the employee will be reclassified to his/her new classification no later than one (1) month from the date of his/her original selection. If a seniority question arises due to reclassification, the Union Business Manager and the Manager of Labor Relations will meet to resolve the problem on a case-by-case basis.
+An employee who is promoted will receive the proper increase as of the effective date of the promotion.
+Any employee who transfers laterally within his/her line of progression will retain his/her anniversary date established in the previous job classification provided employee can perform the work of the new classification.
+Grievances on promotions or transfers shall be submitted to the Manager of Labor Relations not later than fifteen (15) days after the employee is notified of the name and seniority of person selected for the vacancy.
+An employee who is a successful bidder on a job and who would have received a merit step increase within one month after the date of his/her promotion, will receive his/her promotion pay adjustment based on his/her pay rate after the step increase.
+When an employee is partially disabled, he/she may be considered for a job more suitable without the use of the above procedures with approval of the Union Business Manager and the Labor Relations Manager.
+The following information will be furnished to the Union:
+1.	A list of al! bid applicants and their seniority.
+2.	The name of the successful bid applicant and his/her seniority.
+Upon request, the qualifications of the successful bid appli-
+cant will be furnished to the Union Business Manager.
+ARTICLE 18
+Layoff or Reduction in Force
+In the event of a layoff or reduction in force, employees will be laid off or reduced in force in accordance with Division seniority within the classification and department where layoff or reduction in force occurs.
+In the event of layoffs due to lack of work, employees will be released only after contractor’s employees who are performing like work.
+Any employee subject to layoff in excess of two (2) weeks or a reduction in force under the above provision may exercise his/her Division seniority to displace an employee with the least Division seniority in the last classification in which the employee subject to a reduction in force previously worked, if otherwise qualified to perform the duties of that classification. An employee may only displace an employee with less Division seniority. An employee who displaces an employee in a lower classification shall be paid at the appropriate rate for the classification in which he/she displaces.
+Recall shall be in inverse order of layoff. If vacancies occur outside the laid-off employees’ classification, they may be considered to fill such vacancies if qualified. If they accept a new position outside their former classification, they shall be paid a salary appropriate to the new position.
+It is the policy of the Division to avoid separating permanent employees as a result of reorganization, the elimination of job classifications or other reduction in force. A reasonable effort will be made to place employees in available jobs before they are permanently separated as a result of reduction in force.
+Employees laid off due to reduction in force or on account of lack of work will receive termination pay as provided in Section R nf Tarmina+irtn Dn>>
+I
+fully with the Union and facts relative to the layoff will be made available upon request.
+During the term of this Agreement, the Division will not contract out or subcontract the work now being done by present employees covered by this Agreement unless substantial savings are effected for the general public.
+The parties agree to the following in regard to contracting or subcontracting:
+1.	No more than 25% of work in each of the electric and water distributions and operations may be contracted out absent an emergency or agreement with the Union.
+2.	The Division agrees to reduce the subcontracting in the Gas Distribution and Operation to less than 30%.
+3.	It is understood that the above percentages are maximum and not targets.
+4.	Any future subcontracting or contracting out that is seriously considered by the Division will be brought to the Union and the Division will represent its 'substantial cost savings" justification. The Union will be allowed the opportunity to refute the Division’s position. The Union and the Division agree to cooperate in this process and expedite it when needed. The parties agree to no undue delay.
+ARTICLE 19
+Termination Pay
+A.	A permanent hourly or salaried employee who resigns or who is discharged will be paid for actual time worked, vacation days accrued in the current vacation year, unused vacation allowance for the current year and accrued bonus days.
+B.	A permanent hourly or salaried employee laid off due to reduction in forces, or on account of lack of work, will be paid for actual time worked, for unused vacation allowance 'inri f/ir o oat/aronna ollniA/'Bnr'a nf hum /O\ waata in ant/
+twelve-month period at his/her regular base rate. If the employee is returned to work in the current or next calendar year, he/she shall not be eligible for any further vacation in either year, as the severance allowance which was paid is considered by the Division to be equivalent of a prepayment of vacation.
+C.	A permanent hourly or salaried employee who dies will continue on payroll through the payroll period in which he/ she dies and will be paid at his/her regular base rate of pay, provided the employee was entitled to receive pay other than severance allowance for part or all of the payroll period. The employee’s survivors or estate shall be paid the compensation, including pay for accrued unused vacation and bonus days, otherwise due him/her.
+D.	A temporary hourly or salaried employee who resigns, who is discharged, or who is laid off will be paid only for actual time worked. In case of death, the employee’s earnings on the same basis shall be paid to his/her survivors or estate.
+E.	Upon presentation of authorized induction papers, a permanent employee entering the Armed Services of the United States Government will be paid for actual time worked, vacation days accrued in the current vacation year, unused vacation allowance for the current year and accrued bonus days.
+F.	Under normal circumstances, an employee who is retiring shall give the Division one month’s notice. The employee is normally expected to be at work during this one month’s notice. The employee shall be separated from the regular payroll on the last day he/she works. The next day will be the effective starting date of the employee’s retirement. The employee’s last check will include actual time worked, vacation days accrued in the current vacation year, unused vacation allowance for the current year, bonus days accrued and sick leave pay at retirement. This check will
+G.	For the term of this Memorandum dated January 1,2002 through January 1, 2005, employees shall be eligible for severance benefits as outlined in Personnel Policy 22-25, Severance Benefits (effective January 1,2001) in addition to the two-week severance pay benefit referred to in this Article.
+ARTICLE 20
+Pensions
+The benefits presently enjoyed by employees covered by this Memorandum of Understanding shall not be reduced during the term of this Memorandum of Understanding.
+ARTICLE 21
+Insurance
+The benefits presently enjoyed by employees covered by this Memorandum of Understanding shall not be reduced during the term of this Memorandum of Understanding.
+Benefits provided and the division of premium costs will be negotiated at the same time as other economic factors during negotiations for a new term of the Memorandum of Understanding unless otherwise agreed upon.
+Sixty (60) days before implementing a premium increase, the Division will meet with the Union for the purpose of discussing and/or agreeing to cost containment or other modifications that would decrease or eliminate the need for the increase.
+The parties agree to form a joint Management-Union insurance committee to participate in the sharing of insurance information. The committee will review MLGW insurance programs in regard to trends in the industry, plan costs, and insurance education and communication processes. The focus of the Joint Insurance Committee will be to nursue cost con-
+The committee will be composed of eight (8) employees with four (4) appointed by the Union arid four (4) appointed by the Division. The committee will meet on a quarterly basis or more frequent by mutual consent.
+ARTICLE 22
+Work-Out-of-Classification
+The Division shall make temporary assignments according to the requirements of the job and availability of personnel qualified to do the work.
+Work-out-of-classification in occupational lines of progression above entry level will be offered to the qualified and available employee who is senior in occupational seniority in the next preceding classification or classifications in the line of progression who is in the crew or on the job site.
+Work-out-of-classification in jobs not in occupational lines of progression will be offered to the senior qualified and available employee in the classification or classifications from which an employee will be selected. In these cases classification seniority will be utilized.
+When employees are assigned or required to perform work which is not in their job description but which is usually performed by employees in a higher classification, they shall be paid out-of-classification at the appropriate rate.
+In connection with the above, any problems which might arise concerning the question of insufficient work shall be dealt with on a case-by-case basis by referral to the Manager of Labor Relations and the Union Business Manager.
+Pay for work-out-of-classification shall be as follows:
+1.	Employees assigned or required to work in a higher classification on a temporary basis for periods in excess of two (2) hours, either continuously or accrued in the regular work-
+day, shall receive premium pay for all time worked in the higher classification as follows:
+Work in non-supervisory classifications
+Grades 1-5.........................  $	.50 per hour
+Grades 6-9.........................  $	.60 per hour
+Grades 10 & above....................$	.70 per hour
+Work in crew leader and supervisory classifications..........$	.85 per hour
+2.	It is not the intention of the Division to assign employees to work-out-of-classification in higher classifications to nullify the need to promote employees to these higher classifications.
+3.	While it is agreed that employees selected to work-out-of-classification must be qualified to perform the job, it is also agreed that the Division will make reasonable efforts to see that senior employees have the opportunity to become qualified to perform in more advanced positions.
+4.	An employee assigned to work in a lower classification on a temporary basis shall receive his/her regular rate of pay during such assignment if such assignment is for the benefit of the Division. If for the benefit of the employee, he/she shall receive the rate of pay applicable to the classification which is next lower than his/her rate of pay in his/her old classification.
+5.	An employee assigned to work in an equal classification on a temporary basis shall receive his/her regular rate of pay during such assignment.
+6.	Temporary assignments may not be rotated for the purpose of depriving temporarily assigned employees of work-out-of-classification pay.
+ARTICLE 23
+Time Off for Death in Family
+time of a death in their immediate family. The employee will give his/her Supervisor prompt notice of the death and their desire to be granted time off. Immediate family shall mean one of the following: husband, wife, child, stepchild, parent, brother, halfbrother, sister, half-sister, grandparent, grandchild, mother-in-law, father-in-law, step-parents, and properly established foster parents. In the case of step-parents, employee must have lived in the household with step-parents. In the case of foster parents, employee must have lived in the household of such foster parent in the relationship of parent and child.
+Proof of the relationship may be investigated by the Personnel Department if evidence of abuse exists.
+There will be no loss of accrued sick leave days or vacation days during the time off for death in family as granted above.
+Additional time off with pay, as approved by Department Head, shall be granted for travel to cities more than 500 miles from Memphis.
+Department Head may grant up to four (4) hours time off with pay to attend the funeral of a fellow employee as long as this does not unduly affect the operation of the department.
+Additional time may be granted as leave without pay or as vacation when justified by circumstances.
+ARTICLE 24
+Jury Duty
+Employees shall be paid for necessary time off while serving on a regularly constituted Grand Jury or Petit Jury or when subpoenaed to appear as a witness in court or before a Grand Jury.
+Employees working on shifts other than day shifts shall be moved to a day shift job for their tenure on the jury panel. If an employee is required to report for jury duty for three (3) hours or less in any given day, he/she shall report to work that day. If an employee is required to report for jury duty for more than three
+his/her tenure on the jury panel the employee shall report to work on such days if scheduled to work. At the conclusion of jury service the employee will assume his/her normal shift hours.
+Employees shall not be required to remit to the Division any part of their pay as a juror as long as they abide by the foregoing rules.
+ARTICLE 25
+Military Service
+Permanent employees leaving the Division employment for active duty in the Armed Services will be reinstated in the same or a comparable job if they report for work as soon as discharged but not later than ninety (90) days after discharge.
+Employees who are members of a reserve component of the Armed Forces of the United States, including members of the Tennessee Army and Air National Guard, will be paid their regular Division salary during the time of their training leave of absence, not to exceed fifteen (15) working days in one calendar year.
+ARTICLE 26
+Tools and Equipment
+Present Division practice of providing tools and equipment shall continue during the term of this Memorandum of Understanding. Both the Union and Division agree that employees must show a responsible attitude toward maintaining all tools and equipment.
+ARTICLE 27
+Hours and Overtime
+General:
+1.	Scheduled Work Week. A scheduled work week shall consist of five f5t consecutive riavs when nossihle each work-
+I
+day shall normally be eight (8) consecutive hours, exclusive of time allowed for lunch. The work week may be any five (5) days in a calendar week.
+2.	Scheduled Days Off. An employee’s two (2) scheduled days off shall be consecutive when possible. For pay purposes, the determination of first and second days off shall depend upon the chronological order of occurrence of the two (2) scheduled days off as they are established within the calendar week, Sunday through Saturday.
+3.	Coffee Break/Rest Period. Employees will be granted one (1) paid break or rest period of not more than fifteen (15) minutes in each four (4) hour period of regular or overtime hours worked.
+4.	Overtime Limit and Rest Periods.
+a.	General
+An employee will not normally be required or permitted to work more than sixteen (16) hours, either continuously or cumulatively, in a twenty-four (24) hour period. This twenty-four (24) hour period will begin at the starting time of any work period.
+An employee may be released by his/her Supervisor from work for a rest period not otherwise provided for, as need dictates during the employee’s regularly scheduled forty (40) hour work week, and shall be paid at his/her straight time rate for such regularly scheduled hours.
+b.	Distribution or Operations Department Construction or Maintenance Crews
+Distribution or Operations Department construction or maintenance crew members (not to include Electric Distribution Department trouble shooters) who have worked sixteen (16) consecutive hours will be granted a ten (10) hour off duty period. When needed, the employee may elect to return after eight (8) hours off duty; however, any remaining time worked within his/her earned rest period will be com-
+continue to work beyond the sixteen (16) hour work period if the employee is physically able and willing to continue a job. However, the additional time after sixteen (16) hours shall not exceed two (2) hours.
+All emergency overtime of six (6) hours or longer, cumulative or continuous in the twelve (12) hours preceding a regular shift, shall be preceded by, or followed by, a continuous ten (10) hour off-duty period. Any hours in the rest period which overlap with the employee’s regularly scheduled workday will be compensated at the straight time rate. Paid rest time shall be considered the same as time worked for the purpgse of determining when overtime starts in a regularly scheduled workday.
+In the event an employee has not completed his/her ten (10) hour rest period, the employee shall not be required to report for his/her next regular work period until the ten (10) hours have elapsed. When needed, the employee may elect to return after eight (8) hours off duty; however, any remaining time worked within his/her earned rest period will be compensated at a double time rate. If there remain four (4) hours or less in the employee’s regular work period at the end of the ten (10) hours rest period, the employee shall not be required to report for work unless the emergency still exists. If more than four (4) hours remain in the employee’s regular work period at the end of his/her rest period the employee shall report to work.
+5.	Overtime Policies and Committees. Departments/Areas will form committees to develop overtime policies. Upon approval by the appropriate manager, copies will be forwarded to the Manager of Labor Relations and the Union Business Manager. Policies may be reviewed annually or upon request by either party. It is understood that nothing contained in these overtime policies will conflict with the Memorandum.
+All policies will include provisions for the following:
+1.	Overtime hours to be converted to its straight time equiva-
+
+stand-by, as applicable	i
+3. Employee review and/or confirmation of overtime lists prior	!
+to printing for distribution.
+6.	Overtime Lists. Current overtime lists will be posted on all ! bulletin boards.
+7.	Saturday and Sunday Construction Work. Construction Work performed on Saturday and Sunday will be kept to a minimum consistent with the requirements of serving the customers. It is not the intent of the Division to perform routine construction on Saturday and Sunday.
+8.	Emergency Call-Outs. The parties agree that those classifications necessary to perform the workshall be called out in emergencies.
+In distribution, the low crew at the service center where the call originates will be called after 1:30 a.m. Monday through Friday.
+Shift Work Schedules:
+Employees covered by this section are those employees whose work hours are dictated by a shift work schedule.
+1.	In departments where prepared, work schedules shall be posted at least one (1) month in advance. The Department Manager and Area Steward shall have a mutually agreed upon schedule for shift work sign up approved initially by the Union Business Manager and Labor Relations Manager. Any temporary changes to the schedule shall be mutually agreed to by the Department Manager and Area Steward. Any permanent changes to the schedule shall be mutually agreed to by the Union Business Manager and Labor Relations Manager.
+2.	The Division will make all efforts to give a minimum of one (1) week’s notice prior to any change in employee’s work schedules. Changes made with less than four (4) calendar davs HOtiOA fihmtld nnt ha mcdo	. — -<-■ ■
+3.	No employee should normally be scheduled to work more than eight (8) straight-time hours in any twenty-four (24) hour period but in no case shall an employee be scheduled to work more than eight (8) straight-time hours in any consecutive sixteen (16) hour period.
+4.	An employee’s two (2) scheduled days off shall be consecutive when possible.
+5.	Although it is recognized that the requirements of shift work may necessitate working more than five (5) straight-time days consecutively, all efforts should be made to avoid such scheduling.
+Overtime Payment:
+1.	Time and one-half for all time worked in excess of eight (8) hours in one day or forty (40) hours in one (1) calendar week.
+2.	Time worked in excess of sixteen (16) hours in any twenty-four (24) hour period shall be paid at two (2) times the straight-time rate.
+3.	Whenever an employee is required to work on a holiday day, the employee shall be paid two (2) times his/her regular rate of pay for such hours worked.
+4.	Employees will be eligible for double-time pay on one (1) day per calendar week except as provided for in 2 and 3 above.
+a.	An employee who is normally scheduled off on Sunday will be paid double-time or two (2) times his/her regular straight-time rate for any overtime hours worked on Sunday. Any overtime on another day in the calendar week will be paid at one and one-half times his/her straight-time rate for the hours worked.
+b.	An employee who works on a shift crew in the Electric, Gas or Water Distribution departments will be paid doubletime or two f2) times his/her reoular straioht-time rate for
+whose second day off is Saturday. In such case, the double time day for this crew(s) will be Saturday. Any overtime on another day in the calendar week will be paid at one and one-half times his/her straight-time rate for the hours worked.
+c.	An employee who works a shift with off-days which do not include Sunday will be paid double-time or two (2) times his/ her regular straight-time rate for any hours worked on his/ her second off-day. Any overtime on another day in the calendar week will be paid at one and one-half times the employee’s straight-time rate for the hours worked.
+5.	Overtime shall be distributed on an equitable basis among the employees of a given classification who normally perform the work in the department affected insofar as possible. Overtime lists will be utilized in making selections for employees to work overtime.
+6.	There shall be no duplicating or pyramiding of overtime.
+Show-Up Time:
+An employee who reports for work at his/her regularly assigned time and who has not been notified in advance not to report shall be paid a minimum of two hours straight time pay.
+ARTICLE 28
+Call-Out Pay
+Time for emergency overtime will start when an employee is called to report for work. It is understood that employees called out for emergency overtime in accordance with this article will report to the reporting site within a reasonable time after having been called out and will be paid only for reasonable reporting time. The Union will cooperate with the Division to the fullest extent to ensure that employees do report within a reasonable time when called out. This provision shall not apply to an employee called to work a regular shift not his/her own.
+Minimum nail-nut timp fnr pithor nlonnoW
+
+fence, shall be interpreted to mean that the employee will not be paid minimum call-out time if called prior to the employee's leaving his/her regular reporting place or area after his/her regular working hours.
+An employee called out more than once in any eight (8) hour period is entitled to only one four (4) hour minimum.
+An employee who is responsible for calling out a crew but is unsuccessful will be paid for 30 minutes of overtime at the applicable rate.
+ARTICLE 29
+Stand-By Pay
+Employees assigned to stand-by duty shall abide by their applicable rules related to this duty and be readily available during such times.
+Employees shall be paid two (2) hours at the straight-time rate for each eight (8) hours or major part of eight (8) hours in each stand-by period. This time shall not be counted as time worked for the calculation of overtime. This pay shall be in addition to any pay for work when called out. If an employee fails to abide by the applicable rules or is not readily available the employee shall forfeit his/her stand-by pay.
+Employees who are assigned to stand-by and are required to report to work shall be paid at the applicable straight-time or overtime rate.
+Overtime lists will be used to develop stand-by schedules, unless an exception is approved by the Labor Relations Manager and the Union Business Manager.
+If employees who are on stand-by are properly equipped and qualified they will be the first called when an emergency arises.
+ARTICLE 30
+to maintain or restore service to customers. Emergency is understood to mean those cases that could not be foreseen or postponed. When emergency work is required during inclement weather, the Division shall provide suitable equipment for the employee’s protection.
+Employees shall be paid their regular rate of pay for their normal scheduled hours of work during inclement weather and will not be rescheduled to another shift on the first day, but may be rescheduled on succeeding days. However, employees will be assigned other productive work inside or required to stay at a designated place in case conditions permit them to return to work.
+Meter Readers are excluded from coverage under Article 30-Inclement Weather.
+ARTICLE 31
+Authorized Leaves
+Employees may be granted leaves of absence without pay of no more than five (5) working days upon written request endorsed by their Department Head and approved by their Vice-President. Employees may be granted leaves of absence without pay in excess of five (5) working days upon written request endorsed by their Department Head and approved by the Board.
+An employee, but no more than one employee, who is elected or appointed to a position in the International, which requires his absence from duty with the Division, may be granted a leave of absence without pay for up to one (1) year, subject to the needs of the department.
+An employee who is designated as a delegate to a conference or convention of the Union or an officer of the Union who may be required to transact business for the Union which temporarily requires his/her absence from duty, upon written application twenty-four (24) hours in advance, may be allowed nec-
+opinion of the Board such leave will not unduly interfere with progress of the work.
+An elected Union Officer, upon request, agrees to attend meetings with Division officials on his personal time will be allowed to take a comparable amount of his regularly scheduled work time to attend Union monthly membership meetings and Executive Board meetings, subject to the needs of the department, as determined by the Department Manager. Time spent attending such Union monthly membership and Executive Board meetings shall be paid if the Officer has accumulated sufficient comparable time. The Union Officer must document his attendance and time spent at such meetings and promptly submit a copy of the documentation to supervision.
+Up to four (4) members of the Union Negotiating Committee will be allowed time off with pay when negotiations occur during their regular working hours.
+Employees on authorized leave shall continue to accrue seniority and may if they elect participate in the Division’s insurance program at their own expense.
+Sick leave and pension benefits accrued and not taken prior to the beginning of an authorized leave of absence shall be frozen and reinstated upon the employee's return to work.
+The parties will comply with the Family and Medical Leave Act (FMLA).
+ARTICLE 32
+Grievance and Arbitration Procedure
+Nothing in this Memorandum of Understanding shall be construed to prevent employees from representing and adjusting their own grievances, at any step, without the assistance or presence of a Union representative, provided no adjustment shall be inconsistent or in conflict with the terms of this Memorandum of Understanding, and provided further that the Union shall be given
+Should any difference arise affecting the working conditions, or interpretation, application or performance of the terms or provisions of this Memorandum of Understanding, such difference shall be handled in a simple and direct manner. The Union and the Division agree that grievances should be settled in an orderly, prompt and equitable manner which will maintain the self-respect of all parties involved and be consistent with the terms of this Memorandum of Understanding. Every effort will be made by the Union and Division to settle grievances at the lowest steps of the grievance procedure. It is the intent of the Union and the Division to attempt to resolve all grievances within the first three (3) steps of the grievance procedure, understanding that arbitration is intended only as a last resort. The following procedure shall be followed through as many steps as necessary to reach an understanding.
+Employee witnesses may be called to the grievance hearings, without loss of regular pay, for the purpose of presenting or verifying evidence at Steps 1,2 and 3.
+Grievances involving discharge, suspension, promotion or demotion shall be filed in writing at Step 3 within fifteen (15) calendar days of the occurrence.
+STEP 1. Oral discussion will be utilized at Step 1 to encourage a cooperative and direct resolution of differences. The employee and/or steward shall discuss such differences with the Area supervisor within five (5) calendar days of the occurrence. The employee and/or steward will inform supervision that these discussions are the first step of a potential grievance and provide information necessary for its resolution. The supervisor shall give an oral answer within three (3) calendar days after the discussion with the employee and/or steward. Any decisions reached at Step 1 will not be considered as a precedent and shall be applicable to that grievance only.
+STEP 2. If no settlement is reached at Step 1, a written grievance must be filed within fifteen (15) calendar days bf the oc-
+have not taken place, the matter will be referred to Step 1.
+In order to be processed at Step 2, the written grievance must contain the following information:
+a.	Specific article violated or alleged violation of the Memorandum,
+b.	Description of the violation,
+c.	Proposed remedy.
+Within five (5) calendar days after receiving the grievance, the Manager will schedule a meeting with the employee, Area Steward, Chief Steward and appropriate supervision in an effort to settle the grievance. The Manager will give a written decision within three (3) calendar days after the Step 2 hearing.
+| STEP 3. If no settlement is reached at Step 2, then within five |	(5) calendar days from the answer of the Department Manager,
+|	the matter may be referred to the Manager of Labor Relations. A
+| meeting will be scheduled within twenty-one (21) calendar days j from the referral to Step 3 with the Manager of Labor Relations and/or a designated representative, the Union Business Manji	ager and/or a designated representative and the employee for
+J	the purpose of adjusting the grievance to the satisfaction of the
+parties. At the request of the Union, the following may be included in the hearing: Chief Steward, Area Steward, witnesses with direct knowledge of the case and a Neutral party. At the request of Labor Relations, the following may be included in the hearing: Department Manager, Area Supervision, witnesses with | direct knowledge of the case and a neutral party.
+Hearings involving discharges will be scheduled within ten (10) calendar days from referral to Step 3. Hearings involving suspensions, promotions, and demotions will be scheduled within fifteen (15) calendar days from the referral to Step 3.
+} If the parties are unable to resolve the grievance at the hear-ina chase of the meeting, the parties present in the meeting will
+or designated representative. If the hearing included a neutral party from management and/or the Union, such party will be included in this meeting. Every effort will be made by this group to review the facts objectively and to dispose of the grievance. Any agreement reached will be the final disposition of the grievance.
+If the Manager of Labor Relations or his/her designated representative is unable to state a position for the Division at this meeting, the meeting will be adjourned. The Manager of Labor Relations will provide an answer in writing to the Union within fifteen (15) calendar days of the adjournment.
+STEP 4. The following procedure shall be used in arbitration: Within thirty (30) days from the written notice in Step 3, the grieving party shall initiate a request, which shall be joint or separate, to the Federal Mediation & Conciliation Service to submit a panel from which the arbitrator shall be chosen by the parties. The grieving party, within twenty-two months from date of appeal, shall provide written notification of a decision to select an arbitrator. The grieving party shall be given the first opportunity to strike the name of one of the arbitrators contained in the list. The other party may then proceed to strike a name with this procedure being continued until one name remains. The person whose name remains shall be designated as the arbitrator. Within seven (7) days of the designation of an arbitrator, the parties shall jointly or separately communicate with such arbitrator for the purpose of establishing a date for an arbitration hearing and the parties shall thereafter move expeditiously to set the date of the hearing. The parties recognize the need for resolving grievances as soon as possible and must fully cooperate in this endeavor.
+The arbitrator shall set a hearing date as expeditiously as possible and full opportunity shall be given both parties to be heard and to examine and cross-examine witnesses and offer other evidence. The arbitrator’s decision shall be in writing to thfl nartiAQ
+as employees may have possessed prior to the effective date of this Memorandum of Understanding and it is not the intent of the parties, through this Grievance and Arbitration Procedure, to diminish the authority vested in the Board.
+The arbitrator’s jurisdiction shall be limited to questions, grievances or disputes involving the working conditions, or interpretation, application or performance of specific provisions of this Memorandum of Understanding. He/she shall have no authority to set policy or to add to, subtract from or change any terms of this Memorandum of Understanding.
+Each party shall bear the expense of preparing and presenting its own case. The cost of the arbitrator’s services and any other expenses incidental to the arbitration shall be borne equally by both parties. The Division will grant time off without loss of regular pay to a maximum of five (5) Union participants which are the involved Stewards and/or grievants. Additional Union witnesses will be granted time off and will be paid for such lost time only if they actually testify at the arbitration hearing.
+Grievances pending arbitration for twenty-four (24) months will be considered waived.
+GENERAL: Under this grievance procedure, time starts to run on the next calendar day after the occurrence or answer. The time limits for grievance meetings at any step may be extended by mutual agreement of both parties in writing.
+The Union Business Manager may file a grievance at Step 3 of the Grievance and Arbitration Procedure. Such grievance shall be strictly limited to violations of specific provisions of the Memorandum of Understanding.
+Employees will be unimpeded and free from restraint, interference, coercion, discrimination or reprisal from either party in seeking adjudication of their grievances.
+It is understood that time is of the essence and that if a griev-
+respond within the time limits provided at any step, the Grievant may then refer the matter to the next step within the time limit provided from the date the answer is due.
+Neither the Union nor its official representatives shall be held liable for the handling of grievances, including arbitration, when stewards or officers are not involved in the filing or handling of grievances of non-union employees.
+Only grievances occurring on or after the effective date of this Memorandum of Understanding will be processed under this procedure.
+ARTICLE 33
+Salary Grades for New or Revised Job Classifications
+When a new job classification is created or significant duties and responsibilities are assigned to or eliminated from an existing job classification, the Division will propose a rate of pay for such new or revised job classification to the Union. If the Union is agreeable to such rate of pay it will be put into effect immediately. If the parties cannot negotiate a mutually agreeable rate of pay, the Division may place the proposed rate of pay into effect and the Union may within fifteen (15) calendar days thereafter file a grievance protesting such rate. If a higher rate than that proposed by the Division is subsequently determined to be appropriate, it shall be made effective retroactive to the date of the formal grievance by the Union.
+It is not the intent of the Union to claim new salary rates for jobs where insignificant changes have occurred, nor is it the intent of the Division to add duties to an established job in order to avoid paying work-out-of-classification.
+When a new job classification is created or significant duties and responsibilities are assigned to or eliminated from an existing job classification, a new or revised job description describ-ino the sianificant duties and resoonsibilities shall be oreoared
+by Management. Job descriptions shall be maintained by the Division for the purpose of defining job duties and responsibilities and shall be furnished to the Union.
+In preparing job descriptions, Compensation Administration personnel shall arrange and meet with the appropriate Supervisor and Steward to discuss present job content and job changes. Employees working in the classification will be contacted to the extent necessary to analyze the job.
+Compensation Administration will notify the Union Office when the above process is to take place.
+ARTICLE 34
+Performance Appraisal
+Every employee is entitled to know how his/her Supervisor regards his/her performance and is entitled to the opportunity to discuss this with his/her Supervisor or Foreman. No Performance Appraisal form shall be altered or added to after an employee has signed it. Upon request, the employee will be given a copy of his/her Performance Appraisal after the employee signs it.
+If employee’s performance is satisfactory, employee will be advanced to the next step in his/her salary grade if he/she is not already on the maximum. If employee’s performance is unsatisfactory, the employee is entitled to a review and additional appraisal ninety (90) days after the unsatisfactory appraisal; if at this time the employee's performance is satisfactory, he/she will advance to the next salary step.
+Every employee will be told at the time of his/her appraisal whether he/she is rated overall as “satisfactory” or “unsatisfactory.” The employee may state his/her comments concerning the appraisal in the appropriate spaces on the appraisal form at the time of his/her appraisal interview.
+Satisfactory Performance Appraisals are not grievable.
+ARTICLE 35
+Training for Skills Improvement
+1.	Genera! Training
+Management and the Union agree that employees shall be free and unencumbered to suggest, recommend and/or request additional training with the intent of providing opportunity for selfimprovement and upgrading.
+2.	Joint Apprenticeship Committees
+Whenever an apprenticeship program has been established or is intended to be established by the Division, a Joint Management-Union Apprenticeship Committee will be established for the purpose of establishing requirements and administrative procedures regarding the program.
+Joint apprenticeship programs will be approved by the Division and the Union prior to implementation or modification. Such approval is required with respect to the basic program but not the procedures and rules later adopted or changed by the Apprentice Committee.
+While participating in an apprenticeship program, apprentices cannot utilize the bid procedure unless approved by the Joint Apprenticeship Committee. An apprentice who desires to leave the apprenticeship program shall petition the Joint Apprenticeship Committee which will counsel with the apprentice. Upon approval of the Joint Apprenticeship Committee, the employee will be dropped from the apprenticeship program. For a period of sixty (60) days, efforts will be made to place the employee in a comparable classification. If these efforts are unsuccessful, the employee will be returned to his/her prior classification or a comparable one at the appropriate rate of pay.
+ARTICLE 36
+Safety and Health
+The Division shall make all appropriate provisions for the pro
+tection of the health and safety^ and the Division shall support all \ ees from injury or damage to health
+As determined by Safety and Teel.
+V'-
+protective devices, equipment, and fla shall be provided to minimize and elimirk cal the hazards inherent in utility work.
+Water
+'"‘ npd
+
+The Division will provide flame retardant ployees whose jobs require them to perform wd, energized high voltage equipment which could p ‘ ,.iy expose them to high voltage arcs, as follows:
+1.	As determined by Safety and Technical Training on a case-by-case basis, flame retardant coveralls or flash jackets will be issued to employees whose potential exposure is infrequent. This clothing will be worn as required.
+2.	Employees whose potential exposure level is frequent or continuous will be provided a clothing allowance credit through a vendor approved by Safety and Technical Training to purchase flame retardant shirts/clothing. The clothing allowance credit will be administered on an annual basis and any unused credit will not carry over to a subsequent allowance period.
+An initial start up clothing allowance credit will be in the amount of $500.00 and a credit for subsequent years will be in the amount of $400.00. Employees who are under the plan as January 1, 2002 will receive credit in the amount of $400.00 for the next issuance of clothing. Employees who receive a clothing allowance credit will be required to wear flame retardant shirts in the performance of their duties.
+Any employee who is issued flame retardant garments will
+be responsible for laundering those garments.
+There shall be a Safety Committee upon which the Union and Management are equally represented. This Committee
+50
+51
+shall have the power to make recommendations to the Supervi-i	sor of Safety and Technical Training regarding safety rules, prac-
+i	tices and procedures related to the employees’ health and safety.
+i	There shall be appointed one (1) each from the Union by the
+i	Union and Management by the Management to represent the
+i	Electric, Gas and Water Areas and one (1) each from the other
+departments combined to be appointed by their respective parties.
+A Chairperson for the first six (6) months shall be chosen by the Union members and by the Division for the second six (6) months and so forth, alternating each six (6) months. All meetings shall be held on twenty-four (24) hours notice on call by the Acting Chairperson or any two (2) members of the Committee.
+The Departmental Safety Committees shall furnish a copy of their monthly reports and minutes to the Joint Union-Management Safety Committee. Upon request of the Joint Union-Management Safety Committee to the Supervisor of Safety and Technical Training, the Committee shall be furnished with the circumstances of fatal or near-fatal accidents. Reports on the above accidents will be sent to the Union Business Manager.
+Action on the recommendations of the Joint Union-Management Safety Committee, including recommendations that an Investigating Committee including one (1) Union and one (1) Management member of the Joint Union-Management Safety Committee among its members be formed to investigate a fatal or near-fatal accident, shall not be unreasonably withheld. Arbitrary disregard of recommendations of the Joint Union-Management Committee shall be subject to the Grievance and Arbitration Procedure of the Memorandum of Understanding.
+Notices shall be posted on all bulletin boards informing employees of the members of the Joint Union-Management Safety Committee and the purpose of the Committee.
+Prior to the issuance of any new safety policy or changes in
+ARTICLE 37
+Holidays
+The designated paid holidays of the Light, Gas and Water Division are: New Year’s Day, Martin Luther King Day, Good Friday, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Day after Thanksgiving Day, Christmas Eve, Christmas Day, and employee’s birthday.
+The employee’s birthday holiday is accrued each year on his/ her birthday and will be taken within twelve months of that date. The birthday holiday will be scheduled in accordance with established vacation scheduling guidelines within each department. The holiday will be taken in eight (8) hour increments.
+If work is performed on a holiday, it shall be paid for in accordance with the overtime provisions in this Agreement.
+With the exception of birthday holidays, pay for holidays worked shall be in accordance with the following:
+1.	If a holiday set forth above falls on Saturday, those employees scheduled on a Monday through Friday shift shall be granted the preceding Friday as the holiday. If the holiday should fall on Sunday, then those employees on a Monday through Friday shift shall be granted the following Monday as the holiday. For all employees not on a Monday through Friday schedule, the calendar holiday shall be observed.
+2.	If an employee’s regular off-day occurs on a holiday and the employee is not given an additional day off, the employee is entitled to double-time pay for his/her first regular work day, in addition to his/her regular pay for the holiday.
+3.	Employees will be paid at straight-time rate of pay for holidays not worked during a period of absence because of illness or accident, but such day will not be charged against sick leave.
+4.	No employee shall be paid overtime for a holiday that oc-ni «k durina his/her vacation, but shall be entitled to an addi-
+be taken at the beginning or end of the employee’s regular vacation.
+ARTICLE 38
+Vacation
+A paid vacation allowance will be given employees based on service time since last date of employment and actual time on the payroll during the preceding year. The amount of vacation time will be determined on January 1 of each year and be based on the number of years of service time and the number of months in the preceding year in which the employee worked or received 100 percent pay for eleven (11) or more days.
+Vacations will be allowed on the following basis:
+1.	For less than 12 months service or less than 12 months time on the payroll during the preceding year, see chart on the following page.
+2.	One (1) but less than six (6) years of service time during preceding years--two (2) weeks.
+3.	Six (6) but less than seven (7) years of service time during preceding years--two (2) weeks and one (1) day.
+4.	Seven (7) but less than eight (8) years of service time during preceding years-two (2) weeks and two (2) days.
+5.	Eight (8) but less than nine (9) years of service time during preceding years--two (2) weeks and three (3) days.
+6.	Nine (9) but less than ten (10) years of service time during preceding years--two (2) weeks and four (4) days.
+7.	Ten (10) but less than fifteen (15) years of service time during preceding years--three (3) weeks.
+8.	Fifteen (15) but less than twenty (20) years of service time during preceding years-four (4) weeks.
+9.	Twenty (20) but less than thirty-five (35) years of service time during preceding years-five (5) weeks.
+10.	Thirty-five (35) or more years of service time during preced-irtri	ruv /O\
+NUMBER OF WORKDAYS OF VACATION ACCRUED
+Year(s) of Continuous Service	Ibtal Vacation Accruing Months
+During Previous
+Year	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec
+1	2	3	4	5	6	7	8	9	10	11	12
+0.00-5.99	1	2	3	4	5	5	6	7	8	9	10	10
+6.00-6.99	1	2	3	4	5.5	5.5	7	8	9	10	11	11
+7.00-7.99	1	2	4	5	6	G	7	8	10	11	12	12
+8.00-8.99	1	3	4	5	6.5	6.5	8	9	10	12	13	13
+9.00-9.99	1	3	4	5	7	7	8	10	12	13	14	14
+10.00-14.99 1.5	3	4.5	6	7.5	7.5	9	10.5	12	13.5	15	15
+15.00-19.99 2	4	6	8	10	10	12	14	16	18	20	20
+20.00-34.99 2.5	5	7.5	10	12.5	12.5	15	17.5	20	22.5	25	25
+35orMore 3	6	9	12	15	15	18	21	24	27	30	30
+The “Vacation Season” shall be from January 1 through December 31 of each year and vacations will be granted, so far as possible, at the time most desired by the employees.
+Employees shall be given the choice of vacation periods in order of their Division seniority within the department where they are assigned. An employee moving into a new vacation group after vacations have been selected in that new group will not be permitted to displace employees who have already selected a vacation period.
+The Department Head of each department shall determine how many employees of each classification may be on vacation at any one time in order not to interrupt the orderly and efficient operation of the department.
+Any permanent employee whose employment is terminated for any reason shall be considered as having accrued vacation pay on a prorata monthly basis from the beginning of his/ her second six (6) months, but less than one (1) year, or from the beginning of his/her latest year of continuous employment if he/she has been employed for more than one (1) year; and the employee shall be paid, in addition to sums otherwise due
+accrued vacation time hereunder, periods of eleven (11) days or less shall be disregarded and periods in excess of eleven (11) days shall be counted as full months.
+In case of an emergency involving sickness, accident, or death of a member of the employee’s family in which the employee’s absence from work is required, and when the employee has no vacation time remaining, he/she may use vacation time already accrued for the following year, up to a limit of five (5) days per year.
+ARTICLE 39
+Sick Leave
+All new permanent employees will serve the required probationary period with the Division before being eligible to receive sick pay.
+Sick leave is accrued at the rate of one (1) day per month and the amount an employee can accumulate is unlimited. Accrual begins on date of employment and days are accrued for any month in which an employee receives 100 percent pay for eleven (11) or more workdays in a calendar month.
+Time that will not count toward sick leave accrual includes:
+(a)	time not worked while on military leave
+(b)	time while on the insured benefit of Salary Continuation
+(c)	time whiie on authorized leave of absence
+(d)	time worked during any prior (not current) term of employment
+Accrued sick leave is reduced by the number of workdays an employee is paid due to illness or accident, except absences due to occupational disabilities.
+Sick leave is to be used exclusively for absences due to the employee’s own illness or accident.
+Proof of illness shall be required when evidence of abuse
+exists. Whenever an employee is required to bring proof of illness, the employee shall not be paid for the first day of sick leave during any occurrence as long as he/she is under this requirement. In addition, every employee must provide a physician's statement verifying his/her disability on the fifth day of absence and each twentieth day thereafter.
+The Salary Continuation Insurance Program will pay benefits beginning with the first day after all accrued sick leave has been used by the employee, except in cases where an employee has less than fifteen (15) workdays (same as twenty-one (21) calendar days) of accrued sick leave since the insured program will not pay benefits earlier than the twenty-second calendar day of an absence because of a qualified disability.
+An employee may at his/her option elect to take any unused vacation time after his/her sick leave is depleted to avoid a period when the employee would receive no compensation or only the 60 percent disability payment; example, during the waiting period before insured benefits begin or a period when the employee’s salary would be reduced to the 60 percent disability payment.
+A disabled employee will be placed on 60 percent of base salary under the insured portion of the Division's Salary Continuation Program only if the employee elected to participate in the Program and qualifies under the rules of the Program.
+The Division will comply with Tennessee law on Worker’s Compensation. In an effort to assist employees, the Division will post official notices in al) work centers listing the requirements an employee must meet under Tennessee Worker’s Compensation Law.
+A monthly list of all Bargaining Unit employees who are on the Insurance payroll will be sent to the Union office.
+Realizing the potential impact that sick leave has upon the nroductivitv of the work force and the abilitv to maintain a com-
+petitive advantage, both the Union and Management agree to form a Joint Committee for the purpose of exploring various options which would insure that the original intent of the sick leave benefit is maintained and that any adverse effects are minimized. This committee will be charged with the responsibility of analyzing the program, recommending program design changes, and continuously monitoring the results to insure that the above-stated objective is achieved and maintained.
+Bonus Days
+After completion of three (3) months of service, an employee who works three (3) consecutive months without using more than six (6) hours sick leave, or any unauthorized absence, may choose either one (1) day’s bonus pay or one (1) bonus day leave with pay, to be granted within twelve (12) months from the day it is earned. Bonus days will be earned in a like manner for subsequent three (3) month periods so that an employee may earn up to four (4) bonus days a year.
+Bonus pay will not be considered compensation for pension purposes nor will pension contributions be deducted from it.
+Sick Leave Pay at Retirement
+Employees shall be compensated for accumulated, unused sick leave at retirement and may select either of the following options:
+(A) 42 percent of total sick leave or (B) 100 percent of the first 65 days.
+Employees hired on or after January 1,1998 shall be limited to Option A.
+The amount of payment for unused sick leave is to be calculated at the employee’s rate of pay in effect on the payday immediately preceding the employee’s retirement. Such payment shall not be counted as compensation for the purpose of computing pension benefits.
+the payday immediately preceding such sale. However, any employee who sells sick leave prior to retirement shall be limited to Option A.
+ARTICLE 40
+Meals
+When any employee is required by his/her Supervisor to work straight through a regular mealtime and is not allowed time to leave the job to eat, the employee will be provided with a meal at the Division’s expense, and is not entitled to any additional reimbursement for a meal. This does not apply to shift employees who have reasonable notification of overtime.
+An employee who is on overtime and is released from the job long enough to eat is required to provide his/her own meal and is not paid for time off the job to eat. Employees who are on overtime and are required to eat their meals on the job site or who are required to report their location and are routinely subject to call during meal periods shall not be considered released for the purpose of this paragraph.
+Employees on overtime will normally be allowed to eat at mealtimes.
+ARTICLE 41
+Shift Differential Pay
+An employee who works a straight time shift which starts prior to 6:00 a.m. or which extends beyond 6:00 p.m. will receive shift differential pay as follows:
+Any hours worked between the hours of 3:00 p.m. and 11:00 p.m...4 percent of employee's hourly wage or a minimum of $.65 per hour
+Any hours worked between the hours of 11:00 p.m. and 7:00 a.m...5 percent of employee's hourly wage or a minimum of $.65 nar hni ir
+For employees who are eligible for shift differential, the appropriate premium rate shall be applied to overtime worked when the overtime is immediately prior to and/or immediately following the straight time shift on which shift differential is applied. Overtime will be calculated on the straight time rate.
+ARTICLE 42
+Salary Schedule
+BARGAINING UNIT SALARY SCHEDULE (Hourly)
+Effective January 1,2002
+Grade	Stept	Step 2	Step 3	Sten 4	Sieu5
+I	$9.40	$ 10.25	$ 10.74	$11.27	$12.03
+II	10.01	10.90	11.48	12.40	12.96
+III	10.40	11.34	12.08	13.20	13.71
+IV	10.92	11.92	12.76	14.07	14.38
+V	11.78	12.98	13.71	14.67	15.58
+VI	12.70	13.95	14.90	15.84	16.59
+VII	13.68	15.19	16.07	16.87	17.96
+VIII	14.71	16.30	17.12	18.16	19.24
+IX	16.69	17.60	18.50	19.57	20.59
+X	16.88	18.26	19.79	20.88	21.92
+XI	17.76	19.36	20.68	22.22	23.30
+XII	18.73	20.40	21.81	23.66	24.67
+XIII	19.43	21.16	22.72	25.13	25.88
+XIV	20.18	22.21	23.66	26.27	27.05
+XV	20.94	23.05	24.70	27.40	28.33
+Effective January 1,2003
+Grade	Stent	sms	Step 3	Sten 4	StenS
+I	$ 9.73	$ 10.61	$11.12	$11.66	$ 12.45
+II	10.36	11.28	11.88	12.83	13.41
+III	10.76	11.74	12.50	13.66	14.19
+IV	11.30	12.34	13.21	14.56	14.88
+V	12.19	13.43	14.19	15.18	16.13
+VI	13.14	14.44	15.42	16.39	17.17
+VII	14.16	15.72	16.63	17.46	18.59
+VIII	15.22	16.87	17.72	18.80	19.91
+IX	17.27	18.22	19.15	20.25	21.31
+X	17.47	18.90	20.48	21.61	22.69
+XI	18.38	20.04	21.40	23.00	24.12
+XII	19.39	21.11	22.57	24.49	25.53
+XIII	20.11	21.90	23.52	26.01	26.79
+XIV	20.89	22.99	24.49	27.19	28.00
+
+Effective January 1,2004
+grade	Slept	Step 2	Step 3	Step 4	SteoS
+i	$ 10.07	$10.98	$ 11.51	$12.07	$ 12.89
+H	10.72	11.67	12.30	13.28	13.88
+in	11.14	12.15	12.94	14.14	14.69
+IV	11.70	12.77	13.67	15.07	15.40
+V	12.62	13.90	14.69	15.71	16.69
+VI	13.60	14.95	15.96	16.96	17.77
+VII	14.66	16.27	17.21	18.07	19.24
+VIII	15.75	17.46	18.34	19.46	20.61
+IX	17.87	18.86	19.82	20.96	22.06
+X	18.08	19.56	21.20	22.37	23.48
+XI	19.02	20.74	22.15	23.81	24.96
+XII	20.07	21.85	23.36	25.35	26.42
+XIII	20.81	22.67	24.34	26.92	27.73
+XIV	21.62	23.79	25.35	28.14	28.98
+XV	22.43	24.70	26.45	29.35	-	30.35
+Minimum time interval between Steps within Grades is one (1) year, with the following exceptions:
+A.	In Grades 1 and 2 the minimum time interval between all
+Steps is six (6) months.
+B.	The minimum time interval between Steps 1 and 2 of all Grades is six (6) months.
+C.	The minimum time interval for a Utility Worker I to advance to a Utility Worker II is normally 12 months.
+ARTICLE 43
+Re-Opener
+Both parties agree that if by August 15th, during the life of this Memorandum, either party requests in writing, negotiations on Article 21 - Insurance, the party requesting a change will state the specific nature of the change. The parties will negotiate insurance matters beginning on September 1st to be completed by November 1st of that year. If the Division re-opens negotiations, wages will also be re-opened. The applicable negotiated wage rate reflected in Article 42 will not be reduced as a result of any re-opener.
+ARTICLE 44
+Term of Agreement
+This Memorandum of Understanding shall take effect January 1,2002, and shall remain in full force and effect until January 1,2005, and shall be automatically renewed for yearly periods thereafter unless either party notifies the other in writing at least six (6) months prior to the expiration date of a desire to change or terminate this Memorandum of Understanding.
+When notice for change is given, the nature of the change desired must be specified in writing and until the parties have agreed upon such change the provisions of this Memorandum of Understanding shall remain in full force and effect. Other changes or necessary amendments so agreed upon shall supersede the affected portions of this Memorandum of Understanding in a manner and at a time agreeable to both parties. All changes must be in writing and signed by authorized representatives of the Division and the Union, and approved by the International Office of the Union.
+It is understood by both parties that by mutual consent this Memorandum of Understanding can be changed at any time, however, any changes agreed to shall be reduced to writing and signed by both parties and approved in the same manner as this Memorandum of Understanding.
+MEMORANDUM OF UNDERSTANDING
+From
+January 1,2002 To
+January 1,2005
+The parties agree that the Memorandum of Understanding language effective January 1, 2002, to January i, 2005, with the attached changes, constitute a new Memorandum of Understanding effective January 1,2002, to January 1,2005.
+HERMAN MORRIS, JR.
+President & CEO
+Memphis Light, Gas and Water Division ,
+ALONZO WEAVER
+Vice President, Operations
+MLGW Negotiating Team
+BARBARA RICHMAN
+Manager, Labor Relations
+MLGW Negotiating Team
+WAYNE SHANNON
+Assistant Manager, Labor Relations
+MLGW Negotiating Team
+EDDIE BAKER
+Manager, Customer Service Field Operations
+MLGW Negotiating Team
+JOHN COLLINS
+Manager, Distribution Support
+MLGW Negotiating Team
+MARY STEWART
+Manager, Electric Operations
+MLGW Negotiating Team
+JEFF WEINTRAUB
+Attorney
+MLGW Negotiating Team
+WILLIAM ‘RICK’ THOMPSON
+Business Manager
+I.B.E.W. Local Union 1288
+BRENT E. HALL
+President
+I.B.E.W. Local Union 1288
+GERALD BOYD
+Contract Committee Member
+I.B.E.W. Local Union 1288
+J. D. COX
+Vice President
+I.B.E.W. Local Union 1288
+REGINALD RANDOLPH
+Executive Board
+I.B.E.W. Local Union 1288
+CHARLES TEAMER
+Contract Committee Member
+I.B.E.W. Local Union 1288
+MARK ALLEN
+Attorney
+I.B.E.W. Local Union 1288
+JOB CODE	CLASSIFICATION TITLE	occ LOP	GRADE
+ZZ002	STRATEGIC PLNG/QUALTTY AREA 100620 - SPECIAL PROJECTS CLERICAL SUPPORT II	B	IV
+AREA 100630 - WORK MANAGEMENT QUALITY CONTROL
+NN132	ESTIMATOR	B	XI
+	CORPORATE COMMUNICATIONS		
+	AREA 100710 - COMMUNICATION PROD & DIST		
+AA360	LEAD, COMM. PROD.	LOP	XI
+AA361	OFFSET PRESS OPERATOR	B-ELOP	IX
+ZZ005	LEAD CLERICAL SUPPORT V	LOP	VII
+AA345	LEAD CLERK, MAIL DISTRIBUTION	LOP	VII
+ZZ004	CLERICAL SUPPORT IV	,B	VI
+AA359	PRINT SHOP WORKER	BIV	
+ZZ002	CLERICAL SUPPORT II	LOP	IV
+ZZ001	CLERICAL SUPPORT 1	B-ELOP	III
+	VICE PRESIDENT AND GENERAL COUNSEL		
+	AREA 200330 - PURCHASING		
+ZZ004	CLERICAL SUPPORT V	LOP	VI
+ZZ003	CLERICAL SUPPORT III	LOP	V
+ZZ002	CLERICAL SUPPORT II	B-ELOP	IV
+	LEGAL SERVICES AREA 200110-CLAIMS		
+SS909	CLAIMS PROCESSOR	B	VI
+	GENERAL ACCOUNTING		
+	AREA 310120 - MANAGEMENT ACCOUNTING		
+AC646	ACCOUNTING REP. V	B	X
+AC645	ACCOUNTING REP. IV	LOP	IX
+AC642	ACCOUNTING REP. 1	B-ELOP	VI
+	AREA 310120 - ACCOUNTS PAYABLE		
+AC645	ACCOUNTING REP. IV	LOP	IX
+AC643	ACCOUNTING REP. II	LOP	VII
+AC642	ACCOUNTING REP. 1	LOP	VI
+CC143	OFFICE CLERK	B-ELOP	IV
+ZZ002	CLERICAL SUPPORT II	B	IV
+	BUDGET, PLANT & RATES AREA 310222 - PROPERTY ACCOUNTING		
+AC646	ACCOUNTING REP. V	B	X
+AC643	ACCOUNTING REP. II	B	VII
+OCC
+LOP GRADE
+JOB
+CODE CLASSIFICATION TITLE
+PAYROLL/CASH1ERS/BANK1NG
+AREA 310610 - CASHIERING OPERATIONS
+SS049	MINI COMPUTER OPERATOR	LOP	IX
+SS065	ADJUSTMENTS TELLER!.	OP	VI
+SS059	TELLER	B-ELOP	VI
+SS074	RETURNED CHECKS PROCESSOR	LOP	VI
+SS442	TOTAL REMIT PROC. OPERATOR	LOP	VI
+TRAINING & ORGANIZATIONAL DEVELOPMENTAREA 420210 - SAFETY & TECHNICAL TRAINING
+PP949 SAFETY EQUIPMENT TESTER	B X
+	ZZ002	FACILITIES MANAGEMENT AREA 420400 - FACILITIES MANAGEMENT - MGR’S OFFICE		
+		CLERICAL SUPPORT II	B	IV
+		AREA 420425 - BUILDING CONSTRUCTION & MAINTENANCE		
+	AA099	CREW LEADER, ELECTRICIAN	LOP	XIII
+!	AA214	LD HTG, VENT/AIR-COND TECH	LOP	XIII
+	AA386	LEAD PLUMBER	LOP	XIII
+	AA951	ELECTRICIAN	B-ELOP	XII
+	EE440	SP MECH BRKLYR (MAS)	LOP	XII
+	AA206	HTG, VENT & AIR-COND TECH	B-ELOP	XII
+	EE603	LD ELECTR MAINT MECH	LOP	XII
+	AA387	PLUMBER	B-ELOP	XII
+	EE706	CREW LEADER, CARPENTRY	LOP	XII
+	EE604	ELECTRICAL MAINT MECH	B-ELOP	XI
+	EE707	CARPENTER	B-ELOP	XI
+	EE650	LOCKSMITH	B	X
+	EE631	COMMERCIAL SIGN DESIGNR.	B	X
+	EE637	CREW LEADER, ROOFING	LOP	X
+	EE636	ROOFER	B-ELOP	IX
+	EE545	UTILITY WORKER	B	Vlt
+	FM781	UTILITY WORKER II	LOP	VI
+	EE441	BRICKLAYER HELPER	B-ELOP	VI
+	FM780	UTILITY WORKER 1	B-ELOP	IV
+	ZZ002	CLERICAL SUPPORT II	B	IV
+OCC
+LOP GRADE
+CODE CLASSIFICATION TITLE
+AREA 420430 - BUILDING SERVICES			
+EE576	CREW EADDER, ROW/GROUNDS MAINT	LOP	IX
+EE577	TRACTOR DRIVER	LOP	VII
+EA547	UTILITY WORKER, ROW/GROUNDS MAINT	B-ELOP	V
+AA984	HOUSEKEEPING INSPCTR.	LOP	V
+AA989	HOUSEKEEPING CREW LDR	LOP	IV
+ZZ002	CLERICAL SUPPORT II	B	IV
+AA988	HOUSEKEEPING ATTENDANT	B-ELOP	II
+	RISK MANAGEMENT/EMPLOYEE BENEFITS AREA 420510 - INSURANCE		
+AC645	ACCOUNTING REP. IV	B	IX
+AC642	ACCOUNTING REP. 1	B	VI
+ZZ002	CLERICAL SUPPORT II	B	IV
+	AREA 420520-PENSION		
+AC642	ACCOUNTING REP. 1	B	VI
+	LABOR RELATIONS - MGR’S OFFICE AREA 420600		
+AA400	IBEW BUSINESS MANAGER	B	XV
+AA401	IBEW ASST BUSINESS MGR	B	XV
+	ACCOUNT SERVICES		
+	AREA 440210 - CREDIT DOWNTOWN BUSINESS OFFICE		
+RA104	CREDIT CLERK	LOP	IX
+SS073	CREDIT COUNSELOR	LOP	IX
+ZZ002	CLERICAL SUPPORT II	LOP	IV
+ZZ001	CLERICAL SUPPORT I	B-ELOP	III
+	AREA 440230 - CREDIT OPERATIONS		
+SS063	COMMERCIAL DEP. CLERK	LOP	IX
+SS067	SOCIAL AGENCY CLERK	LOP	IX
+CSI51	CUST. SERVICE TECH II	B	VIII
+SS064	COLL CONTRL. CLERK	LOP	VII
+SS008	CLERK, LIFE SUPPORT	LOP	VII
+SS053	DELINQUENT ACCTS PROC CLERK	LOP	VI
+ZZ002	CLERICAL SUPPORT II	LOP	IV
+	AREA 440240 ■ NORTH COMMUNITY BUSINESS OFFICE		
+RA104	CREDIT CLERK	LOP	IX
+ZZ001	CLERICAL SUPPORT 1	B-ELOP	III
+JOB	occ
+1	CODE	CLASSIFICATION TITLE	LOP GRADE AREA 440250 - LAMAR COMMUNITY BUSINESS OFFICE
+j	RA104 ZZ001	CREDIT CLERK	LOP	IX CLERICAL SUPPORT I	B-ELOP III AREA 440260 - WHITEHAVEN COMMUNITY BUSINESS OFFICE
+RA104 SS073 ZZ001	CREDIT CLERK	LOP	IX CREDIT COUNSELOR	LOP	IX CLERICAL SUPPORT I	B-ELOP	III AREA 440270 - MILLINGTON COMMUNITY BUSINESS OFFICE
+RA104	CREDIT CLERK	LOP IX AREA 440280 - INFORMATION CENTER
+|	RR158 |	RR892 1	SP892 ZZ003 ZZ002	ACCOUNT RESEARCH ANALYST	LOP	X SERVICE ADVISOR	B-ELOP	IX SERVICE ADVISOR	B-ELOP	IX CLERICAL SUPPORT III	LOP	V CLERICAL SUPPORT II	B-ELOP	IV AREA 440290 - CUSTOMER ACCTS & RECORDS
+1	CC043 s	1	CC050 i	J	CC041 :	I	ZZ004 ZZ002	CUSTOMER ACCTS REP.	LOP	IX POWER LEDGER REP.	LOP	IX CUST. ACCTS PROCESSOR	LOP	VIII CLERICAL SUPPORT IV	LOP	VI CLERICAL SUPPORT II	B-ELOP	IV CUSTOMER SERVICE AREA 440300 CUSTOMER SERVICE - HELD OPS MGR’S OFFICE
+RR852 ZZ003	DATA ENTRY CLERK	B	VI CLERICAL SUPPORT III	B	V AREA 440301 - CUST SVC HELD OPS - TRAINING
+CS152 CS151	CUSTOMER SERVICE TECH III	B-ELOP	XII CUSTOMER SERVICE TECH II	B	VIII
+	AREA 440305 - CUST SVC FIELD OPS - RESIDENTIAL SERVICES		
+ZZ004	CLERICAL SUPPORT IV	LOP	VI
+ZZ003	CLERICAL SUPPORT III	LOP	V
+ZZ002	CLERICAL SUPPORT II	B-ELOP	IV
+	AREA 440310- CUST SERVICE HELD OPS-	SERVICE DISPATCHING	
+RR145	SERVICE DISPATCHER	B	X
+ZZOO4	CLERICAL SUPPORT IV	B	VI
+	AREA 440320 - CUST SERVICE HELD OPS	-NORTH SVC CTR	
+CS152	CUSTOMER SERVICE TECH III	B-ELOP	XII
+CS151	CUSTOMER SERVICE TECH II	B	VIII
+
+JOB	OCC
+CODE	CLASSIFICATION TITLE	LOP GRADE AREA 440325 ■ CUST SVC FLD OPS - METER READING - NSC
+CS150 SP150	CUSTOMER SERVICE TECH I	B	VIII CUSTOMER SERVICE TECH 1	B	VIII AREA 440330 - CUST SERVICE FIELD OPS - SOUTH SVC CTR
+CS152 CS151	CUSTOMER SERVICE TECH III	B-ELOP XII CUSTOMER SERVICE TECH II	B	VIII AREA 440335 - CUST SVC FIELD OPS - METER READING ■ SSC
+CS150 SP150	CUSTOMER SERVICE TECH 1	B	VIII CUSTOMER SERVICE TECH 1	B	VIII AREA 440340 - CUST SERVICE HELD OPS - HH SVC CTR
+CS152 CS151	CUSTOMER SERVICE TECH III	B-ELOP XII CUSTOMER SERVICE TECH II	B	VIII AREA 440345 - CUST SVC HELD OPS - METER READING - HHSC
+CS150 SP150	CUSTOMER SERVICE TECH 1	B	VIII CUSTOMER SERVICE TECH 1	B	VIII AREA 440350 - CUST SERVICE HELD OPS - MILLINGTON SVC CTR
+CS152 CS153 CS151	CUSTOMER SERVICE TECH 111	B-ELOP	XII CUSTOMER SERVICE TECH IV	LOP	XIV CUSTOMER SERVICE TECH II	B	VIII AREA 440360 - CUST SERVICE HELD OPS - BRUNSWICK SVC CTR
+CS152 CS151	CUSTOMER SERVICE TECH III	B-ELOP	XII CUSTOMER SERVICE TECH II	B	VIII INFORMATION SERVICES AREA 450110 - DATA PROCESSING
+RR852 AA317	DATA ENTRY CLERK	B	VI TELEPHONE OPERATOR	B	IV AREA 450140 - MICROHLM
+ZZ005 ZZ003	LEAD CLERICAL SUPPORT V	LOP	VII CLERICAL SUPPORT 111	B-ELOP	V AREA450170-FACILIT1ESINFORMAT1ONSYSTEM DEVELOPMENT
+ZZ002	CLERICAL SUPPORT II	B	IV
+
+JOB CODE	CLASSIFICATION TITLE	occ LOP	GRADE
+ZZ003	VICE PRESIDENT - ENGINEERING AREA 510010 - TELECOMMUNICATIONS ENGINEERING CLERICAL SUPPORT III	B	V		
+GG237	GAS/WATER ENGINEERING AREA 510220 - GAS ENGINEERING GAS SERVICE REP, DIST	BB	XI
+EE428	DRAFTER II	LOP	X
+EE414	DRAFTER I	LOP	VIII
+GG966	DRAFTER DETAILER	B-ELOP	VI
+ZZ002	CLERICAL SUPPORT II	B	IV
+WW809	AREA 510230 - WATER ENGINEERING WATER SERVICE REP.	B	XI
+EE428	DRAFTER II	LOP	X
+EE414	DRAFTER I	B-ELOP	VIII
+ZZ002	CLERICAL SUPPORT II	B	IV
+NN294	AREA 510240 - RESIDENTIAL ENGINEERING SERVICE REPRESENTATIVE	B		XII
+EE428	DRAFTER II	LOP	x
+NN108	RESIDENTIAL ENG. FIELD REP	B	IX
+NN298	EXTENSION EXPEDITER	B	IX
+EE414	DRAFTER 1	B-ELOP	VIII
+ZZ002	CLERICAL SUPPORT II	B	IV
+GG269	AREA 510250 - LAND & MAPPING LEAD GRAPHIC DESIGNER	LOP	XI
+EE428	DRAFTER II	LOP	x
+EE414	DRAFTER I	LOP	VIII
+GG412	CLERK, ADDRESS ASSIGNMENT	B-ELOP	VI
+GG966	DRAFTER-DETAILER	B-ELOP	VI
+ZZ004	CLERICAL SUPPORT IV	B	VI
+Z2003	CLERICAL SUPPORT III	B	V
+GG964	BLUEPRINT OPERATOR	B	V
+EE395	ELECTRIC ENGINEERING - MGR’S OFFICE AREA 510310 - SUBSTATION & TRANSMISSION ENGINEERING LAYOUT DES SUBST ENGR	LOP	XI		
+EE483	LAYOUT DSGNR., PROT. ENGR	LOP	XI
+EE403	DRAFTER II, SUBST ENGR	LOP	X
+EE428	DRAFTER II	LOP	X
+EE485	DRAFTER II, PROTECTION ENGR	LOP	X
+EE396	DRAFTER I, SUBST ENGR	B-ELOP	VIII
+EE414	DRAFTER I	B-ELOP	VIII
+EE484	DRAFTER I, PROTECTION ENGR	B-ELOP	VIII
+ZZ002	CLERICAL SUPPORT II	o	
+	JOB CODE	CLASSIFICATION TITLE	OCC LOP GRADE	
+		AREA 510360 - RELIABILITY & POWER QUALITY		
+	EE481	COORDINATOR MAPPING DATA	LOP	XI
+	GG269	LEAD GRAPHIC DESIGNER	LOP	XI
+	EE428	DRAFTER II	LOP	X
+	GA907	LEAD CLERK, FACILITIES ENGR	LOP	VIII
+	EE414	DRAFTER I	LOP	VIII
+I	GG966	DRAFTER DETAILER	B-ELOP	VI
+	ZZ004	CLERICAL SUPPORT IV	B-ELOP	VI
+	NN319	CLERK, RELIABILITY RECORDS	B	VI
+	ZZ002	CLERICAL SUPPORT II	B	IV
+1		AREA 510370 - ELECTRIC DISTRIBUTION ENGINEERING		
+	EE427	LAYOUT DESIGNER	LOP	XI
+	EE428	DRAFTER II	LOP	X
+	EE414	DRAFTER 1	B-ELOP	VIII
+g	ZZ002	CLERICAL SUPPORT II	B	IV
+		AREA 510380 - PLANNING & SYSTEM ENGINEERING		
+	EE427	LAYOUT DESIGNER	LOP	XI
+	NN304	LEAD, STANDARDS DESIGNER	LOP	XI
+	NN322	MATERIALS LAB, TECHNICIAN	B	XI
+£	EE428	DRAFTER II	LOP	X
+	EE414	DRAFTER I	B-ELOP	VIII
+	ZZ002	CLERICAL SUPPORT II	B	IV
+		AREA 510390 - PROPERTY MANAGEMENT & SURVEY		
+	EE416	SURVEY PARTY CHIEF	LOP	XI
+	EE167	SURVEY EXPEDITER	LOP	XI
+	EE428	DRAFTER II	LOP	X
+	EE970	INSTRUMENT OPERATOR	LOP	IX
+	EE414	DRAFTER I	B-ELOP	VIII
+	ZZ004	CLERICAL SUPPORT IV	LOP	VI
+	EE969	SURVEYOR ASSISTANT	B-ELOP	VI
+	ZZ002	CLERICAL SUPPORT II	B-ELOP	IV
+		ENERGY SERVICES & MARKETING		
+		AREA 511020 - COMMERCIAL & LIGHTING SERVICES		
+	ZZ003	CLERICAL SUPPORT III	B-ELOP	V
+		AREA 511040 - COMMERCIAL RESOURCE CENTER		
+	ZZ004	CLERICAL SUPPORT IV	LOP	VI
+	ZZ003	CLERICAL SUPPORT III	B-ELOP	V
+		ELECTRIC OPERATIONS		
+		AREA 520100 - ELECTRIC OPERATIONS •	■ MGR’S OFFICE	
+JOB CODE
+CLASSIFICATION TITLE
+OCC LOP GRADE
+AREA 520110 - SUBSTATION MAINTENANCE & CONSTRUCTION
+	EE469	CREW LDR, SUBST. ELECT.	LOP	XIII
+	EE464	SUBST. ELECTRICIAN	LOP	XII
+	EE466	SHOP ELECTRICIAN	LOPX	II
+	EE954	SUBSTATION ELECT. APPR.	B-ELOP	IX
+	EE492	CREW LEADER CONST. HELPER	LOP	VIII
+	EE490	HELPER, CONST. & MAINT.	B-ELOP	VII
+		AREA 520130 - POWER TESTS & STANDARDS LAB		
+	EE495	ELECTRONICS INSTRUMENT TECH.	B	XIII
+	EE471	CREW LDR, CIRCUIT BRKR ELECTRICIAN	LOP	XIII
+	EE523	CREW LEADER, TEST TECHNICIAN	LOP	XIII
+	EE463	CIRCUIT BREAKER ELECTRICIAN	LOP	XII
+	EE524	TEST TECHNICIAN	LOP	XII
+	EE954	SUBST ELECTRICIAN APPRENTICE	B-ELOP	IX
+	EE962	TEST TECH APPRENTICEB-ELOPIX		
+		AREA 520140 - ELECTRIC METER		
+	EE077	LEAD ELECTRONIC MTR TECH.	LOP	XIII
+	EE078	ELECTRONIC MTR TECHNICIAN	B-ELOP	XII
+	EE543	CREW LDR, ELEC. MTR FLO TECH	LOP	XII
+I	EE254	ELECTRONIC MTR FLD TECH.	LOP	XI
+r	EE253	ELEC METER SHOP TECH.	LOP	X
+1:	EE300	CREW LEADER, STORES	LOP	X
+r	EE119	ELECTR MTR FLD TECH APPR.	B-ELOP	IX
+	EE343	MATERIAL HANDLER	LOP	VIII
+I;	EE515	INDUSTRIAL METER READER	B	VIII
+	EE088	ELEC. MTR SHOP TECH APPR.	B-ELOP	VIII
+,	GG092		CLERK, ROUTESAND FILES	B	VII
+	EE344	UTILITY WORKER, STORES	B-ELOP	V
+;ZZOO2		CLERICAL SUPPORT 1!	B	IV
+1;		AREA 520150 - COMPUTERS & CONTROL SYSTEMS		
+J	EE530		CREW LDR, ELECTRONICS TECH	LOP	XV
+11	'	EE527		ELECTRONICS TECHNICIAN	B-ELOP	XIV
+1 I	EE550		CREW LEADER, TELECOMM. TECH	LOP	XIV
+EE470		ELECTRONICS COMM TECHNICIAN	B	XIII
+I 1	EE525		TELECOMMUNICATION TECHNICIAN	LOP	XIII
+1 i	EE963		TELECOMM. TECH APPR.	B-ELOP	IX
+
+i	JOB CODE	CLASSIFICATION TITLE	OCC LOP	GRADE
+	EEB01	AREA 520160 - TRANSFORMERS & PAINTING CREW LEADER, TRANS. REPAIRER	LOP		XII
+	EE602	TRANSFORMER REPAIRER	LOP	1
+	EE869	CREW LEADER, MAINT. PAINTER	LOP	XI
+	EE870	PAINTER, MAINTENANCE	B-ELOP	X
+	EE632	TRANSFORMER REPAIRER, APPR.	LOP	IX
+	EE612	UTILITY WORKER, TRANSFORMERS	B-ELOP	VI
+	ZZ004	CLERICAL SUPPORT IV	B	VI
+	ZZ002	CLERICAL SUPPORT II	B	IV
+l	ZZ003	GAS OPERATIONS AREA 520200 - GAS OPERATIONS - MGR’S OFFICE CLERICAL SUPPORT III	B		V
+	GG526	AREA 520210 - GAS MEASUREMENT INSTRUMENT TECH	B	XIII
+	GG752	LD IND GAS METER REPAIRER	LOP	X
+	GG769	GAS METER REPAIRER (FIELD)	LOP	X
+	GG751	GAS METER FINAL PROVER	LOP	X
+	GG759	INO GAS ACCOUNTING CLERK II	LOP	VIII
+	GG758	IND GAS ACCOUNTING CLERK 1	B-ELOP	VII
+	GG735	CHART CHANGER	B	VII
+	GG754	GAS METER FINISHER	LOP	VI
+	GG757	GAS METER SHOP WORKER	LOP	V!
+9	GG977	HELPER, SALVAGE & MATERIAL	B-ELOP	V
+3	GG731	AREA 520220 - PRESSURE REGULATION CREW LEADER, PRESSURE REGULATION	LOP	XII!
+	GG732	GAS REGULATOR REPAIRER	B-ELOP	XII
+9	GG745	AREA 520230 - GAS FITTERS GAS FITTER	LOP	XII
+	GG756	GAS FITTER APPRENTICE	B-ELOP	IX
+	GG092	CLERK.ROUTES & FILES	B	VII
+AREA 520250 - LIQUEFIED NATURAL GAS PLANT - ARLINGTON
+GG722	CREW LEADER, LNG MAINTENANCE	B	XV
+GG526	INSTRUMENT TECHNICIAN	B	XIII
+GG720	OPERATOR, LNG PLANT	LOP	XIII
+GG363	MAINT MECH LNG PLANT	B-ELOP	XII
+ZZ003	CLERICAL SUPPORT III	B	V
+AREA 520260 - GAS SERVICE - COMM. INDUSTRIAL SECTION
+GG740 INDUSTRIAL GAS SERVICE REP	LOP	XII
+GA746 GAS WELDER-INSTALLER, METERS	B-ELOP	XI
+JOB CODE	CLASSIFICATION TITLE	occ LOP	GRADE
+GG533 GG305	AREA 520270 - CORROSION CONTROL CORROSION CONTROL TECHNICIAN CORROSION CONTROL SURVEYOR	LOP B-ELOP	X VIII
+ZZ002	WATER OPERATIONS - MGR’S OFFICE AREA 520300 CLERICAL SUPPORT II	B-ELOP	IV
+AREA 520330 - WATER PLANT OPERATIONS & MAINTENANCE
+WW813	INSTRUMENT TECHNICIAN	B	XIII
+WW836	MAINTENANCE ELECTRICIAN	B-ELOP	XII
+WW821	CREW LEADER, MECH MAINT	LOP	XII
+WW820	MAINTENANCE MECHANIC	B-ELOP	XI
+WW834	WATER TREATMENT OPERATOR	B AREA 520340 - WATER SUPPLY	IX
+WW333	CREW LEADER, PUMPS	LOP	XI
+WW846	WELL TENDER	LOP	X
+WW847 WW843	WELL TESTER	LOP PUMP REPAIRER B-ELOP	VI AREA 520350 - WATER METER	VIII
+WW818	IND/COMM METER REPAIRER II	LOP	X
+WW822	LEAD, METER REPAIRER	LOP	IX
+WW823	IND/COMM METER REPAIRER 1	LOP	IX
+WW815	METER REPAIRER	LOP	VIII
+WW814	FIELD REPAIRER, WATER METERS	LOP	VIII
+WW092	CLERK, ROUTES AND FILES	LOP	VII
+GG977	HELPER, SALVAGE & MATERIAL	B-ELOP	V
+WW817	HELPER, WATER SERVICE	B-ELOP	V
+ZZ002	CLERICAL SUPPORT II	B-ELOP WATER QUALITY ASSURANCE LAB - MGR’S OFFICE AREA 520500	IV
+WW810	LABORATORY TESTER	B	VIII
+2Z002	CLERICALSUPPORT II	B	IV
+SYSTEMS OPERATION & ENERGY RESOURCES
+AREA 520600 - SYS. OP. & ENERGY RESOURCES - MGR’S OFFICE
+ZZ002 CLERICAL SUPPORT II	B IV
+!l
+CODE
+EE428
+NN157
+EE414
+GA905 EE436 ZZ004 ZZ003
+ZZ002
+CLASSIFICATION TITLE	OCC LOP	GRADE
+AREA 520610 - SYSTEMS CONTROL -	ELECTRIC	
+DRAFTER II	LOP	X
+INSPECTOR-OPERATOR	B	X
+DRAFTER I	B-ELOP	VIII
+DISTRIBUTION SUPPORT AREA 550200 - DISTRIBUTION SUPPORT - MGR’S OFFICE		
+CONSTRUCTION COORDINATOR	B	XI
+JOB COORDINATOR BX CLERICAL SUPPORT IV	B	VI
+CLERICAL SUPPORT III	B	V
+CLERICAL SUPPORT II	B	IV
+AREA 550201 - DUMMY MATRIX - DISTRIBUTION SUPPORT
+GG780	UTILITY WORKER I	B-ELOP	IV
+EE577	AREA 550205 - RECYCLING TRACTOR DRIVER	B	VII
+EE589	AREA 550240 - ELECTRIC DISTRIBUTION -DISTRIBUTION SUPPORT CREW LEADER, CABLE SPLICING	LOP	XV
+EE591	CABLE SPLICER	LOP	XIII
+EE555	CREW LEADER, OPERATOR	LOP	XII
+EE592	APPRENTICE CABLE SPLICER	LOP	IX
+EE941	MACHINE OPERATOR (ELEC)	LOP	VIII
+EE593	CABLE SPLICER HELPER (PRE-APP)	B-ELOP	VII
+EB547	UTILITY WORKER II	LOP	VI
+EE780	UTILITY WORKER 1	B-ELOP	IV
+AREA 550245 - GENERAL CONSTRUCTION & STREET REPAIR
+GG266	CREW LEADER, STREET REPAIR	LOP	X
+SR941	MACHINE OPERATOR, ST REPAIR	LOP	VIII
+GG556	LEAD UTILITY WORKER, ST REPAIR	LOP	VI
+GG557	UTILITY WORKER, STREET REPAIR	B-ELOP	V
+	AREA 550246 - GENERAL CONSTRUCTION		
+DS702	CREW LEADER, GEN. CONST.	LOP	XII
+DS701	GEN. CONST., CARPENTER	LOP	XI
+DS700	LD UTILITY WORKER, GEN. CONST	LOP	VII
+DS781	UTILITY WORKER II	LOP	
+DS780	UTILITY WORKER 1	B-ELOP	IV
+OCC
+LOP GRADE
+JOB CODE CLASSIFICATION TITLE
+AREA 550255 - CONSTRUCTION & MAINTENANCE
+SUPPORT - WATER			
+WW937	CREW LEADER, UTIL.SVC (W&G)	LOP	XII
+WW771	CREW LDR, VALVE/HYDRANT MAINT.	LOP	X
+WW741	LEAD PIPELAYER	LOP	IX
+WW941	MACHINE OPERATOR (WATER)	LOP	VIII
+WW736	UTILITY WORKER II	LOP	VI
+WW789	HELPER, PURIFICATION	—...	VI
+WW780	UTILITY WORKER I	B-ELOP	IV
+	AREA 550256 - CONSTRUCTION & MAINTENANCE		
+	SUPPORT-TOOL ROOM		
+EE447	LEAD MECH., TOOLS & SM. ENG	LOP	XI
+EE446	MECH., TOOLS & SMALL ENG	B-ELOP	X
+EE431	STOCK KEEPER (DIST. SPT.)	B	VII
+EE445	TOOL ISSUE & REPAIRER	B	VI
+ZZ002	CLERICAL SUPPORT II	B	IV
+AREA 550269 - ELECTRIC DISTRIBUTION -TRBLSHOOT & CUST SVC
+EE574	TRBLSHOOTR/CUST. SVCE REP	LOP	XV-4
+EE575	TRBLSHOOTR	LOP	XIV
+AREA 550270 - TROUBLESHOOTING & SYSTEM MAINTENANCE
+EE574	TROUBLES HOOTER/CSR	LOP	XV-4
+EE541	CREW LEADER, LINEMAN	LOP	XV
+EE575	TROUBLESHOOTER	LOP	XIV
+EE540	LINEMAN	LOP	XIII
+EE555	CREW LEADER, OPERATOR	LOP	XII
+TP542	APPRENTICE LINEMAN	LOP	IX
+EE941	MACHINE OPERATOR (ELEC)	LOP	VIII
+EE580	STREET LIGHT PATROLLER	LOP	VIII
+EE971	HELPER, SERV. & MAINT.	LOP	VII
+EE544	HELPER, ELEC DIST (PRE-APR)	B-ELOP	VII
+EB547	UTILITY WORKER II	LOP	VI
+EE780	UTILITY WORKER 1	B-ELOP	IV
+AREA 550291- CONSTRUCTION & MAINTENANCE SUPPORT - GAS
+GG772	C/L, SERV CONSTR & MAINT.	LOP	XIII
+EE615	CREW LDR, FABRIC WELDING	LOP	XII
+GG765	COMBINATION WELDER	LOP	XII
+GG784	CREW LDR, GAS/ELEC SERV	LOP	XI
+GG771	C/L, VALVE & HYDRANT MAINTENANCE	LOP	X
+GG941	MACHINE OPERATOR (GAS)	LOP	VIII
+GG776	UTILITY WORKER 11	LOP	VI
+GG780	UTILITY WORKER I	B-ELOP	IV
+	AREA 550298 - FACILITIES LOCATION		
+GA905	CONSTRUCTION COORDINATOR	B	XI
+EE551	CREW LDR, LINE INSPECTION	LOP	X
+GG710	FACILITIES LOCATOR	B	IX
+EE561	LINE INSPECTOR	B-ELOP	VIII
+ZZ003	CLERICAL SUPPORT III	B	V
+TRANSPORTATION
+AREA 550600 - TRANSPORTATION - MGR’S OFFICE
+ZZ003 CLERICAL SUPPORT III	8	V
+AREA 550610 - TRANSPORTATION PARTS AREA
+AA444	MECHANIC	LOP	XI
+AA331	COUNTER-INVENTORY CLERK	B	VII
+AA950	MECHANIC HELPER	B	VI
+	AREA 550613 - MILLWRIGHT/METAL SMITH SHOP		
+EE615	CREW LDR, FABRIC WELDING	LOP	XII
+EE607	FABRICATOR WELDER	LOP	XI
+EE420	CREW LDR, STEEL ERECTOR-MOVER	LOP	XI
+EE608	BLACKSMITH	LOP	XI
+EE880	STEEL ERECTOR-MOVER	B-ELOP	IX
+EE622	FABRICATOR WELDER APPR	B-ELOP	IX
+EE609	BLACKSMITH HELPER	B-ELOP	VI
+EE547	UTILITY WKR, MACH & MTL SHOP	B	V
+AREA 550614 - MACHINE, SHEET MIL, CANVAS SHOP
+EE605	LEAD MAINTENANCE MACHINIST	LOP	XIII
+EE608	MAINTENANCE MACHINIST	B-ELOP	XII
+EE613	LEAD SHEET METAL WORKER	LOP	XI
+EE610	SHEET METALWORKER	B-ELOP	X
+EE617	CANVAS WORKER	B	X
+EE547	UTILITY WORKER, MACH.8 METAL SHOP	B	V
+	AREA 550615 - MACHINE/WELDING SHOP		
+ZZ002	CLERICAL SUPPORT II	B	IV
+AREA 550616 - STOREROOM SUPERVISOR’S OFFICE
+ZZ004 CLERICAL SUPPORT IV	B	VI
+JOB	OCC
+CODE	CLASSIFICATION TITLE	LOP	GRADE
+AA300	AREA 550617 - STOREROOM 85 - PRIMARY STORES CREW LEADER. STORES	LOP		X
+DA300	CREW LEADER, STORES	LOP	X
+AA343	MATERIAL HANDLER	LOP	VIII
+ZZ005	LEAD CLERICAL SUPPORT V	LOP	VII
+ZZ004	CLERICAL SUPPORT IV	LOP	VI
+AA374	TRACTOR-TRAILER DRIVER	LOP	VI
+AA344	UTILITY WORKER, STORES	B-ELOP	V
+AA343	AREA 550618 - INVESTMENT RECOVERY - MATERIAL HANDLER	SALVAGE LOP	VIII
+AA371	TEST & REPAIRER, SALVAGE	LOP	VI
+AA344	UTILITY WORKER, STORES	B-ELOP	V
+AA447	AREA 550620 - OPERATIONS FACILITY GARAGE CREW LEADER, MECHANIC	LOP		XII
+AA444	MECHANIC	LOP	XI
+AA950	MECHANIC HELPER B	VI	
+AA447	AREA 550630 - GARAGE ■ NORTH SERVIC CREW LEADER, MECHANIC	IE CENTER LOP	XII
+AA444	MECHANIC	LOP	XI
+AA443	APPRENTICE MECHANIC	B-ELOP	IX
+AA950	MECHANIC HELPER	B	VI
+ZZ002	CLERICAL SUPPORT II	B	IV
+AA452	AREA 550640 - PAINT & BODY SHOP VEHICLE BODY REPAIRER	B	XI
+AA547	UTILITY WORKER (TRANS.)	B	V
+AA447	AREA 550645 - TIRE SHOP CREW LEADER, MECHANIC	LOP	XII
+AA444	MECHANIC	LOP	XI
+AA950	MECHANIC HELPER	B	VI
+ZZ002	CLERICAL SUPPORT II	B	IV
+AA444	AREA 550650 - HEAVY EQUIPMENT SHOP MECHANIC	LOP	XI
+AA950	MECHANIC HELPER	B	VI
+ZZ003	CLERICAL SUPPORT III	B	V
+AA444	AREA 550660 - GARAGE - SOUTH SERVICE CENTER MECHANIC	LOP		XI
+AA950	MECHANIC HELPER	B	VI
+AA979	HELPER, TRANSP MAINT	8	IV
+JOB	occ
+CODE	CLASSIFICATION TITLE	LOP GRADE AREA 550661 - STOREROOM 88 - SOUTH SERVICE CENTER
+AA300 AA343 AA344	CREW LEADER, STORES	LOP	X MATERIAL HANDLER	LOP	VIII UTILITY WORKER, STORES	8-ELOP	V AREA 550670 - GARAGE - HICKORY HILL SERVICE CENTER
+AA444 AA950	MECHANIC	LOP	XI MECHANIC HELPER	B	VI AREA 550671 ■ STOREROOM 87 ■ HICKORY HILL SERVICE CENTER
+AA300 AA343 AA344	CREW LEADER, STORES	LOP	X MATERIAL HANDLER	LOP	VIII UTILITY WORKER, STORES	B-ELOP	V AREA 550680 - GARAGE - BRUNSWICK SERVICE CENTER
+AA444 AA950	MECHANIC	LOP	XI MECHANIC HELPER	B	VI AREA 550681 - STOREROOM 89 - BRUNSWICK SERVICE CENTER
+AA300 AA343 AA344	CREW LEADER, STORES	LOP	X MATERIAL HANDLER	LOP	VIII UTILITY WORKER, STORES	B-ELOP	V AREA 550690 - HEAVY EQUIPMENT OPERATIONS
+AA955 AA376 AA092 AA950	HEAVY EQUIPMENT OPERATOR	LOP	XI APPR HEAVY EQUIP. OPERATOR	B-ELOP	VIII CLERK, ROUTES AND FILES	B	VII MECHANIC HELPER	B	VI HICKORY HILL SERVICE CENTER AREA 550800 -HICKORY HILL SERVICE CENTER - MGR’S OFFICE
+GA905 22003 ZZ002	CONSTRUCTION COORDINATOR	B	XI CLERICAL SUPPORT III	B	V CLERICAL SUPPORT II	B	IV AREA 550810 - ELECTRIC DISTRIBUTION - HICKORY HILL SVC CTR
+EE541 EE540 EE555 EE642 EE941 EE544 EB547 EE780	CREW LEADER, LINEMAN	LOP	XV LINEMAN	LOP	XIII CREW LEADER, OPERATOR	LOP	XII APPRENTICE UNEMAN	LOP	IX MACHINE OPERATOR (ELEC)	LOP	VIII HELPER ELEC DISTB (PRE-APPR)	B-ELOP	VII UTILITY WORKER II	LOP	VI UTILITY WORKER I	B-ELOP	IV
+OCC
+LOP GRADE
+JOB CODE CLASSIFICATION TITLE
+AREA 550820 - GAS DISTRIBUTION - HICKORY HILL SVC CTR
+GG772	CREW LDR, SRV CNSTR & MAINT	LOP XIII	
+GG784	CREW LDR, GAS/ELEC SERV	LOP	XI
+EE940	CREW LDR, DIREC DRILL (ELEC)	LOP	X
+GG940	CREW LDR, DIREC DRILL (GAS)	LOP	X
+WW940	CREW LDR, DIREC DRILL (WTR)	LOP	X
+DE941	MACH. OPERATOR (ELEC/DRILL)	LOP	VIII
+DG941	MACH. OPERATOR (GAS/DRILL)	LOP	VIII
+DW941	MACH. OPERATOR (WTR/DRILL)	LOP	VIII
+GG941	MACHINE OPERATOR (GAS)	LOP	VIII
+GG776	UTILITY WORKER II	LOP	VI
+GG780	UTILITY WORKER I	B-ELOP	IV
+AREA 550830 - WATER DISTRIBUTION - HICKORY HILL SVC CTR
+WW937	CREW LDR,UTILITY SERV (W&G)	LOP	XII
+WW741	LEAD PIPELAYER	LOP	IX
+WW941	MACHINE OPERATOR (WATER)	LOP	VIII
+WW736	UTILITY WORKER II	LOP	VI
+WW780	UTILITY WORKER I	B-ELOP	IV
+NN294	AREA 550840 - CUSTOMER ENGINEERING - HICKORY HILL SVC CTR		
+	SERVICE REPRESENTATIVE	B	XII
+EE408	DRAFTER II, CUST. ENG.	LOP	X
+NN889	SERVICE EXPEDITER	B	IX
+EE407	DRAFTER I, CUST. ENG.	B-ELOP	VIII
+ZZ003	CLERICAL SUPPORT III	B	V
+	NORTH SERVICE CENTER		
+AREA 550900 - NORTH SERVICE CENTER - MGR’S OFFICE
+GA905	CONSTRUCTION COORDINATOR	B	XI
+ZZ003	CLERICAL SUPPORT III	B	V
+ZZ002	CLERICAL SUPPORT 11	B	IV
+	AREA 550901 - DUMMY MATRIX - NORTH SERVICE CENTER		
+WW780	UTILITY WORKER I	B-ELOP	IV
+	AREA 550910 - ELECTRIC DISTRIBUTION -	NORTH SVC CENTER	
+EE541	CREW LDR, LINEMAN	LOP	XV
+EE586	CREW LDR, URD ELECTRICIAN	B	XV
+EE540	LINEMAN	LOP	XIII
+EE555	CREW LEADER, OPERATOR	LOP	XII
+EE542	APPRENTICE UNEMAN	LOP	IX
+EE941	MACHINE OPERATOR (ELEC)	LOP	VIII
+EE544	HELPER ELEC DIST(PRE-APPR)	B-ELOP	VII
+EB547	UTILITY WORKER 11	LOP	VI
+EE780	UTILITY WORKER!	B-ELOP	IV
+JOB CODE	CLASSIFICATION TITLE	occ LOP	GRADE
+	AREA 550920 - GAS DISTRIBUTION -	NORTH SERVICE CENTER	
+GG772	CREW LDR,		
+	SERV CONSTR & MAINT	LOP	XIII
+GG784	CREW LDR, GAS/ELEC SERV.	LOP	XI
+EE940	CREW LDR, DIREC DRILL (ELEC)	LOP	X
+GG940	CREW LDR, DIREC DRILL. (GAS)	LOP	X
+WW940	CREW LDR, DIREC DRILL (WTR)	LOP	X
+DE941	MACH. OPERATOR (ELEC/DRILL)	LOP	VII!
+DG941	MACH.E OPERATOR (GAS/DRILL)	LOP	VIII
+DW941	MACH. OPERATOR (WTR/DRILL)	LOP	VIII
+GG941	MACH. OPERATOR (GAS)	LOP	VIII
+GG776	UTILITY WORKER II	LOP	VI
+GG780	UTILITY WORKER 1	B-ELOP	IV
+	AREA 550930 - WATER DISTRIBUTION - NORTH SERVICE CENTER		
+WW937	CREW LDR,UTILITY SERV(W & G)	LOP	XII
+WW741	LEAD PIPELAYER	LOP	IX
+WW941	MACHINE OPERATOR (WATER)	LOP	VIII
+WW736	UTILITY WORKER II	LOP	VI
+WW780	UTILITY WORKER 1	B-ELOP	IV
+AREA 550940 - CUSTOMER ENGINEERING - NORTH SVC CENTER
+NN294	SERVICE REPRESENTATIVE	B	XII
+EE408	DRAFTER II, CUSTOMER ENG.	LOP	X
+NN889	SERVICE EXPEDITER	B	IX
+EE407	DRAFTER 1, CUSTOMER ENG.	B-ELOP	VIII
+ZZ003	CLERICAL SUPPORT III	B	V
+BRUNSWICK SERVICE CENTER
+AREA 551000 - BRUNSWICK SERVICE CENTER - MGR’S OFFICE
+GA905	CONSTRUCTION COORDINATOR	B	XI
+ZZ003	CLERICAL SUPPORT III	B	V
+2Z002	CLERICAL SUPPORT II	B	IV
+	AREA 551010 - ELECTRIC DISTRIBUTION -	BRUNSWICK SVC CTR	
+EE541	CREW LDR, LINEMAN	LOP	XV
+EE586	CREW LDR, URD ELECTRICIAN	B	XV
+EE540	LINEMAN	LOP	XIII
+EE555	CREW LDR, OPERATOR	LOP	XII
+EE542	APPRENTICE LINEMAN	LOP	IX
+EE941	MACHINE OPERATOR (ELEC)	LOP	VIII
+EE544	HELPER, ELEC DIST (PRE-APPR)	B-ELOP	VII
+EB547	UTILITY WORKER II	LOP	VI
+EE780	UTILITY WORKER 1	B-ELOP	IV
+JOB CODE	CLASSIFICATION TITLE	OCC LOP	GRADE
+	AREA 551020 - GAS DISTRIBUTION -	BRUNSWICK SERVICE CTR	
+GG772	CREW LDR, SERV CNST & MAINT	LOP	XIII
+GG784	CREW LDR, GAS/ELEC SF.RV	LOP	XI
+EE940	CREW LDR, DIREC DRILL (ELEC)	LOP	X
+GG940	CREW LDR, DIREC DRILL (GAS)	LOP	X
+WW940	CREW LDR, DIREC DRILL (WTR)	LOP	X
+DE941	MACH. OPERATOR (ELEC/DRILL)	LOP	VIII
+DG941	MACH.OPERATOR (GAS/DRILL)	LOP	VIII
+DW941	MACH. OPERATOR (WTR/DRILL)	LOP	VIII
+GG941	MACHINE OPERATOR (GAS)	LOP	VIII
+GG776	UTILITY WORKER II	LOP	VI
+GG780	UTILITY WORKER I	B-ELOP	IV
+AREA 551030 - WATER DISTRIBUTION - BRUNSWICK SVC CTR
+WW937	CREW LDR,UTILITY SERVICE(W&G)	LOP	XII
+WW741	LEAD PIPELAYER	LOP	IX
+WW941	MACHINE OPERATOR (WATER)	LOP	VIII
+WW736	UTILITY WORKER II	LOP	VI
+WW780	UTILITY WORKER 1	B-ELOP	IV
+	AREA 551040 - CUSTOMER ENGINEERING -	BRUNSWICK SVC CTR	
+NN294	SERVICE REPRESENTATIVE	B	XII
+EE408	DRAFTER II, CUST. ENG.	LOP	X
+NN134	RESEARCH ANALYST-CONTRACTOR	B	X
+NN889	SERVICE EXPEDITER	B	IX
+EE407	DRAFTER I, CUST. ENG.	B-ELOP	VIII
+ZZ003	CLERICAL SUPPORT III SOUTH SERVICE CENTER	B	V
+	AREA 551200 - SOUTH SERVICE CENTER -	MGR’S OFFICE	
+GA905	CONSTRUCTION COORDINATOR	B	XI
+NN889	SERVICE EXPEDITER	B	IX
+ZZ003	CLERICAL SUPPORT III	B	V
+ZZ002	CLERICAL SUPPORT II	B	IV
+	AREA 551201 - DUMMY MATRIX - SOUTH SERVICE CENTER		
+EE544	HELPER, ELEC DIST (PRE-APPR)	B-ELOP	VII
+EE593	CABLE SPL HELPER (PRE-APPR)	B-ELOP	VII
+EE780	UTILITY WORKER I	B-ELOP	IV
+JOB CODE	CLASSIFICATION TITLE	occ LOP	GRADE
+	AREA 551210 - ELECTRIC DISTRIBUTION ■	■SOUTH SVC CENTER	
+EE541	CREW LDR, LINEMAN	LOP	XV
+EE586	CREW LDR, URD ELECTRICIAN	B	XV
+EE540	LINEMAN	LOP	XIII
+EE555	CREW LDR, OPERATOR	LOP	Xli
+EE542	APPRENTICE LINEMAN	LOP	IX
+EE941	MACHINE OPERATOR (ELEC)	LOP	VIII
+EE544	HELPER, ELEC DISTB (PRE-APR)	B-ELOP	VII
+EB547	UTILITY WORKER II	LOP	VI
+EE780	UTILITY WORKER I	B-ELOP	IV
+AREA 551220 - GAS DISTRIBUTION - SOUTH SERVICE CENTER
+GG772	CREW LDR, SERV CONST.& MNT	LOP	XIII
+GG784	CREW LDR, GAS/ELEC SERV	LOf	XI
+EE940	CREW LDR, DIREC DRILL (ELEC)	LOP	X
+GG940	CREW LDR, DIREC DRILL (GAS)	LOP	X
+WW940	CREW LDR, DIREC DRILL (WTR)	LOP	X
+DE941	MACH. OPERATOR, (ELEC/DRILL)	LOP	VIII
+DG941	MACH. OPERATOR, (GAS/DRILL)	LOP	VIII
+GG941	MACH. OPERATOR (GAS)	LOP	VIII
+DW941	MACH. OPERATOR, (WTR/DRILL)	LOP	VIII
+GG776	UTILITY WORKER II	LOP	VI
+GG780	UTILITY WORKER I	B-ELOP	IV
+AREA 551230 - WATER DISTRIBUTION - SOUTH SERVICE CENTER
+WW937	CREW LDR, UTILITY SERV(W & G)	LOP	XII
+WW741	LEAD PIPELAYER	LOP	IX
+WW941	MACHINE OPERATOR (WATER)	LOP	VIII
+WW736	UTILITY WORKER II	LOP	VI
+WW780	UTILITY WORKER I	B-ELOP	IV
+	AREA 551240 - CUSTOMER ENGINEERING ■	•SOUTH SVC CENTER	
+NN294	SERVICE REPRESENTATIVE	B	XII
+EE408	DRAFTER II, CUST. ENG.	LOP	X
+EE407	DRAFTER 1, CUST. ENG.	B-ELOP	VIII

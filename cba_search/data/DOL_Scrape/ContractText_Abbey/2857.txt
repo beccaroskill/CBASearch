@@ -1,0 +1,1345 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Rochester, City of and American Federation of State, County & Municipal
+Employees (AFSCME), AFL-CIO, Local 1635 (2002)
+K#: 810598
+Location: NY Rochester
+Employer Name: Rochester, City of
+Union: American Federation of State, County & Municipal Employees (AFSCME), AFL-CIO
+Local: 1635
+SIC: 9199	NAICS: 921190
+Sector: L	Number of Workers: 1400
+Effective Date: 07/01/02	Expiration Date: 06/30/05
+Number of Pages: 46	Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+July-1 2002 iu Juno'JO 2005
+AGREEMENT
+BETWEEN
+THE CITY OF ROCHESTER, NEW YORK
+AND
+AFSCME, LOCAL 1635
+JULY 1, 2002 TO JUNE 30, 2005
+AFSCME Contract 2002-2005
+TABLE OF CONTENTS
+PREAMBLE ..................................................... 1
+ARTICLE 1	RECOGNITION......... ............................. 2
+Section 1	- Unit Definition ............................... 2
+Section 2	- Exception to Certain Personnel ................ 3
+ARTICLE 2	UNION SECURITY.................................... 3
+Section 1	- Dues Deduction................................. 3
+Section 2	- Agency Shop.................................... 4’	•
+Section 3	- Indemnification................................ 4
+Section 4	- Employee Lists ................................ 4
+Section 5	- Bulletin Boards ............................... 5
+Section 6	- Access to Premises ............................ 5
+ARTICLE 3	HOURS OF WORK..................................... 5
+Section 1	- Standard Work Week............................. 5
+Section 2	- Work Day ...................................... 5
+Section 3	- Regular Hours of Work ......................... 5
+Section 4	- Regularly Scheduled Work Week.................. 6
+Section 5	- Consecutive Hours of Work...................... 6
+Section 6	- Special Work Weeks ............................ 6
+Section 7	- Posting of Work Schedules ..................... 7
+Section 8	- Work Schedule Changes ......................... 8
+Section 9	- Rest Periods..................................  8
+Section 10	- Lunch Period Policy .......................... 9
+Section 11	- Clean-up Time ................................ 9
+Section 12	- Six Day Workers .............................. 9
+Section 13	- Employee Address and Telephone Number ........10
+ARTICLE 4	OVERTIME..........................................10
+Section 1	- Premium Pay....................................10
+Section 2	- Refuse Collection .............................10
+Section 3	- Work Schedule Changes .........................11
+ARTICLE 5	REPORTING PAY AND SCHEDULING OF WORK...............11
+Section 1	- Tardiness......................................11
+Section 2	- Unreported Employee Absences...................12
+Section 3	- Employees on Overtime Shift ...................13
+Section 4	- Reporting Pay for Incomplete Shifts ...........13
+i
+Section 5	- Call Back Pay .....................................13
+Section 6	- Stand-by Pay.......................................13
+Section 7	- Overtime Designations..............................14
+Section 8	- Distribution of Overtime ..........................14
+Section 9	- Shift Preference...................................16
+Section 10	- Exception^ to Special Pay ........................16
+Section 11	- Interruptions Beyond City’s Control...............16
+Section 12	- Absence as Resignation............................16
+ARTICLE 6	HOLIDAYS..............................................16
+Section 1	- Holidays, Recognized and Observed .................16
+Section 2	- Eligibility Requirements ..........................17
+Section 3	- Work Assigned on Holidays..........................18
+Section 4	- Hours for Overtime Purposes........................18
+ARTICLE 7	VACATIONS.............................................18
+Section 1	- Total Vacation Credits, Choice of Vacation Period..18
+Section 2	- Holiday During Vacation Period.....................20
+Section 3	- Work During Vacation Period........................20
+Section 4	- Vacation Rights in Case of Separation, Death or Layoff
+(Termination Pay).............................................20
+Section 5	- Vacation Schedule..................................21
+Section 6	- Employees Guaranteed Six (6) Day Work Week.........21
+ARTICLE 8	SICK LEAVE ...........................................22
+Section 1	- Allowance...........................................22
+Section 2	- Accumulation ......................................23
+Section 3	- Requirement for Doctor’s Certificate and
+Returning to Work.............................................23
+Section 4	- Employee Illnesses, Injuries and Disabling Conditions ... 25
+Section 5	- Extended Sick Leave at One-Half Pay................26
+Section 6	- Extended Unpaid Sick Leave With Insurance Benefits .... 27
+Section 7	- Extended Unpaid Sick Leave Without Insurance Benefits . 27
+Section 8	- Excessive Use of Sick Leave........................27
+ARTICLE 9	UNPAID LEAVES OF ABSENCE..............................28
+Section 1	- Eligibility ........................................28
+Section 2	- Benefits...........................................29
+Section 3	- Other Employment ..................................29
+Section 4	- Application for Leaves.............................29
+Section 5	- Union Business ....................................30
+Section 6	- Educational Leaves ................................30
+Section 7	- Family Medical Leave Act (FMLA)....................30
+ii
+ARTICLE 10	PAID LEAVES ........................................31
+Section 1	- Death in Family....................................31
+Section 2	- Personal Leave ....................................31
+Section 3	- Jury Duty..........................................32
+Section 4	- Civic Duty........................................33
+Section 5	- Civil Service Examination..........................33
+Section 6	- Military Service Leave.............................33
+Section 7	- Leave for Compensable	Injury or Occupational Disease ... 34
+ARTICLE 11	WAGES ..............................................35
+Section 1	- Wage Adjustments...................................35
+Section 2	- Salary Step Increases..............................35
+Section 3	- Longevity Service Pay..............................36
+Section 4	- Pay Period........................................36
+Section 5	- Out-of-title Pay ..................................36
+Section 6	- Pay Rates & Regulation for Per Diem Employees .....37
+Section 7	- Calculation of Salaried Employee Pay Rates ........37
+Section 8	- Tool Allowance ....................................38
+Section 9	- Educational Reimbursement..........................38
+Section 10	- Shift Differential...............................38
+Section 11	- Flexible Spending Account ........................39
+ARTICLE 12	LIFE INSURANCE COVERAGE.............................39
+ARTICLE 13	HOSPITALIZATION AND MEDICAL BENEFITS................39
+Section 1	- Coverage for Active Employees......................39
+Section 2	- Coverage for Retirees .............................41
+Section 3	- Dental Benefits ...................................42
+ARTICLE 14	RETIREMENT PLAN.....................................42
+ARTICLE 15	SENIORITY...........................................43
+Section 1	- Seniority Defined..................................43
+Section 2	- Seniority Acquired................................43
+Section 3	- Loss of Seniority..................................43
+Section 4	- Restoration of Seniority...........................44
+Section 5	- Computing Length of Continuous Service.............44
+Section 6	- Seniority List.....................................44
+Section 7	- Transfers Outside of Bargaining Unit...............44
+Section 8	- Seniority for Local Union Officers.................45
+Hi
+ARTICLE 16	WORKFORCE CHANGES...................................45
+Section 1	- Definition of Promotion............................45
+Section 2	- Promotional Opportunities..........................45
+Section 3	- Promotion for Laboring, Non-Competitive, Provisional, Temporary Appointments............................46
+Section 4	- Promotion Eor Competitive Positions................47
+Section 5	- Temporary Job Openings.............................48
+Section 6	- Layoff in the Laboring and Non-Competitive Classes .... 49
+Section 7	- Bumping in the Laboring and Non-Competitive Classes . . 49
+Section 8	- Recall ............................................50
+Section 9	- Consolidation or Elimination of Jobs.............  50
+Section 10	- Voluntary Transfer................................51
+Section 11	- Involuntary Transfer or Relocation................51
+ARTICLE 17	DISCIPLINE AND DISCHARGE............................52
+Section 1	- Nature of Discipline and Discharge.................52
+Section 2	- Procedure .........................................52
+ARTICLE 18	SETTLEMENT OF DISPUTES..............................54
+Section 1	- Definitions........................................54
+Section 2	- Grievances.........................................54
+Section 3	- Arbitration Procedure..............................56
+ARTICLE 19	STRIKES AND LOCKOUTS................................57
+Section 1	- Lockouts...........................................57
+Section 2	- No Strike - Taylor Law ............................57
+ARTICLE 20	GENERAL PROVISIONS..................................57
+Section 1	- Savings Clause ....................................57
+Section 2	- Mileage Allowance .................................58
+Section 3	- Printing of Contract...............................58
+Section 4	- Pledge Against Discrimination and Coercion.........58
+Section 5	- Non-Service Disability.............................59
+Section 6	- Refuse Collection .................................59
+Section 7	- Transportation.....................................59
+Section 8	- Public Safety Building Lunchroom ..................60
+Section 9	- City Owned Vehicles................................60
+Section 10	- Alcohol and Drug Testing .........................60
+iv
+ARTICLE 21	UNION RELEASE TIME ...............................61
+Section 1	- Union Stewards..................................61
+Section 2	- Time Off for Union Business.....................62
+Section 3	- Other Union Time Off............................63
+Section 4	- Labor-Management Committee......................63
+ARTICLE 22	EMPLOYEE SAFETY................................63
+Section 1	- Safety Committee ............................63
+Section 2	- Safety Equipment and Protective Clothing.....64
+Section 3	- Safe Driving Award..............................65
+ARTICLE 23	MANAGEMENT PREROGATIVES...........................65
+Section 1	- Employer Rights ................................65
+Section 2	- Work Rules .....................................66
+Section 3	- Professional Standards..........................66
+ARTICLE 24	TERMINATION OR MODIFICATION ..............66
+Section 1	- Duration of Agreement .................66
+Section 2	- Temporary Extension of Agreement.......67
+Section 3	- Modification ..........................67
+Section 4	- Termination and Modification - Total Agreement.67
+SIGNATURES ...........................................68
+APPENDIX A-SALARY SCHEDULES ...................... 69-74
+APPENDIX B-GUARANTEED SIX-DAY WORKERS ................75
+APPENDIX C - OFFICE OF EMERGENCY COMMUNICATIONS .. 76-77
+APPENDIX D - RPL PERSONNEL RULES AND REGULATIONS .. 78-80
+v
+PREAMBLE
+This City-wide master Agreement entered into by the City of Rochester (hereinafter referred to as the Employer or City) and Local 1635, American Federation of State, County and Municipal Employees, AFL-CIO (hereinafter referred to as the Union), has as its purpose the promotion of harmonious relations between the Employer and the Union, the establishment of an equitable and peaceful procedure for the resolution of differences and the establishment of rates of pay, hours of work and other conditions of employment.
+IN ACCORDANCE WITH THE PUBLIC EMPLOYEES’ FAIR EMPLOYMENT ACT, SECTION 204-a, IT IS AGREED BY AND BETWEEN THE PARTIES THAT ANY PROVISION OF THIS AGREEMENT REQUIRING LEGISLATIVE ACTION TO PERMIT ITS IMPLEMENTATION BY AMENDMENT OF LAW OR BY PROVIDING THE ADDITIONAL FUNDS THEREFORE, SHALL NOT BECOME EFFECTIVE UNTIL THE APPROPRIATE LEGISLATIVE BODY HAS GIVEN APPROVAL.
+The City and the Union agree that all pronoun references; i.e., “he,” “she,” “himself,” “herself,” et cetera, incorporated throughout the entirety of this contract shall be considered gender neutral for purposes of the implementation of or compliance with the provisions contained herein.
+The City and the Union recognize their responsibility to participate in and support the Affirmative Action Plans and efforts undertaken by the City in accordance with the Equal Employment Act of 1972, Public Law 92-261, as it may be amended. The parties agree that they will administer this contract in accordance with applicable Affirmative Action Laws, and the rules and regulations of any appropriate administrative agency charged with implementing such laws.
+1
+ARTICLE 1	RECOGNITION
+Section 1	- Unit Definition
+A.	The City recognizes the Union, AFSCME Local 1635, City Employees Union, as the sole and exclusive collective bargaining agent for the purpose of establishing salaries, wages, hours and other terms and conditions of employment, as defined in Section 201 (4) of the Civil Service Law, for all full-time civilian employees of the City, but excluding civilian employees in the Fire Department who come within the jurisdiction of the International Association of Fire Fighters, AFL-CIO, employees who come under the jurisdiction of the International Union of Operating Engineers, AFL-CIO, part-time, seasonal or temporary employees, and employees within the following categories:
+(1)	All elected officials, employees appointed by the Mayor or City Council and employees in the unclassified service as defined in '	Section 35 of the Civil Service Law.
+(2)	All employees classified as Administrative, Professional or Technical (APT) in accordance with current City Policies and regulations.
+(3)	All employees in the Mayor’s office.
+(4)	All employees in the Bureau of Audit and Review.
+(5)	All employees in the Bureau of Budget and Efficiency.
+(6)	All employees in the Law Department.
+(7)	The secretary to each Department Head, Deputy Department Head r	and Bureau Head. The positions of Associate Library Director,
+Assistant Library Director and Manpower Director shall be considered as Bureau Head positions.
+\	(8) In the Rochester Public Library, employees within the title of Senior
+Personnel Analyst and one (1) Clerk II position in the Library
+'	Personnel Office and such other positions as the Parties may agree.
+I	(9) In the Bureau of Communications, employees within the titles of
+«	Municipal Assistant and Senior Graphic Designer.
+:	(10) All employees in the Bureau of Human Resource Management.
+r	(11) In the Bureau of Accounting, employees within the titles of Payroll
+Auditor, and Payroll Technician.
+\	(12) Confidential labor relations liaison personnel in the Department of
+r	Environmental Services and	the Department of Parks, Recreation and
+'	Human Services.
+J	(13) All employees in the titles of Executive Assistant and Municipal
+;	Assistant.
+\	(14) If any of the positions listed above are changed from one administra-
+tive unit of the City to another, or are reclassified to a new title, without change in function, their status for purposes of this Section shall not be changed.
+
+(15)	In the Division of Security, all employees in the title of Supervising Security Guard.
+B.	When the City proposes to change the job specifications for a title in the bargaining unit, or when the City proposes to create a new title which would be in the bargaining unit, the City shall inform the Union in writing at least ten (10) days prior to official adoption of such proposal and upon request of the Union, the City shall consult with the Union on such proposal, prior to adoption.
+C.	When new titles are created that appear to be within the scope of the unit, or existing unit titles are changed, the City will consult with the Union in determining whether the new or amended titles should be included in the bargaining unit defined above. If the parties cannot agree on the unit status of a title, the matter shall be settled by an arbitrator. The City may create the position and fill the vacancy subject to a final determination. Pending such final determination, the position shall be placed in the bargaining unit.
+D.	The City agrees to provide the Union, at no cost, a list of all bargaining unit job titles and their corresponding pay brackets, upon request, but limited to two times per year.
+E.	“Temporary employees” excluded from the bargaining unit are defined as those employees who are appointed to temporary positions lasting three months or less, who were not members of the bargaining unit prior to appointment to the temporary positions, or those employees in temporary positions that are excluded from the unit, as defined in A. above.
+Section 2	- Exception to Certain Personnel
+Rochester Public Library personnel shall be covered by the personnel regulations adopted for such personnel by the Board of Trustees of the Public Library. (See Appendix D) The Union maintains its rights for the aforementioned group as to recognition under Article 1, Section 1 A. and therefore, may exercise its rights to negotiate such regulations separately.
+ARTICLE 2	UNION SECURITY
+Section 1	- Dues Deduction
+A.	The City shall deduct Union dues on the first pay date of each month from those paid on a bi-weekly basis and on the second pay date of each month from the wages of those employees who are paid on a weekly basis, and have filed with the Director of Human Resource Management an appropriate written authorization and shall remit the same to the Union. The necessary
+3
+authorization forms shall be provided by the Union. The amount of Union dues to be deducted from each employee’s wages shall be certified to the Director of Human Resource Management by the Secretary-Treasurer of the Union.
+B.	The total of all such du^s deductions and representative cost deductions shall be remitted each month to the designated financial officer of the Union together with a list from whom such dues and representative costs have been deducted.
+C.	Any change in the amount of Union dues to be deducted must be certified by the Union in writing and be forwarded to the Director of Human Resource Management. Deductions of Union Dues at the new certified rate shall be made by the City at the next regular pay period for the Union deductions, providing, however, that the certification to the City is made at least two weeks prior to such regular pay period for Union deductions.
+Section 2	- Agency Shop
+A.	This is an Agency Shop Agreement. It is understood that each employee who is a member of the bargaining unit herein above defined, but is not a member of the Union, shall be liable to contribute to said Union as representative costs, an amount equivalent to Union dues as are from time to time authorized, levied and collected from the general membership of the Union in accordance with the provisions of Section 1 of this Article.
+B.	The City agrees to deduct an amount equal to the normal monthly dues paid by Union members from the earnings of each said employee who is not a Union member as their representative costs and remit such amount to the Union in the same manner as provided in Section 1 of this Article in regards to Dues Deduction.
+Section 3	- Indemnification
+The Union agrees to indemnify and shall promptly refund to the City any funds received in accordance with this Article which were erroneously deducted.
+Section 4	- Employee Lists
+The City agrees to provide the Union with a list of existing bargaining unit employees, and monthly thereafter, a list of all new City employees covered under this Agreement. This list shall include the employee’s name, job title, department of employment and home address, except that, upon an employee’s written request, the employee’s address shall not be disclosed. The City shall provide the Union with a copy of the employee’s written request.
+4
+Section 5	- Bulletin Boards
+A.	The Employer agrees to provide sufficient bulletin boards for the use of the Union to post notices at each work installation.
+B.	The Employer agrees to post job notices on all bulletin boards referred to in A above and to forward a copy of the notice to the Union.
+C.	The Union agrees to send a notice of acknowledgment to the City Bureau of Human Resource Management upon its receipt of a job posting notice.
+Section 6	- Access to Premises
+A.	The Employer agrees to allow representatives of Local 1635, including the Business Agent, access to the premises of the Employer to discuss Union matters with Union Officers, Stewards or members of the Unit, provided such representatives do not unduly interfere with the performance of duties assigned to such employees or disrupt the business operations of the Employer.
+B.	The Employer agrees to allow representatives of the International Union and for AFSCME Council 66 to enter the premises of the Employer subject to prior approval of the Manager of Labor Relations to discuss Union matters with Union Officers, Stewards or members of the Unit, provided such representatives do not interfere with the performance of duties assigned to the employee or disrupt the business operations of the Employer.
+ARTICLE 3	HOURS OF WORK
+Section 1	- Standard Work Week
+For payroll purposes only, the standard work week shall begin with Sunday and end on the following Saturday.
+Section 2	- Work Day
+The work day shall coincide with the calendar day and shall consist of twenty-four (24) hours beginning at midnight provided any shift which begins on or after 8:00 P.M. will be considered part of the next calendar day.
+Section 3	- Regular Hours of Work
+A.	The regular hours of work for Blue Collar workers and for supervisors and foremen who are in charge of substantially Blue Collar personnel shall not exceed eight (8) hours in any one work day and forty (40) hours in any standard work week.
+5
+B.	Except for the positions listed below, in specialized operations, the regular	!
+hours of work for White Collar workers, supervisors and foremen who are in charge of substantially White Collar workers and members of the Recreation Unit shall not exceed seven (7) hours in any one work day and thirty-five (35) hours in any standard work week.
+White Collar Titles scheduled for more than thirty-five (35) hours per week:
+In the Emergency Communications Department:
+All employees except the clerical/secretarial and the Administrative Assistant.
+In the Bureau of Information Systems:
+All titles except Computer Programmer
+In the Department of Community Development:
+Property Conservation Inspector
+Building Construction Inspector
+Property Rehabilitation Specialist
+•	Licensed Plumbing Inspector
+In NET - Neighborhood Conservation Officer
+'	In the Rochester Public Library:
+All titles
+C.	Only those days which an employee may be scheduled to work and which are to be paid at his regular straight time rate shall be considered part of the employee’s regular work schedule or regularly scheduled shift.
+Section 4	- Regularly Scheduled Work Week
+Except as otherwise provided in this Article, the regularly scheduled work
+I	week shall consist of five (5) consecutive days from Monday through Friday,
+?	inclusive.
+j-	Section 5 - Consecutive Hours of Work
+f	The regular hours of work each day shall be consecutive except for:
+p	1. Interruptions for lunch periods.
+I	2. As otherwise provided for certain employees in this Agreement or as may
+‘	be agreed to by the City and Union.
+।	3. Employees who work under the incentive system whose work shift ends
+;	upon the completion of an assigned route,
+f
+Section 6 - Special Work Weeks
+A. The City and the Union recognize their obligation to provide certain services to the community on a continuous basis outside the regularly scheduled work week established in Section 4 of this Article. To meet this need, the parties agree that special work weeks can be scheduled in selected
+6
+positions in the following City operations:
+1.	DES - Security Guards
+2.	Police Department
+3.	Bureau of Parks and Recreation
+4.	NET - Neighborhood Conservation Officers only
+5.	Bureau of Parks
+6.	Public Market
+7.	Water Bureau - Water Production and Treatment
+8.	Bureau of Information Systems - One (1) Senior Computer Operator 9. DES - Equipment Services - Two (2) Auto Aides
+10.	DES - Dispatchers
+11.	Emergency Communication Department - All Employees
+12.	Cemeteries
+13.	DES - Downtown Cleaning - one shift
+B.	Special work weeks shall consist of five (5) consecutive days of work other than the regularly scheduled work week of Monday through Friday unless otherwise provided. It is agreed that no action will be taken by the City without first consulting with the Union as specified in Section 8 A of this Article. In addition, the Bureau of Recreation may schedule special work weeks of any five (5) consecutive days with the number of work hours varying from not less than four (4) hours per day to not more than ten (10) hours per day. Notwithstanding Article 3, Section 3 B., Article 4, Section 1 B. or any other provision of this Agreement, Recreation Bureau employees working such special work weeks shall not be eligible for premium pay unless the number of hours worked exceeds ten (10) in any one day or thirty-five (35) in any one week.
+Special work weeks other than those set forth in this Section may be established with the concurrence of the Union.
+C.	In making assignments to special work weeks, volunteers will first be solicited. If the necessary number of employees does not volunteer, then assignments will be made in order of inverse seniority among employees capable of performing the work.
+D.	All operational staff (Telecommunicators, Dispatchers I & II and Shift Supervisors) in the Emergency Communications Department shall work a straight 4 on, 2 off work wheel.
+Section 7 - Posting of Work Schedules
+Work schedules showing the employees’ work weeks, work days, shifts and hours shall be posted on all department bulletin boards at all times except in those areas where the employees’ work schedule remains unchanged.
+7
+Section 8 - Work Schedule Changes
+A.	The Employer reserves the right to designate and change the work schedules, weeks, days, hours and shifts of its employees. However, except in operational emergencies, the Employer agrees to consult with the Union prior to making any such changes. In addition, except in operational emergencies, notice of not less than seven (7) calendar days after consultation with the Union, shall be given to the Union and the employee or employees involved, in writing, prior to changing the work schedule, work day, hours or shift of any personnel covered by this Agreement.
+B.	Notice of not less than forty-eight (48) hours shall be given prior to changing or canceling an employee’s scheduled shift when the shift would otherwise be worked at premium pay, unless emergency conditions beyond the control of the Employer make it impossible to perform the work.
+Section 9	- Rest Periods
+A.	All employees’ work schedules shall provide for a ten (10) minute rest period during each one-half (J0 shift. The rest period shall be scheduled at the middle of each half shift depending on the work situation. However, the two, ten (10) minute periods are guaranteed. Rest periods and lunch periods shall not be combined unless specifically authorized in writing by the Bureau Head.
+B.	Employees required to work at least two (2) hours beyond their regular quit-\	ting time into the next shift, shall receive a rest period(s) paid at the overtime
+rate as follows:
+1.	Employees requested to work two (2) hours beyond their regular quitting J	time into the next shift shall receive one (1), ten (10) minute rest period,
+I	commencing at the start of the next shift.
+(	2. Employees requested to work four (4) hours beyond their regular quit-
+ting time into the next shift shall receive a fifteen (15) minute rest *	period prior to the start of the next shift, and a ten (10) minute rest
+>	period during the middle of the four (4) hour period.
+;	3. There shall be no paid rest periods for employees requested to work less
+than two (2) hours beyond their regular quitting time.
+;	4. Employees receiving rest periods under provisions 1 and 2 above will
+■	not be entitled to any additional rest periods during such overtime work.
+8
+Section 10	- Lunch Period Policy
+A.	There shall be a twenty (20) minute paid lunch period for all personnel who are required by the Employer to remain at their work station or work site during the course of the work day.
+B.	Where working conditions do not require continuous maintenance of a work station or continued presence at the work site, lunch period shall be unpaid and for a minimum of thirty (30) minutes duration as may be determined by the Employer.
+C.	The failure to take a twenty (20) minute lunch period shall not entitle the employee to additional compensation. The failure to take an unpaid lunch period upon request of a supervisor shall be treated as overtime and governed by general overtime regulations.
+Section 11	- Clean-up Time
+Department Heads shall grant clean-up time of ten (10) minutes where appropriate, except for shop personnel in the Bureau of Equipment Services and auto mechanics and aides, who shall be granted fifteen (15) minutes of clean-up time.
+Section 12	- Six Day Workers
+A.	The City and Union agree that the employees listed in Appendix B were hired and assigned to the Mt. Hope Cemetery, Riverside Cemetery, Downtown Refuse Collection and E-Z Pack Operations prior to July 1,1970, and that these employees are, therefore guaranteed six (6) days of work per week. The sixth day of work shall be paid at the overtime rate of time and one-half.
+B.	Persons named on the list will continue to be guaranteed six days of work until such time as they leave City employment or other arrangements are made collectively by the Union and the City.
+C.	The parties also agree that this list is complete, and that all employees and all titles not listed in the appendix list will be hired for a five (5) day work week.
+D.	The provisions of A will expire if:
+1.	The employee is voluntarily transferred or promoted to a five (5) day operation.
+2.	The employee is promoted within one of the six (6) day operations to a job title not included in the list in Appendix B, in his operation.
+9
+Section 13	- Employee Address and Telephone Number
+It shall be the responsibility of an employee to keep his Department Head informed of his current name, address and telephone number where he can be notified of emergencies, changes in schedule, disciplinary actions, stand-by and overtime assignments and other matters. The City shall have no obligation to notify employees at home under any provision of this Agreement if an employee fails to keep his Department Head so informed.
+ARTICLE 4 OVERTIME
+Section 1	- Premium Pay
+A.	All time worked over eight (8) hours in a day or forty (40) hours in a work week for Blue Collar Workers shall be paid at the rate of time and one-half.
+B.	All time worked over seven (7) hours in a day or thirty-five (35) hours in a work week for White Collar workers and members of the Recreation Unit shall be paid at the rate of time and one-half.
+C.	Hours worked before and after an employee’s regularly scheduled shift shall be paid at the rate of time and one-half.
+D.	Hours worked after the employee has completed his scheduled work day or scheduled work week during which the work was performed or credited at straight time to the fullest extent allowed by subdivision A or B, whichever is applicable, shall be paid at the rate of time and one-half.
+E.	If an employee is absent without pay any time during the work week, an equal amount of time outside of his regularly scheduled work week will be paid at straight time before he becomes eligible for premium time.
+Section 2	- Refuse Collection
+A.	When Refuse Collection is delayed one (1) day because of a holiday, the fifth scheduled day, which is then collected on Saturday, will be paid at time and one-half.
+B.	When Refuse Collection is delayed because of weather conditions or equipment failure, the delayed work will be paid for at straight time regardless of the day of the week in which the work is done.
+10
+Section 3 - Work Schedule Changes
+Except during a local state of emergency declared by the Mayor in accordance with Executive Law Section 24, no individual employee shall have his work schedule or regular day off schedule changed for the purpose of avoiding payment of overtime. This provision shall not apply when the work schedule has been changed in accordance with Article 3, Section 8 A. of this Agreement.
+ARTICLE 5 REPORTING PAY AND SCHEDULING OF WORK
+Section 1	- Tardiness
+A.	Reporting to work and being ready to work at the beginning of one’s shift is one of the essential responsibilities of employees. Occasional tardiness may be excused by the Employer, and the employee and the unit manager may agree to decrease the length of breaks or to extend the workday to make up for tardy time. Repeated and excessive tardiness are not acceptable and shall be defined as follows: Four (4) or more occurrences during a sixty (60) consecutive calendar day period of reporting late for work.
+B.	Penalties for violating the provisions of A above shall be as follows: First Offense: Written Reprimand
+Second Offense: Fine of one day’s pay or loss of one vacation day Third Offense: Fine of two days’ pay or loss of two vacation days Further Offense: Further disciplinary action including termination.
+The levels of discipline stated above are permissive, and the Department Head or his designee may consider extenuating circumstances and impose a lesser penalty. If a period of twelve (12) months expires from the date of an offense as defined herein without the commission of an additional offense, the employee shall be considered to be at the First Offense level in the event of any further offense.
+C.	If the employee reports for work after his regularly scheduled starting time, he shall be assigned work only if:
+1.	The employee calls in at least fifteen (15) minutes prior to his starting time and indicates his expected time of arrival, which must be within one (1) hour of his starting time.
+2.	The supervisor informs him that work will be available.
+3.	The employee arrives at the time he indicated to the supervisor.
+4.	If the employee is told that no work is available, his absence shall be considered authorized.
+An employee who does not meet the above conditions, but who does call in, may be assigned work, at the discretion of his supervisor. If he is not assigned ।	work, he shall be deemed tardy.
+11
+|
+D.	Nothing in this Article will relieve an employee of the responsibility to report to work in sufficient time before the start of the work day so that he can begin work at the start of his designated shift.
+E.	In the event that a public or private transportation breakdown, act of God, strike (except a strike or concerted action by members of the bargaining unit) is responsible for an employee’s failure to report for work as provided above, then the employee will be excused, but not paid, for the time he has missed. Per diem workers will be paid for the portion of the work they have completed. Evidence of the transportation breakdown shall be provided to the employer, upon request, in order to excuse the tardiness.
+F.	The provisions of this Section will not apply if notice had been given that no work is available.
+Section 2	- Unreported Employee Absences
+A.	Except as otherwise provided, employees are required to report all absences from work to a telephone number designated by the appropriate division no later than the beginning of their regularly assigned starting time. Employees failing to report an absence as required will be subject to disciplinary action as set forth in C below. Employees who report for work within one (1) hour of their regularly assigned starting time shall not be considered as having an unreported absence. Such employee shall be considered tardy.
+B.	The City and Union recognize that unreported employee absences cause serious operational problems and place an undue burden upon fellow employees. In order to keep these situations to an absolute minimum, the parties agree that unreported absences will result in disciplinary action as prescribed in C.
+C.	Penalties: Penalties for failing to report absences shall be as follows:
+1.	First Offense:	Written Reprimand.
+2.	Second Offense: A three (3) day suspension without pay, or the loss of one vacation day, or a fine of one day’s pay.
+3.	Third Offense: A five (5) day suspension without pay or the loss of two vacation days, or a fine of two day’s pay.
+4.	Fourth Offense: Further disciplinary action which may include termination.
+The levels of discipline stated above are permissive, and the Department Head may consider extenuating circumstances and impose a lesser penalty. If a period of eighteen (18) months expires from the date of an offense as defined herein without the commission of an additional offense, the employee shall
+12
+move back to the next lower level of offense. Each additional continuous eighteen (18) month period without an offense of unreported absence shall move the employee back an additional level.
+Section 3	- Employees on Overtime Shift
+Employees scheduled to work an overtime shift will be subject to all attendance rules as if it were a regular work shift.
+Section 4	- Reporting Pay for Incomplete Shifts
+If, because of inclement weather or other reasons, an employee is excused from duty after the beginning of the shift by the Department Head or his authorized representative, he shall be paid one-half (%) day’s pay. If any part of the day is worked, the employee shall be paid for the time actually worked, but for no less than one-half (%) day’s pay. An employee so excused from duty shall be allowed to use accrued personal, vacation or sick leave credits to make up any difference for the hours provided for herein and his regularly scheduled work day. Sick pay can only be used when all personal and vacation credits have been exhausted.
+Section 5	- Call Back Pay
+A.	Any employee who has completed his regularly scheduled shift and who has left the job site and who, subsequently, is called back for duty which is not contiguous to his regularly scheduled shift and which is in addition to or outside of his regularly scheduled shift as defined in Section 3 C. of Article 3, and who presents himself for work as scheduled, shall be assigned at least four (4) hours of work, unless previous notice has been given that no work is available prior to said employee presenting himself for work.
+B.	There shall be only one four (4) hour call back payment for each four (4) hour period, regardless of the number of times an employee is called back during such period. Employees will receive no more than eight (8) hours of call back pay in any twenty-four (24) hour period, and in addition thereto, will be paid for actual time worked over the eight (8) hour limit.
+Section 6	- Stand-by Pay
+A.	Any employee instructed to stand-by (be available by telephone) one or more times during any twenty-four (24) hour period in which he has scheduled work, shall be paid two (2) hours at his regular straight time rate for such period.
+13
+B.	Any employee instructed to stand-by one or more times during any twenty-four (24) hour period in which he is not scheduled to work shall be paid for four (4) hours at his regular straight time rate for such period.
+C.	Employees on stand-by pay status pursuant to this Section must remain at home or, if they must leave their home, must notify a designated supervisor of their whereabouts during the time when an employee is on stand-by status.
+D.	In the event an employee on stand-by is ordered to work and reports to work, he shall be paid only one-half (Vi) of the stand-by pay to which he is otherwise entitled. Employees covered by this provision shall be paid at the time and one-half rate only for the number of hours actually worked, and shall not be entitled to call-back pay in Section 5 above.
+E.	In the event an employee on stand-by cannot be contacted or is ordered to work and does not report to work, he shall not be paid any stand-by pay and will be subject to disciplinary action.
+F.	Employees functioning as Snow Inspectors during the winter months shall not be eligible for stand-by pay.
+Section 7	- Overtime Designations
+A.	Overtime will be designated into two categories: Scheduled and Emergency. Scheduled overtime is that overtime for which notification is given to the employee at least one (1) day in advance of the overtime. Emergency overtime is that overtime which has less than one (1) day advance notice and is authorized by the Department Head or his authorized representative.
+B.	An employee shall work scheduled or emergency overtime which he has accepted, unless the employee has a reason for not working such overtime which would constitute an excusable reason for not working regularly scheduled hours.
+Section 8	- Distribution of Overtime
+A.	Distribution of overtime opportunities shall be equalized over each three (3) month period beginning on the first day of January, April, July, and October. If any employee establishes that they did not receive overtime opportunities to which they were entitled under the provisions of this Section, such employee shall have preference to all future overtime opportunities until such situation is corrected.
+14
+B.	Overtime opportunities will be distributed equally among employees working within the same job title and within the same City facility and Bureau who can do the work. Employees not wishing to be considered for overtime opportunities under this subdivision may waive their rights under this Section, in writing. Said waiver may be withdrawn in writing at any time. However, there shall be no obligation to equalize overtime opportunities for such employees during the quarter in which the waiver is submitted or withdrawn.
+C.	All offered overtime opportunities, whether worked, or refused by the employee or if the employee is deemed unavailable, shall be counted toward the balancing of overtime.
+D.	On each occasion, the opportunity to work scheduled overtime and, whenever possible, the opportunity to work emergency overtime shall be offered to the employee in the job title and within the same City facility and bureau who can do the work and who has the least number of overtime hours to his credit at that time, except that the City shall not have to recall an employee when a unit employee in the same job title or a higher unit job title in the same job series is on the job site and is willing to work the overtime. If this employee is unable to work the overtime, the employee with the next fewest overtime hours to his credit will be offered the assignment. This procedure shall be followed until the required number of employees has been scheduled for the overtime work.
+E.	When there is no volunteer for the required overtime work, whether scheduled or emergency, the Employer shall choose the employee(s) needed to do the work by selecting the least senior employee(s) within the same job title capable of performing the work, except that the City shall not have to recall an employee when a unit employee in the same job title is on duty. Overtime assignments of employees on the job site shall be rotated on the basis of inverse order of seniority. Such employees shall be deemed to have been offered and to have accepted the overtime work. In the event there are two or more employees with identical seniority, the employee with the least credited overtime shall be assigned the work.
+F.	A record of the overtime hours credited to each employee shall be available to the Union upon request.
+G.	Where an entire classification of employees within the same City facility and bureau is required to work overtime, all such employees notified shall be deemed to have been offered and to have accepted the overtime work.
+H.	Employees who are granted full Union release time pursuant to Article 21, Section 2 A. of this Agreement, will not be included in the distribution of overtime, whether scheduled or emergency, as defined in this Section.
+15
+I.	Overtime distribution method in the Division of Solid Waste shall continue unchanged, notwithstanding any contrary provision in this section.
+Section 9	- Shift Preference
+Shift preference will be granted on the basis of seniority within the same job title and the same division where a vacancy exists, provided the employee submits a written request to his Department Head for a shift change.
+Section 10	- Exceptions to Special Pay
+The Employer shall not be required to pay reporting pay, call back pay, or standby pay in the event that:
+A.	Strikes, work stoppages in connection with labor disputes, or failure of utilities beyond the control of the Employer interfere with work being provided, or
+B.	An employee is not put to work or is laid off after having been put to work, either at his own request or due to his own fault.
+Section 11	- Interruptions Beyond City’s Control
+Nothing in this Agreement or in this Article shall be construed as a guarantee of hours of work per day or per week when interruptions of normal City operations are beyond the control of the City.
+Section 12	- Absence as Resignation
+Notwithstanding any other provision of this Article, any employee absent from work without authorization for ten (10) consecutive work days shall be deemed to have resigned from his position.
+ARTICLE 6	HOLIDAYS
+Section 1	- Holidays, Recognized and Observed
+A.	The following days will be recognized and observed as paid holidays:
+New Year’s Day
+Martin Luther King Jr. Day
+Lincoln’s Birthday Presidents’ Day Good Friday Memorial Day Independence Day
+Labor Day
+Columbus Day
+Veterans’ Day Thanksgiving Day Day after Thanksgiving Christmas Day
+16
+B.	Employees otherwise scheduled to work on a day on which a holiday is observed who are excused from work because of the holiday shall receive one (1) day’s holiday pay for each of the holidays listed above.
+C.	Whenever any of the holidays listed above shall fall on a Saturday, the preceding Friday shall be observed as the holiday, or as provided by law.
+D.	Whenever any of the holidays listed above shall fall on a Sunday, the succeeding Monday shall be observed as the holiday, or as provided by law.
+E.	Whenever any of the holidays listed above is observed on a scheduled day off, such day shall be paid at the employee’s current daily rate or the employee shall be given another day off in lieu thereof at the option of the Employer. If the City elects to give the employee another day off in lieu of the holiday, the City shall schedule such day off to fall within two (2) weeks after the holiday. If another day off cannot be scheduled within such time, the employee shall be paid for the holiday and shall not receive a day off in lieu of the holiday.
+F.	The City Director of Human Resource Management shall notify the Union of the exact dates on which the above listed holidays shall be celebrated. This notification shall be submitted to the Union before the beginning of each contract year. In the event of a legal change of the date of celebrating a holiday, the Union will be notified of such change as soon as possible.
+G.	Employees assigned to 24 hour-per-day, 7 day-per-week operations in the Emergency Communications Department and the Police Department, who work a wheel, shall observe the following holidays on their calendar dates:
+Christmas Day	December 25
+New Year’s Day	January 1
+Lincoln’s Birthday	February 12
+Independence Day	July 4
+Veterans’ Day November 11
+H.	If the employer determines to maintain services at City Hall and the Public Safety Building on Lincoln’s Birthday, employees at those facilities will be provided with a floating holiday, to be agreed upon by the employee and his/her manager. The floating holiday must be used within the calendar year earned.
+Section 2	- Eligibility Requirements
+A.	Employees shall be eligible for holiday pay under the following conditions:
+17
+1.	The employee would have been scheduled to work on such day, if it had not been observed as a holiday. Any employee on approved vacation, sick or other authorized approved leave who would otherwise have been scheduled to work on such day, shall be deemed to have met this condition. For purposes of this Section, the term “approved vacation, sick or other authorized approved leave” does not include a leave for compensable injury or occupational disease as provided by Article 10, Section 7.
+2.	The employee worked his full regularly scheduled work day before and after the holiday, except where an employee on either of such days is on an approved vacation, sick or other authorized paid leave as allowed by the terms of this Agreement. An unpaid sick day must be verified by a medical certificate of illness or injury to be deemed authorized within the meaning of this Section.
+B.	No employee who is scheduled to work a holiday shall be compensated for that holiday if he fails to report to work and does not comply with the reporting provisions of this Agreement.
+Section 3	- Work Assigned on Holidays
+Employees assigned by the Department Head, or his authorized representative, to work on any of the holidays listed above in Section 1, shall be paid time and one-half for all hours worked, in addition to their regular holiday pay.
+Section 4	- Hours for Overtime Purposes
+For the purpose of computing overtime, each holiday shall be regarded as a normal work day, provided the employee is paid holiday pay for that holiday.
+ARTICLE 7 VACATIONS
+Section 1	- Total Vacation Credits, Choice of Vacation Period
+A.	Vacation credits shall be granted in accordance with Section 5 and 6 of this Article and may be accumulated only up to a maximum of two years of credits. The smallest unit of vacation credits which may be used shall be one-half (Vi) day.
+B.	“Closed” periods are those periods designated by the Department Head or his designated representative during which vacations may be denied. These periods shall be established after consultation with the Union. All other periods shall be considered as “Open” periods for purposes of requesting vacation.
+February 1 through March 1 of each year shall be designated by all
+18
+
+Departments as a “Vacation Selection Period” for employees who wish to submit vacation requests for the “Open” periods. Requests of this nature shall be for periods of no less than five (5) consecutive work days. In the event of conflicts over vacation requests received during this selection period, seniority will prevail. Vacation requests made during the rest of the year shall be granted within three (3) working days of the request provided that:
+1.	The period has not already been approved for another employee, in which case the Employer may deny the request if the nature of the work makes it necessary to limit the number of employees on vacation during the same period.
+2.	The period is not declared as closed at the time such request is made.
+3.	Vacation requests for five (5) working days or less are made in writing at least five (5) working days prior to the date(s) requested.
+4.	Vacation requests for more than five (5) days are made in writing at least two (2) weeks prior to the date(s) requested.
+5.	In the event of conflicts over vacation requests received on the same day, seniority will prevail.
+C.	Any periods during which a City facility is not operated shall be designated as periods during which the employees of such facilities must take their vacations. These periods must be established prior to February 1 each year and after consultation with the Union.
+D.	No vacation time shall be granted until earned, nor shall any employee be allowed to use accumulated vacation leave during the first six (6) months of employment. No employee who leaves the service of the City within the first six (6) months of employment shall be compensated for vacation time.
+E.	Vacation choices and schedules shall be posted on all department and bureau bulletin boards for examination by the employees or Union Steward of that unit.
+F.	Vacation pay shall be paid in advance of the start of the employee’s vacation period when the employee requests it at least one (1) week prior to the last paycheck issued prior to the vacation period. Advance vacation pay shall be for a minimum of five (5) days. Advance vacation pay shall be included in the last regular paycheck preceding the vacation.
+G.	In emergency situations, a Department Head, at his sole discretion, may grant a request for an emergency vacation pay advance. In such situations, notice of at least one (1) working day is required.
+19
+H.	Vacation pay shall be paid on the basis of the employee’s regularly scheduled work day at his regular straight time rate of pay in effect at the time of use.
+Section 2	- Holiday During Vacation Period
+If a holiday occurs during the calendar week in which a vacation is taken by the employee, the employee shall receive the holiday pay in lieu of the vacation pay for that day.
+Section 3	- Work During Vacation Period
+A.	Employees who have their vacation canceled by the City within two (2) months of their scheduled vacation time shall be paid at a rate of time and one-half for time worked during the canceled vacation. The actual vacation shall be rescheduled at a time agreeable to the City and the employee.
+B.	Provisions as set forth in subdivision A above shall not apply when, because of an emergency declared by the Mayor, vacations and time off are canceled for all employees. Employees on vacation may be recalled.
+Section 4	- Vacation Rights in Case of Separation, Death or Layoff (Termination Pay)
+A.	Any full-time employee with a minimum of six months of service with the City who voluntarily separates from the service of the Employer prior to exhausting their vacation accruals, provided he gives at least two (2) weeks notice to the City of his resignation or retirement, shall be compensated in cash for the unused balance he had accumulated at the time of separation.
+B.	Any full-time employee with a minimum of six months of service with the City who is involuntarily separated from the service of the Employer prior to exhausting their vacation accruals, shall be compensated in cash for the unused balance he had accumulated at the time of separation.
+C.	In the case of the death of any employee with a minimum of six months of service, such payment shall be made to his estate.
+D.	Under no circumstance shall the City pay any employee, regardless of the nature of their separation, for more than fifty (50) days of unused vacation accruals.
+20
+Section 5 - Vacation Schedule
+All employees shall a provided:	ccrue vacation on the following basis unless otherwise	
+SERVICE TIME	ACCUMULATION	ANNUAL ACCRUAL
+Less than 2 years 2 full years but less	10/12 days per month	2 weeks (10 working days)
+than 15 years	15/12 days per month	3 weeks (15 working days)
+15 full years	20/12 days per month	4 weeks (20 working days)
+16 full years	21/12 days per month	4 weeks, 1 day (21 working days)
+17 full years	22/12 days per month	4 weeks, 2 days (22 working days)
+18 full years	23/12 days per month	4 weeks, 3 days (23 working days)
+19 full years	24/12 days per month	4 weeks, 4 days (24 working days)
+20 full years or more	25/12 days per month	5 weeks (25 working days)
+Vacation accruals commence after one calendar month of full-time employment and monthly thereafter.
+Section 6 - Employees Guaranteed Six (6) Day Work Week
+City employees designated by name in this Agreement (See Appendix B) who are guaranteed a six (6) day work week because of employment in their present positions on or before July 1, 1970 shall be allowed vacation accruals as follows:
+SERVICE TIME	ACCUMULATION	ANNUAL ACCRUAL
+15 full years but less than 20 years	24/12 days per month	4 weeks, 4 days (24working days)
+20 full years or more	26/12 days per month	5 weeks, 1 day (26 working days)
+21
+ARTICLE 8 SICK LEAVE
+Section 1	- Allowance
+A.	Employees, by their service for the Employer, shall accrue sick leave benefits to be used by them to have adequate income in the event of illness or injury. Up to five (5) days of accrued sick leave per year may be used by an employee when the employee is required to care for and attend to an immediate family member suffering from a serious illness or injury. Immediate family shall include: spouse, domestic partner, children, parents, brothers, sisters, grandparents, grandchildren or any other relative who is an actual member of the employee’s household.
+B.	Any employee contracting or incurring any non-service connected sickness or disability which renders such employee unable to perform the duties of his employment, or who must make medical or dental visits which cannot be scheduled during non-working hours as a result of any illness or injury, shall receive sick leave with pay to the extent allowed by this Article.
+C.	Employees shall be eligible to utilize accrued sick leave after thirty (30) days of service with the Employer.
+D.	An employee requesting a sick day must report his absence, nature of illness, and the expected date of return no later than his regular starting time to a phone number or supervisor specified by the Employer. If the employee is unable to report back to work as indicated, he shall so advise the Employer in accordance with this Section. This requirement will be waived by the Division Head when notice could not be given as set forth above due to circumstances beyond the control of the employee.
+E.	Employees assigned to work overtime outside of their own department cannot use sick leave credits during the same calendar day in which the premium pay is requested.
+F.	Employees in the Department of Environmental Services/Bureau of Operations who, due to the nature of their snow control work, are scheduled for a sixth day of work on a seasonal basis shall be allowed to use accrued sick leave when ill or injured on the scheduled sixth day. Such sick leave will be paid at the employee’s regular rate of pay. Nothing in this sub-section shall relieve employees of their obligations under any other provisions of this Article.
+22
+Section 2	- Accumulation
+A.	Employees shall start to accrue sick leave from their date of hire and they shall accumulate sick leave as long as they are actively working in the service of the Employer or on an authorized paid leave at the rate of one (1) day per month, or twelve (12) days per year, up to a total of one-hundred-eighty (180) days.
+B.	All sick leave accruals will be on a calendar month basis.
+C.	Any employee who is absent for four (4) days or more without authorization any time during a calendar month shall not accrue sick leave credits for that month. Authorized absence without pay shall not be considered an unauthorized absence for the purpose of this Section provided that such authorized absence without pay is accompanied by a valid doctor’s certificate which shall be presented by the employee to the Employer.
+D.	An employee who is disciplined for unreported absence, as defined in Article 5, Section 2, may be denied his sick leave accrual for the following month by his Department Head.
+Section 3	- Requirement for Doctor’s Certificate and Returning to Work
+A.	An employee will be required to produce a doctor’s certificate upon returning to work, after using three (3) or more consecutive work days of sickness or injury leave. The certificate shall include the dates the employee was ill or injured and incapable of performing the duties of their employment, the dates of treatment, the diagnosis and a statement that the employee is medically capable of performing all of their job duties. The City shall have the right to substantiate the validity of an employee’s claim to sickness.
+B.	An employee who fails to produce a doctor’s certificate upon returning to work, or within three (3) working days of returning to work, shall forfeit sick and injury leave pay for the period he did not work during such sickness or injury.
+C.	If an employee has already received sick leave pay to which he was not entitled, such pay shall be deducted from his next regular paychecks, and sick leave credits used shall be reinstated.
+D.	Any employee returning to work from a work-related injury involving time lost from work must present a statement to the Employer from his treating physician which identifies the nature of the injury and includes a clear statement that the employee is physically capable of performing all of his job
+23
+duties. No employee will be allowed to return to work who has failed to provide this statement. At the sole discretion of the Employer, the employee may be required to be examined by a physician of the Employer’s choice to confirm the employee’s ability to perform all of the functions of his position. Such examination shall be performed at the City’s expense and shall be performed prior to allowing the employee to return to work. Any dispute arising out of the implementation of this provision may be processed by the Union as a grievance at the 3rd step of the Grievance Procedure.
+E.	(1) Any employee returning to work from a prolonged illness of more than thirty (30) days must present to his supervisor a statement from his treating physician which confirms that the employee is physically capable of returning to his regular job duties. No employee will be allowed to return to work who has failed to present such physician’s statement.
+(2)	Any employee returning to work from one-half pay sick leave status must present to his supervisor a statement from his treating physician which confirms that the employee is physically capable of returning to his regular job duties. No employee will be allowed to return to work who has failed to present such physicians’s statement.
+F.	(1) An employee sent to a City Physician for confirmation of his fitness to return to work shall be allowed to use accrued leave for the time between the date his physician stated he was fit to perform all of his job duties and the confirmation by the City’s physician. In the event the employee has no accrued leave or has less than ten (10) days accrued leave, he shall be paid his regular rate of pay after ten (10) working days from his physician’s return to work date and until the report from the City’s physician. If the employee is determined to be fit for duty by the City’s physician, any accrued leave used shall be returned to the employee’s time banks. If the employee is determined not to be fit for duty by the City’s physician, the paid leave shall cease and the employee shall reimburse the City for any money paid.
+(2)	To qualify under this subsection, an employee must deliver his doctor’s statement to the City within one day of his receipt of the statement.
+(3)	The City shall notify the employee of the termination of any unpaid leave, a minimum of sixty (60) days prior to the expiration of that leave period.
+G.	Any employee out ill for ten (10) consecutive work days shall provide his Department Head with a doctor’s verification of illness. Such verification shall be submitted every thirty (30) consecutive calendar days thereafter.
+24
+Section 4	- Employee Illnesses, Injuries and Disabling Conditions
+A.	If a Department has reason to believe that an employee cannot perform his duties in a satisfactory manner due to an illness, injury or disabling condition, the Department shall so notify the Safety Office.
+B.	The City’s Health and Safety Division shall schedule an examination for such employee with a physician designated by the City. The cost of the examination shall be borne by the City.
+C.	Unless, in the opinion of the Department Head, the employee presents a potential hazard to himself, others or property, the employee shall remain on active duty until the results of the examination are available. If in the Department Head’s judgement, the employee’s presence on the job presents a potential hazard to himself, others or property, the employee will be placed on leave and may use accrued paid leave credits.
+D.	An employee placed on leave pursuant to subdivision C, who is subsequently medically certified as being capable of performing all of his regular job duties shall be returned to active duty. Paid leave credits used by the employee during such period shall be restored for the period that the employee was capable of performing all of his regular duties, subject to verification by the City Physician.
+E.	If the employee is medically certified as being incapable of performing all of his regular job duties, the City will attempt to transfer the employee into an equal or lower paying vacant position which the employee is medically capable of performing and for which he qualifies.
+F.	If no such vacancy exists, the employee will be allowed to bump into an equal or lower paying position providing the employee has the necessary seniority, qualifies for the title and is capable of performing the required job duties.
+G.	If the employee refuses or does not qualify for transfer or bumping, the City will offer the employee a layoff, with recall rights upon certification by a physician appointed by the City that the employee is medically capable of performing all of the job duties.
+H.	If the employee refuses any of the above options, the City will terminate the employee.
+25
+Section 5 - Extended Sick Leave at One-Half Pay
+I
+I	A. Employees who are absent due to an extended illness or injury, defined as an
+illness or injury requiring absence from work for more than three consecutive work days, may utilize vacation and personal leave upon exhaustion of all accrued sick leave..
+B.	Extended leave at one-half (J4) pay shall be authorized after sick leave accruals, unused vacation days and personal leave days have been exhausted with the approval of the Department Head. Such leave shall be granted only on |	the basis of a doctor’s certificate, clearly stating the nature and expected
+length of disability. Said doctor’s certificate is to be filed with the j	Department Head within seven (7) calendar days of the employee exhaust-
+ing all full pay accruals. The extended sick leave will be retroactive to the date of eligibility.
+C.	Eligibility: Extended sick leave at one-half (M) pay shall be granted to employees with a minimum of one year of continuous service. This benefit can only be used once every 12 months no matter how short the duration of one-half (^) pay is used, except that the appointing authority, at his sole discretion, may permit the use of one-half pay leave more than once in any 12 month period.
+D.	Initial Allowances: Based upon years of service to the City, employees will have the following allowances of extended sick leave at one-half (lA) pay for each of the service time periods indicated:
+One full year but less than three years - 30 working days;
+Three full years but less than six years - 60 working days;
+Six full years or more - 90 working days.
+Service time must be continuous years of service with the City of Rochester.
+E.	Additional Allowances: If an employee utilizes any amount of extended sick leave at one-half (JO pay, he will begin re-accumulating the allowance according to the schedule in subdivision D as if he were a new employee. However, an employee will retain any unused allowance previously accumulated. Retained allowances and additional allowances provided in this subdivision shall not be cumulative and in no event shall the total allowance exceed the maximum allowance set forth in subdivision D. An employee’s eligibility for additional allowance will be calculated from the day he resumes working after having last used extended sick leave at one-half (J4) pay.
+F.	Employees shall receive the following fringe benefits while on one-half !	(A) pay sick leave: Pension, health insurance, dental insurance, and Life
+;	Insurance. There shall be no accrual of vacation, sick or personal leave while
+on one-half (A) pay sick leave.
+J 26
+I
+Section 6	- Extended Unpaid Sick Leave With Insurance Benefits
+A.	An employee who is certified by a Physician as being temporarily disabled from an illness, injuries, or other disabling conditions, and has exhausted all their leave benefits, may submit a written request to their appointing officer for an unpaid leave of absence with Health Insurance, Dental Insurance, and Life insurance coverage. [As provided by Article 12 of this Agreement]. Such Insurance coverage shall last for the duration of the approved leave. Any employee liable to contribute to their Health and Dental Insurance who is in the arrears of such contributions for a period of more than two (2) months shall lose their Health, Dental, and Life Insurance coverage.
+B.	This leave request shall not be for more than one year. Approval of this leave shall be at the sole discretion of the appointing officer.
+C.	Employees shall be returned in the same title they hold at the time the leave of absence was approved, provided the employee furnishes the City two (2) weeks notice of the exact day of return. Employees who return from the unpaid leave of absence shall not necessarily be returned to the same job assignment.
+Section 7	- Extended Unpaid Sick Leave Without Insurance Benefits
+A.	If an employee with one full year of continuous service or more is ill for a prolonged period and uses all his paid leave credits, including those allowances under this Article, the employee shall be granted an extended unpaid sick leave not to exceed sixty (60) additional working days for such extended illness. The employee shall receive no fringe benefits while on such leave.
+B.	The employee shall present to the Employer within three (3) working days after the beginning of the period for which the employee is requesting extended unpaid sick leave, a doctor’s certificate setting forth the nature of extended illness and estimated duration of such extended illness.
+C.	An employee, in accordance with allowances as set forth in A above, is entitled to only one extended unpaid sick leave not to exceed sixty (60) working days during each four (4) years of continuous service.
+Section 8	- Excessive Use of Sick Leave
+A.	(1) Excessive use of sick leave is defined as four (4) incidents of sick leave, whether paid or unpaid, in a three (3) consecutive month period. An incident is defined as one or more consecutive days of sick leave arising from the same illness or two separate uses of sick leave of less than one shift each, but greater than one (1) hour.
+27
+
+(2) Excessive use of sick leave for operational staff in the Emergency
+(3)
+Communications Department who work a 4-2 work wheel shall be defined as (3) incidents of sick leave, whether paid or unpaid, in a consecutive ninety (90) calendar day period. An incident is defined as one or more consecutive days of sick leave arising from the same illness or two separate uses of sick leave of less than one shift each, but greater than one (1) hour.
+Penalties for excessive use of sick leave shall be as follows:
+First Offense Second Offense
+Third Offense
+Fourth Offense
+Written Reprimand
+Three (3) day suspension without pay or fine of one day’s pay or loss of one vacation day
+Five (5) days suspension without pay or fine of two days’ pay, or loss of two vacation days Further disciplinary action which may include termination.
+B.	The levels of discipline stated above are permissive, and the Department Head may consider extenuating circumstances and impose a lesser penalty.
+C.	If a period of one year expires from the date of an offense as defined herein without the commission of an additional offense, the employee shall be considered to be at the First Offense level in the event of any further offense.
+D.	Upon prior certification by a physician that an employee must be under continual medical attention for an illness which requires that employee to use sick leave, such sick leave related to that illness shall not be an incident under this Section provided that the employee submits a physician’s statement to his Department Head that he was undergoing such continual medical attention at the time he used sick leave. A certificate must be submitted each time the employee uses sick leave. The certificate must be presented to the supervisor upon return to work, except that in unusual circumstances, where the employee is under the direction of a physician to be absent from work due to treatment or self administered prescription medication, the certificate, identifying the specifics of the situation, shall be presented within five working days of the return to work. In the event the employee does not submit the medical certification, the incident will be counted under this Section.
+ARTICLE 9 UNPAID LEAVES OF ABSENCE
+Section 1	- Eligibility
+An employee may submit a written request to his appointing officer for an
+i'-
+28
+unpaid leave of absence not to exceed one year. Approval of this request shall be at the sole discretion of the appointing officer.
+Section 2	- Benefits
+A.	Employees will retain but not accrue seniority, sick leave, vacation leave, and personal leave while on any leave of absence granted under Article 9. All other benefits shall be discontinued.
+B.	Employees shall be returned in the same title they held at the time the leave of absence was approved provided the employee furnishes the City two (2) weeks notice of the exact day of return. Employees who return from an unpaid leave of absence shall not necessarily be returned to the same job assignment.
+Section 3	- Other Employment
+A leave of absence for employment with other than the City of Rochester, shall not be approved except for Union business as set forth in Article 9, Section 5.
+Section 4	- Application for Leaves
+A.	Any request for an unpaid leave of absence shall be submitted in writing by the employee to his Department Head. The request shall state the reason the leave of absence is being requested and the length of time off the employee desires indicating the dates from and to on the request.
+B.	Authorization for an unpaid leave of absence shall be furnished to the employee in writing by his Department Head with a copy to be sent to the Union by the Department Head.
+C.	Requests for immediate unpaid leaves not to exceed ten (10) working days because of a special emergency shall be answered within twenty-four (24) hours of the receipt of the request by the Department Head.
+D.	Upon receipt by the Department Head of a request for an unpaid leave of absence such request shall be answered within ten (10) working days.
+E.	In the event that the Department Head fails to comply with the time limits as set forth in subdivision D above, the request for such leave shall be deemed to be granted. This provision shall not apply to requests that do not conform to the requirements set forth in Section 4 A. of this Article.
+29
+Section 5	- Union Business
+A.	Employees elected to any Union office or selected by the Union to do work which takes them from their employment with the Employer shall, at the written request of the Union, be granted an unpaid leave of absence. The leave of absence shall not exceed one (1) year. This leave shall not be denied.
+B.	Members of the Union selected by the Union to participate in any other Union activity shall be granted an unpaid leave of absence at the request of the Union. An unpaid leave of absence for such Union activity shall not t	exceed one (1) month but it may be renewed or extended for a similar
+I	period of time upon the request of the Union.
+|	C. This Section shall apply to no more than one (1) employee at any one period
+!	of time.
+Section 6 - Educational Leaves
+i A. After completing one (1) year of service, any employee, upon written 1	request to his Department Head, may be granted a leave of absence for
+■	educational purposes, at the sole discretion of the Department Head. The
+period of the leave of absence may not exceed one (1) year.
+B.	There shall be a minimum of three (3) years between the end of such leave of absence with extensions and the granting of a new leave of absence.
+C.	Employees may also be granted leaves of absence for educational purposes I	not to exceed one (1) month in any one (1) calendar year to attend confer-
+■;	ences, seminars, briefing sessions or other functions of a similar nature that
+!,	are intended to improve or upgrade the individual’s skill or professional
+!	ability, as it applies to his position in City employment.
+| Section 7 - Family Medical Leave Act (FMLA)
+j A. Request for Leaves of Absence under the Family Medical Leave Act shall be I.	submitted to the appropriate appointing authority at least two weeks in
+advance of the start of the leave, where possible. The Employer shall design i	and provide the request form.
+B.	For purposes of an FMLA Leave, “year” is defined as a rolling 12 months measured backward from the date leave is taken and continuous with each |	additional leave day taken.
+30
+
+C.	All absence due to illness of three (3) or more consecutive work days shall be considered as leave under FMLA.
+D.	Paid leave utilizing sick leave accumulation first, then vacation and personal leave shall substitute for and precede any unpaid leave under FMLA where the employees illness is the cause of the leave.
+E.	Paid leave utilizing vacation and personal leave banks, and up to five (5) sick days per year will be substituted for and precede the granting of unpaid leave in cases where the reason for the FMLA leave shall be other than the employee’s illness.
+F.	Medical certification shall be required for employee illnesses and/or illness of covered family members. Medical certification shall be designed by the Employer with copies made available to all unit members.
+G.	While on an unpaid leave of absence under the FMLA the employee shall not accrue any other benefit not specifically required by the FMLA. While on an approved FMLA leave the employee shall maintain existing medical, dental and life insurance, as contained in Article 12 and 13 of this Agreement, and the employee shall continue to make required contributions to premiums.
+H.	FMLA leave will run concurrently with all approved absences permitted under this Agreement.
+ARTICLE 10	PAID LEAVES
+Section 1	- Death in Family
+In the event of death in the family of an employee (defined as: spouse, domestic partner, parents, children, sisters, brothers, grandparents, grandchildren, father-in-law, mother-in-law, brother-in-law, sister-in-law, step-parent, stepbrother, step-sister, step-child or any relatives residing in the employee’s household), the employee will be allowed up to four (4) consecutive work days leave of absence, from the date of death, with pay, to make household arrangements, arrangements for the funeral or to attend the funeral services. Notice of death shall be furnished to the Employer by the employee upon request.
+Section 2	- Personal Leave
+A.	Employees covered by this Agreement shall receive personal leave days upon request in accordance with this Section.
+B.	On the first day of the first full payroll period after January 1 of each year,
+31
+each employee who has been employed for one (1) or more continuous years shall be credited with four (4) days of personal leave. Employees continuously employed for less than one year on January 1 will receive personal leave as follows:
+Employees hired on or prior to April 1 of the previous year will be credited with four (4) personal days. Employees hired after April 1, but on or prior to October 1 of the previous year, will be credited with two (2) personal days. Employees on unpaid status or in any other employment status which does not allow for the accrual of personal leave during all or any part of the preceding calendar year shall receive the pro rata amount of personal leave to which such employee would otherwise be entitled.
+j C. Personal leave is to be used for personal business that cannot be done outside i	of the employee’s workday. Except in urgent emergencies, employees must
+j	request personal leave at least two (2) working days in advance from an
+j	authorized supervisor. Employees requesting personal leave with less than
+j	two (2) working days notice must state the purpose of the leave. Personal
+leave shall not be unduly denied. However, Bureau or Division Heads shall have the right to limit the number of employees on personal leave according to City work requirements.
+D.	Personal leave may not be taken for less than one hour.
+E.	On the first day of the first payroll period after January 1 of each year all unused personal leave will be converted to sick leave. This provision is not intended to increase the maximum sick leave accruals set forth in Article 8, Section 2. In lieu of receiving full future accruals of personal leave as provid-i	ed in this Section, employees may elect to receive payment for up to four (4)
+full days, in whole days, of personal leave at one hundred percent of their base rate of pay as of the December 30 preceding the time of accrual. {	Employees so electing will not be credited with the number of personal leave
+'	days for which payment is elected. The option to elect payment in lieu of
+personal days will be made in advance as prescribed by the City with '	payment to be not later than one month after the time when personal leave
+1	accrual would otherwise be made.
+I Section 3 - Jury Duty
+I A. Employees shall be granted a leave of absence with pay when they are I	required to report for jury duty or jury service. An employee must notify his
+J	immediate supervisor no later than his first scheduled shift following receipt
+,	of a notice of selection for jury duty or examination, and must provide proof
+;	of the necessity of such service to his Department Head.
+32
+B.	Employees are required to work all available reasonable hours outside of those actually required for jury duty, or jury duty examination in accordance with the employee’s regular work schedule. Employees must request telephone alert to the extent allowed by the Commissioner of Jurors or the Court.
+C.	The City shall have the right to seek a waiver from jury duty for the employee. Employees exempted from jury duty must accept the exemption or shall not be paid by the City for such time.
+D.	An employee on jury duty shall receive his regular pay less the allowance paid to jurors.
+Section 4	- Civic Duty
+Employees subpoenaed to appear before a court or other public body on any matter not related to their work, and in which they are not personally involved as a plaintiff or defendant, shall be granted leave with pay for the period necessary. Proof of such requirement may be required by the Department Head.
+Section 5	- Civil Service Examination
+Employees shall be allowed time off at straight time pay to take open competitive and promotional examinations given by the City of Rochester Municipal Civil Service Commission for City positions within their career ladder. However, no employee shall be denied the right to use accrued leave time or time off without pay for the purpose of taking Civil Service examinations outside the scope of his career ladder, except in case of operational emergencies. The employee shall inform the Division Head or his designee as soon as possible of the need for such time off.
+Section 6	- Military Service Leave
+A.	Any employee who is a member of a reserve force of the United States or this State and who is ordered by the appropriate authorities to attend a training program or perform other duties under the supervision of the United States or this State shall be granted a leave of absence during the period of such activity with no loss of time or pay not to exceed thirty (30) days or twenty-two (22) work days per calendar year as provided by law. In the case of a declared state of emergency, military service leave may be extended for an additional period not to exceed ten (10) calendar days per year, provided the employee provides a copy of his military orders.
+33
+B.	The employee shall provide to the Employer a copy of the employee’s military authorization at least two (2) weeks prior to going on such leave in the event of scheduled military duty or upon return to work in the event of emergency military duty. Proof of attendance must be submitted upon return to work.
+Section 7	- Leave for Compensable Injury or Occupational Disease
+A.	The Employer shall provide New York State Worker’s Compensation coverage for employees.
+B.	Any employee who is unable to perform the duties of his employment due to a compensable injury or occupational disease, as defined in the Worker’s Compensation Law, received or contracted in the service of the Employer, and who receives Worker’s Compensation benefits, shall receive a leave for compensable injury or occupational disease in accordance with Section 71 of the Civil Service Law.
+C.	Pay for leave for compensable injury or occupational disease shall be in i	accordance with the following:
+1.	The employee shall use accrued sick leave for the first five (5) days. If ।	the employee has less than five (5) accrued sick days available for this
+purpose, he/she may use his/her accrued vacation and/or personal leave ।	after the exhaustion of his/her accrued sick leave benefits. When the
+Workers’ Compensation Board determines that coverage exists back to the first day, an amount of leave shall be returned to the employee’s time bank equal to the compensation rate.
+2.	Beginning with the sixth (6th) work day not worked, due to a compen-j	sable injury, the employee shall receive a supplemental pay which shall
+l1	be 80% of the difference between his regular pay and any Worker’s
+Compensation benefits the employee receives. The supplemental pay shall be deducted from and shall not exceed the employee’s leave accruals.
+3.	If the employee remains unable to perform the duties of his position, and j	has utilized all of his accrued leave, the employee may apply for one's	half (%) sick pay to be utilized to continue supplemental pay. one-half (%)
+(	pay leave for supplemental pay purposes shall be granted if:
+I	a. The employee complies with the provisions of Article 8, Section 5,
+A., and
+>	b. The employee is eligible for one-half pay sick leave.
+34
+ARTICLE 11	WAGES
+Section 1	- Wage Ad justments
+Effective July 1, 2002 an increase in the wage schedule of 2.50% Effective July 1, 2003 an increase in the wage schedule of 2.75% Effective July 1, 2004 an increase in the wage schedule of 2.80%
+Section 2	- Salary Step Increases
+A.	Employees who are not at the top step of their salary bracket shall receive step increases in accordance with the following:
+1.	Employees who have at least four (4) months of service in the same bracket as of January 1, 2003, January 1, 2004, January 1, 2005, will receive a one (1) step increase effective on the first day of the first payroll period after January 1, 2003, or January 1, 2004, or January 1, 2005, unless their appointing officer, upon evaluation of the employee, determines that the employee should not receive a salary step increase at that time. An appointing officer may deny a salary step increase only on the basis of (a) poor work performance, or (b) poor attendance. A denial of a salary step increase may be grieved under the procedures set forth in Article 18.
+2.	The salary and wage schedules for full-time employees hired on or after August 1, 1983, will contain two additional steps in each bracket. The first of such steps shall be six percent (6%) lower than Step 1 and the second of such steps shall be three percent (3%) lower than Step 1. Thereafter, full-time employees hired on or after August 1, 1983 will remain employed in salary and wage schedules containing such additional two steps. Employees hired in bargaining unit positions prior to August 1, 1983 will remain in salary and wage schedules not containing such two additional steps for as long as they are so continuously employed by the City.
+3.	The salary and wage schedules for full time employees hired on or after July 1, 2003, will contain an additional step in each bracket listed in Appendix A. This step will be three (3%) percent lower than step A. Employees hired in bargaining unit positions prior to July 1, 2003, will remain in salary and wage schedules not containing such additional step for as long as they are so continuously employed by the City.
+B.	When an employee is promoted to a higher wage bracket, the employee shall be placed in the step of the higher bracket which shall result in a higher wage than that to which the employee was entitled prior to the promotion, and with no loss of pay taking into consideration step increases. When an employee is
+35
+demoted to a lower wage bracket, the employee shall remain at the same step at which the employee was employed prior to the demotion, unless the appointing authority places the demoted employee at a higher step within the lower bracket.
+i	Section 3 - Longevity Service Pay
+।	A. Employees in the bargaining unit will receive annual longevity payments
+1	based on their adjusted hire date according to the following schedule:
+5 Years $50
+;	10 Years	$150
+!	15 Years	$250
+20 Years $350
+;	25 Years	$450
+i	30 Years	$550
+I	B. Method of Payment: Longevity payments shall be applied by adding said
+!	payments to the employee’s weekly or bi-weekly paychecks, whichever is
+j	applicable, in the following manner:
+I	1. Employees shall be eligible for longevity payments upon the anniversary
+■'	date of their employment which shall occur at the completion of the 5th,
+10th, 15th, 20th and 25th year of service.
+।	2. Longevity payments shall commence in the first full payroll period of
+i	the month following the month in which the anniversary falls.
+Section 4 - Pay Period
+I	A. The salaries and wages of employees shall be paid on the same day each pay
+(	period. In the event this day is a holiday, the preceding day shall be the
+pay day.
+!	B. The day of payment of salaries and wages may be subject to change by the
+Employer upon giving of no less than sixty (60) days notice, after prior
+;	consultation with the Union.
+C. Employees hired on or after January 1, 2003, shall be automatically enrolled !	in direct deposit for their pay checks.
+!	Section 5 - Out-of-title Pay
+I	An employee designated by his Department Head or authorized representative
+!	to work out-of-title shall receive for the duration of such out-of-title work, the
+i	rate of pay he would receive if regularly promoted to the title, provided, how-
+I	ever, that out-of-title shall not be extended where such work is for a period of
+36
+time less than one full day. Out-of-title pay is not intended for employees being trained for a higher job classification while being trained and supervised within a City-approved training program.
+Section 6	- Pay Rates & Regulation for Per Diem Employees
+A.	Per diem employees in refuse collection who are assigned extra work in addition to their normal route, will be paid for the proportion of the extra route that they are assigned: e.g. % route, % route, % route, full route.
+B.	Per diem employees in refuse collection will continue to perform their work under the Incentive System which permits their release from work by their supervisors upon satisfactory completion of their day’s assigned work.
+C.	An Environmental Service Operator I will be responsible for performing routine daily maintenance before and after operating his vehicle on his route. This vehicle maintenance will be considered as part of the normal work day of these employees.
+D.	If there are delays beyond the control of the per diem worker, and their work day extends beyond eight (8) hours, they will receive overtime pay at the premium rate. Such delays shall include, but not be limited to, truck breakdown, snow storms, etc.
+E.	If it is necessary for the driver of a vehicle to take the vehicle to the appropriate maintenance garage for repair, the driver will remain with the vehicle if it is reasonably expected that the repairs will take less than one hour. The driver will be released from the vehicle if the repairs are reasonably expected to take longer than one hour. The authorized City representative /designee at the appropriate maintenance garage will determine the expected repair time for each vehicle, and the driver will report to this individual when he takes the vehicle to the appropriate maintenance garage.
+F.	Per diem employees who are assigned to an hourly work crew, shall be paid at the rate of % of a day’s pay for each hour worked.
+Section 7	- Calculation of Salaried Employee Pay Rates
+The hourly rate of salaried employees shall be determined by dividing the basic annual rate of compensation by the product of the regular hours per work week multiplied by fifty-two (52).
+37
+Section 8	- Tool Allowance
+Employees of the Bureau of Equipment Services who have completed 12 months in positions in which they are required to provide their own tools shall receive reimbursement for the purchase of tools used in the performance of their job, up to a maximum of $400 per year. In the event the employee purchases appropriate tools in excess of $400 in a fiscal year, the unreimbursed remainder may be submitted the following year for reimbursement, as long as the total in any one fiscal year does not exceed $400. Reimbursement for tool purchases shall be made in January, in accordance with the following procedures:
+1.	Employees shall submit receipts for the preceding calendar year, with a completed claim voucher, to the Fleet Manager no later than January 15 of each year.
+2.	Receipts must be originals and shall include the printed name of the seller, a description of the item purchased (i.e. tool name and/or description), and the date of sale.
+Section 9	- Educational Reimbursement
+The educational (tuition) reimbursement program shall be continued consistent with City Personnel Policy number 4540, as amended by the employer.
+Section 10	- Shift Differential
+A. A shift differential of $.30 per hour shall be paid to eligible employees effective 7/1/99.
+(B. Eligible employees shall be those who work a shift other than the day shift in the following operations:
+1.	Department of Environmental Services - Security.
+2.	Department of Finance/Data Processing - Computer Operators.
+3.	Public Safety Administration - Police Department and Office of Emergency Communications, First, Third and Fourth Platoons.
+4.	Department of Environmental Services - Dispatchers, Equipment Services, Water Distribution, Special Services including CBD Refuse Collection, Operations Snow and Ice Control (Winter), Cleaners assigned to City Hall, and employees in Upland Water.
+5.	Rochester Public Library - Cleaners.
+38
+Section 11	- Flexible Spending Account & Parking/Transit Reimbursement Account
+A.	The employer shall make available to all members a Flexible Spending Account program to permit payroll deduction of pre-tax dollars for limited purposes, approved by the Internal Revenue Codes. The design, method of administration and choice of administrator shall be at the sole discretion of the Employer. Unless waived in writing, each bargaining unit member shall be enrolled for payroll deduction contributions for medical insurance under this Agreement. The employer may discontinue the program in the event that the IR Codes are modified to eliminate or substantially reduce the benefit.
+B.	Effective August 1, 1999 the employer shall make available to all members who are assigned to work at a facility within the Central Business District, who pay for parking of their personal vehicle or transit passes, a Parking/Transit Reimbursement Account as allowed by the “Transportation Equity Act for the 21st Century.” The design, method of administration and choice of administrator shall be at the sole discretion of the Employer. Members wishing to participate shall complete the documentation required by the employer/administrator. The employer may discontinue the program in the event that the federal law is modified to eliminate or substantially reduce the benefit.
+ARTICLE 12	LIFE INSURANCE COVERAGE
+Effective July 1, 1999, all employees shall be provided with a $5,000 life insurance with double indemnity for accidental death. The beneficiary of the double indemnity shall be the beneficiary designated on the life insurance enrollment. The City reserves the right to determine the carrier.
+ARTICLE 13	HOSPITALIZATION AND MEDICAL BENEFITS
+Section 1	- Coverage for Active Employees
+A.	The City will make available to employees hired before July 1, 1981, the Blue Cross/Blue Shield basic plan, plus the Blue Million rider, and the $5 co-pay prescription rider, all as provided and amended by Blue Cross/Blue Shield. Those enrolling in a single contract shall contribute $1 per month; those enrolling in a family contract shall contribute $2.75 per month. All contributions are by payroll deduction.
+B.	Employees hired on or after July 1, 1981, and before September 1, 1989, shall be eligible for the following hospitalization and medical insurance benefits: Blue Cross/Blue Shield Blue Million (if previously enrolled in
+39
+plan), Blue Choice Select or Preferred Care Community. The City will contribute 85% of the total premium of the plan in which the employee is enrolled and the employee will contribute 15% of the total premium through payroll deductions. If the employee chooses to enroll in Blue Choice Value or Preferred Care Opportunity instead of the above options, the City will contribute 90% of the "total premium and the employee will contribute 10% of the premium through payroll deductions.
+C.	Employees hired on or after September 1, 1989 and before January 1, 1993 shall be eligible to choose from the following medical insurance plans: Blue Cross/Blue Shield Community Comprehensive II, Blue Choice Value or Preferred Care Opportunity. The employee shall contribute 10% of the monthly premium of the plan in which the employee is enrolled through payroll deductions.
+D.	Employees hired on or after January 1, 1993 shall be eligible to choose from the following medical insurance plans: Blue Cross/Blue Shield Community Comprehensive II, Blue Choice Value or Preferred Care Opportunity. The employee shall contribute 25% of the monthly premium of the plan in which the employee is enrolled through payroll deductions.
+E.	As an alternative to the coverage in paragraphs A. through D., above, employees may elect to enroll in an HMO. Employees electing coverage under an HMO option will contribute, on a payroll deduction basis, a portion of the premium as set forth in paragraphs A. through D.
+F.	It is expressly understood by the parties that an employee married to another City employee or City retiree shall be eligible for only one single health insurance contract in the event his or her spouse is covered by his or her own single health insurance contract, and further, that such employee shall not be eligible for any separate health insurance coverage if his or her spouse is covered by a family health insurance contract.
+G.	All coverages made available by the employer as provided and amended by the insurer.
+H.	It is the obligation of the employee to advise the City’s benefits section of any change in family status that impacts the City’s cost of health insurance. An employee’s failure to notify the City benefits section of a change in family status, which results in an unnecessary expenditure to the City, will result in the payroll deduction of such costs from the employee.
+40
+I.	The City and the Union recognize the severe escalation of health care and medical insurance costs and agree to negotiate medical insurance cost containment measures, including, but not limited to, changing the insurance carrier, self-insurance and/or third party administration of benefits.
+Section 2	- Coverage for Retirees
+A.	The City will make available hospitalization and medical insurance to qualified employees who retire under the New York State Employees’ Retirement System. In order to qualify for the benefits set forth in this Section, employees must meet both of the following two conditions:
+1.	The employee must be at least age 55, unless granted a disability retirement, and must retire directly into or under the New York State Employees’ Retirement System from active, full-time employment with the City and receive a pension therefrom, and
+2.	The employee must have served a minimum of ten (10) consecutive years of active, full-time employment with the City immediately preceding retirement into or under the New York State Employees’ Retirement System. The term “consecutive” shall not apply to persons who have a break in service due to any leave granted under the terms of this Agreement or to any employee who is laid off and recalled pursuant to Article 16, Sections 6 and 8 of this Agreement or pursuant to Section 80 and 81 of the Civil Service Law. However, such employees must actually work a minimum of ten (10) years for the City, including at least one (1) year immediately prior to retirement. The required minimum period of time set forth in this paragraph will be waived in the event the employee is granted and receives a New York State Employees’ Retirement accidental disability retirement.
+B.	Qualified employees, as defined in subdivision A of this Section, who retire on or after January 1,1993, shall receive family or single hospitalization and medical insurance benefits, and at the contribution levels, all as set for active, full-time employees in Section 1 of this Article.
+C.	Notwithstanding any provision of this Section, the City shall not be liable for providing hospitalization and medical insurance benefits, or any portion of the cost thereof, to retirees eligible for hospitalization and medical insurance benefits available from a source other than the City of Rochester.
+D.	Retirees may select alternative coverage through an HMO made available by the employer. Those selecting HMO coverage shall contribute at the rates consistent with those set forth for active employees, but shall also contribute any amount in excess of the Employer’s obligation as established above.
+41
+E.	It is expressly understood that the City indemnity health insurance does not cover any medical expenses covered by Medicare A and B for those being provided benefits in retirement plans. It is also understood for those Medicare eligibles participating in City HMO health insurance retirement plans, Medicare A and B coverage participation is required.
+Section 3	- Dental Benefits
+A. Effective August 1, 1999, the coverage shall change to the Blue Cross/Blue	
+Shield City Preferred Plan.	
+The Plan provides:	No deductible
+Preventive	100% in network
+Basic restorative	100% in network
+Major restorative	100% in network
+Annual Maximum	$1,200
+Orthodontics Lifetime	$2,000
+Dependents to 26th Birthday	
+B.	Employees eligible for the Dental Insurance Program may elect Single Plan coverage or Family Plan coverage. Employees electing to be covered under the Single Plan may do so on a non-contributory basis. Employees electing to cover themselves and their eligible dependents under the Family Plan will contribute 25% of the total cost of the Family Plan premium (which includes the individual employees) and the City will contribute 75% of the total cost of the Family Plan premium.
+C.	The City and the Union recognize the severe escalation of health care and medical insurance costs and agree to negotiate dental insurance cost containment measures, including, but not limited to, changing the insurance carrier, self-insurance and/or third party administration of benefits.
+ARTICLE 14	RETIREMENT PLAN
+Employees shall be covered by the New York State Employees’ Retirement System. In addition, the City will make available on a voluntary basis a deferred compensation plan. Such deferred compensation plan will be designed and administered by the City, which reserves the right to make changes in such plan upon prior notice to the Union. A deferred compensation plan will be offered as soon as administratively possible after the execution of this Agreement.
+42
+ARTICLE 15	SENIORITY
+Section 1	- Seniority Defined
+Seniority means an employee’s length of continuous full-time service for the Employer from the employee’s original date of hire as a full-time employee as adjusted by the subtraction of any unpaid leave time, except as provided in Section 5 of this Article, whether authorized or not.
+Section 2	- Seniority Acquired
+A.	All employees shall first acquire seniority on the day following the completion of six (6) months of continuous full-time service. No employee shall have seniority rights during this six (6) month period, and, in particular, such employee may be transferred, disciplined for other than Union activities, or discharged, all at the option of the Employer. Such employee shall not have the right to bid on promotional opportunities. CETA enrollees who directly transition to a regular full-time position shall be credited with seniority for such CETA time at the time of appointment to a regular full-time position.
+B.	In the event of a transfer or promotion of an employee from one job classification to another job classification within the bargaining unit, the employee shall continue to acquire seniority from his adjusted date of hire.
+Section 3	- Loss of Seniority
+Not withstanding the provisions of Section 1 of this Article and except as otherwise provided in Section 4 of this Article, an employee shall forfeit all accrued seniority and, if re-employed subsequently, have only the status of a new employee, under any of the following conditions:
+A.	When he resigns his employment with the Employer, and is not rehired within one year, or
+B.	When he is discharged for just cause, or
+C.	When he is laid off for a period exceeding his seniority; or four (4) years for employees on preferred Civil Service list, which ever is greater, or
+D.	When following layoff, he fails to report for work within three (3) weeks after written notice from the Employer by registered or certified mail to his last known address, or
+E.	When he fails to return to work at the expiration of an authorized leave of absence.
+43
+Section 4	- Restoration of Seniority
+Except where seniority was forfeited pursuant to Section 3 subdivisions B, D or E of this Article, should an employee be rehired, within the bargaining unit, by the Employer within one (1) year of termination of his seniority, the employee shall have his accrued seniority restored.
+Section 5	- Computing Length of Continuous Service
+A.	In computing length of continuous service for seniority purposes, as defined above, time lost as a result of any of the following shall be considered as included within the period of continuous service:
+1.	Injury in the line of duty.
+2.	Service as a regularly empaneled member of a State or Federal Jury.
+3.	Service pursuant to a military leave of absence.
+4.	Authorized Union leaves.
+5.	Authorized paid City leave of absence.
+B.	Except as provided above, there shall be no accrual of seniority while absent from City employment.
+Section 6	- Seniority List
+If requested by the Union, the Employer shall post on all Union bulletin boards a seniority list showing the adjusted hire date of each employee employed within the division in which the bulletin board is located. A copy of the seniority list shall be furnished to the local Union when it is posted. The seniority list will show the names, job titles and seniority date of all employees in the unit entitled to seniority. The seniority date shown on the list shall govern, unless written request for change in such date is received by the Director of Human Resource Management within thirty (30) days of the date of posting.
+Section 7	- Transfers Outside of Bargaining Unit
+An employee transferred by the Employer to a position within the employ of the Employer outside the coverage of this Agreement, shall retain seniority acquired, but shall not accumulate additional seniority. This Section shall only take effect in the event the employee subsequently returns, on a permanent basis, to a position within the coverage of this Agreement.
+44
+Section 8	- Seniority for Local Union Officers
+A.	Except as otherwise provided by law, the following Union officers, for the purpose of determining the order of layoffs, shall have top seniority within the bargaining unit, provided they are qualified to perform the work within a thirty (30) day training period:
+Local 1635 President;
+Local 1635 1st Vice President;
+Local 1635 2nd Vice President;
+Local 1635 Secretary;
+Local 1635 Treasurer.
+B.	Except as otherwise provided by law, a Union Steward, for the purpose of determining order of layoffs, shall have top seniority within the Division of the Department which he represents. Such Stewards shall be retained in employment so long as a work force exists in the Division of the Department which they represent, provided that no such Stewards shall be retained in employment under this paragraph unless work which they can learn to perform within a thirty (30) day working period is available in the Division of the Department which they represent.
+C.	The above described Union Officers or Stewards who are employed in the competitive class and who are subject to layoff, shall, in event of such layoff, be offered an equal or lower paying position. In the event that this subdivision is implemented, the appropriate provisions in subdivision A and B of this Section shall apply.
+ARTICLE 16	WORK FORCE CHANGES
+Section 1	- Definition of Promotion
+The term promotion, as used in this Article, means the advancement of an employee to a higher job classification within the bargaining unit. The term promotion shall not include the upgrading of a job title to a higher bracket, without any change in the job specification of the job title or to the reclassification of an existing position that is currently filled.
+Section 2	- Promotional Opportunities
+A.	Whenever an opportunity for promotion occurs because a job opens, in other than a temporary situation as defined elsewhere in this Article, in any existing job classification within the bargaining unit, or as a result of the development or establishment of a new job classification that has been added to
+45
+the bargaining unit, a notice of such openings shall be posted on all Union bulletin boards stating the job classification, rate of pay and the nature of the job requirements in order to qualify. Such postings shall be for a period not less than five (5) working days. Postings shall not be required in the event of positions being filled due to layoff.
+B.	In filling open jobs, applications submitted for transfers as provided in Section 10 of this Article, will be considered before the job is posted.
+C.	During the posting period, employees who wish to apply for the open position, including employees on layoff, may do so. An employment application and a bidding form shall be submitted to the City of Rochester’s Bureau of Human Resource Management at City Hall. It shall be the employee’s responsibility to keep informed of promotional opportunities. In the event that an employee is determined to be unqualified for a position, he shall be informed of the disqualifying factor(s) and shall be allowed three (3) working days to resubmit his application.
+D.	A notice listing those employees who have qualified for the position shall be posted by the Employer on all bulletin boards within two (2) working days of the establishment of the list by the Employer. This notice shall be posted >	for a period of at least ten (10) working days. The name of the employee or
+p	employees selected for the position shall be sent to the Union Recording
+!	Secretary.
+[	E. 1. New postings are not required for vacancies in the same title that occur
+J	within three (3) months of the last date of initial posting at the sole option
+!	of the Employer. In these cases, while the vacancy will not have to be
+posted, the City shall on the posting notice, as set forth in subdivision A ।	of this Section, state that the application from such posting may be used
+for a period of three (3) months.
+i	2. The City will notify the Union of the vacancy occurrence and the City’s
+i	intention to fill the vacancy from the list established by the initial posting
+?	and provide the Union President with a copy of the list being used to fill
+|	the vacancy.
+i	Section 3 - Promotion for Laboring, Non-Competitive, Provisional,
+i	Temporary Appointments
+J,	A. Bidders who respond to postings as specified in Section 2 of this Article, and
+who meet the minimum qualifications for the job shall be ranked in order |	of seniority.
+46
+B.	If the appropriate appointing authority determines that a bidder lacks the ability to do the job or cannot learn to do the job within a reasonable amount of time, the appointing authority shall state the reasons for such determination in writing, the Bureau of Human Resource Management will submit them to the Union and the bidder shall be deemed not qualified for the appointment. Such reasons shall not be arbitrary and capricious.
+C.	The appointing authority shall fill the vacancy by selecting one of the four qualified bidders standing highest on the list within thirty (30) days of the establishment of such list. If there are fewer than four (4) qualified bidders to select from, the appointing authority may, but shall not be required, to fill the vacancy among the remaining qualified bidders.
+D.	The City may make an Affirmative Action Appointment upon:
+1.	Written certification to the Union by the Director of Human Resource Management of the City’s desire to make an Affirmative Action Appointment, and
+2.	The selection by the appropriate appointing authority of a qualified bidder, regardless of ranking, whose appointment is consistent with the City’s Affirmative Action Plan.
+E.	Any employee selected in accordance with the procedures set forth in this Section and Section 2E. shall undergo a probationary period of a minimum of two (2) months but not to exceed six (6) months. If it is found that such employee does not meet the requirements or responsibilities of the position to which he has been selected during the probationary period, then such employee shall be restored to his former position. This restoration shall not be considered a demotion. If work in his former position is not available, the layoff and seniority provisions of this Agreement shall apply.
+F.	The provision of subdivision A above may be waived when directed by a court of competent jurisdiction or Federal or State agency having such authority under law, in order to bring about an equitable distribution of employees as provided by the Equal Employment Act of 1972, U.S. Public Law 92-261, or the New York Human Rights Law (Executive Law, Article 15). However, the application of this provision does not prohibit individuals from exercising any rights possessed by them by statute.
+Section 4	- Promotion For Competitive Positions
+A.	A promotional opportunity within the competitive class of the Civil Service which is to be filled shall be filled pursuant to the Civil Service Law and the rules of the Rochester Municipal Civil Service Commission. In the event that
+47
+there is no Civil Service list of eligible applicants, the selection shall be made in accordance with the provision of Section 2 and 3 of this Article.
+B.	Where a vacancy occurs in a position classified as competitive, and where a Civil Service examination has been given, but no list has yet been established, the posting provisions of Sections 2 and 3 shall not apply. In the event the City desires to fill the vacancy on a provisional basis, the City shall canvas those employees who have taken the Civil Service examination and shall establish a list, ranked in order of seniority, of those employees who wish to be considered for the position. The City may then make an appointment from the top four (4) employees on the list. In the event that the list has less than four (4) employees the City shall not be required to use the list in making a provisional appointment.
+Section 5	- Temporary Promotions
+A.	Temporary job openings are defined as job vacancies that may periodically develop on any job classification because of illness, vacation, leave of absence, unexpected addition or increase of work, or other unusual circumstances requiring the temporary placement of an employee. Job openings that recur on a regular basis shall not be considered temporary job openings. It is the intent of this provision to prevent the repeated assignment of employees to job vacancies designated as temporary job openings when such job openings could be filled in another manner.
+B.	Where the employer chooses to fill a position with a temporary promotion to a higher classification, it will be filled consistent with law, and as follows:
+1.	Where the NYS Civil Service Law requires the use of a Civil Service list for the title, the employer will select from the list as allowed by law:'
+2.	To fill an existing position (vacancy, leave of the incumbent, etc.) the most senior employee within the Bureau, division (where the Bureau is divided into divisions), and within the crew (where the workforce is organized into crews), in the next lower title will be offered the position, provided the employee meets the minimum qualifications for the position and can do the job. If that employee refuses, the employer may fill the position at its discretion.
+3.	To fill a new position, where the term of the temporary position is greater than three months, and a list is not required, the employer shall post for the position in accordance with Section 2 of this Article, except that the posting shall be for 5 days only and no additions, corrections or modifications to the applications will be allowed.
+48
+4.	Employees assigned or reassigned to a higher title on a temporary basis will be paid according to Article 11, Section 5 (Out-of-title Pay).
+C.	When it is necessary for higher classification employees to work in a lower classification job, and no one volunteers for such assignment, then the City shall select the least senior employee capable of performing such work in the Division of the Department in which the work is located, in the job classification nearest the lowest classification of work to be performed. Employees who volunteer or who are temporarily reassigned to a lower job classification will receive their regular rate of pay for the duration of their temporary assignment.
+Section 6	- Layoff in the Laboring and Non-Competitive Classes
+A.	In the event it becomes necessary to layoff laboring or non-competitive class employees for any reason, employees within a job title shall be laid off in the following manner:
+1.	Employees not having seniority shall be laid off first.
+2.	Employees having seniority shall be laid off in the inverse order of seniority.
+B.	The Employer shall forward a list of those employees being laid off to the Local Union Secretary on the same date that the notices are issued to the employees.
+C.	Employees to be laid off will have at least ten (10) working days notice of layoff or be paid in lieu of time.
+Section 7	- Bumping in the Laboring and Non-Competitive Classes
+A.	When an employee in the laboring or non-competitive class is laid off due to a reduction in the work force, he shall be permitted to exercise his seniority rights to bump or replace an employee with less seniority in an equal or lower job title under the following conditions:
+1.	Seniority is the major factor; and the employee qualifies for the job, and
+2.	He can learn to do the available work within thirty (30) working days. The Employer shall determine the bumping order in accordance with the provisions of this subdivision.
+B.	At the time of layoff, an employee who is offered a bump down to a lower classification may elect instead to accept a layoff, and upon the exercise of such election shall have the rights of a laid off employee.
+49
+Section 8	- Recall
+A.	All employees in Laboring and Non-Competitive classes who have been laid off shall be recalled within their former title before a new employee is hired in such title.
+B.	An employee shall be recalled from layoff to the same title and salary step he was in at the time of his layoff. Such recall shall be in the reverse order of layoff and under the following conditions:
+1.	Seniority is the major factor; and,
+2.	He can do the available work; or
+3.	He can learn to do the available work within thirty (30) working days.
+C.	Notice of recall shall be sent to the employee at his last known address by registered or certified mail and a copy sent to the Recording Secretary of the Union. If any employee fails to report for work within ten (10) working days from the date .of mailing the notice of recall, he shall be considered a quit. Recall rights for any employee shall expire one (1) year from the date of layoff, or a period equal to that of his seniority, but never more than four (4) years. Written notice of expiration of recall rights shall be sent to the employee at his last known address by registered or certified mail. It shall be the responsibility of the Union to maintain the recall list from information supplied by the City.
+Section 9	- Consolidation or Elimination of Jobs
+A.	Employees displaced by the elimination of jobs through job consolidation (combining the duties of two or more jobs), the installation of new equipment or machinery, the curtailment or replacement of existing facilities, the development/of new facilities, or for any other reason, shall be permitted to exercise their layoff and bumping rights described above to transfer to another job in the bargaining unit for which they are qualified. An employee transferred as a result of the application of this provision shall be given a reasonable period of training needed to perform satisfactorily the job to which he is transferred. This reasonable period shall not be less than thirty (30) calendar days or exceed ninety (90) calendar days.
+B.	In the event of a merger or consolidation between the City of Rochester and the County of Monroe, or any other governmental unit, and functions or services employing persons covered by this Agreement, then in such event, any City employee electing transfer to the County of Monroe or any other governmental unit, shall be deemed to have voluntarily quit his City employment. However, the City will make every effort to insure that any employee electing such transfer will not lose any benefits that the transferring employee is presently receiving that can be legally transferred.
+50
+Section 10	- Voluntary Transfer
+A.	An employee desiring to transfer to another job shall submit a request on a form designed by the employer and an “Employment/Civil Service Application”, to his immediate supervisor. The request and application shall state the reason for the requested transfer. The supervisor will forward the application to Human Resource Management for review and determination as to whether or not the employee meets the qualifications for the position to which transfer is desired.
+B.	An employee requesting a transfer for reasons other than the elimination of his job or his imminent layoff may be transferred to an equal or lower paying job classification on the basis of seniority, provided a vacancy exists, and the employee can do the job or learn to do the job within thirty (30) working days, provided such transfer is permitted by Civil Service law and rules.
+Section 11	- Involuntary Transfer or Relocation
+A.	When an employee is subject to involuntary transfer or relocation outside the employee’s department, he shall be given written notice and the reason for the transfer, by the Employer, ten (10) working days prior to such proposed effective date. A copy of the notice of the transfer or relocation will be sent to the Union Steward in the Department from which the employee is being transferred or relocated and to the Secretary of Local 1635. Notice of transfer or relocation shall not be required if the transfer or relocation is due to the elimination of jobs or the establishment of a new City service.
+B.	When an employee is subject to involuntary transfer or temporary relocation to another facility exceeding three (3) days within the employee’s department, he shall be given written notice and reason for transfer or temporary relocation at least five (5) working days prior to the transfer or relocation. A copy of this notice shall be sent to the Union Steward within the Bureau from which the employee is being transferred or relocated and to the Secretary of Local 1635. Notice of transfer or temporary relocation shall not be required if the transfer or relocation is due to the elimination of jobs or the establishment of a new City service or an emergency declared by the Department Head or due to a staffing problem directly related to the approval of an emergency leave of absence.
+C.	If an employee feels such transfer within the Department or outside of the Department is unjust, unreasonable, arbitrary or capricious, then the matter may be processed as a grievance under the grievance and arbitration procedure in this Agreement. This provision shall not apply to involuntary transfers or relocations that are due to elimination of jobs or establishment of a new City service.
+51
+ARTICLE 17 DISCIPLINE AND DISCHARGE
+Section 1	- Nature of Discipline and Discharge
+A.	The City shall have the right to discipline an employee for just cause. The City shall endeavor to use progressive discipline where appropriate. Where the appointing authority or his designee determines to impose a written reprimand, a fine not to exceed $100, suspension without pay not to exceed thirty (30) calendar days, reduction in title and grade, or dismissal from service, notice of such discipline shall be made in writing and served upon the employee. The reason(s) for which disciplinary action is being taken and the penalty imposed shall be specified in the notice. The notice shall contain a description of the charges, including dates, times and places relevant to such charges. The Union will be sent a copy of all notices transmitted as a result of this Section within twenty-four (24) hours after notice has been sent to the employee.
+Notwithstanding the provisions in Article 5, Section 1 and Section 2, and Article 8, Section 7, an employee may be disciplined for a poor attendance record, excessive absenteeism, or abuse of sick leave. In such cases and notwithstanding subsection C, the employee’s attendance record for the previous eighteen (18) months may be considered.
+If the employee is summoned for disciplinary action, and desires a Union Representative to be present at the scheduled time, the Union Representative shall be allowed to be present.
+B.	If the Employer has reason to reprimand an employee, it shall be done in a manner that will not embarrass the employee before other employees or the public.
+C.	Except for fr^ud or any felony where the statute of limitations has not expired, an employee shall not be disciplined for acts which occurred more than ninety (90) calendar days prior to the imposition of the discipline, unless discovered more than ninety (90) days after its occurrence, in which case discipline may be imposed within sixty (60) days of such discovery.
+Section 2	- Procedure
+A.	Any disciplinary action imposed upon an employee may be processed as a grievance through the regular grievance procedure, including the arbitration step, if necessary. This procedure shall be exclusive, and the procedure and remedies herein provided shall apply in lieu of all other procedures and remedies, including Sections 75 and 76 of the Civil Service Law which shall not apply to employees.
+52
+B.	If a disciplinary grievance is filed, it shall be initially filed at the step of the grievance procedure corresponding to the level of authority which imposed the discipline.
+C.	In the event that a grievance is pursued to arbitration, in addition to all other provisions set forth in Article 18 of this Agreement pertaining to arbitration, the following shall apply. Disciplinary arbitrators shall confine themselves to determinations of guilt or innocence and the appropriateness of the imposed penalties. Disciplinary arbitrators shall not add to, subtract from or modify the provisions of this Agreement. The disciplinary arbitrator’s decision with respect to guilt or innocence, penalty, or probable cause for suspension pursuant to subdivision D of this Section, shall be final and binding upon the parties and the employee, and the disciplinary arbitrator may approve, disapprove or take any other appropriate action warranted under the circumstances, including, but not limited to, ordering reinstatement and back pay for all or part of the period of suspension. If the disciplinary arbitrator, upon review, finds probable cause for the suspension under subdivision D of this Section, if any, he may consider such suspension in determining the penalty to be imposed.
+D.	Prior to being issued a notice of discipline, an employee may be suspended without pay by his appointing authority only pursuant to paragraphs (1) or (2) below.
+1.	The appointing authority or his designee may suspend without pay an employee when the appointing authority or his designee determines that there is probable cause that such employee’s continued presence on the job represents a potential danger to persons or property or would interfere with operations. Such determination shall be reviewable by a disciplinary arbitrator. A notice of discipline shall be served no later than seven (7) working days following any such suspension.
+2.	The appointing authority or his designee may suspend without pay an employee charged with the commission of a crime which in the opinion of the appointing authority is directly related to the employee’s job duties. Such employee shall notify his appointing authority in writing of the disposition of any criminal charge including a certified copy of such disposition within five (5) days thereof. Within thirty (30) calendar days following such suspension under this provision, or within five (5) days from receipt by the appointing authority of notice of disposition of the charge from the employee, whichever occurs first, a notice of discipline shall be served on such employee or he shall be reinstated with back pay. Nothing in this paragraph shall limit the right of the appointing authority or his designee to take disciplinary action during the pendency of criminal proceedings.
+53
+E.	This Article does not apply to employees with less than six (6) months of service, probationary employees with less than twelve (12) months service in a probationary status, or any other employees not having seniority.
+ARTICLE 18 SETTLEMENT OF DISPUTES
+Section 1	- Definitions
+For the purpose of this Agreement all disputes shall be subject to the grievance procedure as outlined below:
+A.	A dispute concerning the application, meaning or interpretation of an express term or provision of this Agreement is subject to all steps of the grievance procedure including arbitration.
+B.	Any other dispute or grievance concerning a term and condition of employment shall be processed up to and including Step 3 of the grievance procedure.
+C.	A grievance over discipline shall be processed in accordance with the procedures set forth in Article 17 in addition to the procedures set forth in this Article.
+Section 2	- Grievances
+A.	Procedure
+Step 1 - The grievance shall be presented in writing by the Union Steward or other authorized Union representative to the Bureau Head within seven (7) working days of the act or omission giving rise to the grievance, or within three (3) additional working days of the date upon which any of the employees affected by the situation, condition, or action to be grieved, becomes aware of such act or omission. The Bureau Head shall respond to the Union Steward or authorized Union representative within three (3) working days. If the grievance is not presented as set forth in this step, the grievance shall be deemed waived.
+Step 2 - If the grievance is not settled at Step 1, the grievance shall be presented in writing to the Department Head by the Union Steward or other authorized Union representative within six (6) working days after the Bureau Head’s response is given or is due. The Department Head shall respond to the Union Steward or authorized Union representative in writing within five (5) working days. If the grievance is not presented as set forth in this step, the grievance shall be deemed waived.
+54
+Step 3 - If the grievance is not settled at Step 2, the Union Unit Chairman and/or other authorized Union representative will present the grievance in writing to the Manager of Labor Relations within six (6) working days after the response at Step 2 is given or due. The Manager of Labor Relations will discuss the grievance with the Union representative, if requested, and reply in writing within seven (7) working days of receiving the grievance, with a copy of the response to the President or Secretary of the Union. If the grievance is not presented as set forth in this step, the grievance shall be deemed waived.
+Step 4 - If a settlement is not reached at Step 3, either the Union or the City may, within ten (10) working days after the response at Step 3 is given or is due, and upon written notice to the other, request arbitration. Such notice must be given to the Manager of Labor Relations or the President of the Union. If arbitration is not requested as set forth in this step, it shall be deemed waived, and the grievance resolved on the basis of the response of the Manager of Labor Relations.
+B.	The time limits in the grievance procedure for Steps 1, 2, 3, and 4 may be extended by mutual Agreement of the Union and the City and shall be confirmed in writing.
+C.	Except where inapplicable pursuant to Section 1 B. of this Article, any grievance required to be in writing, and any request for arbitration, shall contain a plain statement of the grievance, the Department, the employee or employees involved, the specific provision or provisions of the Agreement in dispute, and the remedy being sought.
+D.	Grievances of a general nature affecting several employees in each of two or more Bureaus within a Department may be initiated at Step 2 of the grievance procedure. Grievances of a general nature affecting employees in each of two (2) or more departments may be initiated at Step 3 of the grievance procedure. The names of the affected employees may be eliminated from the written grievance where the number of affected employees is too numerous to list, in which case job titles will be used.
+E.	A grievance initiated above Step 1 shall be initiated within twelve (12) working days of the act or omission giving rise to the grievance. The City’s response to such a grievance shall be due within twelve (12) working days.
+F.	An employee shall be entitled to Union representatives at each and every step of the grievance procedure set forth herein.
+55
+G.	No recording devices of any kind shall be used during the grievance procedure without the written permission of both the employee and the Union.
+Section 3	- Arbitration Procedure
+A.	An arbitration proceeding shall be conducted by an arbitrator designated, and pursuant to rules agreed upon, in accordance with this subdivision. Within thirty (30) days of the execution of this Agreement, the parties will:
+1.	Select and maintain a panel of mutually acceptable arbitrators who shall serve for the duration of the Agreement. Such panel shall consist of not fewer than five (5) arbitrators. The arbitrators shall be initially listed in alphabetical order and shall be designated on a rotating basis to arbitrate individual cases. In the event an arbitrator is unavailable to hear a specific case, such arbitrator will be temporarily passed over, but shall be at the top of the list for the next case. Upon completion of his or her service on a case, the arbitrator shall be placed at the end of the panel list. Both parties reserve the right during the term of this Agreement to remove up to two (2) arbitrators from the panel. A party removing an arbitrator from the panel shall propose a replacement acceptable to the other party. Arbitrators shall also be replaced by mutual agreement in the event of resignation or any other inability to serve.
+2.	Agree upon Rules of Procedure modeled after Part 207 of the Rules and Regulations of the Public Employment Relations Board (PERB), except that references to the “Board” and the “Director of Conciliation” and like references to PERB and its officers and agents shall be deleted and modified as necessary. The Rules of Procedure agreed upon pursuant to this Section shall be reduced to writing and shall be made available to the panel of arbitrators and other interested parties. Such Rules of Procedure may be amended by mutual consent in the manner described in Article 24, Section 3.
+In the event the procedure described above is not, or cannot be, implemented, or terminates or is unenforceable for any reason, arbitrations conducted pursuant to this Agreement shall be governed by Part 207 of the Rules and Regulations of the Public Employment Relations Board. Notwithstanding any provisions of any procedure or rule inconsistent with the express terms of this Collective Bargaining Agreement, any such inconsistent procedure or rule shall be void and superseded by the express terms of this Agreement.
+B.	The decision or award of the arbitrator shall be final and binding on the City, the Union and the grievant or grievants to the extent permitted by and in
+56
+accordance with applicable law and this Agreement, and the arbitrator shall be requested to issue his decision or award within thirty (30) calendar days after the conclusion of the testimony and arguments.
+C.	The arbitrator functioning under this step of the grievance procedure shall have no power to amend, modify, nullify, ignore, add to, subtract from or delete any provisions of this Agreement, and shall confine his decision and award solely to the interpretation and application of this Agreement. The arbitrator shall confine himself to the precise issue submitted for arbitration and shall have no authority or power to determine any other issues not so submitted to him. The arbitrator shall have no authority or power to render a decision or award inconsistent with statutory or appellate decisional law or New York State Public Policy.
+D.	Expenses for the arbitrator’s services and the proceeding shall be borne equally by the Employer and the Union. However, each party shall be responsible for bearing the costs of preparing, and presenting its own case, including, but not limited to, compensating its own witnesses. If either party desires a transcript of the proceeding, it may cause the transcript to be made, provided it pays for the transcript and makes copies available without charge to the arbitrator and to the other party.
+ARTICLE 19 STRIKES AND LOCKOUTS
+Section 1	- Lockouts
+No lockout of employees shall be instituted by the Employer during the term of this Agreement.
+Section 2	- No Strike - Taylor Law
+No strike or slowdown of any kind shall be caused or sanctioned by the Union during the term of this Agreement. At no time, however, shall employees be required to act as strike breakers.
+ARTICLE 20	GENERAL PROVISIONS
+Section 1	- Savings Clause
+Should any Article, Section or portion of this Agreement be held unlawful and unenforceable by any court of competent jurisdiction, such decision of the court shall only apply to the specific Article, Section or portion thereof directly specified in the decision.
+57
+Section 2	- Mileage Allowance
+A.	Effective July 1, 1999, the City shall reimburse employees for use of their personal vehicle for on the job use as follows:
+1.	A per-mile rate equal to the federal IRS standard mileage rate, or
+2.	Those required by the employer to provide a personal vehicle for daily use on the job shall be paid a monthly mileage allowance at the rate of $170 per month. Effective July 1,1999 the rate shall increase to $190 per month. Effective July 1, 2000, the rate shall increase to $210 per month. Employees required to provide a vehicle for daily use on the job shall be notified by the employer, with a copy to the union.
+B.	The use of an employee’s private automobile for City purposes shall be governed by current Administrative Regulation. Such regulations may be changed by the Mayor.
+C.	No employee may use a City vehicle during working hours for any purpose not directly related to the performance of the employee’s function, or to the administration of this Agreement, nor may any employee use a City vehicle during non-working hours for any purpose without the express written consent of his Department Head or the Mayor.
+Section 3	- Printing of Contract
+A.	The City and the Union agree to share the cost equally for printing 2,500 copies of this Agreement, of which 600 copies shall be provided to the Division of Labor Relations, provided however, that the City’s share of the costs shall not exceed the limits set forth in General Municipal Law Section 103.
+B.	This Agreement shall be printed in a union print shop.
+C.	It is the Union’s responsibility to distribute a copy of the printed Agreement to all members of the unit.
+Section 4	- Pledge Against Discrimination and Coercion
+A.	The provisions of this Agreement shall be applied equally to all employees in the bargaining unit without discrimination as to age, sex, marital status, race, color, creed, national origin or political affiliation.
+58
+B.	All references to employees in this Agreement designate both sexes, and wherever the male gender is used it shall be construed to include male and female employees.
+C.	The Employer agrees not to interfere with the rights of employees to become members of the Union, and that there will be no discrimination, interference, restraint, coercion by the Employer or any Employer representative against any employee acting in an official capacity on behalf of the Union.
+D.	The Union recognizes its responsibility as bargaining agent and agrees to represent all employees in the bargaining unit without discrimination, interference, restraint or coercion.
+Section 5	- Non-Service Disability
+Employees unable to perform their duties because of a disability not incurred in the line of duty are eligible for all of the benefits set forth in this Agreement for such employees. Employees unable to perform their duties because of a disability resulting from pregnancy are eligible for all such benefits on the same basis as employees disabled for non-work related reasons other than pregnancy. This Section is intended for purposes of clarification only, and shall not be construed as conferring new or additional rights or benefits; the benefits referred to herein are specifically set forth elsewhere in this Agreement.
+Section 6	- Refuse Collection
+A.	When refuse trucks are dispatched to plow on “C” routes or “D” routes, on push-backs, special assignments or to work in tandem with salt trucks in plowing operations, pay shall be at 1 and 2 times the hourly wage for the actual hours worked, provided the employee works or is credited with a full week of refuse collection work.
+B.	The City agrees not to sub-contract residential refuse collection for the life of this Agreement.
+Section 7	- Transportation
+A.	The City shall provide Regional Transit Service monthly bus passes to, and for the sole use of, eligible employees at a discount of fifteen ($15) dollars per month, effective October 1, 1987.
+B.	Eligible employees are those who work within the Inner Loop and who are not otherwise provided free or subsidized parking by the City or assigned City vehicles on a 24 hour per day basis.
+59
+Section 8	- Public Safety Building Lunchroom
+The City shall provide a lunchroom for employees in the Public Safety Building as soon as administratively feasible. Such lunchroom will be available for employees on the daytime shift.
+Section 9	- City Owned Vehicles
+The Employer shall have the right at its sole discretion to assign or remove assignment of Employer owned vehicles on a 24 hour basis for any assignment made after April 1, 1995. The City will give reasonable notice of a change of assignment. There shall be no requirement to bargain concerning impact of such changes. Assignments made after April 1, 1995 shall include notification of the Employer’s right to withdraw the assignment.
+Section 10	- Alcohol and Drug Testing
+The following procedures shall apply to those tested for alcohol or controlled substances in accordance with the Federal Department of Transportation, Federal Highway Administration, Controlled Substance and Alcohol Use Testing Rules:
+1.	Employees who test positive for alcohol or controlled substance as a result of a random test shall be offered a referral for rehabilitation through the Employee Assistance Program (EAP) as limited below.
+2.	Employees whose test results are positive under the reasonable suspicion or post-accident testing may be offered an opportunity for referral for rehabilitation through the EAP, at the sole discretion of the employer.
+3.	Opportunities for referral through the EAP for rehabilitation shall be limited as follows:
+A.	For alcohol use or abuse, a maximum of two referrals during employment with the City of Rochester. Eligibility for a second referral may only occur after five years from the first referral.
+B.	For controlled substance use or abuse, a maximum of one referral during employment with the City of Rochester.
+C.	In no case shall the employer be required to offer an EAP referral through agreement, under this section, more than two times in the employee’s career. Eligibility for a second referral may only occur after five years from the first referral.
+D.	Referrals to the EAP through agreements prior to the ratification of this Agreement which resulted in treatment for alcohol or controlled substance use or abuse shall be counted as opportunities under this provision.
+E.	Any positive test results in excess of these provisions may result in termination of the employee, at the discretion of the employer.
+60
+4.	Any employee relieved of work as a result of a positive test may utilize their accrued vacation and personal leave time banks. Sick leave banks may only be used while receiving treatment under the EAP referral that requires the employee’s absence from work.
+ARTICLE 21	UNION RELEASE TIME
+Section 1	- Union Stewards
+A.	The Employer agrees that during working hours on the Employer’s premises, and when necessary at the Local Union Office, and without loss of pay, all Union Stewards who are employees shall be allowed up to one (1) hour each day, but not to exceed four (4) hours each week, to:
+1.	Post Union notices;
+2.	Distribute Union literature;
+3.	Solicit Union membership during other employees’ non-working time;
+4.	Transmit communications authorized by the Local Union or its Officers to the Employer or his representative;
+5.	Attend labor-management meetings;
+6.	Consult with the Employer, its representative, Local Union Officers or other Union representatives, concerning the enforcement of any provisions of this Agreement;
+7.	Investigate and process grievances;
+8.	Attend Union meetings.
+This privilege shall not be abused. Stewards shall request release time, in writing, from their supervisor. The request shall state the time, destination and purpose of the release time prior to using it. A copy of the request form shall be forwarded to the Manager of Labor Relations and to the Local Union President.
+B.	Employees selected by the Union to act as Union representatives shall be known as “Stewards”. The names of employees selected as Stewards and the names of other Union representatives who may represent employees shall be certified in writing to the Manager of Labor Relations by the Local Union upon request. The Union shall notify the Manager of Labor Relations of any changes within twenty-four (24) hours.
+C.	The Stewards shall not exceed twenty-five (25) employees, and the Union must file with the Manager of Labor Relations a list of such Stewards indicating their name, job title and the unit which the Steward represents. There shall be no Steward from any Bureau in which a Unit Chairman on full release time is employed. Except as further limited by the previous sentence, there shall be no more than two (2) Stewards in the Bureau of
+61
+Parks. The Union may, from time to time, change such Stewards upon giving the Manager of Labor Relations a written notification of the change.
+D.	Members of the Local Union Executive Board shall be allowed time off without loss of pay to attend the monthly Executive Board Meeting. The Executive Board shall have no more than fifteen (15) members for purposes of release time.
+E.	The Union shall notify the Manager of Labor Relations, in writing, of all committee, Unit or Board meetings where release time will be utilized. Such notice will include the date, time and duration of the meetings.
+Section 2	- Time Off for Union Business
+A.	The President of Local 1635, and two (2) members, selected by the Union President, shall be granted full release time from their regularly scheduled work week with full pay, in order to investigate and process grievances, attend labor-management meetings, attend Union meetings, including those meetings of the International Union and/or Council 66, consult with the Employer, his representatives, Local Union Officers or other Union representatives concerning the enforcement of any provision of this Agreement. One (1) of the three (3) members on full release time shall be the Local’s EAP coordinator. It shall be the EAP Coordinator’s responsibility to meet with the Employer on EAP matters, coordinate EAP referrals for the Union and sign EAP agreement referrals for the Local. This privilege shall be temporarily revoked for the Unit Chairmen if a City-wide emergency is declared by the Mayor and their services are required on their job assignments. In the event that the President of Local 1635 is unable to perform his duties for a period in excess of two (2) weeks, the President of Local 1635 shall designate one (1) of the Chair Officers of Local 1635 to perform the President’s duties and upon notification by the Union to the Manager of Labor Relations, such designee shall be given full release time from his regularly scheduled work week with no loss of pay in order to perform the functions described herein.
+The City will receive thirty (30) days notice of any change of members on full release time as defined in this Section.
+B.	The Treasurer of Local 1635 shall be allowed up to a maximum of sixteen (16) hours per calendar week to transact Union business. The Recording Secretary of Local 1635 shall be allowed up to a maximum of four (4) hours per day to transact Union business. The Grievance Secretary of Local 1635 shall be allowed up to a maximum of three (3) hours per day to transact Union business. Such release time shall be without loss of pay.
+62
+Section 3	- Other Union Time Off
+A.	For contract negotiations, the Union shall be permitted to have twelve (12) members on the Negotiating Committee. These members shall serve without loss of pay, as Union negotiators on negotiations of this master Agreement.
+B.	No more than six (6) members of the Union, selected by the Local Union to attend a conference or convention of the International Union or other subordinate body, shall be allowed time off without loss of time or pay to attend such functions.
+Section 4	- Labor-Management Committee
+Conferences between representatives of the Employer and no more than four (4) representatives of the Local Union on important matters which may include the discussion of procedures for future grievances and other methods of improving the relationship between the parties will be arranged between the parties upon request of either party. Arrangements for such meetings shall be made in advance and shall be held at reasonable hours as mutually agreed upon by the parties. Employees acting on behalf of the Union shall suffer no loss of time or pay should such meetings fall within their regular work hours.
+ARTICLE 22	EMPLOYEE SAFETY
+Section 1	- Safety Committee
+A.	The Employer and the Union agree to establish a joint Safety Committee, to consist of two (2) Union members, two (2) Employer members and the City Safety Coordinator who shall be chairman. The Safety Committee shall advise the City on all safety and health matters.
+B.	The Safety Committee shall meet upon the request of two (2) or more members, which meetings shall be held during working hours, without loss of pay, to discuss safety matters, but such meetings shall not be more frequent than once per month.
+C.	This Committee is not intended as a Review Committee for motor vehicle accidents involving City equipment.
+63
+Section 2	- Safety Equipment and Protective Clothing
+A.	Employees who require safety shoes and prescription safety glasses shall be issued them without charge. This safety equipment shall become the employee’s property. Employees shall be responsible for replacing or repairing such safety equipment which is lost, stolen, misused, or willfully destroyed. Safety equipment damaged in the course of duty through no fault of the employee shall be replaced at City expense upon the recommendation of the employee’s supervisor and approval of the Safety Coordinator. If an employee leaves City employment within one (1) month of his hire date, he shall be charged for the cost of safety equipment which he was issued.
+B.	The following equipment shall be issued on loan to employees only for use in the performance of duty: rain gear, foul weather gear, rubber footwear, safety helmets, safety goggles or face shields or any other legally required safety equipment or protective clothing. Loaned equipment shall be issued by means of an issue card and shall remain the property of the City of Rochester while on loan to the employee. The employee shall be responsible for the safekeeping of all equipment loaned to him and shall be charged for the cost of said equipment where loss, theft, misuse or willful destruction occurs. Replacement for worn loaned equipment will be upon recommendation of the employee’s supervisor and approval of the Safety Coordinator. In order to receive a replacement for loaned equipment, the employee must turn in his original piece of loaned equipment. Where an employee is required to wear safety shoes and must, by documented medical record, wear special medical shoes, the City will pay fifty (50) percent of the cost of a medical safety shoe.
+C.	The Safety Committee shall have the power to review the decisions of the Safety Coordinator provided for in this Section.
+D.	Where protective or safety equipment is not assigned to an individual employee, then the City of Rochester shall be responsible for such equipment to be available for issuance at the job site. The equipment shall be issued on a daily basis whenever the need arises.
+E.	Where safety equipment, protective equipment and foul weather gear is issued to an individual employee, the City of Rochester shall require that such equipment be used for the proper performance of duty and the protection and health of the employee.
+F.	If said equipment is not used or worn by the employee in the performance of his duties as required for the safety and health of the employee, then the following actions shall be taken:
+64
+1.	Denial of the right to work until such equipment, furnished by the City of Rochester, be worn or used.
+2.	Disciplinary action to be taken, where warranted, because of a violation of this provision.
+G.	Where uniforms are provided by the Employer, employees shall be required to wear such uniforms while on duty. Failure to wear required uniforms shall result in disciplinary action.
+Section 3	- Safe Driving Award
+A.	All employees whose positions require that they maintain a Commercial Driver’s License, or who are assigned to the Civil Service title of Class V Truck Driver, Crew Chief, Ground Equipment Operator, Interdepartmental Messenger-Water Bureau, Senior Maintenance Mechanic/Water Supply, Senior Security Guard, Senior Water Meter Repairer, or Water Distribution Technician, and who drive City Vehicles for at least 200 working days in one year (from July 1 through June 30) with no preventable accident or violation of existing City Motor Vehicle Regulations, shall be awarded a $50 bond.
+B.	Eligible employees who have received five (5) consecutive Safe Driving Awards, will receive a $150 bond in place of the usual $50 bond for any subsequent awards.
+C.	The City of Rochester will present the Safe Driving Award at an appropriate award ceremony. The arrangements and cost shall be the responsibility of the City of Rochester.
+ARTICLE 23 MANAGEMENT PREROGATIVES
+Section 1	- Employer Rights
+The Employer has and will continue to retain, whether exercised or not, the sole right to operate and manage its affairs in all respects, and the power or authority which the Employer has not abridged, delegated or modified by the express provisions of this Agreement are retained by the Employer. Subject to the terms and conditions of this Agreement and to law, it is agreed that the Employer retains the exclusive right to direct employees; to maintain, improve the efficiency of and manage operations entrusted to the Employer; and to determine the methods, means and number of personnel by which said operations are to be conducted.
+65
+Section 2	- Work Rules
+A.	When existing work rules are changed, or new work rules established, there shall be prior consultation with the Union President or his designee, and then such work rules shall be posted prominently on all bulletin boards for a period of ten (10) consecutive work days before becoming effective. If, however, after no less than two (2) meetings within a period of ten (10) working days, there is no agreement, the Employer shall have the right to institute the rules, but the dispute may also be submitted to the grievance procedure.
+B.	Employees shall comply with all work rules. The Employer agrees that all applicable work rules are to be uniformly applied and uniformly enforced. Any complaint involving discrimination in the application of new or existing rules shall be resolved through the grievance procedures of this Agreement.
+C.	The Employer agrees to furnish each employee in the Bargaining Unit with a copy of all applicable written work rules. New employees shall be provided with a copy of the applicable work rules at the time of hire.
+Section 3 - Professional Standards
+The Union and the City recognize the necessity of continuous improvement in efficiency and effectiveness throughout the City operations covered by this Collective Bargaining Agreement. In this connection their representatives and members will be urged to cooperate jointly in accomplishing this result.
+ARTICLE 24 TERMINATION OR MODIFICATION
+Section 1	- Duration of Agreement
+A.	Except as otherwise provided, this master Agreement shall go into effect upon execution by the parties and shall remain in full force and effect until June 30, 2005. No provision of the Agreement is intended to have retroactive application prior to the actual date of execution unless such provision expressly provides for a specific implementation date.
+B.	This master Agreement shall continue in force and effect from year to year thereafter unless either party shall notify the other party in writing not earlier than the 1st of October and not later than the 30th of October immediately preceding the termination date of its intention to modify or terminate this Agreement.
+66
+C.	It is understood and agreed that negotiations pursuant to such notice to amend or terminate shall begin on a mutually agreeable date following the giving of such notice.
+Section 2	- Temporary Extension of Agreement
+If at the expiration of this Agreement, no new agreement has been reached and negotiations are continuing, this Agreement shall continue in full force and effect unless terminated by either party giving at least ten (10) work days written notice to the other party of a desire to terminate.
+Section 3	- Modification
+No amendment, alteration or modification of this Agreement shall be binding unless it is in writing and signed by the Mayor and/or the Manager of Labor Relations and by a duly authorized representative of the Union.
+Section 4	- Termination and Modification - Total Agreement
+In the event that any personnel rules or regulations are in conflict with this Agreement, the Agreement shall apply. The foregoing shall constitute the entire Agreement between the parties. No verbal statement or other amendments, except an amendment mutually agreed upon between the parties and in writing shall supersede or vary the provisions herein.
+67
+IN WITNESS WHEREOF, THE PARTIES HAVE HERETO CAUSED THIS AGREEMENT TO BE EXECUTED BY THEIR DULY AUTHORIZED REPRESENTATIVES.
+CITY OF ROCHESTER, NEW YORK:	LOCAL 1635, AMERICAN
+FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO:
+?
+§
+PRESIDENT
+BLAISE M. LA
+MANAGER OF LABOR RELATIONS
+PETER BRASIDAS NICKLES COUNCIL 66 AREA REPRESENTATIVE
+APPROVED AS TO FORM CORPORATION COUNSEL
+By
+68
+APPENDIX A, PAGE 1
+WAGE SCHEDULE EFFECTIVE JULY 1, 2002
+1	A 21,361	B 22,041	C 22,720	D 23,303	E 23,776	F 24,208	G 24,753
+2	21,907	22,602	t23,303	23,776	24,208	24,753	25,369
+3	22,346	23,065	23,776	24,208	24,753	25,369	26,024
+4	22,752	23,481	24,208	24,753	25,369	26,024	26,604
+5	23,265	24,008	24,753	25,369	26,024	26,604	27,331
+6	23,847	24,610	25,369	26,024	26,604	27,331	28,018
+7	24,469	25,245	26,024	26,604	27,331	28,018	28,78F
+8	25,008	25,807	26,604	27,331	28,018	28,781	29,615
+9	25,695	26,512	27,331	28,018	28,781	29,615	30,522
+10	26,336	27,179	28,018	28,781	29,615	30,522	31,470
+11	27,055	27,918	28,781	29,615	30,522	31,470	32,448
+12	27,841	28,726	29,615	30,522	31,470	32,448	33,577
+13	28,694	29,608	30,522	31,470	32,448	33,577	34,588
+14	29,584	30,522	31,470	32,448	33,577	34,588	35,752
+15	30,503	31,477	32,448	33,577	34,588	35,752	36,841
+16	31,559	32,569	33,577	34,588	35,752	36,841	38,115
+17	32,515	33,550	34,588	35,752	36,841	38,115	39,641
+18	33,606	34,678	35,752	36,841	38,115	39,641	41,270
+19	34,627	35,735	36,841	38,115	39,641	41,270	42,937
+20	35,827	36,970	38,115	39,641	41,270	42,937	44,685
+21	37,258	38,449	39,641	41,270	42,937	44,685	46,538
+69
+	APPENDIX A, PAGE 2 WAGE SCHEDULE EFFECTIVE JULY 1, 2002							
+	A	B	C	D	E	F	G	
+40	12.37	12.81'	13.19	13.48	13.78	14.15	14.53	
+41	12.79	13.19	13.58	13.89	14.41	14.56	15.10	
+42	13.26	13.71	14.16	14.53	14.86	15.38	15.77	
+i	51	10.81	11.10	11.43	11.65	11.86	12.04	12.25	
+52	10.95	11.31	11.65	11.86	12.04	12.25	12.54	
+53	11.11	11.49	11.86	12.04	12.25	12.54	12.83	
+54	11.32	11.67	12.04	12.25	12.54	12.83	13.11	
+55	11.52	11.90	12.25	12.54	12.83	13.11	13.41	
+56	11.78	12.21	12.54	12.83	13.11	13.41	13.64	
+57	12.05	12.47	12.83	13.11	13.41	13.64	14.15	
+58	12.30	12.71	13.11	13.41	13.64	14.15	14.41	
+59	12.60	12.98	13.41	13.64	14.15	14.41	14.83	
+60	12.83	13.23	13.64	14.15	14.41	14.83	15.16	
+61	13.25	13.70	14.15	14.41	14.83	15.16	15.69	
+62	13.55	3.95	14.41	14.83	15.16	15.69	16.11	
+63	13.93	14.41	14.83	15.16	15.69	16.11	16.56	
+64	14.28	14.75	15.16	15.69	16.11	16.56	17.07	
+65	14.76	15.21	15.69	16.11	16.56	17.07	17.57	
+66	11.89	12.24	12.62	13.41				
+DAILY	68	103.61						
+DAILY	69	125.18	133.17	141.14	149.13	153.56	157.99	
+70
+|M||||gi
+APPENDIX A, PAGE 3
+WAGE SCHEDULE EFFECTIVE JULY 1, 2003
+	A	B	C	D	E	F	G	H
+1	21,290	21,948	22,647	23,345	23,944	24,430	24,874	25,434
+2	21,834	22,509	23,224	23,944	24,430	24,874	25,434	26,067
+3	22,272	22,961	23,699	24,430	24,874	25,434	26,067	26,740
+4	22,677	23,378	24,127	24,874	25,434	26,067	26,740	27,336
+5	23,188	23,905	24,668	25,434	26,067	26,740	27,336	28,083
+6	23,768	24,503	25,287	26,067	26,740	27,336	28,083	28,788
+7	24,388	25,142	25,939	26,740	27,336	28,083	28,788	29,572
+8	24,925	25,696	26,517	27,336	28,083	28,788	29,572	30,429
+9	25,610	26,402	27,241	28,083	28,788	29,572	30,429	31,361
+10	26,248	27,060	27,926	28,788	29,572	30,429	31,361	32,335
+11	26,965	27,799	28,686	29,572	30,429	31,361	32,335	33,340
+12	27,749	28,607	29,516	30,429	31,361	32,335	33,340	34,500
+13	28,599	29,483	30,422	31,361	32,335	33,340	34,500	35,539
+14	29,486	30,398	31,361	32,335	33,340	34,500	35,539	36,735
+15	30,402	31,342	32,343	33,340	34,500	35,539	36,735	37,854
+16	31,454	32,427	33,465	34,500	35,539	36,735	37,854	39,163
+17	32,407	33,409	34,473	35,539	36,735	37,854	39,163	40,731
+18	33,494	34,530	35,632	36,735	37,854	39,163	40,731	42,405
+19	34,512	35,579	36,718	37,854	39,163	40,731	42,405	44,118
+20	35,708	36,812	37,987	39,163	40,731	42,405	44,118	45,914
+21	37,135	38,283	39,506	40,731	42,405	44,118	45,914	47,818
+71
+APPENDIX A, PAGE 4
+WAGE SCHEDULE EFFECTIVE JULY 1, 2003
+	A	B	c	D	E	F	G	H
+40	12.33	12.71	13.16	13.55	13.85	14.16	14.54	14.93
+41	12.75	13.14	13.55	13.95	14.27	14.81	14.96	15.52
+42	13.21	13.62	14.09	14.55	14.93	15.27	15.80	16.20
+51	10.78	11.11	11.41	11.74	11.97	12.19	12.37	12.59
+52	10.91	11.25	11.62	11.97	12.19	12.37	12.59	12.88
+53	11.08	11.42	11.81	12.19	12.37	12.59	12.88	13.18
+54	11.28	11.63	11.99	12.37	12.59	12.88	13.18	13.47
+55	11.48	11.84	12.23	12.59	12.88	13.18	13.47	13.78
+56	11.74	12.10	12.55	12.88	13.18	13.47	13.78	14.02
+57	12.01	12.38	12.81	13.18	13.47	13.78	14.02	14.54
+58	12.26	12.64	13.06	13.47	13.78	14.02	14.54	14.81
+59	12.56	12.95	13.34	13.78	14.02	14.54	14.81	15.24
+60	12.78	13.18	13.59	14.02	14.54	14.81	15.24	15.58
+61	13.20	13.61	14.08	14.54	14.81	15.24	15.58	16.12
+62	13.50	13.92	14.33	14.81	15.24	15.58	16.12	16.55
+63	13.88	14.31	14.81	15.24	15.58	16.12	16.55	17.02
+64	14.23	14.67	15.16	15.58	16.12	16.55	17.02	17.54
+65	14.71	15.17	15.63	16.12	16.55	17.02	17.54	18.05
+66	• 11.85	12.22	12.58	12.97	13.78			
+DAILY 68		103.27	106.46					
+DAILY 69		124.76	128.62	136.83	145.02	153.23	157.78	162.33
+72
+APPENDIX A, PAGE 5
+WAGE SCHEDULE EFFECTIVE JULY 1, 2004
+	A	B	c	D	E	F	G	H
+1	21,886	22,563	23,281	23,999	24,614	25,114	25,570	26,146
+2	22,445	23,139	23,874	24,614	25,114	25,570	26,146	26,797
+3	22,896	23,604	24,363	25,114	25,570	26,146	26,797	27,489
+4	23,312	24,033	24,803	25,570	26,146	26,797	27,489	28,101
+5	23,837	24,574	25,359	26,146	26,797	27,489	28,101	28,869
+6	24,433	25,189	25,995	26,797	27,489	28,101	28,869	29,594
+7	25,071	25,846	26,665	27,489	28,101	28,869	29,594	30,400
+8	25,623	26,415	27,259	28,101	28,869	29,594	30,400	31,281
+9	26,327	27,141	28,004	28,869	29,594	30,400	31,281	32,239
+10	26,983	27,818	28,708	29,594	30,400	31,281	32,239	33,240
+11	27,720	28,577	29,489	30,400	31,281	32,239	33,240	34,274
+12	28,526	29,408	30,342	31,281	32,239	33,240	34,274	35,466
+13	29,400	30,309	31,274	32,239	33,240	34,274	35,466	36,534
+14	30,312	31,249	32,239	33,240	34,274	35,466	36,534	37,764
+15	31,253	32,220	33,249	34,274	35,466	36,534	37,764	38,914
+16	32,335	33,335	34,402	35,466	36,534	37,764	38,914	40,260
+17	33,314	34,344	35,438	36,534	37,764	38,914	40,260	41,871
+18	34,432	35,497	36,630	37,764	38,914	40,260	41,871	43,592
+19	35,478	36,575	37,746	38,914	40,260	41,871	43,592	45,353
+20	36,708	37,843	39,051	40,260	41,871	43,592	45,353	47,200
+21	38,174	39,355	40,612	41,871	43,592	45,353	47,200	49,157
+73
+APPENDIX A, PAGE 6
+WAGE SCHEDULE EFFECTIVE JULY 1, 2004
+	A	B	c	D	E	F	G	H
+40	12.68	13.07	13.53	13.93	14.24	14.56	14.95	15.35
+41	13.10	13.51	13.93	14.34	14.67	15.22	15.38	15.95
+42	13.58	14.00	14.48	14.96	15.35	15.70	16.24	16.65
+51	11.08	11.42	11.73	12.07	12.31	12.53	12.72	12.94
+52	11.22	11.57	11.95	12.31	12.53	12.72	12.94	13.24
+53	11.39	11.74	12.14	12.53	12.72	12.94	13.24	13.55
+54	11.60	11.96	12.33	12.72	12.94	13.24	13.55	13.85
+55	11.80	12.17	12.57	12.94	13.24	13.55	13.85	14.17
+56	12.07	12.44	12.90	13.24	13.55	13.85	14.17	14.41
+57	12.35	12.73	13.17	13.55	13.85	14.17	14.41	14.95
+58	12.60	12.99	13.43	13.85	14.17	14.41	14.95	15.22
+59	12.91	13.31	13.71	14.17	14.41	14.95	15.22	15.67
+60	13.14	13.55	13.97	14.41	14.95	15.22	15.67	16.02
+61	13.57	13.99	14.47	14.95	15.22	15.67	16.02	16.57
+62	13.88	14.31	14.73	15.22	15.67	16.02	16.57	17.01
+63	14.27	14.71	15.22	15.67	16.02	16.57	17.01	17.50
+64	14.63	15.08	15.58	16.02	16.57	17.01	17.50	18.03
+65	15.12	15.59	16.07	16.57	17.01	17.50	18.03	18.56
+66	12.18	12.56	12.93	13.33	14.17			
+DAILY 68		106.16	109.44					
+DAILY 69		128.25	132.22	140.66	149.08	157.52	162.20	166.88
+74
+APPENDIX B
+The following six-day workers are covered by the July 1, 2002 to June 30, 2005 AFSCME Bargaining Agreement.
+Employee	Title Anthony Gingello	Environmental Services Operator	I Paul McGlory	Laborer	Hire Date 01/10/53 07/24/67
+75
+■
+APPENDIX C, PAGE 1
+The following terms apply to employees in the Office of Emergency Communications:
+A.	Effective July 1, 1999, the pay schedules for the positions of Telecommunicator, Dispatcher I and II, EMD Quality Improvement Coordinator I and II, CAD Information Systems Specialist, and Emergency Communication Center Trainer shall be modified as follows:
+1.	Add the lower training step previously negotiated
+2.	Add an additional step at the top of the bracket that is 3.0% higher than the existing top step. Employees at current step G as of that date shall be eligible for a step increase to the new step, consistent with the conditions in Article 11, Section 2.A.I.
+B.	All employees in the above titles will be issued pagers and will be required to wear them during off duty hours, when not on approved leave. In the event of an emergency situation, where there is a need for significant call-ins, the pagers will be used to notify the employees and they shall report by phone. In the event they are called back the employer shall not be required to pay the minimum call-back pay. No additional compensation shall be paid for required use of the pagers, including stand-by pay. The pagers may also be used by the employer for normal notifies for overtime opportunities.
+C.	The work rules will be modified to provide that all picks during the vacation lottery must be in whole days.
+D.	The work rules will be modified to permit the use of personal leave time on the day before and the day after a holiday.
+E.	All employees in the title of Telecommunicator, Dispatcher I, Dispatcher II and Shift Supervisor shall be subject to drug and/or alcohol testing on a random, or unannounced basis. The testing facilities, labs, MRO, substances tested for, the tests and related procedures shall be the same as used by the employer to test holders of Commercial Drivers Licenses.
+76
+APPENDIX C, PAGE 2
+WAGE SCHEDULE EFFECTIVE JULY 1, 2002
+	A	B	C	D	E	F	G	H	I
+110	21,644	27,055	27,918	28,781	29,615	30,522	31,470	32,448	33,421
+150	24,402	30,503	31,477	32,448	33,577	34,588	35,752	36,841	37,946
+170	26,012	32,515	33,550	34,588	35,752	36,841	38,115	39,641	40,831
+180	26,884	33,606	34,678	35,752	36,841	38,115	39,641	41,270 42,508	
+190	27,703	34,627	35,735	36,841	38,115	39,641	41,270	42,937	44,226
+200	28,662	35,827	36,970	38,115	39,641	41,270	42,937	44,685	46,025
+APPENDIX C, PAGE 3
+WAGE SCHEDULE EFFECTIVE JULY 1, 2003
+	A	B	C	D	E	F	G	H	I
+110	22,239	27,799	28,686	29,572	30,429	31,361	32,335	33,340 34,340	
+150	25,073	31,342	32,343	33,340	34,500	35,539	36,735	37,854	38,990
+170	26,727	33,409	34,473	35,539	36,735	37,854	39,163	40,731	41,954
+180	27,623	34,530	35,632	36,735	37,854	39,163	40,731	42,405	43,677
+190	28,465	35,579	36,718	37,854	39,163	40,731	42,405	44,118	45,442
+200	29,450	36,812	37,987	39,163	40,731	42,405	44,118	45,914 47,291	
+APPENDIX C, PAGE 4
+WAGE SCHEDULE EFFECTIVE JULY 1, 2004
+A B C D 110	22,862	28,577	29,489	30,400
+150	25,775	32,220	33,249	34,274
+170	27,475	34,344	35,438	36,534
+180	28,396	35,497	36,630	37,764
+190	29,262	36,575	37,746	38,914
+200	30,275	37,843	39,051	40,260
+E	F	G	H	I
+31,281	32,239	33,240	34,274	35,302
+35,466	36,534	37,764	38,914	40,082
+37,764	38,914	40,260	41,871	43,129
+38,914	40,260	41,871	43,592	44,900
+40,260	41,871	43,592	45,353	46,714
+41,871	43,592	45,353	47,200	48,615
+77
+APPENDIX D
+Rochester Public Library Personnel Rules and Regulations
+Effective July 1, 1987 ' ^Revised April 8, 1999
+I Work Schedules
+A.	Each staff member shall work a schedule determined by the supervisor who shall be responsible for the maintenance of schedules in the unit. The library shall retain the right to change work schedules in accordance with its established practice, provided, however, that if the scheduled or rescheduled work week results in an employee working in any one calendar week a number of hours in excess of the basic work week as defined in this section, such additional hours shall be paid at the rate of time and one-half.
+B.	The basic work week for full-time staff shall be thirty-seven and one-half (37 ¥7) hours per week, five (5) days per week.
+C.	Maintenance personnel shall have sunday as a regularly scheduled day off.
+D.	Employees shall be allowed one (1) fifteen (15) minute relief period for each three (3) to four (4) hour segment of continuous service. Relief time shall not be added to the lunch period, or be taken at the beginning or end of the work day. Permission to take this time shall be subject to scheduling problems or other emergencies in each unit. Relief time shall not be cumulative.
+II.	Holidays
+A.	Full time staff shall be granted eleven (11) holidays each year. The holidays shall be as follows:
+1.	New Year’s Day
+2.	Martin Luther King Jr. Day
+3.	Memorial Day
+4.	Independence Day
+5.	Labor Day
+6.	Columbus day
+7.	Thanksgiving Day
+8.	Christmas Eve Day
+9.	Christmas Day
+78
+10.	Spring holiday (to be taken between February 1 and April 30 with the prior approval of the employee’s supervisor).
+11.	One additional holiday to be determined by the library director. The library director shall notify the union and employees prior to july 1 as to when and how the holiday is to be observed in the contract year commencing July 1. The holiday may be granted as a floating holiday, at the option of the library director.
+*12	. Beginning in the 1999-2000 fiscal year Veterans’ Day was added as a holiday.
+B.	Full-time employees shall lose their holiday benefits whenever they are absent without authorization the day before or the day after a holiday.
+III.	Vacations
+A. Vacation Computation
+Vacation computation shall be on a monthly accrual system. The accrual shall take place on the first day of the calendar month. Vacation allowances shall be accrued as follows:
+Hire through 14 years 24 days per year
+15 years or more	25 days per year
+*B. Maximum vacation accrual
+Employees shall be allowed to accrue up to a maximum of two year’s vacation credits.
+C. Scheduling of Vacations
+1.	Before accrued vacation credits may be taken, a staff member shall complete six (6) months of service. A staff member who resigns before completion of six (6) months of service shall forfeit vacation credits thus accrued.
+2.	Vacations may be taken by eligible employees at any time during the year. However, the general staffing needs of the unit shall be a controlling factor in determining when a vacation request may be approved. Requests for vacation leave shall be submitted to the unit supervisors as early as possible. A vacation request approved by the supervisor shall be forwarded to the appropriate assistant director or director. Upon approval by the assistant director or director, the request shall be forwarded to the personnel office for verification. Upon verification, the personnel office shall return the request to the staff member.
+79
+Requests denied at any level shall be returned to the appropriate staff member. If denied because of staffing reasons, such vacation shall be scheduled at a later time.
+In the event the employee has reached or reaches maximum vacation accrual, such later scheduling shall not result in loss of accruals.
+IV. Sick Leave - Immediate Family
+A.	Up to ten (10) days of accrued sick leave may be used to cover a serious illness or injury in the employee’s immediate family requiring care and attendance of the employee. Immediate family shall include spouse, children, parents, brothers, sisters, grandparents, grandchildren or any other relative who is an actual member of the employee’s household.
+B.	When sick leave is used for three (3) or more consecutive days because of illness in the immediate family, a certificate by the attending physician covering the nature of the illness and the need for the employee to be in attendance of the relative may be requested by the supervisor.
+80

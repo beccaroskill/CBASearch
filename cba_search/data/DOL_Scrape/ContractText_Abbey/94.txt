@@ -1,0 +1,1231 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Great Lakes Fabricators & Erectors Association, Michigan Conveyor Manufacturers Association, Inc. and International Union of Operating Engineers (IUOE), AFL-CIO, Locals 324, 324A (2001)
+K#: 8719
+Employer Name: Great Lakes Fabricators & Erectors Association, Michigan Conveyor Manufacturers Association, Inc.
+Location: MI
+Union: International Union of Operating Engineers (IUOE), AFL-CIO
+Local: 324, 324A
+SIC: 1791	NAICS: 23819
+Sector: P	Number of Workers: 1000
+Effective Date: 06/01/01	Expiration Date: 05/31/04
+Number of Pages: 88	Other Years Available: N
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School, http://www.ilr.cornell.edu/
+MW
+JUNE 1,2001 through MAY 31,2004
+AGREEMENT
+Stff-
+between
+GREAT LAKES FABRICATORS and ERECTORS ASSOCIATION
+MICHIGAN CONVEYOR MANUFACTURERS ASSOCIATION, INC,
+and
+INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL UNION No. 324 and 324-A AFL-CIO
+i
+Association'.
+GREAT LAKES FABRICATORS and ERECTORS ASSOCIATION
+1001 Woodward Ave., Suite 4481-* H 0 / Detroit, Michigan 48226
+Phone: Area Code 313-309-2000
+Association:
+MICHIGAN CONVEYOR MANUFACTURERS ASSOCIATION INC.
+31475 Utica Road Fraser, Michigan 48026 Phone: Area Code 810-296-0200
+Union:
+INTERNATIONAL UNION OF OPERATING ENGINEERS, LOCAL No. 324 and 324-A AFL-CIO
+37450 Schoolcraft, Suite 110 Livonia, Michigan 48150 Phone: Area Code 734-462-3660
+Area Covered by the Great Lakes Fabricators and Erectors Association Agreement
+INDEX
+Page
+Air Compressors and Pumps.....................11
+Apprentice Engineer...........................15
+Apprenticeship Training & Journeyman.
+Retraining Fund Contributions...............52
+Assistant Craft Foreman.......................39
+Capacities and Sizes .........................10
+Car Pay.......................................41
+Change of Machines.......................... .45
+Conformity to Law..............................8
+Conveyor Agreement........................... 61
+Craft Foreman.................................39
+Defined Contribution Plan ................... 50
+Derricks .....................................12
+Discharge...................................  43
+Drug & Alcohol Testing Program ...............47
+Duties of Employees ..........................46
+Employees Covered ............................ 2
+Employment.....................................2
+Engineers When Working with Ironworkers &
+Millwrights under Conveyor Agreement on
+2nd, 3rd and Odd Shifts ....................61
+Equipment Assignments.........................41
+Fork Lift.....................................11
+Fringe Benefit Obligations ...................55
+Geographical Jurisdiction......................2
+Grievance Procedure..........................  5
+Guaranteed Work Week..........................12
+Guarantee of Agreement Liability .............57
+Helicopter Engineer and Crew .................12
+Hiring of Employees .......................... 3
+Hours ........................................16
+Industry Promotion and Improvement Fund.......52
+insurance.....................................48
+i
+INDEX (Continued)
+Page
+Intent ....................................... 1
+Job Mechanic..................................39
+Jurisdiction .................................10
+Jurisdictional Procedure.......................8
+Labor-Management Education Committee .........54
+Layoff........................................43
+Liability .....................................7
+Lockouts.......................................7
+Long Boom Operator............................40
+Management Rights .............................4
+Mem	fjy
+Market Recovery ...............................73
+Maintenance and Safety Inspection Time ........10
+Member’s Claims for Wages .....................14
+MESC and Workers’ Compensation Coverage........5
+Nondiscrimination..............................4
+Non-Job Site Disputes..........................9
+Odd Shifts-Conveyor Agreement ................61
+Operating Ability..............................4
+Optional Workweek.............................18
+Overtime..................................... 38
+Owner-Operators...............................41
+Payday-Discharge or Layoff ...................43
+Penalty to Operate Crane or Derrick Without Oiler ........................41
+Pension.......................................49
+Posting of Employment..........................4
+Pre-Job Conference ........................... 1
+Pumps........................................ 11
+Recognition................................    1
+Renewal or Change ............................79
+Repairs.......................................11
+Reporting Time ...............................42
+Representation................................ 1
+Retiree Benefit Fund..........................51
+ii
+INDEX (Continued)
+Page
+Return to Yard or Car Pay..................... 41
+Safety.........................................47
+Security Deposit Fund..........................57
+Shelter .......................................47
+Shiftwork .....................................19
+Signature Page.................................SO
+Steam Cranes...................................10
+Steward .......................................45
+Strikes or Lockouts ............................7
+Subcontracting..................................9
+Supplemental Vacation and Holiday Pay..........15
+Terms of Agreement.............................79
+Transportation and Traveling Time..............42
+Union Business Representative .................45
+Union Security Clause...........................3
+Vacation and Holiday Fund......................14
+Vertical Lifting Hoists........................12
+Violations of Payments of Wages or
+Fringe Benefits.............................  8
+Wages .......................................  20
+Wages-Conveyor Agreement.......................21
+Waiting Time ..................................42
+Work Hours Per Day ............................16
+Working Rules ..................................9
+Work Jurisdiction...............................2
+iii
+TERM OF AGREEMENT
+June 1,2001 through May 31, 2004 AGREEMENT
+THIS AGREEMENT, effective June 1,2001, between the GREAT LAKES FABRICATORS and ERECTORS ASSOCIATION, (Association), on behalf of its members, (Employer or Employers), or between any other Employer or Employer Groups (Employer or Employers), and the INTERNATIONAL UNION OF OPERATING ENGINEERS, LOCAL No. 324 and 324-A, AFL-CIO, (Union).
+ARTICLE I REPRESENTATION
+Section 1.	Recognition.
+The Employers recognize the Union as the sole and exclusive bargaining agent to bargain for and represent all persons employed by the Employers to perform work which comes within the work jurisdiction of the Union in all matters pertaining to wages, hours and other conditions of employment.
+Section 2.	Intent.
+The intent of the parties to this Agreement is to promote and improve industrial and economic relationships between the Employers, the Union and the employees and to state the basic agreement covering rates of pay, hours of work and conditions of employment to be observed by the parties.
+Section 3.	Pre-Job Conference.
+(a)	On any project that will employ three (3) or more Operating Engineers, Employer agrees that a Pre-Job Conference will be held. Employer shall advise the Union of approximate number of hours and/or shifts to be worked, tentative starting date, approximate length of job and machines to be used)
+(b)	When the Employer refuses to participate in a pre-job conference, the Union shall reserve the right to withhold the services of members of the bargaining unit until a pre-job conference is held.
+1
+ARTICLE II EMPLOYMENT
+Section 1.	Work Jurisdiction,
+The stated working ruies and regulations (Working Rules and Regulations) shall apply to steel and metal erection work on buildings, bridges and other structures, within the work jurisdiction of the Union, referred to as “steel and metal erection work.” Steel and metal erection work is further described as follows: handling, erection or dismantling of steel; handling, erection or dismantling of boilers or tanks; powerhouse, refinery, substation or booster station work; the erection, handling or dismantling of machinery or conveyors, the handling, erection or dismantling of iron, steel pipe or metal roof-decking when used in conjunction with any of the work described above; and on all other work when Operating Engineers are employed working with Ironworkers, Millwrights, Electricians, U.A. Pipe Trades, Riggers, Boilermakers, Sheet Metalworkers, Glaziers and all other metal working tradesmen. However, this Agreement shall not pertain when handling reinforcing steel; this work comes under the terms of the general construction agreement.
+Section 2.	Geographical Jurisdiction.
+This Agreement shall apply to the steel and metal erection work in the following Counties in the State of Michigan, referred to as “territory": Alcona, Alpena, Arenac, Bay, Cheboygan, Clare, Clinton, Crawford, Genesee, Gladwin, Gratiot, Huron, Ingham, Iosco, Isabella, Jackson, Lapeer, Lenawee, Livingston, Macomb, Midland, Monroe, Montmorency, Oakland, Ogemaw, Oscoda, Otsego, Presque Isle, Roscommon, Saginaw, St. Clair, Sanilac, Shiawassee, Tuscola, Washtenaw and Wayne.
+Section 3.	Employees Covered.
+This Agreement shall govern the working conditions and wage rates for all employees, also referred to as “Operating Engineer,” “Operator,” “Engineer” “Fireman,” “Oiler," “Apprentice Engineer,” or “employee,” covered by this Agreement.
+2
+Section 4.	Union Security Clause.
+The Employers agree that in the employment of employees to perform any work covered by this Agreement they will not discriminate against applicants because of membership or nonmembership in the Union. The Employers further agree that as a condition of employment all present and future employees covered by this Agreement shall become members of the Union after the seventh (7th) day following the beginning of their employment or the effective date of this Agreement, whichever is later. The seven (7) day period following which an employee is required to join the Union shall be computed from the second day such employee enters the employment of any Employer. The continued employment by Employers of employees covered by this Agreement shall be conditioned upon payment by such employees of their initiation fee and periodic dues. It is agreed that “membership in good standing” shall mean only payment of those periodic dues and fees germane to collective bargaining, contract administration, and grievance adjustment. The failure of any employee covered by this Agreement to make application to and become and remain a member of the Union, or to pay periodic dues and fees, within the period of time herein indicated shall obligate the Employer of such employee, upon written notice from the Union to such effect and to the further effect that Union membership was and is available to such employee on the same terms and conditions as it is available to other applicants for membership, to forthwith discharge such employee.
+Section 5.	Hiring of Employees.
+The Employer recognizes the Union as the valuable source of experienced employees and may call the Union for employees. The Employer shall, upon request, notify the Union, in writing, as to the date of original employment of any employee covered by this Agreement. If a nonmember is hired, he shall make application for membership in the Union in accordance with Article II, Section 4 of this Agreement.
+3
+Section 6.	Nondiscrimination.
+The Employer, under the terms of this Agreement, may hire any qualified employees for employment on a nondiscriminatory basis. When the Employer has requested the Union to furnish employees for a job, such employees will be referred by the Union on a nondiscriminatory basis.
+Section 7.	Operating Ability.
+All applicants for employment may be required to furnish the Employer satisfactory evidence of his qualifications and skill from any source, not limited to the Union, that is recognized bv the Employer as a proper authority. The Employer shall have the right to reject any applicant for employment who is unable to thus establish his qualifications and skill necessary to perform the work required by the Employer.
+Section 8.	Posting of Employment.
+The Employer and the Union shall both post a copy of this Article in such places as notices are customarily posted.
+Section 9.	Management Rights.
+It is recognized that the management of the Company, the control of its properties and the maintenance of order and efficiency is solely the responsibility of the Company. Other rights and responsibilities belonging solely to the management of the Company are recognized prominent among which, but by no means wholly inclusive are:
+To direct the work force, to supervise the work of employees and scheduling all construction work, to judge the satisfactory performance of employees, to select and utilize any type of material and equipment, to maintain order and efficiency including the right to hire, assign, transfer and direct the work force.
+Tb determine the number of hours worked, to select and appoint supervision, subject only to such regulation and restrictions governing the exercise of these rights as are expressly provided in this Agreement.
+4
+Section 10.	MESC AND WORKERS’ COMPENSATION COVERAGE
+Before commencing any job, an Employer covered by this Agreement shall be required to furnish Local 324 his M.E.S.C. Registration Number. In addition, before commencing any job, the Employer shall furnish Local 324 with a certificate of Workers’ Compensation Insurance submitted by the Employer’s Insurance Carrier,
+ARTICLE III
+GRIEVANCE PROCEDURE
+(a)	A grievance is an alleged breach, misinterpretation, or misapplication of the express terms of this Agreement. The grievance procedure is available to claims of either the Union or the Employer.
+(b)	Settlement of grievances may be arrived at in any step of the grievance procedure which will be final and binding on the Union and the Employer, and the etnployee(s) involved.
+(c)	A grievance must be presented (verbally or in writing) within three (3) working days of the time that the aggrieved party first becomes aware, or reasonably should have become aware, of the claim subject of the grievance. A “working day" does not include Saturdays, Sundays or holidays.
+(d)	Grievances shall be handled in the following manner:
+Step 1. Between the Employer’s Supervisor and a representative of the Union on the jobsite.
+Step 2. Within ten (10) working days following completion of Step 1, an unresolved grievance shall be reduced to writing. The written grievance shall be submitted to a Union Business Representative and the Employer's Supervisor at the job site.
+Step 3. Within five (5) working days following completion of Step 2, an unresolved grievance shall be submitted to the Business Manager and the Supervisor or Labor Relations Manager of the Employer.
+5
+Step 4. Within five (5) working days following completion of Step 3, an unresolved grievance shall be submitted to the Joint Grievance Board. The Joint Grievance Board shall consist of six (6) persons, three (3) of whom are to be selected by the Association and three (3) by the Union. The Association and the Union each shall appoint at least two (2) alternate representatives who may serve in place of a regular representative of such Association or Union, as the case may be. The time limits provided for in any Step of the grievance procedure may be extended by mutual consent of the Union and the Employer.
+The Joint Grievance Board shall appoint a Secretary from among its members, and the Board shnii meet promptly upon written notice from the Secretary or from any member of the Board after receipt of such notice of requested meeting. The Secretary will schedule Board meetings after ascertaining the Employer’s availability. The Board will not issue a decision in the absence of the Employer. The Board will consider and decide all grievances relative to wages and all other terms and conditions of employment under this Agreement. Grievances shall be submitted in writing and shall be decided by a majority vote of the full Board consisting of six (6) members. The decision of the Board is final and binding.
+The refusal or failure by a party to schedule or attend a Joint Grievance Board meeting shall constitute waiver of all prior irregularities in the grievance procedure, and the complainant may proceed directly to arbitration. If the complainant prevails in the arbitration over such party, that party shall pay all costs of arbitration, excluding attorney fees. If the complainant does not prevail, each party will pay its own cost, except the arbitrator’s fee shall be shared equally.
+Step 5. If the Joint Grievance Board deadlocks regarding any grievance, it shall constitute a basis for submittal of the grievance to the National Center for Dispute Settlement. In such instances, the parties to the grievance shall appoint an arbitrator to review the dispute and render a decision. If the parties are unable to agree upon an
+6
+1
+arbitrator, the National Center for Dispute Settlement shall make the designation. The arbitrator’s fee shall be shared equally by the Employer and the Union. The arbitrator shall confine his decision to the dispute in question and shall not have authority to add to, subtract from, or in any way modify the terms of this Agreement. The arbitrator’s decision shall be final and binding on the Employer and the Union, and the employee(s) involved.
+(e)	It is expressly agreed and understood that violation of payment of rates of pay, overtime work, Holiday and Vacation Fund, Security Deposit, Insurance and Pension Funds, Labor-Management Education Committee, Retiree Benefit Fund, Apprenticeship and Journeyman Retraining Fund or Industry Promotion and Improvement Fund contributions, as provided in this Agreement shall not be considered as subject to arbitration, provided the Union gives seventy-two (72) hours written or telegraphic notice to the Association and the Employer concerned prior to taking economic action for violation of payment as provided for in this Agreement.
+ARTICLE IV LIABILITY
+Section 1.	Strikes or Lockouts.
+There shall be no strikes or lockouts on Steel & Metal Erection Work in the territory, nor shall any of the employees employed on any such work collectively or in concert cease work. There shall be no cessation of work pending a decision by the Joint Board of any question referred to it. When the Joint Board has made a decision on any question referred to it, such decision shall be made effective as of the date the question was received by the Joint Board. The Joint Board may take cognizance of the lawful rules and regulations of the International Union of Operating Engineers and of Building and Construction Trades Councils, insofar as such rules do not conflict with these Working Rules and Regulations, and also do not conflict with any of the provisions of any State or Federal Law.
+7
+Section 2.	Violations of Payments of Wages or Fringe Benefits.
+(a)	If an Employer fails to pay wages or travel pay ineluding vacation and holiday pay or contributions to the Health Care Plan, the Pension, Retiree Benefit Fund, Supplemental Vacation Fund and/or the Training Fund, Labor Management Education Committee, or to provide Security Deposit; or submit payroll records as provided in Trust Agreement to audit in accordance with the terms of this Agreement, the Union may take economic action for violation of said payments against said Employer, provided it gives written or telegraphic notice seventy-two (72) hours, excluding Saturdays, Sundays and Holidays, prior to taking such economic action, to sain Employer and the Association.
+(b)	If the employees of the bargaining unit are removed from the job by the Union to enforce payment of delinquent wages, including Vacation and Holiday, Supplemental Vacation and/or Training Fund, Health Care Plan contributions, the Pension contributions, Retiree Benefit Fund contributions, or Labor Management Education Committee contributions, the employees shall be paid by the delinquent Employer for all time lost at the straight-time hourly rate for the balance of the current pay period.
+Section 3.	Jurisdictional Procedure.
+It is agreed by the parties that in the event they are unable to settle jurisdictional disputes on a local level they will submit the same to the Impartial Jurisdictional Disputes Board established with the authority and consent of the National Labor Relations Board for the purpose of settling jurisdictional disputes in the construction industry, and to abide by the decisions of the Impartial Jurisdictional Disputes Board,
+ARTICLE V CONFORMITY TO LAW
+In the event that any portion of this Agreement is declared to be and becomes inoperative under State or
+8
+Federal Law, the balance of the Agreement shall remain in full force and effect and the parties agree to meet and renegotiate the inoperative portion of the Agreement.
+ARTICLE VI
+SUBCONTRACTING
+(a)	The Employer agrees that, when subletting or contracting out work covered by this Agreement which is to be performed within the geographical coverage of the Agreement at the site of construction, alteration, or repair of a building, structure or other work, he will sublet or contract out such work only to a subcontractor who has signed or is covered by a written labor agreement entered into with this Union.
+(b)	Contractors who lease or rent equipment or subcontract work to a subcontractor, the Engineers employed on the leased or rented equipment or subcontractor’s equipment shall count toward the requirements for a Craft Foreman, Assistant Craft Foreman and Apprentice, as per Article VIII, Section 6(a) and (b).
+ARTICLE VII
+NON-JOB SITE DISPUTES
+At no time during the term of this Agreement shall the question of working conditions, or other conditions, affecting the preparation or delivery of materials to a job site be made a matter of controversy, nor shall any dispute or controversy between the Employer and the employees in any other trade or trades, off the job site, be allowed to affect the erection of steel or metal work.
+ARTICLE VIII
+WORKING RULES
+This Agreement between the Association, the Employers, and the Union, includes the following Working Rules and Wage Scales:
+9
+Section 1-	Jurisdiction.
+The operation of all power driven or power generating construction equipment used in the building or alteration of all structures and engineering works, insofar as the Building and Construction Trades Department, AFL-CIO, recognizes operation of such type of equipment as being under the jurisdiction of the International Union of Operating Engineers, and shall be assigned to the Operating Engineers by all Contractors, rather than any other skilled trade group in the State of Michigan. Work Jurisdiction is further described in Article II, Section 1 of this Agreement.
+Upon failure of the Contractor to abide by this Section and upon notice to the Association, the Joint Grievance Board shall meet within twenty-four (24) hours of such notice to resolve the problem. If the Joint Grievance Board does not meet within such twenty-four (241 hour period through the fault of the Association, the Union shall have the right to take such action as they determine necessary.
+Section 2.	Capacities and Sizes.
+(a)	AN OILER/APPRENTICE shall be required on each and every truck crane, crawler crane, kangaroo type crane, derrick, crawler and/or mobile tower cranes of over twenty-five (25) ton capacity. However, an Apprentice Engineer may be employed in lieu of an Oiler at Employer’s discretion. An oiler/apprentice engineer shall be required on all non-mobile tower cranes. The Oiler/Apprentice Engineer shall be paid the applicable rate pertaining to that Oiler/Apprentice Engineer, and it is further agreed that the Oiler/Apprentice’s starting time and lunch period can be scheduled by the Employer to start one-half (1/2) hour before the Engineer’s starting time and lunch period time, in which time the Oiler/Apprentice can check fuel, oil and other items, and warm up the engines, and also oil, grease and check equipment while the Operator is on his lunch period.
+(b)	ON ALL STEAM CRANES a fireman must be employed in addition to the Operating Engineer.
+10
+(c)	An Operator shall be required on five (5) gasoline or diesel driven electric generators or welders, through ten (10) machines. When the eleventh (11th) machine is used, an additional Operator will be employed, through twenty (20) machines, etc.
+(d)	Air Compressors and Pumps.
+(1)	Equipment coming within the jurisdiction of the Operating Engineers of a size or capacity not requiring the full-time employment of an Operating Engineer shall be started, stopped, serviced and maintained by an Operating Engineer assigned to other equipment.
+Effective January 1, 1993 an Engineer covered under this Agreement shall be employed on each power driven air compressor over 250 c.f.m. or on two (2) or more compressors of a lesser capacity whose aggregate capacity is over 250 c.f.m.
+(2)	A pump of four inch (4”) discharge or over shall be operated by an Engineer. Pumps under four inch (4”) discharge, where three (3) pumps or more of any size up through three and one half-inch (3-1/2”) discharge are used, one (1) Engineer shall operate such pumps when used on same job. One (1) Engineer shall operate up to a maximum of four (4) pumps and an additional Engineer shall be required for every multiple of four (4) or fraction thereof. Where two (2) or less pumps of up to three inch (3") discharge are used on the job an Engineer or Oiler shall start, stop and service the pump or pumps if available on the job.
+(2a) If a maintenance or repair man is required on pumps on the job, he shall be an Operator.
+(e)	A FORK LIFT must be operated by an Operating Engineer.
+(f)	NO REPAIRS shall be made on the job site to equipment that is being operated by employees covered by this Agreement except by and under the supervision of an employee covered by this Agreement.
+11
+(g)	VERTICAL LIFTING HOISTS. It shall be further understood and agreed that all vertical power lifting hoists, without regard to horsepower capacity of engine or motor, will be operated by an Engineer.
+(h)	DERRICKS. The operation of power agitated swing adapters on derricks shall be the work of the Operating Engineers. An Oiler shall not be required on a derrick that requires two (2) Journeyman Operators.
+HELICOPTER ENGINEER AND CREW
+The following falls within the jurisdiction of the International Union of Operating Engineers:
+Helicopter Operator - Fixed Slings
+Helicopter Winch Operator
+Radio Operator, Signal and Safety and Flight Pattern Engineer, at load pick-up site
+Radio Operator, Signal and Safety at load landing site Mechanic, Fuel and Maintenance Engineer
+Applicable Rates to be set at Pre Job Conference
+(a) Guaranteed Workweek.
+(1)	All Craft Foremen, Crane and Derrick Operators working within the jurisdiction of this Agreement shall receive no less than a forty (40) hour week guarantee. Overtime shall not be included in computing the forty (40) hour guarantee. Whenever a holiday falls within the workweek, the employee shall be paid for that holiday as part of the forty (40) hour guarantee. If an employee works on such holiday, he shall be paid the premium rate for that date in addition to the forty (40) hour guarantee. The forty (40) hours above mentioned shall be included as hours worked for the purpose of executing this Agreement. The Employer will not be obligated to pay an employee for time lost of his own volition when he does not report for work or leaves the job without permission.
+12
+(2)	Paragraph one (1) above shall not restrict the Employer from hiring and/or laying off employees on various days of the week. Such employees shall receive time only for the days they are on the Employer’s payroll. If a Craft Foreman, Crane or Derrick Operator employee is called back to work on or before the fifth (5th) calendar day after his lay off, he shall be entitled to his forty (40) hour guarantee.
+(3)	The Employer agrees and understands he shall not at any time use the lay off mentioned in Section Two (2) above to circumvent the meaning or intent of this Agreement. No Employer shall change employees from one payroll to another to circumvent the intent of the forty (40) hour guarantee.
+(4)	All employees working under this Agreement who are on Employer’s payroll during the calendar week that a Holiday falls within, shall be paid eight (8) hours pay for that day if not worked. If an employee is required to work any Holiday, he shall be paid at premium rate plus Holiday pay. The following six (6) days to be counted as Holidays: New Year’s Day, Memorial Day, Fourth of July, Labor Day, Thanksgiving Day and Christmas Day.
+(4-a) Holiday Pay of eight (8) hours shall be paid to the employee who substitutes for or replaces an employee who leaves the job of his own volition prior to the paid Holiday. No employee shall be paid more than once for the same Holiday.
+(5)	Any Employer leasing or renting equipment covered by this Agreement will be hela responsible for the payment of wages, fringe benefits, worker’s compensation and unemployment compensation of employees operating the Employer’s equipment when leased or rented to other Employers.
+(6)	It is agreed that when a machine breaks down and the engineer is not assigned to other work covered by this Agreement, the Engineer shall be retained for the balance of the shift, at the regular rate of wages to repair or help repair such machine.
+13
+(b)	MEMBER’S CLAIMS FOR WAGES. Members not submitting claims for proper wages or overtime due, within fifteen (15) days of each pay period, shall be deemed as having waived and vacated their rights to claim.
+(c)	VACATION AND HOLIDAY FUND.
+(1)	The Employer agrees to pay into the Operating Engineers’ Local No. 324 Vacation and Holiday Trust Fund, (Vacation Fund), fifteen percent (15%) of the total gross wages, prior to any withholdings for each employee covered by this Agreement. The amount of the contributions made in behalf nf each employee to the Fund shall be added io the employee’s gross wages before computing the withholding of any Federal or Local income taxes and F.I.C.A. contributions. This payment shall be forwarded each month to such depository as may be designated by the Trustees of said Vacation Fund, on forms furnished by the Trustees, and the Trustees shall instruct the depository to maintain an individual record for each employee for whom contributions are received which shall show the amount of money contributed with respect to each such employee.
+(2)	The Vacation Fund shall be administered by a Board of Trustees made up of an equal number of Employer and Union Trustees, in accordance with all applicable laws.
+(3)	The accumulated vacation pay shall be distributed annually, in the month of December of each year, to the employees in accordance with the rules and regulations adopted by the Trustees of the Vacation Fund, which shall provide, among other things, for the deduction by the Employer of the employee’s share of Federal, State and Local taxes prior to payment to the Vacation Fund, to the end that the employee shall be entitled to an annual vacation benefit equal to fifteen percent (15%) of his total gross wages prepaid.
+14
+I
+(4)	SUPPLEMENTAL VACATION AND HOLIDAY PAY.
+In addition to the payment provided for in paragraph (c) (1) above, the Contractor agrees to pay into the Operating Engineers’ Local 324 Vacation and Holiday Fund the sum of five cents ($.05) per hour for each hour paid each employee working under the terms of this Agreement, as Supplemental Vacation and Holiday pay. This five cents ($.05) per hour contribution to the Vacation and Holiday Fund shall be computed on actual hours paid, without regard to whether the employee was paid on straight time or overtime.
+(d)	APPRENTICE ENGINEER.
+(1)	The parties agree that it is in their mutual interest and in the interest of the steel and metal erection industry that new employees be trained in the operation of the equipment covered by this Agreement. In furtherance of an Apprenticeship Training Program, the Employers agree that in addition to all other employees otherwise provided for in this Agreement, on all jobs where there are five (5) or more Engineers including the Craft Foreman employed on one (1) job by the Employer, the Employer shall also employ one (1) Apprentice Engineer. Where there are twenty (20) or more Engineers, the Employer shall employ two (2) Apprentice Engineers. Where there are fifty (50) or more Engineers, the Employer shall employ three (3) Apprentice Engineers. The Apprentice Engineer shall be assigned to work with the various Engineers and to do other work as directed by the Craft Foreman. The starting rate for Apprentice Engineers shall be seventy percent (70%) of Crane Operator's and Job Mechanic’s base wage rate, plus the payment for all fringes (except the Apprentice Training and Journeyman Retraining Fund contribution). Every six (6) months during the training period, the Apprentice Engineer’s rate will be increased by five percent (5%) of the Crane Operator’s and Job Mechanic’s base wage plus
+15
+applicable fringes, subject to the Apprentice Engi neer’s satisfactory compliance with the Appren ticeship Rules and receiving a passing grade on th( validated competency tests, as certified by the Operating Engineers’ Local 324 joint Apprentice ship Training Committee.
+The parties agree to abide by the rules, regulations and procedures established by action of the JATC relating to the selection, employment, training and discipline of apprentices.
+It is further agreed that in the event of a scheduled leave approved by the JATC, a replacement shal he assigned to the job by the JATC. In the case o illness or injury a replacement shall be assigned by the JATC after the fifth working day. The Appren tice(s) shall be assigned to work overtime when required by the manning ratios set forth above.
+(2)	Apprentice!s) will work all hours worked on over time when required by contract as stated above.
+(3)	The Employer agrees the Apprentice will be paid by the Employer one day’s pay (eight (9) hours straight time) every two (2) weeks when the Apprentice is attending field training classes. The Employer will not be obligated to pay the trainee until the Apprentice presents a class attendance record signed by the JATC Instructor.
+Section 3. HOURS.
+(a) WORK HOURS PER DAY.
+(1)	Eight (8) hours shall constitute a day’s work, from 8:00 a.m. to 4:30 p.m. from Monday through Friday, inclusive, on all classifications of work except in territories where a shorter workday prevails among a majority of the building trades unions on building work. Lunch period may be curtailed by agreement with the Union Representative and Employer or his representative.
+(2)	Changes in the work hours per day in special cases, not however to exceed an eight (8) hour day, may be made to meet special conditions upon application and approval of the Business Manager of the
+16
+I
+I
+Union except the Employer may alter his starting time to 7:00 a.m., from Monday through Friday, inclusive.
+(3)	The lunch period shall start four (4) hours after the start of the regular shift. When men are requested to work through their regular established lunch period, time and one half (1-1/2) prevailing rate of wages shall be paid for that period of time.
+(4)	If the men are required to work more than ten (10) hours (physical hours worked), a paid lunch period of one half (1/2) hour shall be provided after ten (10) physical hours worked. The same shall apply after every four (4) hours physically worked thereafter. If the employee works through his additional lunch period or periods, he shall receive four (4) times the straight time shift rate for each lunch period worked. The employee shall not be required to work through his additional lunch period or periods. Except for start up or standby, lunch may not be adjusted without penalty. During certain production start ups and standby conditions, the Employer may adjust the regular lunch period of the work force on any shift to support the start up or standby activities. Such adjustment can be up to one half (1/2) hour earlier or later than the regular lunch period and will be without premium or modification of the shift hours.
+(5)	Work performed before 8:00 a.m. and after 4:30 p.m. shall be paid for at time and one half (1-1/2) the regular straight time rate of pay, except as provided for in the SHIFTWORK clauses of Article VIII, Section 3(b) of this Agreement.
+(6)	Any employee hospitalized or seriously enough injured to be required to leave the job shall, without regard to the question of fault, be paid for the full day on which the injury occurs. When an employee is required to return for treatment, by doctor’s request, such employee shall be paid for lost time during that shift, providing a doctor’s slip is presented to the Employer.
+17
+(7)	OPTIONAL WORKWEEK (4-10s)
+The Union agrees that the Employer may work a 4-10 workweek on a particular job as provided below only under the following circumstances:
+At the beginning of a job or at any time during its duration, and for a minimum of one (1) week, the Employer shall have the option of scheduling work on Monday through Thursday for ten (10) hours each day at straight-time. Work in excess of ten (10) hours but less than twelve (12) hours per day (Monday through Thursday) shall be paid at time and one half. Work in excess of twelve (12) hours per day (Monday through Thursday) shall be paid at double time. The 4-10 hour workweek may be used by an Employer on a job basis. The 4-10 workweek may be used only under the following circumstances:
+(a)	When the Employer elects to use the 4-10 workweek under this Article, he will notify the Local Union involved and inform the Local Union of the work schedule as soon as possible prior to its implementation.
+(b)	In the event one (1) or more hours of work are unable to be performed because of bad weather when 4-10’s are worked Monday through Thursday, the Employer may schedule work on Friday of that week for a minimum of eight (8) hours. Work in excess of forty (40) hours for the week (Monday through Friday) but not more than fifty (50) hours shall be paid at time and one-half. Work in excess of fifty (50) hours for the week (Monday through Friday) shall be paid at double time. Ten hours (10) of work may be performed on Saturdays at time and one half. Work on Saturday in excess of ten (10) hours shall be paid at double time.
+(c)	On any job scheduled to work on Friday, the Employer shall not bring employees to the job to avoid the payment of premium time.
+(d)	For days when ten (10) hours of work is scheduled Article VIII, Section 12 shall apply with the mod-
+18
+ideation that five (5) hours shall be substituted for four (4) hours, and ten (10) hours shall be substituted for eight (8) hours.
+(e)	When work is performed under the 4-10 workweek schedule, payday shall be one of the workdays. Once payday has been established on a project under this Section that day shall remain the payday whenever 4-10’s are worked.
+(b) SHIFT WORK.
+(1)	When multiple shifts are worked and the first shift starts at a time other than during the regular working day as defined in Article VIII, Section 3, paragraph (a)(5), time and one half (1-1/2) the prevailing rate of wages shall apply until 8:00 a.m. the following day. After 8:00 a.m. the following day, when two (2) shifts are employed, each shift shall work seven and one-half ( 7-1/2) hours for eight (8) hours pay at regular time; and any additional time worked shall be at double (2) the prevailing fate of wages. After 8:00 a.m. the following day when three (3) shifts are employed, seven (7) hours shall constitute a day’s work for each shift for which a regular wage of eight (8) hours shall be paid or if less than seven (7) hours are worked, Article VIII, Section 12, shall apply. When multiple shifts are worked on Saturday, Sunday or recognized Holidays, the following shall apply: when two (2) shifts are employed, each shift shall work seven and one-half (7-1/2) hours for eight (8) hours pay at double (2) the prevailing rate of wages. When three (3) shifts are employed, each shift shall work seven (7) hours for eight (8) hours pay at double (2) the prevailing rate of wages or if less than seven (7) hours are worked, with a minimum of two (2) hours. On all shift work performed on Saturday, Sunday or Holidays, the overtime rate of double (2) time shall start with the beginning of the first or “morning" shift. In localities where the workday is less than eight (8) hours per day the hours on shift work shall be shortened proportionately.
+19
+(2)	No employee shall be required after having worked sixteen (16) hours (lunch periods included) to return to work for the prevailing rate of wages without having had eight (8) hours off the job. Supervision and stewards are excluded from the above for a maximum of two (2) additional hours if they are required, to stay over and coordinate the job, in which case a minimum of six (6) hours off the job would be required.
+(3)	Any additional men required to work on any shift will receive the same rate of pay as the men already at work on that shift providing they have not worked on any other job or for any other Employer on that date.	■
+(4)	Any shift worked under this provision shall be for a minimum of eight (8) hours pay. If the first hour of the day shift is paid for at a premium rate of wages, the same shall apply to each shift thereafter.
+Section 4.	WAGES.
+Craft Foreman
+$2.00 per hour above the highest paid employee under his supervision.
+Assistant Craft Foreman.
+$.50 per hour above highest paid employee under Craft Foreman’s Supervision.
+20
+Engineer When Operating Combination of Boom and Jib 400’ or Longer
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+* Base Wage		. .$30.64	$32.12	$33.64
+*Vac. & Holiday (15%) . . .	. . 4.60	4.82	5.05
+*Supp. Vac. Fund 		. . .05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		. . 4.75	4.75	4.75
+Retiree Benefit Fund . . .	. .	.20	.20	.20
+Apprenticeship Fund . ..	. .	.60	.60	.60
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		• ■ 1.00	1.00	1.00
+Gross Wage 		. .$46.48	$48.18	$49.93
+Industry Promotion Fund 		. .	.19		.19		
+	$46.67	$48.37	$50.12
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+21
+Engineer When Operating Combination of Boom and Jib 400’ or Longer on a Crane that Requires an Oiler
+Hourly Rate
+Steel Agreement	6/V01	6/1/02	6/1/03
+*Base Wage		. .$31.51	$32.99	$34.51
+*Vac. & Holiday (15%) .. .	. . 4.73	4.95	5.18
+*Supp. Vac. Fund 		. .	.05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		. . 4.75	4.75	4.75
+Retiree Benefit Fund . ..	. .	.20	.20	.20
+Apprenticeship Fund . . .	. .	.60	.60	.60
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		■ ■ i.oo	—^00	±0Q
+Gross Wage		. .$47.48	$49.18	$50.93
+Industry Promotion Fund 		. .	.19		,19		,19
+	$47.67	$49.37	$51.12
+*TaxabIe Income
+The allocation between wages and fringe benefit rnay be adjusted 30 days before the expiration date lor 2002 and 2003.
+22
+Engineer When Operating Combination of Boom and Jib 300* or Longer
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+*BaseWage		. .$29.34	$30.82	$32.34
+*Vac. & Holiday (15%) ...	. . 4.40	4.62	4.85
+*Supp. Vac. Fund 		. .	.05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		.. 4.75	4.75	4.75
+Retiree Benefit Fund .. .	..	.20	.20	.20
+Apprenticeship Fund .. .	..	.60	.60	.60
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		.. 1.00	LOO	1.QQ
+Gross Wage		. .$44.98	$46.68	$48.43
+Industry Promotion Fund 		..	.19		.19		.19
+	$45.17	$46.87	$48.62
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+23
+Engineer When Operating Combination of Boom and Jib 300’ or Longer on a Crane that Requires an Oiler
+Hourly Rate
+Steel Agreement	!i/VQl	6/1/02	6/1/03
+♦Base Wage		. .$30.21	$31.69	$33.21
+♦Vac. & Holiday (15%) ...	. . 4.53	4.75	4.98
+♦Supp. Vac. Fund 		..	.05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		.. 4.75	4.75	4.75
+Retiree Benefit Fund . . .	. .	.20	20	.20
+Apprenticeship Fund . . .	..	.60	.60	.60
+Labor Management Education Committee .	..	.04	.04	.04
+DC Plan		. . 1.00	1.00	1.00
+Gross Wage		. .$45.98	$47.68	$49.43
+Industry Promotion Fund 		..	,19		.19		.19
+	$46.17	$47.87	$49.62
+♦Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003-
+24
+Engineer When Operating Combination of Boom and Jib 220* or Longer
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+* Base Wage		. .$28.03	$29.51	$31-03
+*Vac. & Holiday (15%) . ..	.. 4.21	4.43	4.66
+*Supp. Vac. Fund 		..	.05	.05	.05
+Insurance 		.. 4.60	4.60	4.60
+Pension 		.. 4.75	4.75	4.75
+Retiree Benefit Fund . . .	..	.20	.20	.20
+Apprenticeship Fund . . •	..	.60	.60	.60
+Labor Management Education Committee .	..	.04	.04	.04
+DC Plan		■ ■ 1.00	LOO	1.00
+Gross Wage		. .$43.48	$45.18	$46.93
+Industry Promotion Fund 		. .	.19		.19		.19
+	$43.67	$45.37	$47.12
+Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+25
+Engineer When Operating Combination of Boom and Jib 220’ or Longer on a Crane that Requires an Oiler
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+*Base Wage		. .$28.90	$30.38	$31.90
+* Vac. & Holiday (15%) ...	. . 4.34	4.56	4.79
+*Supp. Vac. Fund 		. .	.05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		. . 4.75	4.75	4.75
+Retire'?	Fund .. .	. . .20	.20	9 ri
+Apprenticeship Fund ....	. .	.60	.60	.60
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		. ■ 1.00	1.00	1.00
+Gross Wage 		. .$44.48	$46.18	$47.93
+Industry Promotion Fund 		. .	.19		.19		12
+	$44.67	$46.37	$48.12
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+26
+Engineer When Operating Combination of Boom and Jib 140’ or Longer
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+* Base Wage		. .$27.80	$29.28	$30.80
+*Vac. & Holiday (15%) .. .	.. 4.17	4.39	4.62
+*Supp. Vac. Fund 		.. .05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		. . 4.75	4.75	4.75
+Retiree Benefit Fund . . .	..	.20	.20	.20
+Apprenticeship Fund . . .	. .	.60	.60	.60
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		. .__w		1.00
+Gross Wage		. ,$43.21	$44.91	$46.66
+Industry Promotion Fund 		•.	12		.19		.19
+	$43.40	$45.10	$46.85
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+27
+Engineer When Operating Combination of Boom ana Jib 140’ or Longer on a Crane that Requires an Oiler
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+*BaseWage		. .$28.67	$30.16	$31.67
+*Vac. & Holiday (15%) ■ ■ .	. . 4.30	4.52	4.75
+*Supp. Vac. Fund 		. .	.05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension , -.				.. 4.75	4.75	4.75
+Retiree Benefit Fund .. .	.. .20	.20	.20
+Apprenticeship Fund . ..	..	.60	.60	.60
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		. . 1.00	1.00	1.00
+Gross Wage		. .$44.21	$45.91	$47.66
+Industry Promotion Fund 		. .	.19		,19		
+	$44.40	$46.10	$47.85
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+28
+Tower Crane & Derick Operator (Where Operators’ Work Station is 50 Ft. or More Above First-Level)
+Hourly Rate			
+Steel Agreement	6/1/01	6/1/02	6/1/03
+*Base Wage		. .$27.41	$28.89	$30.41
+*Vac. & Holiday (15%) . . .	.. 4.11	4.33	4.56
+* Supp. Vac. Fund 		. .	.05	.05	.05
+Insurance 		.. 4.60	4.60	4.60
+Pension 		.. 4.75	4.75	4.75
+Retiree Benefit Fund . ..	. .	.20	.20	.20
+Apprenticeship Fund .. .	. .	.60	.60	.60
+Labor Management			
+Education Committee .	. .	.04	.04	.04
+DC Plan		- ■ LOO	1-00.	1.00
+Gross Wage		. .$42.76	$44.46	$46.21
+Industry Promotion			
+Fund 		..	.19		.19		19
+	$42.95	$44.65	$46.40
+*Taxable Income			
+The allocation between wages and fringe benefit may be adjusted 30 days			
+before the expiration date for 2002 and 2003.			
+29
+Tower Crane & Derrick Operator (where Operator’s Work Station is 50 Ft. or More Above First SubLevel) On a Sub-Crane that Requires an Oiler
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+* Base Wage		. .$28.28	$29.76	$31.28
+*Vac. & Holiday (15%) .. .	. . 4.24	4.46	4.69
+*Supp. Vac. Fund 		. .	.05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		. . 4.75	4.75	4.75
+Retiree Benefit Fund . . .	. .	.20	.20	.20
+Apprenticeship Fund .. .	. .	.60	.60	.60
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		• - 1.00	1.00	1,00
+Gross Wage		. .$43.76	$45.46	$47.21
+Industry Promotion Fund 		. .	.19		.19		.19
+	$43.95	$45.65	$47.40
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date lor 2002 and 2003.
+30
+Engineer When Operating Combination of Boom and Jib 120’ or Longer
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+* Base Wage		. .$26.77	$28.25	$29.77
+‘‘‘Vac. St Holiday (15%) . . -	. . 4.02	4.24	4.47
+*Supp. Vac. Fund 		. . .05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		. . 4.75	4.75	4.75
+Retiree Benefit Fund . ..	. .	.20	.20	.20
+Apprenticeship Fund .. .	. .	.60	.60	.60
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		• ■ i.oo	1.00	1.00
+Gross Wage 			. .$42.03	$43.73	$45.48
+Industry Promotion Fund 		• •	J2	,19		.19
+	$42.22	$43.92	$45.67
+*Taxable Income
+The allocation between wagos and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+31
+Engineer When Operating Combination of Boom and Jib 120’ or Longer on a Cane That Requires an Oiler
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+* Base Wage		. .$27.64	$29.12	$30.64
+*Vac. & Holiday (15%) . . .	. . 4.15	4.37	4.60
+*Supp. Vac. Fund 		.. .05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		.. 4.75	4.75	4.75
+Retiree Benefit Fund . . .	. .	.20	’>n	20
+Apprenticeship Fund . . .	..	.60	.60	.60
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		.. 1.00	1.00	1.00
+Gross Wage		. .$43.03	$44.73	$46.48
+Industry Promotion Fund 		. .	.19		.19		.19
+	$43.22	$44.92	$46.67
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+32
+Crane Operator & Job Mechanic
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+*Base Wage		. .$26.46	$27.94	$29.46
+*Vac. & Holiday (15%) ...	. . 3.97	4.19	4.42
+* Supp. Vac. Fund 		..	.05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		.. 4.75	4.75	4.75
+Retiree Benefit Fund . . .	..	.20	.20	.20
+Apprenticeship Fund . . .	. . .60	.60	.60
+Labor Management Education Committee .	. . .04	.04	.04
+DC Plan		.. 1.00	1.00	l.oo
+Gross Wage		. .$41.67	$43.37	$45.12
+Industry Promotion Fund 		. .	.19		19		19
+	$41.86	$43.56	$45.31
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+33
+Crane Operator on a Crane That Requires an Oiler
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+*Base Wage .. . ■.		. .$27.33	$28.81	$30.33
+*Vac.& Holiday (15%) ...	.. 4.10	4.32	4.55
+*Supp. Vac. Fund 		. .	.05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		.. 4.75	4.75	4.75
+Retiree Benefit Fund . . .	. .	.20	.20	.20
+Apprenticeship Fund . . .	.. .60	.00	.60
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		• ■ i.oo	_JJ)Q	1.00
+Gross Wage 			. .$42.67	$44.37	$46.12
+Industry Promotion Fund 		..	.19		.19		J2
+	$42.86	$44.56	$46.31
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date lor 2002 and 2003.
+34
+Hoisting Operator
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+*Base Wage		. .$25.90	$27.38	$28.90
+*Vac. & Holiday (15%) . . .	.. 3.89	4.11	4.34
+* Supp, Vac. Fund 		..	.05	.05	.05
+Insurance 		.. 4.60	4.60	4.60
+Pension 		.. 4.75	4.75	4,75
+Retiree Benefit Fund . ..	.. .20	.20	.20
+Apprenticeship Fund .. .	. .	.60	.60	.60
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		. . 1.00	1D0	1.00
+Gross Wage 		. .$41.03	$42.73	$44,48
+Industry Promotion Fund 		. .	,19		,19		,19
+	$41.22	$42.92	$44.67
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+35
+Compressor or Welder Operator
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+*BaseWage		. .$19.98	$21.46	$22.98
+*Vac. & Holiday (15%) .. .	. . 3.00	3.22	3.45
+*Supp, Vac. Fund 		. . .05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		. . 4.75	4.75	4.75
+Retiree Benefit Fund .. .	. .	.20	.20	.20
+Apprenticeship F uml . . .		SO	crt
+Labor Management Education Committee .	. .	.04	.04	.04
+DC Plan		. - i.oo	1.00	1.00
+Gross Wage		. .$34.22	$35.92	$37.67
+Industry Promotion Fund 		. .	.19		.19		.19
+	$34.41	$36.11	$37.86
+^Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+36
+Oiler
+Hourly Rate
+Steel Agreement	6/1/01	6/1/02	6/1/03
+*Base Wage		. .$18.76	$20.23	$21.76
+*Vac. & Holiday (15%) . . .	.. 2.81	3.04	3.26
+*Supp. Vac. Fund 		. .	.05	.05	.05
+Insurance 		. . 4.60	4.60	4.60
+Pension 		.. 4.75	4.75	4.75
+Retiree Benefit Fund . ..	..	.20	.20	.20
+Apprenticeship Fund .. .	. .	.60	.60	.60
+Labor Management Education Committee .	..	.04	.04	.04
+DC Plan		• ._._LOQ	1.00	1.00
+Gross Wage 		. .$32.81	$34.51	$36.26
+Industry Promotion Fund 		• -	IS		19		JS
+	$33.00	$34.70	$36.45
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+37
+Effective June 1,2002 the parties have agreed to a one dollar and seventy cents ($1.70) per hour increase for all classifications, for all hours worked to the total economic package. Operating Engineers Local 324 shall allocate the distribution of the increase prior to June 1,2002.
+Effective June 1,2003, the parties have agreed to a one dollar and seventy-five cents ($1.75) per hour increase for all classifications, for all hours worked to the total economic package. Operating Engineers Local 324 shall allocate the distribution of the increase prior to June 1, 2003.
+CRANE MAINTENANCE AND SAFETY INSPECTION TIME.
+Ten (10) ton and under the equivalent of one-half (A) hour straight time paid for maintenance and safety inspection time. Over ten (10) ton all engineers operating Cranes (including Tower Cranes and similar types) and Derricks, the equivalent of one (1) hour straight time paid. Maintenance and safety inspection time must be actually worked and shall be in addition to the regular day’s wages.
+Section 5.	Overtime.
+All overtime with the exception to steaming and greasing time, shall be paid as follows: (See Article VIII, Section 2(c) and 3(a).
+(a)	Ninth (9th) and tenth (10th) hours, Monday through Friday shall be paid at time and one half (1-1/2).
+(b)	Time and one half (1-1/2) shall be paid for the first ten (10) hours worked on Saturday.
+(c)	Double (2) time shall be paid for over ten (10) hours worked Monday through Friday and/or over ten (10) hours on Saturday.
+(d)	All work performed on Sundays and Holidays shall be paid at double (2) time. The following named Holidays
+38
+shall be recognized: New Year’s Day, Memorial Day, Fourth of July, Labor Day, Thanksgiving Day, Christmas Day.
+Section 6.	Craft Foreman.
+(a)	When there are five (5) Engineers, or more, employed by one (1) Employer on one (1) job, per shift, /there shall be a Craft Foreman employed on the job. His ' wages shall be two dollars ($2.00) more than the highest paid Operator on the job. When seven (7) or more Engineers are employed, there shall be a supervisor in charge of the maintenance and operation of the hoisting and portable machinery. His wages shall be two dollars ($2.00) per hour more than the highest paid Operator on the job.
+The Craft Foreman shall be the Supervisor in charge of the Engineers; maintenance and repairs of all Hoisting and Portable machinery on the job site. He shall dispatch equipment and Engineers, order parts, fuel and equipment, and keep time of Engineers. The Craft Foreman shall supervise all other operations pertinent to the trade and may delegate some of his duties to an Assistant Craft Foreman, where applicable. The Craft Foreman’s duties are not exclusive nor limited to the above trade practice.
+If two (2) or more Journeyman Engineers are required to work any overtime, the services of the Craft Foreman will also be required.
+(b)	Assistant Craft Foreman. On all jobs where there are twenty (20) or more Operators per shift employed by one (1) Employer, there shall also be employed an Assistant Craft Foreman, in addition to the Craft Foreman, and he shall be paid the Assistant Craft Foreman’s wage rate (fifty cents ($.50) per hour above the highest paid employee under Craft Foreman’s supervision). There shall be an additional Assistant Craft Foreman for every twenty (20) Oporators. Forty (40) hour guarantee shall also apply.
+(c)	Job Mechanic. When a Job Mechanic is employed under this Agreement he shall be paid at the regular Crane Operator’s rate.
+39
+Section 7.	Long Boom Operator.
+(a)	Crane Operator with Main Boom and Jib 400’ or Longer.
+All Engineers operating cranes with main boom and jib 400 feet or longer shall be paid according to wage schedule.
+(b)	Crane Operator with Main Boom and Jib 300’ or Longer.
+All Engineers operating cranes with main boom and jib 300 feet or longer shall be paid according to wage schedule.
+(c)	Crane Operator with Main Boom and Jib 220’ or Longer.
+All Engineers operating cranes with main boom and jib 220 feet or longer shall be paid according to wage schedule.
+(d)	Crane Operator with Main Boom and Jib 140’ or Longer.
+All Engineers operating cranes with main boom and jib of 140 feet or longer shall be paid according to wage schedule.	■
+(e)	Employees operating Universal Liebhers, Tower Cranes and similar types, Derricks, Cranes, and Overhead Cranes. Where the Operator's work station is fifty feet (50’) or more above the first sub-level of the structure he shall be paid forty-eight cents ($.48) per hour over and above the regular Crane Operator’s rate. Employees operating these types of cranes shall be paid at the Crane Operator’s rate, determined by the combined length of boom and mast.
+(f)	Crane Operator with Main Boom and Jib 120’ or Longer.
+All Engineers operating cranes with main boom and jib 120 feet or longer shall be paid according to wage schedule.
+40
+Section 8.	Equipment Assignments.
+The Engineers, or crew, regularly assigned during the regular workweek to a piece of equipment shall be given preference when this piece of equipment is required to work on Saturdays, Sundays, Holidays, or other overtime.
+Section 9.	Owner-Operators.
+Owner-Operators shall be considered employees of the Contractor and shall be paid the wages and receive the fringe benefits provided for in this Agreement. Payment for equipment rental shall be made by a separate check.
+Section 10.	Return to Yard or Car Pay.
+(a)	When an Engineer takes any size crane to a job site, and the crane is to left on the job site that night, then the Employer shall provide transportation for the Engineer immediately at the finish of his shift back to the Employer’s yard or to his car.
+(b)	This transportation can be by Employer’s car, pickup truck or the Employer is to pay cab fare if cab service is available; and the Engineer shall be paid for all time, same as if he is working until he gets back to the Employer’s yard or back to his car. Regular transportation and travel rates in Article VIII, Section 13, of this Agreement shall not apply when this Section applies.
+Section 11.	Penalty to Operate Crane or Derrick Without Oiler.
+If an Engineer is instructed by his Employer to operate a crane or derrick when an Oiler is also required by the terms of this Agreement, and the Employer failed to assign or employ an Oiler to work with the crane or derrick, then the Union Representative can shut the crane or derrick down until the matter is corrected and the Engineer operating the crane or derrick shall be dealt with accordingly by the Union as provided for in their Constitution and By-Laws.
+41
+Section 12.	Reporting Time. Waiting Time.
+(a)	When an employee reports on the job but is not needed that day, he shall be paid four (4) hours for showing-up time, during which time he shall do any work required in his jurisdiction. An employee required to report more than one (1) time to work in one (1) day shall receive one (1) days’s pay or if employee is not told before lunch break of being sent home he shall be paid eight (8) hours. This shall apply to all employees not covered by forty (40) hour guarantee.
+(b)	When an employee is required to report back to work the second time in the same day, after the end of a regular shift., employee to receive at least two (2) hours al the prevailing rate of pay, plus additional rate of travel pay, regardless of job location.
+(c)	When an employee reports to work on a premium time day, he shall receive two (2) hours show up at the prevailing rate. If employee works over two (2) hours, employee shall be paid for all hours worked.
+Section 13.	Transportation and Traveling Time.
+The Association and the Union have agreed to establish four (4) shipping points via: Detroit, Flint, Lansing and Saginaw.
+An employee who is employed on any job within the radius of the City Hall of the four (4) established shipping points and who reports for work, shall receive a travel allowance as outlined below, shall furnish his own transportation to and from any and all jobs and shall report for work at the regularly scheduled starting time.
+From City Hall but within the 30 mile radius...........$3.00	per day
+Beyond the 30 mile radius but
+within the 40 mile radius.........$5.00	per day
+Beyond the 40 mile radius but within the 50 mile radius...........$6.00	per day
+Beyond the 50 mile radius but within the 60 mile radius...........$7.00	per day
+42
+Beyond the 60 mile radius
+and thereafter.......................$8.00 per day
+Pontiac Motor (Proper), Fisher Body Pontiac (Proper) and Willow Run General Motors Plants (Proper) are established as being in the 30 mile zone and will be paid at the rate of $3.00.
+An employee who has been sent by the Employer, or referred by the Union at the request of the Employer, to a different job out of one shipping area into another area of Local Union No. 324, shall receive an allowance to cover his transportation and other expenses at the rate of the travel schedule of employees original shipping point.
+Employees covered by this Agreement, transferred from job to job during the regular working hours, shall receive an allowance equivalent to their regular rate of pay while traveling.
+Travel pay shall be included in the pay envelope for every scheduled workday the employee reports to work.
+Section 14.	Payday • Discharge or Layoff.
+(a)	The regular payday shall be once a week on such day as agreed upon between the Employer and the Local Union. Wages shall be paid during regular working hours, excluding lunch period. Wages are to be paid in cash or payroll checks.
+(b)	On the regular established payday as agreed to by the Union and the Employer, checks must be available at the job site within four (4) hours of the start of the shift and ready for distribution in the event weather or other circumstances prevent the job from being worked. Checks not claimed within four (4) hours after the start of the shift will be made available to the employee on the next regular scheduled working day. Any employee who had reported to the job site for his paycheck prior to an elapsed time of four (4) hours from the start of the shift and the check is not available, would receive waiting time at the regular established rate of wages not to exceed the end of the normal working day. The above does not apply in the event of civil disturbance.
+43
+(c)	If the regularly established payday should happen to fall on a Holiday, which is on a Friday, then payday shall be the day prior to the Holiday. However, the Employer has to the end of the shift to pay without penalty.
+(d)	When employees are laid off or discharged, they shall be paid in full in cash or payroll check on the job immediately and if required to go to some other point or to the office of the Employer, the employee shall be paid time and one half (1-1/2) the straight time rate of wages of the time required to go to such places, unless ample time is given the employee to go to such place designated by the Employer to pick up the check prior to the end of the shift.
+(el When emninyees quit of their own accord, they shall wait until the regular payday for the wages due them.
+(ft When an employee is laid off, contractors in good standing may pay the laid-off employee by mailing the final check without penalty by the next business day. If late a 4 hour/day penalty shall apply.
+(g)	Accompanying each payment of wages shall be a separate statement or pay stub containing the following information;
+(1)	Regular Hours Worked and Hourly Rate of Pay,
+(2)	Overtime Hours Worked.
+(3)	Withholding Tax, Federal, State and City Tax, Vacation and Holiday Pay, and Travel Pay.
+(4)	All deductions will be Titled and Listed where applicable.
+(h)	In the event that the bank upon which the Employer draws his payroll check refuses to honor it, the Employer shall within twenty-four (24) hours thereafter issue to the employee in question, payment in cash, money order, or certified check in the gross amount of said dishonored payroll check, plus twenty percent (20%) of the gross amount. In the event a payroll check is not honored at the bank due to insufficient funds, the Company will thereafter pay in cash or certified check, if requested to do so by the Union. Under this paragraph, certified
+44
+checks or cash must be accompanied, by a statement showing all deductions made and amounts to be paid to each of the Fringe Benefit Funds.
+Section 15.	Change of Machines.
+An employee shall be permitted to make not more than two (2} changes per working shift from one (1) machine or one (1) boiler to another machine or boiler provided that he is paid the higher rate of pay for the full shift if he operated equipment that has a different hourly wage rate.
+Section 16.	Union Business Representative.
+The Union Business Representative shall be allowed to visit any job at any time on business for the Union, with the least interference to the job as possible.
+Section 17.	Steward.
+(a)	The Employer recognizes the right of the Union to select a working Steward from among the members of the Union employed on the job, in accordance with Union procedure. The Steward’s activities shall be confined to the area in which work is performed by his Employer.
+(b)	It is further agreed that the Steward shall be permitted sufficient time to perform his usual Steward duties with the least interference to the job.
+(c)	It is further agreed that such Steward shall not receive any extra compensation above his regular wages from his Employer and the Steward shall be required to do a full day’s work.
+(d)	It is further agreed that the Steward shall be the last employee to be laid off the job when the job is finishing up, provided he is capable of performing the required work.
+(e)	It is further agreed that the Employer or his Representative will not lay off, discharge or transfer the Steward off the job until he has discussed the matter with the Business Representative who shall meet for such dis
+45
+cussion on die job site within twenty-four (24) hours after notification to the Union Office, Saturday, Sunday or Holidays, excluded.
+(fj The Steward shall have no authority to take strike action or any other action interrupting the Employer’s business.
+(g) The Steward shall notify the Foreman of any unsafe equipment or working conditions.
+Section 18.	Duties Of Employees.
+For information to the parties to this Agreement, the following duties of various employees are listed:
+(a)	Any employee temporarily absent from his machine must not allow any other than an employee, as stated in Article II of this Agreement, to run operate, or in any way meddle with his machine or boiler.
+(b)	An employee shall not operate any boiler or other appliance requiring inspection under the laws of the State of Michigan, cities or municipalities therein, until the same has been inspected. All boilers found to be faulty, or without inspection, shall be immediately reported to the boiler inspector’s office.
+(c)	No employee shall be allowed to quit or leave the job until he has notified the Employer, and until a qualified employee is available to take his place. This is intended to protect the Employer against being left without an Operator and shall not be construed in any way as restricting the customary right of an Employer to discharge his employees nor the right of the employee to quit a job if he so chooses.
+(d)	It is distinctly understood that no employee shall work for any Employer, whether individual, partnership or corporation, who fails to cover his employees with Workers’ Compensation Insurance.
+(e)	Engineers employed on a job to run an engine shall not be assigned other work not customarily performed by an Engineer.
+46
+Section 19.	Shelter.
+Employers shall be required to furnish suitable shelter to protect employees from falling material and elements of the weather, and also to provide heat when necessary.
+ARTICLE IX
+SAFETY
+(a)	Both parties will abide by the State of Michigan Construction Safety Rules and Regulations and/or U.S. Department of Labor, Occupational Safety and Health Administration.
+(b)	In the event of a serious accident causing loss of life or limb, to a member of the bargaining unit, appropriate reports shall be completed and a copy directed to the Safety Director of the Local Union.
+(e)	The Employer agrees to maintain all equipment in a safe working condition. The Employer agrees to make all reasonable provisions for the health and safety of its employees at all times during the hours of employment, and all employees shall use safety equipment provided by the Employer.
+(d)	No employee shall be obliged by the terms of this Agreement to use any equipment, or vehicle not in safe operating condition and not equipped with all safety appliances required by law.
+(e)	DRUG AND ALCOHOL TESTING PROGRAM
+The Union and Association agree to adopt Management and Unions Serving Together (M.U.S.T.) Drug and Alcohol Testing Program.
+The Company may adopt the M.U.S.T. Drug Program on a project by project or company-wide basis.
+47
+ARTICLE X
+INSURANCE
+In addition to all other compensation required by the terms of this Agreement, effective June 1, 2001, the Employer agrees to make contributions for insurance at the rate of four dollars and sixty cents ($4.60) per hour on all hours paid for each employee covered by this Agreement. These payments are to be paid to the Operating Engineers’ Local 324 Health Care Plan.
+Effective June 1,2002, the insurance contributions shall be computed at the rate of (to be allocated 6/1/2002) per hour on all hours paid for each employee covered by this
+Effective June 1,2003, the insurance contributions shall be computed at the rate of (to be allocated 6/1/2003) per hour on all hours paid for each employee covered by this Agreement.
+All insurance contributions shall be computed on actual hours paid without regard to whether the employee was working on straight time or overtime. These contributions shall be deposited each month, or at such other regular intervals as may be determined by the Trustees of the Operating Engineers’ Local 324 Health Care Plan, to such depository as may be designated by said Trustees.
+The Employer agrees to be bound by all the terms and provisions of the Agreement and Declaration of Trust dated the Twenty-eighth day of September, 1970, establishing the Operating Engineers’ Local 324 Health Care Plan and all Amendments and to comply with all rules, regulations, reporting forms and other requirements lawfully established by the Trustees of the Operating Engineers’ Local 324 Health Care Plan. The Trust Agreement establishing said Plan, together with related Agreements, shall become a part of this Agreement by reference.
+The Great Lakes Fabricators and Erectors Association shall be entitled to designate a Trustee to the Operating Engineers' Local 324 Health Care Plan Fund.
+48
+The Insurance provision of this Agreement shall remain in full force and effect for the life of this Agreement and for any successive periods agreed upon between the parties, notwithstanding the termination of the remaining provisions of his Agreement and notwithstanding any strike, lockout or other form of concerted action taken by either party in support of demands for modification of other provisions of this Agreement.
+ARTICLE XI PENSION
+In addition to all other compensation required by the terms of this Agreement, effective June 1, 2001, and thereafter, the Employer agrees to make contributions far pension at the rate of four dollars and seventy five cents ($4.75) per hour on all hours paid for each employee covered by this Agreement. These payments are to be paid to the Operating Engineers’ Local 324 Pension Fund.
+Effective June 1,2002, the pension contributions shall be computed at the rate of (to be allocated 6/1/2002) per hour on all hours paid for each employee covered by this Agreement.
+Effective June 1,2003, the pension contributions shall be computed at the rate of (to be allocated 6/1/2003) per hour on all hours paid for each employee covered by this Agreement.
+All pension contributions shall be computed on actual hours paid without regard to whether the employee was working on straight time or overtime. These contributions shall be deposited each month, or at such other regular intervals as may be determined by the Trustees of the Operating Engineers’ Local 324 Pension Fund, to such depository as may be designated by said Trustees.
+The Employer agrees to be bound by all the terms and provisions of the Agreement and Declaration of Trust dated the First day of May, 1968, establishing the Operating Engineers Local 324 Pension Fund and all Amendments and to comply with all rules, regulations, reporting forms and other requirements lawfully established by
+49
+the Trustees of the Operating Engineers’ Local 324 Pension Fund. The Trust Agreement establishing said Fund, together with any related Agreements, shall become a part of this Agreement by reference.
+The Great Lakes Fabricators and Erectors Association shall be entitled to designate a Trustee to the Operating Engineers’ Local 324 Pension Fund.
+The Pension provision of this Agreement shall remain in full force and effect for the life of this Agreement and for any successive periods agreed upon between the parties, notwithstanding the termination of the remaining provisions of this Agreement, and concerted action taken by either party in support of demands for modification of other provisions of this Agreement.
+ARTICLE XII
+DEFINED CONTRIBUTION PLAN
+In addition to all other compensation required by the terms of this Agreement, effective June 1, 2001, and thereafter, the Employer agrees to make contributions for Defined Contribution Plan (DC Plan) at the rate of one dollar ($1.00) per hour on all hours paid for each employee covered by this Agreement. These payments are to be paid to the Operating Engineers’ Local 324 Defined Contribution Plan Fund.
+Effective June 1, 2002, the defined contribution plan contributions shall be computed at the rate of (to be allocated 6/1/2002) per hour on all hours paid for each employee covered by this Agreement.
+Effective June 1, 2003, the defined contribution plan contributions shall be computed at the rate of (to be allocated 6/1/2003) per hour on all hours paid for each employee covered by this Agreement.
+All defined contribution plan contributions shall be computed on actual hours paid without regard to whether the employee was working on straight time or overtime. These contributions shall be deposited each month, or at such other regular intervals as may be determined by the
+50
+1
+Trustees of the Operating Engineers’ Local 324 Defined Contribution Plan Fund, to such depository as may be designated by said Trustees.
+The Employer agrees to be bound by all the terms and provisions of the Agreement and Declaration of Trust dated the First day of May, 1997, establishing the Operating Engineers Local 324 Defined Contribution Plan Fund and all Amendments and to comply with all rules, regulations, reporting forms and other requirements lawfully established by the Trustees of the Operating Engineers’ Local 324 Defined Contribution Plan Fund. The Trust Agreement establishing said Fund, together with any related Agreements, shall become a part of this Agreement by reference.
+The Great Lakes Fabricators and Erectors Association shall be entitled to designate a Trustee to the Operating Engineers’ Local 324 D'efined Contribution Plan Fund.
+The Pension provision of this Agreement shall remain in full force and effect for the life of this Agreement and for any successive periods agreed upon between the parties, notwithstanding the termination of the remaining provisions of this Agreement, and concerted action taken by either party in support of demands for modification of other provisions of this Agreement.
+ARTICLE XIII
+RETIREE BENEFIT FUND
+(a)	Each Employer agrees to pay into the Operating Engineers's Local 324 Retiree Benefit Fund the sum of twenty cents ($.20) per hour for each hour paid each employee doing work covered by this Agreement.
+All contributions to said Fund shall be computed on actual hours paid, without regard to whether the employee was paid on straight-time or overtime. These contributions shall be deposited each month or at such other regular intervals as may be determined by the Trustees of said Retiree Benefit Fund, to such depository as may be designated by the Trustees.
+51
+(b)	The Great Lakes Fabricators and Erectors Association shall be entitled to designate a Trustee on the Retiree Benefit Fund.
+(c)	Payment of benefits from the Retiree Benefit Fund shall be contingent upon and subject to obtaining and retaining such approval of the Internal Revenue Service as may be necessary to establish the deductibility for Federal income tax purposes of any and all contributions made by the Employers under applicable provisions of the Internal Revenue Code of 1954, as amended.
+ARTICLE XIV
+APPRENTICESHIP TRAINING AND JOURNEYMAN RETRAINiNv FUND CONTRIBUTIONS
+The Employer agrees to pay into the Operating Engineers Local 324 Joint Apprenticeship Training Program Fund the sum of sixty cents ($.60) per hour and thereafter for each hour paid, for all employees covered by this Agreement (except Apprentices) in accordance with the rules of the Operating Engineers Local 324 Joint Apprenticeship Committee. These contributions will be made on the forms provided for and sent to such depository as shall be named by the Joint Apprenticeship Committee Trustees.
+The Great Lakes Fabricators and Erectors Association shall be entitled to designate a Trustee to the Operating Engineers Local 324 Joint Apprenticeship Training and Journeyman Retraining Fund.
+ARTICLE XV INDUSTRY PROMOTION AND IMPROVEMENT FUND
+(a) The parties to this Agreement agree that the steel and metal erection industry can do much to promote and better itself. During the past several years, many inferior products have been made by Employers in the industry that reflect on the product and service of all companies. The solution to the problems of higher quality products and services is still being sought. To further the legitimate
+52
+object of promoting and improving the steel and metal erection industry, together with related products, the Employers have agreed to contribute nineteen cents ($.19) per hour paid for each employee covered under the terms of this Agreement, payable monthly into an Industry Promotion and Improvement Fund, called “Industry Promotion Fund,” or, in the alternative, to pay nineteen cents ($.19) per hour to the Operating Engineers’ Local 324 Health Care Plan for actual hours paid each employee working under this Agreement, said nineteen cents ($.19) per hour to be in addition to the Insurance Fund Contribution provided for in Article X. The Industry Promotion Fund shall be administered by three (3) Employer Trustees, who shall represent all Employers from whom contributions are required, under a written Declaration of Trust, which is herewith by reference made a part of this Agreement. The Industry Promotion Fund shall be used for the following general purposes:
+(1)	To promote and improve the steel and metal erection industry through system of public and customer education and information.
+(2)	By advertising and dissemination of information, point out to the general public the merits of high quality products, services, etc.
+(3)	To do research with a view to improve the quality and services of products of the industry.
+(4)	To strive for better understanding between Employers and employees, between Employers and their customers, and between Employers and the general public.
+(b) The Administrator is authorized to make a reporting form including an added space for Industry Promotion Fund contributions. Monies collected by the Administrator for the Industry Promotion Fund shall be deposited in accordance with the direction of the Trustees of the Industry Promotion Fund.
+53
+ARTICLE XVI
+LABOR-MANAGEMENT EDUCATION COMMITTEE
+(a)	Effective June 1,1989, the Union and the Association established Operating Engineers Local 324 LaborManagement pursuant to the Labor Management Act of 1978.
+(b)	Effective with the first full pay period commencing on or after June 1, 2001, in addition to all other compensation required by the terms of this Agreement, each Employer agrees to pay to Local 324 Labor-Management Education Committee, for each employee covered by this Agreement, the sum of four ($.04) cento per hour for all hours paid each employee.
+(c)	All Local 324 Labor-Management Education Committee contributions shall be computed on actual hours paid without regard to whether the employee was working on straight time or overtime. These contributions shall be deposited each month, or at such other regular intervals as may be determined by the Trustees of Local 324 Labor-Management Education Committee, to such depository as may be designated by said Trustees.
+(d)	The Agreement and Declaration of Trust establishing the Local 324 Labor Management Education Committee, effective June 1,1989, is made a part of this Agreement by reference, and each Employer agrees to be bound by and to comply with said Trust Agreement, any Amendments thereto, and all related agreements, rules, regulations, reporting forms and other requirements lawfully established by the Trustees of Local 324 LaborManagement Education Committee.
+(e)	The Association and the Union shall each appoint a representative to Operating Engineers Local 324 LaborManagement Education Committee. These two representatives may be joined by other representatives of the Union and other Employer Associations pursuant to other collective bargaining agreements to comprise the Local 324 Labor-Management Education Committee.
+54
+ARTICLE XVII
+FRINGE BENEFIT OBLIGATIONS
+The Trustees of the Operating Engineers’ Local 324 Health Care Plan as stated in Article X, the Trustees of the Operating Engineers’ Local 324 Pension Fund as stated in Article XI, the Trustees of the Operating Engineers’ Defined Contribution Plan as stated in Article XII, the Trustees of the Operating Engineers’ Local 324 Retiree Benefit Fund as stated in Article XIII, the Trustees of the Operating Engineers Local 324 Joint Apprenticeship Training Fund as stated in Article XIV, the Trustees of the Vacation Fund, as stated in Article VIII, Section 2(c), the Trustees of the Operating Engineers Labor Management Education Committee, as stated in Article XVI, and the Trustees of the Industry Promotion Fund as stated in Article XV, of this Agreement, shall have the power and authority to require that each Employer shall promptly furnish to these Trustees on request any and all records concerning the classification of his employees, their names, social security numbers, amounts of wages paid and hours worked and any other payroll records and information that these Trustees may require in connection with the administration of these Funds and for no other purpose. Each Employer shall also submit in writing to the Trustees, at such regular periodic intervals and on such forms, as the Trustees may establish, such of the above data as may be requested by the Trustees. The Trustees or their authorized representatives may examine the payroll books and records of each Employer whenever such examination is deemed necessary or advisable by the Trustees in connection with the proper administration of these Funds.
+In addition to the hourly wages shown in these schedules there are the funded fringe benefit contributions for Vacation and Holiday, Insurance, Pension, Defined Contribution Fund, Retiree Benefit, Apprenticeship Training Program Fund, Labor Management Education Committee, and Industry Promotion Fund, that are payable by the 15th day of the succeeding month in the amount and
+55
+manner provided herein. If these fringe benefit payments are not made as stated herein, it shall constitute a status of delinquency and a violation of this Agreement
+The Employer agrees to furnish to the Trustees of the various Fringe Benefit Funds provided for in this Agreement, upon request, such information and reports as the Trustees may require in the performance of their duties The Employer further agrees that the Trustees, or any Agent authorized by the Trustees, shall have the right to enter upon the premises of the Employer to perform an audit and to have access to such of the Employer’s records as may be necessary to permit the Trustees to determine whether the Employer is complying fully with the provisions of this Agreement regarding Employer contributions.
+The Employer agrees to pay the cost of collection charges assessed against him for failure to pay contributions when due.
+The liquidated damages are as follows:
+(1)	If the contributions are paid after date due but before delinquency of forty- five (45) days - five percent (5%) of the amount of contributions due.
+(2)	If the contributions are paid after forty-five (45) days of delinquency - ten percent (10%) of the amount of contributions due.
+The Employer agrees to pay the liquidated damages accessed against him in accordance with the foregoing schedule, or such other liquidated damage program as the Trustees of the Fringe Benefit Funds uniformly adopt and access.
+The Employer agrees to pay the liquidated damages assessed against him in accordance with the foregoing schedule.
+If there are fringe benefit contributions or liquidated damages due and unpaid after a Fringe Benefit Fund has attempted to collect the unpaid contributions or liquidated damages, on demand by the Fringe Benefit Fund, the Employer agrees to submit to arbitration the issue of
+56
+whether the fringe benefit contributions or liquidated damages are due and unpaid and what the amounts of the fringe benefit contributions or liquidated damages are. The Fringe Benefit Fund shall have this right to demand arbitration in addition to all its statutory and judicially established rights to bring suit against the Employer for the unpaid contributions or liquidated damages. The arbitrator shall have the power to award the Fringe Benefit Fund a sum of money which includes all amounts of unpaid contributions and liquidated damages owing on the date of the Arbitration Hearing, incurred under prior collective bargaining agreements, as well as the current collective bargaining agreements. The arbitration shall be held under the Arbitration Rules of the National Center for Dispute Settlement. The expenses of the arbitration, including the expenses of the arbitrator, shall be shared equally by the Fringe Benefit Fund which demands the arbitration and the Employer. The Award of the arbitrator shall be final and binding on both parties to the arbitration.
+Where fringe benefit contributions or liquidated damages are collected on behalf of the Fringe Benefit Funds in a lesser amount than is totally owed, the Joint Administrative and Delinquency Committee (JA&DC) is authorized to allocate the fringe benefit contributions or liquidated damages among the Funds, as deemed appropriate, in the sole discretion of the JA&DC, including allocating damages to pay for costs of collection.
+ARTICLE XVIII
+GUARANTEE OF AGREEMENT LIABILITY
+Operating Engineers’ Local No. 324 Security Deposit Fund
+(a)	Every Employer agrees that it is prudent for the Union to require a reasonable security deposit to guarantee that the wages, fringe benefit contributions and other benefits made payable to and on behalf of employees by this Agreement will be paid. The parties agree that the sum of Five Thousand Dollars ($5,000.00) is a reasonable security deposit, except as it is hereinafter provided that a larger sum is reasonable.
+57
+(b)	Every Employer employing Operating Engineers working under the terms and provisions of this Agreement shall deposit Five Thousand Dollars ($5,000.00) as a security deposit with the Trustees of the Operating Engineers’ Local 324 Pension Fund to be held in a special account designated as Operating Engineers Security Deposit Account, hereinafter referred to as Security Deposit Account.
+(c)	The Security Deposit Account shall be administered by the Trustees of the Operating Engineers’ Local 324 Pension Fund under the terms of this Agreement, and such other provisions as may be applicable.
+(d)	The cash security deposit shall earn interest, at the i-eguiar bank rates per annum unless the security deposit is redeemed prior to one (1) calendar year from the date when such security deposit was posted.
+(e)	Every Employer party to this Agreement agrees that on request of the Trustees of the Operating Engineers’ Local 324 Pension Fund he will show any of his books or records to authorized representatives of said Trustees so that it can be determined whether or not the Employer is complying with the terms and provisions of this Agreement.
+(f> The Union agrees to recognize the Great Lakes Fabricators and Erectors Association as surety for each of its members for any of the purposes for which the security deposit provided for herein is to be paid. In no event shall the liability of the Association for any one of its members exceed the sum of Five Thousand Dollars ($5,000.00) except in cases of delinquency of thirty-one days or longer in which case the liability shall be Seven Thousand Dollars ($7,000.00).
+(g)	As of the date of the beginning of this Agreement, the Association shall advise the Union and the Trustees of the Operating Engineers’ Local 324 Pension Fund, in writing, of the names and addresses of all Employers who are members of the Association who are covered by the Surety Agreement of the Association. If notice in writing is given to the Union and the Trustees of the Operating
+58
+Engineers’ Local 324 Pension Fund that an Employer is no longer covered by the Surety Agreement of the Association, such Employer shall then be treated as a non-asso-ciated Employer. If the coverage of any Employer is terminated by such a notice in writing, the Surety Agreement of the Association shall nevertheless be liable for any claims against such Employer for delinquent payments occurring during the period of three (3) calendar months immediately preceding and for a period of two (2) weeks following the mailing of such notice.
+(h)	Each Employer member of the Great Lakes Fabricators and Erectors Association, by becoming a party to this Agreement authorizes and empowers the Association to act in his or its behalf and, until notice in writing to the contrary to the Union and to the Association is received it shall be prima facie evidence that the Association is acting as surety hereunder for said Employer.
+(i)	A non-associated Employer who becomes thirty-one (31) days or more delinquent in any of his obligations under this Collective Bargaining Agreement shall be required to increase his cash security deposit to the Security Deposit Account to the total amount of his delinquency or, in the alternative, shall furnish a corporate surety bond in the total amount of his delinquency, which bond shall be deposited with the Trustees of Operating Engineers’ Local 324 Security Deposit Account. It is the intention of the parties to this Agreement that the security deposit for each Employer shall never be less than Five Thousand Dollars ($5,000.00) and that if any amount of money is drawn out by such security deposit then the Employer shall promptly relinquish the deposit so that at no time will it be less than Five Thousand Dollars ($5,000.00).
+(j)	Whenever a Claim of Delinquency is presented to the Chairman and Secretary of the Operating Engineers’ Local 324 Pension Fund, these two officers shall promptly withdraw an amount of money equal to the Claim of Delinquency from the Security Deposit Account of the delinquent Employer and pay such money directly to the Fringe Benefit Funds to which the money is owed.
+59
+A Claim of Delinquency must be certified by the Administrator of one of the Fringe Benefit Funds and must be based on an audit, an admission of liability, or a refusal by the Employer to allow an audit.
+For delinquency in wages an authorized Representative of the Union may present a Claim of Delinquency. The obligations of the Employer to the various Fringe Benefit Funds shall be deemed to include any costs of collection charges assessed by the Funds for late payments.
+(k)	Notwithstanding anything herein contained to the contrary, it is agreed that in the event any Employer shall | be delinquent at the end of any period in the payment of any of his obligations under this Agreement, including Security Deposit, after the authorized official of the Union shall have given seventy-two (72) hours notice to the Employer of such delinquency, the Trustees of the Fringe Benefit Funds or the Union, depending upon the type of delinquent obligation of the Employer, shall have the right to take such action as they determine necessary until such delinquent payments are made; and it is further agreed that in the event such action is taken, the Employer shall be responsible to all affected employees for any further losses resulting therefrom.
+(1)	The Trustees of the respective Fringe Benefit Funds shall have the further right to take such legal action against any delinquent Employer as in their discretion may be advisable or necessary to make collection for any of the Fringe Benefit Funds entitled to monies from an Employer under this Agreement. At the direction of the Trustees of the Fringe Benefit Funds or the Administrator of same, any Employer covered by this Agreement may be ordered to produce a certified copy of his payroll records in order to show compliance with the terms and provisions of this Agreement.
+60
+ARTICLE XIX
+CONVEYOR AGREEMENT
+Engineers when working with Ironworkers and Millwrights under Conveyor Agreement on Second and Third shifts and Odd shifts that commence between 3:00 p.m. and 5:00 a.m. under the Steel Agreement.
+(a) ODD SHIFTS.
+(1)	The following conditions shall apply only to work that interferes with normal production during regular working hours of plants productivity.
+(2)	The Union agrees that a single odd shift shall work at the rates specified if a first odd shift commences at or after 3:00 p.m. and before 5:00 a.m. Any additional odd shift shall work at the rates specified for in the single odd shift.
+(3)	Any shift worked under this provision shall be for a minimum of eight (8) hours pay.
+(4)	Any additional men required to work on any shift will receive the same rate of pay as the men already at work on that shift providing they have not worked on any other job or for any other Employer on that date.
+(b Engineers when working with Ironworkers and Millwrights under Conveyor Agreement.
+(1)	The Employer may employ other than one (1) shift of Engineers when working on conveyors. Night shift work will be any hours starting at or after 4:30 p.m. to 8:00 a.m. When there are two (2) shifts working, each shift will work eight (8) hours. When there is a single night shift starting after 4:30 p.m. without a day shift working, the shift shall work eight (8) hours at the rate established for the second and third shifts. When
+CONVEYOR RATES
+61
+three (3) shifts are working, the first shift shall work eight (8) hours and the second and third shift shall work seven (7) hours each. Any shift work starting after 4:30 p.m. will receive the rate of wages in accordance with the schedule following.
+(2)	Shift work between the hours of 8:00 a.m. Monday and 8:00 a.m. Saturday shall be paid as follows for the second and third shifts.
+(3)	It is expressly agreed if Employer uses equipment owned or leased by the plant or company ttmpioyer is performing work for, a member of the Engineers shall operate such equipment.
+Craft Foreman
+$2.00 per hour above the highest paid employee under his supervision.
+Assistant Craft Foreman
+$.50 per hour above highest paid employee under Craft Foreman’s Supervision.
+s conveyor rates ■	~	~
+62
+Engineer When Operating Combination of Boom
+and Jib 400' or Longer
+Hourly Rate
+Conveyor Agreement	6/1/01	6/1/02	6/1/03
+* Base Wage		.. .$31.90	$33.38	$34.90
+*Vac. & Holiday (15%)		.. . 4.79	5.01	5.24
+* Supp. Vac. Fund 		.. . .05	.05	.05
+Insurance 		.. . 4.60	4.60	4.60
+Pension		. , . 4.75	4.75	4.75
+Retiree Benefit Fund		... .20	.20	.20
+Apprenticeship Fund		. . .	.60	.60	.60
+Labor Management Education Committee ..	. . . .04	.04	.04
+DC Plan 		... 1.00	1.00	1.00
+Gross Wage		. . .$47.93	$49.63	$51.38
+Industry Promotion Fund .	...	19		.19		.19
+	$48.12	$49.82	$51.57
+^Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+CONVEYOR RATES I
+63
+Engineer When Operating Combination of Boom and Jib 400' or Longer on a Crane that Requires an Oiler
+Hourly Rate			
+Conveyor Agreement	6/1/01	6/1/02	6/1/03
+*Baee Wage		.. .$32.77	$34.25	$35.77
+* Vac-& Holiday (15%)		. .. 4.92	5.14	5.37
+*Supp. Vac. Fund		. ..	.05	.05	.05'
+Insurance		. . 4.60	4.60	4.60
+Pension		.. 4.75	4.75	4.75
+Retiree Benefit Fund		...	.20	.20	.20
+Apprenticeship Fund		..	.60	.60	.60
+Labor Management Education Committee ..	...	.04	.04	.04
+DC Plan 		.. _L£)Q	1.00	1.00
+Gross Wage		. .$48.93	$50.63	$52.38
+Industry Promotion Fund .	.._ia		.19		.19
+	$49.12	$50.82	$52.57
+*Taxable income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+Illium l U^MCONVEYDR RATES M3E3Hra
+64
+Engineer When Operating Combination of Boom and
+Jin 300’ or Longer
+Hourly Rate
+Conveyor Agreement	6/1/01
+♦Base Wage ...............$30.60
+* Vac. &. Holiday (15%)... 4.5ft
+*Supp. Vac. Fund...........	.05
+Insurance ............... 4.6<J
+Pension................... 4.75
+Retiree Benefit Fund.........20
+Apprenticeship Fund..........$0
+Labor Management Education Committee..........(M
+DC Plan .................. 1.0Q
+Gross Wage.............$46+43
+Industry Promotion Fund ...._12
+6/1/02	6/1/03
+$32.08	$33.60
+4.81	5.04
+.05	.05
+4.60	4.60
+4,75	4.75
+.20	.20
+.60	.60
+.04	.04
+1.00	1.00
+$48.13	$49.88
+	.19	,19
+$48.32	$50.07
+$46.62
+♦Taxable Income
+The al'.ocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+conveyor rates
+65
+Engineer When Operating Combination of Boom and Jib 300’ or Longer on a Crane that Requires an Oiier
+Hourly Rate			
+Conveyor Agreement	6/1/01	6/1/02	6/1/03
+* Base Wage						.$31.47	$32.95	$34.47
+*Vac. & Holiday (15%) .......	. 4.72	4.94	5.17
+*Supp. Vac. Fund		.	.05	.05	.05
+Insurance 			. 4.60	4.60	4.60
+Pension						. 4.75	4.75	4.75
+Retiree Benefit Fund		.	.20	.20	.20
+Apprenticeship Fund		< -CO	.60	.GG
+Labor Management Education Committee ....	.	.04	.04	.04
+DC Plan 		. ±2Q	1.00	1.00
+Gross Wage		.$47.43	$49.13	$50.88
+Industry Promotion Fund • • .	.	13	_.13	.19
+	$47.62	$49.32	$51.07
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+CONVEYOR RATES	■ —
+66
+p
+Engineer When Operating Combination of Boom and Jib 220' or Longer
+Hourly Rate			
+Conveyor Agreement	6/1/01	6/1/02	6/1/03
+* Base Wage		.. .$29.30	$30.77	$32.30
+*Vac. & Holiday (15%)		... 4.39	4.62	4.84
+*Supp, Vac. Fund		.. .	.05	.05	.05
+Insurance	,...	... 4.60	4.60	4.60
+Pension		. . . 4.75	4.75	4.75
+Retiree Benefit Fund		...	.20	.20	.20
+Apprenticeship Fund		...	.60	.60	.60
+Labor Management Education Committee ..	.. .	.04	.04	.04
+DC Plan 				... 1.00	1.00	
+Gross Wage		.. .$44.93	$46.63	$48.38
+Industry Promotion Fund -	• • •	_ .IP		.19
+	$45.12	$46.82	$48.57
+*Taxsible Income
+The allocation between wages and fringe benefit may be adjusted 3G days before the expiration date for 2002 and 2003.
+CONVEYOR RATES
+67
+Engineer When Operating Combination of Boom and Jib 220’ or Longer on a Crane that Requires an Oiler
+Hourly Rate
+Conveyor Agreement	6/1/01	6/1/02	6/1/03
+♦Base Wage	.	. ..$30.17	$31.64	$33.17
+♦Vac. & Holiday (15%) ,.,. .	... 4,52	4.75	4.97
+*Supp, Vac- Fund . 			...	.05	.05	.05
+Insurance			... 4.60	4.60	4.60
+Pension		... 4.75	4.75	4.75
+Retiree Benefit Fund		...	.20	.20	.20
+Apprenticeship Fund		...	.60	.60	.60
+Labor Management Education Committee . .	...	.04	.04	.04
+DC Plan 		... 1.00	w	100
+Gross Wage		.. .$45.93	$47,63	$49.38
+Industry Promotion Fund .	...	12		49		.19
+	$46.12	$47.82	$49.57
+♦Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+CONVEYOR RATES I ■F-IB.TT mngBSgEMj
+68
+Engineer When Operating Combination of Boom and Jib 140* or Longer
+Hourly Rate			
+Conveyor Agreement	«/JA)1	6/1/02	6/1/03
+* Base Wage		. . .$29.02	$30.50	$32.02
+* Vac. & Holiday {15%)		. .. 4.35	4.57	4.80
+* Supp. Vac. Fund		. ..	.05	.05	.05
+Insurance 		... 4.60	4.60	4.60
+Pension		... 4.75	4.75	4.75
+Retiree Benefit Fund		...	.20	.20	.20
+Apprenticeship Fund		...	.60	.60	.60
+Labor Management Education Committee ..	...	.04	.04	.04
+DC Plan 		...	1.00	LQQ
+Gross Wage		. . .$44.61	$46.31	$48.06
+Industry Promotion Fund .	. ..			.19		.19
+	$44,80	$46.50	$48.25
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted -30 days before the expiration date for 2002 and 2003.
+CONVEYOft RATES!
+69
+Engineer When Operating Combination of Boom and Jib 140* or Longer on a Crane that Requires an Oiler
+Hourly Rate
+I Conveyor Agreement	6/1/61	6/1/02	6/1/03
+* Base Wage		. .$29.89	$31.37	$32.89
+* Vac. & Holiday (15%)		.. 4,48	4.70	4.93
+*Supp. Vac. Fund 		..	.05	.05	.05
+Insurance 		.. 4.60	4.60	4.60
+Pension		.. 4.75	4.75	4.75
+Retiree Benefit Fund		.. .20	.20	.20
+Apprenticeship Fund		..	.60	.60	.60
+J i«hor .Mnnagcnieut Education Committee ...	.. .04	.04	.04
+DC Plan 		.. ,1.00	1.00	1.00
+Gross Wage		. .$45.61	$47.31	$49.06
+Industry Promotion Fund .,	.. _19	_ ,15		.19
+	$45.80	$47.50	$49.25
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+70
+Engineer When Operating Combination of Boom and
+Jib 120’ or Longer Hourly Rate
+Conveyor Agreement 6/1/01	6/1/02
+♦Base Wage ................$27.97	$29.44
+*Vac. & Holiday (15%)..... 4.19	4.42
+*Supp. Vac. Fund...............05	,05
+Insurance .................. 4.60	4.60
+Pension................... 4.75	4.75
+Retiree Benefit Fund...........20	.20
+Apprenticeship Fuad............60	.60
+Labor Management Education Committee............04	.04
+DC Plan ............................ 1.00
+Gross Wage ...........$43.40	$45.10
+Industry Promotion Fund ....___19	.19
+$43.59	$45.29
+♦Taxable Income
+6/1/03
+$30.97
+4.64
+.05
+4.60
+4.75 .20 .60
+.04
+1.00
+$46.85
+$47.04
+The ai-ocatiin: between wager and fringe benefit may be adjusted 3D days before the expiration date for 2002 and 2003.
+CONVEMJH HATES
+71
+Engineer When Operating Combination of Boom and Jib 120' or Longer on a Cane That Requires an Oiler
+Hourly Rate
+Conveyor Agreement 6/1/01
+*	Base Wage ..............$28,83
+*	Vac. & Holiday (15%).. 4.33
+*	Supp. Vac, Fund.............05
+Insurance ................. 4.60
+Pension................. 4.75
+Retiree Benefit Fund..........20
+Apprenticeship Fund...........60
+Labor Managernenr. Education Committee...........04
+DC Plan ................... 1.00
+Gross Wage .............$44,40
+Industry Promotion Fund ....__19
+6/1/02	6/1/03
+$30.31	$31.83
+4.55	4.78
+.05	.05
+4.60	4.60
+4.75	4.75
+.20	.20
+.60	.60
+.04	.04
+ns	1.00
+$46.10	$47.85
+$46.29	$48.04
+$44.59
+’'Taxable Income
+The allocation between wages and Cringe benefit may be adjusted 30 days before the expiration date for 2002 and 2OQ3.
+CONVENOR RATES'
+72
+Crane Operator & Job Mechanic
+Hourly Rate
+Conveyor Agreement	6/1/01
+•Base Wage................$27.65
+‘Vac. & Holiday (15%) ..... 4.15
+* Supp. Vac. Fund.............05
+Insurance ................ 4.60
+Pension................... 4.75
+Retiree Benefit Fund.........20
+Apprenticeship Fund..........60
+Labor Management Education Committee.........04
+DC Plan .................. 1.00
+Gross Wage.............$43.04
+Industry Promotion Fund ...._19
+$43.23
+6/1/02
+$29.13
+4.37 .05
+4.60
+4.75 .20 .60
+.04 isu $44.74
+$44.93
+6/1/03
+$30.65
+4.60 .05
+4.60
+4.75 .20 .60
+.04
+1.00 $46.49
+$46.68
+•Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+CONVEYOR RATES
+73
+I Crane Operator on a Crane That Requires an			Oiler
+I	Hourly Rate 1 Conveyor Agreement	6/1/01		6/1/02	6/1/03
+* Base Wage		. .$28.52	$30.00	$31.52
+*Vac. & Holiday (15%) .....	.. 4.28	4.50	4.73
+*Supp. Vac. Fund		..	.05	.05	.05
+Insurance 		.. 4.60	4.60	4.60
+Pension		.. 4.75	4.75	4.75
+Retiree Benefit Fund		..	.20	.20	.20
+Apprenticeship Fund		..	.60	.60	.60
+Labor Management Eflurntinn Committee ..	04	nd	.04
+DC Plan 		JU1Q	W	1.00
+Gross Wage		. .$44.04	$45.74	$47.49
+Industry Promotion Fund .	.,	JL 9	,19	,19
+*Taxable Income	$44.23	$45.93	$47.68
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+CONVEYOR RATES I
+74
+Hoisting Operator
+Hourly Rate			
+Conveyor Agreement	6/1/01	671/02	871/03
+* Base Wage		.. .$27.08	$28.56	$30.08
+*Vac. & Holiday (15%)		... 4.06	4.28	4.51
+’Supp. Vac. Fund		...	.05	.05	.05
+Insurance 		... 4.60	4.60	4.60
+Pension		... 4.75	4.75	4.75
+Retiree Benefit Fund		...	.20	.20	.20
+Apprenticeship Fund		...	.60	.60	.60
+Labor Management Education Committee .,	..,	.04	.04	.04
+DC Plan 		... 1.00	Lflfl	1.00
+Gross Wge		.. .$42.38	$44.08	$45.83
+Industry Promotion Fund .	,,.	19	,19	,19
+	$42.57	$44.27	$46.02
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date for 2002 and 2003.
+CONVEYOR RATES
+75
+Compressor or Welder Operator Hourly Rate
+Conveyor Agreement	6/1/01	6/1/02	ao/oa
+* Base Wage		. .$21.06	$22.54	$24.06
+* Vac. & Holiday (.15%)		... 3.16	3.38	3.61
+* Supp, Vac. Fund 		. ..	.05	.05	.05
+Insurance 		.. 4.60	4.60	4.60
+Pension		.. 4.75	4.75	4.75
+Retiree Benefit Fund		...	.20	.20	.20
+Apprenticeship Fund		...	.60	.60	.60
+Labor ?.l2nofTement Education Committee ..	. .	.04	.04	.04
+DC Plan 		.. 1.00	1.00	1.00
+Gross Wage		. .$35.46	$37.16	$38.91
+Industry Promotion Fund .	,,	19	,19	.19
+	$35.65	$37.35	$39.10
+*Taxable Income
+The a/iocatfon between wages and fringe benefit may be adjusted 50 days before the expiration date ter 2002 and 2003.
+CONVEYOR RATES ■■■	mill
+76
+Oiler
+Hourly Rate			
+Conveyor Agreement	6/1/01	6/1/02	6/1/03
+* Base Wage		.. .$19.70	$21.17	$22.70
+* Vac. & Holiday (15%)		... 2.95	3.18	3.40
+*Supp,Vac, Fund	...	.05	.05	.05
+Insurance 		... 4.60	4.60	4.60
+Pension		... 4.75	4.75	4.75
+Retiree Benefit Fund		...	.20	.20	.20
+Apprenticeship Fund		...	.60	.60	.60
+Labor Management Education Committee . ■	. .. .04	.04	.04
+DC Plan 		... ±QQ	w	LQQ
+Gross Wage		. . .$33.89	$35.59	$37.34
+Industry Promotion Fund .	. ..	1g	.19	,19
+	$34.08	$35.78	$37.53
+*Taxable Income
+The allocation between wages and fringe benefit may be adjusted 30 days before the expiration date far 2002 and 2003.
+CONVEYOR RATES
+77
+Effective June 1,2002 the parties have agreed to a one dollar and seventy cents ($1.70) per hour increase for all classifications for all hours worked to the total economic package. Operating Engineers Local 324 shall allocate the distribution of the increase prior to June 1, 2002.
+Effective June 1,2003 the parties have agreed to a one dollar and seventy five cents ($1.75) per hour increase for all classifications, for all hours worked to the total economic package. Operating Engineers Local 324 shall allocate the uistnrjuturn of the increase prior to June 1, 2003.
+CRANE MAINTENANCE AND SAFETY INSPECTION TIME.
+Ten (10) ton and under the equivalent of one-half (14) hour straight time paid for maintenance and safety inspection time. Over ten (10) ton all engineers operating Cranes (including Tower Cranes and similar types) and Derricks, the equivalent of one (1) hour straight time paid. Maintenance and safety inspection time must be actually worked ana shall be in addition to the regular day’s wages.
+ARTICLE XX
+MARKET RECOVERY
+It is recognized by the parties that in certain areas of the State, the union construction market has been threatened by non-union competition. Where the mutual interest of both the Great Lakes Fabricators and Erectors Association and Michigan Conveyor Manufacturers Association and the Union are served by cooperating to compete more
+CONVEYOR RATES
+78
+effectively, it is agreed that the Great Lakes Fabricators and Erectors Association and the Michigan Conveyors Manufacturers Association and the Union will negotiate a market recovery rate on a job by job or area by area basis. When a market recovery rate is negotiated it shall be the responsibility of the Association to notify all interested Employers of the existence of such a rate or agreement.
+A market recovery rate negotiable pursuant to this provision shall not be considered a more favorable rate of agreement.
+ARTICLE XXI
+RENEWAL OR CHANGE
+This Agreement shall remain in full force and effect until the First day of June, 2004, and thereafter shall renew itself from year to year unless either party hereto shall notify the other party, in writing, at least ninety (90) days prior to any anniversary date of this Agreement of its desire to change the Agreement in any way or to terminate the Agreement. Such written notice shall be sent by Registered Mail to the other party. In the event of notice by either party to change and/or terminate, and no agreement of such changes and/or termination is reached prior to June 1, 2004, this Agreement shall be deemed to have terminated Midnight, May 31, 2004.
+CONVEYOR RATES
+79
+IN WITNESS WHEREOF, the parties hereto have hereunto set their hands ana seals this 1st day of June 2001:
+FOR THE ASSOCIATION:
+GREAT LAKES FABRICATORS and ERECTORS ASSOCIATION
+D. James Walker, Jr.
+Executive Director
+and
+MICHIGAN CONVEYOR MANUFACTURERS ASSOCIATION. INC.
+NEGOTIATING COMMITTEE:
+William D. Goolsby
+FOR THE UNION:
+INTERNATIONAL UNION OF OPERATING ENGINEERS, LOCAL 324 AND 324-A AFL-CIO
+Sam T. Hart,
+Business Manager
+John Hamilton,
+President
+R. Denis Lynch,
+Recording-Corresponding Secretary
+CONVEYOR RATES
+80
+OPERATING ENGINEERS’ LOCAL 324 HEALTH CARE PLAN
+37450 Schoolcraft, Suite 130 Livonia, Michigan 48150 Phone: (734) 462-3670
+OPERATING ENGINEERS’ LOCAL 324 PENSION FUND
+2075 W. Big Beaver Road — Suite 700 Troy, Michigan 48084-3446 Phone: (248) 822-4100
+OPERATING ENGINEERS’ LOCAL 324 VACATION & HOLIDAY FUND OF MICHIGAN
+37450 Schoolcraft, Suite 120
+Livonia, Michigan 48150 Phone; (734) 462-3675
+1
+IT SHALL BE THE DUTY OF A MEMBER TO BECOME FAMILIAR WITH THE WORKING RULES IN THE SPECIFIC CONTRACT UNDER WHICH HE IS WORKING

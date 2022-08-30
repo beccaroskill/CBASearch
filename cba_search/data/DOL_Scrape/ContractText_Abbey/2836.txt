@@ -1,0 +1,647 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Salem-Keizer School District 24J and Salem-Keizer Association of Classified Employees (SKACE) (2002)
+K#: 810191
+Location: OR Salem
+Employer Name: Salem-Keizer School District 24J
+Union: Salem-Keizer Association of Classified Employees (SKACE)
+Local:
+SIC: 8211	NAICS: 611110
+Sector: L	Number of Workers: 1500
+Effective Date: 07/01/02	Expiration Date: 06/30/04
+Number of Pages: 52	Other Years Available: N
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+K S’io^ c	a
+COLLECTIVE BARGAINING AGREEMENT
+2002-2004
+between
+SALEM-KEIZER SCHOOL DISTRICT 24J and '
+SALEM-KEIZER ASSOCIATION OF CLASSIFIED EMPLOYEES
+SALEM’KEIZER
+PUBLIC SCHOOLS
+School District 24J complies with provisions of the Fair Employment Practices Act and/or Title IX Regulations in employment and educational programs and activities.
+ARTICLE I RECOGNITION
+1.	1.01 The District recognizes the Association as the sole and exclusive bargaining agent
+for all classified employees of the Salem School District 24J, excluding:
+1.01.01 Employees recognized or certified as being in a separate Salem School District 24J bargaining unit;
+1.01.02 Casual employees; and
+1.01.03 Supervisory and confidential employees, as defined in ORS 243.650(6) and (14).
+1.02 The parties hereby agree that casual employees for purposes of Section 1.01.02 shall mean substitutes, District students, as well as persons employed by the District on an irregular basis who work 600 hours or less during a fiscal year. Casual employees shall not be included in the bargaining unit.
+1.03 For the purpose of this Agreement, substitutes are defined as those irregular employees called in to replace regular employees on excused absences (i.e., sick leave, vacation, etc.).
+1.04 Limited-term employees are employees, exclusive of substitutes and District students, who work more than 600 hours during a fiscal year in a position which lacks permanent funding. Limited-term employees scheduled to work more than 600 hours shall be considered unit members from the beginning of their employment. Other employees meeting this requirement shall be included in the bargaining unit as of the beginning of the next succeeding month and the union shall be so notified. Limited Term employees shall enjoy all the rights of the collective bargaining agreement, except Article XVIII, Layoff and Recall. Limited Term employees shall retain their assignments for the funding duration of the position subject to satisfactory completion of the probationary period and shall be eligible for insurance coverage during summer recess if eligible and previously enrolled.
+1.04.01 Instructional Assistants and Special Programs Instructional Assistants will become permanent District employees after serving in a limited term capacity for three (3) consecutive school years (must have worked at least 135 days per year in a bargaining unit position). The number of permanent hours for those Instructional Assistants who attain permanent status will be dictated by their last assignment prior to attaining permanent status.
+1.04.02 On the date a limited term employee attains permanent status all rights and privileges of permanent employees shall apply, including Article XVIII. The seniority date for such employees will be the date on which the employee began continuous employment (excepting summer break periods) with the District as a limited term employee immediately prior to becoming a permanent employee.
+1.04.03 Limited term employees in instructional special needs, one-on-one assignments whose students have left the program during the course of the school year may be reassigned to a vacant one-on-one position on a temporary basis for the remainder of the school year. The reassignment may occur without observance of the normal transfer procedures.
+2
+1.04.04 Limited term employees in instructional special needs, one-on-one assignments who are not scheduled to work due to the absence of the student for longer than five consecutive days will be considered for work as District substitutes if work is available.
+1.05 Permanent employees who accept limited term assignments shall retain their permanent status and shall enjoy all rights of the collective bargaining agreement.
+1.05.01 Permanent employees in instructional special needs, one-on-one assignments whose students are absent will be reassigned for the duration of the absence or be given preference for work as a substitute when there are unassigned positions or substitute assignments available.
+1.06 The District may create and continue a limited term position for a maximum of 5 consecutive years. If the position will continue after 5 years, it will become a permanent position and will be filled through an open competitive selection process. This paragraph does not apply to instructional assistant or special programs instructional assistant positions.
+1.07 For the purpose of this Agreement "employee" shall refer to all unit members represented by the Association as defined above.
+1.08 The Board agrees not to negotiate with or recognize any organization other than the Association for the duration of this agreement, unless the Association is decertified or a change of representative is certified by ERB.
+Note: An employee who has not completed his/her initial probationary period shall not be eligible for the benefits of paid subpoena leave, paid personal/emergency leave, paid military leave, paid funeral leave, or unpaid leaves of absence; does not have transfer rights under Article XVII or layoff/recall under Article XVIII; and may not use accumulated vacation time. The District's right to terminate a probationary employee without cause is not grievable.
+ARTICLE II
+DISTRICT RIGHTS
+1.	Except as otherwise expressly and specifically limited by the terms of this Agreement, the District retains all of its customary, usual, and exclusive rights, decision making, prerogatives, functions, and authority connected with or in any way incidental to its responsibility to manage the affairs of the District or any part of the District. The rights of employees in the bargaining unit and the Association thereunder are limited to those specifically set forth in this Agreement, and the District retains all prerogatives, functions, and rights not specifically limited by the terms of this Agreement. The District shall have no obligation to negotiate with the Association with respect to any such subjects or the exercise of its discretion and decision making with regard thereto, any subjects covered by the terms of this Agreement, and closed to further negotiation for the term hereof, and any subject which was or might have been raised in the course of collective bargaining but is closed for the term hereof.
+2.	Without limitation, but by way of illustration, the exclusive prerogatives, functions, and rights of the District shall include the following:
+2.01 To determine the services to be rendered to the citizens of the District.
+2.02 To determine and to follow the District's financial, budgetary, and accounting procedures.
+2.03 To direct and supervise all operations, functions, and policies of the departments in which the employees in the bargaining unit are employed, and operations, functions, and policies in the remainder of the District as they may affect employees in the bargaining unit not in violation of this Agreement.
+2.04 To close or liquidate any office, branch, operations or facility, or combination of facilities, or to relocate, reorganize, or combine the work of divisions, offices, branches, operations, or facilities for budgetary or other reasons.
+2.05 To manage and direct the work force, including, but not limited to, the right to determine the methods, processes, and manner of performing work; the right to hire, promote, transfer, and retain employees as in accordance with this Agreement; the right to lay off in accordance with the layoff article in this Agreement; the right to abolish positions or reorganize departments; the right to determine schedules of work not in violation of this Agreement; the right to purchase, dispose of, and assign equipment or supplies.
+2.06 To determine the need for a reduction or an increase in the work force and the implementation of any decision with regard thereto.
+2.07 To establish, revise, and implement standards for hiring, classification, promotion, quality of work, safety, materials, and equipment not in violation of this Agreement.
+2.08 To implement new, and to revise or discard, wholly or in part, old methods, procedures, materials, equipment, facilities, and standards.
+2.09 To contract or subcontract work as may be determined by the District, provided that as to work which is exclusively performed by employees in the bargaining unit, the District agrees to notify the Association and upon demand bargain the decision for a period of 90 days. At the time of a demand to bargain, the parties will immediately appoint a factfinder and set a factfinding date 45 days after the
+demand to bargain. Unless a settlement is reached, the factfinding hearing will be held as scheduled and the factfinder must agree to make a recommendation within 14 calendar days. Bargaining shall continue until settlement or the end of the 90 day period.
+2.10	To assign shifts, workdays, hours of work and work locations in accordance with this Agreement.
+2.11	To assign and designate all work duties.
+2.12	To introduce new duties within the unit.
+2.13	To determine the need for and the qualifications of new employees, transfers, and promotions not in violation with this Agreement.
+2.14	To discipline, suspend, demote, or discharge an employee for cause in accordance with the discipline article of this Agreement.
+
+5
+1. Association Responsibility
+The Association shall represent all employees in the bargaining unit equally and without discrimination.
+2.	Association Membership
+Membership or non membership in the Association shall be the free, independent choice of each member of the bargaining unit.
+3.	Association Membership Dues Checkoff
+3.0	1 The District agrees to deduct Association membership dues from the wages of each employee who has so authorized it in writing on the form provided. The District agrees to continue to honor present dues deduction authorizations executed by the employee in favor of the Association unless revoked in writing. The District agrees to transmit the dues deducted to Salem-Keizer Association of Classified Employees. The Association agrees to hold the District harmless for any claims or liabilities incurred in providing this benefit. The District agrees to correct verified errors as soon as practical.
+3.0	2 The District shall provide the Association with the names of all employees that are new, terminated, retired or on leave for more than thirty (30) days on a monthly basis.
+4.	Association Representatives Visits
+4.0	1 Upon reasonable notice and proper introduction, any SKACE officer, other members of the bargaining unit delegated to serve as Association representatives, or official non-employee Association representatives shall be allowed access to work areas. At no time shall such visits cause an interruption of work. The Association shall provide the District with an updated list of authorized representatives.
+4.0	2 The Association president or designee may attend classified orientation meetings in order to be introduced, hand out Association materials and make brief remarks.
+5.	Use of Building Facilities
+Upon reasonable advance request, the Association may be allowed use of District facilities for meetings; provided that such facility is not required for regular purpose use, and that the District is reimbursed for any costs (excluding rent) incurred in such Association use.
+6.	Use of Duplicating Equipment
+Upon advance request, the Association may be allowed use of District duplicating equipment for duplicating material; provided such equipment is not required for regular purpose use and that the District is reimbursed for any costs incurred in such Association use.
+6
+7.	Bulletin Board Space
+The District agrees to allow the Association in each District facility, the exclusive use of a bulletin board or portion thereof or mutually acceptable space for communicating with employees. All notices, memorandums, and publications shall be clearly labeled as Association material and shall bear the name and signature of the authorizing Association official.
+8.	Use of Mail Boxes
+The Association shall have the right to use building mail boxes for purposes of communications with employees so long as such communications are labeled as Association materials. Materials other than those originating from the Association office shall contain the name of the authorizing Association official.
+9.	Association Leave
+The District will grant the Association and its members a total of forty-five (45) days leave for SKACE business during the regular school year. An additional fifteen (15) days will be granted during the summer months for SKACE use. SKACE will reimburse the District for each member at a rate equivalent to step one (1) of the pay range for each member’s classification for each day of leave used.
+10.	Association President Leave
+Upon request by the Association prior to June 1, the District will grant the Association President a leave of absence without pay for the following fiscal year. Such leave guarantees return to the same position or to a comparable position. Upon return to a District position, the Association President shall be placed on the salary schedule at the level which he/she would have achieved had he/she remained actively employed in the District. Furthermore, the Association President shall accrue benefits in the same manner that he/she would have accrued benefits had he/she remained actively employed in the District. This unpaid leave shall be for the President to carry out the statutory duties of the Association as exclusive representative in collective bargaining, contract administration and grievance processing during the life of the contract and related activities bearing a direct relationship to labor-management relationships between the Association and the District. Such (eave shall be granted upon request of the Association President prior to June 1 of the year preceding the school year in which the leave is to be taken.
+The District shall continue to pay the president as if he/she were employed in the position held prior to the leave. The Association shall reimburse the District the total cost (salary, payroll and fringe benefits) for the replacement employee or if no replacement is hired, then the cost of an employee on the first step of the appropriate range.
+11.	Representative Assembly/Executive Board Leave
+The District shall provide up to four (4) hours per month for officers and building representatives to attend executive board and representative assembly meetings. Such provision applies only to members who need to be released from work between 5 and 10 p.m. The Association will reimburse the District for the cost of the employees' time at each employee's hourly rate multiplied by the number of hours off work. Advance approval from each employee's supervisor is required at least one week in advance. In emergency situations, where one-week advance notice is not possible, the Association
+7
+shall contact the Human Resources office to request a waiver of the one-week notificat requirement.
+12.	Leave for Elected/Appointed Position in OEA/NEA.
+Should an Association member be elected or appointed to an OEA or NEA position whicl requires absence from work, the SKACE President shall request a meeting with the District to discuss arrangements for unpaid leave time.
+13.	Information
+In compliance with ORS 243.672 (1) (e) and (2) (b) the District and Association will, upon request, provide each other with any information of probable or potential relevance to a grievance or other contractual matter or information reasonably necessary to allow meaningful bargaining by the parties.
+8
+-.WW**’***^*^
+^xjLQLLJ.____
+ARTICLE IV
+EMPLOYEE RIGHTS
+1.	The Association recognizes the right to discipline employees. However, no employee will be disciplined, reprimanded in writing, suspended, terminated or reduced in rank or compensation without just cause.
+2.	An employee shall be entitled to have present a representative of the Association during any investigatory meeting or any meeting which might reasonably be expected to lead to disciplinary action. When a request for such representation is made, the meeting will be postponed if necessary to allow the employee to obtain representation but need not be postponed more than 24 hours. The employee or representative may inquire, at the start of such meeting, regarding its purpose, including inquiring about the general subject matter of the questioning to follow.
+3.	Organizing
+Classified Employees shall have the right to participate in Association activities as provided by PECBA.
+4.	Conformance with Law
+Nothing contained herein shall be construed to deny any employee his/her rights under the constitutions and laws of the United States and the State of Oregon or under other applicable laws and regulations.
+9
+ARTICLE V
+DUES AND PAYROLL DEDUCTIONS
+1.	Any employee who is a member of the Association may authorize deductions of membership dues in the Salem-Keizer ACE/OEA/NEA. Such authorization shall continue in effect from year to year, unless revoked in writing as hereinafter provided. Pursuant to such authorization, the District shall deduct and remit nine equal payments from the regular salary check of the employee beginning in October of each year and ending with the month of June. (Deductions for employees who join the Association after the commencement of the school year shall be appropriately prorated so that payments will be completed by the following June.)
+2.	Withdrawing the payroll deduction for such dues may be accomplished by writing a letter to the office of the Association and to the payroll office and delivering it between August 1 and October 1 of any year.
+3.	A computer printout or accurate listing of employees on Association dues deduction shall I be sent to the Association, together with the remittance due to the Salem-Keizer ACE in	|
+one check and OEA/OACE-NEA in a separate check, prior to the 15th of the following	I
+month.	I
+4.	The Association agrees to hold the District harmless for any claims or liabilities incurred in 1 providing this benefit. The District agrees to correct verified errors as soon as practical. I The District shall provide the Association a list of names and work areas of new and	■
+terminated employees in the bargaining unit by the 15th of each month. The list should	■
+also include the employee's social security number, the date of transaction, the hours	■
+worked per day, the number of months to be employed, whether the employee is new or a ■ rehire to the District and other significant information pertaining to termination, retirement, ■ unpaid leave of absence, etc. This list shall be mailed to the Association by the 15th of a	1
+given month. In the event the District fails to provide the list to the Association by the 15th	1
+of a given month, the District shall not be considered in violation of this provision unless it fails to submit such list to the Association within five (5) normal working days from the receipt of a written notice from the Association that the said list has not been provided.
+5.	Upon appropriate written request from the employee, the District shall deduct from the salary and make appropriate remittance for the following approved deductions as established by District practice:
+Savings Bonds
+United Way
+Credit Union
+Tax Deferred Annuities
+OEA Foundation
+6.	The District, upon appropriate authorization of the employee, shall deduct from the salary of any employee and make proper remittance for any other plans or programs jointly approved by the Association and the Board.
+7.	The District, at employee's request, will correct any District payroll error within five (5) working days of the employee's request and submission of confirming documentation.
+10
+ARTICLE VI	STRIKES/WORK ACTION
+1.	The Association and members of the bargaining unit, as individuals or as a group, will not initiate, cause, or participate or join in any strike, work stoppage, slowdown, picketing, or any other restriction of work during the term of this Agreement. The Association recognizes and agrees that disciplinary action, including discharge, may be taken by the District against any employee or employees engaged in a violation of the provisions of this article.
+2.	In the event of a strike or other work action in any form, either on the basis of individual choice or collective employee conduct, the Association will make every effort including public appeals to secure an immediate and orderly return to work.
+This obligation and the obligation set forth above shall not be affected or limited by the subject matter involved in the dispute giving rise to such work action.
+3.	Members of the bargaining unit agree that they will not honor any picket line established by the Association or by any other labor organization when called upon to cross such picket line in the line of duty during the life of the contract.
+11
+ARTICLE VII WORK WEEK, HOURS OF WORK
+1,	Hours of Work
+3.
+4.
+5.
+6.
+1.01 A full-time work schedule shall consist of forty (40) hours within the designated workweek, worked on the basis of five (5) eight-hour days or four ten-hour days. To the extent consistent with the operational needs and requirements of the District, such workdays shall normally be consecutive as scheduled by the District. To the extent consistent with the operational needs and requirements of the District, the District will schedule work on a Monday through Friday basis. If the District intends to schedule a regular work week including a Saturday or Sunday the District will first seek volunteers among qualified employees, but will not be obligated to assign a modified work week to a volunteer. The District also agrees to provide a differential for employees who are assigned by the District to a workweek that includes either a Saturday or a Sunday. Such employees will receive a 4% differential above their base salary for the week. The District reserves the sole discretion over operational needs and requirements. Shifting of days at employee's request to a Saturday or Sunday does not entitle the employee to the differential.
+However, an employee may be assigned to a work week that includes Sunday only if (a) the employee requests or volunteers for such a work week, or (b) the work week, including a Sunday, is assigned for a period of a month or less, or (c) if the employee was notified at the time of his/her hire that the work week could include a Sunday. If none of the above applies and the District assigns a shift including a Sunday, overtime, but not the differential, shall be paid for all hours worked on Sunday.
+Lunch Periods
+2.01 Each employee working more than four and one-half (4-1/2) consecutive hours shall receive an uninterrupted lunch period of at least one-half (1/2) hour. Such time as scheduled by the employee's supervisor, as nearly as practical to mid shift, shall be his/her lunch period. Such lunch period shall not be credited as time worked.
+Rest Periods
+3.01 Each employee shall receive a fifteen (15) minute break during each three (3) hours and forty-five (45) minutes of consecutive service, with the break coming as close as practical to the mid shift point. Such break shall be designated by the supervisor.
+For hourly employees, sick leave and vacation time will be based on actual hours worked in the employee's regular position up to a maximum of eight (8) hours a day during the employee's regularly assigned workyear.
+Less than twelve (12) month employees shall accrue vacation and sick leave for any work performed in their same classification during scheduled recess periods.
+Modified Calendar Schools
+The following conditions will apply to employees who are assigned to a modified calendar school.
+12
+6.01 No permanent employee will lose their permanent status if assignment to a modified calendar school is considered temporary or experimental.
+6.02 Employees not wishing to be employed at a modified calendar school program will be reassigned through the administrative transfer process upon employee request.
+6.03 Employees in modified calendar schools will use accrued vacation on the same basis as other employees.
+7. Other changes in School Calendar
+7.01 Should the District elect to make major changes in a school’s calendar, the District will notify the Association in writing. If the Association notifies the District within fourteen days of its desire to negotiate, the parties will meet to negotiate the impact of calendar changes on the employees.
+
+13
+ARTICLE VIII
+HOLIDAYS
+J
+1.	A twelve-month employee shall receive the holidays without loss of pay, as set forth in this section, provided that the employee is on the active payroll and works on the last regular District workday prior to and the first regular District workday after the occurrence of the holiday or be on a paid leave on such days.
+a.
+b.
+d.
+e.
+Independence Day
+Labor Day
+Veterans' Day
+Thanksgiving Day
+Day following Thanksgiving
+f.
+g.
+h.
+i.
+Christmas Eve
+Christmas Day
+New Year's Day Memorial Day Martin Luther King Day
+2.	A less than twelve-month employee shall receive, without loss of pay, the following holidays which occur during his/her assigned work year, provided that the employee is on the active payroll and works on his/her last regular assigned workday prior to and his/her first regular assigned workday after the occurrence of the holiday or be on a paid leave on such days.
+a.
+b.
+d.
+e.
+Independence Day
+Labor Day
+Veterans' Day
+Thanksgiving Day
+Day following Thanksgiving
+f.
+g-h.
+i.
+Christmas Eve
+Christmas Day
+New Year's Day Memorial Day
+3.	An employee's holiday pay shall be the equivalent of his/her regular day of work for the District.
+4.	If an employee is required to work on an observed holiday, he shall receive the overtime rate for all hours worked in addition to his regular holiday pay.
+5.	If any of the above-listed holidays fall on a Saturday, it shall be celebrated on Friday, and if it falls on Sunday, it shall be celebrated on Monday.
+
+ARTICLE IX VACATION
+1.	AH members of the bargaining unit shall be entitled to paid vacation provided they work at least 20 hours per week for six continuous months. New employees shall not be entitled to vacation until they have completed six (6) full months of continuous service but shall be entitled to the prorated share of this vacation upon completion of six (6) months’ continuous service.
+2.	Full-time employees, forty (40) hours per week, twelve (12) months per year, shall accrue vacation in accordance with the following schedule:
+Service Years
+1-5	6	7	8	9	10	11	12	13	14	15
+Hrs. per Month Accrued
+Hours accrued per month for less than full-time employees shall be prorated based on the employee's regular workday during the accrual period.
+Less than twelve (12) month employees shall accrue vacation for any work performed in the same classification during scheduled recess periods.
+Example of above schedule: Employed by the District 8 years and working 40 hours per week, 11 months per year. Service years 8, factor 8.80 times months employed 11; equals total hours accrued vacation of 96.80.
+3.	All vacation periods must be approved by the supervisor to whom the employee is directly responsible. Employees shall take earned vacation at a time approved by the supervisor. Employees may appeal to the Director of Human Resources or designee if they believe they have been unreasonably denied their requests for scheduling of vacation days.
+4.	When a holiday observed by the District falls on a workday during an employee's vacation, the vacation shall be extended accordingly.
+5.	Beginning in the 2003-04 year of the contract and thereafter, accrued vacation not used by an instructionally-related (including assistants, bus drivers, school clerical staff, etc.) less-than-12-month employee will be paid off annually at the regular rate of pay. Any other employee whose accrued vacation is not used by June 30,h of the school year following the year in which the vacation was earned shall be forfeited unless the District was unable to provide the affected employee such time off because of operational needs. In this event the District shall, at its discretion, either carry forth the vacation time or monetarily compensate the employee for such time.
+15
+ARTICLE X
+LEAVE OF ABSENCE WITH PAY
+1.	Sick Leave With Pay	I
+1.01 All employees shall accrue sick leave as an insurance against the impact of I personal illness or injury as provided in ORS 342.596. Full-time twelve (12) I month employees shall accrue twelve (12) days each fiscal year, and employee! who serve for a fraction of the fiscal year and/or a fraction of the regular workdal shall accrue sick leave benefits on a prorata basis. Computations shall be base! on a single workday reporting schedule and the number of days reporting. In no! event will sick leave be available for a day that would not otherwise have been aS regular workday. Each employee shall be furnished a statement each payday ■ showing the number of hours of accumulated unused sick leave available. ■ Unused sick leave shall accumulate to an unlimited total.	■
+1.02 An employee whose term of illness extends through June 30 of any given fiscal I year, and at that time has not used up all accumulated sick leave shall continue tl receive paychecks against prior years' accumulated sick leave. However, in ■ these cases, such employee's sick leave account shall not be credited for I additional hours in the new fiscal year until he/she has returned to work. An ■ employee with an illness covered by accumulated sick leave benefits shall be | subject to disciplinary action, if other unauthorized employment is undertaken I while off the job.	I
+1.03 An employee shall not consider sick leave as a right which allows absence at anj 1 time for other than the reasons set forth in this article. Certification of one shall | not usually be required unless the employee is absent in excess of five (5)	|
+consecutive work days. The District shall provide written notice of the reasons^ for requiring the physician certification upon request by the employee. If medical evidence indicates an employee can return to his/her duties, he/she shall return, or in continued absence be terminated. Sick leave shall not be considered available as terminal leave, either in time or in dollars, except as reported to the Public Employees Retirement System upon retirement.
+1.04 Sick leave shall be utilized for personal medical, dental, and optical appointments on an hour for hour basis. Sick leave may be utilized for absence due to persons illness, injury or any disabling condition including pregnancy as verified by a physician.
+1.05 When an employee is absent due to illness or injury compensable under Worker; Compensation Law ORS 656, the District's obligation to pay this sick leave article is limited to the difference between the payment received as a result of Workers Compensation award and the employee's regular salary. In such instances, prorated charges will be made against accrued sick leave.
+1.06 If an employee uses all of his/her sick leave the District may place the employee on unpaid medical leave.
+1.07 Any employee on worker's compensation leave who has exhausted his/her sick leave and whose physician certifies a return to two (2) months of light duty work, will receive the same District-paid insurance contribution for those two (2) months and one (1) additional month.
+1.08 For the purposes of transferring sick leave, the District shall permit an employee to transfer up to seventy-five (75) days of unused sick leave from another Oregon school district or PERS employer. The accumulation shall not exceed that carried by the most recent PERS employer. However, the transfer of sick leave from another PERS employer shall not be effective until the school employee has completed thirty (30) days in the new district.
+16
+2.	Funeral Leave
+Employees working four (4) hours or more may be granted up to four (4) hours off with pay to attend a funeral(s). Such leave shall be in addition to sick leave. Employees working less than four (4) hours per day may receive up to the maximum number of hours they work per day off with pay for funeral leave. Probationary employees may be granted up to four (4) hours off without pay to attend a funeral(s). Advance arrangements are to be made with the employee’s supervisor as soon as practical.
+3.	Court Appearances
+3.0	1 When an employee appears in court proceedings in his/her own behalf, he/she shall be granted such leave without pay. If an employee is called for jury duty, or is subpoenaed as a witness in a court case in which he/she personally is not involved, he/she will be entitled to reimbursement by the District at the straighttime hourly rate of his/her regular job, for the hours of work necessarily lost as a result of court appearance or duty, less the amount of reimbursement paid by the court, excluding mileage reimbursement.
+3.0	2 Day shift employees will be required to report for work if their court appearance ends on any day in time to permit at least two (2) hours work in the balance of their regular shift. They shall not receive pay for any hours not worked or in court. Other shift employees will not be required to report for work on any day they have performed court duty for more than one-half day, provided such absence shall be without pay. Hours paid for court appearances will be counted as hours worked for the purpose of computing leave benefits and insurance contributions.
+4.	Personal and Emergency Leave
+4.01 Employees shall have available a total of three (3) days per fiscal year for personal and emergency leave purposes. Such leave shall not accumulate from year to year. Such leave shall not be granted or used for matters which can be attended to outside assigned work hours, nor shall it be granted or used for any purposes for which other leaves are specifically provided by this Agreement. Such leaves shall not be granted or used for recreation, extension of a vacation, or labor organization purposes.
+4.02 Emergency leave shall be granted for any circumstance(s) over which the employee had no prior knowledge and the resulting state of such circumstance(s) requires immediate action. Requests for emergency leave must be presented to the supervisor as soon as possible after the need is identified and no later than three (3) working days after the employee has returned to duty. Requests for emergency leave must be in writing and include the reason(s) for the leave. The employee may request that the document be placed in a confidential envelope and sealed. The envelope will be retained by the supervisor for no more than ninety (90) days and then destroyed (or the employee may request the envelope be returned to him/her.) Requests for emergency leave will be reviewed by the immediate supervisor for conformity with these provisions. The supervisor's decision shall be final, except that the denial of emergency leave may be appealed to the Director of Human Resources or designee within 14 days of a supervisor’s denial of use of emergency leave.
+4.03 Only one of the three (3) days may be used for personal commitments which are not emergency in nature. Personal leave shall be granted only for circumstances of a business nature which must be attended to during the employee's assigned working hours. Employees must request personal leave from their supervisor at least three (3) working days prior to the date the leave is to be taken by signing a
+17
+statement that such leave is taken under the conditions set forth in 4.01 and 4.03. No other reasons for the leave must be given.	■
+5.	Association Leave With Pay	■
+Association representatives shall be allowed time away from their duty stations withoB loss of pay when required and authorized by the District for the specific purposes of B meeting with District representatives concerning administration of this contract and B adjusting grievances under the procedure defined herein.	B
+6.	Educational Leave with Pay	H
+Leaves of absence with pay to attend workshops, conventions, or other training progrjB may be granted upon proper application to the supervisor, with approval by the 1 Superintendent or his/her designee. Such leave shall apply only to programs which in I District's judgment will improve District operations. Expense allowances for meals, I lodging, and travel may be granted for such leave according to District policy. An	I
+itemized expense account must be submitted to the Fiscal Services office upon return. I
+7.	Military Leave With Pay	||
+An employee who has served with the District for six (6) consecutive months or more | immediately preceding an application for military leave, and who is a member of the at National Guard or of any reserve components of the Armed Forces of the United States® is entitled to a paid leave of absence, without loss of other benefits, from his/her duties3 a period of not more than fifteen (15) calendar days in any one school year. An additioi® fifteen (15) calendar days per school year shall be granted provided such leave is with pay. No more than fifteen (15) calendar days may be used for such purpose at any on-time. Military leave will be granted only when an employee receives bona fide orders I active or training duty for a temporary period and shall not be paid if the employee doe not return to his/her position immediately following the expiration of the period for whicl he/she was ordered to duty. Leave with pay shall not be granted to employees enterin the military service for extended and indefinite periods of active duty.
+B
+8.	Family Illness Leave
+Family illness leave may be utilized for absence due to critical illness or injury of member of the immediate family to a maximum of three (3) regular workdays per fisc year. A critical illness/injury means any illness/injury requiring the employee's present The immediate family shall be defined as blood relations and in-laws, to include spous children (including step-children and children towards whom the employee stands in Io' parentis), parents (including step-parents), grandparents and grandchildren, brother a sister (including step-brother and sister), uncle, aunt, nephew and niece. When the fair member resides outside the employee's household, the illness must be critical in order the employee to take leave.
+9.	Bereavement Leave
+An employee shall have bereavement leave up to three (3) working days with pay per occurrence. Such leave shall be available to an employee in the event of death in the employee's immediate family. The immediate family shall be defined for the purpose of this section as blood relations and in-laws, to include spouse, children (including stepchildren and children towards whom the employee stands in loco parentis), parents, grandparents, grandchildren, step-parents, brother and sister (including step-brother an step-sister), uncles, aunts, nieces, and nephews.
+18
+ARTICLE XI
+LEAVE OF ABSENCE WITHOUT PAY
+1.	An employee absent from work because of an authorized leave without pay shall not be eligible for nor accrue benefits provided under the terms of this Agreement unless allowed by specific provisions of this Article.
+2.	Medical Leave Without Pay
+2.01 Upon application by an employee, medical leave without pay for the purpose of personal illness or injury of an employee shall be granted after sick leave with pay has been exhausted. Such period of leave without pay may be limited to not more than a total of one (1) year during the life of this agreement, at the discretion of the Superintendent, except in the case of employment incurred injury, in which case the period of leave shall be for the entire period of disability resulting from the injury. An employee on such leave shall not engage in any employment without prior permission from the District.
+3.	Leave of Absence Without Pay
+3.01 Upon request, an employee may be granted a leave of absence without pay for a period of up to one (1) year. Such request shall include reason for such leave.
+4.	Bereavement Leave Without Pay
+4.01 Upon request, an employee shall be allowed up to two (2) days of absence in case of death of a more distant relative or friend not covered under the definition of immediate family. Such leave shall be without pay and shall be utilized not more than once per fiscal year. Such leave shall not accumulate from year to year.
+5.	Peace Corps Leave Without Pay
+5.01 An employee may be granted a leave of absence without pay for service in the Peace Corps, not to exceed two (2) years, in accordance with Oregon law. The salary status of an employee obtaining such leave, except as provided for in military leave without pay, shall be unchanged upon their return to service to the District.
+6.	Parental Leave Without Pay
+6.0	1 Employees in the unit shall be granted parental leave without pay for a specific period of time, up to one year and upon written request, for the purposes of childbirth and for care of natural or adopted infant children. The beginning and end of such leave for childbirth shall be determined by the employee and the physician.
+6.0	2 An employee on parental leave without pay shall be reinstated in a position substantially equivalent to the one held before taking the leave. The employee returning from parental leave shall not suffer a loss of seniority due to this leave provision, but shall not earn additional seniority while on this leave.
+7.	Military Leave Without Pay
+7.01 An employee shall be entitled to a military leave of absence without pay during a period of service with the Armed Forces of the United States. He/she shall, upon honorable discharge from such service, be returned to a position at the salary rate prevailing for such class.
+19
+
+1
+Such employee shall make application for reinstatement within ninety (90) and shall report for duty within six (6) months following separation from actii Failure to comply will terminate military leave status and its benefits. When employee voluntarily re-enlists or extends his/her period of military service, military leave shall be deemed canceled.
+20
+ARTICLE XII
+RETURN FROM LEAVE
+1.	Upon return from paid or unpaid leave the employee will return to the same or similar position he/she had prior to leave.
+2.	Approved leaves will not be considered a break in service. All accrued benefits earned prior to leave will be reinstated upon return from leave. There will be no loss of seniority.
+3.	Employees on authorized leave may participate in the District group insurance program at the employee's cost.
+21
+ARTICLE XIII
+SICK LEAVE BANK
+1.
+The purpose of the sick leave bank shall be to extend to those members additional s leave days should an illness or injury as described in #3 below exhaust the employe) accumulated sick leave.
+2.
+3.
+4.
+5.
+6.
+7.
+On or before October 31 each employee may contribute one individual workday of hii accumulated sick leave to a common bank. Further yearly contributions shall be limit] the number of days necessary to bring bank level to one (1) per member of the bank.! Such contributions are irrevocable. Only employees who have contributed days to tha bank may apply for days from the bank. Participation in the bank shall be voluntary. |
+Upon depleting accumulated sick leave and after obtaining a doctor's statement certiM a life-threatening or debilitating physical or mental illness or injury preventing the mem! from performing the duties of his/her job for more than ten (10) work days, a member i| request days from the bank. A committee composed of three (3) members representirl the administration and three (3) members appointed by the Association will act I immediately on the request. The committee shall grant the request if (1) District recorrl show that the member has exhausted his/her accumulated sick leave; (2) the member ] not eligible for lost time compensation under Workers' Compensation or under PERS I eligibility, or under the District's long-term disability insurance; (3) the member is a I contributing member to the sick leave bank; (4) the member has experienced a life- I threatening or debilitating physical or mental illness or injury that has prevented him/hel from performing his/her job requirements for more than ten days and a doctor has I certified in writing this illness or injury; and (5) there are sufficient days in the sick leave! bank to cover the request.	I
+If the request is denied, the member shall be informed in writing as to the reason for the] denial. The actions of the Committee shall not be subject to any further appeal through! grievance procedure or otherwise.	|
+If the request is approved, the Committee shall notify the Human Resources office, and subsequent days of absence due to the illness or injury, including the first ten (10) days!] the illness or injury, if the employee's accumulated sick leave was not available for those days, will be charged to the bank until further notice. However, in no case will more that a total of fifty (50) days of sick leave from the sick leave bank be approved per individual member in any one school year.
+The District shall keep accurate records of leave accumulated by the bank and of sick leave used by the bank, which shall not be greater than one (1) hour x the number of unit members per school year. These records shall be available at all times for review by the Committee members and by the Association. Annually the District shall notify the Association in writing of the accumulated days and days charged to the bank that year.
+Membership shall be terminated by written request of the member or by the end of
+employment with the District. Previously donated days shall remain in the bank.
+22
+A Ct i _
+ARTICLE XIV
+RATES OF PAY
+1.	Salaries
+1.01 The base schedule will be increased by 2% in fiscal year 2002-03 and 2% for fiscal year 2003-04.
+1.02 All employees eligible for step increases shall receive their step increase on July 1 of each year. New employees hired before January 1 of a given year shall receive a step increase on July 1 of the same year. New employees hired January 1 or later of a given year will not receive a step increase until July 1 of the next year.
+1.03 Movement across the steps within a classification shall not be automatic and shall be contingent upon satisfactory job performance as determined by the District.
+1.04 If an employee is promoted or reclassified to a higher paying classification, the employee shall be moved effective with date of assignment to the step in the new classification that is next higher in pay than his/her present step or the first step on the new salary range, whichever pays the greater amount.
+2.	Out-of-Class Pay
+Employees temporarily assigned by the District to a higher paying classification shall assume all the duties and responsibilities of the assigned position and be considered acting out-of-classification. After five (5) consecutive workdays in such assignment an employee shall be entitled to the rate of pay that is the comparable pay step in the new classification range which provides a salary one pay step higher than the salary he/she was receiving prior to the assignment, or the rate of the first pay step of the new classification range, whichever pays the greater amount for the remainder of the assignment. NOTE: The District will change job descriptions to read "Performs related duties consistent with job description and assignment." However, the District may continue to use employees out of class as long as it complies with any applicable contract language regarding out-of-class pay.
+3.	Bilingual Clerical Differential
+Bilingual clerical staff who are required as a part of their regular, daily duties to translate or interpret from another language into English or from English into another language shall be compensated with a 4% differential while they continue to have these responsibilities. Only clerical positions designated by the District will qualify under this provision and only while bilingual duties are an integral part of the job duties.
+4.	Longevity Stipend
+An employee who meets the qualifications shall receive a longevity stipend of 2.5% of his/her annual salary paid in a single payment in December of the year he/she qualifies. Such payment shall be paid once every three years to qualified employees. To qualify, employees must be repeating on the 6th step and must have been continuously employed in a bargaining unit or confidential District position from a date prior to October 1. Qualified means any employee who is repeating at the 6th step of any salary range and has 10 or more years of continuous service with the District in a bargaining unit or confidential position.
+23
+No employee shall receive a longevity stipend more often than once in an\, year period.
+5.
+Pay Options
+5.01 Each permanent or limited term classified employee whose work
+6.
+assignment is less than twelve (12) months shall be paid on the basis ! twelve (12) equal payments. Annually, a returning employee shall be permitted to elect payment on the basis of ten (10) equal payments, I September through June. Other employees shall be permitted to elect! payment at the time they are offered employment. Once an election is I made, it must remain in effect for the current year and will remain in effl from year to year thereafter provided the selected pay option is valid fol employee’s work assignment dates.	I
+5.02 Employees who wish to change their pay option election must notify thl District in writing on or before July 15 of the new fiscal year.	I
+5.03 This article does not apply to twelve-month employees.	I
+Overtime	I
+6.01 Overtime pay for employees shall be allowed only in cases of emergency and!
+when authorized by the building principal or supervisor.	1
+6.02 Eligible employees shall be compensated at the rate of time and one-half, but ij no event shall such compensation be received twice for the same hours. !
+6.02.01 Overtime shall be paid for all assigned work in excess of eight (8) hours in a day or forty (40) hours in any workweek, except when employees work a four (4) - ten (10) workweek. In such case overtime will be paid for all assigned work in excess of ten (10) ho. in a day or forty (40) hours in any workweek.
+6.02.02 Overtime pay shall be based on the actual number of hours on dul-per day except that one and one-half hours of overtime will be guaranteed in instances where an employee is called back to work, For the purpose of computing overtime, all hours an employee actually works plus unworked holiday and vacation hours shall be credited as time worked in computing total work period hours.
+6.03 Notwithstanding the provisions of sections 2.01 and 2.02 above, an eligible employee at his or her discretion with the concurrence of the District will be granted compensatory time off in lieu of pay for overtime worked. Compensatf time off shall be computed at the rate of time and one-half for all overtime work!
+6.04 In the event that sufficient acceptable personnel do not accept overtime on a voluntary basis or in the event of an emergency, such additional personnel, as are deemed necessary by the District, shall be required to work overtime.
+6.05
+To the extent determined feasible by the District's supervisors, employees will N provided advance notice of overtime assignments.
+7.
+Shift Differential
+The District agrees to provide shift differential compensation to employees working four (4) or more hours of their scheduled working shift after 5 p.m. and before 5 a.m. Such
+24
+compensation shall be four percent (4%) per month greater than their regular monthly salary.
+8.	Reporting Time
+8.01 Bus drivers who report for scheduled trips and the trips are canceled shall receive reporting time pay of one hour at their regular rate of pay. When bus drivers report for trips on non school days and the trips are canceled, the drivers affected will receive reporting time pay of two (2) hours at their regular rate of pay. When bus drivers are scheduled for trips on non-school days and do not receive a cancellation notice by the close of the previous business day (5 p.m.), the drivers affected will receive cancellation pay of one hour at their regular rate of pay.
+8.02 Any employee who is called back to work outside his/her scheduled work shift and is not required to work after reporting shall receive reporting time pay of one hour at his/her regular rate of pay.
+8.03 The benefits set forth in 8.01 and 8.02 shall not apply to trips scheduled on school days when employees are notified prior to reporting that their services are no longer necessary.
+8.04 Any employee who is called back to work without an eight-hour break from the end of the last shift worked shall be paid at the overtime rate for half of the hours of the additional shift (e.g. four hours of an eight-hour shift.).
+9.	On-call Pay
+An employee who is required by his/her supervisor to remain on call and available for work outside of his/her regular shift, and is required to report immediately when contacted by his/her supervisor, shall be paid two (2) hours at his/her regular rate of pay for every 24 hour period and four (4) hours for every weekend period (Friday at 5 p.m. until 8 a.m. Monday morning). The first time the employee is required to report to work, the time worked shall be applied to the two (2) hours (per 24 hour period) or four (4) hours (per weekend). The employee shall receive additional pay on the first time he/she reports only if the time exceeds two (2) hours. Call-back provisions shall apply to all subsequent times he/she must report. All hours actually worked shall be subject to overtime provisions.
+10.	Payroll Errors
+The District, at employee’s request, will correct any District payroll error within five (5) working days of the employee’s request and submission of confirming documentation.
+11.	Work During Recess Periods
+Less than twelve (12) month employees who are brought back to work during scheduled recess periods will be paid a rate consistent with past practice. The rate will increase each year at the same rate as the salary schedule.
+25
+ARTICLE XV	INSURANCE
+1.	The District shall contribute the following dollar amounts each month toward the purchl of family health, family dental, life and optical benefits for full-time employees:	I
+Insurance year 2002-03 - $550 per individual full-time (6-8 hour) employee	I
+Insurance year 2003-04 - $625 per individual full-time (6-8 hour) employee	I
+Employees may elect an insurance benefit package from the District’s programs offerel
+2.	For employees working 4 to 5.99 hours per day, the District shall contribute 70.0% of th] amount paid for 6 to 8 hour employees. Part-time employees may select from the I following options in order to maximize insurance monies:	I
+•	Full insurance package	I
+•	Family medical only	]
+•	Family dental/employee optical/family vision (for HMO	participants	only)	/Standard I
+Life/Standard LTD	I
+•	Routine physical examination (every 24 months)	i
+•	any PPO or managed care options established by mutual	agreement of	the	parties. *
+3.	The difference, if any, between the cost of the insurance package chosen by the I employee and the District contribution shall be paid by the employee through a payroll I deduction.
+4.	All classified employees who are scheduled to work at least 20 hours per week and whc elect to participate in the insurance plans are eligible to purchase the routine physical examination benefit, which provides a routine physical examination every 24 months.
+5.	Retiring employees may elect to continue participation in District group insurance plans, single, two party or family rate, at their own expense, in accordance with state law, insurance company rules, and District procedures.
+26
+
+ARTICLE XVI
+EMPLOYEE ASSISTANCE PLAN
+The District will provide an Employee Assistance Plan (EAP) which allows employees to refer themselves confidentially to the EAP provider. The Plan shall allow seven (7) visits to the provider annually. To protect confidentiality, any data which the provider transmits to the District shall be summary only.
+
+27
+ARTICLE XVII	SENIORITY, VACANCIES and TRANSFERS
+J
+1.	Seniority	a
+1.0	1 Seniority, as used in this Agreement unless otherwise specifically stated, shall® mean an employee's total length of continuous service with the District since ■ his/her last date of hire. All authorized leave shall be considered as continuoj employment for the purpose of computing seniority. An employee shall lose a|B seniority credit in the event of voluntary or involuntary termination. An employ® who is laid off and who is subsequently reinstated, shall have his/her full senioiw earned prior to layoff restored, but shall not earn seniority during his/her layoff H status.	■
+1.0	2 Seniority within job classification shall mean an employee's total length of	H
+continuous service in a designated job classification since his/her date of	H
+appointment to that job	classification.	H
+2.	Job	Openings Notifications	■
+2.0	1 The District will post job opening notices in District buildings on designated S bulletin boards and will send said notices to the Association. Such a job openim notice must be posted for seven calendar days and will have a closing date ofn« less than seven calendar days from the date of notice. Each location supervise B will designate a person to post, date and initial said notices. During the summei ■ said notices will be sent to the home addresses of employees requesting, in I writing, prior to June 1 of each year that such notices be so sent. Applications i submitted after the closing date but before screening is completed will be ■ I considered by the District.	,|
+2.0	2 Bargaining unit employees shall be eligible to apply for any vacancy in the n bargaining unit that becomes available. Employees may also apply for vacant ; confidential positions which will be posted by the district as well as any	r
+supervisory positions which are posted by the district. Positions which are	'
+outside the bargaining unit are not subject to the conditions contained in paragraph 3 of this article nor any other classified contract terms and conditions
+3.	Vacancies
+3.01 When a vacancy occurs or a new position is created within the District in the un an employee who is part of that unit may apply for the open position. The applications of qualified present employees shall be considered first. The supervisor(s) will prepare an interview list of not less than three (3) current employees (if that number of qualified current employees have applied) for interviews by the appropriate personnel. Should none of the initial round of interviewees be selected, the District will interview additional qualified current employees. No outside applicants will be interviewed before all applicants who are current employees qualified for the position. If two or more qualified presen employee applicants are otherwise equally qualified in the District's judgment, fi consideration shall be given on the basis of applicable job classification seniorit The District retains the sole right to determine the person selected to fill a vacancy and its decision shall not be subject to arbitration.
+28
+»
+I z______ C7 v z-v \ _ Ck A _
+3.02 Job opening notifications shall state job title, minimum job responsibilities, qualifications, pay range and building location. In the custodial department, building location will be tentative. Custodial employees seeking a lateral change in assignment may communicate the request in writing to the supervisor. No assignments will be made without first consulting the list of those requesting transfers to the work site in question. Custodians will not be involuntarily transferred to another work site or work shift unless the District deems there are good and sufficient reasons
+3.03 In the event an employee is not selected, the District, upon employee request, shall furnish the employee with the reason(s) for the denial.
+3.04 An employee not hired for a position for which he/she has applied shall receive a notice the position has been filled.
+3.05 In-District applicants may request a screening interview with Human Resources. Such screening interview will be for the purpose of assessing the employee's qualifications for the position and to assist Human Resources in referring for a position.
+4.	Transfers
+5.
+I
+6.
+An employee who has completed his initial probationary period may initiate a request for transfer to another position. Such request shall include the specific position(s) desired.
+Involuntary Transfer
+When an employee is being transferred, notice will be given to the employee as soon as reasonably possible. The employee may request to discuss the reasons for the transfer with the Human Resources administrator.
+Probationary Period
+6.01 All Probationary Employees - The parties recognize that the six (6) month probationary period is an integral part of the employee selection process and provides the District with the opportunity to upgrade and improve operations by observing an employee’s work, training, and aiding employees in adjustment to their positions, and by providing an opportunity to reject any employee whose work performance fails to meet required work standards.
+6.02 New Hire Probationary Employees - Every new employee hired into the bargaining unit shall serve a probationary period of six (6) months.
+The District has the right to terminate new employees on a probationary status without cause after written notice that shall give reason(s) for the decision to terminate.
+6.03 Current Employees Hired into a Different Classification - Employees hired into a different classification shall serve a probationary period of six (6) months in the new classification. During this period the employee shall with all the rights and privileges of the bargaining unit. The Association also recognizes the right of the District to return an employee on probationary status in a different classification to his/her previous position or classification if, in the District's judgment, his/her work performance fails to meet required work standards or the employee requests that he/she be returned to his/her former position or classification. The District will notify an employee whose job performance is unsatisfactory and give the
+29
+employee an opportunity to improve their performance before remo employee from the probationary position. The Association recog niz the District does not have to meet a just cause standard in order to r the probationary employee to his/her previous classification.
+ARTICLE XVIII
+LAYOFF and RECALL
+1.	Definitions:
+
+►
+1.01 Layoff - a permanent reduction in the District's work force.
+1.02 Any reduction in hours that negatively affects an employee's District insurance contribution shall be considered the same as a layoff or permanent reduction in force and shall entitle the affected individual to the same treatment as an employee whose permanent position has been eliminated.
+1.03 Qualifications - the minimum standards of performance required by the District, as per District job description and any special occupational skills.
+1.04 Bump - the displacement of one employee by another employee with greater seniority.
+1.05 Classification - the specific title to which an employee is assigned based on the District's classified employees' classification schedule.
+1.06 District Seniority - based on continuous employment with the District since original date of hire without a break in service.
+1.07 Classification Seniority - based on date an individual was hired into classification presently held without a break in service.
+1.08 Break in service - voluntary or involuntary termination of one's employment status with the District excluding paid leaves, authorized unpaid leaves and periods of layoff.	.
+1.09 Special Occupational Skills - "Special occupational skills" shall refer to those skills and abilities, acquired either as a result of on-the-job training or formal training, that allow the employee to perform part of the job description or significantly enhance performance of the job currently occupied, and which could not be acquired by a replacement employee without special training or on-the-job training within the first ten (10) days of placement into the position. Examples are licensure for application of pesticides/herbicides by a grounds worker; bilingual language facility by an instructional assistant; skills necessary to act as a vocational trainer.
+If the District determines the need for a permanent reduction in its work force, as soon as practicably possible, written notice of not less than thirty (30) calendar days shall be provided to employees to be laid off. While the District reserves the right to determine positions to be eliminated, layoffs within each affected job classification shall be determined by the District as follows: employees shall be laid off within each affected job classification according to district seniority except in case of operational needs for special occupational skills. Where district seniority dates are the same, classification seniority shall apply. Ties of classification seniority shall be broken by lot.
+Prior to layoff or displacement of employees through the bumping process, the district will place affected employees in existing vacancies within the same classification. Qualified employees will be offered positions with the same number of permanent hours first, positions with up to one additional permanent hour second, and positions with a fewer number of permanent hours last.
+If there are no permanent vacancies in his/her classification, an employee scheduled for layoff may, using District seniority, bump the least senior employee in the same classification provided he/she is qualified to perform the duties of the position and the number of permanent hours assigned to the new position is not greater than he/she is currently assigned on a permanent basis. An employee may elect the option of layoff in lieu of bumping an employee who is assigned fewer permanent hours or if the placement results in the loss of eligibility of benefits.
+31
+5.	If there are no remaining positions in the current classification with the same number c permanent hours, an employee scheduled for layoff may, using District seniority, bumf the next lower classification or the lateral classification in which he/she most recently h permanent status provided he/she is more senior than the employee being bumped an qualified to perform the current duties/responsibilities of the lower or lateral classificatk required. An employee may elect the option of layoff in lieu of bumping an employee w is assigned fewer permanent hours.
+6.	Employees laid off shall be placed on a layoff list by District seniority and be recalled, according to such list as openings in their classification or a previously held lateral or Io classification for which they are qualified become available. No permanent employees shall be laid off within a job classification until all probationary employees in such I classification have been removed unless, in the District's judgment, a deviation from thij process is reasonable based on special occupational skills.	I
+No employees will be hired into a classification from which employees have been laid ol while qualified employees remain on the layoff list for that classification.	I
+Qualified employees on layoff status will be considered in-district applicants when appll for positions in a classification not previously held.	fl
+In the event of recall, the Board shall notify a member of recall by registered letter at thl last address given to the Board by the employee. An employee shall have fifteen (15)1 calendar days from receipt of the letter to notify the Board of his/her intent to return and! must be able to return within fifteen (15) calendar days of letter of intent.	I
+7.	Nothing in this article is intended to preclude the District and the Association from mu™ agreeing to allow bumping rights to senior employees who do not meet the specific cf'1 set forth in section 4 of this article.	i
+7.0	1 Layoff Benefits - The Board shall provide for laid off employee insurance bem for thirty (30) days following layoff. Employees on the recall list may contmui insurance at the group rates at their own expense.	Il -T
+7.0	2 All benefits to which an employee was entitled at the time of his/her layoff will restored to him/her upon his/her return to active employment, and he/she will placed on the proper step of the salary schedule.
+8.	Layoff status shall automatically terminate if any one of the following occurs:
+8.01 An employee is not recalled within twenty-seven (27) months from the effect® date of such layoff.
+8.02 An employee fails to accept a position offered in the same or a previously hel|| ~ lateral or lower classification provided the number of hours is equal to or grew than he/she was working at the time of layoff.	*
+8.03 An employee fails to timely respond to recall, the maximum being fifteen (15)|| calendar days from the date of a certified letter sent to the employee. fl| •
+9.	The classifications of Instructional Assistant and Special Program Instructional As
+and 2 will be considered as a single classification for layoff and bumping consideral purposes.
+Library Media Assistants, who have worked in the District as Instructional Assistanl scheduled for layoff, bump less senior Instructional Assistants.
+32
+The classifications of School Bus Driver and Special Program Driver will be considered as a single classification for layoff and bumping consideration purposes.
+The District will make every reasonable effort to place permanent employees who are scheduled for layoff and who do not have bumping rights under other provisions of this Article into vacant positions for which they are qualified. In such case the normal procedures shall not apply.
+10.	Upon request, the District shall provide the following information to an authorized representative of SKACE:
+10.01 A current seniority list.
+10.02 When layoffs have been completed, a list of bargaining unit members who have been laid off to include the employees'job classification(s).
+33
+ARTICLE XIX
+SAFETY/FIRST AID TRAINING
+The District shall provide a safe and healthful working environment for all employees as defined by OSHA standards and by state and federal regulations. A grievance may be filed to enforce this section; however, such a grievance shall be void if the employee or Association files a complaint or suit to enforce same requirements through state or federal agencies or courts.
+1.	Protective Equipment
+Proper safety devices and clothing shall be provided for all employees engaged in work where such devices are required to meet the requirements of state or federal regulations or district policy. Protective clothing and safety devices shall remain the property of the District.
+2.	The District will provide training regarding Bloodborne Pathogens to classified staff whose job responsibilities involve potential exposure to blood or other infectious materials. Inoculations, protective clothing and equipment will be made available to employees in accordance with the provisions contained in the District's Bloodborne Pathogens Exposure Control Plan.
+3.	Physical Examinations
+The District will pay the cost of required physical examinations and other required medical tests but not medical treatment. The district will establish standards for such physicals and the district reserves the right to designate the facilities where required medical tests will be conducted. Payment, if required, shall be remitted directly to the physician upon validation of the examination. If available to the District and upon the employee's request, a copy of the examination will be given to the employee at no cost.
+4.	The District, when requiring training in safety and first aid for classified employees, will do so at no cost to the employee.
+5.	Classified staff shall be informed within thirty (30) days after being assigned to a student who has a behavioral management component to his/her IEP in one of the situations listed below:
+5.01 Special Programs Instructional Assistant 2 assigned to Resource Rooms or selfcontained special education classrooms or;
+5.02 Assigned one-to-one to a specific handicapped child for transportation or in other classrooms;
+5.03 Special Programs Driver
+These classified staff shall be provided with specific information of known behavior patterns of these students and given suggested strategies and training or in managing those behaviors.
+34
+ARTICLE XX
+PERSONNEL FILES
+1.	The official file of each employee is confidential and shall be kept in the District Human Resources office.
+2.	No material derogatory to an employee's conduct, service, character, or personality will be placed in the employee's personnel file unless the employee has had an opportunity to review the material. The employee will acknowledge that he/she has had the opportunity to review such material by affixing his/her signature to the copy to be filed, with the express understanding that such signature in no way indicates agreement with the contents thereof. The employee also will have the right to submit a written answer to such material and his/her answer will be attached to the file copy.
+3.	Letters of caution, consultation, warning, or reprimand shall be considered temporary contents of any employee's personnel record and upon employee request shall be removed and destroyed three (3) years after being placed in the record, if the employee has maintained a clear record during those three (3) years.
+4.	An employee may have access to review his/her file during regular District office hours. An employee may be excused from regular duty for this purpose at the discretion of the supervisor. If the employee desires, he/she may have an Association representative present.
+35
+ARTICLE XXI	NONDISCRIMINATION
+All practices, procedures and policies of the school system shall clearly demonstrate that there is no discrimination in the hiring, training, assignment, promotion, transfer, or discipline of members or in the application or administration of this Agreement on the basis of standards protected by state or federal law and to include specifically race, religion, color, sex, national origin, marital status or age.
+A grievance may be filed to enforce an employee's rights under this article; however, such a grievance shall be void if the employee files a complaint or suit to enforce the same rights through state or federal agencies or courts.
+36
+ARTICLE XXII	INSERVICE PARTICIPATION
+Notice of requirement for planned inservice participation shall be provided to affected employees as soon as practical, but not less than seven (7) calendar days, prior to the date of such inservice meeting. The District agrees to cooperate with SKACE in developing relevant inservice opportunities for classified employees on statewide inservice day.
+Employees not regularly scheduled to work on the October inservice day will be notified by the start of the school year if they will be required to participate in training on the October inservice day.
+37
+ARTICLE XXIII	STAFF DEVELOPMENT
+The District will provide the following amounts for classified staff development activities:
+2002-03	$40,000
+2003-04	$45,000
+The District will develop and administer guidelines for the use of these staff development funds through a classified employees' development committee composed of three (3) members appointed by the SKACE President and three (3) appointed by the District. In addition, the District will form an ad hoc committee to study the implementation of requirements established by ESEA federal legislation passed December, 2001, and implementing regulations, and any requirements for staff development necessitated by such legislation. The committee shall report to SKACE and the District no later than March 31, 2003.
+38
+ARTICLE XXIV
+GRIEVANCE PROCEDURE
+1.	Definitions:
+Grievance: A claim by an employee or group of employees based on the interpretation or application of this Agreement. (The Board maintains a separate "Complaint Procedure" for resolution of all issues involving Board policy).
+Aggrieved: The employee, group of employees or the Association that alleges a violation of this agreement.
+Days; Working days. Weekend or vacation days are thus excluded.
+Immediate Supervisor: The individual who has the administrative authority to resolve the grievance.
+Employee: Any member of the bargaining unit.
+2.	General Provisions Related to Grievance Procedures:
+2.01 Whenever possible, grievances will not be heard during the working hours of the aggrieved. However, should investigation or processing of any grievance require that an employee be released from his/her regular assignment, the employee shall be excused without loss of pay or benefits.
+2.02 The Board acknowledges the right of the aggrieved to have the Association grievance representative and/or legal counsel present in the processing of a grievance at all levels, and no employee may be required to discuss any grievance without such representation and/or counsel.
+2.03 All documents, communications, and records dealing with the processing of a grievance shall be filed in the grievance file, which shall be maintained apart from the personnel file, along with any statement the employee may wish to make.
+2.04 Nothing contained in this grievance procedure shall prevent any individual from initiating a grievance against the District even though the Association may not support him/her. The number of days indicated at each step shall be considered as maximum. Time limits may be extended by mutual consent of both parties. The parties shall make every reasonable effort to expedite the processing of grievances filed near the end of the school year.
+2.05 Procedures may terminate at any level if the complainant so indicates in writing or fails to pursue his/her complaint within the specified time limit. Such termination shall be without prejudice and shall not establish precedent for future grievances.
+2.06 The Association may be present at all levels of the grievance procedure.
+2.07 In accordance with the Association's responsibilities to provide fair representation for all employees, at the Association's request the District will provide to the Association information needed to process each grievance, providing the Association will pay the cost of preparing materials not readily available.
+39
+1 r
+11
+2.08 No reprisals of any kind shall be taken by the Board or by any member of the administration against any party in interest, any representative, any member of the Association or any other participant in the grievance procedure by reasons of participation.
+3.	Levels of Grievance Procedures:
+Informal Discussion: Within thirty (30) days of the time the aggrieved first had knowledge, he/she will discuss the grievance with the immediate supervisor, with the objective of resolving the matter informally.
+3.01 Level One: If the aggrieved is not satisfied with the disposition of his/her grievance, he/she may file a written grievance with his/her immediate supervisor. If the written grievance is not filed within ten (10) days after the informal decision, the grievance shall be considered as waived. This written grievance shall set forth the specific grounds upon which the complaint is based, the contract clauses involved, and the remedy requested. The immediate supervisor shall communicate his/her decision in writing within ten (10) days to the aggrieved.
+3.02 Level Two: If the aggrieved is not satisfied with the disposition of his/her grievance at Level One, or if no decision has been rendered within ten (10) days after the written grievance was delivered to the immediate supervisor, the aggrieved may within ten (10) days submit the grievance in writing to the Director of Human Resources. This written grievance shall set forth the specific grounds upon which the complaint is based, the contract clauses involved and the remedy requested. The Director of Human Resources or his/her designee shall communicate his/her decision in writing within ten (10) days to the aggrieved.
+3.03 Level Three: If the aggrieved is not satisfied with the disposition of his/her grievance at Level Two or if no decision has been rendered within ten (10) days after the grievance was delivered to the Director of Human Resources, the aggrieved may, within ten (10) days request in writing that the Association submit the grievance to arbitration. If the Association so determines, it may submit the grievance to arbitration within fifteen (15) days after receipt of a request by the aggrieved. A copy of such request shall be delivered to the District.
+Within ten (10) days after such written notice of submission to arbitration, the Board and the Association shall attempt to agree upon a mutually acceptable • arbitrator and shall obtain a commitment from said arbitrator to serve. If the parties are unable to agree upon an arbitrator or to obtain such a commitment within the specified period, a request for a list of arbitrators may be made to the Employment Relations Board (ERB) by either party.
+The parties shall then be bound by the rules and procedures of ERB. The arbitrator so elected shall confer with the representatives of the Board and the Association, and hold hearings promptly and shall issue a decision. The arbitrator's decision shall be in writing and shall set forth findings of fact, reasoning, and conclusions on the issues submitted. The arbitrator shall have the power only to interpret this Agreement and determine if it has been violated. The decision of the arbitrator shall be submitted to the Board and the Association, and shall be final and binding on both parties.
+40
+4.
+General provisions related to Arbitration:
+4.01 The cost for the services of the arbitrator, including per diem expenses, if any, and actual and necessary travel, subsistence expenses, and the cost of the hearing shall be borne equally by the parties.
+4.02 No issue whatsoever shall be arbitrated or subject to arbitration unless such issue results from an action or occurrence which takes place following the execution date of this Agreement, and no arbitration determination or award shall be made by the arbitrator which grants any right or relief for any period of time whatsoever prior to the execution date of this Agreement.
+4.03 Except as otherwise provided by law, an employee shall invoke and exhaust the grievance procedure remedies before resorting to any other legal or administrative remedies of the conduct complained of and failure to do so shall preclude resort to such other remedies.
+I
+41
+ARTICLE XXV
+RECLASSIFICATION
+1.	The Reclassification Committee will consist of three (3) members and at least one (1) alternate appointed by the Association President and three (3) members and at least one (1) alternate appointed by the District. That committee will determine an appropriate salary range for any new job titles. The Committee shall develop guidelines for any reclassification of existing positions and shall be the final authority on requests for reclassification.
+2.	New positions:
+In the event a new position is established, the Reclassification Committee will establish a placement on a salary range and shall notify the Association of this placement, together with a copy of the job description. If the Association wishes to bargain over this placement, the Association President will contact the Human Resources Director in writing within thirty (30) calendar days. The last week of June through the first week of August will not count in the calculation of this time period. The District will then enter into good faith bargaining with the Association for purposes of determining a range placement, and any agreement reached shall be retroactive to the date the new position was first filled.
+3.	The District retains the prerogative to develop and modify job descriptions.
+42
+e
+ARTICLE XXVI
+TRANSPORTATION OF STUDENTS IN PERSONAL VEHICLES
+1.	Any employee required to transport students or others in his/her personal vehicle as a regular part of his/her job shall be notified in writing by the District of this requirement. Other employees may be required to transport students or others in their personal vehicle in an emergency.
+2.	Those employees who use their personal vehicle for the transportation of students or others shall be given a copy of all relevant District policies on such transportation. The District shall defend and indemnify the employee for any vehicular accident which happens while an employee is using his/her personal vehicle for the transportation of students or others.
+3.	The District shall pay the reasonable attorney fees and court costs of any employee who prevails in a suit against the District for refusing to meet its obligations under the Oregon Tort Claims law.
+4.	Those employees who use their personal vehicles to transport students in emergency situations shall receive all benefits of this article.
+5.	The District shall not require any employee to purchase any insurance on his/her personal vehicle beyond that required by law.
+43
+ARTICLE XXVII
+ADMINISTRATION OF MEDICATION/MEDICAL PROCEDURES IN THE SCHOOLS
+1.
+2.
+Employees who are required to administer medications/medical procedures to students shall be given a copy of all relevant policies of the District and a summary of District obligations to indemnify employees.
+No employee shall be required to administer medications or perform any medical procedures unless the following conditions are met:
+2.01 The student’s parent or guardian has given the District written consent for the administration of medication.
+2.01.01 The employee has been given instruction from qualified medical personnel regarding prescription medication or medical procedures.
+2.01.02 In the case of non-prescription medication, the parent has given written instructions for administering the medication.
+2.01.03 Before the employee administers the medication/medical procedures, the employee shall have access to and shall follow the instructions referred to in 2.01.01 and 2.01.02 above.
+2.02 All medical assessments or tasks requiring specialized procedures are assigned to only trained employees.
+2.03 All employees required to administer medication/medical procedures have been given training necessary to perform the task.
+2.04 The equipment and medical supplies necessary to safely perform the task are available.
+44
+ARTICLE XXVIII
+FAIR SHARE AGREEMENT
+1.	To assure that employees covered by this Agreement are adequately represented by the bargaining agent, the District shall deduct an amount each month from the pay of each employee who is not a member of the Association as a Fair Share fee. The Fair Share amount shall be the annual dues charged by the official bargaining agent and its affiliates. It is the intent of the parties that this clause be administered so as to comply with applicable statutes.
+2.	An employee who has not requested payroll deduction of Association dues under this Agreement and who has not certified to the District that he/she has paid dues directly to the Association shall be subject to the provisions of this ARTICLE. Such request for payroll deduction or certification of direct payment of dues shall be made by the fifteenth day of the month prior to the month in which the deduction is to be made.
+3.	The Association agrees to hold the District harmless against any and all claims, suits, orders, or judgments brought against the District as a result of the provision of this article.
+♦
+45
+ARTICLE XXIX
+TRANSPORTATION ASSSIGNMENTS
+1.	All current regular bus drivers and standby drivers will have the opportunity to bid by seniority on all bar chart assignments during the district scheduled bidding period in August. Drivers who are not present for the bidding will be assigned a route by the Director of Transportation and/or designee.
+2.	All current special program bus drivers will have a separate bidding scheduled in August. Drivers who are not present for the bidding will be assigned a route by the Director of Transportation and/or designee.
+3.	Any vacancy of five (5) or more hours which occurs after the August bidding will be posted not later than October 15. Vacancies will be posted for 5 working days. Vacancies occurring between April 15 and the end of the year will not be posted. Vacancies will be filled as soon as possible after the closing date of the posting.
+3.01 All regular and qualified special program and standby drivers may apply for any vacancy which occurs between September and April 15 without loss of seniority.
+3.0.2	Training will be provided to any driver between the August bidding and the
+_	beginning of the school year for license updating or renewal according to one's
+current assignment and classification.
+3.03 Selection of special program drivers will be made on the basis of seniority according to one's qualifications for the position. Drivers will be given an opportunity no less than once a year to indicate an interest in being appointed a special program driver. Selection decisions made by the district relating to an individual's qualifications for a position shall not be subject to arbitration. Drivers not chosen for special program positions will, upon request to the Transportation supervisor(s), be provided with an explanation of the selection decisions.
+3.04 Standby positions will be posted and any driver with over three years as a driver in the District may apply. The most senior driver who applies and meets the criteria listed below will be offered the standby position. Any driver more senior than the chosen driver may request an explanation as to which of the criteria the senior driver failed to meet. A new standby driver must serve a probationary period of sixty (60) school days as a standby driver. During that probationary period, either the driver or the District may elect to return the driver to his/her driving assignment in his/her previous area with at least the same hourly bar chart time as the driver held prior to accepting the standby job. Temporary standby positions can be established for up to 45 days, after which the standby positions will be posted and filled according to the criteria listed below.
+Those selected for standby positions must meet the following criteria: 3.04.01 Good attendance and punctuality history.
+3.04.02	Demonstrate a willingness and ability to drive all District buses.
+3.04.03	Demonstrate a willingness and ability to operate and/or secure all
+Specialized Transportation equipment, including student mobility and, support materials.	-
+3.04.04 Demonstrate the ability to describe a path of travel the bus would use between two designated locations.
+46
+c~; \	\ Cm
+3.04.05 Demonstrate the ability to drive a bus following written run directions over a designated course within prescribed timelines.
+4.	All drivers will be given the opportunity to remain qualified for a bus driver certificate which allows them to drive the maximum weight bus that the District has in its fleet.
+5.	Trip and Shuttle Assignments
+Trips will be divided as equitably as possible among all current regular, standby and special program drivers in order to provide an opportunity for all drivers to attain a 30 hour week schedule. A duty roster by seniority will be set up to accomplish the assignment of trips. Trip assignments are subject to the provisions of Article XIV, Rates of Pay, Sub-section 6, related to overtime.
+5.01 Rules governing trip and shuttle assignments will be outlined in the District’s Transportation Procedures Manual.
+.5.01.01 Rules governing trip and shuttle assignments cannot be changed without the agreement of both parties as acknowledged in a Memorandum of Understanding.
+5.01.02 All rules governing trip and shuttle assignments contained in the District‘s Transportation Procedures Manual are subject to the provision of Article XXIV, Grievance Procedures.
+5.02 Rules governing trip and shuttle assignments contained in the Transportation Procedures Manual will be made available to drivers upon request.
+5.02.01 Trips are defined as those driving duties transporting students and/or staff for the purposes of curricular and non-curricular activities. Trips will be greater than 2 hours in length.
+5.02.02 Shuttles are generally scheduled for 2 hours or less within the District.
+5.02.03 An emergency assignment is defined as a request for a trip with less than 24 hours notice and a trip assigned to a driver with less than 24 hours notice.
+5.03 Regular bus drivers who lose time off the bar chart will be given preference for trip assignments until the lost time is made up.
+5.04 An up-to-date seniority list will be posted in the driver's lounge at all times.
+5.05 Overnight Weekend Trips
+5.0	5.01 On weekdays, including Friday, of an overnight trip, drivers will not earn less than their bar chart time.
+5.0	5.02 Trip hours which extend through the weekend including Saturday and Sunday will be calculated as follows:
+When Saturday is not the last day of the trip, drivers will be paid for eight (8) hours or the actual hours worked if over eight (8).
+If Saturday or Sunday is the last day of the trip, drivers will be paid only for hours actually worked.
+47
+6.	Establishing Seniority
+6.01 All bus drivers are credited with current seniority.
+6.02 Changes in classification shall only occur with open positions from September through April 15.
+6.03. There will be no loss of seniority when moving between the classifications of bus drivers (school bus driver, standby driver and special program driver).
+7.	Driver Clock Time
+Drivers who have completed their driving assignment and related duties at any point during the workday must sign off the time clock upon returning to the Transportation center. If there is less than 15 minutes before their next assignment begins it is not necessary to sign off the time clock.
+8.	Insurance for Transportation Employees
+Transportation employees* who meet the minimum number of work hours shall qualify for the full insurance package for the next pay period as if they were assigned six hours.
+8.01. The minimum number of work hours to qualify is established for the month by multiplying the number of work days available times six. Days in which an employee is on paid leave will not count as a day available. Employees assigned to more than four hours on their bar charts but less than six who accrue the minimum number of work hours would qualify. Trip hours do not count toward the minimum.
+8.02 Employees who qualify under the criteria above during every month of the school year from October through June shall receive insurance benefits during the summer as if they had been assigned six hours on their bar charts.
+8.03 Employees who qualify for full insurance benefits in June but who fail to qualify for full summer benefits under the annual provision in 8.02 above would receive September’s full insurance package.
+8.04 Employees covered by this provision may not switch insurance packages once one is selected for the year.
+* To include drivers, driver trainers, fuelers, dispatchers and office clericals.
+48
+ARTICLE XXX DRUG AND ALCOHOL TESTING
+•
+1.	The District and the Association jointly recognize that the use of drugs and alcohol, whether on or off the job or for so called "recreational" purposes or otherwise, which adversely affect job performance, constitutes a serious threat to the health and safety of the public, to children being transported in District vehicles, to fellow employees, and to efficient operation of the District.
+2.	It is, therefore, agreed that the District may institute drug and alcohol testing under the following guidelines:
+2.01. The District may require any new applicant for classified employment to undergo a drug and alcohol test.
+2.02. The District may institute a pre-announced uniform test program for all classified employees involved in transporting District students, so long as every employee in the bus driver job classification is required to undergo the test.
+2.03. The District may require drug and alcohol testing as part of any licensing application or renewal which requires a physical examination by state statute.
+2.04. The District may also require any current bus driver to participate in unannounced drug and/or alcohol testing if the District has reasonable cause to believe that drug or alcohol use has or may negatively affect an employee's job performance.
+3.	If the District desires to request that a bus driver participate in an unannounced drug and/or alcohol test under Section 2 (d) above, the Association shall have the right to A	notification not less that one-half hour prior to testing, and an opportunity to be present to
+▼	counsel with the employee, if the employee desires Association presence.
+4.	A refusal to comply with the District's request to take a drug and/or alcohol test under Sections 2 and 3 above shall constitute insubordination and subject the employee to disciplinary action.
+5.	In the event a bus driver tests positive, the same sample will be retested a second time by the same lab using another reliable method that is specific for the substance detected. The results of the second more specific test will be controlling and be acted upon if it conflicts with the first test.
+6.	If an employee tests positive, the employee shall be referred for appropriate treatment and counseling. Such employee shall be suspended until he or she obtains a release to return to work from the treating facility or physician. Upon return to work, such bus driver should be subject to a six working month probationary period subject to unannounced testing following the date of return to work. If the employee violates the terms or conditions of the treatment program or tests positive during such six-month period, he or she shall be subject to immediate discharge.
+7.	The District retains the right to inspect any container or locker located on its premises or in a District vehicle if it has reasonable cause to believe that such an inspection will result in the discovery of alcohol or drugs.
+8.	Possession, sale, distribution, or use of drugs or alcohol on District premises, or during assigned work hours, or in a District vehicle, including parking facilities, shall constitute A	just cause for immediate discharge.
+49
+9.
+Any disciplinary action imposed by the district will be consistent with the "just cause' language contained in this contract.
+50
+ARTICLE XXXI
+PUBLIC EMPLOYEES RETIREMENT SYSTEM PICKUP
+The District shall not withhold from employee's monthly salaries the contributions required by O.R.S. 237.071; and shall continue to "pick-up," assume, and pay a six percent (6%) average employee contribution to the Public Employees Retirement Fund for the employee members then participating in the Public Employees Retirement System. Such "pick-up" or payment of employee member monthly contributions to the system shall continue until the termination of this agreement.
+The full amount of required employee contributions "picked-up" or paid by the District on behalf of the employees pursuant to this agreement shall be considered as "salary" within the meaning of O.R.S. 237.003 (8) for the purpose of computing an employee member's "final average salary" within the meaning of O.R.S. 237.003 (12) but shall not be considered as "salary" for the purposes of determining the amount of employee contributions required to be contributed pursuant to O.R.S. 237.071. Such "picked-up" or paid employee contributions shall be credited to employee accounts pursuant to O.R.S. 237.001 (2) and shall be considered to be employee contributions for the purpose of O.R.S. 237.001 to O.R.S. 237.320.
+51
+ARTICLE XXXII
+MISCELLANEOUS
+1.	Captions
+The use of article, section, or paragraph headings throughout this Agreement is intended for easy reference only and shall not be construed to enlarge on, limit, diminish, or in any way modify the terms or conditions thereof.
+2.	Entire Agreement
+The parties acknowledge that during the negotiations which resulted in this Agreement each had the unlimited right and opportunity to make demands and proposals with respect to any subject or matter not removed by law from the area of employment relations, and that the understanding and agreements arrived at by the parties after the exercise of that right and opportunity are set forth in this Agreement. This Agreement constitutes the sole and entire existing agreement between the parties and completely and correctly expresses all of the rights and obligations of the parties. All prior agreements, conditions, practices, customs, usages, and obligations are completely superseded and revoked to the extent deemed desirable by the District insofar as any such prior agreement, condition, practice, custom, policy, usage, or obligation is not contained and specifically expressed in this Agreement.
+3.	Separability of Contract Provisions
+If any provision of this Agreement is held to be contrary to law, then such provision shall not be deemed valid and subsisting, except to the extent permitted by law, but all other provisions shall continue in full force and effect. Upon request of either parties, the parties agree to meet at a mutually agreed upon time and negotiate over a replacement provision.
+4.	Duration
+This contract shall be in effect as of July 1,2002 except those provisions of the contract which have been assigned other effective dates as herein set forth and shall remain in full force and effect to and including June 30, 2004. Either party may notify the other party prior to the first day of January, of the year in which the contract is due to expire, its desire to amend, modify, or terminate this contract.
+5.	Compliance
+Any individual contract between the Board and an individual employee heretofore or hereafter executed shall be subject to and consistent with the terms and conditions of this Agreement. If an individual contract contains any language inconsistent with this Agreement, this Agreement, during its duration, shall be controlling.
+52

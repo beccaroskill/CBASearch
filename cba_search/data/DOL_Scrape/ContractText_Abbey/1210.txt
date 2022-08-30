@@ -1,0 +1,849 @@
+﻿BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: General Contractors Association of New York, Inc. and Building, Concrete, Excavating & Common Laborers Union (LIUNA), AFL-CIO, Local 731 (2002)
+K#: 8448
+Employer Name: General Contractors Association of New York, Inc.
+Location: NY New York
+Union: Building, Concrete, Excavating & Common Laborers Union (LIUNA), AFL-CIO
+Local: 731
+SIC: 1794
+Sector: P
+Effective Date: 07/01/02
+Number of Pages: 78
+NAICS: 23891
+Number of Workers: 3000
+Expiration Date: 06/30/06
+Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School, http://www.ilr.cornell.edu/
+KSW
+GENERAL CONTRACTORS ASSOCIATION - LABORERS 2002
+Uff'
+AGREEMENT
+Between
+MEMBERS OF THE GENERAL CONTRACTORS ASSOCIATION OF NEW YORK, INC.
+and
+BUILDING, CONCRETE, EXCAVATING & COMMOM LABORERS UNION LOCAL NO. 731
+OF GREATER NEW YORK, LONG ISLAND AND VICINITY OF THE LABORERS' INTERNATIONAL UNION OF NORTH AMERICA, AFL-CIO
+JULY 1, 2002 - JUNE 30, 2006
+INDEX
+ARTICLE I	- Purposes - Declaration of Principles .....................1
+Section 1	- Purposes............................................1
+Section 2	- Declaration of Principles...........................2
+ARTICLE II	- Jurisdiction ...........................................4
+ARTICLE III	- Union Security - Union Visitation ......................4
+Section 1	-	Union Security......................................4
+Section 2	-	Pre-Job Conference..................................5
+Section 3	-	Subcontractors and Business	Entities...............6
+Section 4	-	Shop Stewards.......................................8
+Section 5	-	General Foreman and Foreman	of Laborers............10
+Section 6	-	Apprentice (s).....................................11
+Section 7	-	Union Visitation...................................12
+ARTICLE IV	- Disputes ...............................................12
+Section 1	-	No Lockout - Strike - Work Stoppage................12
+Section 2	-	Procedures of Grievance - Arbitration..............13
+Section 3	-	Finality of Decision...............................16
+Section 4	-	Status Quo ........................................17
+Section 5	-	Arbitrator Expenses................................17
+ARTICLE V	- Jurisdictional Disputes ................................17
+Section 1	- No Work Stoppage..................................17
+Section 2	- Heavy Construction Industry Jurisdictional Panel ...17
+ARTICLE VI	- Work Jurisdiction .....................................18
+A.	Excavation and Foundation Work for Buildings................18
+B.	Landscaping in Connection with Building Projects............24
+C.	Heavy Construction and Engineering Work.....................25	,
+D.	Landscaping in Connection with Heavy Construction and Engineering Work ...............................................34
+ARTICLE VII	- Wages and Conditions ..................................36
+Section	1	-	Hours of	Work.................................36
+Section	2	-	Shifts, Varying	Shifts, Varying Lunch.............36
+Section	3	-	Overtime	and Holidays.........................38
+Section	4	-	Wages.........................................41
+Section 4.1 - Payment of Wages by Check........................41
+Section	5	-	Conditions....................................42
+Section 6	- Use of Intoxicant or Illegal Drug.................44
+Section	7	-	Drug Testing	Clause...........................44
+ARTICLE VIII	.......................................................45
+Section	1	- Welfare Fund......................................45
+Section	2	- Pension Fund......................................47
+Section	3	- Annuity Fund......................................49
+Section	4	- LIUNA Local 731 Training Fund.........................50	-
+Section	5(	a) - Union Membership	Supplemental Dues............51
+Section	5(	b) - Political Action	Committee....................53
+Section 5(c) - Duties of Employer To Funds With Respect To New
+Hires.....................................................54
+Section 6	- Heavy Construction Industry Fund..................54
+Section 7(a) - Summary of Hourly Wages, Fringes etc., for Laborers Other than Foremen.....................................55
+Section 7(b) - Summary of Hourly Wages, Fringes, etc., for Foremen.....................................................55
+Section 7(c) - Checkoffs.....................................  56
+Section 7	(d) - New York State Laborers-Employers Cooperation and Education Trust.............................................56
+Section 8(a) - Bonding.........................................57
+Section 8(b) - Cash Alternative to Bond........................59
+Section 9	- Method of Payment..................................60
+Section 10	- Records - Reports - Liability.....................60
+ARTICLE IX	- Work Stoppage for Default in Payment of Wage and/or Welfare, Pension and Annuity Payments................................64
+Section 1	64
+Section 2	-	Removal of Workers Upon Default	65
+Section 3	-	Arbitration	65
+Section 4	69
+ARTICLE X - Legality .................................................69
+Section 1	69
+Section 2	70
+Section 3	70
+ARTICLE XI	- Notices ................................................71
+ARTICLE XII	- Execution of Agreement .............................  71
+ARTICLE XIII	- Term of Agreement....................................71
+ARTICLE XIV	- Intent of Agreement...................................72
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+MEMBERS OF THE GENERAL CONTRACTORS ASSOCIATION OF NEW YORK, INC., ("GCA") Of 60 East 42nd Street, New York, New York, and other Employers for or on whose behalf the Director of Labor Relations of said Association has been or hereafter is authorized to execute this Agreement (hereinafter individually referred to as "Employer" or collectively referred to as "Employers)
+and
+BUILDING, CONCRETE, EXCAVATING & COMMON LABORERS UNION, LOCAL NO. 731 of GREATER NEW YORK, LONG ISLAND AND VICINITY of the LABORERS' INTERNATIONAL UNION OF NORTH AMERICA, affiliated with the American Federation of Labor - Congress of Industrial Organizations, 34 - 11/19 35th Avenue, Astoria, New York 11106 (hereinafter sometimes called "Local 731" and sometimes "Union").
+ARTICLE I
+Purposes - Declaration of Principles Section 1 - Purposes
+The purposes for which this collective bargaining agreement (this "Agreement") is entered into are as follows: (a) To prevent strikes and lockouts;
+(b)	To facilitate peaceful adjustments of grievances and disputes between the Employer, Employee and Union;
+(c)	To prevent waste, unnecessary and avoidable delays, which result in unnecessary costs and expense to the Employer and Union, and the loss of wages to the Employee;
+(d)	To enable the Employer to secure at all times sufficient forces of skilled workers;
+1
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+(e)	To provide as far as possible for the continuous employment of labor;
+(f)	To provide that employment shall be in accordance with conditions and at wages herein agreed upon;
+(g)	To bring about stable conditions in the Construction Industry;
+(h)	To keep costs of work in the Industry as low as possible
+consistent with fair wages and proper working conditions, as provided for hereunder;
+(i)	To establish the necessary procedure for amicable adjustment of all disputes that may arise.
+Section 2 - Declaration of Principles
+The parties to this Agreement believe that a Uniform Agreement, if adopted by all employers and all unions engaged in the Construction Industry, would further the interests of the Industry, and further believe that such a Uniform Agreement should contain the following Principles, upon which the parties hereby agree:
+1.	That none of the parties hereto, nor any of the representatives of any of them, shall discriminate in any manner, against any Laborer, General Foreman, ’Foreman, Steward or other individual by reason of union activity, as provided by law, race, color, creed, religion, national origin, age, sex, union membership or non-membership, marital status, disability, citizenship status, or sexual orientation.
+2.	That there shall be no limitation as to the amount of work a person shall perform during the working day, it being
+2
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+understood that workers shall perform a fair and honest day's work;
+3.	That there shall be no restriction on the use of any raw or manufactured materials, except prison made;
+4.	That there shall be no restriction on the use of machinery, tools, or appliances;
+5.	That no person shall have the right to interfere with workers during working hours;
+6.	That workers are at liberty to work for whomever they see fit, but that they are entitled to and shall receive the wages agreed upon;
+7.	That the Employers are at liberty:
+(a)	except as provided in subparagraph "1" above, to employ and discharge whomever they see fit,
+(b)	except as provided in subparagraph "1" above, to reject any job applicant referred by Local 731, and
+(c)	to be the sole judge, at all times, as to the work to be performed and whether such work performed by any workers or laborers represented by Local 731 and employed by the Employers, is or is not satisfactory.
+9.	Any past practice or custom that is a violation of the terms of this Agreement shall not be deemed a precedent and shall not constitute a waiver of the terms of this Agreement as regards to any such past practice or custom.
+3
+GENERAL COWTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+ARTICLE II
+Jur i sdi c tion
+This Agreement covers work done by the Employer engaged in NEW YORK CITY and VICINITY on EXCAVATION AND FOUNDATION WORK FOR BUILDINGS, LANDSCAPING WORK and/or HEAVY CONSTRUCTION WORK, as those terms are hereinafter defined.
+If any of the Employers engage in any class of work not embodied in EXCAVATION AND FOUNDATION WORK FOR BUILDINGS, LANDSCAPING and/or HEAVY CONSTRUCTION WORK, as those terms are hereinafter defined, they shall comply with all of the Union conditions then existing in that class of work.
+The GCA agrees to recognize and preserve traditional craft jurisdiction as set forth in the various GCA collective bargaining agreements of the Local Unions affiliated with LIUNA. This recognition is made in an effort to preserve work opportunities for Members of LIUNA Local Unions and for the GCA to oppose any efforts by any and all other unions which may seek to undermine the jurisdiction of the Laborers.
+ARTICLE III
+Union Security - Union Visitation , Section 1 - Union Security
+(a)	All employees who are members of the Union at the time of signing of this Agreement shall continue membership in the Union. The Union shall have the right to require all other employees to become members of the Union within seven (7) days following the beginning of employment or the effective date of this Agreement, whichever is later, and must maintain their membership in good standing in the Union as a
+4
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+condition of continued employment. If the provisions for Union Security clauses are modified by Congress during the terms of this Agreement, this clause will automatically become modified to conform to such changes.
+(b)	Employees covered by this Agreement shall not refuse to work with persons who, after seven (7) days employment, have complied with the Union Security provisions of this Agreement. However, employees covered by this Agreement are not required to work for any contractor who does not comply with the Union Security provisions of this Agreement. It is understood that additional Laborers secured by the employer shall be eligible for and shall comply with requirements of Union membership as set forth herein.
+(c)	If the Employer covered by this collective bargaining agreement or any such principal owner or principal forms or acquires by purchase, merger or otherwise, an interest, whether by ownership, stock, equitable or managerial, in another company, corporation, partnership, or any other business entity, including joint venture and sole proprietorship, performing bargaining unit work within this jurisdiction, this collective bargaining agreement shall cover such other operation. Section 2 - Pre-Job Conference
+Each Employer covered by this Agreement shall be required to conduct a Pre-Job Conference with the Union prior to the commencement of any job. The purpose of the Pre-Job Conference is to settle any issues regarding the interpretation of this Agreement. Should any Employer fail to conduct a Pre-Job Conference before the commencement of a job, that Employer will be presumed to have knowledge of all terms and conditions of this Agreement.
+5
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Section 3 - Subcontractors and Business Entities
+(a)	The Employer shall not enter into a contract with any other person or entity1, to perform bargaining unit work on the same job site, unless such other person or entity has signed a collective bargaining agreement with the Union on work traditionally performed by members of Local 731 or is a member of an Association which has signed a collective bargaining agreement with the union and has authorized such Association to negotiate and execute a collective bargaining agreement on its behalf.
+(b)	The terms, covenants and conditions of this Agreement shall be binding upon all subcontractors at the site to whom any of the ‘ Employers may have re-subcontracted all or part of any contract entered into by said Employer. Each of the Employers shall notify Local 731 within thirty (30) days of an award and prior to the start of work on any job or project that a subcontract necessitating employment of the Employees covered by this Agreement has been let. Included in said notification shall be the name and address of each said subcontractor as well as the location of said job or project. In the event the subcontractor is delinquent in the payment of wages due pursuant to this Agreement and/or contributions to Local 731 Funds, during the course of this project, the Employer has agreed to the following terms: If a subcontractor is more than seven (7) days delinquent in wages or thirty (30) days delinquent in required payments to the Fringe Benefit Funds, and said delinquency is attributable to work performed by the subcontractor for the Employer, the Employer shall be notified by the Funds, by certified mail, return
+’Entity defined as: partnership, firm, company, corporation or any other business entity including any joint venture or sole proprietorship which now or hereafter exist.
+6
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+receipt requested, or by overnight delivery that the subcontractor is delinquent.
+If the subcontractor is still delinquent fifteen (15) days after the Employer has been notified by the union or by the Fringe Benefit Funds, the Employer shall hold back, from any payments due to the subcontractor, an amount equal to the delinquency. In the event that the Employer is in possession of certified payroll reports filed by the subcontractor, it shall provide copies of same upon request of the Funds.
+In the event a subcontractor is delinquent in wages to its employee(s) or in benefits to the Fringe Benefit Funds, the Employer, will remit such wages to the employee (s) or benefits to the Fringe Benefit Funds, on behalf of the subcontractor, in an amount equal to the delinquency and if the employer has given Local 731 the notice required by the second and third sentence of Section 3(b) of this Article III said amount shall not exceed the amount withheld by the Employer.
+In the event the amount that is retained by the Employer and forwarded to the Funds is less than the amount owed by the subcontractor, the Funds shall not be precluded from pursuing any other remedy provided by Law against the subcontractor or the Employer.
+(c)	Each of the Employers undertakes and agrees that in addition to the surety company bond to be provided by each of them pursuant to the terms and conditions of this Agreement, each such subcontractor shall also provide for itself the surety company bond or cash alternative required of each of them under this Agreement.
+If any such subcontractor fails to provide said surety company bond to Local 731, Welfare Fund, Pension Fund, Annuity Fund and/or the LIUNA
+7
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Training Fund within five (5) days after Local 731 or any or all of said Funds makes written demand therefore of said subcontractor and the Employer of said subcontractor, said Employer shall then forthwith (a) -provide and deliver to Local 731, Welfare Fund, Pension Fund, Annuity Fund and Training Fund, a surety company bond duly executed by said subcontractor, as Principal, and the surety company writing such bond, as Surety, or (b) the unconditional undertaking and guaranty of said Employer in favor of Local 731, Welfare Fund, Pension Fund, Annuity Fund and Training Fund wherein and whereby the Employer undertakes and guarantees to make prompt payment, when due, to the Welfare Fund, Pension Fund, Annuity Fund and Training Fund of all contributions required to be paid by said subcontractor to said Welfare Fund, Pension Fund, Annuity Fund and Training Fund, with interest thereon, liquidated damages, reaSbnabl'e attorney's fees and the costs of the arbitration. If and when any of the Employers acquires a financial interest in any firm or company engaged in^ the work set forth in Article VI of this Agreement, said firm or company shall be automatically bound by the terms and conditions of this Agreement in the same manner as if it has been a signatory hereto.
+. Section 4 - Shop Stewards '
+All Employers who do the work, as set forth in this Agreement shall employ Laborers exclusively to perform such work and shall employ Laborer Shop Stewards. Where more than one Employer does Laborer work on a job site, each Employer shall employ Laborers exclusively to perform the work and each Employer shall employ Laborer Shop Stewards. Where Laborers are employed on a job, the Business Manager of Local 731 shall place a shop
+8
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+steward on all job locations who shall be the second laborer on the job.
+In the event an Employer circumvents this requirement, the Employer will be required to hire an additional Laborer who will be designated as Shop Steward. Additionally, the Steward shall have the first right of refusal on overtime. The Steward shall see to it that the classification of work as defined herein is observed and that the Employers are complying with the terms of this Agreement. The Steward shall be afforded the opportunity to perform his duties, which include, but are not limited to, checking of subcontractors, new hires, books, and payment of correct wage rates, and the receipt of laborers' reports of grievances. He shall be responsible for the maintenance of a complete monthly Steward Report. He shall retain possession of the key to the tool house and see to it that it is open in ample time at starting time and securely locked at quitting time. He shall perform these duties as Shop Steward with the least possible inconvenience to his Employer. He is to work as a Laborer and not use his position as Shop Steward to avoid performance of his duties as a Laborer. If the Shop Steward is discharged, the contractor must immediately notify the Union and a grievance hearing as described in Article IV Section 2(a) shall be held within three (3) workdays. If it is determined that the Shop steward was improperly discharged, he shall be reinstated and paid for lost time. If the grievance hearing cannot reach a decision, the matter shall be referred to expedited arbitration. The Shop Steward is to work up to completion of the job and shall be the last working laborer to be discharged exclusive of the Foreman.
+9
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Section 5	- General Foreman and Foreman of Laborers
+(a)	General Foreman of Laborers. The requirement of a General Foreman may be discussed at a pre-job conference between the Union and 'the Employer. The wages for the General Foreman shall be negotiated between the proposed General Foreman and the Employer.
+(b)	Foreman of Laborers. The foreman shall be a representative of the Employer and shall be in direct charge of the Laborers on the job. All foremen shall be paid a weekly salary, which shall not be less than $2.50 per hour above the prescribed rate for Laborers in this Agreement.
+Laborers shall not be required to take craft supervision from other union foremen, except where agreed upon at a pre-job conference.
+At commencement of employment, a Foreman shall be paid for days actually worked in the calendar week. At the termination of employment, a Foreman will be paid for days actually worked in the calendar week. During the course of continuous employment on a project, said Foreman shall be paid on a weekly basis, and shall not receive holiday pay as an addition to his weekly pay unless worked. If worked, said Foreman shall receive one day's pay at the straight time rate. If a Foreman works over eight (8) hours per day, or forty (40) hours per week, he shall be - entitled to overtime. If a "gang" is laid off prior to job completion, the Foreman shall be entitled to forty (40) hours of pay for the week. The minimum rates of wages for Foremen for one week shall be as follows:
+ONE THOUSAND, THREE HUNDRED AND ONE DOLLARS AND SIXTY CENTS ($1,301.60) FROM JULY 1, 2002 TO AND INCLUDING JUNE 30, 2003 ($32.54 per hour);
+10
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+ONE THOUSAND, THREE HUNDRED FIFTY-ONE DOLLARS AND SIXTY CENTS ($1,351.60) FROM JULY 1, 2003 TO AND INCLUDING JUNE 30, 2004 ($33.79 per hour);
+ONE THOUSAND, THREE HUNDRED NINETY-SEVEN DOLLARS AND SIXTY CENTS ($1,397.60) FROM JULY 1, 2004 TO AND INCLUDING JUNE 30, 2005 ($34.94 per hour).
+ONE THOUSAND, FOUR HUNDRED FORTY-THREE DOLLARS AND SIXTY CENTS ($1,443.60) FROM JULY 1, 2005 TO AND INCLUDING JUNE 30, 2006 ($36.09 per hour).
+When there are more than five (5) laborers on a job, one shall be designated as a Foreman.
+Section 6	- Apprentice(s)
+hThe ratio of apprentices to journeymen shall be 1:8 Apprentices shall initially be paid at 50% of the journeyman' s wages and will be adjusted as follows:
+1000 hours	worked:	60%	of	journeyman's	wage
+2000 hours	worked:	75%	of	journeyman's	wage
+3000 hours	worked:	90%	of	journeyman's	wage
+4000 hours	worked:	100% of journeyman's	wage
+In order to qualify as an apprentice, a laborer must be enrolled in the Local 731 Apprenticeship Training Program. Under no circumstances may a laborer be listed as an apprentice unless such prerequisite training has been completed.
+It is agreed among all negotiating parties that mandatory apprenticeship be discussed for implementation by the year 2004.
+11
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Section 7	- Union Visitation
+The Business Agent, Business Manager or other designated representative shall have the right to visit and go upon the Employer's -Union jobs during working hours. He shall not be interfered with when making such visits nor shall he hinder or interfere with the progress of the work.
+ARTICLE IV
+Disputes
+Section 1	- No Lockout - Strike - Work Stoppage
+Except as otherwise provided for herein, the Union shall not order or sanction a strike against any Employer or Employers, who are parties to this Agreement, nor shall any Employer or Employers, acting jointly or severally, directly or indirectly lock out any laborers represented by the Union that are parties to this Agreement. The Union shall not be responsible for any unauthorized strike or its results.
+When the laborers on any job are being paid less than the rate of wages prescribed in this Agreement, or prevailing wages are not being adhered to, or the Employer is in arrears on monies payable to the Trust Funds as prescribed in this Agreement, as hereinafter provided, the Union - shall give three (3) working days written notice to the Employer and the Union shall be entitled to withdraw the laborers from such job upon expiration of the three working days written notice.
+The Union representative in consultation with the Employer representative or the GCA representative may declare a portion of a jobsite, or a job-site, a threat to the health, safety and welfare of the
+12
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Employees covered by this Agreement, The work shall be curtailed until the situation is resolved.
+However, none of the provisions of this Article shall be construed so as to prevent Local 731, from exercising its inherent right, herein and hereby recognized, to remove its members, or cause its members to be removed, from any job under Local 731*s jurisdiction upon three (3) working days written notice delivered in person, or in the manner specified in Article XI, hereinafter, if or when any of the Employers (a) default in making payment when due of any wages required to be paid pursuant to Section 5 (b) of Article III hereinbefore and/or (to Article VII hereof) (b) default in making payment, when due, of any of the amounts of contributions required to be paid to the Excavators Union Local 731 Welfare Fund, the Excavators Union Local 731 Pension Fund, the Excavators Union Local 731 Annuity Fund and or LIUNA Local 731 Training Fund pursuant to Article VIII hereof, and/or (c) default in providing the surety company bond or the cash alternative required pursuant to Section (8) of Article VIII hereof.
+Section 2	- Procedures of Grievance - Arbitration
+Except as hereinbefore otherwise provided in the last sentence of Section 1 of this Article IV, and except as regards the wages required to be paid pursuant to the provisions of Article VII hereof and the collection of contributions required to be paid to the Trustees of
+13
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Excavators Union Local 731 Welfare Fund, Excavators union Local 731 Pension Fund, Excavators Union Local 731 Annuity Fund and LIUNA Local 731 Training Fund pursuant to the provisions of Article VIII hereof, for the purpose of settling disputes between any of the Employers and Local 731 or any of the Employers and any of the workers covered by this Agreement as to any claims of violation of this Agreement or of any dispute that may arise in connection therewith or for construing the terms and provisions thereof, the following procedure is established:
+(a)	The matter in1 dispute shall be immediately reported by the Employer involved or by Local 731 to the President of Local 731 or the Director of Labor Relations of the GCA, who shall promptly arrange a meeting between said Employer and representatives of Local 731 in an effort to reach an amicable solution.
+(b)	Should this fail to effect a resolution of the dispute, the Employer involved or Local 731 may serve upon the other party a demand for arbitration or a notice of intention to arbitrate, specifying the agreement pursuant to which arbitration is sought and the name and address of the party serving the notice, the name and address of an officer or agent thereof if such party is an association or corporation, and stating that unless the party served applies to stay the arbitration within twenty days after such service he shall
+14
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+thereafter be precluded from objecting that a valid agreement was not made or has not been complied with and from asserting in court the bar of a limitation of time. Such notice or demand shall be served in the same manner as a summons or by registered or certified mail, return receipt requested. An application to stay arbitration must be made by the party served within twenty days after service upon him of the notice or demand, or he shall be so precluded. Notice of such application shall be served in the same manner as a summons or by registered or certified mail, return receipt requested. Service of the application may be made upon the adverse party or upon his attorney if the. attorney's name appears on the demand for arbitration or the notice of intention ' to arbitrate. Service of the application by mail shall be timely if such application is posted within the prescribed period.
+(c)	Any grievance not resolved pursuant to (a) or (b) above, shall be submitted to arbitration before a single arbitrator. The arbitrator shall serve, in order, from a panel of two as follows:
+(1)	Stephen F. O'Beirne, Esq., 176 Washington Ave., Clifton, New Jersey 07011
+(2)	Thomas J. Hanrahan, Esq., P.O. Box 140, Glen Rock, New Jersey 07452-0140.
+All arbitrators selected as successors must be unanimously agreed upon by the parties. The two will serve to the end of this Agreement. If any arbitrator is not available to serve for any reason, the next one on the list shall serve. The arbitrator shall conduct a hearing in such a
+15
+[
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+manner as he shall consider proper and shall serve as sole arbitrator of the dispute between the parties. After all the parties concerned have been notified in writing at least five (5) days prior to a hearing, the -arbitrator shall have the right to conduct an ex parte hearing in the event of the failure of either party to be present at the time and place designated for the arbitration, and shall have the power to render a decision based on the testimony before him at such hearing. The costs of arbitration, including the arbitrator's fee, shall be borne equally by the Employer and the Union. Service of any document or notice referred to above, or service of any notice required by law in connection with arbitration proceedings, may be made by registered or certified mail. Service upon the Employer shall be made on the individual Employer and the GCA.
+(d)	Refusal to adhere to the decisions under any one of the provisions above shall allow the Union to withhold its .service.
+(e)	This Article is not, in any manner, meant to prohibit or restrict the Union's right to strike or withhold services upon the expiration of this Agreement.
+Section 3	- Finality of Decision
+A decision made under any one of the above plans shall be final and binding upon all parties to the dispute. From the date the decision is made, it shall become part of this Agreement. Any decision and/or award may be confirmed, and judgment entered thereupon in any court of competent jurisdiction.
+16
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Section 4	- Status Quo
+Until any decision shall have been reached, none of the parties to such dispute, the parties to this Agreement or the workers covered by this Agreement involved in such dispute, shall take any action of any character as to the complaint, statement or matter in dispute.
+Section 5	- Expenses
+The expenses and salary, if any, of the single arbitrator shall be equally shared by the parties to the dispute.
+ARTICLE V
+Jurisdictional Disputes.
+Section 1-	- No Work Stoppage
+Where a jurisdictional dispute arises, there shall be no stoppage of work by trades affiliated with the AFL-CIO. In the event of such jurisdictional dispute, the trade in possession of the work shall proceed with the job and the question in dispute shall be submitted by the disputing trades to the Heavy Construction Industry Jurisdictional Panel for settlement of jurisdictional disputes.
+Section 2	- Heavy Construction Industry Jurisdictional Panel
+The Union and the General Contractors Association of New York, Inc. ("GCA") have established a Heavy Construction Industry Jurisdictional Panel. Said Panel will consist of representatives of all of the Unions who have agreed to same and an equal number of representatives of the GCA. The Panel will be fully empowered to render final and binding
+17
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+decisions by majority vote on all jurisdictional matters in the Heavy
+Construction Industry.
+ARTICLE VI
+Work Jurisdiction
+This Agreement shall apply to the employment of laborers on:
+A. EXCAVATION AND FOUNDATION WORK FOR BUILDINGS inside and outside property lines, including, but not limited to:
+1.	Building operations below the curb line and below the building superstructure in connection with excavation and foundation work for buildings;
+2.	All labor used in excavation of earth and rock in footings, - piers and other holes, pits, trenches, sewers (inside of ’ buildings and the house connections in the street) ;
+3.	-Grading and excavation of sidewalks;
+4.	All backfilling in connection with buildings;
+5.	The sealing of rock with concrete on piers, footings, pits and foundations;
+6.	All labor used in pouring, sandblasting, scarifying, bush hammering, dry packing and guniting of concrete, prepack concrete, pumpcrete, colcrete or other similar processes for footings, piers, piles, pile caps;
+7.	Retaining walls on foundations, underpinning and work in connection therewith;
+8,	All laborers' work in conjunction with vibroflotation;
+9.	The shoveling and packing of sand in sand piles;
+18
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+10.	The placing of concrete in all types of piles;
+11	. All laborers' work in connection with chemical soil solidification, slurry walls, bentonite, mud mixing and all other methods of soil solidification;
+12.	All laborers' work in connection with: guniting and pouring of concrete, prepack concrete, pumpcrete, colcrete and/or similar processes for all underground tunnels and concrete cradles for sewers and all other utilities in building areas;
+13.	The application of epoxy for protection on all pre-cast and poured concrete as well as for protection from the elements;
+14.	Surface preparation of caissons and related structures;
+15a. Handling, cleaning and fastening of all chutes, pipes and elephant trunks used in the placing of concrete as well as setting up and cleaning of conveyor belts used in the placing of concrete;
+15b. Assisting in the removal of and removing all wood, steel and other forms for concrete;
+15c. Cleaning and oiling of all wood, steel and other forms for concrete;
+16.	Digging trenches for duct lines;
+17	. Digging holes for fence posts and poles inside and outside of buildings;
+18.	Breaking down of old foundation walls either with sledge hammer, pick or iron bar and removal of materials by loading truck or other means as well as other loading and unloading of materials;
+19
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+19.	Tending of other trades;
+20.	Distribution and handling of gasoline, propane gas and other fuel for heaters, etc., as well as handling and hooking up of all equipment used in connection therewith;
+21.	Installing, handling, loading, unloading, placing, hooking, unhooking, lowering into ditch, aligning, leveling and jointing of corrugated pipe, concrete pipe, plastic pipe, fiberglass pipe, and other nonmetallic pipe, cast iron pipe, steel pipe, and ductile concrete lined pipe;
+22.	In connection with transportation lines, all laborers' work for the clearance of right-of-way preparatory to the installation of the pipe line, the demolition and removal of fences, the digging and trimming of trenches and ditches for ■ pipe lines, work in connection with bending of pipe except the mechanical work involved; laborers' work in connection with the distribution of pipe and skids and placing of said skids and pipe over the trench, the cleaning, scaling, etc., of the pipe; all laborers' work in connection with the lineup crew, the cleaning, wrapping and doping of pipe before lowering after the welding of joints has been made, the cleaning, wrapping and doping of the pipe in all yards;
+23.	The work in connection with the lowering of the pipe and the removal of the skids;
+24.	The work in connection with the backfilling of trenches after the pipe has been laid;
+20
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+25.	All work in connection with the cleanup after the pipe has been laid and the trenches, backfilled;
+26.	Demolition, take-up and reconditioning of old pipe;
+27.	Laborers' work on barges and floating equipment, and all other general and miscellaneous laborers' work in connection with the entire operation falling within the jurisdiction of Local 731;
+28a. Digging for sidewalks, including that for lighting posts, fence posts, duct lines and precast concrete boxes, as well as the placing of precast concrete boxes;
+28b. Loading, unloading, and placing of barricades and barriers when work is performed under the jurisdiction of Local 731;
+29-	Laying of concrete, plastic, fiberglass and tile ducts;
+30.	All digging and concreting for guardrails and similar;
+31.	Signaling in connection with the handling of laborers' materials.
+32.	Coal passers;
+33.	Carrying coal to steam-operated construction machinery;
+34.	Pitmen on power shovels and cranes;
+35.	All hooking and unhooking of buckets, boxes, blasting mats, chaining stone and signaling in connection with hoisting of excavated material by cranes;
+36.	Tending, handling and cleaning of foot valves and sump pits;
+37.	All laborers' work in connection with the handling of all hoses, digging of holes, boring for pipe lines, sewer lines, ducts, utility lines and similar;
+21
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+38.	Setting	up	jacks;
+39.	Digging	of	pits for boring machines;
+40.	Tending	of	other trades;
+41.	Nipper	carrying drills and hand tools to and from the	
+blacksmiths;
+42.	Grading of crushed stone;
+43.	Servicing and placing of lanterns and light bombs;
+44.	Flagmen;
+45.	Fire watch;
+46.	Signalmen on all construction sites and work defined herein including, but not limited to, traffic control signalmen at construction sites;
+47.	Distribution of tools from toolhouse, warehouse, storeroom or s shanty;
+48.	The use and operation of paving breakers used in chipping and. breaking of masonry, concrete and pavement on foundations and below curb level;
+49a. The operating of mechanical concrete cutting saws, hand drills and mechanical drills;	.
+49b. Oxy-gun cutting of reinforced concrete, steel, cast iron and. granite as well as other related or incidental use of oxy-guns in connection with laborers'' work;
+49c. Use of laser beams in connection with laborers' work;
+50.	The use of clay spades used in excavation of firm earth and . hardpan;
+22
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 20006
+51.	In connection with the use of, and operation of, paving breakers used in chipping and breaking of masonry, concrete, rock and pavement, this can be done by laborers only when drillrunners are not working or available on the job, or where there is less than a day's work to be done. In connection with the use of clay spades, used in the excavating of firm earth or hardpan, this can be done by the laborers where there is not continuous use of said tool; When magazines of the 5th or 4th class are being used, a licensed laborer may be used, at the option of the Employer, as powder carriers on building operations only;
+52.	The use of pneumatic tampers, all manual tampers, power tampers, vibratory rollers controlled by hand;
+53.	The use of pickup trucks for moving men to and from various job sites, for moving out tools, for picking up water and other pickup uses;
+54.	The operation of power buggies in carrying out work customarily done by laborers represented by Local 731;
+55.	Laborers' work in yards in connection with the loading and hauling of laborers' tools and materials to and from jobs where laborers represented by Local 731 are engaged in foundation work for buildings as well as other laborers' work in yards;
+56.	Laborers' work in and on plants set up on job sites;
+23
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+57.	Removal of hazardous waste, hazardous soil, lead abatement, and/or asbestos removal in conjunction with the regular scope of work.
+B. LANDSCAPING IN CONNECTION WITH BUILDING PROJECTS inside and outside property lines, including, but not limited to:
+1.	Excavating of and for pedestrian walks, curbs and tree pits:
+2.	Mixing, distributing and placing of topsoil, sod, manure,
+humus and fertilizer;
+3.	Grading, backfilling and raking of topsoil;
+4.	Planting of shrubs, flowers and other decorative plants, as well as their cultivation and maintenance;
+5.	Seeding;
+6..	Tree topping, tree moving, tree removal, tree pruning, tree . trimming and tree climbing;
+7.	Tending and operating aerial lift equipment, grinding machines and stumping machines;
+8,	Cleaning and slashing of brush and trees by hand or with mechanical cutting methods around power lines or power facilities along the right-of-way on any construction site, along streets and highways;
+9.	Gardening;
+10a. Loading and unloading of trees, shrubs and all other materials connected with the work of landscaping from the truck to the site of the job;	'
+24
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+10b. In connection with watering of top soil, sod, manure, humus, fertilizer, shrubs, flowers, other decorative plants, trees, tree pits, brush, roads, walks, curbs, etc., the operation of hoses and other equipment connected with water tanks on trucks and similar;
+11.	Preparing subgrade for landscaping work;
+12.	Installing all pipes and tubing for drainage;
+13.	Ball and burlapping of trees;
+14.	Spreading of gravel and concreting wherever it may occur in connection with landscaping;
+15,	Digging tree wells;
+16.	Digging for benches on public highways and parks;
+17.	Rough grading around buildings;
+18.	Grading for pedestrian walks;
+19.	Excavating and grading for recreation areas;
+20.	Removal of hazardous waste, hazardous soil, lead abatement, and/or asbestos removal in conjunction with the regular scope of work.
+C. HEAVY CONSTRUCTION AND ENGINEERING WORK inside and outside property lines, including, but not limited to:
+1.	Track work;
+2.	Digging for the removal of all rails, tracks and ties, as well as removal of all rails, contact rails, third rails, tracks and ties and catwalks from any structure;
+25
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+3.	Loading, unloading, stockpiling, handling and distribution of all rails, contact rails, third rails, tracks, ties, tie-in pockets, and all other material in connection with track work;
+4.	Placing of or jacking track and ties at points of
+installation;
+5.	Placing, aligning, gauging, grading and fastening of all
+rails, contact rails and third rails;
+6.	Operation of power spike pullers, power spike drivers, power track jacks, tamping machines and similar rail and track laying equipment;
+7.	Spiking of all rails, contact rails, third rails, tracks and ties, including the welding, other fastening and other bonding of all running rails and tracks;
+8.	All grinding, burning or otherwise cutting of track;
+9.	Handling of tamping guns;
+10.	Cutting and drilling of all rail and track lining machinery;
+11.	Right-of-way clearance, excavation, grading, subgrading, ballasting and compacting of right-of-way;
+12a. Setting of tie plates, bolting, leveling and gauging of all rails, contact rails and third rails, and spiking, whether by hand or mechanical means;
+12b. The mixing, pouring and placing of grout, drypacking and concrete for all track related work, including but not limited to rails, ties, tracks, plates and columns;
+13.	Placing and tamping of ballast by hand or mechanical means;
+26
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+14.	Construction and/or relocation of mainlines; shoe f lys, siding, grading, crossing, pipes, drainage and culverts connected with same as well as removal and replacing of all fences;
+15.	Placing of rip-rap on sea wall and placing of all wood, fiberglass, plastic, metal, pre-cast, retaining walls and concrete and other cribbing, whether in connection with track, highways or anywhere else it may occur;
+16.	The placing and fabricating of gabion and similar type cages and filling in conjunction with all heavy and industrial construction such as slopes, on highways and perimeters of tanks to be used as firewalls;
+17.	Laborers on open cut and free air tunnels;
+18.	Sewers;
+19.	Sewage disposal plants and all related cleanup tank work associated with same;
+20.	Sump pits;
+21.	Bridges;
+22.	Parks;
+23.	Elevated highways and ramps;
+24.	Pedestrian walks;
+25.	Subways;
+26.	Highways;
+27.	Grade crossing eliminations;
+28.	Docks, decks, piers, runways over water, ramps and loading platforms;
+27
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+29.	Loading, unloading, piling, carrying and handling of
+materials, including lumber; cleaning lumber;
+30.	Loading, unloading, and placing of barricades and barriers
+when work is performed under the jurisdiction of Local 731;
+31.	Grading;
+32.	Underpinning of foundations;
+33.	Cofferdams, shafts, the employment of top laborers on tunnels;
+34.	Distribution and handling of gasoline, propane gas and other fuel for heaters, etc., as well as handling and hooking up all equipment used in connection therewith;
+35.	Work not requiring skill and knowledge of a trade;
+36.	Carrying explosives;
+37.	Carrying reinforcing steel;
+38.	Tending, handling and cleaning of foot valves and sump pits;
+39.	All laborers' work in connection with the handling of all hoses;
+40.	Digging of holes;
+41.	Carrying fuel to machinery;
+42.	Mixing, placing, sandblasting, scarifying, bush hammering, dry packing, guniting and handling concrete, pumpcrete, prepack concrete, colCrete or other similar processes and cement including same for footings, piers, transformers and other holes, pits, trenches, piles, pile caps, retaining walls, underpinning, as well as all work in connection therewith when finishing tools are not required;
+28
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002
+2006
+4 3.	The application of epoxy for protection on all precas t and
+poured concrete as well as for protection from the elements;
+44.	Surface preparation of caissons and related structures;
+45.	All laborers' work in conjunction with vibroflotation;
+46.	The shoveling and packing of sand in sand piles;
+47.	The placing and pouring of concrete in all types of piles;
+48.	All concreting in sewers, sewage disposal plants, bridges,
+subways, grade crossing eliminations, cofferdams, shafts, catch basins and dry wells, substations, ramps, elevated highways; retaining walls and slurry walls;
+49a. All concrete work as described above and in addition, the hooking on, signaling and dumping of concrete for tremie work over water on caissons, pilings, abutments, etc.;
+49b. Setting up and removal of scaffolds in connection with laborers' work;
+50.	Removal of and handling, cleaning and fastening of all chutes, pipes, concrete buckets and elephant trunks used in placing of concrete as well as setting up and cleaning of conveyor belts used in the placing of concrete;
+51a. Assisting in the removal of and removing of all wood, steel and other forms for concrete;
+51b. Cleaning and oiling of all wood, steel and other forms for concrete;
+52.	The pouring and guniting of concrete, pumpcrete, prepack concrete, colcrete, drypack or other similar processes, whether done by hand or any other process, including pouring
+29
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002
+2006
+and guniting of same for all precast and pre-stressed concrete such as piles, beams, boxes and columns;
+53.	All laborers' work in connection with chemical soil solidification, slurry walls, concrete cribbing, precast retaining walls, bentonite, mud mixing and all other methods of soil solidification;
+54.	The handling, placing and grouting of post tension cables on bridges, piers, runways and other engineering construction;
+55.	Grouting of all equipment;
+56.	The placing and spreading of gilsilate and other insulating materials;
+57.	Carrying drills, hand tools and waterproofing materials;
+58.	Installing, handling, loading, unloading, placing, hooking,
+unhooking, lowering into ditch, aligning, leveling and jointing of corrugated pipe, concrete pipe, plastic pipe, fiberglass pipe, other nonmetallic pipe, cast iron pipe, steel pipe, and ductile concrete lined pipe;
+59.	In connection with transportation lines, all laborers'- work for the clearance of right-of-way preparatory to the installation of the pipe line, the demolition and removal of fences, the digging and trimming of trenches and ditches for pipe lines, work in connection with the bending of pipe except the mechanical work involved, laborers' work in connection with the distribution of pipe and skids and placing of said skids and pipe over the trench;
+60.	The cleaning, scaling, etc., of the pipe;
+30
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+61.	All laborers7 work in connection with the lineup crew, the cleaning, wrapping and doping of pipe before lowering after the welding of joints has been made, the cleaning, rapping and doping of the pipe in all yards, the work in connection with the lowering of the pipe and the removal of the skids in connection with the backfilling of trenches after the pipe has been laid, all work in connection with cleanup after the pipe has been laid and trenches backfilled, demolition, take-up and reconditioning of old pipe;
+62.	Laborers' work involved in refrigeration plants as well as in manufacturing and handling of ice to cool concrete;
+63.	Laborers' work on barges and floating equipment, and all other general and miscellaneous laborers' work in connection with the entire operation falling within the jurisdiction of Local 731;
+64a	. Wrapping, doping, coating, and treating of all pipe whether hot or cold, non-mechanical;
+64b	. The fusing and joining of all plastic pipes;
+65.	The handling of all steel plates;
+66.	Tending of other trades;
+67.	Placing of gravel or broken stone whenever or wherever necessary;
+68.	Grading of crushed stone for playground areas and walks;
+69.	All concrete work on playgrounds to include curbs, retaining walls, handball courts, swimming pools and wading pools, concrete cribbing and precast retaining walls;
+31
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+70.	All spading, chipping and breaking on foundations;
+71a. In connection with the use of, and operation of, paving breakers used in chipping and breaking of masonry, concrete, rock and pavement, this can be done by laborers only when drillrunners are not working or available on the job, or where there is less than a day's work to be done. When magazines of the 5th or 4th class are being used, a licensed laborer may be used at the option of the Employers, as powder carriers;
+71b. Oxy-gun cutting of reinforced concrete, steel, cast iron and granite as well as other related or incidental use of oxy-guns in connection with laborers' work;
+71c. Use of laser beams in connection with laborers' work;
+72.	The use of clay spades used in the excavation of firm earth or
+hardpan and the use of pneumatic tampers;
+73.	All manual tampers;
+74.	Power tampers and vibratory rollers controlled by hand;
+75.	The use of pick-up trucks and/or vans for moving men to and from various job sites, for moving out tools, for picking up water and other pick-up uses;
+76.	Signaling in connection with the handling of laborers' materials;
+77.	All hooking and unhooking of buckets, boxes, blasting mats, chaining stone and signaling in connection with hoisting of excavated material by cranes;
+32
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+78.	All chaining of rock and other material handled by the laborers;
+79.	All digging, concreting, demolition and removal of existing and old concrete, old pipes not to be reused, removal of concrete slabs and other laborers' duties on and for elevated highways, pedestrian walks, docks, decks, bridges, ramps, runways over water, guard rails, barricades, pumping stations, pollution plants and other engineered structures;
+80.	Excavating, digging for sidewalks, including that for lighting . posts, fence posts, duct lines, including placing of precast concrete boxes;
+81.	Laying of concrete and tile ducts;
+■ 82. Placing precast ducts and telephone or other ducts in subways, streets, shafts and highways;
+83.	Shafts;
+84.	Trimming, leveling, ditching by hand in connection with power shovels, cranes, etc.;
+85.	Pitmen on power shovels;
+86.	The operating of power buggies;
+87.	The operating of mechanical concrete cutting saws, hand drills, core drilling and mechanical drills;
+88.	Servicing and placing of lanterns and lightbombs;
+89.	Flagmen, firewatchers, signalmen on all construction sites and work defined herein, including, but not limited to, traffic control signalmen at construction sites;
+33
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+90.	Distribution of tools from warehouse, toolhouse, storeroom or shanty, as customarily done; and in connection with the loading and hauling of laborers' tools and materials to and from jobs where laborers represented by Local 731 are engaged in heavy construction or engineering work as was well as other laborers' work;
+91.	Laborers' work in and on plants set up on job sites;
+92.	Laborers' work on all concrete on-site plants on job sites;
+93.	Removal of hazardous waste, hazardous soil, lead abatement, and/or asbestos removal in conjunction with the regular scope of work.
+D. ' LANDSCAPING IN CONNECTION WITH HEAVY CONSTRUCTION AND ENGINEERING
+WORK INSIDE AND OUTSIDE PROPERTY LINES, INCLUDING, BUT NOT
+LIMITED TO:
+1.	Excavating of and for pedestrian walks, curbs and tree pits;
+2.	Mixing, distributing and placing of topsoil, sod, manure, humus and fertilizer;
+3.	Grading, backfilling and raking of topsoil;
+4.	Planting of shrubs, flowers and other decorative plants, as well as their cultivation and maintenance;
+5.	Seeding;
+6.	Treetopping;	■
+7.	Tree moving;
+B.	Tree removal;
+9.	Tree pruning;
+34
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+10.	Tree trimming and tree climbing;
+11.	Tending and operating aerial lift equipment, grinding machines and stumping machines;
+12.	Cleaning and slashing of brush and trees by hand or with mechanical cutting methods around power lines or power facilities along the right-of-way on any construction site, along streets and highways;
+13.	Gardening;
+14a	. Loading and unloading of trees, shrubs and all other materials connected with the work of landscaping from the truck to the site of the job;
+14b	. In connection with watering of top soil, sod, manure, humus, fertilizer, shrubs, flowers, other decorative plants, trees, pits, brush, roads, walks, curbs, etc., the operation of hoses and other equipment connected with water tanks on trucks and similar;
+15.	Preparing subgrade for landscaping work;
+16.	Installing of all pipes and tubing for drainage;
+17.	Ball and burlapping of trees;
+18.	Spreading of gravel and concreting wherever it may occur in connection with landscaping;
+19.	Digging tree wells;
+20.	Digging for benches on public highways and parks;
+21.	Rough grading around buildings;
+22.	Grading for pedestrian walks;
+23.	Excavating and grading for recreation areas;
+35
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+24.	Removal of hazardous waste, hazardous soil, lead abatement, and/or asbestos removal in conjunction with the regular scope of work.
+ARTICLE VII
+Wages and Conditions
+Section 1	- Hours of Work
+Eight (8) hours shall constitute a day's work. Forty (40) hours shall constitute a week's work. Any failure to work these hours gives the Employer the right to pay only for hours actually worked. Where laborers are required to prepare for hazardous materials work prior to the start' Of their shift, and to remove such specialized clothing and/or equipment after their shift, the Employer shall pay the laborers overtime for such periods of preparation. The Employer may also direct that the preparation be performed as part of their regular shift. The Employer will also provide such laborers with adequate wash up time prior to their lunch break and quitting time.
+Section 2	- Shifts
+(a) A single shift shall be the continuous eight and one-half (8 1/2) hours, including one-half (1/2) hour for mealtime. On unscheduled overtime work, any Laborer working over eleven (11) hours shall be entitled to an additional one--half (1/2) hour meal period.
+36
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+(b)	When two (2) shifts are employed, the work period for each shift shall be a continuous eight and one-half (8 1/2) hours including one-half (1/2) hour for mealtime.
+(c)	When two (2) or more shifts are employed, single time shall be paid for each shift.
+(d)	When three (3) shifts are found necessary, each shift shall work seven and one-haIf (7 1/2) hours, but shall be paid for eight (8) hours of labor, and be permitted one-half (1/2) hour for mealtime.
+(e)	Varying Shift
+On any Monday through Friday inclusive, the Employer can vary the shift commencement of any single, or two or three shifts by two (2) hours before or after normal shift commencement, in one-half (1/2} hour increments for any Employee and/or group of Employees on any shift day, and all work performed during said varied shift shall be paid for at the straight time rate, in conformity with the terms contained in the Agreement.
+(f)	Varying Lunch
+The Employer can vary the commencement of the normal lunch period one-half (1/2) hour before or after same, for any Employee and/or group of Employees on any day, and all work performed during said varied lunch period shall be paid for at the single time rate in conformity with the terms contained in this Agreement.
+37
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Section 3	- Overtime & Holidays
+Overtime Defined
+On scheduled overtime, including weekends, overtime shall first be offered to the crew who normally works at that job-site with the exception of specialty work. Upon refusal of said overtime, the contractor may bring in laborers from another job-site.
+(a)	TIME AND ONE-HALF shall be paid for all work in excess of the regular eight (8) hour day or in excess of the regular forty (40) hour week, e.g., on single shift jobs, all work performed before or after the regular eight (8) hour day, starting at 8:00 A.M., except as to Subdivision (e) of Section 2 of this Article VII, shall be paid for at the time and one-half rate. The first eight (8) hours of any and all work performed Monday through Friday, inclusive on any off-shift shall be at the single time rate, in conformity with the terms contained in this Agreement.
+(b)	TIME AND ONE-HALF will be paid for any work performed on Saturdays except that when Saturday is also a holiday to be observed as provided for in Sub provision (e) of this Section 3, double time therefore shall be paid.
+(c)	DOUBLE TIME shall be paid for any work performed on Sundays and the legal holidays to be observed as provided in Sub provision (e) of this Section 3 regardless of the day on which the holiday falls.
+38
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+(d)	Except as provided in Sub provision (e) of Section 2, and Sub provisions (b) and (c) of this Section 3, the work period shall start at 8:00 A.M. Monday and end at 8:00 A.M. on Saturday, e.g.
+(i)	on three (3) shift jobs, the last shift shall work its final regular shift from midnight Friday to 8:00 A.M. Saturday for regular single time pay;
+(ii)	time and one-half pay shall be paid for each of the three (3) shifts between 8:00 A.M. Saturday and 8:00 A.M. Sunday;
+(iii)	double time shall be paid for each of the three (3) shifts between 8:00 A.M. of the holiday •
+and 8:00 A.M. of the following morning and between 8:00 A.M. Sunday and 8:00 A.M. Monday.
+(e)	Holidays
+Holidays to be observed as such are as follows:
+New Year's Day	Columbus Day
+Memorial Day	Election Day	in	Presidential Years
+Independence Day	Thanksgiving	Day*
+Labor Day*	Christmas Day
+*Labor Day and Thanksgiving Day shall be paid holidays. All Employees covered by this Agreement shall receive eight (8) hours pay at the single time rate and the Fringe Benefits for such eight (8) hours shall be paid to the Excavators Union Local 731 Benefits Funds on Behalf of each employee even if such hours are not worked. If the Employee works on said
+39
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Holidays, he shall receive an additional day's pay at the single time rate. Employees must work at least one {1) day in the calendar week in which the holiday occurs in order to be paid for said holiday.
+All holidays which fall on Saturday, with the exception of Independence Day, will not be observed on the preceding Friday. Holidays falling on Sunday shall be observed on the following Monday in accordance with State and Federal law.
+(f)	Martin Luther King's Birthday
+Single time if worked, but will not be paid if the Laborer *	does not work. Memorial Day shall be observed on the last
+■	Monday of May. Columbus Day shall be observed on the second
+Monday in October.
+(g)	Executive Board and Board of Auditors Meetings
+Members of the Executive Board and/or Board of Auditors of the Union shall be excused from work by the Employer and are to be paid only for hours worked in that day inclusive of foreman, when required for Union related meetings, not to exceed one (1) meeting per month. The Union shall provide notice to all members of these boards of such meetings far enough in advance to provide sufficient notice to the Employer.
+(h> Physical Examinations
+Due to new State and Federal Regulations- related to specialized physical examinations now required as a result of work related to the removal and handling of toxic and hazardous materials both parties recognize the need for a
+40
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Labor/Management Committee to address these concerns. Specifically, the parties have agreed that the Labor/Management Committee shall discuss the additional costs related to specialized examinations mandated by law. The parties are committed to amend this Agreement in accordance with these objectives, upon mutual agreement.
+Section 4	- Wages
+All wages payable under this Agreement shall become due and be paid on the job once each week. If for any reason the Employer terminates the services of an Employee working under this Agreement, then the accrued wages of the Employee shall be paid to him at the time of termination of employment; otherwise waiting time shall be charged for accrued wages.
+If the Employee shall of his own volition leave the services of his Employer, then the Employer may retain his wages until the next regular payday. Employees shall be entitled to waiting time if not paid on regular paydays within working hours.
+{a) The rate of wages to be paid per hour to Employees other than Foremen, shall be as follows:
+Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005
+Hourly Wage	$30.04	$31.29	$32.44	$33.59
+(b) No work shall be performed on any of the holidays referred to in Sub provision (e) of Section 3 of this Agreement unless paid for at the established double time rates for holidays.
+Section 4.1 - Payment of Wages by Check
+Notwithstanding anything herein to the contrary, Employers shall have the right to make weekly payments of wages by check provided:
+41
+I
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006 i
+(b)	In case personal belongings of any worker shall be lost through fire or theft, the Employer shall compensate each such worker for his loss, but such liability shall be limited to a sum not to exceed Two Hundred and Fifty Dollars ($250.00) for each individual. Evidence of theft must be presented before this provision becomes effective.
+(c)	When a laborer (a) reports on a job after having been requested to do so by the Employer or (b) when a laborer already working on a job reports for work at his customary starting time, then, in either of such cases, if such laborer is not employed after so reporting on a particular day, the Employer shall pay such laborer two £2) hours wages for so reporting. However, the number of laborers to be paid two (2) hours wages for so reporting shall not exceed the number of laborers requested to report on the job by the Employer.
+However, when the Employer's failure to provide work is due to bad weather or other conditions beyond the control of the Employer, then, such laborer shall not be entitled to such payment of wages for so reporting. Whenever a laborer is paid two (2) hours for so reporting, he must remain on the job for two (2) hours unless sooner released by the Employer.
+(d> All wages payable under this Agreement shall become due and be paid on the job every week. At no time shall weekly wages be held back more than three (3) days after the last day of the workweek. Said wages shall be paid, at the Employer's option, either (a) in cash, in envelopes, on the outside of which
+43
+GENERAL CONTRACTORS ASSOCIATION - LABORERS
+2002 - 2006
+a.	All legal requirements are complied with;
+b.	Delivery of checks to Laborers shall be at least one day preceding a banking day; and
+c.	A satisfactory Surety Bond or cash alternative in accordance with the provisions of Article VIII, Section 8 has been furnished to Laborers Local No. 731 by the Employer unless exempt pursuant to the fifth paragraph of this Article VIII, Section 8(a).
+d.	Check stubs must bear the name of the Employer/Employee, date of the check, the number of hours worked and the period for which the wages are being paid.
+In *the event that a salary check is not honored by the bank on which drawn for any reason whatsoever, then the Laborers affected thereby shall be entitled to two {2) hour's pay plus the Employer shall pay all associated bank charges incurred because of inconvenience.
+Section 5 - Conditions
+(a) Shovels, tools, boots and other implements necessary to perform any kind of labor, including protective gear and equipment for handling hazardous materials, must be furnished by the Employer. A suitable exclusive place, with heat and electricity where feasible, wherein workmen may change their clothes shall be provided by the Employer, upon commencement of line item contract work, and will be of suitable size commensurate with the number of workers on the job site.
+42
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+ARTICLE VIII
+Section 1 - Welfare Fund
+For the benefit of the Excavators Union Local 731 Welfare Fund (hereinafter called the "Welfare Fund"), the Employee beneficiaries thereof and the eligible dependents of said Employee beneficiaries, each of the Employers shall pay monthly to the Welfare Fund the sums equal to the aggregate of:
+Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005
+$8.45	$8.95	$9.55	$10.30
+for each hour worked by all building, concrete, excavating and common laborers and by all Foremen of Laborers employed by each of the Employers in the territorial jurisdiction of Local 731. The foregoing payments shall be based upon hours worked, not on a premium portion of time and one-half or double time rate of pay. All such payments shall be made within thirty (30) days after the conclusion of the month in which such hours were worked.
+The Welfare Fund shall pay or provide for the payment of premiums on such policies of group life insurance, of group accidental death and dismemberment insurance, of group accident and health disability benefit insurance, of group medical, dental, drug, surgical, hospital and similar care expenses and/or benefits and also pay or provide for supplemental unemployment, disability, retirement, death and/or other supplemental benefits as well as such other welfare benefits as the Trustees of said
+45
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+shall be plainly marked the Employer's name, the worker's name, his Social Security number, the hours worked and the amount of money enclosed, or (b) by check as per Section 4.1 of this Article.
+_ Any deduction from wages now or hereafter required by law shall also be marked on the face of said pay envelopes. If workers are not paid as specified above, double time shall be paid for the two (2) hours of the regular weekly payday immediately succeeding the regular quitting time of said day and straight time for working time thereafter until paid, not exceeding fourteen (14) hours; provided, however, that the workers report to and remain on the job during the said fourteen (14) hours.
+1	(e) The Contractor shall comply with all Federal, State and local " government laws, and all regulations of public utilities concerning safety, health and fire protection.
+Section 6	- use of Intoxicant or Illegal Drug
+The use of any intoxicant or illegal drug shall result in immediate dismissal of the Employee (s) involved.
+Section 7	- Drug Testing Clause
+The Employer and Union agree that when required by a contract between the contractor and any City, State, Federal, and/or quasi-public „ agency, and/or public utility to test the Employees covered by this Agreement for drugs and/or alcohol abuse, they shall comply to the extent required by such contract.
+44
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Welfare Fund, in their discretion, may determine to provide (i) for such eligible laborers, their eligible spouses and/or other eligible dependents as determined by said Trustees and (ii) for such eligible retired building concrete, excavating, and/or common laborers receiving benefits from the Excavators Union Local 131 Pension Fund, their eligible spouses and/or other eligible dependents as determined by said Trustees.
+Such Welfare Fund shall provide the insurance necessary to qualify the Welfare Fund with an approved plan of insurance coverage to comply with the New York State Disability Insurance Law for all laborers and foremen referred to in the first paragraph of this Article VIII. No payroll deductions permitted under the Disability Benefit Law are to be made by the Employers from the pay of any such laborers or foremen. The Wei fare Fund shall pay all amounts required to be paid as and for the Employer and Employee contributions in compliance with the said Disability Benefit Law.
+'	The Welfare Fund shall	continue to be administered by Trustees,	one-
+half	(1/2) of whom shall be	designated by Local 731 and	the	other	one-
+half	(1/2) of whom shall be	designated by the G.C.A.
+Each of the Employers	shall comply with, and abide	by,	all rules,
+regulations, conditions, provisions and bylaws made,' established and promulgated by said Trustees for the administration of said Welfare Fund.
+Every present and future salaried regular Employee of Local 731, the Welfare Fund, the Excavators Union Local 731 Pension Fund, the Excavators Union Local 731 Annuity Fund and the LIUNA Local 731 Training Fund other than those of said Employees who are members of another union and participate in a welfare plan set up for the members of said other Union,
+46
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+may participate in the benefits provided herein for Employees of the Employers for whose benefit the aforementioned contributions are made to the Welfare Fund, provided that contributions at the rates hereinbefore stated are made to the Welfare Fund for or on behalf of said Employees of Local 731, the Welfare Fund, the Excavators Union Local 731 Pension Fund, the Excavators Union Local 731 Annuity Fund, and the LIUNA Local 731 Training Fund by the respective Employers of said Employees on the same basis as outlined in the first paragraph of this Section 1 of Article VIII.
+In' order to provide for participation in the programs provided by the New York State Laborers and Employers Health and Safety Trust, an additional five cents ($0.05) per hour for each hour worked shall be paid as part ‘of the employer's contribution to the Excavators Union Local 731 Welfare Fund. This amount is included in the Welfare Fund Contribution listed in Section 1 of Article VIII.
+Section 2	- Pension Fund
+For the benefit of the Excavators Union Local 731 Pension Fund (hereinafter called the "Pension Fund"), the Employee beneficiaries thereof and the eligible dependents of said Employee beneficiaries, each of the Employers shall also pay monthly to the Pension Fund the sums equal to the aggregate of:
+Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005
+$3.56	$3.68	$3.96	$4.19
+for each hour worked by all building, concrete, excavating and common laborers and by all Foremen of Laborers employed by each of the Employers in the territorial jurisdiction of Local 731. The foregoing payments
+47
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Shall be based upon hours worked, not on a premium portion of time and one-half or double time rate of pay. All such payments shall be made within thirty (30) days after the conclusion of the month in which such, hours were worked.
+The Pension Fund shall continue to be administered by Trustees, one-half (1/2) of whom shall be designated by Local 731 and the other one-half (1/2) of whom shall be designated by the G.C.A.
+Each of the Employers shall comply with, and abide by, all rules, regulations, conditions, provisions and bylaws made, established and promulgated by said Trustees for the administration of said Pension Fund.
+. Every present and future salaried regular employee of Local 731, the Welfare Fund, the Pension Fund, the Excavators Union Local 731 Annuity Fund, and the LIUNA Local 731 Training Fund other than those of said employees who are members of another union and participate in a pension plan set up for the members of said other union, may participate in the benefits provided herein for employees of each of the Employers for whose benefit the aforementioned contributions are made to the Pension Fund provided that contributions at the rates hereinbefore stated are made to the Pension Fund for or on behalf of said employees of Local 731, the Welfare Fund, the Pension Fund, the Excavators Union Local 731 Annuity Fund, and the LIUNA Local 731 Training Fund by the respective Employers of said employees on the same basis outlined in the first paragraph of this Section 2 of Article VIII.
+48
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Section 3	- Annuity Fund
+For the benefit of the Excavators Union Local 731 Annuity Fund (hereinafter called the "Annuity Fund"), the Employee beneficiaries thereof and the eligible dependents of said Employee beneficiaries, each of the Employers shall also pay monthly to the Annuity Fund the sums equal to the aggregate of:
+Effective Date: 7/1/2002 7/1/2003 7/1/2004 7/1/2005
+$3.15 $3.40 $3.65 $3.80
+for each hour worked by all building, concrete, excavating and common laborers and by all foremen of laborers employed by each of the Employers in the territorial jurisdiction of Local 731. The foregoing payments shall be based upon hours worked, not on the premium portion of time and one-half or double time rate of pay. All such payments shall be made within thirty (30) days after the conclusion of the month in which such hours were worked.
+The Annuity Fund shall be administered by Trustees, one-half (1/2) of whom shall be designated by Local 731 and the other one-half (1/2) of whom shall be designated by the G.C.A.
+Each of the Employers shall comply with, and abide by, all rules, regulations, conditions, provisions and bylaws made, established and promulgated by said Trustees for the administration of said Annuity Fund.
+Every present and future salaried regular employee of Local 731, other than those of said employees who are members of another union and participate in an annuity plan set up for the members of said other union, may participate in the benefits provided herein for employees of
+49
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+the Employers for whose benefits the aforementioned contributions are made to the Annuity Fund/ provided that contributions at the rates hereinbefore stated are made to the Annuity Fund for or on behalf of said employees of Local 731, by Local 731 on the same basis outlined in the .first paragraph of this Section 3 of this Article VIII.
+Section 4	- LIUNA Local 731 Training Fund
+For the benefit of the LIUNA Local 731 Training Fund (hereinafter called the "Training Fund"), the Employee beneficiaries thereof and the eligible dependents of said Employee beneficiaries, each of the Employers shall also pay monthly to the Training Fund the sums equal to the aggregate of:
+Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005
+$0.35	$0.40	$0.40	$0.40
+for each hour worked by all building, concrete, excavating and common laborers and by all Foremen of Laborers employed by each of the Employers in the territorial jurisdiction of Local 731. The foregoing payments shall be based upon hours worked, not on premium portion of time and one-half or double time rate of pay.
+All such payments shall be made within thirty (30) days after the conclusion of the month in which such hours were worked.	-
+The Training Fund shall be administered by four Trustees, two of whom shall be designated by Local 731 and the other two of whom shall be designated by the G.C.A.
+Each of the Employers shall comply with, and abide by, all rules, regulations, conditions, provisions and bylaws made, established and
+50
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+promulgated by said Trustees for the administration of said Training Fund.
+Every present and future salaried regular employee of Local 731, the Welfare Fund, the Pension Fund, the Annuity Fund and the Training Fund may participate in the benefits provided herein for employees of each of the Employers for whose benefit the aforementioned contributions are made to the Training Fund, provided that contributions at the rates hereinbefore stated are made to the Training Fund for or on behalf of said employees of Local 731, the Welfare Fund, the Pension Fund, the Annuity Fund and the Training Fund by the respective Employers of said employees on the same basis outlined in the first paragraph of this Section 4 of Article VIII.
+The Training Fund shall also train apprentices employed by contributing employers.
+Any apprentice hired shall work as a productive member of the crew. Section 5(a) - Union Membership Supplemental Dues
+Each of the Employers shall also deduct weekly from the gross wages of each member of Local 731 employed by his Employer in the territorial jurisdiction of Local 731 the following sums:
+Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005
+$0.85	$0.95	$0.95	$0.95
+for each hour worked during said periods by each such member who has executed an authorization permitting, allowing or authorizing such deduction for or on account of supplemental membership dues due, or to become due, from such member to Local 731. The foregoing payments shall
+51
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002
+2006
+be based upon hours worked, not on premium portion of time and one-half or double time rate of pay. within thirty (30) days after the conclusion of the month in which such hours are worked by each such Local 731 member, each of the Employers shall pay to Local 731 the aggregate of all such amounts deducted during such concluded month from the wages of each such member of Local 731. Each such monthly payment shall be made by each of the Employers to Local 731 at the same time that payment is made by each of the Employers to Excavators Union Local 731 Welfare Fund, Excavators Union Local 731 Pension Fund, Excavators Union Local 731 Annuity Fund and the LIUNA Local 731 Training Fund of the amounts required to be paid to each of said Funds pursuant to the provisions contained in the first paragraphs of Sections 1,2,3 and 4 of this Article VIII. No obligation or responsibility of any kind is assumed by the Welfare Fund, the Pension Fund, the Annuity Fund or the Training Fund for the collection of said amounts. The only obligation of the Welfare Fund, Pension Fund, Annuity Fund and the Training Fund with respect to the remittances required to be sent or sent by each of the Employers to Local 731, by remittance(s> payable to Local 731, as aforementioned, is limited to the Fund(s) receiving same, sending or delivering to Local 731, not less frequently than quarter annually, all such remittances actually received by the Welfare Fund, Pension Fund, Annuity Fund and/or the Training Fund, less the costs to said Fund(s) of administration with respect to the collection of said amounts so deducted during such concluded month from the wages of each such member of Local 731, the bookkeeping, accounting, and forwarding or delivery of said remittances
+52
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+to Local 731, as well as the setting up of the machinery and procedures relating to such collection and remittance. Local 731 agrees to indemnify and to hold harmless the Employer from any and all claims, actions and/or proceedings arising out of said Dues Checkoff except those arising from the failure or refusal of the Employer to duly pay to Local 731, as hereinbefore provided, any and all amounts deducted from the wages of each of the Local 731 members referred to in the first sentence of this Section 5(a) as provided in the third and fourth sentences of this Section 5(a).
+Section 5(b) - Political Action Committee
+The Employer agrees to deduct and transmit to the New York Laborers' Political Action Committee the following sums:
+Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005
+$0.05	$0.05	$0.05	$0.05
+for each hour worked from the wages of those employees who have voluntarily authorized such contributions on the authorization forms provided for that purpose by the Union. These transmittals shall be made within thirty (30) days after the conclusion of the month in which said hours are worked. The Employer shall list the names of the Employees for whom such deductions have been made and the amount deducted for each such Employee in the Employer's monthly report showing Welfare Fund contributions, Pension Fund contributions, Annuity Fund contributions, Training Fund contributions, dues check off, etc. Local 731 agrees to indemnify and to hold harmless the Employer from any and all claims, actions and/or proceedings arising out of said deductions for
+53
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+contributions to the New York Laborers' Political Action Committee except those arising from the failure or refusal of the Employer to duly pay to the New York Laborers' Political Action Committee, as hereinbefore provided, any and all amounts deducted from the wages of each such f. authorizing Employee referred to in the first sentence of this Section 5b as provided in the second sentence of this Section 5b.
+Section 5	(c) - Duties of Employer To Funds With Respect To New Hires
+The Employer will, as part of his monthly reporting procedures, add the name, social security number and address of new hires working under the jurisdiction of Local 731, and the job location(s) of their current projects on forms provided by the Funds.
+Section 6	- Heavy Construction Industry Fund
+For the benefit of the Heavy Construction Industry Fund (hereinafter called "Heavy Construction Industry Fund"), each of the Employers shall also send monthly to the welfare Fund its (the Employer's) remittance payable to the Heavy Construction Industry Fund for the aggregate of the sums of thirty-five cents ($0.35) effective July 1, 2002, by all building, concrete, excavating and common laborers and by all Foremen employed by each of the Employers in the territorial jurisdiction of Local 731, with the distinct understanding, however, that in- connection ■ therewith, except as hereinafter provided in the succeeding sentence hereof, the Welfare Fund neither assumes nor has any obligation or responsibility of any kind to anyone for the collection of said sums or otherwise. The foregoing payments shall be based upon hours worked, not on premium portion of time and one-half or double time rate of pay. The Welfare Fund's only obligation with respect to said remittances required
+54
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+to be sent by each of the Employers to the Welfare Fund by remittance payable to the Heavy Construction Industry Fund, as aforementioned, is limited to the Welfare Fund sending to the Heavy Construction Industry Fund not less frequently than monthly, all such remittances actually received by the Welfare Fund from Employers less than the Fund's cost of administration with respect to the collection of said contributions, the bookkeeping, accounting and forwarding of said remittances to the Heavy Construction Industry Fund as well as the setting up of machinery and procedures relating to such collection and remittance. All remittances of the sums referred to in the first sentence of this Section 6 shall be sent by each of the Employers to the Welfare Fund within thirty (30) days after the conclusion of the month in which the hours referred to in said first sentence were worked by the laborers and Foremen referred to in said first sentence.
+Section 7(a)
+Summary of Hourly Wages, Fringes, etc., for Laborers Other than Foremen:
+Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005
+Hourly Wage	$30.04	$31.29	$32.44	$33.59
+Fringe Benefits	$15.51	$16.43	$17.56	$18.69
+Total Wage & Fringe Benefits	$45.55	$47.72	$50.00	$52.28
+H.C.I.F.	$ 0.35	$ 0.35	$ 0.35	$ 0.35
+Section 7 (b) Summary of Hourly Wages,	Fringes, etc.	, for Foremen	■	
+Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005
+Hourly Wage	$32.54	$33.79	$34.94	$36.09
+55
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Fringe Benefits	$15.51	$16.43	$17.56	$18.69
+Total Wage £
+Fringe Benefits	$48.05	$50.22	$52.50	$54.78
+H.C.I.F.	$ 0.35	$ 0.35	$ 0.35	$ 0.35 Section 7(c) Checkoffs: 1.	The employer shall deduct the following supplemental dues check off from the wages: Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005 $ 0.85	$ 0.95	$ 0.95	$0.95 2.	The Employer shall deduct the following sums for the Political Action Committee.' Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005 4	$ 0.05	$ 0.05	$ 0.05	$ 0.05				
+Section 7(d>
+New York State Laborers-Employers Cooperation, and Education Trust
+The Employers and Local 731 recognize that they must confront many issues of mutual concern, which are more susceptible to resolution through labor-management cooperation than through collective bargaining.
+The Employers and Local 731 also recognize that workers as well as business benefit from labor-management cooperation. To seek resolution ’ of these mutual concerns and to advance mutual interests through labormanagement cooperative efforts, the Employers and Local 731 agree to participate in the New York State Laborers-Employers Cooperation and Education Trust ("LECET") which is established in accordance with Section 302(c)(9} of the Taft-Hartley Act [29 U.S. Code Section 186(c)(9)].
+Each Employer shall pay to the New York State LECET ten cents ($0.10) for each hour worked by all building, concrete, excavating and
+56
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+common laborers and by all foremen of laborers employed by each employer in the territorial jurisdiction of Local 731. All such payments shall be made within thirty [30) days after the conclusion of the month in which said hours were worked. The Employer shall list the names of the Employees for whom such contributions have been made and the amount contributed for each such Employee in the Employer's monthly report showing Excavators Local 731 Welfare, Pension, Annuity, and Training Funds (collectively "Benefits Funds") contributions, dues check off, etc.
+Such payments shall be sent, monthly, to the Benefits Funds with the understanding, however, that the Benefits Funds neither assume nor have any obligation or responsibility of any kind to anyone for the collection of said sums or otherwise. The Benefits Funds' only obligation with respect to said remittance is limited to sending same to the New York State LECET, not less frequently than monthly.
+Section 8(a) - Bonding
+Each of the Employers shall provide a surety company bond to guarantee payment to the Welfare Fund, the Pension Fund, the Annuity Fund and the Training Fund of all contributions of fringe benefits required to be paid pursuant to the provisions of Sections 1,2, 3 and 4 of this Article VIII.
+Such bonds shall be in the following amounts:
+if the	Employer	employs	1 to 10 workers:	$ 25,000.00
+if the	Employer	employs	11 to 20 workers:	$ 50,000.00
+if the	Employer	employs	21 to 50 workers:	$100,000.00
+if the	Employer	employs	over 50 workers:	$100,000.00	plus
+$2,500.00 for each worker in excess of 50 workers
+57
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Upon signing this agreement, an Employer shall, within six weeks, provide the requisite bond or submit a letter of rej ection from a licensed surety bond company establishing to the satisfaction of Local 731 that the contractor is unable to obtain a bond. In the event the contractor is unable to obtain such bond, the contractor must deposit the cash alternative provided for in Section 8(b) of this Article VIII.
+If neither the bond nor the cash alternative is received by Local 731 within six weeks after the signing of the agreement, Local 731 may remove such contractor's laborers without notice. During the six-week grace period for obtaining the bond, the contractor must make weekly payments until the bond is provided or the requisite cash alternative is provided to the Union. If no weekly payment is received at the end of three weeks, the contractor's laborers may be removed without notice.
+A member of the General Contractors Association, whose records have been audited by the Fund's Auditors and said records do not show a material discrepancy of 5% or more, shall not be required to post a bond. Thereafter, if said Employers records are audited by the Fund's Auditors and the audit shows a material discrepancy, the Employer shall be required to post a bond in the amount set forth in this section.
+Any member of the GCA whose records have never been audited by the funds shall be required to post a bond as set forth in this section. An Employer affiliated by common ownership or through a joint venture with a member of the GCA may not be required to post an additional bond under this section.
+58
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Section 8(b) - Cash Alternative to Bond
+In the event the Employer has established to the satisfaction of Local 731 that it is unable to obtain such surety company bond, it shall deliver to and deposit with Local 731 a cash alternative of $2,500 per Employee. In the event monthly contributions exceed the bond amount or in the event the Employer has provided a cash deposit alternative to a bond and the monthly amount due for any month exceeds the sum on deposit, the Employer shall be required to increase the penal sum of the bond or said cash deposit alternative, as the case may be, upon ten (10) days written notice. In the event the Employer fails to provide such increased bond or increase said cash deposit, Local 731 may, upon fifteen (15) days further written notice, remove the workers under its jurisdiction. The cash alternative payment shall be made by certified check, bank cashiers check, or bank money order. Such payment shall be maintained in a regular or general bank account maintained by the Excavators Union Local 731 Benefits Funds in order to secure payment of any and all contributions due and to become due from the Employer to the Trustees of the Funds and said Trustees may deliver any part or all of said sum on deposit, to said Trustees in their exclusive discretion and whenever it is deemed advisable by said Trustees to do so, without further notice to the Employer, to use and apply part or all of said proceeds to the payment of any or all amounts due to the Funds pursuant to Article VIII hereof. No interest shall accrue for, be payable to or accountable to the Employer on said proceeds while same or any part thereof remains on deposit and said proceeds may be commingled by the Trustees of the Funds with any other monies on deposit.
+59
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Section 9	- Method of Payment
+The Union and Employer agree that the payment of all benefits shall be by one check made payable to the order of the Excavators Union Local 731 Benefits Funds. Said check shall be made out to a depository account and then shall be allotted in accordance with this collective bargaining agreement.
+The Employer recognizes that when the payment of fringe benefit contributions to Excavators Union Local 731 Benefits Funds, or remittance of Union membership supplemental dues check-offs to the Union, pursuant to the Agreement is made by check or other negotiable instrument which is returned uncollected, Excavators Union Local 731 Benefits Funds and/or the Union incur additional cost and expense. The Employer hereby agrees that in the event any payment to the Excavators Union Local 731 Benefits Funds, or the Union, by check or other negotiable instrument, results in the check’or negotiable instrument being returned without payment after being duly presented, the Employer shall be liable for additional damages in the amount of $100.00 to cover such additional costs, charges and expenses. Nothing herein is intended, nor shall be interpreted, to mean that the Excavators Union Local 731 Benefits Funds, or Union, waive any other remedies including, but not limited to any liquidated damages required to -be paid pursuant to this Agreement, in the event Employer contributions are not paid in full and at the time required.
+Section 10	- Records - Reports - Liability
+Each of the Employers shall promptly furnish to the-Trustees of said Welfare Fund, the Trustees of said Pension Fund, the Trustees of said Annuity Fund, the Trustees of said Training Fund and the Trustees of said
+60
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Heavy Construction Industry Funds, on demand, any and all wage records relating to all building, concrete, excavating and common laborers and all Foremen of said laborers employed by each of the Employers in the territorial jurisdiction of Local 731. Besides such wage records, each of the Employers shall also provide to the Trustees, together with the payment of such contributions or, at such other intervals as the Trustees may request, written reports as to the wages paid to, and work records of, said laborers and Foremen, other payroll data, such as social security, unemployment insurance and compensation insurance records as well a's any and all other data pertaining thereto and the contributions due or payable to the said Funds, as the Trustees of said Funds may now or hereafter require.
+The books and records of the Employer shall be made available at all reasonable times for inspection and audit by, but not limited to, the accountants, independent auditors or other representatives of the Trustees of the Welfare, Pension, Annuity, Training and Heavy Construction Industry Funds. In addition, the books, records, information and documentation of any subsidiary, "alter ego" when performing work under the jurisdiction of Local 731 or joint venture of the Employer shall also be made available, at all reasonable times, for inspection and audit by, but not limited to, the accountants, independent auditors or other representatives of the Welfare, Pension, Annuity, Training and/or Heavy Construction Industry Funds. The Employer shall retain, for a minimum period of six (6) years, all records necessary for the conduct of a proper audit in order that a designated representative of the Trustees may make periodic review to confirm that contributions
+61
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+owed pursuant to this Agreement are paid in full. If after the Trustees have made a reasonable request, the Employer fails to produce the documentation necessary for a proper audit, the Trustees, in their sole ' discretion, may determine that the Employer's monthly hours subject to contributions for each month of the requested audit period are the highest number of employee hours during the last twelve (12) months for which reports were filed. Such determination by the Trustees shall constitute presumptive evidence of delinquency. Before making such determination, the Trustees shall give seven (7) days written notice to the Employer. Nothing herein shall mean that the Funds relinquish their right to commence legal proceedings to compel an examination of the Employer's books and records for audit.
+When auditors are sent to audit the books and records of an Employer, and an appointment time is scheduled, and not canceled or rescheduled in a timely manner and the auditor cannot start at the appointed time and date and must return, through no fault of his own, the Employer shall be penalized and pay to the Benefits Fund the sum of two hundred fifty dollars ($250.00) per auditor.
+Any Employer whose account with the Welfare, Pension, Annuity, Heavy Construction Industry or Training Funds is found by the Trustees, upon regular or special audit, to be substantially delinquent (over $1,000.00) is to be charged the full cost of this audit.
+Where payment is made or an audit is conducted' pursuant to a judgment or Court order, the Employer recognizes the right of the Trustees of Excavators Union Local 731 Benefits Fund to have the Court enter an order permanently enjoining the Employer and its agents,
+62
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+representatives, directors, officers, stockholders, successors and assigns, for the remaining term of this Agreement from failing, refusing or neglecting to submit the required contributions to Excavators Union Local 731 Benefits Funds and requiring the Employer to cooperate in an audit in accordance with the provisions of this Agreement. Once a decision has been rendered by the Courts, it shall be considered final and binding.
+Any Employer who is delinquent in paying its monthly contributions to the Excavators Union Local 731 Benefits Funds shall pay interest of twelve percent (12%) per annum on all late payments or such amount of interest as the U.S. Department of Labor or the Internal Revenue Service may permit Trustees of employee benefit funds to collect for late payment of contributions, whichever amount is greater. .
+If any of the Employers does not fully and duly report or timely pay all amounts due as contributions to any or all of said funds in accordance with the above provisions, in any arbitration as provided herein, or in any action under the Multi-Employer Pension Plan Amendments Act of 1980 (hereinafter "Title") by a fiduciary for or on behalf of any or all of the Funds to enforce payment of contributions or to enforce Section 306 of the Title in which a judgment in favor of any or all of the Funds is awarded, the arbitrator or the Court shall award the Fund(s):
+A)	the unpaid contributions;
+B)	interest at the rate of twelve percent (12%) on the unpaid contributions;
+C)	an amount equal to the greater of -
+63
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+i)	interest on the unpaid contributions, or ii) liquidated damages provided for under the plan in an amount not in excess of 20 percent;
+D)	reasonable attorney's fees and costs of the action, to be paid by the respondent or defendant; and
+E)	such other legal or equitable relief as the arbitrator or the court deems appropriate.
+ARTICLE IX
+Work Stoppage for Default in Payment of Wages and/or Welfare Pension and Annuity Payments
+Section 1
+Should any Employer default in making payment, when due, of any of the wages required to be paid pursuant to Article VII, Section 4 of this Agreement and such default/defaults continue after three (3) working days written notice thereof is given to it (said defaulting Employer), pursuant to Article IV, Section 1, following which, or as a result of which, Local 731 removes or causes to be removed from any job any of the workers under its jurisdiction, then, and in either of such events, said Employer shall pay to each of such Employees, so removed, the amount of compensation lost by such Employees as a result of such removal, not exceeding, however, in any event, the equivalent of three (3) days pay at the straight time rate. If Laborers are removed from a job for any reason under this Agreement upon which wages, working dues, check-offs, PAC contributions or contributions to the Local 731 Trust Funds are unpaid, Laborers may refuse to return to work thereon until these wages,
+64
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+working dues check-offs, PAC contributions and/or contributions to the Laborers Local 731 Trust Funds are paid.
+Section 2	- Removal of Workers upon Default
+Should any Employer default in making payment, when due, of any of the amounts or contributions required to be paid to the Welfare Fund, the Pension Fund, the Annuity Fund and/or the Training Fund pursuant to Article VIII of this Agreement, and such default(s) continue(s) after three (3) working days written notice thereof is given to it (said defaulting Employer) in any manner provided in the Articles detailing "Notices" following which, or as a result of which, Local 731 removes or causes to be removed from any job any of the workers under its jurisdiction, then, and in either of such events, said Employer shall pay to each of such Employees, so removed, the amount of compensation lost by such Employee as a result of such removal, not exceeding, however, in any event, the equivalent of three (3) days pay at the straight time rate. This clause notwithstanding, when an Employer declares itself or is declared under Chapter XI to be bankrupt and said Employer is then delinquent to the Funds, the Union in that instance may then remove its workers from the employ of said Employer.
+Section 3	- Arbitration
+Should any controversy, dispute or disagreement arise between the parties hereto, the Union and any of the Employers or any of the Employers and the Excavators Union Local 731 Welfare Fund (Welfare Fund), the Excavators Union Local 731 Pension Fund (Pension Fund), the Excavators Union Local 731 Annuity Fund (Annuity Fund), LIUNA Local 731 Training Fund (Training Fund) and/or the Heavy Construction Industry
+65
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+Fund, regarding or with respect to the payment or alleged nonpayment of any of the wages required to be paid to laborers and Foremen of laborers pursuant to Article VII hereof or contributions required to be paid to the Welfare Fund, the Pension Fund, the Annuity Fund and/or the Training ^vund pursuant to Sections 1,2,3 and/or 4 of Article VIII hereof, interest on said contributions, liquidated damages, attorney's fees and/or costs as provided in Section 10 of Article VIII hereof, the union membership supplemental dues check off pursuant to Article VIII, Section 5(a) to the Union and any of the payments due to the Heavy Construction Industry Fund, pursuant to Section 6 of Article VIII hereof, then, and in any such event, any of the parties hereto, any of the Employers, the Union, the Welfare Fund, the Pension Fund, the Annuity Fund, the Training Fund, the Heavy Construction industry Fund and/or the Trustees of one or more of said Funds or the attorney (s) for any one or more of them, may seek arbitration of said controversy, dispute or disagreement of any claim(s) arising therefrom. Any such controversy, dispute or disagreement shall be submitted to arbitration before a single arbitrator who is one of the impartial arbitrators designated below by serving upon the other party or parties to such controversy, dispute or disagreement, a demand for s arbitration or a notice of intention to arbitrate, specifying the agreement pursuant to which arbitration is sought and the name and address of the party serving the notice, and the name and address of an officer or agent thereof if such person is an association or a corporation, and stating that unless the party served applies to stay the arbitration within twenty (20) days after such service, he/she/they/it shall thereafter be precluded from objecting that a valid agreement was
+66
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+not made or has not been complied with and from asserting in court the bar of a limitation of time. Such notice or demand shall be served in the same manner as a summons or by registered or certified mail, return receipt requested. An application to stay arbitration must be made by the party served within twenty (20> days after service upon him/her/them/it of the notice or demand, or he/she/they/it shall be so precluded. Notice of such application shall be served in the same manner as a summons or by registered or certified mail, return receipt requested. Service of the notice of application may be made upon the adverse party, or upon his/her/their/its attorney if the attorney's name appears on ‘the demand for arbitration or the notice of intention to arbitrate. Service of the notice of application by mail shall be timely if such notice of application is posted within the prescribed period. A hearing shall be held before such impartial arbitrator at a time, date and place designated by him within twenty (20) days after the expiration of the aforementioned twenty (20) day period and such impartial arbitrator shall make his award within twenty (20) days after the date of the closing of the hearing before him. The arbitrator shall have full and complete authority and power to decide any and all issues raised by the submission and to award appropriate damages, including, but not limited to the amount of wages found to be due, the amount of the unpaid contributions, interest thereon, liquidated damages, reasonable attorney's fees and the costs of the arbitration as prescribed in Section 10 of Article VIII of the within agreement plus the amount of the fees to be paid to the arbitrator, all of which shall be included in the award and be paid by the losing party. Such arbitrator, in his sole and
+67
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+unreviewable discretion, may receive and consider the evidence of witnesses by affidavit but shall give such affidavit only such weight as the arbitrator deems it (said affidavit) to be entitled after giving consideration to any objections made to its admission. The award of such arbitrator shall be final, binding and conclusive upon the parties and judgment upon any award rendered by such arbitrator may be entered in any Court having jurisdiction thereof.
+The arbitrator shall serve, in order, from a panel of two, as follows:
+1)	Stephen F. O'Beirne, 176 Washington Ave-, Clifton, New Jersey 07011
+2)	Thomas J. Hanrahan, Esq., P.O. Box 140, Glen Rock, New Jersey 07452-0140.
+If either arbitrator is not available or is unable or unwilling to serve for any reason, the other of them shall serve. If both are unwilling or unable to serve as such impartial arbitrator, then, and in that event, in their place and stead, the Chairman of the Employment Relations Board of the New York State Department of Labor shall designate and appoint an impartial arbitrator to serve.
+The foregoing agreement of the parties to submit such controversy, dispute or disagreement or any claim arising therefrom, to an impartial arbitrator does not excuse any Employer or officer(s) of any Employer from any statutory, civil or criminal liability which may attach to or result from the failure of any such Employer to make payment of the aforementioned contributions, interest, liquidated damages, attorney's
+68
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+fees and/or costs as provided in the last paragraph of Article vm, Section 10 hereof. If the amount awarded by such impartial arbitrator is not paid within five (5) days after the making of such award, and Local 7 31 has not already removed or caused to be removed any of the Laborers and Foremen under its jurisdiction pursuant to Section 1 of Article IV hereinabove, Local 731 may remove or cause to be removed from any job of said Employer any of the laborers and Foremen of laborers under the jurisdiction of Local 731 employed thereon and, in such event, the Employer shall pay to each of those of such laborers and Foremen of laborers so removed, the amount of compensation lost by him as a result of such removal, not exceeding, however, in any event, the equivalent of three days' pay at straight time rates.
+Section 4
+The Employer hereby agrees to be bound by and to all terms and conditions of the Agreements and Declarations of Trust, as though it had actually signed the individual documents and further agrees to be bound by all actions taken by the Trustees of Excavators Local Union 731 Benefits Funds pursuant to said Agreements and Declarations of Trust, as amended, and their respective Plans, as amended, by all By-Laws, rules and resolutions adopted to regulate each of the Excavators Union Local 731 Benefits Funds.
+ARTICLE X
+Legality Section 1
+Any provisions of this Agreement which provide for union security or employment in a manner and to any extent prohibited by any law or the
+69
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+determination of any governmental board or agency shall be and hereby are of no force or effect during the term of any such prohibition. It is agreed that there shall be no discrimination against any Employee or prospective Employee in violation of the law. it is understood and agreed, however, that if any of the provisions which are hereby declared to be of no force or effect because of restrictions imposed by law are determined either by an Act of Congress or other legislative enactment or by a decision of the Court of highest recourse to be legal or permissible, then any such provisions shall immediately become and remain effective during the remainder of the term of this Agreement. Local 731 reserves 'the right to renegotiate any of the provisions, which may be of no force-* or effect. In the event that there shall be a change in applicable laws as to union security, the parties shall renegotiate any provisions concerning union security.
+Section 2	'
+In the event that any provisions of this Agreement shall be declared to be in violation of the law, the remaining provisions of this Agreement shall remain in force and effect.
+Section 3
+Should any of the Employers terminate its membership in the GCA or should the GCA terminate the membership of any of the Employers in said Association during the term of this Agreement, then, and in either of such events, such termination, regardless of the reason therefore shall in no way change, modify, diminish or effect any of its rights and liabilities under and pursuant to the provisions of this Agreement during the term of this Agreement -
+70
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+ARTICLE XI
+Notices
+All notices required to be given pursuant to this Agreement except for the Notice of and Demand for Arbitration provided in Section 2 of Article IV or Section 3 of Article IX of this Agreement shall be in writing and may be delivered in person, by facsimile transmission, by ordinary first class mail, by certified mail, return receipt requested or by overnight guaranteed-next-day-delivery service to the Contractor.
+*	ARTICLE XII
+Execution of Agreement
+if this Agreement is executed on behalf of any one of the Employers who is/are a male and/or a female person (s), or a combination of either of them, or a combination of either or any of them and a corporation, then, and in any such event(s) the relative words herein shall be read as if written in the masculine or feminine gender, or in the plural, as the case may be.
+ARTICLE XIII
+Term of Agreement
+The term of this Agreement shall commence on and as of the 1st day of July 2002 and shall terminate at midnight June 30th, 2006.
+71
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+ARTICLE XIV
+Intent of Agreement
+This Agreement supersedes and takes the place of all agreements ‘heretofore made, as of July 1, 2002, by and between the parties hereto. This Agreement and all of its terms and provisions are based on an effort and a spirit of bringing about more equitable conditions in the Construction Industry, and the language herein shall not be misconstrued to evade the principles or intent of this Agreement.
+This Agreement may not be altered, modified or changed in any way unless any such proposed alteration, modification or change is in writing, is approved by the Union and is initialed or signed by an officer-of the Union at the location in the Agreement of such proposed alteration, modification or change.
+IN WITNESS WHEREOF, this Agreement has been executed and entered into as of the first day of July, 2002 hereof by the duly authorized representatives of Local 731 and on behalf of Local 731 and by the Director of Labor Relations of the General Contractors Association pursuant to the authorization of and on behalf of those members of said Association and other Employers whose names have been set forth on the succeeding pages hereof or who may hereafter become parties to this agreement by executing a counterpart thereof or authorizing the execution thereof on his, her/their/its behalf by said Director of Labor Relations of the General Contractors Association.
+72
+GENERAL CONTRACTORS ASSOCIATION - LABORERS - 2002 - 2006
+THE GENERAL CONTRACTORS ASSOCIATION OF NEW YORK, INC.
+BUILDING, & COMMON LOCAL NO. NEW YORK,
+CONCRETE, EXCAVATING
+LABORERS' UNION
+731 OF GREATER LONG ISLAND & VICINITY
+Victor P. Panica President
+73
+APPENDIX A UTILITY RATES
+The Employees working under these rates receive full Pension, Welfare, Training and Annuity Contributions
+LABORERS LOCAL 731 UTILITY RATES					
+t 1.	UTILITY FOREMAN				
+	Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005
+	Hourly Wage	$32.39	$33.64	$34.79	$35.94
+	Fringe Benefits	$15.51	$16.43	$17.56	$18.69
+	Total Wage &				
+	Fringe Benefits	$47.90	$50.07	$52.35	$54.63
+	H.C.I.F.	$ 0.35	$ 0.35	$ 0.35	$ 0.35
+2 .	UTILITY LABORER				
+	Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005
+	Hourly Wage	$29.89	$31.14	$32.29	$33.44
+	Fringe Benefits	$15.51	$16.43	$17.56	$18.69
+	Total Wage &				
+	Fringe Benefits	$45.40	$47.57	$49.85	$52.13
+	H.C.I.F.	$ 0.35	$ 0.35	$ 0.35	$ 0.35
+SPECIAL NOTE; DUES CHECKOFF
+The Employer shall deduct the following supplemental dues check offs from the above wages:
+, Effective Date:	7/1/2002	7/1/2003	7/1/2004	7/1/2005
+I	$ 0.85	9 0.95	$ 0.95	$ 0.95
+74

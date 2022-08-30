@@ -1,0 +1,755 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection
+Title: Los Angeles Unified School District and California School Employees Association (CSEA), (2002) (MOA)
+K#: 820850
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+The complete metadata for each collective bargaining agreement can be found at -
+http://digitalcommons.ilr.cornell.edU/blscontracts/1/
+For a glossary of the elements see - http://digitalcommons.ilr.cornell.edU/blscontracts/2/
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+For more information aboUt the BLS Contract Collection, see http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+3-
+7/^3
+2002-2005
+AGREEMENT
+UNIT D (OFFICE-TECHNICAL AND BUSINESS SERVICES)
+LOS ANGELES UNIFIED SCHOOL DISTRICT AND
+CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION
+-	- ^36 |<£
+
+TABLE OF CONTENTS
+Agreement...............................................  1
+Article I	Recognition...............................................1
+Article II	Separability and Savings..................................6
+Article III	District Rights...........................................7
+Article IV	CSEA Rights..............................................11
+Article V	Grievance Procedure.......................................15
+Article VI	Work Stoppage.............................................21
+Article VII	Non-Discrimination........................................22
+Article VIII	Union Security and Dues Deduction.........................23
+Article IX	Hours and Overtime........................................26
+Article X	Evaluation Procedure......................................31
+Article XI	Leaves of Absence.........................................34
+Article XII	Wages and Salaries........................................51
+Article XIII	Health and Welfare........................................58
+Article XIV	Transfer Procedures.......................................69
+Article XV	Professional Growth.......................................71
+Article XVI	Reclassification Procedure................................74
+Article XVII	Job Stewards..............................................75
+Article XVIII	Holidays..................................................76
+Article XIX	Vacation..................................................78
+Article XX	Safety Conditions.........................................82
+Article XXI	Entire Agreement..........................................83
+Article XXII	Term of Agreement.........................................84
+Appendix A 2002-2003 Wages and Salaries ..................................85
+Appendix B	Memorandum of Understanding Regarding Layoff, Hours Reductions, and Reassignments............................................92
+Appendix C	2002-2005 Memorandum of Understanding.....................99
+11-06-02
+F:CONTRACT:02-05 UNIT D:ART I
+AGREEMENT
+THIS AGREEMENT is made and entered into this 6th day of November 2002 by and between the Board of Education of the Los Angeles Unified School District, which together with its administrative staff and representatives will be referred to in this Agreement as the “District” and California School Employees Association (CSEA) which together with its officers and representatives will be referred to in this Agreement as “CSEA”.
+ARTICLE I
+RECOGNITION
+1.0 The Unit: Pursuant to applicable California statutes, regulations, and the Consent Election Agreement dated February 15, 1978, in PERB Case No. LA-R-1, the District acknowledges that CSEA has been certified as the exclusive representative of a bargaining unit comprised of all regular employees in probationary and permanent status, including CETA and other restricted and part-time employees, employed in the following classes:
+Class
+Code	Class Title		
+1328	Accounting Applications	Class Code	Class Title
+1351	Assistant Accounting Technician I	2155	Assistant Environmental
+1331 2076	Accounting Technician II Administrative Aide	4423	Planning Specialist Assistant Industrial Hygienist
+5073	Administrative Analyst	3815	Assistant Programmer Analyst
+2071	Administrative Assistant	2156	Assistant Realty Agent
+5021	Administrative Staff Aide	1196	Assistant Software Engineer
+2084	Administrative Trainee	1079	Assistant Systems and
+2092 1356	Adopt-a-School Coordinator Adult School Financial	1106	Programming Analyst Associate Financial Analyst
+2671	Manager Adult School Office Assistant	5018 4646	Associate Personnel Analyst Audio-Visual Preview Clerk
+2730	Assignment Technician	1221	Auditor
+5086	Assistant Administrative	2185	Bond Oversight Committee
+5141	Analyst Assistant Buyer	1516	Coordinator Boundary Coordinator
+1779	Assistant Environmental	2810	Braille Typist
+	Assessment Coordinator	2547 1314	Budget Technician Building Program Accounting
+Technician
+11-06-02
+F:CONTRACT:00-02 UNIT D:ART I
+1
+Article I - Recognition
+Class Code	Class Title	Class Code	Class Title
+1389	Investigative Assistant	2287	Placement Coordinator for the
+1389	Investigator		Deaf
+3862	IT Customer Service Support	4853	Police Communications
+	Analyst		Representative
+3861	IT Customer Service Support	5125	Produce Buyer
+	Representative	5600	Program Associate A
+4748	Job Cost Data Entry Operator	5601	Program Associate B
+5097	Labor Compliance Technician	5602	Program Associate C
+2680	Library Aide	5603	Program Associate D
+2616	Library Clerk	5604	Program Associate E
+2623	Library Media Clerk	5607	Program Associate H
+4643	Life Science Laboratory	3812	Programmer Analyst, COBOL
+	Technician	3813	Programmer Analyst, Oracle
+2226	Mail Clerk	3814	Programmer Analyst, Visual
+2608	Maintenance Materials Clerk		Basic'
+2691	Meal Compliance Audit Clerk	2603	Publications Clerk
+2352	Medi-Cal Advocate	3017	Quality Assurance and Quality
+2353	Medi-Cal Advocate (Spanish		Control Coordinator
+	Language)	4854	Radiotelephone Operator
+2638	Medical Assistant	2146	Realty Agent
+2702	Media and Materials Assistant	2248	Salary Credits Assistant
+4636	Media Technical Assistant	1347	School Accounting Clerk
+2661	Microfilm Operator	2878	School Office Computer
+1267	Occupational Center Financial		Coordinator (Adult)
+	Manager	2874	School Office Computer
+4420	Occupational Health Nurse		Coordinator (Elementary)
+2828	Office Assistant '	2876	School Office Computer
+2846	; Office Assistant (Restricted)		Coordinator (Secondary)
+2811	Office Computer Operator	5650	School Office Procedures
+2093	OfficeManagement Assistant - On-Air Promotions Producer		Trainer
+2167		2800	- Secretary/Secretary (Restricted)
+2336	! Order Clerk	; v	2963	Selection Technician
+5520	Parent Community Facilitator	2725'	Senior Assignment Technician
+2790	Parent “Network'Liaison' : :	1215'	Senior Auditor
+	Coordinator' ' ■	4721 ;;	Senior Calculating Machine
+2700	Part-time Clerk-		Operator Senior Centrex Operator
+1402	Payroll Auditor	'!j	4848 T	
+1341	Payroll Distribution Assistant Payroll Retifefrient Specialist	5089	Senior Educational Research
+5063			Analyst Senior Environmental Laboratory
+1336	Payroll Technician	1797 -	
+5020	PersonnelAnalyst		; -^Technician
+2276	Personnel Clerk	1265	Senior Financial Manager
+4641	Photographer	4614	Senior Illustrator
+4406	Physician Assistant/Nurse -	1400	Senior Internal Auditor
+	Practitioner	4615	Senior Interpreting Equipment
+2267	Placement Assistant		Technician
+11-06-02
+F.CONTRACT.00-02 UNIT D:ART I
+3
+Article I - Recognition
+District creates new classifications or when the Union contends that certain classifications should be accredited to the unit. Disputes over unit composition and alleged violations of this Article are not subject to the grievance and arbitration procedures of this Agreement.
+3.0 “Employees” Defined: Unless the context clearly indicates otherwise, the terms “employee” or “employees” will normally be used in this Agreement to indicate persons who are included within the unit, and the term “Personnel” will normally be used in a broader sense to include employees as defined above plus all other persons utilized by the District to provide services.
+4.0 Employees with more than one job assignment who function for a majority of the work period in any of the classifications listed in Section 1.6' of Appendix A shall be considered in the unit. Should an employee’s job involve an equal number of hours in different assignments, the employee shgll be considered as included in the unit only if that employee has functioned in one of the foregoing classifications for the longest period of time based upon the date of regular assignment.
+11-06-02	.	......
+F:CONTRACT:00-62 UNIT D:ART I “	5
+ARTICLE III
+DISTRICT RIGHTS
+1.0 General: The intention, of this Article is to provide that the District retains all rights and powers which have not been limited by the other Articles of this Agreement. The provisions of this Article are not intended to expand the rights of the District beyond statutory and constitutional limits, of in any manner to waive or diminish the rights of CSEA or the employees as provided in the other Articles of this Agreement. In the event that there is a conflict between the rights of the District under this Article and the rights of CSEA or employees as set forth elsewhere in this Agreement, the provisions of the other Articles of this Agreement shall prevail. v
+2.0 District Rights: It is agreed that all matters which are beyond the scope of negotiations under Government Code Section 3543.2, and also all rights which are not limited by the terms of this Agreement are retained by the District. Such retained rights include, but are not limited to, the right to determine the following matters:
+a.	The legal, operational, geographical, and organizational structure of the District, including the chain of command, division of authority, organizational divisions and subdivisions, external and internal boundaries of all kinds, and advisory commissions and committees;
+b.	The financial structure of the District, including all sources and amounts of financial support, income, funding, taxes and debt, and all means and conditions necessary or incidental to the securing of same, including compliance with any qualifications or requirements imposed by law or by funding sources as a condition of receiving funds; all investment policies and practices; all budgetary matters and procedures, including the budget calendar, the budget formation process, accounting methods, fiscal and budget control policies and procedures, and all budgetary allocations, reserves, and expenditures, apart from those allocated to fund the express wage and benefit obligations of this Agreement;
+c.	The acquisition, disposition, number, location, types and utilization of all District properties and equipment, whether owned, leased, or otherwise controlled, including all facilities, grounds, parking areas and other improvements, and the type of personnel, work, services, and activity functions assigned to such properties;
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART III
+7
+Article III - District Rights
+j.	The dates, times, and hours of operation of District facilities, functions, and activities; work schedules; school calendar; the assignment of paid duty days beyond the regular assigned duty year; the assignment of overtime; subject only to Article IX (Hours and Overtime) and Article XVIII (Holidays).
+k.	Safety and security measures for employees, students, the public, properties, facilities, vehicles, materials, supplies, and equipment, including the various rules and duties for all personnel with respect to such matters subject only to Article XX (Safety).
+I.	The rules, regulations and policies for al! employees; students, and the public, subject only to the express limitations contained in this Agreement.
+m.	It is understood that several of the above-mentioned reserved rights are exercised in conjunction with or subject to Personnel Commission powers, functions and obligations, and where that occurs the above-mentioned rights of the District are intended to include the rights of the Commission.
+n. All other rights of the District not expressly limited by the language of this Agreement are also expressly reserved to the District even though not enumerated above, and the express provisions of this Agreement constitute the only contractual limitations upon the Distrtict's rights. The exercise of any right reserved to the District in a particular
+, manner or the non-exercise of any such right shall not be deemed a waiver of the District's right or preclude the District from exercising the right in a different manner. :	-
+; 3,0s Therightto '-determine" as used above in Section 2.0 includes the exclusive right to establish, change, modify, or discontinue in whole or in part, temporarily or permanently, any of the above matters.
+4.0 Effect on Grievance Procedure-.The contractual rights of CSEA and the employees are set forth in the other Articles of this Agreement and this Article is not a ^source of such rights. Accordingly, no grievances may be filed under this Article.! However, nothing in this Article shall prevent the filing of grievances under Articles of this Agreement which have not been excluded from the grievance procedure.
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART III
+9
+ARTICLE IV
+CSEA RIGHTS
+1.0 Access: Any authorized CSEA representative shall have the right of reasonable access to District facilities including employee mailboxes for the purpose of contacting employees and transacting matters. Upon arriving at a work site, the representative shall first report to the office of the site administrator and state the intended purpose and estimated length of visit. The representative may contact employees during duty free lunch periods, before and after employees' hours of service, or when the employee is. not engaged in duties. The representative shall not interrupt any employee's duties or assignments.,,.
+2.0	Bulletin Boards: CSEA shall have the right to post notices of
+official CSEA matters on a designated bulletin board or a section of a designated bulletin board established for CSEA's exclusive use at each work site where employees are assigned.
+3.0 Released Time for Negotiations: No more than five (5) negotiating team employee representatives designated by CSEA shall be released from duty with no loss of pay for the purpose of attending negotiation meetings with the District pursuant to this Agreement. CSEA and the District may agree that additional employees shall receive such released time.
+4.0 List of Employees: CSEA shall be provided quarterly a current list of names, employee numbers, classifications, addresses, and work locations of all employees covered by this Agreement.
+5.0 Upon reasonable notice, CSEA shall have the right to review an employee's Personnel File when accompanied by the employee or on presentation of written authorization signed by the employee.
+6.0 The District agrees to provide to new regular employees in the unit at the time they are processed materials containing accurate information about CSEA which materials CSEA furnishes to the District for such dissemination. Any dissemination of such materials must be approved by the Office of Staff Relations.
+7.0 CSEA State Officers: An excused absence shall be provided for five Unit members who hold CSEA state office, not to exceed seven (7) days per year each where their attendance is required, provided CSEA reimburses the District for the cost of the attendee's salary and benefits.
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART IV
+11
+Article IV - CSEA Rights
+10.3 When CSEA is invited to send an employee participant to a District-sponsored committee or meeting, one designated employee shall be given reasonable released time to attend. Such committees may include, but are not limited to, the E.A.P. Committee, Affirmative Action committee and A.Q.M.D. Committee.
+10.4 The supervisor and the employee are expected, where practical, to modify the employee's work schedule so as to minimize the amount of released time required for attendance. Expenses of attending any of the foregoing meetings shall be borne by CSEA or the employee. Employees are expected to return to work after attendance, if practical.
+10.5 If CSEA desires attendance of one designated employee at any other District meetings (other than negotiations) such as Board meetings or Board Committee meetings, CSEA may request approval and, CSEA may, after the sixth (6th) paid attendance in a fiscal year, be required to reimburse the District for the salary costs of the attending employee. Approval shall be granted where the designated employee is a speaker on the agenda.
+10.6 The parties understand that the immediate needs of a particular work group or area may, at any given time, prevent the release of a particular employee, in which case CSEA will be advised and may designate another employee to attend.
+11.0 Contracting-out and Use of Volunteers: The parties agree to the value of local school flexibility. However, in the exercise of its rights to contract put for services and to utilize volunteers, no school shall enter into any agreements or arrangements which directly cause the layoff by the District of permanent or probationary Unit D employees.
+;	12.0 District Contracting Out: Prior to implementing any decision
+to lay off Upit rripmfjer^-as a result of the District subcontracting to third parties or agencies the functions historically performed by Unit members, the District shall first notify and, upon request, negotiate with CSEA regarding the effects of such decision on Unit members represented by CSEA; however, any such pending negotiations shall not delay implementation of the District's decision. Upon written, request ;by CSE^ tp negotiate the effects of the District's subcontracting decision, the District shall provide CSEA with the following information to further such negotiations:, (1) tjieJob classification and number of the affected bargaining unit members; an$ (2) a copy of the signed contract.
+Nothing in this plause shall be construed as preventing or limiting the District in exercising its rightstocontract put as provided elsewhere in this Agreement.
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART IV
+13
+ARTICLE V
+GRIEVANCE PROCEDURE
+1.0 Grievance and Parties Defined: A grievance is defined as a claim that the District has violated an express term of this Agreement and that by reason of such violation the grievant's rights under this Agreement have been adversely affected. Grievances as so defined may be filed by:
+a.	An employee;
+b.	CSEA on behalf of an identified employee(s); or
+c.	CSEA on its own behalf as to alleged violations of rights granted to CSEA in this Agreement.
+1.1	All other matters and disputes of any nature are beyond the scope of this grievance procedure, including but not limited to those matters for which other methods of adjustment are provided by the District, such as reductions in force; examination procedures, results and references; performance evaluations; disciplinary matters; and complaints by one employee about another. Also excluded from this grievance procedure are those matters so indicated elsewhere in this Agreement. Claimed violations of Article VII (NonDiscrimination) may be processed through Steps One and Two only of this grievance procedure.
+1.2	The respondent in any grievance shall be the District itself rather than any individual supervisor or administrator.
+1.3	If the same grievance or essentially the same grievance is filed by more than one employee, then one employee may process the grievance under this Article on behalf of the other involved grievants. The final determination of that grievance shall apply to the other pending grievances.
+1.4	The filing or pendency of a grievance shall not delay or interfere with implementation of any District action during the processing thereof unless the parties agree to the contrary.
+1.5	Processing and discussing the merits of a grievance shall not be considered a waiver by the District of the defense that the matter is neither grievable nor subject to arbitration under this Agreement or that the grievance should be denied for other reasons which do not go to the merits.
+11-06-02
+F:CONTRACT:02-05 UNIT D:ART V
+15
+Article V - Grievance Procedure
+or discuss the grievance or evidence regarding the grievance (e.g., specific facts, positions of the parties, merits, etc.) This prohibition is not intended to restrict normal interviewing of witnesses and other necessary preparations for the hearing or internal communication by CSEA or the District for the purpose of evaluating, pursuing or resolving grievances. Moreover, nothing in this provision shall prohibit the internal disclosure by either the District or CSEA of the general fact that a grievance has been filed regarding a particular contractual dispute and that the parties are utilizing the grievance process in an attempt to resolve thatdispute.	;	,
+5.0	Effect of Time Limits: If a grievance is not processed by the grievant at any step in accordance with the time limits of this, Article, it shall be, deemed withdrawn. If the District fails to respond to the grievance in a timely manner at any step, the running of its. time limit shall be deemed a denial of the grievance and termination of the step in question, and.the grievant may proceed to the next step. All time limits and .grievance steps may be shortened;,, extended or waived, but only by mutual written agreement. ,
+6.0	“Dav” Defined: A "day" for purposes of this Article is defined as any day of the calendar year except Saturdays, Sundays, and legal (or school) holidays.
+7.0	Required Informal Discussion: Before filing a formal written , grievance under Step One, a grievant must attempt to resolve the dispute by presenting the grievance orally to the .immediate supervisor and discussing the grievance with the supervisor. The written grievance must be filed within the time limits required under Step One whether or not the grievant is able to utilize these informal efforts.
+,8.0 Step One: WithiOfteenT15).days, as defined in Section 6,0, after the grievant or CSEA kpew or reaspnably should have known of the occurrence of the facts,upon which the.grievanQq(is}.basqd, the grievance must be presented in writings to the immediate sppervispr onthe District Grievance Procedure Form gating the facts, surrounding the gri^vpnGe, identifying the . specific provisions of.this Agreement which are alleged to have been violated and the remedy requested. The form shaU besi^ned and dated by the grievant. A meeting between, the grievant and t^e immedijate supeivispr,shall take place within five (5) days-from presentation of'the grievance, and the supervisor shall reply in writing within five (5) days following the meeting. Unless there is a mutual written agreement to the contrary, Step One shall terminate at the close of business qn the ninth (Othy day following the Step One meeting.
+11-06-02
+F:CONTRACT:02-05 UNIT D:ART V
+17
+Article V - Grievance Procedure
+(60) days, the parties shall proceed to select another Arbitrator as indicated above. The District and CSEA shall each pay one-half of the fees of the Arbitrator. Each party shall bear the expense of the presentation of its own case.
+12.1	The hearing shall be under the direction of the Arbitrator who shall conduct all matters in accordance with the rules and procedures prescribed in Section 11513 of the Government Code except as otherwise indicated in this Article. Arbitration hearings5shall be private with attendance limited to the parties to the grievance and their representatives, if any, and . witnesses while testifying/; . js s	.	=
+12.2	The Office of Staff Relations shall be responsible for the arrangements for the hearing, the maintenance of records, and such other • services required by the Arbitrator for the fulfillment of the arbitrator's responsibilities.
+12.3	- The parties shall’exchange lists of proposed witnesses not later than five (5) days prior to the first date of the hearing.
+■	-i• '. ■	:	■	.	• ' ■ '
+12.4	Neither party shall communicate with the arbitrator without
+first contacting the other party to explain the purpose of the intended communication.	♦
+13.0 Optional Preliminary Hearing on Issues Which Do Not Involve Merits of Grievance: If the District claims that the grievance should be dismissed for reasons which do not go to the merits (e.g., mootness, timeliness, matter beyond the scope of procedure, or breach of confidentiality provisions) the District may cause its claim to beheard and ruled upon by the Arbitrator prior to a hearing on the merits. If the District plans to invoke this separate preliminary hearing, it shall so advise CSEA prior to the selection of the Arbitrator. Immediately after selection ofahe Arbitrator for the preliminary hearing, either CSEA or the Districtmay ■require that a different; Arbitrator be selected to hear the merits in the event that-such a hearing is required. There shall be at least fifteen (15) days between the‘Arbitrator's:decisionthe preliminary matter(s) and any hearing on the merits. The preliminary hearing is optional to the District, and if not utilized, the District shall not be precluded from raising its arbitrability defenses at the regular hearing, provided that it gives CSEA ten (10) days' notice of its intention to do so. Moreover, both CSEA and the District shall retain all rights they have under law to pursue issues; relating to arbitrability of a grievance.
+14.0 Limitations Upon the Arbitrator: The Arbitrator shall have no power, to alter, add to/or subtract from the terms of this Agreement, but shall only determine whether an express term of the Agreement has been violated as
+11-06-02
+F:CONTRACT:02-05 UNIT D:ART V
+19
+ARTICLE VI
+WORK STOPPAGE
+1.0 No Strikes: Apart from and in addition to any existing legal restrictions upon and remedies for work stoppage, CSEA agrees to the following:
+a.	During the term of this: Agreement, ; neither CSEA nor its respective offices or representatives shall urge,-call,, sanction or engage in any work stoppage, slowdown, or other concerted interference with normal District operations for any cause whatsoever. In the event of any actual or threatened strike, slowdown, or other work stoppage, CSEA and its officers, representatives and affiliates shalLtake all reasonable steps; within their control to avert or end the same; and	,
+b.	Any employee engaging in any strike, slowdown, or other work stoppage may be subjected to discipline or termination under applicable law.	;
+2.0 No Lockouts: The District agrees that it shall not engage in a lockout of unit members during the term of this Agreement. The term "lockout" is intended to cover a situation where the employer refuses to permit employees to work in an effort to obtain bargaining concessions from CSEA.
+.	3.0 Disputes arising under this Article are to be handled
+according to appropriate legal proceedings rather than the grievance and/or arbitration procedures of Article V.
+11-06-02
+F:CONTRACT:02-05 UNIT D:ART VI
+21
+ARTICLE VIII
+UNION SECURITY AND DUES DEDUCTION
+1.0 Voluntary Authorization: The District shall deduct CSEA membership dues ten (10) times per year in the amount specified by CSEA from the salary of each employee who has submitted a written authorization.
+2.0 Exclusive to CSEA: Payroll deductions for membership: dues from employees shall be exclusive on behalf of CSEA and no membership dues deductions are to be made on behalf of any other employee organization as defined in Government Code Section 3540.1(d),	>
+3.0 Remittance to CSEA: A deposit approximating the amount of dues so deducted shall be remitted to CSEA on payday, and the reconciled amount will be supplied to CSEA within thirty (30) days after the deductions are made, together with a list of affected employees.
+4.0 Dues Deductions: In instances where a dues deduction is not taken from an employee who has a valid authorization form on file, the missed deduction(s) will be taken from a subsequent salary payment and remitted to CSEA.
+5.0 A dues deduction may only be revoked by an employee in writing during the thirty (30) day period commencing 90 days before the expiration of the Agreement and/or upon expiration of the Agreement. The dues deduction shall automatically terminate if an employee terminates employment or otherwise ceases to be a member of the bargaining unit.
+6.0 Agency Fee Obligation: Those employees who are currently members of CSEA, and who have a dues deduction in effect, shall continue to have such dues deducted from their salary payments. Each employee (as defined in this Agreement) after thirty (30) days of initial employment, is required as a condition of continued employment either: (a) to be a member in good standing of CSEA, or (b) to satisfy the agency fee financial obligations set forth in Section 6.1 below, unless qualified for religious exemption as set forth in Section 6.2 below.
+6.1 Unless the employee has (a) voluntarily submitted to the District an effective dues deduction request, or (b) individually made direct financial arrangements satisfactory to CSEA as evidenced by notice of same by CSEA to the District, or (c) qualified for exemption based upon religious grounds
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART VIII
+23
+Article VIII - Union Security And Dues Deduction
+c.	An employee utilizing this religious exemption status who requests CSEA to utilize the grievance/arbitration provisions on the employee's, behalf, shall ;be subject to charges by.CSEA for the reasonable cost of using such procedures.
+6.3	Implementation Dates: - Any of the above-described payment obligations applicable to employees, shall be processed by the District with the payroll immediately following the effective-date of the payment requirement, provided that the information is on file with the Payroll Services Branch by the deadline for filing time reports. . -	•	>
+6.4	Indemnity/Hold-Harmless: CSEA agrees to.indemnify and hold the District harmless against any and all liabilities (including reasonable and necessary costs of litigation)1 arisingrtfornsany ^and $11 claims, demands; suits, or other actions relating to the District's compliance or attempted compliance with either this Article or the requests of CSEA pursuant to this Article,sor,relating to the conduct of CSEA. in administering this Article.; CSEA shall have the right to determine and decide all matters relating to settlement and conduct of litigation with respect to this Article. In no case shall District funds be involved in any remedy relating to this Article. ■
+Any underpayments to CSEA resulting from the District's failure to make a required deduction shall be remedied by additional deductions from the affected employee(s).
+Any overpayments to CSEA resulting from excessive deductions shall be remedied either by refund from CSEA to the affected employee(s) or by a credit against future payments by the affected employee(s).
+6..	5. The. Districtsyyill furnish any information needed by CSEA to fulfill the provisions of-this Article. ) ! , .	;
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART VIII	25
+Article IX - Hours and Overtime
+of an office, operational unit, or work group With consideration given to District need and employee availability in making the distribution. Each office, operational unit, or workgroup shall maintain a list of employees by classification who have made a request in writing for overtime assignments. The order of placement on the list shall be based upon the order in which the supervisor received the written request. In case of simultaneous requests, the order of placement shall be based upon District seniority. Where there are insufficient or no written requests, upon reasonable notice, an employee shall be required to work overtime as needed. Reasonable notice shall be deemed to be no less than twenty-four hours in advance except in cases of emergency or when necessary to meet unanticipated peak work loads. In any event, the District will make reasonable efforts to provide as much advance notification as possible when it becomes apparent that overtime work may be required.
+2.2	Employees assigned to a workday of seven (7) hours or more and a workweek of thirty-five (35) hours or more shall receive compensation at a rate equal to one and one-half (144) times the regular rate of pay, or shall be provided compensatory time off in a manner consistent with applicable State and Federal laws at the rate of one and one-half (144) times the hours worked, for work authorized and performed .on the sixth (6th) and seventh (7th) days following the commencement of the regular workweek, or for hours worked in excess of eight (8) hours in one day or in excess of forty (40) hours in any calendar week. Earned compensatory time off shall be scheduled in a manner consistent with State and Federal laws.
+2.3	Employees assigned an average workday of four (4) hours or more but less than seven (7) hours and a workweek of twenty (20) hours or more but less than thirty-five (35) hours shall be compensated at a rate equal to one and one-half (144) times the regular rate of pay, or shall be provided compensatory time off in a manner consistent with applicable State and Federal laws at the rate^of one and one-half ,(1-14) .times the hours worked, for any work authorized and performed on.the.sixth(6th)and seventieth) days following the commencement of the regular workweek, orfor-.hours worked in excess of eight (8) hours in one day or hours worked in excess-of forty (40) hours in a calendar week. Earned compensatory time- off shall bescheduled in a manner consistent with State and Federal laws.	> ■ -	;	; r s ?.
+.	2.4 Employees assigned an average workday of less than four
+(4) hours shall be compensated.at a rate equal to one and one-half (144) times the regular rate of pay; or shall be provided compensatory time off of one and one-half (1-14) times the hours worked, for any work authorized and performed on the seventh (7th) day following the commencement of the regular workweek, or for hours worked in excess of eight (8) hours in one day or hours worked in excess of forty (40). hours in a calendar week:
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART IX
+27
+Article IX - Hours and Overtime
+b.	Ten-month regular clerical employees who are qualified and have applied. Assignments from this group shall be based on District seniority;
+c.	Previously assigned clerical substitutes who have qualified by examination;
+d.	Available persons on clerical eligibility lists; and
+e.	Persons who have never qualified by examination.
+6.1 When an employee accepts a summer assignment, he/she must complete that assignment for its entire summer program period and should not request vacation or to be changed from one assignment to another. ■ Exceptions may be made at the sole discretion of the District.
+■: 7.0 Work Schedule Changes: A change in work schedule is defined as a modification of a unit employee’s start and stop time, without a change in number of daily assigned hours.
+a. The work schedule may be changed under the following circumstances:	'
+1)	when mutually agreed to by the employee and the
+;	employee's supervisor; or
+2)	in an emergency; ("Emergency" means any situation
+■	affecting the instructional program and/or the
+.	. administration of the District which could not be
+reasonably anticipated)? or -
+3)	when the employee is "given a minimum of fourteen
+(14) calendar days notice prior to the effective date of
+■■ ■	; ? a change iin work schedules. ; . *
+b.c	The'employee's immediate supervisor shall,if so requested,
+discuss any problems affecting the implementation of work schedule changes with the employee.
+? c. : Employees shall be entitled to a temporary exemption from a change in work schedule if all of the following conditions are met:
+-	1). The employee verifies enrollment in a course in an
+institution of higher education where classes have begun and the time of the class conflicts with the proposed work hours.
+11-06-02	29
+F:CONTRACT:02-05:UNIT DART IX
+ARTICLE X
+EVALUATION PROCEDURE
+1.0	Schedule: Employees shall be evaluated in accordance with
+the following schedule:
+a.	Probationary employees shall be given performance evaluations no less than twice durifig their probationary period. However, if during the probationary period any items oh the evaluation form are rated unsatisfactory, then the employee may be evaluated every month during the remainder of the probationary period.
+b.	Permanent employees shall be given performance evaluations at least once every year.
+2.0 Procedure to be Followed: Performance evaluation reports shall be made on forms prescribed by the District or may be done by separate memorandum.
+2.1	Evaluations shall be based on observations or knowledge, and not upon unsubstantiated charges or rumors. In completing the evaluation, the evaluator shall consider the employee’s performance over the entire evaluation period. In evaluating the quality and/or quantity of an employee’s work, the supervisor shall also consider employee workload and the extent to which established priorities of work assignments are met. In addition, no evaluation shall be based upon derogatory materials in the employee's personnel file unless the employee has previously been given prior notice of same, an opportunity to review and comment upon it, and had such comments attached to the materials.
+2.2	The evaluator shall be at a supervisory level or higher, and where applicable, shall consult with the staff person (outside of the bargaining unit) responsible for directing the employee’s work. The evaluator shall discuss the written performance evaluation report with the employee. Both the evaluator and the employee will sign the evaluation. Signature of the employee means only that the employee has received a copy of the evaluation. The employee may attach any written comments to the evaluation at his/her option. Copies of the evaluation together with any attachments will then be distributed as follows: one copy to the employee; and one copy to the evaluator.
+2.3	If any category on the performance report is rated lower than "meets standards," the following will be included on the evaluation:
+11-06-02
+F:CONTRACT 02-05 UNIT D:ARTX
+31
+Article X - Evaluation Process
+Unsatisfactory Service or Act filed under Article V (Grievance Procedure) shall be limited to a claim that the procedures in Section 2.1 and Section 2.2, above, have not been followed.
+4.1 A Notice of Unsatisfactory Service or Act that does not recommend disciplinary action shall not contain any charges nor be based upon any matters, materials Or incidents related to work performance and/or work habits occurring more than three (3) years' prior to the date of issuance of the Notice.	"■	' ■■	; ••• "	- '•	■
+5.0 The employee shall have the right to sign or initial any adverse material and prepare a written response which shall be attached to the material. Upon reasonable prior notice, an employee-shall have the right to inspect his/her Personnel File during the normal office hours of the Glassified Employment Branch without loss of pay -	*
+6.0 Private Consultation: Discussions between a Unit employee and District supervision concerning the employee's unsatisfactory work performance or work-related problems shall, to the exteht practicable, be conducted privately. For the purpose of this Section, "privately" means either a private location, or a location which may be in public view but is not within earshot of other employees. Supervisors and employees shall be expected to interact with each other in a respectful and professional manner.
+11-06-02
+F:CONTRACT 02-05 UNIT D:ARTX
+33
+Article XI - Leaves of Absence
+notice is not given and both the employee and a substitute report for duty, only the substitute is entitled to work and to be paid for that day.
+6.0 Cancellation or Early Return From Leave: A request by an employee for cancellation of or early return from a leave once commenced or for cancellation of a request for a leave shall be granted unless there are no vacancies in the job classification. Exceptions may be made in the sole discretion of the District.	. . .
+7.0 Expiration of Leave: Except in the case of, illness or industrial injury/illness leave, or as otherwise provided in, this,Article, twenty (20) days before the expiration of a leave for ninety (90) days or more, pr five (5) days before expiration of a leave for at least twenty (20) but less than 9Q:days, the employee should make every effort to notify the, Classified Personnel Assignments Office of his or her intention to return, or request an extension of leave, if eligible. Unless such notice is given, failure to return to work upon expiration of the leave may be considered resignation from service.
+8.0 Bereavement Leave (Paid): An employee is entitled to a paid leave of absence from the District, not to exceed three (3) days, on account of the death of a member of the employee's immediate family provided acceptable proof of death and relationship is provided if requested and the leave of absence commences within ten (10) calendar days of notification of the death. If more than one such death occurs simultaneously, the leave may be taken consecutively. If out-of-State travel or more than two-hundred (200) miles oneway travel is required and requested, an additional two (2) days shall be granted. The immediate family is defined as the following relatives of the employee:
+a.	Spouse or, for purposes of this Leave? Article only, a cohabitant who is the equivalent pf a spouse s
+b.	Parent (includes in-law, step and foster parent, and parent of cohabitant who is the equivalent of spouse) .........
+.... c.	Grandparent (includes, in-law, step, and a grandparent of
+cohabitant who is the equivalent of spouse)	......	..... ...
+d.	Child (includes son/daughter-in-law,,step,and foster child,
+and child of cohabitant who is the equivalent of spouse) , ; ! -
+e.	Grandchild (includes grandchild of spouse, step grandchildren, and grandchildren of cohabitant who is the equivalent of . spouse) V/ ..7 .. "... 7.7 . ■ \ ...	' .•	, ■
+f.	Brother
+11-06-02	35
+F:CONTRACT:02-05:UNITD:ARTXI
+Article XI - Leaves of Absence
+who has accrued fewer than the number of full-pay illness absence hours equivalent to 100 days shall be credited with the number of half-pay illness absence days which, when added to the accrued full-pay illness absence days equals the equivalent of 100 days of full and half-pay illness absence days.
+11.	3 At the beginning of the first pay period of each fiscal year upon initial regular appointment, reemployment or reinstatement, each employee in paid status shall receive credit for full-pay illness leave of absence up to thirteen (13) days (pro-rated for those employed less than a full year) prior to accrual. However, an employee who uses such a credit prior to actual accrual shall not accrue or be credited with additional leave until the negative balance has been restored. If an employee is paid for more than the illness absences to which entitled, or terminates employment prior to accruing leave taken in	. <
+advance, the employee shall be required to refund to the District the salary to which not entitled. This requirement shall be waived in the event of the employee’s death or physical or mental disability which precludes the employee from returning to District employment	<	■
+11.	4 Unused full-pay illness absence credit shall be cumulative from year to year without limitation. Half-pay illness credit shall not be cumulative from year to year.
+11.	5 When a permanent employee is absent under this Section and such absence is properly verified, the employee will receive his or her full normal pay up to the total of the employee’s full-pay illness benefits. Full-pay illness benefits shall be used before available half-pay benefits may be used. Additional days of illness absence will be at half-pay up to the total of half-pay days credited; if available, unless the employee requests use of an accrued vacation which he or she may have. The amount of paid illness absence taken in any pay period shall not be in excess of the illness absence accumulated by the close of the pay period immediately preceding the illness absence, except as providedin Section 11.3.5 A restricted or initial probationary employee must render service and shall not be eligible to be paid-for more than the equivalent of six (6) days of full-pay illness leave until the first day of the pay period following completion of 130 days of paid service in regular assignments. Half-pay illness leave shall not be paid during this time. When all paid and unpaid leaves of absence and vacation benefits have been exhausted, a regular employee who is unable to assume the duties of his/her position shall be placed on a reemployment list for a period of thirty-nine (39) months as if he/she were being laid off. An employee on a reemployment list shall have the same rights and benefits as an employee laid off for lack of work or lack of funds.
+11.	6 An employee who is absent shall be required to certify the reason for absence on the appropriate form.. Also, the District may verify any
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART XI
+37
+Article XI - Leaves of Absence
+d.	When an authorized leave of absence continues into the next fiscal year, the employee shall be entitled to only the amount of unused leave of absence due for the same illness or injury; and
+e.	Each employee who has received a work-related injury or illness that requires medical attention or absence from work for more than the day of the occurrence must complete a written report of injury or illness on a form to be provided by the District This written report must be submitted to the immediate administrator within two (2) working days after the occurrence if the employee is physically able to do so. The site administrator shall, as a result of his or her own investigation, complete the Employer’s Report of Occupational injury or illness, and shall attach the employee’s report thereto. The employee must alSo report as soon as possible for examination and treatment by a physician who is on the Districts Emergency Medical Panel. ‘ J :	‘
+12.1 Extension of IndUstriaf Injury Leave (Paid): If the employee was physically injured during an act of violence related to and during the performance of assigned duties, then the leave of absence may be extended beyond the initial sixty (60) day period up to an additional sixty (60) days. In order to qualify for such an extension the employee must have (1) notified the site administrator and appropriate law enforcement authorities within twenty-four (24) hours of the incident if the employee was physically able to do so; (2) completed the employee’s written report and reported for treatment as required in “e” above; (3) reported, as soon as it becomes evident that an extension is to be requested; for aDistrict-approved physical Examination and received approval as a result of such examination; and (4) applied in writing to the District for sUch dri extension; iMjn^a District form. Such application should be filed with the immediate administratdr as soon aS the employee Sees the need for such an extension so that the District has adequate time td review and process the claim prior to the effective date of the leave extension. Determination whether the injury was the result of ari act of violence, arid Whether the act of violence was related to and during the performance of dutiesTburnot whether it is compensable under worker’s compensation laws), shall be made by the immediate admiriistratdr. Determination whether the injury Is disabling beyond the sixty (60) day period shall be made by the District. Ari employee may be required during the extended period to be evaluated by the District at any time. The District shall continue to advise employees of the requirements of this Section.’ :	:>-■ ...	. 4 ■
+- t:	.	•-	... >•! . ..	. ....	;' ' ; ■ "	■
+12.2 Uporh exhaustion of the above-authorizedindustrial injury/illness leave benefits, the'erripldyee shall be permitted to utilize accrued illness benefits or vacation benefits, if any. If the employee continues to receive temporary disability indemnity, the employee shall be paid for any illness and 11-06-02	39
+F:CONTRACT:02-05:UNITD:ARTXI
+Article XI - Leaves of Absence
+(3)	The employee-must return to work in cases where it is not necessary for him to be absent the entire day.
+h.	Required attendance at the employee’s child’s or ward’s
+classroom and meeting with the school-administrator because of suspension pursuant to Education Code Section 48900.1.
+i.	Up to four (4) hours of paid personal necessity leave (and up to thirty-six (36) additional hours of accrued vacation or unpaid leave) not to exceed a total of eight (8) hours per calendar month; forty (40) hours per school year for attendance at the school of the employee's own child, ward, or grandchild for purposes of a school activities leave provided by Section 230.8 of the Labor Code; The employee must notify the immediate administrator or designee at leastfive (5) working days prior to the absence. The administrator ord esignee and employee must agree on the date and time of the leave and the employee must, at the immediate administrator's request, provide written verification from the school visited.
+j.	An employee shall be allowed up to six (6) additional days of personal necessity leave in any calendar year to attend to the illness of a child, parent or spouse of the employee as provided by Section 233 of the Labor Code. All existing contractual conditions for the use of illness leave shall apply to this leave as well. Use of illness leave under this Section 13.0 shall not extend the maximum period of leave to which an employee is entitled under Article XI, Section 21.0, Family Care and Medical Leave.
+13.1	The following limits and conditions are placed upon allowing a personal necessity leave dr absence:
+a.	Except as provided under paragraph 13.0 j above, the total number of days allowed for such leave shall not exceed six (6) days per ■ fiscal year;
+b.	The days allowed shall be deducted from and may not exceed the number of full-pay days of accrued illness leave to which the employee is entitled; ’ \
+C; The personal necessity leave may not be granted during a strike, demonstration or any work stoppage involving CSEA; and
+d. Written'request on the appropriate form shall be filed with the appropriate administrator no less than five (5) working days in advance of a religious1 holiday, court appearance, or school visit pursuant to 13.0(i) above.
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART XI
+41
+Article XI - Leaves of Absence
+16.0 Court Subpoena Leave (Paid): A paid leave shall be granted to allow an employee to appear, in response to a subpoena duly served, when other than a litigant (a) in a case before a grand jury; (b) in a criminal case before a court within the State; or (c) in a civil case in a court within the county in which the employee resides or outside of said county if within 150 miles of place of residence. Leave shall be granted for the days.of attendance in court as certified by the clerk or other authorized officer of such court or grand jury or by the attorney for the litigant in the case. In any case in which witness fees are payable, such fees shall be collected by the employee and remitted to the Accounting and Disbursements Division. An employee whose regular assignment is to other than the day shift will be reassigned to the day shift on each day that such court subpoena occurs. Subject to the possibility of making reasonable travel arrangements, the employee shall be required to report for work during the balance of her/his assigned working day or week when her/his presence is not required pursuant to said subpoena.
+17.0 Jury Duty Leave (Paid): A paid absence or leave shall be granted to any employee required to render jury service in any court within the State. An employee shall provide to his/her supervisor no less than five (5) working days’ notice of a summons to jury service. However, if the summons to the employee does not allow for a least five (5) working days’ notice, the employee shall notify his/her supervisor immediately upon receipt of the summons.
+17.1	All jury fees received shall be remitted to the Accounting and Disbursements Division with the following exceptions:
+a.	Mileage fee reimbursement;
+b.	Fees earned on holidays,, vacation or any day an employee is not in paid status;
+c.	That amount of jury fee whichrexeeeds employee’s daily
+gross earnings. -	.	.•-?	..	- •_
+17.2	An employee who, is normally assigned to the “B” or “C” night shift during jury serviceshell be temporarily reassigned to the “A” day shift during the term of his/her jury service. All shift differential payments normally received while on “B” or “C” shift shall continue during the temporary “A” shift reassignment.	;	?
+;	17.3 Subject to the possibility of making reasonable travel
+arrangements, the employee shall be required to report for work during the balance of her/his assigned working day or week when her/his presence is not required for jury duty.
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART XI
+43
+Article XI - Leaves of Absence
+20.3	Witness: An employee who is subpoenaed to be a witness in the appeal by another employee of a decision of the Workers’ Compensation Appeals Board arranged by the District’s Insurance Section may attend without loss of salary.
+20.4	Epidemics and Emergencies: An employee with regular status shall be paid her/his regular salary for any period during which she/he is unable to work at her/his regular place of employment because it is closed by the District due to quarantine, epidemic, or other conditions involving the health or safety of students or employees. To be eligible for such pay the employee must be ready, able and willing to perform her/his customary or other reasonable and suitable duties at different work locations as designated by the District. Nothing contained herein shall be construed to limit the authority of the District to make temporary assignments of employees to different or additional locations, shifts, or work duties for the purposes of meeting emergencies.
+21.0	Family Care and Medical Leave: An unpaid Family Care and Medical Leave shall be granted, to the extent of arid subject to the restrictions as set forth below, to an employee who has been employed for at least twelve (12) months and who has served for 130 workdays during the twelve (12) months immediately preceding the effective date of the leave. For purposes of this section, furlough days and days worked during off-basis time shall count as ’’workdays". Family Care and Medical Leave absences of twenty (20) consecutive working days or less can be granted by the immediate administrator or designee. Leaves of twenty (20) or more consecutive working days can be granted Only by submission of a formalleave application to the Classified Personnel Assignments Branch.
+21.1 Definitions: For purposes of Family Care and Medical Leave, the following definitions shall apply: (1)"Child" means a biological, adopted or foster child; a stepchild; a legal ward; or a child Of ah employee standing "in loco parentis," such child being either under eighteen (18) years of age or an adult dependent who is incapable of self cafe dueGto a mental or physical disability. (2)"Spouse" meansfohusband or wife of an employee; (3)"Parent" means a biological, foster, or adoptive parent; a person who stood ’’in loco parentis" to the employee when the employee was a child; a stepparent; or a legal guardian; and does not include a parent-in-law. (4)"Familymember" means "child", "spouse", or "parent" as defined above. (5) "Serious health condition" means an illness, injury, impairment, or other condition that involves either "in-patient care" or "continuing treatment”. (6) "Inpatient care" means/a stayin a hospital or other medical facility and includes any subsequent treatment in connection with inpatient cafe; (7)"Continuing treatment" means treatment by a "health care provider" that involves one or more of the following: (a) a period of incapacity Of
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART XI
+45
+Article Xi - Leaves of Absence
+separate and apart from the provisions of Family Care and Medical Leave herein. Employees are entitled to the leave allowed under Section 9.0 and, in addition, up to the full twelve (12) weeks of Family Gare and Medical Leave. However, leave taken on account of pregnancy, childbirth, or related medical
+condition will be counted against the employee’s annual leave entitlement tinder the federal Family and Medical Leave Act of 1993.
+21.4	intermittent Leave: The leave may be taken intermittently or on a reduced work schedule. If the leave is taken for reason of the birth, adoption, or foster care placement of a child of the employee, the basic minimum duration of the leave shall be two (2) weeks; however, the District shall grant the employee leave of less than two (2) weeks' duration on two occasions. If the leave is taken for a serious health condition of the employee or of the employee's family member, leave may be taken intermittently or on a reduced schedule when medically necessary, as determined by the health care provider of the If an employee does take intermittent or a reduced-schedule leave that is foreseeable based on a planned medical treatment of the employee or the employee's family member or for the birth, adoption, or foster care placement of a child, the District has the right to transfer temporarily the employee to an available alternative position for which the employee is qualified and which better accommodates the recurring periods of leave during the duration of the intermittent or reduced-scheduled leave. The alternative position must have equivalent pay and benefits but does not have to have equivalent duties. The alternative position may include the altering of the employee's current job. The District may also transfer the employee to a part-time job with the same hourly rate of pay and benefits. Upon the conclusion of the intermittent or reduced-schedule leave, the District will place the employee in the same or equivalent job the employee had when the leave started. ! "
+21.5	* Notification: If the -need for the Family Care and Medical Leave is foreseeable more than thirty (30) calendar days prior to the employee's need for leave, the employee shall give at least thirty (30) days notice. If less than thirty (30) days, the employee must provide the immediate supervisor with as much advance notice as possible but, at the least, within two business days of learning of the need for the leave. These advance notice requirements shall not be applicable in the event of unforeseeable circumstances or emergencies. Whenever possible, if the need for leave is foreseeable due to a planned medical treatment or supervision, the employee must make a reasonable, good faith effort, suoject to the approval of the employee’s or family member's health care provider, to schedule the treatment or supervision to avoid disruption to the District's operations. In giving notice, the employee must include the qualifying event for which the leave is needed, e.g., birth of a child, serious health condition of parent, etc.
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART XI
+47
+Article XI - Leaves of Absence
+21.8	Compensation: The Family Care and Medical Leave shall be an unpaid leave. An employee who takes Family Care and Medical Leave and who has accrued vacation may elect, or the District may require, the employee to utilize vacation for this purpose, in lieu of unpaid status. An employee who takes leave for the employee's own serious health condition may elect, or the District may require, the employee to utilize accrued illness days for the leave. During the leave, the District will continue to provide the health benefits package, and maintain the District contribution obligation pursuant to Article XIII, Health and Welfare, during the Family Care and Medical Leave ; (except as provided below) to an employee who is otherwise eligible for health . benefits. However, an employee who does not return from such leave, or who works less than thirty (30) days after returning from the leave (unless the employee retires within thirty (30) days after returning from leave) will be required-to reimburse the District for the District's cost of providing the health benefits package. The District, however, will not provide such health benefits for an employee for any leave period beyond twelve (12) workweeks. Accordingly, if an employee combines pregnancy leave with a Family Care and Medical Leave, the employee will only be entitled to continued health benefits for the first twelve workweeks of leave. Thereafter, the District will provide the employee with health benefits to the same extent and under the same conditions as it provides to employees on other, similar leaves of absence.
+21.9	Seniority: Accrual of seniority credit for the period of Family Care and Medical Leave shall be in accordance with Personnel Commission Rule 740.	:
+21.10	Certification to Return to Work: The provisions of Section 11.6 and 11.7 shall apply to employees returning to work from a Family Care and Medical Leave (absence) due to the employeels own serious health condition.
+21.11	Early Return From Leave: If the amount of leave needed is actually less than initially requested, the employee must notify the District of such an occurrence. Once the employee provides such notification, the District must reinstate the employee to the same or equivalent position within two (2) days.
+22.0	Charter School Leave (Unpaid): An employee shall, subject to the limits set forth below, be granted an unpaid leave to serve in an assignment at a Board of Education-approved Charter School:
+a. The leave shall be for a minimum of one (1) year. The leave shall be extended upon request of the employee; however, the total period of leave shall not exceed the duration of the initial charter;
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART XI
+49
+ARTICLE XII
+WAGES AND SALARIES, PAY ALLOWANCES, DIFFERENTIALS, AND SPECIAL SALARY PRACTICES
+1.0 Wages and Salaries: The wages and salaries for Unit employees have been negotiated in good faith between CSEA and the District and shall be as set forth in Appendix A of this Agreement. The wages and salaries set forth in Appendix A are intended to, and do, meet any prevailing wage obligations which are or may be imposed upbn the District.
+2.0 Miscellaneous Paid Allowances
+2.1	Uniforms: If distinctive uniforms are required for an employee, the cost of purchase, lease, or rental of uniforms, identification badges, emblems, and cards for the employee shall be borne by the District. Such items provided by the District shail be returned to the District upon separation from the service or termination of the assignment.
+2.2	Mileage Reimbursement: Employees who are required to use their personal vehicles for District business shall be reimbursed for such usage at the rate of 32.5 cents per mile for all miles driven in District service:
+For automobiles of employees who are assigned to haul large quantities of materials or tools or both in their automobiles or by attached trailers, upon recommendation of the division head, when specifically approved by the Superintendent or his designated representative employees will be reimbursed:
+Four (4) dollars for each day or part of a day of such use in addition to 32.5 cents per mile for all miles driven in District service.
+"Large quantities of materials or tools or both" shall be construed to mean materials or tools of such excessive weight, bulk, or injurious nature that unusual wear or serious injury to the automobile may occur.
+3.0	Pay Differentials - General
+3.1	An earned salary differential in addition to the regular rate of pay specified in Appendix A shall be paid to affected employees under the conditions and in the amount specified in this Article.
+11-06-02
+F:CONTRACT:02-05 UNIT D: ART XII
+51
+Article XII - Wages and Salaries, Pay Allowances, Differentials, and
+Special Salary Practices
+above and shall continue during paid absences, provided, however, an appointing authority may certify that a previously approved differential may continue uninterrupted for employees who are reassigned, transferred or promoted to another position requiring bilingual skills. This differential shall not affect salafy allocation iipon change of assignment.
+3.7	Differential for Operation of Computer Terminals: An employee in a clerical classification who is assigned the key duties of an Office Computer Operator, as described below, as a part-time assignment in addition to the regular duties of his/her position shall receive a long-term salary differential of 2.75 percent. Such a differential may be authorized only fdr employees in Clerical Series classes that are paid at salary schedules below that of the class of Senior Office Assistant and who have completed an in-service training program approved or conducted by the Information Technology Division. The qualifying duties and responsibilities must include:
+a.	Coordinating and scheduling of various programs to be run on computer terminals;	■■■■.
+b.	Collecting, arranging, and maintaining records of data used for computer input;
+c.	Monitoring and analyzing computer output to detect terminal malfunctions and making simple equipment repairs.
+A differential shall nbfbe authorized for the simpler tasks involved in terminal operation, such as inputting data bn' a keyboard. The above qualifying duties and responsibilities must consume at least 25 percent of the employee's assigned time. If those duties consume 75 percent or more of the assigned time of a position, the employee mayinitiate a request for a classification study. When a school has a position in the class of Office Computer Operator, a differential pursuant to this Section shall not be authorized for any other position at that school. This differential Shall beterrriinatedif the'duties and responsibilities are reriibved frbm tee poSitibm01	-
+3.8	3 Night WorkOiffefehtial: Employees who work brie-half (14) or more of their assigned time between 5:00 pint arid midnight shall receive a long-term salary differential equivalent to a one (1) step (approximately five and one-half (514) percent) increase in thd salaiy schedule for their class. Employees who work one-half (>S) ormote of their assigned time between midnight and 7:00 a.m. shall receive a long-term salary differential equivalent to a two (2) Step (approximately eleven (11) percent) increase in the salary
+?.■	■	i g:g ; G'’GG-./rGj '	'
+11-06-02
+F:CONTRACT:02-05 UNIT D:ART XII
+53
+Article XII - Wages and Salaries, Pay Allowances, Differentials, and
+Special Salary Practices
+11.	0 Retirement Contribution: The District shall, for PERS school members employees, increase the District’s payment toward the employee’s PERS contribution rate to a maximum of seven percent (7%). CSEA acknowledges that to the extent the employee rate goes beyond seven percent (7%), employees shall pay any portion exceeding seven percent (7%).
+The District shall, for PARS participants, pay the full current employee contribution rate of 3.75%. CSEA acknowledges that in the event of an increase in the employee contribution rate beyend 3.75%, employees will be responsible for paying this increase.
+In addition, in order to provide PARS participants with an appropriately equivalent percentage payment vis-a-vis PERS participants, PARS participants will receive a lump sum payment following the close of the school year calculated as the percentage difference between 3.75% and the District-paid portion of the PERS employee contribution rate for that year, less 1.2% (based on the individuai PARS employee’s annual salary).
+CSEA agrees that the Public Employees’ Retirement System (PERS) is administered by the State of California and that all decisions and rules with respect to qualifications for retirement benefits, levels of benefits, taxability of benefits, and the administration of the Program is the responsibility of PERS. Accordingly, it is expressly understood that all such matters, as well as any other questions or issues relating to PERS are excluded from the grievance and arbitration provisions of Article V (Grievance Procedure). It is similarly understood that at! matters relating to PARS are excluded from Article V (Grievance Procedure).
+In order to implement this Section, the District at its sole discretion may enter into and unilaterally may amend, alter, or modify any contract or contracts with the Public Employees’ Retirement System of the State of California and/or with PARS. •	■	.... : .... - •• ■	■	xr. ..	.
+11-06-02
+F:CONTRACT:02-05 UNIT D:ART XII
+57
+Article XIII - Health and Welfare
+That budget figure is the product of the negotiations process. (See 1.0 above for the 2002-2003 cost parameters).
+d.	Proposed changes in the existing kinds and levels of benefits shall be submitted as recommendations to the Board of Education. The Board of Education shall have the limited authority to either:	'	•
+(1)	approve the Committee recommendations as submitted, or . / . '	' ' \ t	J
+(2)	reject the. Committee recommendations as submitted
+and refer them back to thejpommittee. :	/
+e.	The Committee may investigate the creation during the term of this agreement of a joint Employer Health and Welfare Trust. Such Trust might include other public or private sector employees as determined by the Committee. The Committee shall review all: existing contracts prior to expiration. No contract shall be for more than one (1) year, or awarded without open bid, except upon Committee approval.
+f.	Benefit Eligibility -- During the term of this Agreement there shall be no changes in the eligibility requirements for District Benefits (see Section 3.0 below).
+g.	CSEA shall have the option of informing the District of its intent to remove its Unit D pro rata share of District health benefit expenditures and'assume the responsibility of providing a benefit program for its members, or having the District design and administer a health benefit program for its /members. : However, any removal of its pro rata share ofiDistrict health benefit expenditures shall be subject to the precondition of nine (9) months- written nottee to the District regarding CSEA’s intentto do?:so. . Further;dts removal shall; only be effective on a January 1 plan anniversary .dater.	- — ^
+3.0 . Eligibility forPlans: Eligibility requirements for employees and dependents shall be as provided io the applicable plan and also as follows:
+; -r a. Every employee who is assigned halfrtime or more of a fulltime assignment in one class -in a status other than substitute, temporary, extra, exchange or relief, shall be eligible to enroll in a plan. The percentage of assignment shall, be determined- by the District. For
+- erhployees attaining eligibility under this paragraph, the enrollment year 7 shall be January through -December. - :	1
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART XIII
+59
+Article XIII - Health and Welfare
+c.	For employees hired on or after July 1,1987, fifteen (15) consecutive years of qualifying service immediately prior to retirement shall be required in order to qualify for retiree health benefits for the life of the retiree.
+d.	For employees hired on or after June 1,1992, consecutive years of qualifying service and age must total at least eighty (80) in order to qualify for retiree health benefits for the life of the retiree.
+e.	In order to maintain coverage, the retiree must continue to receive a PERS/STRS allowance and must enroll in those parts of Medicare for which eligible, r r ??:• < ; ; ■	< b:
+f.	> Employees on "Continuation of Enrollment" pursuant to Section 6.0 below shall, if: otherwise qualifying under this section, be eligible for coverage under the District-paid insurance plans upon receiving;a PERS/STRS retirement allowance.
+5.0 Enrollment: For the hospital-medical, dental and vision care plans, an unenrolled employee eligible for enrollment may submit application for enrollment in a plan at any time. However, an employee who has previously been enrolled in a plan during the current enrollment year must, upon reenrollment in that same enrollment year, select the same plan. Such an employee must wait until the next open enrollment period to effect a change of plans. The District shall process, applications so as to make coverage effective on the earliest practicable date consistent with the plan provisions, and in no case shall this be later than the first day of the calendar month following the receipt of the completed application., < : r -	=>
+•	• '	' '■	‘if;*-	•' ■*? . /•>•/'♦	'■ ••
+5.1	Eligible dependents may .be enrolled by the employee in the
+hospital-medical, dental, and vision care plans at any time provided the eligible employee submits a “dependent add ferm” and .proofiof eligible statuses described below. '	>;<,„■ 3, ,.■> ■ his-	... /•	,	• -
+Newborn children of the employee are automatically covered for the first thirty (30) days following birth, provided that an application for dependent coverage is received by the Health insurance Section; before the end of the thirty (30) day period,.. . . ■ - ;• . ■	' • •• -
+a. Documentary proof of status required for dependents.
+; Dependents	Documents Required (copy)
+Legal Spouse	State or County issued
+Marriage Certificate
+11-06-02
+r :CONTRACT:02-05:UNIT D:ART XIII
+61
+Article XIII - Health and Welfare
+(3)	are jointly responsible to each other for basic living expenses;
+basic living expenses are defined as the expenses supporting daily living, i.e., shelter, food, clothing (contributions need not be equal)
+(4)	are not currently married to another person
+(5)	have not signed a declaration of a domestic partnership with another individual in the previous twelve (12) month period
+(6)	are at least eighteen (18) years of age
+(7)	are not blood relatives any closer than would prohibit legal marriage in the state of residence.
+(8)	are mentally competent to consent to a contract
+(9)	are financially interdependent as proven by providing at least two of the following documents: common ownership or real property or a common leasehold interest in real property; common ownership of a motor vehicle; joint bank account or joint credit account;
+designation as a beneficiary for life insurance or retirement benefits
+c. No other dependents or family members are eligible for coverage, except that disabled children who meet the disability standards of the plan(s) and who have been enrolled prior to age nineteen (19) or, who were first enrolled as eligible full-time students prior to the disabling condition, may continue to be covered beyond age nineteen (19).
+5.2	It is the responsibility of the employee to notify the Health Insurance Section immediately regarding the termination of his/her domestic partner relationship. The employee must submit LAUSD Form DP2.0, “Statement of Disenroilment or Termii tation of Domestic Partnership.” The coverage for a domestic partner shall ent! on' he last day of the month in which the relationship and/or living arrangement terminates and/or for which either party is no longer eligible for coverage.
+5.3	For the District-paid life insurance plan, all eligible employees are automatically covered. No application is necessary to obtain this benefit. ■	-- :: y-,.,	<	.........
+5.4	Eligible employees may enroll in the employee-paid life insurance plan without evidence of insurability provided that a completed application is received by the District’s Health insurance Section no later than sixty (60) days from the date the employee is first eligible. Employees not submitting applications during the period specified above may enroll by providing evidence of good health acceptable to the plan. Application for the employee-
+11 -06-02
+F:CONTRACT:02-05:UNIT D:ART XIII
+63
+Article XIII -- Health and Welfare
+year after which termination of coverage shall be processed and a conversion plan offered.	, ... -• -	• .k
+6.2	With respect to the employee-paid life insurance plan, employees who receive no salary or who.receive insufficient salary to permit deduction of the required premium after all other deductions are made may continue coverage for a period not to exceed one (1) year by making direct payments of the appropriate premiums by check or money order payable to the plan and sent to the Health insurance Section. :	.
+6.3	With respect to employees who decline to make the above continuation payments, coverage shall be terminated and they shall not be eligible to re-enroll in a plan until returning to active service eligible assignment and, with respect to the employee-paid life insurance plan, submitting evidence of good health acceptable to the plan.
+7.0	Termination of Enrollment: The enrollment of an employee shall terminate:	,
+a.	For failure of the employee to make direct payment as provided under Sections 8.0 and 9.0, in which case coverage shall terminate at the close of the month for which the last premium was paid;
+b.	At the request of an employee, in which case coverage shall terminate at the close of the month in which the request was submitted;
+c.	Upon termination of employment, in which case coverage shall terminate at the close of the month in which the employment termination was effective; except for District-paid life insurance in which case coverage shall terminate on the date the employee ceases to be employed;	;
+d.	In the event of the employee's loss of eligibility, in which
+case coverage shall terminate at the close of the1 enrollment year, except for the District-paid life insurance plan, which shall terminate coverage on the date of loss of eligibility: anck.; 5 v. oi p; k
+e.	For District-paid life insurance, upon the employee’s loss of eligibility or termination of employment, in which case coverage shall terminate on the date the employee ceases to be eligible or employed.
+7.1 With respect to hospital-medical, plan coverage, if the employee's participation is terminated at the plan's request for other than nonpayment of premium, the.employee may enroll in,tanother of the District's hospital and medical plans by making proper application to the District's Health Insurance Section.
+11-06-02
+F:CONTRACT:02-05:UNIT D:ART XIII
+65
+Article XIII — Health and Welfare
+10.0 Miscellaneous Provisions
+10.1	If any premium is refunded by a Plan carrier/Administrator, it shall be retained by the District, unless it is the result of a direct payment made by an employee in which case it shall be refunded to the employee. If any injury or illness is caused or alleged to be caused by any act or omission of a third party, payments will be made according to the terms of the Plan for the services of physicians, hospitals and other providers; however, the Plan Member must reimburse the Plan for any amount paid by the Plan, up to the amount of any settlement or judgment the Member, the Member's estate; parent or ibgal’ guardian receives from or on behalf of the third party on account of such injury or illness. The Plan may, in its discretion, condition payment upon execution by the Member, the Member's estate, parent or legal guardian of ah agreement (l) to reimburse the Plan accordingly, and (2) to direct the Member's attorney to make payments directly to the Plan. ‘	'
+10.2	The controlling documents regarding all health plans are the applicable contracts between the District and the carriers/plan administrators. All disputes regarding coverage and benefits are to be resolved under the plan's own grievance procedures rather than* under Article V of this Agreement.
+11.0	State Disability Insurance: The District agrees that all unit employees shall be enrolled in the Disability insurance Program for public school employees administered by the Employment Development Department of the State of California and that all premium costs of this Program shall be borne by the employees through individual payroll deductions.
+0 i1,-.i The Uhion agrees that the Disability Insurance Program is administered by the Employment Development Department of the State of California dnd that all decisions and rules with respect to eligibility, premium costs, qualification! for benefit!, level of benefits, and the administration of the Program is the responsibility sof the Eniptoymeht Development Department. Accordingly, it is expressly understood that all such matters, as well as any other questions or issues relating to Disability Insurance or the Employment Development Department ate excluded from the grievance and arbitration provisions of Article V (Grievance Procedure).’ ? ' ' £ : <
+11.2	In order to implement the DisabilityInsurance Program specified in Sections 11.0 and 11.1 above, the Districtat its sole discretion may enter into and unilaterally may amend, alter, or modify any contract or contracts with the Employment pevbidprrieht Department for Disability Insurance Coverage. ’	’'-'i	\	•’	< '•
+12.0	Empioyee Assistance Prdgram	;	‘
+a. •General: An Employee Assistance Program (EAP) shall be established for employees and dependents eligible for other benefits pursuant to Section 3.0 of this Article. The objectives of the program shall
+67
+11-06-02
+F:CONTRACT:02-05:UNIT O:ART XIII
+ARTICLE XIV
+TRANSFER PROCEDURES
+1.0	For the purposes of this Article, "transfer" means a permanent change of an employee's work location without a change in his/her classification or shift. Transfers may be initiated either by written request of the employee (voluntary transfers) or by the District (involuntary transfers). For purposes of this Article, "work location" means any work site such as a school, area office, or administrative office or an employee reporting location. ,
+2.0	Involuntary Transfers: An involuntary transfer of an employee is one instituted by the District. Involuntary transfers may occur at any time at the discretion of the District. Any employee who is involuntarily^ transferred shall be entitled to know the reason(s)for the transfer from the appropriate administrator. No employee shall be involuntarily transferred for punitive or disciplinary reasons or in reprisal for the exercise of any right provided by this Agreement. It is provided that the transfer of any employee to or from a school designated as a “low performing school”, or where the District determines that keeping the employee at his/her current location would be detrimental to the health, welfare or safety of the employee; administrators, students, or other employees, is deemed to be non-disciplinary and non-punitive in nature.
+3.0	Voluntary Transfers: An employee may obtain information regarding vacant positions for possible transfers by telephoning the appropriate classified personnel office: When a permanent employee wishes to transfer, he/she must complete the appropriate District form and submit it to his/her immediate supervisor for processing. The appropriate branch head or designee must approve the request but may defer approval up to three (3) months.
+3.1	. A file of names of employees with approved transfer requests shall be maintained by the appropriate classified personnel office. When the District determines that a vacancy exists, the .names of those employees with approved requests shall be certified to^he appointing authority together with other eligible candidates.	.
+3.2	Employees requesting transfer may be subject to interview by the appropriate administrator. ,	;
+3.3	If an employee is rejected for appointment to a specific vacancy, he/she shall be entitled to know the reason(s) for the rejection, if requested.
+11-06-02
+F:CONTRACT:02-05 UNIT D: ART XIV
+69
+ARTICLE XV
+PROFESSIONAL GROWTH PROGRAM
+1.0 The District may grant a reasonable amount of released time to permanent unit employees, to attend inservice Courses and/or other District sponsored courses which are not part of the curriculum offered to the student population of the District. Release time must not unduly interfere with the performance of the unit members' duties and may not be granted if it would unreasonably burden the employees in the work group or operational unit affected. In order to qualify for released time employees must meet the following qualifications.
+a.	The employee must be a permanent employee.
+b.	The courses or program taken by the employee must be directly related to the employee's service to the District.
+c.	The courses or program must be for the purpose of increasing the employee's knowledge, understanding and skills as related to the employee's employment by the District.
+d.	The course or program must be approved by the District in advance.
+e.	The employee must request released time in writing to the Division head or designee.
+2.0 An employee may use this program once every two (2) years.
+3.0 The employee's Division Head may terminate the employee's released time program on evidence of the employee's failure to pursue or accomplish the purpose of the program.
+4.0 Tuition Reimbursement: The District may grant tuition reimbursement to permanent Unit employees under the conditions specified below:
+a. Programs eligible for reimbursement shall include, but not be limited to, courses of study at approved academic institutions, seminars and training institutes conducted by recognized professional associations, conferences, meetings and such other training programs designed to
+11-06-02
+F-.CONTRACV.02-05 UNIT D ART XV
+71
+Article XV -- Professional Growth Program
+District in its sole discretion determines it is operationally feasible, the District may authorize flexible work hours.
+11-06-02
+F:CONTRACT:02-05 UNIT D:ART XV
+73
+ARTICLE XVII
+JOB STEWARDS
+10	Purpose: The District recognizes the need and affirms the right of CSEA to designate Job Stewards from among employees in the unit. It is agreed that CSEA, in appointing such representatives, does so for the purpose of promoting an effective relationship between the District and employees by helping to settle problems at the lowest level of supervision.
+2.	0 Job Stewards: At each work location CSEA will have the right to designate, pursuant to its own procedures, one employee per shift to serve as the Job Steward. CSEA shall inform the Office of Staff Relations in writing of each employee so designated. The Job Steward shall have the right to:	'	— .■ - ■ ■:	■■	■■■ v'
+a.	Represent an employee, upon request, in a grievance meeting as expressly provided for in Article V, Section 2.1 (Grievance Procedures);
+b.	On his/her own time to coordinate CSEA meetings, which may be held on the work site during unpaid time for any employee in attendance, subject to availability of facilities and provided that there is no interference with other scheduled duties or events;
+c.	Post; initial, arid date official CSEA notices on a bulletin board designated by the site administrator for such purposes; and
+d.	Report to the appropriate administrator upon discovery and without delay any unsafe or unsanitary conditions at the work site.
+11-06-02
+F:CONTRACT:02-05 UNIT D:ART XVII
+75
+Article XVIII - Holidays
+2.0 Friday shall be the observed holiday for all purposes for holidays which fall on a Saturday; Monday shall be the observed holiday for all purposes for holidays which fall on a Sunday.
+3.0 If a holiday occurs while an employee is on vacation or other paid leave, that day will be credited and paid as a holiday.
+11-06-02
+F:CONTRACT:02-05 UNIT D: ART XVIII
+77
+Article XIX - Vacation
+37.5 hours but less than 40 hours .....04087
+35 hours but less than 37.5............04379
+less than 35 hours.....................03846
+During subsequent years of service vacation accrual shall be at the rate of the forty (40) hour workweek above. ; ; - r,	> ; ,
+1.3	A "year of service" for the purpose of this Article shall be defined as paid service in regular status for 130 days or more within the fiscal year, including time served in probationary or permanent certificated service; however, total assignment hours annually phall not exceed 2080 hours for years of service credit.
+1.4	Earned vacation shall be taken at a time convenient to the
+employee provided that it is schedule^ in advance and, as determined by his/her supervisor, would not interfere with the operation of the unit. If there is any scheduling conflict between employees working in the same unit or office as to when vacations shall be taken, the employee with the greatest District seniority shall be given his/her preference.
+1.5	An employee may accumulate unused vacation up to an amount not to exceed that which the employee earns in 18 pay periods (the employee’s “vacation cap amount”). Once.the employee has accrued vacation in an amount equal to the employee’s vacation cap amount, the employee shall cease to accrue vacation until the employee uses vacation in an amount sufficient to reduce the employee’s vacation balance below the employee’s vacation cap amount. All appropriate adjustments shall be made annually at the end of each fiscal year so that the employee’s earned vacation balance carried forward to_the next fiscal year shall not exced the employee’s “vacation cap amount”. Employees may be required to use accumulated vacation earned in prior years at a time convenient to the employee which is approved by the immediate supervisor.
+An employee that is prevented or prohibited from taking,,vacation previously approved by the employee’s appropriate administrator .shall be permitted to exceed by that amount the vacation cap amount for the school year in question, but shall be required to reduce their vacation balance to the 18 pay period cap amount by the end of the succeeding school year.
+'"•’sS-* ‘....I	. -	-	...	< . "'V
+1.6	Upon separation from employment, a permanent employee shall be entitled tP Jump sum^compen^ation for all earned and unused vacation time.	■	n .■	‘
+1.7	Vacations may be interrupted or terminated in order to begin illness leave, bereavement leave, jury duty leave or military leave.
+11-06-02
+F:CONTRACT:02-O5 UNIT D:ART XIX
+79
+Article XIX - Vacation
+2.0
+a. Notwithstanding the foregoing provisions and in order to facilitate a complete transition from an unlimited vacation accrual system to the above-described 18 pay period vacation: cap system, the District shall, for each employee employed by the District as of the adoption of this agreement by the Board of Education, calculate the employee’s total accrued vacation as of June 30, 1994 (the “1994 accrual bank"). The District will then credit each employee with their 1994 accrual bank as vested vacation to be paid but at the time the employee separates from the District at the employee’s salary rate in effect as of June 30, 1995.
+• b. In order to encourage employees to draw from their 1994 accrual bank (and thereby reduce the District’s current unfunded vacation liability), should an employee utilize any vacation from their 1994 accrual bank during the employee’s employment with the District, including vacation hours used during 1994-95, that vacation shall be paid out at the employee’s current salary rate at the time the vacation is utilized and deducted from the 1994 accrual bank annually at the end of the fiscal year.
+c. The amount of vacation from the 1994 accrual bank which may be utilized by an employee during any school year shall be limited to twenty (20) days. Exceptions may be made at the sole discretion of the District, but must be approved in writing by the Superintendent or designee prior to any payment therefor.
+2.1 When a regular employee whose assignment basis is other than “A” is givert art Off-basis assignment, that employee shall earn vacation in accordance with the schedule set forth in Section 1.1 above.
+11-06-02
+F:CONTRACT:02-05 UNIT D:ARTXIX
+81
+ARTICLE XXI
+ENTIRE AGREEMENT
+1.0 CSEA agrees that this Agreement is intended to cover all matters relating to wages, hours and all-other terms and conditions of employment and that during the term of the Agreement, neither the District nor CSEA will be required to meet and negotiate on any further matters affecting these or any other subjects not specifically set forth in this Agreement, even though such subjects or matters may not have been within the knowledge or contemplation of either or both the District or CSEA at the time they met and negotiated on and executed this Agreement, or even though such subjects or matters were proposed and later withdrawn. Nothing herein is intended to prevent the parties from meeting and negotiating during the term of this Agreement pursuant to mutual consent.
+11-06-02
+F:CONTRACT:02-05 UNIT D'.ART XXI
+83
+APPENDIX A
+LOS ANGELES UNIFIED SCHOOL DISTRICT PERSONNEL COMMISSION
+2002-2003 SALARY SCHEDULE - UNIT D RATES EFFECTIVE 07-01 -02
+1.0 Effective July 2002, the wages and salaries of all Unit members shall be in accordance with the pay period salary ranges or hourly rates listed below:	,	.
+Class Code	Class Title	Stepl	Step 2	Step 3	Step 4	Step 5	Hourly
+1328	Accounting Applications Assistant	$2,967	$3,133	$3,315	$3,501	$3,700	$0
+1351	Accounting Technician I	$1,971	$2,081	$2,200	$2,324	$2,452	$0
+1331	Accounting Technician II	,....		$0	$2,452	$2,591	$2,743	$0
+2076	Administrative Aide	$2,666	$2,821	$2,980	$3,145	$3,323	$0
+5073	Administrative Analyst	$4,096	$4,324	$4,572	$4,832	$5,102	$0
+2071	Administrative Assistant	$3,442	$3,634	$3,843	$4,061	$4,292	$0
+5021	Administrative Staff Aide	$2,762	$2,920	$3,084	$3,260	$3,442	$0
+2084	Administrative Trainee	$0	$0	$0	$0	$0	$12.11
+2092	Adopt-A-School Coordinator	$3,981	$4,201	$4,443	$4,695	$4,957	$0
+1356	Adult School Financial Manager	$2,324	$2,452	$2,591	$2,743	$2,893	$0
+2671	Adult School Office Assistant	$1,801	$1,899	$2,007	$2,120	$2,239	$0
+2730	Assignment Technician	$2,239	$2,365	$2,500	$2,639	$2,791	$0
+5086	Assistant Administrative Analyst	$3,355	$3,543	$3,740	$3,954	$4,180	$0
+5141	Assistant Buyer	$3,057	$3,225	$3,411	$3,606	$3,809	$0
+1779	Assistant Environmental Assessment Coordinator	$3,718	$3,928	$4,150	$4,385	$4,635	$0
+2155	Assistant Environmental Planning Specialist	$3,442	$3,634	$3,843	$4,061	$4,292	$0
+4423	Assistant Industrial Hygienist	$3,718	$3,928	$4,150	$4,385	$4,635	$0
+3815	Assistant Programmer Analyst	$3,503	$3,704	$3,909	$4,132	$4,356	$0
+2156	Assistant Realty Agent	$3,442	$3,634	$3,843	$4,061	$4,292	$0
+1196	Assistant Software Engineer	$3,503	$3,704	$3,909	$4,132	$4,356	$0
+1079	Assistant Systems and Programming Analyst	$3,320	$3,511	$3,705	$3,917	$4,129	$0
+1106	Associate Financial Analyst	$3,354	$3,544	$3,742	$3,952	$4,170	$0
+5018	Associate Personnel Analyst	$3,260	$3,442	$3,634	$3,843	$4,061	$0
+4646	Audio-Visual Preview Clerk	$2,007	$2,120	$2,239	$2,365	$2,500	$0
+1221	Auditor	$2,920	$3,084	$3,260	$3,442	$3,634	$0
+2185	Bond Oversight Committee Coordinator	$3,981	$4,201	$4,443	$4,695	$4,957	$0
+1516	Boundary Coordinator	$0	$0	$3,772	$3,986	$4,213	$0
+2810	Braille Typist	$2,120	$2,239	$2,365	$2,500	$2,639	$0
+2547	Budget Technician	$2,500	$2,639	$2,791	$2,944	$3,108	$0
+1314	Building Program Accounting Technician	$3,174	$3,354	$3,544	$3,742	$3,952	$0
+5121	Buyer	$3,442	$3,634	$3,843	$4,061	$4,292	$0
+2617	Cafeteria Clerk	$1,899	$2,007	$2,120	$2,239	$2,365	$0
+4849	Centrex Operator	$1,880	$1,989	$2,100	$2,219	$2,341	$0
+11-06-02	85
+F:DATA:CONTRCT:UNIT D: 2002-03 SALARY SCHEDULE
+Appendix A
+LOS ANGELES UNIFIED SCHOOL DISTRICT PERSONNEL COMMISSION
+2002-2003 SALARY SCHEDULE - UNIT D RATES EFFECTIVE 07-01 -02
+Class Code	Class Title	Step 1	Step 2	Step 3	Step 4	Step 5	Hourly
+1336	Payroll Technician	$0	$0	$2,452	$2,591	$2,743	$0
+5020	Personnel Analyst	$3,879	$4,096	$4,324	$4,572	$4,832	$0
+2276	Personnel Clerk	$2,007	$2,120	$2,239	$2,365	$2,500	$0
+4641	Photographer	$2,844	$3,001	$3,174	$3,354	$3,544	$0
+4406	Physician Assistant/Nurse Practitioner	$4,527	$4,783	$5,053	$5,342	$5,642	$0
+2267	Placement Assistant	$2,791	$2,944	$3,108	$3,291	$3,474	$0
+2287	Placement Coordinator for the Deaf	$2,944	$3,108	$3,291	$3,474	$3,672	$0
+4853	Police Communications Representative	$2,551	$2,692	$2,846	$3,008	$3,178	$0
+5125	Produce Buyer	$4,061	$4,292	$4,535	$4,793	$5,065	$0
+5600	Program Associate A	$3,442 $3,634		$3;843	$4,061	$4,292	$0
+5601	Program Associate B	$0	$0	$0	$0	$0	$11.70
+5602	Program Associate C	$0	$0	$0	$0	$0	$27.00
+5603	Program Associate D	$0	$0	$0	$0	$0	$20.00
+5604	Program Associate E	$0	$0	$0	$0	$0	$18.00
+5607	Program Associate H	$0	$0	$2,122	$2,238	$2,362	$0
+3812	Programmer Analyst, COBOL	$4,483	$4,739	$5,003	$5,289	$5,585	$0
+3813	'Programmer Analyst. Oracle	$4,483	$4,739	$5,003	$5,289	$5,585	$0
+3814	Programmer Analyst, Visual Basic /	$4,483	$4,739	$5,003	$5,289	$5,585	$0
+2603	Publications Clerk	$2,120	$2,239	$2,365	$2,500	$2,639	$0
+3017	Quality Assurance and Quality Control Coordinator	$3,718	$3,929	$4,150	$4,385	$4,635	$0
+4854	Radiotelephone Operator	$1,989	$2,100	$2,219	$2,341	$2,475	$0
+2146	Realty Agent	$4,292	$4,535	$4,793	$5,065	$5,345	$0
+2248	Salary Credits Assistant	$2,791	$2,944	$3,108	$3,291	$3,474	$0
+1347	School Accounting Clerk	. ,	$2,324	$2,452	$2,591	$2,743	$2,893	$0
+2878	School Office Computer Coordiaator(Aclult)	$2,239	$2,365	$2,500	$2,639	$2,791	$0
+2874	School Office Computer Coordinator (Elementary)	$2,239	$2,365	$2,500	$2,639	$2,791	$0
+2876	School Office Computer Coordinator (Secondary)	$2,239	$2,365	$2,500	$2,639	$2,791	$0
+2800	Secretary (Restricted),	$2,120	$2,239	$2,365	$2,500	$2,639	$0
+2963	Selection Technician ;	• g , / i	$2,240	$2,365	$2,499	$2;638	$2,791	$0
+2725	Senior Assignment Technician; ? <; G	$2,365	$2,500	$2,639	$2,791	$2,944	$0
+1215	Senior Auditor	$3,442	$3,634	$3,843	$4,061	$4,292	$0
+4721	Senior Calculating Machine Operator ‘	$2,324	$2,452	$2,591	$2,743	$2,893	$0
+4848	Senior Centrex Operator:; / . ' r . j .,"	$2,100	$2,219	$2,341	$2,475	$2,615	$0
+5089	Senior Educational Research Analyst;	$4,459	$4,710	$4,975	$5,260	$5,560	$0
+1797 Senior Environmental Laboratory Technician 11-06-02	V RQ F:DATA:CONTRCT.UN1T D: 2002-03 SALARY SCHEDULE		$3,260	$3,442	$3,634	$3,843	$4,061	$0
+Appendix A
+LOS ANGELES UNIFIED SCHOOL DISTRICT PERSONNEL COMMISSION
+2002-2003 SALARY SCHEDULE - UNIT D RATES EFFECTIVE 07-01-02
+Class Code	Class Title	Step 1	Step 2	Step 3	Step 4 Step 5	Hourly
+2346	Television Programming Associate	$3,197	$3,378	$3,568	$3,769 $3,981	$0
+2117	Television Stud io Assistant	.	$0	$0	$0	$0. ; : $0	$10.95
+2123	Television Traffic Coordinator	$2,287	$2,419	$2,553	$2,697 $2,851	$0
+2644	Textbook Inventory Clerk	$2,120	$2,239	$2,365.:	$2,500 $2,639	$0
+2905	Translator -1 nterpreter (Armenian)	$3,461	$3,653	$3,860	$4,083 $4,310	$0
+2907	Translator - Interpreter (Cantonese - Mandarin)	$3,461	$3,653	$3*860	$4,083 $4,310	$0
+2906	Translator - Interpreter (Cantonese)	$3,461	$3,653	$3,860	$4,083 $4,310	$0
+2908	Translator - Interpreter (Korean)	$3,461	$3,653	$3,860	$4,083 $4,310	$0
+2909	Translator - Interpreter. (Mandarin) ;	$3,461	$3,653	$3,860	$4,083 $4,310	$0
+2910	Translator - Interpreter (Russian)	$3,461	$3,653	$3,860	$4,083 $4,310	$0
+2070	Translator - Interpreter (Spanish)	$3,461	$3,653	$3,860	$4,083 $4,310	$0
+2911	Translator - Interpreter (Vietnamese)	$3,461	$3,653	$3,860	$4,083 $4,310	$0
+2920	Translator (Spanish)	$3,461	$3,653	$3,860	$4,083 $4,310	$0
+2085	Transportation Liaison Assistant	$3,442	$3,634	$3,843	.$4,061 $4,292	$0
+5064	Urban Education Research Fellow	$0	$0	$3,769	$0	$0	$0
+2326	Volunteer Program Assistant	$3,442	$3,634	$3,843	$4,061 $4,292	$0
+2095	Volunteer Program, Liaison Assistant	$3,782	$3,995	$4,216	$4,459 $4,710	$0
+2812	Word Processor Operator	;	$2,007	$2,120	$2,239	$2,365 $2,500	$0
+11-06-02	Q-1
+F:DATA:CONTRCT.UNIT D: 2002-03 SALARY SCHEDULE
+Appendix B
+2.0	Notice of Decision(s): Decisions with respect to reduction in hours and layoffs, as defined above, shall rest within the District's discretion, subject to applicable law and Personnel Commission Rules, enforceable through Personnel Commission jurisdiction. Affected employees shall receive no less than 30 calendar days' notice prior to implementation. If the action falls within the above definition of layoff, the District-wide seniority protections set forth in Personnel Commission Rules shall be deemed applicable. Part-time employees assigned for three hours or less in clerical positions located in school cafeterias shall be subject to the 30-day notice requirement in the event of layoff, but not in the case of reduction in hours as defined above.
+3.0	Effects Upon Those Separated from Employment Due to Layoff:	‘	‘	'
+a.	Employees scheduled for layoff shall be pei mitted to use earned vacation time or reasonable use of available personal necessity time, subject to prior administrative approval, to seek othei employment
+b.	For permanent employees, all earned and unused vacation shall be paid as soon as practicable, upon written request.
+c.	A laid off employee who is reemployed by the District in a regular assignment within thirty-nine (39) months after his/her last day of paid service shall have restored all of the rights and benefits (including previously accumulated illness leave) pertaining to regular classified employees.
+d.	Interested employees scheduled for layoff shall be eligible to utilize the outplacement services provided by Personnel Commission staff. Such services may include: Information about job opportunities available in other organizations, resume preparation, job interview preparation, filing for unemployment compensation; etc. To the extent possible, office space, use of telephones, copy machines, paper, etc. will be made available to ■	■■ these employees.	;	.	•
+e.	Employees on reemployment lists may apply for promotional examinations for which they qualify: 1	? -•
+i f. No limited-term personnel or substitutes shall be employed in vacant positions in classifications from which regular employees are currently laid off until exhaustion of the reemployment list for that classification.
+g. Employees who are laid off shall have first right of consideration for available substitute assignments in any unit classification(s) for
+11-06-02
+F:CONTRACT:02-05 UNIT D:APPND B	93
+Appendix B
+(3)
+Should an employee believe that the above procedures have not been followed or that the assignment of additional workload by their supervisor/administrator is inequitable, unrelated to their classification, unreasonably demanding, or sets unrealistic priorities, the remedy shall be for the employee to meet with their supervisor/administrator along with their CSEA representative, for the purpose of discussing the concerns.	■
+b. Reassiqnments:
+(1)	Criteria: The identification of individual employees within a department or unit for reassignment shall be based upon consideration of seniority (as defined below) and also consideration of the objective operational needs of the department or unit, such as the need to minimize disruption of services, the need to minimize retraining of the remaining employees, and the need to retain employees who possess special skills and/or expertise. It may also be based upon the avoidance of extraordinary personal hardship to an employee. Employees who have volunteered for reassignment shall be considered first, subject to and consistent with the above considerations. Reassignment selections are not to be used to evade appropriate progressive disciplinary procedures; however, employees whose performance is marginal or below standard shall remain subject to the above reassignment criteria along with all other employees. For purposes of identification for reassignment, "seniority" means length of regular District service within the classification.
+(2)	Notification to Employee: Notification to the employee(s) identified for reassignment shall be in writing on a form prescribed by the District or by separate memorandum. When an employee is identified for reassignment based upon criteria other than seniority, the responsible administrator shall, upon request, explain to the affected employee the v: ; 3 specific reasons for the decision.
+(3)	Appeal: If the employee wishes to appeal the supervisor/administrator's decision, a written request
+11-06-02
+F:CONTRACT:02-05 UNIT D:APPND B
+95
+Appendix B
+(6) Reassignment Orientation: Upon reassignment at a new iocation, the immediate supervisor shall conduct an orientation session for the affected employee. The orientation session should include an outline of the duties to be performed, task priorities, reasonable instruction, training and familiarization.
+It is recognized that many provisions herein are made feasible by the circumstances and practices relating to Unit D employees; accordingly, this MOU shall not be regarded as a precedent for any other bargaining units.
+This, Memorandum of Understanding fully satisfies the parties' bargaining obligations and constitutes the complete settlement between the District and CSEA with regard to any and all negotiable aspects (whether decision or effects of decisions) of layoffs, reemployment, hours reductions, reductions in basis, and reassignments. It shall remain in effect, without regard to expiration of the Unit D Agreement, until such time as the parties agree to revise it.
+11-06-02
+F:CONTRACT:02-05 UNIT D:APPND B
+97
+APPENDIX C
+UNITD MEMORANDUM OF UNDERSTANDING 2002-2005	...
+This Memorandum of Understanding is made and entered into this 6th day of November 2002, by and between the Board of Education of the Los Angeles Unified School District (“District”) and the California School Employees Association (“CSEA”) for employees in Unit D (Technical, Professional and Clerical).
+Pursuant to Article XXII of the parties’ 2000-2002 Agreement, the District and CSEA have met and negotiated in good faith and have completed their negotiations for a successor collective bargaining agreement. The parties hereby agree as follows:
+A.	All articles and provisions of the parties’ 2000-2002 Agreement are incorporated as part of the parties’ successor Agreement except (1) as modified by this Memorandum of Understanding, or (2) as required to make appropriate nonsubstantive language corrections.	.	■
+B.	For the 2002-2003 school year, the District and CSEA agree to the following compensation changes effective July 1, 2002.
+1....Health and Welfare Benefits (as to all eligible District personnel): (a) For the 2002-2003 school year, the District's Health and Welfare benefit plan payment obligation shall not exceed $573 million (the $495 million obligation for the 2001-2002 school year plus the additional $78 million for all District personnel). The plan shall be amended as recommended by the Health Benefits Committee and approved by the Board of Education on September 3, 2002. (b) The District shall place $10 million and .... additional savings from thb health plan generated during this fiscal year in the Health and Welfare Prudent Reserve account to be used solely to fund future increases in the Plan.	:
+2.	Salaries: Effective July 1, 2002, all Unit D bargaining unit base salary rates shall be increased by 3%.
+For 2002-2003, if the District voluntarily enters into a collective bargaining agreement with any other classified bargaining unit which provides for a general percentage increase on the salary schedule in the 2002-2003 contract year which is more than 4.5%, the percentage increase on the salary schedule for Unit D employees for 2002-2003 will be increased by the general percentage amount, if any, which is above 4.5%.
+C.	For 2003-2004, the parties have agreed to reopen on Article XII and Article XIII, and have further agreed that each party may reopen on two (2) additional contract sections.
+F:DATA:CONTRACT:02-05 UNIT D:2002-05 MOU
+99
+Los Angeles Unified School District
+HUMAN RESOURCES
+, OFFICE OF STAFF RELATIONS
+ADMINISTRATIVE OFFICES: 333 S. Beaudry Avenue, Los Angeles, CA 90017
+MAILING ADDRESS: Box 3307, Los Angeles, California 90051
+TELEPHONE: (213)241-6056 FAX: (213)241-8405
+Roy Romer Superintendent of Schools
+Dr. Tom Boysen Chief Operating Officer .
+DEBORAH D. HIRSH
+Chief Human Resources Officer
+John k. lade Administrative Coordinator
+November 6, 2002
+Ms. Jonnie Parker
+California School Employees Association
+1505 Gardena Avenue
+Glendale, California 91204-2711
+JRE; CAREER DEVELOPMENT COMMITTEE
+Dear Ms. Parker:	\	,
+This letter will confirm the understanding reached between the California School „ Employees Association ("CSEA") and the Los Angeles Unified School District ("District") regarding the above-referenced matter.	......
+CSEA and the District agree to convene a joint "Career Development" Committee (Committee) the purpose of which will be to discuss increasing awareness of existing career development avenues and development of additional professional growth opportunities for Unit D employees. The Committee's discussions will be in three basic areas:
+•	Professional Growth
+The Committee will review current professional growth opportunities currently available to Unit D employees. The Committee will seek to develop joint recommendations regarding augmenting current professional growth opportunities available to Unit D members.
+•	Career Ladder
+The Committee will review current opportunities for advancement of Unit D employees and how those opportunities are communicated to Unit D members. The Committee will seek to develop joint recommendations for communicating current advancement opportunities and methods for employees to gain the minimum qualifications required for advancement.
+•	Mentor Program
+The Committee will explore the feasibility of developing a mentor program for Unit D employees.
+F:DATAzNEGOT:UNIT D: CSEA COMMITTEE LTR 11-602
+MISSION STATEMENT: "The teachers, administrators, and staff of the Los Angeles Unified School District believe in the equal worth and dignity of ail students and are committed to educate all students to their maximum potential "
+101

@@ -1,0 +1,445 @@
+﻿COLLECTIVE BARGAINING AGREEMENT
+EMCOR Government Services, Inc.
+and
+LOCAL 351
+International Union of Operating Engineers, AFL-CIO
+Western Currency Facility Ft. Worth, Texas Bureau of Engraving and Printing
+Effective: April 29, 2013 - April 28, 2014
+TABLE OF CONTENTS
+ARTICLE	SECTION	PAGE
+PREAMBLE PREAMBLE.......................-...............-.........- - - -	5
+ARTICLE I	RECOGNITION
+Section 1.1	Union Recognition--------------------------------------- 5
+Section 1.2	Shift Leader-------------------------------------------- 5
+ARTICLE H	MANAGEMENT RIGHTS
+Section 2.1	Management Rights------------------------------------- 5
+Section 2.2	Government Directive---------------------------------- 6
+Section 2.3	Drug Testing------------------------------------------ 7
+ARTICLE HI	AGREEMENT AGAINST STRIKES AND LOCK-OUTS
+Section 3.1	No Strike. No Lock-Out-------------------------------- 7
+ARTICLE IV	NON-DISCRIMINATION
+Section 4.1	No Discrimination------------------------------------- 7
+Section 4.2	Pronouns---------------------------------------------- 8
+ARTICLE V	SENIORITY
+Section 5.1	Definition-------------------------------------------- 8
+Section 5.2	Standard-------------------------------- ------------- 8
+Section 5.3	Breaks in Seniority----------------------------------- 8
+Section 5.4	Layoff and Recall------------------------------------- 8
+Section 5.5	Seniority List---------------------------------------- 9
+ARTICLE VI	WAGES/PREMIUM PAY
+Section 6.1	Wages------------------------------------------------- 9
+Section 6.2	Overtime Pay------------------------------------------ 9
+Section 6.3	No Pyramiding Pay------------------------------------- 9
+Section 6.4	Shift Differential------------------------------------ 9
+Section 6.5	HAZMAT Premium Pay------------------------------------ 9
+ARTICLE VII	HOURS OF WORK
+Section 7.1	Hours of Work------------------------------------------ 10
+Section 7.2	Daylight Savings--------------------------------------  10
+Section 7.3	Ready to Work------------------------------------------ 11
+Section 7.4	Four Hour Call-In Guarantee---------------------------- 11
+Section 7.5	Equalization of Overtime------------------------------- 11
+ARTICLE VIII	JURY DUTY
+S ection 8.1	B enefit---------------------------------------------- 13
+2
+ARTICLE IX	UNION SECURITY AND DUES CHECK OFF
+S ection 9.1	Union S ecurity----------------------------------------------- 13
+Section 9.2	Dues Check off------------------------------------------------ 13
+Section 9.3	Member Discrimination----------------------------------------- 14
+Section 9.4	Indemnification----------------------------------------------- 14
+Section 9.5	Monthly Roster------------------------------------------------ 14
+ARTICLE X	JOB OPENINGS
+Section 10.1	Posting------------------------------------------------------- 14
+Section 10.2	Filling the Position------------------------------------------ 15
+Section 10.3	Rights of Laid-Off Employees---------------------------------- 15
+Section 10.4	Temporary Filling of Vacancy---------------------------------- 15
+Section 10.5	Shift Changes------------------------------------------------- 15
+Section 10.6	Supervisors--------------------------------------------------- 15
+ARTICLE XI	HOLIDAYS
+Section 11.1	Days Observed------------------------------------------------- 16
+Section 11.2	Work on a Holiday--------------------------------------------- 16
+Section 11.3	Eligibility for Holiday Pay----------------------------------- 17
+Section 11.4	Compensation During Facility Closing-------------------------- 18
+ARTICLE XII	PERSONAL LEAVE
+Section 12.1	Description of Benefit---------------------------------------- 19
+Section 12.2	When Personal Leave May Be Taken------------------------------ 19
+Section 12.3	How Taken----------------------------------------------------- 19
+Section 12.4	Pay for Personal Leave---------------------------------------- 20
+Section 12.5	Payment to Next of Kin-----------------------------------------21
+S ection 12.6	Mandatory Use of Personal Leave--------------------------------21
+Section 12.7	Donation of Personal Leave-------------------------------------21
+ARTICLE XIII	UNPAID LEAVES OF ABSENCE
+Section 13.1	Policy---------------------------------------------------------21
+Section 13.2	Family Medical Leave Act---------------------------------------22
+Section 13.3	Requesting a Leave of Absence----------------------------------22
+Section 13.4	Accrual of Personal Leave--------------------------------------22
+Section 13.5	Reinstatement--------------------------------------------------22
+Section 13.6	Failure to Return to Work------------------------------------- 22
+Section 13.7	Union Business-------------------------------------------------23
+ARTICLE XIV	MILITARY SERVICE
+Section 14.1	Short Term Military Leave Policy-------------------------------23
+Section 14.2	Procedure----------------------------------------------------- 23
+Section 14.3	Return-------------------------------------------------------- 23
+Section 14.4	Long-term Military Leave Policy------------------------------- 23
+ARTICLE XV	FUNERAL LEAVE
+Section 15.1	Benefit------------------------------------------------------- 24
+3
+ARTICLE XVI	UNION REPRESENTATIVE
+S ection 16.1	Number o f Stewards----------------------------------------- 24
+Section 16.2	Employee Access to Stewards----------------------------------24
+Section 16.3	Investigations-----------------------------------------------24
+Section 16.4	Union Access — ----------------------------------------------25
+Section 16.5	No Disturbance of Work---------------------------------------25
+Section 16.6	Shop Steward Duties------------------------------------------25
+ARTICLE XVII	EMPLOYEE CONDUCT POLICY/PROGRESSIVE DISCIPLINE
+Section 17.1	Employee Conduct/ Progressive Discipline---------------------25
+ARTICLE XVIII	GRIEVANCE PROCEDURE
+Section 18.1	Nature of Grievance - Exclusive Process--------------------- 26
+Section 18.2	Time for Presentation of Grievances------------------------- 27
+Section 18.3	Procedure for Settling Grievances--------------------------- 27
+S ection 18.4	Arbitration------------------------------------------------- 28
+Section 18.5	Authority of Arbitrator------------------------------------- 28
+ARTICLE XIX	HEALTH AND WELFARE, 401(k), and CPF
+Section 19.1	General Conditions ----------------------------------------- 29
+Section 19.2	Modified Cafeteria Plan------------------------------------- 29
+Section 19.3	Health & Welfare Benefit------------------------------------ 29
+Section 19.4	Central Pension Fund (CPF)---------------------------------- 29
+Section 19.5	Retirement Savings Plan--------------------------------------29
+ARTICLE XX	SAFETY
+Section 20.1	Safety Equipment-------------------------------------------- 31
+Section 20.2	Employee Compliance with Safety Procedures------------------ 31
+ARTICLE XXI	AGREEMENTS, UNDERSTANDINGS AND WAIVER
+Section 21.1	Entire Agreement-------------------------------------------- 32
+Section 21.2	Changes Only in Writing--------------------------------------32
+Section 21.3	Zipper Clause------------------------------------------------32
+Section 21.4	Savings Clause-----------------------------------------------32
+Section 21.5	Bulletin Board---------------------------------------------- 33
+Section 21.6	Understanding Regarding Work Assignments---------------------33
+Section 21.7	Use of Personal Vehicles-------------------------------------33
+ARTICLE XXII	DURATION
+Section 22.1	Effective Dates----------------------------------------------33
+APPENDIX A	Wages, H&W, and CPF------------------------------------------34
+EXHIBIT A	Authorization for Deduction of Dues--------------------------35
+SIGNATURE	Employer/Union Signature Page--------------------------------36
+4
+Preamble
+This agreement, made and entered into by the and between the International Union of Operating Engineer’s, Local 351, AFL-CIO, (hereinafter referred to as the ‘Union”) and EMCOR Government Services (hereinafter referred to as the “Employer”), for the operation of the Bureau of Engraving and Printing, Western Currency Facility, Ft. Worth, Texas.
+ARTICLE I RECOGNITION
+Section LI Union Recognition: For purposes of bargaining over wages, hours and conditions of employment, the Employer recognizes the Union as the exclusive bargaining agent, and representative for all employees coming under the terms of this Agreement, as long as such recognition shall not be in conflict with, or in violation of, any statute, law, ordinance of the government of the United States, the State of Texas, or any political subdivision thereof.
+Section 1.2 Shift Leader: Employees in the Shift Leader position, which is included in the bargaining unit, have no authority to hire, fire or discipline employees, and will be instructed by the Employer to refrain from asserting that such authority exists within the classification. The Shift Leader directs the work of employees assigned to his shift during the absence of the Shift Supervisor. At all other times, the Shift Leader is to perform routine work of the classification he holds. The shift leader classification will be included in the semi-annual shift change opportunities. Employees who serve in the shift leader classification will maintain seniority within their former job classifications.
+ARTICLE II
+MANAGEMENT RIGHTS
+Section 2.1	Management Rights:
+(a)	The management of the Company and the direction of the working force are vested solely and exclusively in the Company and shall not in any way be abridged, except as specific restrictions are set forth in this Agreement. The parties agree that the Company has the right to supervise employees, to hire employees, to promote employees, to discipline, suspend or discharge employees for proper cause, which includes
+5
+misconduct, dishonesty, poor attendance, tardiness, safety procedure and/or policy violations), sub-standard job performance, to lay off employees for lack of work, to transfer employees, to assign employees, to determine services which employees shall perform, to direct, instruct and control employees, including, but not limited to the determination of the number and qualification of employees to perform work, the quality of work standards and the required employee performance to meet such standards, to assign overtime, to determine hours of work, to determine types of equipment, methods and procedures to be employed, to make and enforce reasonable rules to assure orderly and effective work and to perform all other functions in the administration, management, control and/or direction of the business.
+(b)	Employees must be able to be issued and maintain a contractor badge by the client at the Bureau of Engraving and Printing. If the employee is unable to obtain said contractor badge, or if it is revoked, the employee will be terminated or their offer of employment will be rescinded. Such discharge is not subject to the grievance and arbitration provisions listed in this Agreement.
+(c)	The exercise of management rights, powers and authority shall not be subject to any grievance and/or arbitration procedure, provided that the exercise of such rights, powers and authority are not in violation of the express terms of the Agreement.
+Section 2.2	Government Directive*. Should the Government suggest or direct the Employer to perform a specific task, including but not limited to, changing, modifying, or adding additional provisions that could impact this Agreement, the Employer will meet and confer with the Union, but in no event will such change, modification, or addition be negotiable or subject to the grievance and arbitration article set forth in this Agreement. Moreover, should the Government require an employee to be removed from the facility, such removal shall like wise not be subject to the grievance and arbitration article. If within sixty (60) days of the notice of being removed from the facility the Union produces evidence that would justify the employee being allowed back into the facility, the Employer agrees to present the employee’s case to the Government for restatement back into the facility. If the Government stands on its removal of the employee horn the facility after the Union’s evidence is presented, the removal is not subject to the grievance and arbitration article.
+6
+Section 2.3	Drug and Alcohol Testins*. The Employer shall have the right to test for drugs and alcohol usage subject to the following conditions:
+(a)	Testing only if there is probable cause, no random testing.
+(b)	If a positive result in a drug test, a second test of the same sample will be
+administered.
+(c)	Employee refusal to take a test justifies immediate termination of employee.
+(d)	Blood alcohol level of .08 and above, or prevailing Texas State law,
+provide absolute presumption that employee is under the influence of alcohol. The Employer may immediately terminate any employee found to be under the influence of alcohol.
+ARTICLE m
+AGREEMENT AGAINST STRIKES AND LOCK-OUTS
+Section 3.1 No Strike. No Lock-Out: During the term of this Agreement there shall be no strikes, sympathy or otherwise. This includes walkouts, picketing, slowdowns or any other interruption of work by the Union or by any employee. In turn, the Employer will not lock-out its employees. Both parties may seek legal redress in the event of a breach of this article.
+While it’s the desire of the parties to maintain a functioning work environment, any break down of such should be subject to the grievance and arbitration procedure for dispute resolution.
+ARTICLE IV
+NON-DISCRIMINATION
+Section 4.1	No Discrimination: There shall be no discrimination against any employee because of race, religion, national origin, sex, age, or Union membership or status as Shop Steward by either the Employer or the Union. The Employer and the Union agree to comply with all laws relating to the non-discrimination of and the accommodation of the disabled and this Agreement shall be so interpreted.
+7
+Section 4.2	Pronouns: Wherever the pronouns he, him, or his appear in this Agreement it is agreed that any such reference shall have equal application to employees irrespective of sex and in no way represents sexual discrimination.
+ARTICLE V
+SENIORITY
+Section 5.1	Definition: Seniority is the length of continuous service at the facility or with the current Employer whichever is longer. All employees shall be on a forty-five (45) calendar-day probationary period. Employees hired after April 29, 2011, shall be on a ninety (90) calendar-day probationary period. During the probationary period, no employee shall obtain seniority. The Employer has the right to terminate any probationary employee without redress to the grievance and arbitration procedure. After completion of the probationary period, the hire date reverts back to the original date of hire.
+Section 5.2	Standard: Where skills and ability are relatively equal, seniority within the classification, based on when the employee was hired, promoted or demoted, will be the determining factor in choice of shifts when an opening occurs, promotions, demotions, lay-offs and recall. The Employer shall have the sole and exclusive right to decide skills and ability.
+Section 5.3	Break in Seniority: An employee’s continuous seniority will be broken under the following events:
+(a)	Termination
+(b)	Not recalled from layoff beyond twelve (12) months.
+(c)	Fails to report to work on scheduled day of recall from layoff.
+(d)	Is absent for three (3) consecutive workdays without notification to management. Such absence is considered self termination.
+(e)	Is absent because of disability, sickness, injury or similar cause for more than twelve (12) months, unless and extended by the Employer.
+(f)	Exceeds an approved leave of absence.
+Section 5.4	Layoff and Recall: In the event of a reduction of the work force, the lay-off procedure will be based on seniority within classification, as defined above, that is the last one in is the first one out. Recall will be in reverse order.
+8
+Section 5.5	Seniority List: Within thirty (30) days after signing this Agreement and semi-annually thereafter, the Employer shall post in a conspicuous place, and shall mail to the Local Union a list of the non-probationary employees covered by this Agreement arranged according to their seniority. Protests to any employee's position on such list must be made in writing to his supervisor within thirty (30) days of the posting of the seniority list. If two or more employees start to work on the same day, their order of seniority shall be determined by the employee with the lowest four last digits of his Social Security Number. Upon any correction, the corrected list will apply.
+ARTICLE VI
+WAGES/PREMIUM PAY
+Section 6.1	Wages: The job classifications and the hourly rates for employees working at the site of the employer under the terms of this Agreement shall be shown in Appendix "A".
+Section 6.2	Overtime Pay: All work performed in excess of forty (40) hours per workweek shall be paid at the rate of one and one-half (1 1/2) times the regular rate of pay. Holidays and personal leave will be computed as hours worked in calculating overtime.
+Section 6.3	No Pyramiding Pay: There shall be no pyramiding of overtime or premium pay nor shall such pay be made for more than one reason for the same hours worked. Premiums and quality incentive pay shall not be considered as part of the base hourly rate for computing overtime.
+Section 6.4	Shift Differential: The Company shall pay a shift differential of $0.75 per hour for hours worked on the evening shift and $0.85 per hour for hours worked on the night shift. Effective February 1, 2012, the Company shall pay a shift differential of $.90 per hour for hours worked on the evening shift and $1 per hour for hours worked on the night shift. Vacation, holiday pay, etc, is paid without shift differential.
+Section 6.5	HAZMATPremium Pay:
+a.	Any employee required to have special HAZMAT team training will receive $.35 per hour in addition to his regular pay, while serving on the HAZMAT Response Team.
+9
+b.	The Company is required to maintain 12 trained and certified HAZMAT team members at all times, of which, 4 members must be assigned to each of the three shifts. When the number drops below 4 people on any given shift, the management will request volunteers currently assigned to that shift to fill any remaining slots. If no volunteers present themselves, management will assign the least senior members on that shift to receive training and assign them to the HAZMAT Team. In the event a shift contains more than 4 HAZMAT Team Members, management will select the 4 team members to receive special premium pay by seniority.
+c.	A Hazmat team member may opt off the HAZMAT Response Team provided: (1.) The team member provide a written request to be removed from the team in writing 90 days prior to removal, and
+(2.) There is a volunteer or less senior employee that can take their place on the team.
+ARTICLE VII HOURS OF WORK
+Section 7.1.	Hours of work: Eight (8) consecutive hours, shall constitute a days work. All time worked in excess of eight (8) straight-time hours in any one day and all hours worked outside of the employee’s regular five (5) consecutive scheduled eight (8) hour days shall be considered overtime and be paid for at one and one-half (11/2) times the employee's regular wage straight time rate of pay.
+Section 7.2	Daylight Savings: The employees working their shift when time falls backward shall be paid overtime for the one (1) extra hour worked. When time springs forward an hour, those employees effected shall be allowed to work one (1) additional hour to get their full eight (8) hours pay for that shift.
+Section 7.3	Ready to Work: Any employee not allowed access to the job site through the BEP entrance gate through no fault of the employee, will be paid for all hours he would have worked as if he had not been denied access. The exception to payment would be that the employee must wait at the main gate until cleared or excused by management. As well, if access is denied or prevented due to government lock down, or
+10
+Divine intervention, no payment will be made.
+All employees must be in uniform and ready to work at their assigned start time and shall remain uniformed and working until the end of their shift.
+Section 7.4	Four Hour Call-In Guarantee: An employee who is instructed to report to work outside of his regular shift, and such instruction requires him to make an extra trip to the job site in a day, shall be guaranteed at least four (4) hours of pay even where an employee is actually required to work less than four full hours.
+Section 7.5	Equalization of Overtime: The Employer will, insofar as is practicable, during the term of this Agreement, and with due regard to production or service, equalize overtime among qualified employees who normally perform the work in the required overtime classification.
+(a)	In order to keep up with the amount overtime each employee has worked or refused, an “Overtime Book” will be kept in an area designated by the employer for each employee to write down the overtime they work and for the Supervisor or Shift Leader to write down overtime refused.
+(b)	When the employer needs to cover a particular shift, the Supervisor or Shift Leader shall reference the “Overtime Book” and offer the overtime to the employee with the least amount of overtime in the classification where the overtime is required.
+If the overtime does not require a licensed craft, then such overtime will be offered to the GM classification first. In this instance only, if no employee in the GM classification accepts the overtime assignment, then the overtime will be offered to the employee within the other crafts by lowest overtime and then next lowest overtime and so on until the overtime assignment is accepted.
+If no employee accepts the overtime in this instance only, then the employee with the lowest number of overtime hours within all classifications shall be required to work this overtime assignment.
+11
+(c)	In order to cover a shift, the employer shall hold over the prior shift for four (4) hours and call out the subsequent shift four (4) hours early. In essence, splitting the overtime shift. If an employee is required to go home and then return to work without eight (8) hours rest between shifts, then such employee will be paid two-times (2X) the employee's regular wage straight time rate of pay for all hours worked on the shift which he returned to work.
+(d)	If the employee with the least amount of overtime refuses to accept the overtime assignment, the Supervisor or Shift Leader shall write down refused and go to the employee with the next lowest overtime and so on until the overtime assignment is accepted. If no employee accepts the overtime assignment, then the employee with the lowest number of overtime hours shall be required to work.
+(e)	The Supervisor will make every effort to utilize those employees scheduled to work that day first before calling in an employee on their day(s) off. Where an employee is not at the worksite to be offered the overtime in person, the Supervisor will attempt to contact the employee by telephone using the telephone number provided in the “Overtime Book”. If the employee is not personally reached when called, the employee will not be charged with the overtime, and the Supervisor will proceed to the next employee in the overtime book.
+(f)	If any error is made in assigning overtime, whether the issue is raised informally or by grievance, the resolution, if any, will be the employee shall be provided an opportunity to work the next available overtime. No pay for missed overtime shall be paid, and no grievance need be filed, unless the employee is denied the opportunity to work the next available overtime for his classification after the dispute is settled.
+(g)	The Shift Leader will only assign overtime in the absence of the Shift Supervisor and, in such cases, will not assign the overtime to himself until after it has been offered to all eligible employees in the classification where the overtime assignment is being required.
+12
+ARTICLE VIII
+JURY DUTY
+Section 8,1 Benefit: In the event any employee is required to serve on any jury in the judicial system of the United States of America or when an employee has been legally summoned as a witness in a case in a court of law to which the employee is not a party directly or indirectly, the Employer agrees that it will pay the employee his straight time rate of pay for each hour missed from work, less any jury duty pay, witness fee and/or expenses received by such employee, provided such employee notifies the Employer promptly that he will be absent from work.
+Normally, the maximum amount payable pursuant to this provision is forty (40) hours per year per employee. The Employer will consider requests for extensions of jury duty pay beyond forty (40) hours on a case-by-case basis. Such extensions shall be in the sole discretion of the Employer.
+Employees working evening or night shift will not be required to work those shifts when serving on the jury. An employee summoned for jury duty who is not actually required by the court to be in attendance for jury duty during any portion of the employee’s scheduled working hours shall call his supervisor for direction as to whether he is required to report to work for the remainder of his scheduled shift.
+ARTICLE IX
+UNION SECURITY AND DUES CHECK OFF
+Section 9.1 All employees covered by this agreement who are or become members of the Union shall maintain their membership in the union in good standing for the duration of this agreement, provided however, that employees shall have a period January 1 through January 14th of each year to notify the Union and the Company in writing that he or she no longer desires to be a member of the Union.
+Section 9.2	Once an employee signs and submits a check-off authorization form to the company that allows union dues withholding from his or her pay check, union dues will be withheld until the employee notifies the Company in writing to stop withholding. The open period to submit a request to stop withholding shall be January 1 through January 14 of each year. The Company shall notify the Union of the employee’s
+13
+desire in writing and then cease to deduct union dues from that employee’s pay check effective January 16th.
+The form used by the company shall be the following:
+I hereby authorize EMCOR, my employer, to deduct from my wages due me and payable on the first regular payday each month, an equivalent to two (2) hours of base wages plus per capita tax, being my regular periodic union dues and to remit this amount to the proper officer of Local 351 for my account. This authorization may be revoked by me during the period of January 1 through January 14th of each year or upon termination of my employment.
+Date____________
+Employee__________________________________
+Signature_________________________________
+Section 9.3	The Union and the Company shall respect the agency of the employee with regard to union membership and neither party shall discriminate against any employee in any manner in regard to his choice of membership or non-membership in the Union.
+Section 9.4	The Union will indemnify and save harmless the Employer from
+any and all claims and disputes by reason of the Employer acting in reliance upon voluntary assignments furnished it.
+Section 9.5	The Employer shall once each month furnish a list to the Union showing all newly hired employees or employees who are laid off or ceased to be an employee of the Employer.
+ARTICLE X
+JOB OPENINGS
+Section 10.1	Posting: Whenever a non-temporary job opening exists in any job classification and no employee in that classification is eligible for recall or no employee
+14
+eligible for recall responds after being provided with a recall notice, then a notice advertising such opening shall be provided to each Shop Steward, and shall be posted at the plant for a period of seven (7) calendar days. Such notice shall include salary scale and job title. The Employer shall also send a copy of the posting via certified mail to the last known address of employees laid-off in the previous twelve (12) months from other job classifications. The Employer agrees not to interview any applicants from outside the Employer until the seven (7) day bidding period is completed. Employees who apply for the job opening shall be notified in writing regarding the Employer's decision within a reasonable period of time.
+Section 10.2	Fillins the Position: When the skill and ability are relatively equal among applicants, the Employer shall select from among those applying for the position, the most senior individual. Employees selected shall be placed on probation for that job for forty-five (45) consecutive calendar days. During this probation period, if the Employer judges the employee to be unsatisfactory, or if the employee desires, he shall be returned to his former position or one of equal pay or similar function, or if that position has been filled, he may bump a less senior employee in his original job classification, and if there is no such less senior employee, he shall be placed on a preferential hiring list.
+Section 10.3	Rights of Laid-off Employees: Under no circumstances shall the Employer hire from the open market when employees on the recall list (those laid off in the previous twelve (12) months) are qualified to perform the duties of the vacant position and are ready, willing and able to be re-employed. The last qualified employee laid off from the job will be the first recalled to that job.
+Section 10.4	Temporary Filling of Vacancy: Notwithstanding Section 10.2, the Employer may temporarily fill any vacancy while the procedures outlined in this article are being followed.
+Section 10.5	Shift Changes: The Employer will offer a shift/schedule change by seniority during March and September of each year. Should the shift change provision lead to or become excessive and difficult to handle, the parties agree to meet and confer on how to best resolve the problem.
+Section 10.6	Supervisors: Supervisors shall not perform work customarily
+15
+and regularly performed by employees in the bargaining unit except in cases of emergency, affecting the safety of equipment or personnel and for purpose of instruction or training, experimental processes or for operational necessity.
+ARTICLE XI HOLIDAYS
+Section 11.1	Davs Observed: The Employer recognizes the following eleven (11) holidays in the calendar year.
+(a)	New Year's Day (January 1)
+(b)	Martin Luther King's Birthday (3rd Monday in January)
+(c)	President's Day (3rd Monday in February)
+(d)	Memorial Day (Last Monday in May)
+(e)	Independence Day (July 4th)
+(f)	Labor Day (First Monday in September)
+(g)	Columbus Day (Second Monday in October)
+(h)	Veteran's Day (November 11)
+(i)	Thanksgiving Day (Fourth Thursday in November)
+(j)	Christmas Day (December 25th)
+(k)	Floating Holiday (To be taken when requested by the employee seven (7) days in advance and approved by the Supervisor and does not incur overtime.)
+The Employer may alter the above dates to be in accordance with BEP holidays, or days of special observance as mandated by BEP in addition to those specified above. If the BEP mandates a day of special observance it shall be in addition to the above mentioned holidays and the employees shall receive holiday pay for that day as outlined in section 11.2, provided, however, that the Employer is funded by the Government for such an event.
+Section 11.2	Work on a Holiday: Employees covered by this contract shall receive as hereinafter provided, eight (8) hours pay at his regular basic straight time rate exclusive of any premium or overtime pay, for hours not worked on each of said holidays. An employee who works on a holiday shall receive, in addition to the holiday pay, his regular rate of pay times one and one-half (1 Vz) for time worked.
+16
+The Employer shall be entitled in its sole discretion to require an employee to work on a holiday. An employee who is on his day off in which the holiday falls or who is required to work on a holiday may forego his holiday pay and request to reschedule another day off with pay at a time approved by the Employer within the current or next pay period.
+The request for rescheduling a holiday must be submitted seven (7) days in advance of the regularly scheduled holiday, and the request may be granted by the Employer when the request does not interfere with operational and staffing requirements. In addition, where an employee scheduled to work on a holiday requests in writing at least seven (7) days in advance to take the holiday off, the request will be granted provided that the request does not interfere with the operational and staffing requirements.
+Requests made pursuant to this section will be granted on a first come, first served basis, and the Employer will respond to requests no less than five (5) calendar days after the request is made.
+Section 11.3	Eligibility for Holiday Pay:
+(a)	An employee, in order to be eligible to receive pay for hours not worked on a recognized holiday, as above specified, must have worked his scheduled shift, on the last work day immediately preceding such holiday, and must have worked his scheduled shift on the first work day immediately following such holiday unless personal leaves of one (1) week or more have been scheduled and approved by the Supervisor or his designee upon written notice by the employee fourteen (14) calendar days before the scheduled date, or personal leaves in increments of less than one (1) week have been approved seven (7) calendar days before the scheduled date.
+(b)	An employee shall not receive holiday pay if:
+(1)	Such holiday occurs during an employee's leave of absence without pay,
+(2)	Such holiday occurs during an indefinite layoff,
+(3)	Such holiday occurs when an employee is out on disability or workers’ compensation, or
+17
+(4)	If work is scheduled for any holiday and the employee is notified but fails to work as scheduled, unless excused for personal leaves of one (1) week or more scheduled and approved by the Supervisor or his designee upon written notice by the employee fourteen (14) calendar days before the scheduled date, or personal leaves in increments of less than one (1) week approved seven (7) calendar days before the scheduled date or where the employee provides documentary evidence that the absence was caused by an unavoidable medical condition.
+Section 11.4	Compensation Durins Facility Closing: If during normal work hours the Bureau of Engraving and Printing closes the facility and the Contracting Officer advises the Company that we are released from staffing requirements and the Contracting Officer is willing to pay overtime for essential staff as needed, then released employees will be paid their normal rate of pay for that period. Essential staff that must remain onsite will be paid at time and one half (1 %) their normal rate of pay. Employees called in to work or who work other shifts during the same period of time shall be paid at time and one half (1 ¥2) for all hours worked during a facility closing.
+ARTICLE XII PERSONAL LEAVE
+Section 12.1 Description of Benefit:
+(a)	Effective as of the date of this Agreement, each employee’s length of service, for the purpose of computing personal leave, will be the employee’s seniority as defined in Section 5.1.
+(b)	The personal leave year shall be from January 1st through December 31st.
+(c)	Personal leave shall be taken at such time during the personal leave year as will least interfere with production or services as determined by the Employer.
+(d)	All employees covered by this Agreement and on the active payroll of the Employer will accrue personal leave as follows:
+18
+During first year of employment - 80 hours per year (3.33 hours per pay period)
+After 1 (one) year - 120 hours per year (5.0 hours per pay period)
+After 5 (five) years - 160 hours per year (6.67 hours per pay period)
+After 10 (ten) years -180 hours per year (7.5 hours per pay period)
+After 15 (fifteen) years - 200 hours per year (8.33 hours per pay period)
+(e)	If an Employer observed holiday falls while an employee is using personal leave, holiday pay will be paid and personal leave will not be charged.
+(1)	Personal leave will not accrue while an employee is on unpaid leave of absence in excess of forty (40) consecutive hours, in LWOP status for in excess of forty (40) consecutive hours, or on disability or workers’ compensation.
+(g) Employees may have the option to voluntarily transfer up to twenty (20) hours of Personal leave time to a fellow employee in cases of hardship during the year in which the Personal leave was accumulated.
+Section 12.2	When Personal Leave May Be Taken: Personal leave may be taken with the Employer's permission as it is accumulated. Newly hired employees will earn personal leave during the probationary period, but will not be eligible to use it until probation is completed.
+Section 12.3	How Taken:
+(a)	Personal leave requests shall be submitted in writing to the Supervisor. The Employer will respond to requests for personal leave within five (5) calendar days.
+(b)	Normally, personal leaves of one (1) week or more shall be scheduled and approved by the Supervisor or his designee upon written notice by the employee fourteen (14) calendar days before the scheduled date. The Employer will determine the number of employees who may be off on personal leave at any one time within each classification. The Employer, in its sole discretion, may cancel approved annual personal leaves due to Employer business requirements, provided that the Employer will give due
+19
+regard to any employee who has made advance travel plans and incurred costs that are not reimbursable and so advises the Employer.
+(c)	Personal leaves may be taken in increments of less than one (1) week when requested by the employee at least seven (7) calendar days in advance of the date(s) for which leave is requested, and approved by the supervisor.
+(d)	In cases of accident, illness, emergency, or where the advance notice requirements set forth above otherwise cannot be met, personal leave may nonetheless be approved in the Employer’s discretion. In such instances, personal leave may be taken in increments of two (2) hours.
+Section 12.4	Pay for Personal Leave:
+(a)	Personal leave pay will be based on the regular rate of pay in effect at the time the leave is taken.
+(b)	Employees will be allowed to carry over eighty (80) hours of personal leave from one leave year to another. Each employee shall have the option to sell one (1) forty (40) hour block of leave during December of each year. Any personal leave an employee has accrued as of December 31st of each year and is in excess of eighty (80) hours mentioned above for carry over purposes, and not used, will be paid at the employees pay rate in effect on December 31st but in no circumstances will more than forty (40) hours of personal leave be paid out in any year.
+(c)	Upon termination of employment all accrued personal leave will be paid out at the employee’s current pay rate.
+(d)	Employees without sufficient leave balances due to leave payout from a previous contractor may request an unpaid leave of absence during the first year of a new contractor’s term. Such requests shall be in accordance with Article 12.
+20
+Section 12.5	Payment to Next of Kin: In the case of death of an employee entitled to a personal leave not received, the amount due hereunder shall be paid to the beneficiary upon proof of death.
+Section 12.6:	Mandatory Use of Personal Leave: Employees must use all accrued personal leave prior to entering into a leave without pay (LWOP) status, no matter the reason for, or the length of, the employee’s absence. Excluded are absences due to injury that occurred at work in which case the employee has the option of taking personal leave, or taking leave without pay (LWOP).
+Section 12.7:	Donation of Personal Leave: Employees may donate Personal Leave to a sick co-worker that has exhausted his/her own Personal Leave. Donations can be made towards the same pay period in which they make the donation. An employee who does not have any Personal Leave to donate to a sick co-worker may donate his/her floating holiday to a sick co-worker who has exhausted his/her own Personal Leave.
+ARTICLE XIII
+UNPAID LEAVES OF ABSENCE
+Section 13.1 Policy: The Employer may, in its sole discretion, allow an employee a personal leave of absence without pay of up to one year, if requested in writing. Normally, personal leaves are granted for periods not to exceed thirty (30) days. Extensions may be granted when justified, but the total leave may not exceed one year. Each case will be evaluated on its own merits.
+(a)	Both the reason for the request, and amount of time required must be considered reasonable; and
+(b)	The employee's length of service and past record must warrant favorable consideration.
+21
+Section 13.2 Family Medical Leave Act: The Employer will comply with the Family Medical Leave Act (FMLA) in accordance with its current practice, but the other provisions of this article shall be interpreted to be a part of FMLA, not in addition thereto.
+Section 13.3 Requesting a Leave of Absence: A request for a leave of absence of more than ten (10) workdays will be submitted by a memorandum from the employee through the immediate supervisor to the Project Manager, giving full details as to the need for the absence. When the leave of absence (or any extension thereof) is requested for medical reasons, the request shall include detailed support for the need for the leave (or the extension) from a medical provider. The employee must submit a written request for an extension to the Project Manager. An employee may not work for another employer during a leave of absence without the Company’s permission.
+Section 13.4 Accrual of Personal Leave: An employee on an unpaid leave of absence in excess of forty (40) consecutive hours, on LWOP status in excess of forty (40) consecutive hours, or on disability or workers’ compensation will not accrue personal leave.
+Section 13.5	Reinstatemen t:
+(a)	For leaves of absence of less than 30 days, the reinstatement process will be scheduled prior to the beginning of the leave.
+(b)	Reinstatement, following an extended leave of absence, will be coordinated by the Human Resources Department upon receipt of the employee's written request for reinstatement. The request should be received at least two (2) weeks in advance of the leave expiration date.
+(c)	Every reasonable effort will be made to place returning employees in a position comparable to their former position at not less than their former rate of pay, unless such leave was pursuant to the FMLA, in which case the Employer will comply with the FMLA.
+Section 13.6	Failure to Return to Work: Employees who fail to return to work upon expiration of a leave of absence, without prior notice and reasonable excuse, shall be considered as having severed their employment. However, extenuating circumstances
+22
+shall be considered by the Employer in its sole discretion.
+Section 13.7	Union Business: Any employee, who may be elected an officer or appointed a delegate to represent the Union, shall be granted a leave of absence for the period of time required, but not to exceed one year, without pay.
+The Union shall give the Employer written notification no less than fifteen (15) working days prior to the leave of absence. This notification shall provide the name(s) of the person(s) involved, and the probable start and stop dates of the leave of absence.
+ARTICLE XIV
+MILITARY SERVICE
+Section 14.1 Short Term Military Leave Policy: For periods of absences not exceeding three weeks in connection with the National Guard, or Armed Forces of the United States, the Employer will pay the employee the difference between his military base rate and his pay for scheduled hours absent, if the latter is greater, for scheduled hours absent. Benefits coverage as applicable to the particular employee will remain in effect. Short-term active duty does not affect the employee's personal leave eligibility.
+Section 14.2	Procedure: Advance Notice: The employee is required to submit to the Supervisor, a request for absence due to military duty as far in advance as possible of the date set for active duty, and to provide the Supervisor with a copy of the military orders.
+Section 14.3	Return: Immediately upon return from active duty, the employee must provide the Supervisor with an official statement showing the daily military base rate for the active duty period.
+Section 14.4	Lons Term Military Leave Policy: For military leaves of absence for more than three (3) weeks, the Employer will grant a leave of absence without pay and comply with all provisions of the Uniformed Services Employment and Reemployment Rights Act and/or all other applicable law.
+23
+ARTICLE XV
+FUNERAL LEAVE
+Section 15.1 Bereavement Leave: Should it be necessary for an Employee to miss work to attend a funeral for the below listed family members, the Employer shall observe the following paid schedule:
+Spouse - 5 days	Children - 5 days
+Parents/Parents-in-law - 3 days Brother/Sister - 3 days Brother/Sister-in-law - 3 days Grandparents - 3 days
+The Employer will give due regard to a request to use personal leave in the event of the death of an employee’s family member not listed above or in case of the need for an extended funeral leave.
+ARTICLE XVI
+UNION REPRESENTATIVE
+Section 16.1 Number of Stewards: The Union may designate or elect three (3) Shop Stewards. There shall be one Shop Steward on each shift. The day shift Shop Steward shall also serve as the Chief Steward. The parties agree that trained stewards are a benefit to the job site, and will do its best to continue to provide training to current and future shop stewards. Should either the Employer or the Union find need to discuss issues or concerns of the job site or the contract, it will be accomplished.
+Section 16.2 Employee Access to Stewards: Whenever an employee wishes to consult with a Shop Steward he shall make such a request through his supervisor.
+Section 16.3 Investigations: Subject to the last sentence of this Section, the Shop Stewards and any aggrieved employee shall ordinarily suffer no loss of pay for time spent in the investigation, processing or discussion of a grievance (except in arbitration). The Shop Stewards shall under no circumstances cause any cessation of work or in any way interfere with the normal operation of the Employer. In carrying out the duties of a Shop Steward, it is understood the Shop Steward's duties shall not interfere with his being a productive, contributing and working employee of the Employer subject to the normal
+24
+and usual rules and regulations that apply to all other employees. Shop Stewards desiring to leave their work place shall first clear the matter with their immediate supervisor. Where possible, Shop Stewards should investigate process or discuss grievances after work hours, but if such must be done during work hours, then Shop Stewards shall keep their duties limited to necessary and reasonable amounts of time. Shop Stewards desiring to leave their work assignments shall first clear the matter with their immediate supervisor.
+Section 16.4 Union Access: Subject to Section 16.5 hereof, and the approval of BEP, the officials of the Union shall have access to the Employer's facilities for the purpose of handling matters of contract administration. Advance notification will be given to the Employer.
+Section 16.5 No Disturbance of Work: Union officials desiring to enter the worksite for the purpose of conducting the affairs of the Union shall, prior to entering the worksite, advise the Project Manager or his designated representative of the purpose of their visit, and obtain the Project Manager’s or his designated representative’s approval and permission prior to entering the worksite. Such representative shall not interfere with the operation of the Employer’s business or cause the cessation of any work.
+Section 16.6 Shop Steward Duties: The Chief Steward position, if any are appointed, is relegated to the first or Day shift. Should the individual holding the title move to a different shift, the successor Steward will hold the title and perform the appointed duties.
+The duties of Shop Stewards are limited to those investigating, and processing grievances (delivering grievance to Management) as defined in Article 8 of this Agreement. Included in investigating grievances is also acting as a witness, when requested by an employee, to any investigation that could lead to a disciplinary action. The true function of the Shop Steward is to act as a conduit between the members and the Business Representative and visa versa.
+The Chief Shop Steward duties is to act on behalf of any other Stewards on other shifts for purposes of grievance processing as set forth above, and to interface with management as reasonably necessary at the request of the Business Representative.
+25
+The Chief Shop Steward shall not, however, have authority to make decisions regarding the interpretation or application of the terms and conditions of this Agreement, including the resolution of grievances. Those duties are vested solely with the Union.
+All Shop Stewards will remain assigned to their shift for the duration of their stewardship. In order for a bargaining unit Employee to be a Shop Steward on any shift, that employee must already be assigned to that shift, an employee can not change shifts because of being elected a Shop Steward on a different shift.
+ARTICLE XVII
+EMPLOYEE CONDUCT POLICY/PROGRESSIVE DISCIPLINE
+Section 17.1 Employee Conduct/Prosressive Discipline: As the Employer has the right to manage its business, it likewise has the right to establish reasonable rules and regulations, including establishing policies effecting employment at BEP. Such Employer policy will be distributed to all employees and a copy given to the Union. Employee conduct will be addressed in such policy manual and all employees will be required to adhere to it. Failure to do so can lead to disciplinary action, up to and including discharge.
+The Employer has the right to discipline employees for just cause, subject to the grievance and arbitration procedure set forth in this agreement. The principle of progressive discipline will be followed, with the exception, however, of certain offenses, such as, but not limited to, theft, insubordination, and being under the influence of alcohol or illegal drugs on the job.
+ARTICLE XVIII
+GRIEVANCE PROCEDURE
+Section 18.1 Nature of Grievance; Exclusive Process: It is the intent of this Article to establish means for the prompt adjustment of grievances at the job level between the immediate supervisor and the employee involved. A grievance under this Agreement is defined as a dispute, complaint, or difference with respect to the interpretation or application of any provision of this Agreement.
+26
+Section 18.2	Time for Presentation of Grievances: A grievance must be presented following the procedure of Section 18.3, Step One (1) within fifteen (15) working days from the date the alleged cause of complaint occurs or from the time the grievant could reasonably have become aware of its occurrence or such grievance will be barred. The Union and Employer may mutually agree to extend this time frame.
+Section 18.3	Procedure for Settling Grievances: The procedure for settling grievances shall be through the following steps:
+STEP 1:	Whenever an employee grievance exists, an employee, or a group
+of employees affected, shall verbally discuss the grievance with his or their Supervisor or Manager with his Union Shop Steward present within the time limits outlined in Section 18.2. If the grievance is not settled in the course of the discussions, the Supervisor or Manager shall give his verbal answer to the grievant and Union Shop Steward within five (5) working days after the grievance was verbally presented to him.
+STEP 2:	If the grievance is not settled in Step One, then within ten (10)
+working days of receipt of the Supervisor or Managers verbal answer in Step One, the grievance shall be reduced to writing with one copy each for the Employer, the Union, and the Grievant. The written grievance submitted at this stage must, within the ability of the grievant specify the Article(s) or section of this agreement violated and the specific remedy sought. A meeting will be held with the grievant, Chief Union Steward and Management within ten (10) working days after the Employer receives the written grievance. The Employer’s answer to the written grievance will be given to the grievant and the Chief Union Steward in writing within ten (10) working days following the meeting with the grievant and Chief Union Steward.
+STEP	3:	If no satisfaction has been reached in the first two steps then the
+grievance may be submitted to arbitration upon written notice from the Union to the Employer within fifteen (15) working days after deb very of the Employer’s Step Two written answer. The Union
+27
+and the Employer shall jointly request the Federal Mediation and Conciliation Service to submit a list of seven (7) arbitrators suitable to act as arbitrator for the case. Each party shall have the right to reject one panel of arbitrators. Once the parties agree to a panel, strike of the first name shall be determined by the flip of a coin and then the parties shall alternately strike a name until one arbitrator is left.
+Section 18.4 Arbitration: The arbitrator’s fees and expenses and other costs directly associated with the arbitration shall be borne equally by the Union and Employer, including the pay for the grievant(s) to attend.
+Section 18.5 Authority of Arbitrator: The Arbitrator shall have no authority to change, amend, modify, add or subtract from, or otherwise alter this Agreement. The sole authority of the arbitrator is to render a decision as to the meaning and interpretation of this written contract with respect to the dispute. Each arbitration proceeding shall be held at such place and time as shall be mutually agreed upon by the Union and the Employer and if the parties can not agree, then the arbitrator shall designate the place and time.
+All awards of back wages shall be limited to the amount of wages the employee would have otherwise earned from his or her employment with the Employer. Any employment or unemployment compensation or other compensation for personal services that the grievant may have received from any source during the period in dispute shall be deducted from any award of back wages. Provided, however, that if the employee held a second job during his employment with the Employer, the earnings from such second job up to the level regularly earned by the employee prior to his termination or separation from the Employer shall not be included in the interim earnings to be subtracted from any award of back wages.
+The decision of the arbitrator shall be final and binding on all parties.
+28
+ARTICLE XIX
+HEALTH AND WELFARE, 401(k) and CENTRAL PENSION FUND
+Section 19.1	General Conditions: General conditions applicable to all benefits are described in this Article:
+(a)	Nothing herein shall prohibit the Employer from changing insurance carriers, as long as the change is uniform among the collective bargaining unit employees.
+(b)	The exact terms of coverage’s are contained in tire Employer's plans and policies.
+(c)	Part-time employees shall not be eligible for the benefits described under this Article.
+(d)	The benefits described in this Article will be made available to each new, full-time employee upon completion of probationary period.
+(e)	The Employer shall have the right to substitute carriers, modify benefits, and alter deductibles and the like during the life of this contract, so as along as any changes are uniform to all bargaining unit employees.
+Section 19.2	Modified Cafeteria Plan: The Employer shall offer a benefit plan of its choosing, and the employee may select from the benefits listed below. The Employee may choose to purchase benefits by authorizing withholding from his wages. Employees are eligible to purchase benefits which will be effective the first of the month following the date of hire.
+(a) Medical Insurance	(b) Supplemental Life Insurance
+(c) Supplemental Short Term/Long Term Disability (d) 401(K)Plan
+Basic Life Insurance and Basic Short Term Disability enrollment is automatic and is paid-for from the Health and Welfare Benefit.
+Section 19.3	Health & Welfare Benefit: The Health & Welfare rates which shall be effective during the term of the agreement are set out in Appendix A. Employees will receive the Health & Welfare rates on first day of hire. Health and Welfare contributions shall be made on all hours paid up to a maximum of 40 per week.
+Section 19.4	Central Pension Fund (CPF): The Employer agrees to continue to be bound by Agreement and Declaration of Trust entered into as of September 7, 1960, establishing the Central Pension Fund (CPF) of the International Union of Operating
+29
+Engineers and Participating Employers and by any amendments to said Trust Agreement, and further agrees to execute all necessary forms and documents required by the Trustees. Employer irrevocably designates as his representative among the Trustees of said Fund such Trustees as are named in said Agreement and Declaration of Trust as Employer Trustees together with their successor selected in the manner provided in said Agreement and Declaration of Trust that document may be amended from time to time.
+(b) Effective April 29, 2013 the employer agrees to contribute one dollar ($1.00) per hour per employee on all hours worked or paid for into the Central Pension Fund of the International Union of Operating Engineers and Participating Employers.
+The Employer agrees to abide by such rules as may be established by the Trustees of said Fund to facilitate the prompt and orderly collection of such amounts and the accurate reporting and recording of such amounts paid on account of employees.
+Section 19.5 Retirement Savings Plan:
+Effective May 1, 2013, full-time and part-time eligible employees may participate in the EMCOR Group, Inc. and Subsidiaries Union Employees 401(k) Plan (the "Plan") under the terms of the Plan document. As currently in effect, eligible employees may voluntarily elect to defer in a whole percentage from 1% to 50% of eligible earnings, subject to applicable Federal annual retirement contribution limits and withdrawal restrictions required by law and the Plan. Eligible Employees may voluntarily elect to defer into the Plan under the terms provided above on the first of the month following their date of hire at the project site. Eligible employees covered under this collective bargaining agreement are not eligible for any company matching contribution on amounts deferred to the Plan. In addition, Eligible Employees are not permitted to make any aftertax contributions to the Plan.
+Effective May 1, 2013, full-time and part-time employees with the Company will be eligible to receive a contribution allocation to their account under the Plan equal to $.70 cents each hour worked on behalf of employment with the Company, up to a maximum of forty (40) hours per week (i.e., a maximum Company contribution of $28.00 per week). Employees hired after May 1, 2013 will be eligible to receive this Company contribution as of the first of the month following their date of hire at the project site.
+30
+Any amounts deferred by eligible employees are deposited into the Plan’s Trust and allocated to the employee’s account under the Plan. Employees are at all times 100% fully vested in the amounts they defer to the Plan.
+An Eligible Employee shall be vested in, and have a non-forfeitable right to the Company contribution allocated to his account as outlined above in accordance with the following schedule:
+Years of Vestins Service Percent Vested
+less than 1	year	0%
+1	year	50%
+2	years	100%
+The Company’s contribution to the individual’s Savings Plan account will be made following the regular payroll cycle.
+ARTICLE XX SAFETY
+Section 20.1	Safety Equipment: The Employer shall provide all safety equipment required by the Bureau of Engraving and Printing.
+Section 20.2	Employee Compliance with Safety Procedures: The Parties agree that the employees must comply with all applicable regulations pertaining to safety standards. Failure of an employee to adhere to the prescribed safety procedures shall subject the employee to discipline, up to and including discharge. The Employer’s authority to discipline for safety violations shall not be limited by the fact that the Employer failed or declined, at any other time, to discipline one or more employees for similar, less severe, or more severe violations than those at issue in a particular case except where the Union demonstrates that in imposing the discipline, the Employer has materially deviated from a pattern of discipline established during the term of this Agreement for substantially similar safety violations known to the Employer.
+31
+ARTICLE XXI AGREEMENTS, UNDERSTANDING AND WAIVER
+Section 21.1	Entire Agreement: This Agreement represents the entire agreement between the parties and there are no understandings or agreements, written or oral, relating to rates of pay, hours, work, or conditions of employment other than those set forth in this Agreement or incorporated herein by reference.
+Section 21.2	Changes Only in Writing: Any future modifications, variations, or additions to this Agreement shall only be binding upon the parties if in writing and signed by the proper representatives of the Employer and the Union.
+Section 21.3	Zipper Clause: The Employer and the Union acknowledge that during the negotiations which resulted in this Agreement, each had an unlimited right and opportunity to make demands and proposals with respect to any subject matter or matter not removed by law from the area of collective bargaining, and that the understandings and agreements arrived at by the parties after the exercise of that right and opportunity are set forth in this Agreement. Therefore, the Employer and the Union for the life of this Agreement, each voluntarily and unqualifiedly waives the right, and each agrees that the other shall not be obligated to bargain collectively with respect to any subject or matter referred to or covered by this Agreement. Nothing in this section or the Agreement shall eliminate the Employer’s obligation to meet and bargain with the Union over mandatory subjects of bargaining not referred to or covered by this Agreement upon a written request by the Union to meet and bargain.
+Section 21.4 Savings Clause: Any provision of this Agreement which may be adjudged by a court of final jurisdiction to be in conflict with any Federal, State or local law, shall become inoperative to the extent and duration of such conflict. Since it is not the intent of either party here to violate any such law, it is agreed that in the event of a conflict between any provision of this Agreement and such Federal, State or local law, the remainder of this Agreement shall remain in full force and effect. The Employer and the Union agree that substitute provisions shall be negotiated promptly to replace those provisions coming into conflict with the laws herein described. The Employer and the Union further agree that if they are unable to reach an agreement on the substitute provisions, to arbitrate any differences concerning a substitute provision.
+32
+Section 21.5	Bulletin Board: The Employer shall make available to the Union a bulletin board for communications to its members of the times and places of Union meetings and other legitimate Union business.
+Section 21.6	Understandins Resardins Work Assignments: The Employer agrees to make a reasonable effort, subject to operational requirements, to assign work to employees consistent with their job classification or job description. However, subject to the above referenced reasonable effort, the Employer may assign work and establish job duties to meet the requirements of the Employer, irrespective of the employee’s primary classification or job description.
+Section 21.7	Use of Personal Vehicles: No employee will be required to use his personal vehicle for company business.
+Section 21.8	EMCOR Trainins Contributions. EMCOR will reimburse employees for the cost of license renewals and continued education in connection with their job-related duties up to a master’s license.
+ARTICLE XXII
+DURATION
+Section 22.1 Effective Dates: This Agreement shall be effective April 29,2013, and shall remain in full force and effect until April 28, 2014, and from year-to-year thereafter unless either party shall, no more than sixty (60) days prior to any anniversary date hereof, notify the other party of a desire to amend or terminate this Agreement, provided that termination of the Employer’s contract with the Government for the operation of the Western Currency Plant in Fort Worth, Texas, shall automatically release the Company from this Agreement and from all obligations hereunder.
+33
+APPENDIX A
+WAGES, H&W, CPF
+Classification	Current	April 29, 2013	February 1,2014
+Control Tech	$31.87	$31.87	$32.62
+Shift Leader	$27.42	. $27.42	$28.17
+Stationary Engineer	$26.18	$26.18	$26.93
+Electrician	$25.82	$25.82	$26.57
+Pip efitter/Pluriib er	$25.36	$25.71	$26.46
+Welder	$24.04	$24.04	$24.79
+Carpenter	$23.65	$23.65	$24.4
+General Maintenance	$22.62	$22.62	$23.37
+Health & Welfare	$4.15	$4.15	$4.40
+Central Pension Fund	$1.00	$1.00	$1.00
+*Plumber rate of pay increased by $.35 for backflow testing.
+34
+EXHIBIT A
+AUTHORIZATION FOR DEDUCTION OF UNION DUES
+I hereby authorize my employer, to deduct from my wages earned, during the first payroll period to end in each month, an equal amount to the amount of the current monthly Union dues. The monthly Union dues will be split evenly each pay period and this amount will be remitted to the proper officer of the IUOE, Local 351, in payment of my Union dues for the following month.
+This authorization supersedes and cancels all previous authorizations for the deductions of Union dues from my wages.
+Date of Authorization:___________________________
+Name:____________________________________________
+Signature:_______________________________________
+Classification:__________________________________
+Monthly Dues Amount:_____________________________
+35
+FOR THE EMPLOYER:
+EMCOR Government Services, Inc.
+FOR THE UNION:
+Local 351, International Union of
+Operating Engineers, AFL-CIO
+By:
+
+Kristin Arnold, VP, Human Resources
+By:
+Elva R. Campbell, Business Agent
+Michael Parsons
+36

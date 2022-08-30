@@ -1,0 +1,1104 @@
+﻿Cornell University ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853
+607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Detroit, City of and Detroit Police Lieutenants & Sergeants Association, Inc. (1998)
+K#: 810748
+Location: MI Detroit
+Employer Name: Detroit, City of
+Union: Detroit Police Lieutenants & Sergeants Association, Inc.
+Local:
+SIC: 9221
+Sector: L
+NAICS: 922120
+Number of Workers: 1100
+Effective Date: 07/01/98
+Expiration Date: 06/30/01
+Number of Pages: 83
+Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+^10^
+MASTER AGREEMENT
+BETWEEN THE
+CITY OF DETROIT
+AND THE
+DETROIT POLICE LIEUTENANTS AND SERGEANTS ASSOCIATION
+I | to
+1998 -2001
+Y-
+I
+MASTER AGREEMENT BETWEEN THE CITY OF DETROIT AND THE DETROIT POLICE LIEUTENANTS AND SERGEANTS ASSOCIATION
+Table of Contents
+Article		Page
+Number		Number
+21	Absent With Leave and Absent Without Leave	27
+52	Adoption by Reference of Relevant Charter	
+	Provisions, Ordinances and Resolutions	71
+9	Arbitration	10
+6	Association Responsibilities	7
+3	Association Security	2
+4	Basis of Representation	3
+26	Court Time	35
+45	Death Benefits and Life Insurance	57
+12	Department Files	18
+32	Disabled Time	39
+10	Discipline Procedure	12
+58	Drug Testing	76
+42	Educational Reimbursements	53
+61	Effective Dates/Duration	77
+39	Emergency or Excused Days	52
+60	Extent of Agreement	77
+36	Funeral Leave	46
+8	Grievance Procedure	8
+16	Health & Safety	21
+37	Holidays and Excused Time	46
+44	Hospitalization, Medical Insurance and Optical Care	54
+22	Job Assignments	27
+55	Jury Duty	73
+24	Leave Days/Work Week	33
+20	Leaves of Absence	24
+13	Legal Counsel	19
+30	Longevity Pay	37
+53	Maintenance of Conditions	71
+5	Management Rights and Responsibilities	5
+40	Meal Period	53
+11	Member's Rights	15
+27	Method of Compensation	36
+MASTER AGREEMENT BETWEEN THE CITY OF DETROIT AND THE DETROIT POLICE LIEUTENANTS AND SERGEANTS ASSOCIATION
+Table of Contents
+Article
+Number
+Page
+Number
+49	Military Service Credit	61
+17	Miscellaneous Items	21
+48	Optional Annuity Withdrawal	60
+28	Out-of-Class Pay	36
+14	Outside Employment	20
+25	Overtime	33
+51	Pensions	62
+50	Pensions - Adoption by Reference	62
+47	Performance Evaluation Ratings	59
+56	Police and Fire Pension Board	74
+15	Political Offices	20
+1	Preamble	1
+33	Precinct Patrol Supervisors	39
+43	Printed Agreement	54
+57	Promotions	75
+46	Recall Pay	59
+2	Recognition of Association	1
+19	Reduction in Force (Layoffs)	23
+31	Roll-Call Preparation Time	38
+59	Savings Clause	76
+18	Seniority	23
+34	Service Weapon	39
+29	Shift Differential	37
+35	Sick Leave	39
+7	Special Conference	7
+23	Transfers	31
+41	Uniforms	53
+38	Vacation Selection and Cancellation Procedure	51
+54	Wages and Differential	71
+	Signature Page	78
+	Exhibit I - Compensation Schedule	79
+ii
+f
+
+LAW ENFORCEMENT CODE OF ETHICS
+As a Law Enforcement Officer, my fundamental duty is to serve mankind; to safeguard lives and property; to protect the innocent against deception, the weak against oppression or intimidation, and the peaceful against violence or disorder; and to respect the constitutional rights of all men to liberty, equality and justice.
+I will keep my private life unsullied as an example to all; maintain courageous calm in the face of danger, scorn, or ridicule; develop self-restraint and be constantly mindful of the welfare of others. Honest in thought and deed in both my personal and official life, I will be exemplary in obeying the laws of the land and the regulations of my Department. Whatever I see or hear of a confidential nature or that is confided to me in my official capacity will be kept ever secret unless revelation is necessary in the performance of my duty.
+I will never act officiously or permit personal feelings, prejudices, animosities, or friendships to influence my decisions. With no compromise for crime and with relentless prosecution of criminals, I will enforce the law courteously and appropriately without fear or favor, malice or ill will, never employing unnecessary force or violence and never accepting gratuities.
+I recognize the badge of my office as a symbol of public faith, and I accept it as a public trust to be held so long as I am true to the ethics of police service. I will constantly strive to achieve these objectives and ideals, dedicating myself before God to my chosen profession - Law Enforcement.
+The Law Enforcement Officers Code of Ethics, by agreement of the parties, is not a provision or article of this contract but rather is included herein to remind all who read this document of the dedication, sacrifice, courage, valor, judgment, wisdom, responsibility, accountability, loyalty and professionalism which is displayed by the membership of the Detroit Lieutenants and Sergeants’ Association while serving the citizens of the City of Detroit.
+
+1.	PREAMBLE
+This Agreement entered into between the City of Detroit, a Michigan Municipal Corporation (hereinafter referred to as the "City, Department or Employer"), and the DETROIT POLICE LIEUTENANTS AND SERGEANTS ASSOCIATION, INC., an organization existing under the laws of the State of Michigan (hereinafter referred to as the "Association") has as its purpose the promotion of harmonious relations between the City and the Association; the establishment of an equitable and peaceful procedure for the resolution of differences; orderly resolution of grievances; and the establishment of rates of pay, hours of work, and other terms and conditions of employment both economic and non-economic.
+The parties recognize that the interest of the community and the job security of the employees depend upon the Employer's success in establishing proper services to the community.
+2.	RECOGNITION OF ASSOCIATION
+Pursuant to and in accordance with all applicable provisions of Act 336 of the Public Acts of 1947, as amended, the Employer hereby recognizes the Association as the exclusive representative for the purpose of collective bargaining with respect to wages, hours, and other terms and conditions of employment both economic and non-economic for all employees in the following classifications:
+Class Code Number Title
+33-10-16 33-10-21 33-12-21 33-12-22 33-12-23 33-10-31 33-12-31 33-12-33 33-12-34 33-12-35 33-12-37	Police Investigator Police Sergeant Senior Communications Officer - Police Sergeant Senior Radio Maintenance Officer - Police Sergeant Police Sergeant - Chemist Police Lieutenant Assistant Supervisor of Operators - Police Lieutenant Supervisor of Radio Systems and Planning - Police Lieutenant Supervisor of Operators - Police Lieutenant Supervisor of Radio Maintenance - Police Lieutenant Supervisor of Firearms Identification and Explosives - Police Lieutenant
+No person shall occupy any of the above classifications as reflected by the accompanying class code numbers unless he or she is a member of the bargaining unit.
+1
+3.	ASSOCIATION SECURITY
+A.	Employees are free to j oin or not to j oin the Association. Employees who are members of the
+recognized bargaining unit but who are not members of the Association may join the Association by initiating their Association application form and dues deduction authorization form.
+B.	The City agrees to deduct from the wages of an employee, who is a member of the Association, all Association membership dues uniformly required, as provided in a written authorization in accordance with the standard form used by the City provided that the said form shall be executed by the employee. The written authorization for Association dues deduction shall remain in full force and effect during the period of this Agreement unless revoked by written notice. The revocation notice must be given to both the Finance Department and to the Association.
+C.	Any person employed with the City and covered by this Agreement, who is not a member of the Association and who does not make application for membership within ninety (90) days from the effective date of this Agreement or from the date he first becomes a member of the bargaining unit, whichever is later, shall as a condition of employment, pay to the Association a service fee as a contribution towards the administration of this Agreement, in an amount equal to regular membership dues of the Association. Employees who fail to comply with this requirement shall be discharged within thirty (30) days after receipt of written notice by the Police Department from the Association unless otherwise notified by the Association in writing within said thirty (30) days and provided that the Association shall release the Department from fulfilling the obligation to discharge if during such 30-day period the employee pays the membership dues or service fee retroactive to the due date and confirms his intention to pay the required membership dues or service fee in accordance with this Agreement.
+D.	The City agrees to deduct from the wages of any employee covered by this Agreement, who is not a member of the Association, all Association service fees uniformly required as provided in a written authorization in accordance with the standard form used by the City, provided that the said form shall be executed by the employee. The written authorization for Association service fee deduction shall remain in full force and effect during the period of this Agreement unless revoked by written notice. The revocation notice must be given to both the Finance Department and to the Association.
+E.	All Association membership dues and service fees will be authorized, levied, and certified in accordance with the by-laws of the Association. Each employee and the Association hereby authorizes the City to rely upon and to honor certifications by the Treasurer of the Association regarding the amounts to be deducted and the legality of the adopting action specifying such amounts of Association dues and service fees, which dues and service fees shall be sent via
+2
+t ' i
+first class mail, without undue delay, to the Treasurer of the Association. The Treasurer of the Association shall not request the City to change the amounts so deducted more often than four times each City fiscal year.
+F.	The Association shall have no right or interest whatsoever in any money authorized withheld
+until such money is actually paid over to them. The City or any of its officers and employees shall not be liable for any delay in carrying out such deductions, and upon forwarding a check in payment of such deductions by mail to the Association, the City and its officers and employees shall be released from all liability to the employee-assignors, and to the Association under such assignments. (Chapter 13, Article 4, Section 4 of the Municipal Code of the City of Detroit.)
+G.	The Association shall refund to employees, dues and service fees erroneously deducted by the City and paid to the Association. The City may offset any amount erroneously or improperly deducted and paid to the Association from any subsequent remittance to the Association.
+H.	The Association agrees to save and hold harmless the City from damages or other financial loss which the City may be required to pay or suffer as a consequence of enforcing the above provisions.
+4.	BASIS OF REPRESENTATION
+A.	In each precinct, section or unit or any combination, members shall be represented by a delegate who shall be a regularly assigned bargaining unit employee. One alternate delegate for that representative unit shall be selected and shall serve in the absence of the delegate.
+B.	The representative units and number of representatives allocated to each unit are listed in Schedule A attached to this Agreement. If any existing precinct, section or unit is eliminated or any new precinct, section or unit is increased or decreased substantially, the parties to this Agreement shall renegotiate the number of representatives allocated to such unit or may make other changes by mutual agreement.
+C.	Members of the bargaining unit selected to serve as authorized delegates of the Association shall be certified in writing to the Chief of Police within thirty (30) days of the effective date of this Agreement. Any changes shall be so certified within ten (10) days.
+D.	Delegates and alternates of the Association’s Board of Directors shall be released from duty to attend Board meetings.
+3
+E.	Delegates shall not be transferred out of their work location during their term of office except at their own request, or upon good cause shown after a hearing before the Chief of Police or his designated representative. The Association President or his designated representative may attend the hearing.
+F.	The Department will grant a necessary and reasonable amount of time off, during working hours, and with regular pay for lost time, to Association officers, delegates and grievance committeemen who must necessarily be present for direct participation in the grievance adjustments and special conferences with the Department. Such persons must receive permission from their immediate supervisors to leave their work stations and must report back promptly when their part in the grievance adjustment or conference has been completed. This privilege shall not interfere with vital police service. The Association officers, delegates and grievance committee members will not be released for simultaneous investigation of grievances, unless mutually agreed. Delegates shall be allowed to discuss and communicate official Association business to members prior to on-duty roll call or following off-duty roll call.
+G.	In accordance with the appropriate step of the grievance procedure provided herein, the Employer agrees that the delegate of the representative unit where the grievance originates may, during his working hours, without loss of time or pay, investigate and present grievances in accordance with the grievance procedure.
+Permission for his release must be secured from his supervisor. This privilege shall not be abused, or interfere with vital police service or the proper supervision of subordinates.
+H.	The Association may establish a three-member grievance committee for the purpose of working under the authority of the Association President in processing grievance appeals. Grievance committee members shall receive one (1) working day off per week in order to investigate and process grievances. This privilege shall not be abused, or interfere with vital police service.
+I.	Within 10 days after the effective date of this Agreement a special conference between the Chief of Police and the Association Officers shall be held to discuss the determination of work location and specific job assignments for elected Association officers. Such determination shall be made by the Chief of Police after consultation with the elected officers. Association officers may request any available assignment upon their leaving Association office. The requested assignments will be given them provided they do not adversely affect the Department.
+J.	Association officers will be allowed a total of 17 days per week to conduct Association business according to the following:
+President
+Vice-President
+Five (5) Days Per Week Four (4) Days Per Week
+Secretary/Treasurer Four (4) Days Per Week
+Four (4) Days Per Week
+Sergeant-at-Arms
+4
+When reductions in force occur, the above officers will have top seniority.
+K.	For purposes of layoff, demotion and recall, delegates shall enjoy top seniority within their respective sections, units, platoons, or other work units during their terms of office providing there is work in their classification in their section, unit, platoon or other work unit.
+L.	The officers of the Association (President, Vice-President, Secretary-Treasurer and Sergeant-
+at-Arms) may be permitted to discuss Association business with members during duty hours, provided such discussions do not interfere with such member's or officer's duties.
+M.	The Association President shall not be prohibited from speaking publicly through any form of communication.
+N.	If the President of the Association is authorized or required to appear or perform any duties under this contract, he may appoint a designee to represent him.
+O.	A copy of photographs of Department functions shall be made available to the Association
+upon request on each specific occasion.
+P.	A copy of each special order, general order, personnel order, teletype order, or training bulletin, or their equivalents, shall be provided to the Association President.
+5.	MANAGEMENT RIGHTS AND RESPONSIBILITIES
+A.	The Association recognizes the prerogatives of the Department to operate and manage its affairs in all respects in accordance with its responsibilities and powers of authority and the terms and provisions of this Agreement.
+B.	The Department has the right to schedule overtime work as required in a manner most advantageous to the Department and consistent with requirements of municipal employment and the public safety and consistent with the provisions of this Agreement.
+C.	It is understood by the parties that every incidental duty connected with operations enumerated in job descriptions is not always specifically described.
+D.	The Department reserves the right to discipline and discharge for just cause. The Department
+reserves the right to lay off personnel for lack of work or funds or for the occurrence of conditions beyond the control of the Department or when such continuation of work would be wasteful and unproductive. The Department shall have the right to determine schedules and hours of work and to establish the methods and processes by which such work is performed.
+5
+i
+E.	The Police Department shall notify in advance, in writing, the Association President, or in his absence the next officer in line, when it anticipates exercising its right to make changes in working conditions. Conferences to discuss said anticipated changes shall be conducted at the request of either party. Such conferences shall not be construed as "formal" negotiations. Provided however, in no event shall the City make decisions which alter the relationship between the parties in regard to wages, hours, and the terms and conditions of employment. Any changes in that area require renegotiation of the contract.
+F.	No Department official or agent of the City shall:
+1.	Interfere with, restrain, or coerce employees in the exercise of their right to join or refrain from joining a labor organization, except where permitted by law to avoid a conflict of interest; or
+2.	Initiate, create, dominate, contribute to or interfere with the formation, administration, internal affairs, elections, meetings, dues policies or officers, of the Association; or
+3.	Discriminate in regard to employment or conditions of employment in order to encourage or discourage membership in a labor organization; or
+4.	Discriminate against an employee because he has given testimony or taken part in any grievance procedures or other hearings, negotiations, or conferences as a part of the labor organization recognized under the terms of this Agreement; or
+5.	Refuse to meet, negotiate, or confer on proper matters with representatives of the Association as set forth in this Agreement.
+G.	It is agreed that the City retains and reserves all rights, powers and authorities given to it under any national, state or local law unless otherwise negotiated in this Agreement.
+H.	The Association recognizes the responsibilities of its members as a part of management and pledges full support for continuity of employment and supervision during normal or emergency working conditions.
+I.	The Investigative staff of the Board of Police Commissioners shall have the right to interrogate and investigate members under the procedures in this Agreement to which any interrogating officer is subject and such right shall in no way abridge or change the rights of a member under this Agreement or under any Local, State, or Federal law or the Constitutions of the United States, or State of Michigan.
+In no event shall any recommendations or actions resulting from such interrogation or investigation lead to any discipline outside or inconsistent with any discipline procedures or discipline matters maintained in this Agreement and currently utilized in this Department.
+6
+Further, no member after he has been once disciplined at a Commander's Hearing, Chiefs Hearing or Trial Board shall be redisciplined for any reason whatever for any matters arising out of the same set of facts and circumstances surrounding the first discipline.
+6.	ASSOCIATION RESPONSIBILITIES
+A.	Recognizing the crucial role of law enforcement in the preservation of the public health, safety and welfare of a free society, the Association agrees that it will take all reasonable steps to cause the employees covered by this Agreement, individually and collectively, to perform all police duties, rendering loyal and efficient service to the very best of their abilities.
+B.	The Association, therefore, agrees that there shall be no interruption of these services for any
+cause whatsoever by the employees it represents; nor shall there be any concerted failure by them to report for duty; nor shall they absent themselves from their work or abstain, in whole or in part, from the full, faithful, and proper performance of all the duties of their employment.
+C.	The Association further agrees that it shall not encourage any strikes, sit-downs, stay-ins, slow-downs, stoppages of work, malingering, or any acts that interfere in any manner or to any degree with the continuity of the police services.
+7.	SPECIAL CONFERENCE
+A.	A special conference shall be a meeting or session wherein both parties meet to discuss important matters.
+B.	Special conferences on important matters shall be arranged between the Association President
+and the Chief of Police or his designated representative upon request of either party. Each party shall have at least two individuals present at said conference. Arrangements shall be made in writing five (5) calendar days in advance, whenever is possible. An agenda of the matters to be taken up shall be presented in writing at the time the conference is requested. Matters taken up at the Special Conference shall be confined to those matters listed on the agenda.
+7
+8.	GRIEVANCE PROCEDURE
+A.	Every employee of this unit shall have the right to present grievances in accordance with the
+procedure provided herein.
+B.	The informal resolution of differences or grievances is urged and encouraged to be resolved at the lowest possible level of supervision.
+C.	Immediate supervisors, commanding officers and reviewing officers shall consider promptly all grievances presented to them and, within the scope of their authority, take such timely action as is required.
+D.	Grievances shall be processed according to the following procedure:
+STEP 1 - Oral - Commanding Officer of the Section or Unit:
+Any employee who claims a provision of this Agreement has not been applied or interpreted properly may discuss his complaint with his commanding officer, with or without the presence of his delegate. The parties shall discuss the complaint in a friendly manner and shall make every effort to reach a satisfactory settlement at this point. The employee shall have the right to discuss the complaint with his precinct or bureau delegate before any discussion takes place with the commanding officer. The commanding officer shall make arrangements for the employee to be relieved from his supervisory responsibilities for a reasonable period of time in order to discuss the complaint with his precinct or bureau delegate provided that vital police services are not disrupted.
+STEP 2 - Written - Commanding Officer of the Section or Unit :
+If the matter is not satisfactorily settled, a grievance may be submitted in written form by the precinct or bureau delegate to the commanding officer. The written grievance shall set forth the name(s) and signatures of the employee or employees involved, so far as diligent efforts will allow, and the provisions of this Agreement, if any, that the grievant claims have been violated. The commanding officer's answer shall set forth the facts he took into account in answering the grievance. His written answer shall be presented to the precinct or bureau delegate within ten (10) calendar days after receipt. Acceptance or rejection of the commanding officer's answer will be written on the grievance form by the precinct or bureau delegate.
+8
+r
+STEP 3 - Appeal to Commanding Officer of the Precinct or Division:
+If the grievance is not satisfactorily adjusted or acted upon within ten (10) calendar days or the time limit is not mutually extended at Step 2, the grievance committee or delegate shall appeal such grievance to the Commanding Officer of the precinct or division. The Commanding Officer shall discuss the grievance with the grievance committee and delegate and render a written answer within ten (10) calendar days of his receipt of the grievance.
+STEP 4 - Appeal to the Chief of Police:
+If the grievance is not satisfactorily settled or adjusted in Step 3, it shall be referred to the President of the Association who may appeal it to the Chief of Police. A meeting to discuss the grievance shall be held between the President or his designee, the grievance committee, and the Chief of Police or his designee within ten (10) calendar days after receipt of the grievance by the Chief of Police. A written decision shall be rendered within ten (10) calendar days of the meeting.
+Medical Grievance Procedure:
+All grievances involving medical issues shall be filed with the President of the Association. The employee's Commander shall be presented an informational copy of the grievance. After conducting an investigation, the President or his designee may submit the grievance to the Police Department Medical Officer, who shall be the designated representative of the Department. The Medical Officer shall make a complete investigation of the grievance, shall confer with a doctor, and shall answer the grievance within thirty (30) calendar days, attaching copies of all medical records pertaining to the injury or illness involved in the grievance.
+E.	Notwithstanding any other provisions herein, individual members may present their own grievances to the Employer and have them adjusted without the intervention of the precinct or bureau delegate or Association officers, provided, however, that the Employer has given the delegate or Association officers notice and an opportunity to be present at such adjustment. In no event shall any such adjustment be contrary to or inconsistent with the terms of any agreement between the Employer and the Association.
+F.	Grievances affecting a large number of employees may be treated as policy grievances and
+entered at the fourth step of the grievance procedure by the Association.
+G.	Grievances shall be filed within thirty (30) days of the event, occurrence or knowledge of the
+facts giving rise to the grievance. Grievances not appealed in writing to the next step within ten (10) work days of receipt of the last decision shall be considered settled on the basis of the last decision. All time limits or steps of the grievance procedure may be shortened, extended or eliminated by mutual written agreement.
+9
+H.	In instances wherein the subject matter of the grievance lies within the jurisdiction of specific
+City agencies, e.g., payroll, etc., the grievance steps may be reduced in order to bring the grievance to the agency's immediate attention for a recommendation as to the action to be taken at Step 3.
+9.	ARBITRATION
+A.	Any unresolved grievance relating only to the interpretation, application or enforcement of a specific article and section of this Agreement or any Supplementary Agreement, hereto having been processed fully through the last step of the grievance procedure may be submitted to arbitration by either party in strict accordance with the following:
+1.	Arbitration shall be initiated by the President of the Association by written notice to the Chief of Police of an intention to arbitrate. Upon receipt of notice to arbitrate, the City and the Association shall each appoint an arbitrator to represent them and each shall notify the other of the name of the person so designated. The two designated arbitrators shall meet and appoint a third disinterested person to act as chairman of the Board of Arbitrators. In the event the two designated arbitrators cannot agree upon the third person within ten (10) calendar days of the demand for arbitration, the Association or the City, within seven (7) calendar days, shall request the Michigan Employment Relations Commission (MERC) to appoint an impartial arbitrator to act as chairman in accordance with its then applicable rules and regulations, otherwise the appeal shall fail.
+2.	It shall be within the authority of the Board of Arbitrators to make a decision binding upon the parties regarding the interpretation, application or enforcement of the Agreement.
+3.	The Board of Arbitrators shall not consider any evidence submitted by either party which was not produced in the grievance procedure unless such evidence was not then known to the party submitting the same.
+4.	The costs of the arbitration shall be shared equally by the parties, except each party shall make arrangements to pay its own Board member and witnesses.
+5.	The parties may request in writing of each other co-operation to have available at the arbitration proceedings any witnesses requested by the other party.
+6.	If the unresolved grievance pertains to a medical issue, the arbitration procedure specified in this article shall be in all respects the procedure for arbitration as defined herein.
+B.	When an employee is suspended pending disposition of charges against him in a court of law
+or a trial board proceeding, there shall be no offset of interim earnings provided he is
+10
+» t '	»'
+exonerated and restored to duty.
+C.	If an employee's disciplinary penalty is simply modified or lessened to the extent that he has a claim for back wages during a period of suspension as the result of the modification or the lessening of the penalty, claims for back wages shall be limited to the amount of wages that the employee otherwise would have earned less any compensation for personal services he may have received from any source during the period in question, but excluding previously Department authorized income earned outside his regularly scheduled work period, and excluding documented overtime pay.
+D.	There shall be no appeal from the decision of a majority of the Board of Arbitrators if made in accordance with its jurisdiction and authority under this Agreement. It shall be final and binding on the Association, on all bargaining unit members, and on the City. The Association will actively discourage attempts by any bargaining unit employee to appeal a decision of the board of arbitrators to any Court or labor board, and will not aid or abet in any such attempt.
+E.	In the event a case is appealed to the Board of Arbitrators and the Board finds that it has no power to rule on such case, the matter shall be referred back to the parties without decision or recommendation on the merits of the case.
+F.	The decision of a majority of the Board of Arbitrators in any case shall not require a retroactive wage adjustment in any other case. Either party may, prior to the submission of a dispute to arbitration, state, and the opposite party is bound to agree, that the award not be binding precedent in like analogous situations pending at that time.
+G.	The Board of Arbitrators shall limit its decision strictly to the interpretation, application or enforcement of the specific articles and sections of this Agreement, and it shall be without power or authority to make any decisions:
+1.	Contrary to, or inconsistent with or modifying or varying in any way, the terms of this Agreement or of applicable law or rules or regulations having the force and effect of law.
+2.	Involving the exercise of discretion by the City under the provisions of this Agreement, its Charter, or applicable law.
+3.	Limiting or interfering in any way with the powers, duties or responsibilities of the City under its Charter, applicable law, and rules and regulations having the force and effect of law.
+11
+4.	Changing, altering, or modifying any practice, policy, or rule presently or in the future established by the City as long as such practice, policy, or rule does not conflict with this Agreement.
+5.	Implying any restriction or condition binding upon the City from this Agreement, it being understood that, except as such restrictions or conditions upon the City are specifically set forth herein, or are fairly inferable from the express language of any article or section hereof, the matter in question falls within the exercise of rights set forth in the Article of this Agreement entitled "Management Rights and Responsibilities".
+6.	Concerning the establishment of wage scales, rates on new or changed j obs, or change in any wage rate.
+7.	Providing agreement for the parties in those cases, where by their contract, they may have agreed that further negotiations should occur to cover the matters in dispute.
+8.	Granting any right or relief for any period of time whatsoever prior to the effective date of this Agreement or subsequent to the date upon which this Agreement shall terminate.
+10.	DISCIPLINE PROCEDURE
+Subject to any disciplinary provisions contained in this Agreement and subject to the following disciplinary procedure, the employer and the Association agree to maintain all disciplinary matters as presently existing within the Department.
+A.	Original Hearings
+1.	Superior's Written Reprimand - The first form of discipline shall be at the level of a member's superior officer who shall be empowered to reprimand a member in writing for minor misconduct.
+2.	Commander's Hearing - This hearing is the second form of discipline. Upon a full investigation of allegations against an employee, a Commander shall be empowered by the Chief of Police to conduct a hearing and to render a disciplinary penalty.
+It shall be the member’s option whether to proceed with a Commander’s Hearing or to proceed directly to a Trial Board.
+In no case shall the penalty rendered at a Commander’s Hearing exceed three (3) days per charge with a maximum of two charges.
+12
+The member may elect to appeal any decision from a Commander’s Hearing to a Trial Board when a penalty of more than two days has been rendered.
+Any penalty of two days or less will be considered final and binding with no right of appeal.
+3.	Chiefs Hearing - This hearing is the third form of discipline. Upon a full investigation of allegations against an employee, the Chief may conduct a hearing and render a disciplinary penalty.
+4.	Trial Board - The fourth form of discipline is the Trial Board. When serious charges are made against an employee, the matter may be referred to a Trial Board. The procedure for trial boards shall be maintained as it presently exists.
+a.	All trial boards convened to consider charges against any member of the Association shall be made up of one command officer of the rank of Commander or higher, and two command officers of the rank of Inspector, who shall be chosen by lot.
+b.	The Disciplinary Unit or its successor within the Department shall maintain a current list of all command officers of the rank of Inspector and above who are employed in a duty status within the Department, with a number assigned to each such command officer.
+c.	When it shall be necessary to convene a trial board, the Disciplinary Unit, in the presence of a representative selected by the Association, shall cause numbers assigned to all such command officers to be placed in an opaque receptacle and the numbers corresponding to the names of one officer of the rank of Commander or higher and two officers of the rank of Inspector drawn therefrom at random until the composition of the trial board is complete.
+d.	No command officer shall be selected for more than two (2) trial boards, for members of this bargaining unit, in a calendar month, and no command officer shall be selected for a trial board which is convened to consider charges conferred or approved by that command officer.
+e.	This provision shall not be construed as a waiver of the right of the Association to challenge before the trial board so convened, or in court, the seating on a trial board of any command officer who may have bias or prejudice or the appearance thereof in the matter involved or against the member charged in the trial board.
+5.	Board of Police Commissioners - Subj ect to the provisions of this Agreement, the Board of Police Commissioners shall be the final quasi-judicial determinants of guilt or innocence. Instead of hearing an appeal de novo from a Trial Board itself, the Board of Police Commissioners shall review the judgement of the Trial Board based upon the
+13
+record made before the Trial Board. No new testimony shall be received. However, prior to a final determination being made, the member or representative shall be afforded the opportunity to appear before the Commission with respect to the matter. If the Board of Police Commissioners decides that new evidence or testimony should be heard, they shall refer the case back to the Trial Board. If the Board of Police Commissioners decides that the judgement was incorrect, they may modify the judgement accordingly. The Board of Police Commissioners shall notify the employee in writing. The Board's disposition of any disciplinary matter shall be final in the line of administrative remedies.
+B.	Appeals
+1.	Any employee not satisfied by a superior's written reprimand may appeal the decision to the Chief of Police who shall consider the merits of the case and afford the member and/or his representative an opportunity to be heard. Such appeal must be in writing within ten (10) calendar days of the service of the written reprimand to the member. The decision of the Chief of Police to sustain or dismiss the written reprimand shall be final.
+2.	Any employee not satisfied with the decision rendered at a Commander's or Chiefs hearing may proceed immediately by way of appeal to a Trial Board. Such appeal must be made in writing at the unit level within ten (10) calendar days of the date the Chiefs or Commander’s decision is made known to the member.
+3.	Any employee not satisfied with the decision rendered at a Trial Board, whether the Trial Board disposition was the result of an appeal described in Number 2 above, or whether the Trial Board disposition was the result of an original hearing, has the option of proceeding to arbitration as outlined below or to the Board of Commissioners for a hearing as outlined in Number 5 above. In no event shall the employee proceed both to arbitration and to the Board of Commissioners with regards to the same matter. Appeals to the Board of Police Commissioners or to arbitration must be made within twenty (20) calendar days of receipt of the Trial Board’s judgement.
+4.	In no event shall any penalty be increased from that rendered in the original hearing.
+5.	No penalty resulting from any disciplinary hearing will be implemented until the member has exhausted his administrative remedies in accordance with this Agreement.
+6.	Nothing in this Agreement shall abridge a member's rights after his final administrative remedy to proceed to the appropriate court under the remedy allowed by law.
+7.	Every appeal, except to the Board of Police Commissioners, shall be a total review of guilt or innocence as well as severity of penalty and shall not be limited as to admission of evidence (de novo hearing).
+14
+C. Arbitration
+1.	Arbitration is understood to include a full de novo review appeal pursuant to B(7).
+2.	Any matter brought to arbitration under this section shall be subject to the arbitration procedure of Section 9, insofar as it is applicable to discipline arbitration.
+3.	Any employee not satisfied with the decision rendered at a Trial Board, whether the Trial Board disposition was the result of an appeal described in Section A(2) or A(3) above, or whether the Trial Board disposition was the result of an original hearing, may request the Association to appeal the Trial Board decision to arbitration. If the Association elects to appeal the Trial Board decision to arbitration, based upon the request of the employee, the employee may not process his appeal with regard to the same matter to the Board of Police Commissioners.
+4.	In the event arbitration is sought as an alternative, it is to be considered a final administrative remedy but no appeal to a court of law is permitted except in accordance with the provisions of Sections 9 and 10.
+5.	In arbitration hearings either party may introduce into evidence the Trial Board record of witnesses who appeared in the original Trial Board hearing but are not available to testify at the arbitration hearing. The party wishing to use the Trial board record must prove its good faith efforts to produce the attendance of the witness at the arbitration hearing.
+D. Probationary Evaluation
+1.	Probationary evaluation boards convened in accordance with Volume IV, Chapter 7, Section 4, (as amended 8/13/88) regarding newly promoted personnel, are authorized and limited to make recommendations to the Chief of Police which may require:
+a.	Special training,
+b.	Transfer, or
+c.	Return to the member’s former rank.
+2.	The implementation of a recommendation is not final and binding but subject to review by an arbitration panel under the grievance arbitration provisions of this Agreement.
+11.	MEMBER'S RIGHTS
+Each member shall be guaranteed the following rights but this section shall not be construed as a section of limitation:
+15
+1.	Any member who is accused of violating any criminal law, City, State or Federal shall be entitled to his full rights under the State and Federal Constitutions without being disciplined for exercising such rights unless specifically excepted in this Agreement.
+2.	The Department shall give a member at least five (5) working days notice with a copy to the Association of any disciplinary matter over and above Commander's Hearings scheduled to be heard. Such notice shall indicate the time and place of the hearing together with a list of all witnesses to be called.
+3.	After a member is ordered to make any written statement in response to any alleged misconduct or possible misconduct on his part, he shall have at least thirty six (36) hours from the time of the order in which to comply.
+If any member is ordered to make an oral statement, he shall comply subject to the receipt of Miranda or Garrity warnings or both and shall be given a reasonable time to act in accordance with such rights.
+4.	An Association officer, counsel or both shall have the right to be present at all disciplinary hearings at the request of the member and shall further have the right to be present during all administrative and investigatory proceedings when the investigated officer must be present.
+5.	A member shall have the right to have counsel present at any disciplinary proceeding where testimony is given, to have counsel cross examine all witnesses against the member.
+6.	Upon the conclusion of the presentation of evidence, the members of the Trial Board shall make a finding of fact and such finding shall be reduced to writing and a copy given to the member and to his counsel. No appellate time requirements shall begin to run until such time as counsel has been physically served with such written findings. Findings must be served within five (5) days of the conclusion of the hearing.
+7.	Throughout all disciplinary hearings, each member shall be presumed innocent.
+8.	No member shall be disciplined, discriminated against, or transferred because he exercises any of his constitutional rights before any grand jury, investigative body, court or law enforcement agency - federal, state and local as well as any investigative committee of any legislative body - federal, state and local.
+9.	The matters in this section are proposed under the disciplinary procedure as presently existing within the Department and as projected under the present Charter for the City of Detroit. If such procedures are changed in such a way as to render any of the provisions of this section inapplicable or such changes as to require additional provisions in this section or such changes as were not contemplated by the parties hereto, the subject matter
+16
+and provisions of this section shall be subject to renegotiation between the City and the Association.
+10.	No member shall be prohibited from engaging in political activity, either partisan or nonpartisan, except when actually on duty, or while in uniform or while acting in official capacity as a police officer.
+11.	The Association President shall not be prohibited from speaking publicly through any form of communication.
+12.	Whenever a member is under investigation or subjected to interrogation by his Commanding Officer and/or the Department or by any of its units or bureaus, for any reason which could lead to disciplinary action, demotion, dismissal, transfer or criminal actions or charges, such investigation or interrogation shall be conducted under the following conditions:
+a.	The interrogation shall be conducted at a reasonable hour, preferably at a time when the member is on duty, unless the seriousness of the investigation is of such a degree that an immediate interrogation is required.
+b.	No interrogation shall begin until the member has been notified that he has a right to have counsel or an officer of the Association present.
+c.	The interrogation shall take place at the office of the interrogator or at the place of assignment of the employee being interrogated or at the place where the incident allegedly occurred as designated by the interrogator.
+d.	The employee under investigation shall be informed prior to such interrogation of the name of the person in charge of the investigation, the interrogators, and all persons present during the interrogation. If any of the interrogators are sworn police officers, at least one shall be present during the interrogation who is of a rank higher than that of the officer being interrogated.
+e.	Neither the home address nor the photograph of any member suspected of any wrongdoing shall be given to the press or the news media without the written consent of the member.
+f.	The complete interrogation of the member, including a notation of all recess periods, shall be recorded and there shall be no unrecorded questions or statements. At the request of the member, a copy of the interrogation shall be furnished to him.
+13.	The Department's practices in effect at the time of signing this Agreement relative to the taking of promotional examinations while suspended or discharged shall remain in effect.
+17
+14.	Any member who is suspended or discharged as the result of any indictment, shall be immediately restored to duty upon a dismissal of charges against him.
+Should internal Department charges continue to be pursued against the restored member for a matter arising out of the same set of facts and circumstances as those surrounding the suspension, a Trial Board will be convened within forty-five (45) days from the date of restoration to duty. If the Department does not convene a Trial Board in the prescribed period of time, the member will be paid for back wages which would have been earned during the period of suspension.
+The parties by mutual agreement may waive or extend the prescribed period of time.
+15.	When an employee is suspended pending disposition of charges against him in a court of law or a trial board proceeding, there shall be no offset of interim earnings provided he is exonerated and restored to duty.
+16.	If an employee's disciplinary penalty is simply modified or lessened to the extent that he has a claim for partial back wages during a period of suspension as the result of the modification or the lessening of the penalty, claims for back wages shall be limited to the amount of wages that the employee otherwise would have earned less any compensation for personal services he may have received from any source during the period in question but excluding previously Department authorized income earned outside his regularly scheduled work period and excluding documented overtime pay.
+17.	The Investigative staff of the Board of Police Commissioners shall have the right to interrogate and investigate members under the procedures in this Agreement to which any interrogating officer is subject and such right shall in no way abridge or change the rights to a member under this Agreement or under any Local, State, or Federal law or the Constitution of the United States, or State of Michigan.
+In no event shall any recommendations or actions resulting from such interrogation or investigation lead to any discipline outside or inconsistent with any discipline procedures or discipline matters maintained in this Agreement and currently utilized in this Department.
+Further, no member after he has been once disciplined at a Commander's Hearing, Chiefs Hearing or Trial Board shall be re-disciplined for any reason whatever for any matters arising out of the same set of facts and circumstances surrounding the first discipline.
+12.	DEPARTMENT FILES
+A.	All personnel records which include home addresses, phone numbers and pictures of
+18
+members shall be kept confidential and never released to any person other than officials of the Department or upon the written authorization of the member involved.
+B.	A member shall have the right to inspect his official personnel record wherever kept, twice a year or more often for good cause shown.
+Files maintained by the Internal Controls Division and the information contained therein are confidential and may not be disclosed to any member or department command or used for any purpose unless the investigation results in departmental or criminal charges and then the production and use of such documents will be governed by existing discovery procedure.
+An arbitrator shall have the authority to make an appropriate award including a monetary award to a grievant if it is determined that the provisions have been knowingly and willfully violated by members of the Department. In addition, the Department agrees that an individual who violates this provision will be subject to disciplinary charges.
+C.	Inspection shall be during regular business hours of the respective repository and be conducted under supervision of the Department. Said member shall have the right to make duplicate copies for his own use at his own expense. No records, reports, investigations, evaluations or similar data belonging in the Personnel File or Medical file shall be hidden from a member's inspection.
+D.	A member shall have the right to include in his personnel record and in any other file kept by the Department, a written refutation of any material he considers to be detrimental and to request its removal.
+E.	If a promotion or transfer is denied to a member and he should discover that the Department
+has hidden detrimental data, reports or investigative summaries from his inspection, it shall be presumed that such records constituted the reasons for such denials.
+F.	Members may inspect their personnel file upon retirement and nothing shall be inserted in such files after date of retirement.
+G.	Reprimands shall be removed from the employee's file after two (2) years.
+13.	LEGAL COUNSEL
+The City will provide legal counsel and pay any costs and judgements that arise out of lawsuits filed against members of the Detroit Lieutenants and Sergeants’ Association alleging any act committed while said member was in the good faith performance of his duties. A contrary determination by the City is not final and binding as provided by the code but is subject to review by an arbitration panel under the grievance arbitration provisions of this Agreement.
+19
+The City shall promptly undertake the defense of an action on behalf of an employee pending determination of the "good faith" question.
+This provision shall otherwise be in accordance with Section 13-11-1 of the Municipal Code of the City of Detroit.
+14.	OUTSIDE EMPLOYMENT
+A.	An employee may engage in outside employment provided it is not inconsistent or incompatible with or does not interfere with the proper discharge of the employees duties and responsibilities as a police officer.
+B.	Approval for outside employment must be obtained from the Chief of Police, and shall be for
+a period of one (1) year. The employee may request it be renewed after one (1) year.
+C.	Approval will not be granted for outside employment which would involve more than thirty (30) hours per week of work, or for work in private or personal security or in businesses that are regulated by the Detroit Police Department, (id est, bars, adult movies or adult book stores et cetera.)
+D.	Approval to engage in outside employment shall not be unreasonably withheld.
+15.	POLITICAL OFFICES
+A.	A member of the bargaining unit covered by this Agreement may become a candidate for political office, partisan or non-partisan, as long as he restricts his campaign activities to off-duty time.
+B.	A member running for political office is not required to resign or take a leave of absence from
+the Detroit Police Department, provided that this activity does not interfere with his normally assigned duties.
+C.	While off-duty and not in uniform any member may fully participate in any political activity either partisan or non-partisan.
+D.	If a member is elected to a political office which requires his full-time work, the member shall take a leave of absence without pay for the term of office the member was elected to, or he shall resign.
+20
+16.	HEALTH AND SAFETY
+A.	Safety glasses and ear protectors shall be provided at all police firing ranges and employees shall not be required to fire without same.
+B.	The City will provide and maintain clean, sanitary buildings and will repair unsafe work facilities in an expeditious manner.
+C.	This section shall not be construed to impair or limit the applicability of any state or federal law or regulation affecting health and safety in Department buildings and work facilities.
+17.	MISCELLANEOUS ITEMS
+A.	The Department will furnish for the use of the Association, space for a bulletin board at each
+work location where Association members are assigned.
+B.	Lockers and desks shall not be opened for inspection except in the presence of the officer or a representative designated by him for that purpose. In the event the officer or his designee refuse to be present the Department shall thus have the right to inspect the locker or the desk after notification to the commanding officer of the refusal.
+C.	Nothing in this Agreement shall abridge the rights and preferences of veterans, and members
+and retirees of the armed forces reserves, as provided by federal, state and local laws and rules and regulations.
+D.	An employee shall not be required to use his privately owned vehicle for any police purpose.
+E.	Employees are urged to keep their commanding officers informed of where they can be
+reached whenever they are out of town off duty for periods of 48 hours or less. For absences of longer periods, employees must so inform their commanding officers.
+F.	Effective July 1, 1981, members of the bargaining unit may participate in the Deferred Compensation plan and direct deposit programs offered by the City.
+Effective July 1,1997, members of the bargaining unit may participate in the Aetna Deferred Compensation Plan.
+G.	If during the term of this Agreement, a federal mandatory social security act is enacted affecting members of the bargaining unit, the parties shall promptly enter into negotiations toward the implementation of said act.
+21
+H.	Lump Sum for Banked Time: Whenever an employee leaves employment with the City, such
+employee will be paid for all banked time, other than sick time, in a lump sum payment within thirty (30) calendar days of the separation, at the prevailing rate of pay in effect at the time of the separation. This includes, but is not limited to separation with a deferred vested pension or under a disability.
+I.	Where an employee is overpaid hours or is paid other than the current negotiated rate for the classification in which he has worked, the City is expressly authorized to recover such overpayment through a deduction from the employee's wages.
+J.	For employees hired after March 31,1986, the employee and the City of Detroit are required
+to contribute the hospitalization insurance portion of the Social Security Tax. (In calendar year 1999 the tax is 1.45%).
+K.	Compensatory Time Banks: With respect to classifications subject to the Fair Labor Standards Act (FLSA), compensatory time shall be separated into two (2) categories which shall be reported on the employee's bi-weekly paycheck statement. The first category shall reflect compensatory time accumulated prior to April 15,1986 and shall reflect excused time as described in Article 37,F. The second category shall include compensatory time earned on or after April 15, 1986. Compensatory time in the second category shall be limited to a total of four hundred eighty (480) hours or whatever limitation may hereafter be imposed by law. Compensatory time used shall first be charged to the pre-April 15, 1986 bank and thereafter charged to the post-April 15, 1986 bank.
+L.	Work Period: The work period for purposes of computing overtime is 28 consecutive days and includes 8 leave days.
+M.	Shift Rotation: The shift rotation period shall be twenty-eight (28) days.
+N.	Bomb Disposal Pay: Effective January 1,1998, employees assigned to the Bomb Disposal Unit shall receive $100 per month. For the purposes of this section, an employee must be a certified graduate of the U.S. Army Ordnance Missile and Munitions Center & School and assigned for 18 service days to qualify for the entire monthly payment. Employees assigned for less than 18 service days during the month shall receive a pro-rated amount based upon the number of days assigned. The payment will be made on a quarterly basis.
+O.	A member suspended without pay pending the adjudication of disciplinary charges shall be afforded an irrevocable one-time option to utilize his earned compensatory, bonus vacation, and eighth and ninth holiday time banks during the suspension period which shall be paid in increments of eighty (80) hours.
+22
+In the event that a member is returned to duty and is entitled to back pay, the member shall have the option of receiving back pay as:
+1.	Regular compensation, or
+2.	Restoration of banked time during the suspension period.
+When the member elects to have banked time restored and the restored time is less than the back pay owed, the remaining back pay owed shall be paid as regular compensation.
+18.	SENIORITY
+A.	Seniority shall be determined first by the employee's rank, date of rank, and finally by the employee's length of service in the Department. Time spent in the armed forces on military leaves of absence and other authorized leaves, such as time lost because of duty-connected disabilities, shall be included.
+B.	An up-to-date seniority list by rank and date of rank showing the names, length of service dates, and Departmental assignments shall be furnished the Association every quarter commencing the first of each January, April, July and October.
+C.	An employee shall forfeit his seniority rights only for the following reasons:
+1.	He is reduced in rank for cause (in-grade seniority only).
+2.	He resigns.
+3.	He is dismissed and not reinstated.
+4.	He retires on regular service retirement.
+19.	REDUCTION IN FORCE (LAYOFFS)
+A.	When there is an impending reduction in force within the bargaining unit, the City shall immediately inform and consult with the Union as soon as there is any possibility of said reduction in force.
+B.	In the event of a reduction in force in the Police Department, it shall be made among all employees in the same classification as listed in Article 2, according to length of service.
+1.	The employees with the least amount of service shall be the first laid off and last to be recalled. If there is to be a demotion due to a reduction in force, time in classification will prevail. Where time in classification is equal, seniority as defined in Article 18 shall
+23
+prevail.
+2.	A demotion to the next lower rank shall be required before a layoff, provided the employee had prior time in the classification to which demoted.
+3.	Any officer demoted due to a reduction in force shall be promoted back in the reverse order of demotion without any competitive re-examination for the classification from which he was demoted.
+C.	Any grievance submitted concerning a layoff shall be submitted at the fourth step of the grievance procedure and the parties expressly agree that they shall expedite the final resolution thereof.
+D.	Effective January 1,1978, employees covered by this Agreement shall receive unemployment benefits in accordance with the unemployment insurance plan administered by the Michigan Employment Security Commission under the Michigan Employment Security Act.
+E.	Employees who have incurred an involuntary separation from the Police Department between
+July 1, 1973, and July 1, 1998, due to a reduction in force (layoff) shall have the option to retire on what would have been their twenty-fifth year of service as if there had been no separation.
+Should a member elect such option, his/her pension benefit will be calculated by using only the actual number of years worked. No pension service credit will be granted for the period of time separated on layoff. The pension will be deemed to be a service retirement for all purposes with only the pension amount reduced by the amount of time laid off.
+20.	LEAVES OF ABSENCE
+A.	General Leaves of Absence
+A leave of absence without pay may be granted to employees with at least five (5) years of continuous service with the City as a sworn member of the Detroit Police Department for a period not to exceed one (1) year. The employee shall submit the request for the leave of absence, in writing, to the Chief of Police through channels. The request shall include the reason(s) for the leave and the length of time requested. All recipients of educational leaves must present continuing proof of enrollment for the specified period of absence. The Association shall be notified when a leave of absence has been granted.
+24
+B.	Medical Leaves of Absence
+1.	To be eligible for a medical leave of absence, an employee must have a minimum of five (5) years of continuous service with the City as a sworn member of the Detroit Police Department from the date of appointment to the effective date of the leave of absence. No employee shall be required to exhaust banked sick time or other accrued benefits as a condition of taking a medical leave of absence.
+2.	A medical leave of absence without pay shall be granted to an employee who is suffering from a non-service connected sickness or disability for which the employee's physician prescribes extended treatment or rest.
+3.	A written request for a medical leave of absence shall be submitted to the Chief of Police. The request shall contain the diagnosis, treatment prescribed and length of absence required. It must be accompanied by a signed endorsement from a physician describing a complete medical diagnosis.
+4.	In no case may a medical leave of absence extend beyond six months except with the permission of the Chief of Police. Before an employee on medical leave is returned to duty the Department Physician shall make a written recommendation to the Chief of Police. Upon return to active duty a member shall be restored to his rank and shall retain all seniority rights including longevity privileges.
+C.	Maternity Leave of Absence
+1.	To be eligible for a maternity leave of absence, an employee must have a minimum of five (5) years of continuous service with the City as a sworn member of the Detroit Police Department from the date of appointment to the effective date of the leave of absence. No employee shall be required to exhaust banked sick time or other accrued benefits as a condition of taking a maternity leave of absence.
+2.	Maternity leave without pay shall commence when it is deemed by competent medical authority that an employee is no longer able to perform all the duties involved in taking proper police action; when an employee thinks she can no longer safely work; or when her medical condition or any other valid reason leads the Department to believe a mandatory leave of absence is necessary.
+3.	Upon confirmation of pregnancy, the commanding officer of the employee's section or unit must be notified without unnecessary delay. The employee shall furnish to her commanding officer and the Medical Unit written medical evidence from her doctor verifying her condition, stating an expected delivery date, and evaluating her physical ability to perform regular police duties.
+25
+4.	Prior to commencement of the leave, the employee shall prepare an inter-office memorandum, D.P.D. 568, addressed to the Chief of Police requesting a leave of absence for maternity reasons. This memorandum shall be prepared in quadruplicate and shall state the request for leave with date of commencement and the expected date of return to duty. It shall be presented to the employee's commanding officer along with the appropriate medical letter from her doctor.
+5.	Within sixty (60) days after delivery, an employee shall report to the Medical Unit for a determination of her ability to return to full duty. At this time the employee shall present a medical letter from her doctor indicating the appropriate date of her return to work. Notwithstanding the above, in no case may an employee's maternity leave of absence extend six (6) months beyond the date of delivery except with permission of the Chief of Police. Before an employee on maternity leave is returned to duty the Department Physician shall make a written recommendation to the Chief of Police. Upon return to active duty a member shall be restored to her rank and shall retain all seniority rights including longevity privileges.
+D.	Termination of Leaves of Absence
+At least thirty (30) days prior to the expiration date of a leave of absence the employee shall submit to the Chief of Police written notice of intent to return to duty. For failure to submit the above notice or failure to report at the expiration of the leave the employee will be considered to be absent without leave.
+E.	Conduct on Leave
+Employees on leaves of absence shall maintain the same standards of conduct that are required of sworn Police Officers. Acts of misconduct of a serious or grave nature that are committed by an employee while on a leave of absence may subject the employee to disciplinary action in accordance with this Agreement up to and including discharge from the Department.
+F.	Mandatory Leave of Absence
+The Omnibus Consolidated Appropriations Act of 1997 amended the federal gun control act to make it unlawful for any person (including a law enforcement officer) to ship, transport, possess or receive firearms or ammunition, if convicted of a crime of domestic violence.
+1.	A misdemeanor crime of domestic violence is defined as an offense that:
+a.	Is a misdemeanor under federal or state law; and
+b.	Has, as an element, the use or attempted use of physical force or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating or has cohabitated with the victim as spouse, parent, or guardian, or by a person similarly situated to a spouse, parent or guardian of the victim.
+26
+2.	Any member convicted of a misdemeanor crime of domestic violence will be carried working in an administrative restricted duty capacity at any work location as determined by management for nine (9) months from the date of conviction in order to permit the member to have the conviction reversed, pardoned, set aside, or expunged, or if the disqualification is removed because of a change in legislation or the act is invalidated.
+3.	If the conviction has not been removed after nine (9) months, the member will be placed on a three (3) month unpaid leave of absence.
+4.	At the end of the three (3) month leave of absence, unless the conviction is removed, the member’s employment shall be terminated. The member may reapply for employment provided that the conviction is subsequently removed and he meets all other criteria for employment, including requirements of the Commission on Law Enforcement Standards (C.O.L.E.S.).
+21.	ABSENT WITH LEAVE AND ABSENT WITHOUT LEAVE
+A.	Absent With Leave: Absent with leave is considered a full duty status with all related benefits. The member is on authorized absence to attend certain types of conventions, special training, seminars, or is on contractually granted absences authorized for certain union officials.
+B.	Absent Without Leave: Personnel who fail to report for duty without prior authorization shall be considered absent without leave. Any such absence for five consecutive days shall be deemed a resignation.
+22.	JOB ASSIGNMENTS
+A.	Except as herein provided, job assignments within each work location are within the purview
+of Management.
+B.	Precinct patrol and IOS job assignments and all uniform job assignments in all sections and
+units should be made in such a way as to maximize the efficiency and effectiveness of the Department and the individual career development of each officer. In making such job assignments the following factors shall be used:
+1.	the nature of the assignment and the skills it calls for;
+2.	the availability of pre-qualified persons;
+3.	the stated assignment preferences; and
+27
+4.	the seniority of members of the Bargaining Unit.
+Notice of such job assignment openings shall be posted for ten (10) days before being permanently filled. The Department may fill the job on a temporary basis until the permanent assignment is made which must be made within thirty (30) days, and may assign an employee to the opening if no one requests the assignment.
+C.	Posting of jobs will be on the space provided by Article 17(A).
+D.	The job assignments described in paragraph B above shall not include Administrative
+Lieutenants. The Administrative Staff of the Chief, Executive Deputy Chief and Deputy Chiefs are also excluded from paragraph B.
+E.	Shift Assignments
+1.	Shift Draw Procedures: Effective May 22,1995, in accordance with and as limited by the provisions of this Article, all precincts, the Harbormaster Unit, Tactical Services Section, and the Housing Support Section shall change to a fixed shift schedule. For purposes of this Article, the Harbormaster Unit shall be treated as an entity distinct from the Seventh Precinct.
+a.	The fixed shift program shall apply to precinct shift assignments on the day, afternoon and midnight shifts which currently rotate among all three (3) shifts. It shall also apply to shift assignments in the other listed entities which currently rotate shifts.
+b.	These procedures apply to shift assignments only. Job assignment procedures contained elsewhere in this Article shall continue in effect.
+c.	Lieutenants and sergeants currently assigned to a job assignment other than a regular rotating shift assignment shall not be included in the shift draw unless a written request is made within seventy-two (72) hours of the designated time for the shift draw. In the event that such a member elects to bid on and accepts a shift supervisor assignment, the member’s prior assignment shall be considered vacant and, if filled, filled in accordance with this Article.
+d.	The number of positions to be filled, by rank, for each shift, shall be posted prior to the shift draw.
+e.	Shift selection shall be based solely on seniority in rank. In cases where seniority in rank is equal, Departmental seniority shall be the determining factor.
+f.	Members of the rank of lieutenant shall make their selection first and the results of the lieutenant shift draw shall be made known prior to the shift draw for sergeants.
+g.	In locations where the Department utilizes a swing lieutenant(s), such position shall be considered and filled as a shift assignment.
+28
+h.	Probationary personnel shall not participate in the initial draw (see section E, 2).
+i.	On or before each shift draw, each entity listed above shall post a "Fixed Shift Preference Roster" in the space provided by Article 17,A. The roster will list all lieutenants and sergeants assigned to the command, in descending seniority order, by rank, and will include the following information: Name, Rank, Promotion Date, and Appointment Date. The roster will be used to indicate the member’s shift preference in the shift selection draw. In addition to spaces for Platoons One, Two, and Three, a space designated "Not Applicable" will be provided to indicate that the member does not wish to exercise the option to participate in the shift selection draw pursuant to Section E, l,c, above. The member shall place his initials next to the number "1", "2", and "3" to indicate his first, second and third preference.
+A member is entitled to personally participate in the draw. In the event that the member is not present, the Commanding Officer (or designee) shall, at the appropriate place in the process, assign the member to a shift in accordance with the preference noted. In the event that a member is (1) not personally present at the draw and (2) has not indicated a preference on the roster, the member will be assigned to a shift after all other members have exercised their bid.
+The initial shift selection draw shall take place at 10:00 a.m. on April 10,1995, in the office of the Commanding Officer or at another location designated by the Commanding Officer. Immediately after the shift selection process is completed, the furlough draw shall take place for all members assigned to the command.
+2.	Probationary Sergeants: Probationary sergeants may be assigned to shifts at the discretion of management. Upon conclusion of the probationary period (normally one year), their positions shall be considered vacant and another sergeant may bid for the position. If filled, the position will be filled in accordance with section E, 4 of this Article.
+3.	Rebidding: On the Wednesday nearest to March 15 of each year, there shall be a rebidding procedure conducted in conformity with the provisions of section E,l. Assignments secured as a result of the annual rebid shall be effective at the commencement of the twenty-eight day work period which occurs on or after April 1.
+4.	Filling of Vacancies: When shift vacancies occur, or when the Department increases the number of members on a shift after the bidding process takes place, the following procedure will be used.
+a.	A member seeking a change in shift assignment shall file a Department form entitled "Shift Assignment Request" with the Commanding Officer which indicates the requested shift.
+b.	A member may have on file at the same time two (2) "Shift Assignment Request" forms.
+29
+c.	The Department shall maintain an updated list of shift assignment requests, arranged in seniority order by shift, which shall be posted in the space provided by Article 17, A.
+d.	All "Shift Assignment Request" forms shall expire on the date of the redraw established in section E, 3.
+e.	"Shift Assignment Request" forms shall not be used for job assignments other than regular shift assignments, nor shall they be used in entities not covered by this Article. Job assignments for other jobs will be governed by this Article.
+f.	Shift assignment vacancies, if and when filled, shall be filled by offering the opportunity to the most senior person on the list and so on until that shift assignment is filled.
+g.	A member may decline an offered shift assignment, and such declination shall not preclude the member from retaining any "Shift Assignment Request" on file.
+h.	This section does not limit the Department’s prerogative to assign and/or reassign probationary personnel to shifts (see section E, 2).
+i.	The operation of this section shall not result in displacement of members from a shift.
+j.	For purposes of this section, the term "shift vacancies" shall mean a vacancy on Platoons One, Two, or Three.
+5.	Shift Exchanges: Members may by mutual agreement exchange daily shift assignments with another member of the same rank with the approval of their respective immediate supervisor(s). Such approval shall not be unreasonably denied.
+6.	Temporary Shift Changes: Daily shifts may be changed, on a temporary basis, for operational reasons such as training and details.
+7.	New Transfers: Members transferring into an entity listed in section E,l, whether a voluntary or involuntary transfer, and assigned to a shift supervisor position, shall be assigned to a shift, provided there are no "Shift Assignment Request" forms on file from a more senior member for that shift. The member transferring into the command shall not be entitled to displace another member from a shift. This paragraph does not limit the Department’s prerogative to assign and/or reassign probationary personnel to shifts (see section E, 2).
+30
+8.	Involuntary Fixed Shift Reassignment: In the event that it becomes necessary to make an involuntary fixed shift reassignment, the following procedures shall be followed.
+a.	The member having the least seniority in rank on the shift to be reduced shall be reassigned.
+b.	Upon request, the member being involuntarily reassigned may exercise the right to displace the least senior member of the same rank on another shift.
+c.	This section does not limit the Department’s prerogative to assign and/or reassign probationary personnel to shifts (see section E,2).
+9.	Limited Duty: A member shall not be involuntarily reassigned to another shift on a permanent basis due to being displaced by a member on limited duty. The preceding sentence does not affect the Department’s right to make temporary daily shift changes.
+10.	Precinct Closing or Consolidation: In the event that any precinct is closed or consolidated with another precinct, the parties will enter into negotiation to determine shift assignment procedures.
+11.	Further Negotiations: The parties realize that they may not have considered all of the effects of the above changes. Therefore, to ensure an orderly transition from rotating shifts to fixed shifts, the parties shall enter into negotiations concerning any desired change.
+23.	TRANSFERS
+A.	Transfers between work locations will be made using a Department transfer list maintained by the Personnel Unit. Such list will be created from transfer requests submitted by members on form DPD #402. Separate lists should be maintained for each rank.
+1.	Transfer requests shall be valid for a period until October 1st of each year. Continuation requests may be submitted on or after September 1st.
+2.	Whenever openings occur in precincts, sections or units, the most senior employee on the list shall be transferred. Seniority is defined by Article 18 of this Agreement.
+3.	Members submitting transfer requests will not be unreasonably denied placement on the transfer list. To deny a member’s request, the Department must verify with factual information that the member is not qualified for the requested transfer. Such decisions may be appealed utilizing Articles 8 or 9 of this Agreement.
+31
+4.	With the exception of releasing information pertaining to a current criminal investigation, an employee who is denied placement on the transfer list will be advised in writing of the reasons for such denial upon request.
+5.	The member shall be notified of the result of his request for transfer within thirty (30) days of the submission of the form DPD #402.
+B.	Transfers involving the following entities shall be excluded from the above procedure and shall be made at the discretion of the Chief of Police.
+1.	Administrative staff of the Chief of Police, Assistant Chief, Deputy Chiefs, and Director of Personnel.
+2.	Narcotics Enforcement Division
+3.	Executive Protection Unit
+4.	Internal Affairs Section
+5.	Labor Relations
+6.	Residency Unit
+7.	Public Information Unit
+8.	Office of the Chief Investigator
+9.	Legal Advisor
+10.	Vice Section
+11.	Planning and Inspection
+If, during the term of this Agreement, Department entities are created or structurally reorganized, the parties will meet and negotiate the impact of this provision on the entity. Should an entity merely be renamed without its functions being changed, negotiation shall not be required.
+C.	When a section or unit is eliminated, a member in said section or unit shall have the right to return to his or her previous command, if any, provided there is an opening; if there is no opening or the employee does not want to return, the employee will be transferred to an opening at a precinct, section, or unit where there are no applicants on the transfer list. This section does not preclude a member from exercising a transfer request under paragraph A of this article.
+D.	Involuntary transfers due to reduction in the work force will be made using inverse seniority.
+When this does occur, the transferred member may indicate his or her desire to return to that command if personnel of the involved rank are to be reassigned. This will be done by submitting a transfer request in the normal manner. For a period of one year after the involuntary transfer, the affected member shall have priority in being transferred to that command over other members of that rank. If two or more members fit into this category, transfer priority will be determined by seniority in rank, and, if tied, by Departmental seniority. During this one year period only, an affected member shall not be precluded from having another transfer request on file under paragraph A of this Article.
+32
+E.	The Chief of Police has the right to transfer a member based upon good cause shown to another precinct, section or unit upon review of the entire case. Such decision is appealable under Articles 8 and 9 of this Agreement. This paragraph does not apply to the entities listed in paragraph B of this article.
+F.	Should the need arise for a temporary assignment (not transfer), except a temporary assignment of a limited duty member in accordance with Article 35, E, the temporary assignment may not exceed seventy-five (75) days. At the expiration of this period, the member will be immediately returned to his former position. In no event shall the Department utilize temporary assignments to circumvent the transfer provisions of this Agreement. The parties further stipulate that the Department’s authority to make temporary assignments must be exercised reasonably and that permanent transfers will be made from the official transfer list.
+24.	LEAVE DAYS/WORK WEEK
+A.	A prescheduled temporary absence from duty for 24 hours duration shall be defined as a leave
+day unless otherwise designated by the Department.
+B.	Insofar as possible, the work week of each employee shall consist of 5 days of eight (8) hours
+work per day. An employee shall be entitled to eight (8) leave days in each twenty-eight (28) day work period.
+C.	Leave days shall be posted seven (7) days prior to the end of the current work period. After having been posted, leave days shall be changed only by mutual consent of the employee and the Department except when leave days are canceled because of an emergency.
+D.	When an emergency makes it necessary for an employee to work all or part of a leave day, he shall be compensated in cash or compensatory time at the prevailing overtime rate.
+E.	Rules and regulations concerning leave days shall otherwise be in accord with DPD G.O. 7337, as amended prior to August 20,1979.
+25.	OVERTIME
+A.	Prior to any fiscal year all members will be required to sign a list indicating their preference to be paid in cash or compensatory time for overtime worked. Once a member elects or does not elect to take time instead of cash payment, he is restricted to that choice for the entire fiscal year. All overtime will be credited at the rate of time and one-half. For the first seventy-five (75) hours of overtime work in a fiscal year, for which there is one hundred twelve and one-half (112 ’A) hours of credit, the employee shall have an option of receiving
+33
+compensatory time instead of payment in cash. All overtime beyond the first one-hundred twelve and one-half (112 A) converted time hours must be paid in cash. However, in any fiscal year, not more than one hundred twelve and one-half (112 ’A) converted time hours may be earned as compensatory time as a result of overtime worked. Furthermore, such overtime shall be paid in cash rather than granting compensatory time where necessary to comply with F.L.S.A. requirements.
+B.	Overtime shall be calculated on the following basis:
+1.	An employee shall be entitled to overtime compensation at time and one-half (1 A) for all compensable hours of work in excess of eight (8) in a single day. A normal daily tour of duty shall consist of eight (8) hours of work, exclusive of a thirty (30) minute meal period which shall not be compensable or counted as time worked for the purposes of computing overtime unless the member is denied such period by competent authority. The tour of duty shall include time spent at the normal line-up or roll-call. The normal line-up or roll-call shall be deemed to consist of fifteen (15) minutes at the beginning of a day's tour and fifteen (15) minutes at the end of the tour. Although the last fifteen (15) minutes of the tour is the off-duty line-up or roll-call, overtime credit shall include those fifteen (15) minutes when a member is required to work beyond that time.
+2.	An employee shall be entitled to overtime compensation at time and one-half (1 A) for all compensable hours of work on a leave day.
+3.	When an emergency makes it necessary for a member to work all or part of a furlough or leave day, excluding court appearances, such time shall be considered as overtime. Any furlough or leave days for which overtime credit is given shall be canceled.
+4.	Time off due to furlough, liquidation of compensatory time, sick leave and other paid absences shall be considered as time worked when applying overtime rules.
+5.	In no case shall overtime or other premium compensation be pyramided, duplicated, compounded or paid twice for the same hours of work.
+C.	Overtime shall be computed as follows:
+Step 1) The employees annual salary shall be divided by 2080.
+Step 2)	The resultant quotient from Step 1 shall be multiplied by 1.5.
+Step 3)	The employee's annual longevity amount, if any, shall be divided by 2080.
+Step 4)	The resulting quotient from Step 3 shall be multiplied by 1.5.
+Step 5)	The resulting products from Step 2 and Step 4 shall be added together.
+Step 6) The number of overtime hours worked, rounded to the nearest tenth of an hour,
+34
+shall be multiplied by the sum resulting from Step 5 and the resulting product shall be the compensation due for the overtime worked.
+In those cases where an employee works overtime and is entitled to receive shift premium, the shift premium for overtime hours worked, rounded to the nearest tenth of an hour, shall be multiplied by 1.5.
+The following table shall be used to convert minutes worked to tenths of an hour for computing overtime and overtime shift premium.
+Minutes	Tenths of Hours
+1-6 7-12 13-18 19-24 25-30 31-36 37-42 43-48 49-54 55-60	.1 .2 .3 .4 .5 .6 .7 .8 .9 1.0
+D.	Overtime assignments shall be offered on a rotating basis commencing with the lieutenant or sergeant with the greatest departmental seniority, in rank, by unit, by shift. Members who refuse overtime assignments shall be charged on the list as having refused and considered the same as having worked. In the event a sufficient number do not accept the overtime assignment work, the remaining assignments shall be made by using reverse seniority. Lists showing all overtime assignments shall be posted in each precinct and bureau. Lists shall be kept up-to-date and shall cover the period of July 1 through June 30.
+26.	COURT TIME
+A.	A minimum of three (3) hours credit at time and one-half shall be credited for each off-duty court appearance, except as specified herein. When an officer who is on duty is directed to appear in court and that court appearance extends beyond his normal off duty time it shall be recorded as overtime and not as off-duty court time. Off-duty court appearances for a period of less than forty-five (45) minutes which abut a prescheduled shift may be treated as either overtime or court time at the option of the Department. An employee's regularly scheduled working hours shall not be changed to circumvent this provision for payment for off-duty court appearances.
+B.	In each fiscal year, the first forty (40) hours of straight time earned as off duty court time (60 hours at time and one-half) shall be compensatory time. All off duty court time earned in
+35
+excess of the sixty (60) converted hours shall be paid in cash. Furthermore, such off duty court time shall be paid in cash rather than granting compensatory time when necessary to comply with F.L.S.A. requirements.
+C.	Normally, employees shall not be required to attend court on their leave days or during their furlough period. In the event that court attendance may be required while he is on leave or furlough, an employee may be carried on duty or off duty, at his option, while on Platoon No. 2.
+D.	Employees not assigned or working downtown shall be reimbursed for their parking fees if the following procedure is followed. When the police lot is filled, the employee shall show the lot attendant his court appearance slip and receive a parking Fee Reimbursement Authorization form. The employee shall be reimbursed monthly by the Accounting Office via department mail.
+27.	METHOD OF COMPENSATION
+A.	Regular wages shall be paid on a bi-weekly basis.
+B.	Longevity pay shall be paid on the 1st pay in December.
+C.	Overtime and premium pays shall normally be paid in the pay period following the pay period
+in which they are earned.
+28.	OUT-OF-CLASS PAY
+The City will pay "out-of-class pay" after a member is officially assigned to perform the duties of a higher rank for a period of thirty (30) consecutive days in a budgeted position available in the current Police Distribution of Personnel Budget Allowance. Such out-of-class pay shall be retroactive to the first day of such assignment. For the purpose of this article, the meaning of "officially assigned" shall mean that assignment which is made by the Chief of Police.
+Before an out-of-class assignment is made, the Commander or Deputy Chief shall submit a request on D.P.D. #31, Inter-Office Memorandum to the Chief of Police, explaining the reasons for the assignment, the effective date, the duration, and the date on which the officer will qualify for the out-of-class pay (if approved, such pay shall be retroactive to the first day). If the request is denied, the officer involved will be advised of this status, and a new assignment will be granted upon the member's request.
+36
+29.	SHIFT DIFFERENTIAL
+Shift premium shall be paid to all members whose regular tour of duty begins within the hours prescribed as follows, and in the amounts as set forth herein: If the tour of duty begins between 11:00 a.m. and 6:59 p.m., the rate of shift premium pay is 400 per hour. If the tour of duty begins between 7:00 p.m. and 3:59 a.m., the rate of shift premium is 500 per hour.
+The shift premium is paid to a member in addition to his base rate of pay, for the regular tour of duty starting within the hours designated above, and any overtime hours worked in conjunction with an afternoon or midnight shift.
+30.	LONGEVITY PAY
+A.	Employees covered by this Agreement shall receive, on the first pay date after December 1st,
+a longevity payment as follows:
+1.	Employees may qualify for the first step of longevity pay, provided they have served as City employees for an accumulated period of five (5) years.
+2.	Employees may qualify for the second step of longevity pay, inclusive of the first step provided they have served as City employees for an accumulated period of eleven (11) years.
+3.	Employees may qualify for the third step of longevity pay, inclusive of the first and second steps, provided they have served as City employees for an accumulated period of sixteen (16) years.
+4.	Employees may qualify for the fourth step of longevity pay, inclusive of the first, second and third steps, provided they have served as City employees for an accumulated period of twenty-one (21) years.
+5.	The first step of longevity increment shall be two hundred fifty dollars ($250). The second step of longevity increment, inclusive of the first step, shall be five hundred dollars ($500). The third step of longevity increment, inclusive of the first and second steps, shall be seven hundred fifty dollars ($750). The fourth step of longevity increment, inclusive of the first, second and third steps, shall be seven hundred fifty dollars ($750) plus one percent (1%) of the employee's base salary.
+6.	Effective for the December, 2000, longevity payment, the longevity increments shall be as follows: The first step of longevity increment shall be 1% of base salary. The second step of longevity increment, inclusive of the first step, shall be 2% of base salary. The third step of longevity increment, inclusive of the first and second steps, shall be 3% of base salary. The fourth step of longevity increment, inclusive of the first, second and
+37
+third steps, shall be 4% of base salary.
+B.	Employees who have qualified for longevity pay and have accumulated at least 216 days of paid time exclusive of overtime or premium time during the year immediately preceding any December 1 st date or other day of payment will qualify for a full longevity payment provided they are on the payroll on the December 1st date or any other date of qualification. Except for employees first qualifying for increments, the payment will be made in a lump sum annually on the first pay date after December 1st.
+C.	No employee will be denied a full longevity payment on December 1st because of a temporary
+unpaid absence of thirty (30) continuous days or less extending through the December 1st date in question.
+D.	Employees who first qualify for longevity pay increments in any month after any December
+1st date shall be paid such increment on a pro-rata basis upon attaining such qualification in the amount of a full increment less one-twelfth (1/12) thereof for each calendar month or fraction thereof from the previous December 1st date to date of such qualification.
+E.	Prorated longevity payments may be made between December 1st dates to qualified employees and officers who separate or take leave from City service, excluding those who are discharged, those who resign and those who resign with a vested pension. Such prorated longevity increment shall be paid for time served on a full calendar month basis since the date of their last longevity payment; provided, that each month shall contain at least eighteen (18) days of service.
+F.	All of the above provisions, except paragraphs A,1 through 6 shall be in accordance with Chapter 13, Article 7 of the Municipal Code of the City of Detroit, which is incorporated herein by reference.
+31.	ROLL-CALL PREPARATION TIME
+The City agrees to discontinue requiring sergeants and lieutenants to report for work fifteen (15) minutes prior to roll-call unless they are being paid for roll-call preparation time.
+Roll-call preparation time shall be paid as fifteen (15) minutes of overtime for those so assigned.
+Except in the precincts, the number so assigned will be determined as needed by the commanding officer but shall not exceed three for each formal stand-up, on duty roll-call. The number assigned to roll-call preparation in the precincts shall be three (3).
+The assignment of roll-call preparation time shall be rotated among supervisors insofar as is practicable.
+38
+32.	DISABLED TIME
+A.	Disabled time is time not worked when a member has sustained an injury or illness in the performance of duty.
+B.	During periods of disability, members remain fully accredited in that they continue to draw their regular salaries, accumulate sick leave and furlough time and all other benefits, and are subject to the rules and regulations of the Department insofar as their condition permits.
+C.	The member shall not be returned to duty if he/she is unable to properly perform his/her assigned duties.
+33.	PRECINCT PATROL SUPERVISORS
+A.	Each Patrol Sergeant on any assigned shift may select, at his option, an on-duty police officer
+driver of his choice. This option and choice are construed to be those of the sergeant and not of the City.
+B.	A Sergeant will not be dispatched as a primary response unit unless accompanied by a sworn
+officer.
+34.	SERVICE WEAPON
+A.	All employees shall be provided at no charge with their Department-issued weapon upon retirement, provided however, that no employee who retires before July 1, 1995, shall be entitled to receive a Glock semi-automatic weapon unless the employee has been qualified with the Glock semi-automatic weapon for one year as of the date of retirement.
+B.	This provision shall also apply to employees who elect to receive a retirement allowance under Article VI, Part A, Section 4 of the Policemen and Firemen Retirement System (40 & 8).
+C.	The Department may refuse to give employees their weapon for good cause shown.
+35.	SICK LEAVE
+A.	Sick Banks: There are two sick banks, current sick bank and seniority sick bank.
+39
+1.	Current sick bank is designated as that sick time accumulated at the rate of one day for every calendar month in which a member has been credited for not less than eighteen (18) paid time days, excluding overtime. The accumulation of the current sick bank is limited to 125 days. Effective June 30, 1998, the current sick bank shall accumulate without limitation.
+2.	Every member who has a current service status for a full fiscal year shall be credited with five (5) days in his seniority bank on July 1 of each year.
+However, if a member retires with 25 years of service and has failed to qualify for the additional five (5) days because of appointment date, five (5) additional sick days will be added to the bank solely for the purpose of paying unused sick leave pursuant to Subsection L of this Article. Effective July 1, 1998, the seniority sick bank shall accumulate without limitation.
+B.	Sick Time Credit: The term "sick time" shall be defined as absence due to illness or injury of the member, to exposure to a contagious disease, and to the attendance upon immediate members of the family of the member of the Department living within his household, including husband, wife, children, father, mother, sister, brother, and relatives living in the same household regardless of degree of relationship. The granting of sick time for attendance upon these relatives is not limited to any given number of days per fiscal year; however, no more than three (3) days will be granted in one instance. This sick time is granted to permit the member to make arrangements for care of the ill person so that he may return to duty. When it comes to the attention of the Department that a member is abusing sick leave, the Chief of Police may cause an investigation to be initiated. Such investigation may result in disciplinary action, consistent with this Labor Agreement.
+C.	Deductions from the Sick Bank: Sick banks, both current and seniority, are designed to provide for non-duty connected illness or disability. No deduction from either current or the seniority sick banks shall be made for any sick time resulting from a service connected illness or disability which is certified by a Department physician.
+Sick time shall be charged first to the current sick bank and secondly, to the seniority sick bank in periods of not less than half-days.
+When a member starts his shift but is unable to finish the shift because of sickness, sick time will be deducted in the following manner. If less than four (4) hours has been worked the member will be charged half a sick day and credited with half a work day. If four or more hours have been worked from the beginning of the shift, the member will be credited with a full work day.
+During a period of illness, only that time which would be actual working time will be deducted from the sick bank. Illness or injury during furlough time may be changed to sick time in lieu of the member's furlough, provided such illness or injury during the furlough shall
+40
+be reported forthwith to the member's commanding officer and to the Medical Unit. Such illness or injury will be verified by the Medical Unit. The unused portion of the member's furlough will be rescheduled and used immediately following recovery from the illness or injury which made the change necessary.
+D.	Reporting Illness or Disability: When any member becomes sick, the officer in charge must be notified without delay and informed where the member is confined. If a member is hospitalized, the officer in charge shall be notified and will cause the Medical Unit to be notified, during the next regular office hours, of the nature of the illness and the hospital to which the member was admitted. Members unable to report for duty because of sickness shall have their duty station notified not less than one (1) hour before roll call. An employee calling in sick in accordance with this provision will not be allowed to work until his next scheduled tour of duty. Under normal circumstances, Department physicians will not make visits to an individual member's home. When attending a sick officer, a Department physician shall issue him a notice stating the nature of the illness and whether or not the officer shall remain off duty. The notice must be turned in to the commanding officer when the member returns to duty.
+Members on sick leave are urged to keep their commands informed of their incapacity and expected date of return. Members on sick leave of thirty (30) days or more may be ordered to the Medical Section for verification by the Department physician.
+E.	Limited Duty: Officers placed on limited duty by a Department physician shall report immediately with their limited-duty authorization slip to an appropriate command designated by the Chief of Police. Said command will determine an appropriate limited duty assignment and notify the member's commanding officer. Limited duty assignments are made by the Chief of Police under the authority granted by Title IV, Chapter 21, Section 14, paragraph (g) of the City Charter and are subject to the limitations thereof.
+The number, location, and duration of restricted duty assignments, as well as whether a restricted duty assignment vacancy exists, shall be within the discretion of the Department.
+Effective June 30,1998, the Department may give preference for restricted duty assignments to those employees whose injury or illness is determined to have occurred in the line of duty over employees whose injury or illness is determined to have occurred not in the line of duty. When the Department determines that the number of restricted duty employees exceeds the available number of restricted duty assignments, in accordance with the limitations enumerated below, employees having or seeking a restricted duty position for a non-duty related medical condition may be required to utilize sick time benefits. An employee who is required to utilize sick time benefits by operation of this paragraph but who has no accumulated sick time will be allowed to use other accumulated time to cover the absence.
+When an employee having a non-duty related injury or illness is displaced from a restricted duty position, or when no restricted duty position is currently available, the employee shall
+41
+be placed on a waiting list for assignment to an available restricted duty position. Placement on this waiting list shall be by departmental seniority and placement in restricted duty positions shall be made in seniority order provided the employee is able to perform the duties of the particular restricted duty position.
+Notwithstanding the provisions of this Article, employees on restricted duty for a non-duty related injury or illness and who are able to perform the duties of their regularly assigned job shall not be subject to being displaced by either an employee having a duty related injury or illness or by a more senior employee having a non-duty related injury or illness. In addition, an employee on restricted duty as of June 30, 1998, shall also not be subject to being displaced. Provided, however, that this special status shall be lost either upon the employee being restored to full duty or the employee becoming eligible for full duty for the particular medical condition for which restricted duty status was granted as of June 30,1998.
+The Department shall maintain a continuous listing of those employees who are restricted duty which shall indicate their duty assignment, seniority date, whether the status is for a duty or non-duty related reason, and other relevant data the parties may from time to time agree upon. The Department shall provide the Association with a copy of the list on any day that a change has been made.
+The City shall indemnify and hold harmless the Association from any and all claims arising out of the application of this Article.
+Nothing in this Article shall affect the right of the Department under the Charter of the City of Detroit to refer employees for duty or non-duty disability pensions.
+An officer on limited duty normally shall not wear a uniform except under emergency conditions when ordered by his commanding officer. In such cases, however, the officer shall not leave the building or travel to and from work in uniform.
+F.	Determination of Sick or Disability Status: It is the responsibility of a Department physician to determine whether the illness or injury of a member is duty incurred. When a member sustains an original injury in the performance of duty during his regular duty hours, and is unable to complete his tour of duty, he shall be carried disabled. At all other times, he shall be carried sick until a final determination is made by a Department physician. Under no circumstances shall the status of a member being carried sick or disabled be changed in the time book or other Department records without the written authorization of a Department physician. The Department physician shall authorize such change by preparing an interoffice memorandum. Members are automatically assigned to Platoon Two while disabled.
+G.	Report for Duty When Ordered: Any member reported fit for duty by a Department physician who does not report at the roll call indicated by the physician shall be considered absent without leave.
+42
+H.	Return to Duty: To assure proper health safeguards for Department personnel, members who are ordered off duty by a Department physician due to illness or injury, whether service connected or not, shall not be returned to active or limited duty assignments without being certified for such assignment by a member of the Department's medical staff.
+I.	Illness or Injury Services: In non and/or post emergency cases, police personnel who have incurred a service connected illness or injury must obtain approval from a Department physician before securing any type of medical attention or treatment for the illness or injury, including x-rays and dental care. The Department will not be liable for costs so incurred unless prior approval is obtained.
+Officers who are duty disabled or on limited duty shall report for physical examinations when directed by a Department physician or the Medical Section. Furthermore, as a condition for continuing disabled or limited duty status and the benefits thereof, the officers must submit to all reasonable examinations ordered by the Department. Failure to do so will lead to immediate termination of such status and benefits.
+J.	Depletion of Sick Banks: If a member is unable to perform police duties when all his sick banks are exhausted, he shall be dropped from the payroll unless he is eligible for non-duty connected retirement benefits. A member exhausting his sick banks who has completed five (5) or more years of service and who is otherwise eligible for non-duty connected disability retirement, may be retired at his own request or at the request of the Chief of Police subject to the approval of the retirement board.
+A member may apply for reinstatement within two (2) years of being removed from the payroll if he recovers sufficiently from his illness or injury to return to duty. He may be reinstated in the same status as when he left upon proper certification by the Department physician and appointment by the Chief of Police.
+K.	Bonus Vacation Days: Bonus vacation days are granted for unused current sick time. Officers who have accumulated a minimum of fifty (50) sick days including both current and seniority days and have a minimum of six (6) years of service on July 1st of each year will be credited with one-half of the unused current sick time from the previous fiscal year up to six (6) days. An officer may request to take his bonus vacation days in any sequence by submitting a request in writing to his commanding officer. This request will be reviewed for the availability of personnel by his commanding officer. The Department must insure that bonus vacation days are expended proportionately throughout the year and are not carried until the last months of the fiscal year; therefore, on May 1st, the commanding officer shall assign the remaining bonus vacation days at his discretion. Bonus vacation days which are not used prior to the end of the fiscal year will be lost. Seniority will be a prime consideration when several officers request the same period of time off. When granted time off, bonus vacation days will be deducted from a member’s bank before compensatory time is deducted.
+43
+L.	Retirement and Death Sick Leave Payment: Immediately preceding the effective date of a member’s retirement, exclusive of duty and non-duty disability retirement, or at the time of a member's death, he or his estate shall be entitled to pay for his unused accumulated sick banks as follows:
+A member shall receive a full pay for 50% of the unused accumulated sick bank amounts.
+If a member is granted a duty or non-duty disability retirement, he shall be entitled to a reimbursement of unused sick time according to the preceding formula, upon attaining his normal full duty retirement date and petitioning the Chief of Police for such reimbursement.
+M.	Regularity in the Use of Sick Leave Benefits
+1.	General: The Detroit Police Department is responsible for providing efficient law enforcement services. Maximum attendance is required from all members if this responsibility is to be fulfilled.
+It is, therefore, necessary to identify and correct members who have developed a pattern of regularity in the use of their sick leave benefits. Therefore, all commanding officers are to review the records of their members quarterly: each January 1 Oth, April 1 Oth, July 10th, and October 10th.
+2.	Counseling Regarding Regularity in the Use of Sick Leave Benefits: Upon review, the commanding officer shall counsel subordinates whose records show such an indication. The counseling session shall include a discussion of the pattern observed to date, and the member’s reason for absences. Where appropriate, the commanding officer shall explore positive future courses of available action with the member in an effort to assist the member in adopting corrective measures. At the end of the counseling session, the commanding officer shall prepare a detailed report of the meeting and attach the report to the member’s Detroit Police Department Attendance Card, D.P.D. 350-C. A copy of this report shall be provided to the member. Note, however, that said counseling does not constitute disciplinary action and as such may not be noted in the Administrative Counseling Register. Further, said detailed report shall be removed from D.P.D. 350-C at the end of six months providing no further corrective action has been necessary since the initial counseling session with the member.
+3.	Continued Pattern of Regularity in the Use of Sick Leave Benefits: If counseling does not produce improve attendance, and the commanding officer, after meeting with the member, determines that no satisfactory reason exists which would justify said continued regularity in sick leave usage, the commanding officer shall personally serve the member with a Notice of Regularity in the Use of Sick Leave Benefits, D.P.D. 350, and forward the necessary copies as outlined on the form. The commanding officer shall inform the member of the requirement to obtain documentation of the illness or of the illness of a family member which necessitates the member’s absence from work. This
+44
+documentation shall consist of a statement from a physician concerning the illness for each sick day taken during the next three month period. This requirement must be strictly adhered to during said period of time, except where the commanding officer is convinced that a reasonable basis exists for not requiring a physician’s note in conjunction with a particular absence. The member will also be advised that said physician’s documentation shall be submitted on D.P.D. 350-A, or an equally detailed doctor’s note, and shall be presented to the member’s section commanding officer within three days after returning to duty. This documentation is subject to the review of the Department physician. Commanding officers shall ensure that the copy of D.P.D. 350-A which is submitted by the member is forwarded to the Medical Unit forthwith for retention.
+An employee unable to perform police duties because of injury or while recuperating from an illness may absent himself from his home while sick. This right shall not apply to an employee who has been properly served with D.P.D. 350-A and is under the provisions of D.P.D. 350 as stated above. Such an employee, if being carried sick for any reason set forth in Article 35, B of this Agreement must secure permission from the officer in charge of the unit to which he is assigned, or if his unit is closed, the precinct in which he resides, to absent himself from his place of confinement. This restriction does not apply on leave days or non-duty hours.
+No member shall be required to substantiate his illness or that of a member of his immediate family with respect to medical verification until the Department has complied with the provisions of this Article.
+The commanding officer shall further advise the member that failure to satisfactorily comply with the regulation will result in the designation of each working day taken as "Sick" to "Absent No Pay." The commanding officer shall also advise the member that unless attendance improves, disciplinary action may be imposed.
+4.	Improved Attendance: A member placed on a D.P.D. 350 will have his attendance reviewed on a quarterly basis and will be removed from the restrictions of the provision upon a showing of improved attendance within the meaning of the following definition.
+"Improved attendance" as used herein shall mean that the member has consistently and reliably demonstrated the capacity to provide proper and sustained attendance within the meaning of this Article. For purposes of interpreting the preceding sentence, the word "sustained" shall be construed to mean an improvement which demonstrates that the abuse has been eliminated.
+5.	Extended Medical Treatment: Members who document that their illness requires treatment on a regular basis may submit D.P.D. 350-A for that ailment on a semi-annual basis. The Department physician, however, may want further verification concerning said ailment, and accordingly the member may be required to see the physician.
+45
+6.	Failure to Present Documentation by a Physician: If failure to comply with the regulation set forth on D.P.D. 350 occurs, the section commanding officer shall personally serve the member with a Notice of Failure to Present Documentation by a Physician, D.P.D. 350-B, and shall forward the necessary copies as outlined on the form. A Designation of "Absent No Pay" will be entered in timekeeping records.
+7.	Appeals: Any member may file a grievance to protest any alleged improper action taken under the attendance control program, including allegedly improper counseling, the placement of an individual on attendance control procedures, the failure to remove a person from initial counseling or attendance control procedures, or the imposition of an "Absent No Pay" day. If the grievance is granted, the arbitrator shall be empowered to provide an appropriate remedy, including reimbursement of expenses for medical visits ordered by the Department.
+36.	FUNERAL LEAVE
+A.	If a death occurs among the employee's immediate family such member will be granted three
+(3)	days funeral leave, not to be deducted from his sick bank provided that such leave may be extended to five (5) days within the discretion of the unit commanding officer based on individual circumstances.
+B.	The immediate family is defined as wife, husband, son, daughter, brother, sister, father, mother, step-father, step-mother, or other relatives that are members of the employee's household.
+C.	If a death occurs among the relatives of the employee, such employee will be granted one (1) day funeral leave not to be deducted from his sick bank.
+D.	Relatives are defined as grandson, granddaughter, grandmother, grandfather, brother-in-law,
+sister-in-law, uncle, aunt, mother-in-law, or father-in-law.
+37.	HOLIDAYS AND EXCUSED TIME
+A.	Schedule of Holidays: Each member shall be entitled to a holiday on one Election Day in each year or an eighth holiday if an election is not scheduled. (Notification will be made by special order).
+46
+Employees shall also be entitled to the following holidays:
+Independence Day Labor Day Veterans' Day Thanksgiving Day Christmas Day New Year's Day Memorial Day
+July 4th
+First Monday in September
+November 11th
+Fourth Thursday in November
+December 25th
+January 1st
+Last Monday in May
+A ninth holiday shall be granted to employees who have been employed ninety (90) days or more and who are entitled to regular holidays under existing ordinances. This holiday shall be taken at any time during the fiscal year which is mutually acceptable to the employee and the Department. To insure that the ninth holidays are expended proportionately throughout the year and not carried until the last month of the fiscal year, on May 1 st the commanding officer shall assign the remaining ninth holidays at his discretion. Ninth holidays which are not used prior to the end of the fiscal year will be lost.
+B.	Holiday Premium: The holiday premium rate shall be double time (2x) for all employees who work on a premium holiday in addition to the regular day's pay.
+C.	Holiday work opportunities will not be extended to employees on furloughs.
+1.	When a holiday falls on one of the ten designated furlough days (F), the member will not be extended a holiday work opportunity and shall be carried on the holiday roster as Holiday Furlough (HF). Members will be required to utilize the standard number of leave days (5) with the furlough unless waived by mutual consent of the member and the Department.
+2.	When a holiday falls on one of the attached leave days granted in connection with a
+furlough, the member will have the option of working the holiday if:
+a.	The holiday roster rotation shows the member is in the rotation to work the holiday, and
+b.	Prior to starting a furlough, the member has informed the immediate supervisor in writing whether or not he desires to work the holiday.
+3.	When a holiday falls on any one of the attached leave days granted in connection with a furlough and the holiday roster rotation shows the member is in the rotation to work the holiday and:
+a.	the member has chosen not to work the holiday or
+47
+b.	has not given written notice concerning his desire to work the holiday
+the member shall be carried as Holiday Furlough (HF) as opposed to Holiday Refused (HR).
+D.	Scheduling Holidays for Lieutenants, Sergeants and Investigators.
+The scheduling of lieutenants, sergeants and investigators to work on holidays shall be governed solely by Department need.
+In commands where investigators are assigned, the following formula shall be used to schedule personnel to work holidays. The total number of sergeants and investigators within the unit shall be determined. The percentage of sergeants of this total shall determine the percentage of sergeants to be assigned to work the holiday. The percentage of investigators of this total shall determine the percentage of investigators to be assigned to work the holiday. In the event the formula does not result in whole numbers, the Department will make a good faith determination of the rank eligible to work. In no case will rounding require the Department to increase the number of personnel working. Should the calculation provide a fraction of less than one individual in either rank, at least one member of the concerned rank will be given the opportunity to work.
+Each July 1, a Holiday Work Roster, D.P.D. 592, shall be prepared for purposes of scheduling holiday assignments. Holiday work rosters pertaining to lieutenants, holiday work rosters pertaining to sergeants, and holiday work rosters pertaining to investigators shall have a continual rotation which will not start anew each July 1. These rosters shall be prepared by section, by unit, by section and platoon, or by unit and platoon, as applicable. Rosters will be posted on bulletin boards in each precinct and section. Rosters shall be kept up to date and shall cover the period of July 1 through June 30. New transfers shall be immediately assigned to the appropriate roster according to their seniority. When a lieutenant, sergeant or investigator transfers, the duty status for the previous holiday shall be taken into consideration regardless of where the member worked or what roster the member was on. Newly promoted personnel will be placed on the roster with no duty status for the previous holiday.
+Under normal circumstances, holiday assignments will be posted seven (7) calendar days prior to the holiday. When two (2) holidays fall within a fourteen (14) day period, assignments for the second holiday will be posted a minimum of two (2) days in advance of that holiday. Should a position become available after the holiday detail is posted and the Department decides to fill that position, the next eligible employee(s) will be polled to work the holiday. Those employees who decline under this circumstance shall be considered as Holiday (H).
+Once the holiday assignments are posted within the minimum contractual posting time it may be changed only to correct an error or to fill a vacancy and after notice to the precinct
+48
+or section delegate. An affected member shall be notified of the change as soon as possible.
+If the holiday assignment has been posted in accordance with the minimum time limits, newly assigned personnel shall be placed on the roster for the next holiday and not considered for the holiday posted unless new vacancies arise prior to the holiday.
+Holiday detail sheets are posted in order to give all parties advance notice of assignments and to permit the delegate or the employee to bring any mistakes to the attention of his or her supervisor in a timely manner. An employee shall notify his or her immediate supervisor of an error on the holiday detail sheet immediately upon discovery, so that it may be corrected forthwith. If an employee who knows or reasonably should have known of an error fails to provide such notice of the error to his or her immediate supervisor, the error may be grieved but no monetary award shall be awarded.
+Holiday assignments for lieutenants, sergeants or investigators shall be offered on a rotating basis using seniority in rank, by unit, by shift.
+The following steps shall be utilized for preparing a holiday roster.
+1.	A supervisor preparing the holiday roster shall list all members, in descending seniority order, who will be considered to work that respective holiday. The removal or addition of names to the holiday roster shall conform with the preceding contractual holiday requirements. A member's holiday status for the previous holiday shall be taken into consideration regardless of where he worked or what roster he was on.
+2.	Once this step is completed, the supervisor shall begin by first selecting, in descending seniority order, the members who were carried with a "Special Red Designation" (i.e., Holiday-Furlough, Holiday-Sick, Holiday-Jury Duty, Holiday-Limited Duty, HolidayDisabled) during the previous holiday. When selecting members who were carried with a Special Red Designation, the Supervisor shall begin at the starting point of the previous holiday and continue through the entire holiday roster once before ending at the current holiday's starting point.
+3.	Once the members with Special Red Designations have been selected, members with a red "Holiday" designation shall be chosen, in descending seniority order, beginning at the starting point of the current holiday and shall continue through the entire holiday roster, returning to the current holiday's starting point.
+4.	Once all members with red designations are selected for work opportunities, the continual rotation shall continue from where it left off the previous holiday (the current "starting point"), selecting members with black "holiday worked" status, in descending seniority order, until sufficient personnel are obtained.
+5.	A new cut off point will then be marked immediately following the last member selected
+49
+for a holiday worked opportunity.
+6.	Entries on Roster. Entries on the holiday roster shall be made in the following manner:
+a.	Worked -W- (Black) - indicates an employee worked the holiday.
+b.	Holiday Refused -HR- (Black) - indicates an employee was given the opportunity to work, but refused.
+c.	Holiday -H- (Red) - indicates an employee was not up to work the holiday and was on holiday.
+d.	Holiday Furlough -HF- (Red) - indicates an employee would have been eligible to work the holiday, but was on furlough or declined to work a holiday which was among the leave days attached to the furlough.
+e.	Holiday Sick -HS- (Red) - indicates an employee was eligible to work the holiday, but was unable to do so because of being sick.
+f.	Holiday Disabled -HD- (Red) - indicates an employee was eligible to work the holiday, but was unable to do so because of being disabled.
+g.	Holiday Jury Duty -HJD- (Red) - indicates an employee was eligible to work the holiday, but was unable to do so because of jury duty.
+h.	Holiday Limited Duty -HLD- (Red) - indicates an employee was eligible to work the holiday, but was not allowed to do so due to the fact that there was no job openings available for an employee on limited duty status.
+If insufficient personnel volunteer to work the holiday on a given platoon, reverse seniority shall prevail and personnel may be ordered to work. In the event sufficient personnel are still not available to meet Department needs, holiday assignments shall be offered to personnel from the remaining platoons. If lieutenants are needed to work, the lieutenants with the greatest seniority, in rank, by unit or section as applicable, shall be given the opportunity to work. If sergeants are needed to work, the sergeants with the greatest seniority, in rank, by unit or section as applicable, shall be given the opportunity to work. If investigators are needed to work, the investigators with the greatest seniority, in rank, by unit or section as applicable, shall be given the opportunity to work. If insufficient personnel volunteer to work, reverse seniority shall prevail. Lieutenants, sergeants and investigators shall not be permitted to change platoons in order to work a holiday except as outlined above.
+Members on limited duty status are entitled to participation in the normal continuous rotation of holiday work opportunities. However, their opportunity to receive an assignment is restricted to those assignments which can be performed by a member on limited duty.
+50
+Limited duty positions shall not be created by bumping regularly assigned members from their respective regular job assignments.
+Members temporarily assigned out to other commands shall remain on the holiday roster of their parent command and are fully entitled to work a holiday assignment at those commands when their names are reached. Assigned out members may also work at the temporarily assigned unit provided first, they are entitled by virtue of their position on the holiday list and second, that they do not replace permanently assigned personnel at the temporarily assigned unit.
+E.	All other holiday benefits shall remain unchanged.
+F.	Excused Time Days: Employees shall be granted four (4) hours of "Excused Time" on Good
+Friday or the last four (4) hours on the last scheduled day prior to Good Friday, and eight (8) hours of "Excused Time" on the last scheduled paid day before Christmas Day and before New Year's Day provided they are on the payroll through the holiday in question. Employees shall also be granted eight (8) hours of "Excused Time" on Martin Luther King's Birthday. Employees required to work any portion of the "Excused Time" on these days will receive equal time off for hours worked or straight time cash at the option of the Chief of Police. No holiday premium will be paid for work on these days.
+38.	VACATION SELECTION AND CANCELLATION PROCEDURE
+A.	Employees shall make their furlough selection in accordance with the established schedule of furlough periods:
+1.	Drawing for Summer furlough will be conducted on March 20th. Drawing for Winter furloughs will be conducted on September 20th.
+2.	Furlough selections shall be based on seniority consistent with the efficient operation of the precinct or bureau.
+3.	The criteria for selection of furloughs shall first be rank, then time in rank, and in cases where these factors are equal, by Department seniority.
+4.	Administrative Lieutenants and Sergeants, including I.O.U., Patrol Supervisors, and Special Operation Supervisors, shall draw separately.
+B.	Leave days added to a furlough shall not be canceled unless the accompanying furlough is canceled.
+51
+C.	A member who is promoted or transferred conserves the furlough choice he has made.
+D.	All units may have ten percent (10%) of their investigators and sergeants on furlough at any
+one time unless Management makes a good faith determination that manpower conditions require otherwise.
+E.	The annual furlough shall be divided into two (2) seasons, Summer and Winter. Each furlough season shall consist of thirteen (13) furlough periods, corresponding with the biweekly payroll periods. Each furlough period shall contain ten consecutive days, which shall begin with the first day of the payroll period. The furlough shall also include the standard number of leave days granted in connection with the furlough.
+F.	For furlough periods in the first half of the pay period, the leave days will be attached to the
+end of the furlough period.
+For furloughs taken in the second half of the pay period, leave days will be attached to the end of the furlough period up to the end of the pay period. Members will then have the option of selecting the remainder of the standard number of leave days (5) if chosen either prior to the beginning of the furlough period or into the subsequent pay period utilizing leave days from the subsequent pay period if they choose.
+G.	Except as modified in paragraphs D, E and F above, vacation benefits and vacation selection procedure shall continue unchanged.
+39.	EMERGENCY OR EXCUSED DAYS
+A.	Personal, emergency, or excused days shall be granted to an employee for an absence justified by urgent reasons such as attendance to demanding personal business which cannot be normally taken care of outside of working hours.
+B.	Not more than five (5) such personal, emergency, or excused days shall be granted in any one fiscal year to an employee under any circumstances. All personal, emergency, or excused days that are granted shall be deducted from the employee's accumulated sick bank and will, consequently, affect the accumulation of bonus vacation days.
+C.	Any member under the restrictions of the attendance control program (D.P.D. 350) shall not
+be allowed to have emergency or excused days deducted from his sick banks and will be carried Absent No Pay.
+52
+40.	MEAL PERIOD
+A.	Each employee is entitled to one-half (1/2) hour unpaid meal period per tour of duty.
+B.	Employees assigned to inside duty shall be permitted, during their meal period, to leave their
+work locations.
+41.	UNIFORMS
+A.	The members of the bargaining unit shall continue to be provided with uniforms and accessories in accordance with present practice.
+B.	Effective July 1,1983, each member of the bargaining unit shall receive an annual uniform cleaning allowance of $250.00 per year payable the first payroll period each fiscal year.
+42.	EDUCATIONAL REIMBURSEMENTS
+A.	Members eligible for a tuition refund shall submit their applications pursuant to the Police Manual Volume IV, Chapter 7, Section 10. The maximum amount of the tuition refund shall be as indicated below in accordance with the Tuition Refund Program policies as administered by the Human Resources Department:
+1.	An eligible employee will be entitled to receive a maximum of $850.00 per fiscal year to be applied towards tuition in seeking a graduate degree from an accredited university.
+2.	An eligible employee will be entitled to receive a maximum of $700.00 per fiscal year to be applied toward tuition in seeking an undergraduate degree from an accredited university.
+3.	An eligible employee will be entitled to receive a maximum of $600.00 per fiscal year to be applied towards payment in participation in employee development programs.
+B.	The above amounts cannot be pyramided to permit any employee to receive more than a total
+amount of $850.00 in any fiscal year.
+53
+43.	PRINTED AGREEMENT
+The City agrees to furnish the Association 2000 copies of this Agreement printed in book form, the format and galley proofs to be approved by the Association prior to printing. The Association shall bear no expense for such printing.
+44.	HOSPITALIZATION, MEDICAL INSURANCE AND OPTICAL CARE
+A.	The City shall provide hospitalization and medical insurance based on the Blue Cross/Blue Shield ward service under the Michigan Variable Fee coverage (MVF-2) and the Prescription Drug Group Benefit Certificate with two dollar ($2.00) co-pay (Certificate #87), known as the two-dollar ($2.00), deductible Drug Rider for employees and their legal dependents, duty disability retirees and their legal dependents, and duty death beneficiaries and their legal dependents, as provided by Chapter 13, Article 8 of the Municipal Code of the City of Detroit. Legal dependents shall include all 19 to 25 year olds eligible for coverage under the terms and conditions as set forth in the Blue Cross/Blue Shield guidelines for dependents in this age group, and sponsored dependents (i.e., those over 25 years of age) eligible for coverage under the terms and conditions of the Blue Cross/Blue Shield guidelines for Sponsored Dependents. The cost containment features of Rider PRFS, HPCP-A, HPCP-B, PD-MAC, PCES, and PCES-II shall be applicable to this hospitalization plan. The hospitalization plan for active employees and their dependents shall include BC Master Medical insurance with a 20% co-pay benefit and a $50.00 per person annual deductible ($100.00 for two or more in a family). The same premium cost for this hospitalization plan may continue to be applied to the Bankers Life program for other benefit improvements in that program as requested by the Association.
+Employees shall have the option of choosing alternative hospitalization medical coverage made available by the City. The City's contribution to the alternative plans shall be limited to the premium cost for Blue Cross/Blue Shield ward service rates, excluding dental insurance. Total Health Care, OmniCare, Health Alliance Plan, Comprehensive Health Services of Detroit, Blue Care Network, Blue Cross/Blue Shield Preferred, Blue Cross/Blue Shield Community Blue Preferred, and Bankers Life and Casualty shall comprise the list of alternative hospitalization plans. The City shall have the right to remove any carriers who do not enroll more than fifty (50) employees in the entire City.
+Effective July 1,1987, the Blue Cross/Blue Shield Plan shall include the Preferred Provider Prescription Drug Plan for active employees.
+Effective July 1, 1987, the Blue Cross/Blue Shield Plan for retirees shall include the Preferred Provider Prescription Drug Plan.
+54
+B.	The City will pay to the optical plan or program selected by the Association an amount per employee equal to the premium cost for the Blue Cross/Blue Shield A-80 Optical Plan.
+This provision shall be effective July 1,1987.
+C.	For employees who retire on or after July 1,1977, the City will pay the premium for regular retirees and their spouses, including deferred vested retirees and their spouses.
+1.	Spouses of persons who retire on or after July 1, 1987 and who elect the straight life retirement allowance or cash refund annuity option 1, shall be eligible for health insurance paid by the City as long as the retiree receives a pension.
+2.	The following provisions will apply to employees who retire prior to July 1, 1987:
+a.	With respect to employees who are promoted into the bargaining unit on or after July 1,1982 and who retire after July 1,1982 and who elect the straight life option under the retirement system, the City will pay no hospitalization premium for the retiree's spouse after the death of the retiree.
+b.	With respect to the members promoted into the bargaining unit prior to July 1,1982, who elect the straight life option, the City will pay hospitalization premium upon retirement for the retiree's spouse at the death of the retiree unless said spouse was not the spouse of said retiree at date of retirement.
+D.	The City will pay to the Dental Plan or program selected by the Association an amount per employee equal to the premium cost for the Blue Cross/Blue Shield program which provides Class I benefits on a 25% co-pay basis and Class II and III benefits on a 50% co-pay basis, with Class I, II and III benefits not to exceed $ 1,000 per person per year and also orthodontic coverage on a 50% co-pay basis with a $1,000 life time maximum. Coverage shall be provided to all employees and their dependents, and duty disability retirees and their dependents, except that newly-hired employees must complete 1,040 straight time hours of work before becoming eligible to receive dental care benefits.
+E.	If during the term of this Agreement, a Federal Health Security Act is enacted, the City of
+Detroit will pay during the term of the Agreement any premium, taxes or contributions employees may be required to pay under a Federal Health Security Act that are specifically earmarked or designated for the purposes of the Federal Program.
+F.	The parties agree to form a health care cost containment committee made up of an equal number of members from the City and from the DPLSA which may review changes in the future in health insurance plans. Any proposed changes must be ratified by each of the parties in accordance with their normal ratification procedures. Matters not ratified by both sides may not be implemented.
+G.	Provided the payroll system has the capability, any employee premium sharing, if any, will
+55
+be withheld on a bi-weekly basis, before payroll taxes are applied.
+H.	Employees who are on the active payroll of the City, covered by a health care plan offered by an employer other than the City, and, can establish such coverage, who do not elect to take hospitalization-medical coverage offered by the City, may, each enrollment year, at the time of the enrollment period, opt out from City coverage and for said enrollment year receive the applicable payment being offered by the City as payment in lieu of the hospitalization-medical coverage. Once an employee opts out for a given year, the employee will not be able to receive the City's coverage until the next enrollment period, unless the employee loses his eligibility for the alternate coverage, unless, and in such case, the employee will be permitted to resume coverage with the City the month following his completion of a health application and transfer form. The provisions of this section shall be applicable to an employee who is or does retire and is eligible to receive hospitalizationmedical insurance coverage. If the employee returns to the City's coverage under the conditions just stated, the employee shall pay back pro rata any payment provided herein. The opt-out stipend will be paid for each enrollment year that the employee elects to opt out under this provision. This payment will not be included in the definition of compensation for determination of pension or any other benefits.
+In order to be eligible for the incentive payment, employees must bring their identification card that shows other coverage to the Police Personnel Office and submit a signed enrollment form electing "no coverage" on or before the City's open enrollment deadline. A copy of the identification card will be kept on file. All employees are required to sign an election form, either enrolling or declining coverage.
+The provisions of this section shall be applicable to an employee who retires and is eligible to receive the City's hospitalization-medical insurance coverage.
+These opt-out provisions may be offered at the discretion of the City, which shall have the sole discretion to determine the amount of the stipend for each year. For the period beginning January 1, 2000, the yearly stipend for all categories shall be a total of $950 in cash payments paid in four (4) equal installments ($237.50) at the end of each three month period (paid as closely as possible to September 30th, December 31st, March 31st, and June 30th), or applicable proportional payment amounts and/or installments for the equivalent proportions of the year covered, in lieu of the hospitalization-medical coverage offered by the City. Except for the initial half-year beginning as of January 1,2000, this election shall take place annually during the open enrollment period. Such stipend, at the City's discretion, may be modified each year and for each category of opt-out. These opt-out provisions may be terminated by the City at any time.
+I.	There shall be no duplicate hospitalization-medical insurance coverage or payments in lieu thereof provided employees or future retirees of the City. If the City employs more than one member of a family, or the family unit includes a retiree of the City, all of whom could be eligible for coverage under one hospital-medical insurance policy or plan as a spouse or eligible dependent, the spouses or eligible dependents of that family shall be covered by only
+56
+one spouse or the other. It is the responsibility of the family to select a single hospitalization carrier. Under no circumstances shall the City be obligated to provide more than one hospitalization-medical policy or plan.
+J.	For an employee who retires after July 1, 1999 under a retirement which makes him or her eligible to receive the City's hospitalization-medical insurance coverage for himself and his family, but who is, subsequent to such retirement, eligible to receive a medicalhospitalization insurance plan from another employer that provides substantially the same coverage and benefits as offered by the City and at no greater premium co-pay than exists at the time of retirement, shall not be entitled to the City's coverage during the period of other employment. He shall be entitled to receive any applicable payment in lieu of hospitalization-medical insurance then being offered by the City pursuant to the provisions of Article 44, Section H. above, recognizing that for each year the retiree is subject to this provision, the other insurance offered must meet the substantial coverage-benefit, including co-payment test.
+45.	DEATH BENEFITS AND LIFE INSURANCE
+A.	Death Benefits
+Death benefits for all regular City employees are authorized by the City Charter, Title IX, Chapter VIII. The City Code, Chapter 13, Article 8, Section 13-8-8 currently provides a death benefit of $6,000.00.
+1.	Membership
+Mandatory for regular employees
+2.	Contributions
+By the City - $20.70 per year per employee
+By the employee - 250 per week or $13.00 per year
+If during the term of this Agreement, the Employee Benefit Board approves an increase in the death benefit eligible for payment to members of the plan, the parties agree that this increased benefit will be applicable to employees covered by this Agreement.
+B.	Payment for employees killed or permanently disabled in the line of duty:
+1.	A lump sum duty death benefit of $ 10,000 shall be paid to the beneficiaries or estate of employees who are killed or who die as a result of injuries sustained in the actual performance of their duties in accordance with the City Council resolution of August 23, 1977 page 1683, March 2, 1954, page 509 and March 26, 1974, page 627.
+57
+2.	A lump sum payment of $10,000 shall be made to any employee who is totally and permanently disabled from illness or injury arising solely out of the actual performance of his duties. "Totally and permanently disabled" shall be defined exclusively as follows:
+a.	Total and permanent loss of sight of both eyes.
+b.	Loss of both legs or both feet at/or above the ankle.
+c.	Loss of both arms or both hands at/or above the wrist.
+d.	Loss of any two of the members or facilities enumerated in (a), (b), or (c).
+e.	Permanent and complete paralysis of both legs or both arms or one leg and one arm.
+f.	Incurable insanity or imbecility. Claims for this payment shall be made in accordance with the City Council resolution of March 26, 1974, page 627.
+Employees who receive a permanent disability under this article shall be ineligible for the $10,000 Duty Death Benefit described in Section #1, above.
+Denial of the $10,000 Duty Death Benefit may be appealed directly to arbitration in accordance with Article 9 of this Agreement.
+C.	Group Life Insurance
+A group life insurance program for the employee and his family is available for all members of the Employees Benefit Plan on an optional basis, under the provisions of the City Code, Chapter 13, Article 9.
+1.	Membership:
+Optional for members of the Employees Benefit Plan.
+2.	Contributions:
+Effective April 1,1990, the City shall pay 100% of the premium for insurance up to and including $35,000 for each member plus $5,000 for each dependent.
+Additional life insurance may be purchased through this plan at the employee's expense.
+Employees and their dependents who are on a duty disability retirement shall be covered by this program.
+58
+46.	RECALL PAY
+Employees are entitled to recall pay at a time and one-half (1!4) rate if recalled to duty after reporting off duty and before their next tour of duty. A minimum of two hours will be granted to a recalled member. Travel time, not to exceed one-half hour each way, shall be granted for travel to and from the duty station when the total time worked exceeds one hour.
+The recall rate shall not be paid when a member works continuously beyond his normal tour without first being relieved. The recall rate shall terminate as of the hour that his next regular tour was scheduled to begin and he will not receive any travel time back to his residence.
+Recall pay shall not be granted when:
+a.	A mobilization has been ordered;
+b.	Leave, furlough, bonus vacation days or compensatory time days have been canceled;
+c.	A member has been directed to appear in court;
+d.	A member is given notice of a change in shift starting time prior to his going off duty.
+47.	PERFORMANCE EVALUATION RATINGS
+A.	Rating Periods
+Performance evaluation ratings will be completed twice a year for all members. The rating period shall be from May 1st through October 31st, and November 1st through April 30th.
+The May through October ratings shall be completed during the month of November and forwarded by December 1 Oth, to be reviewed per the distribution outline. Final distributions will be completed by December 20th.
+The November through April ratings shall be completed during the month of May and forwarded by June 10th, to be reviewed per the distribution outline. Final distributions will be completed by June 20th.
+B.	Each sergeant and lieutenant shall be rated by his or her immediate supervisors.
+C.	Upon completion of the rating, each member will be personally informed of their respective
+evaluations by the immediate supervisor who prepared the evaluation. The member being rated will sign the original and second copy in the space indicated. The third copy is then given to the member for his use. The original shall be placed in the member's personnel file.
+59
+D.	Any member who wishes to appeal his performance evaluation must make a written request
+to his commanding officer within thirty days of receiving his copy of the evaluation and must identify each trait he is appealing and cite a brief basis for appealing that rating. The Personnel Bureau will convene the Performance Evaluation Board to hear the matter as expeditiously as circumstances permit. The member shall be entitled to representation by an Association representative, legal counsel, or both at the hearing. However, if both attend, only one may actively represent the member at the hearing. If the member desires representation by legal counsel, the Personnel Bureau shall receive five days notice.
+48.	OPTIONAL ANNUITY WITHDRAWAL
+A.	A member shall have the right to elect to receive on the effective date of his service retirement a partial or total refund of his accumulated contributions. If a member makes such an election, an annuity payable under any retirement allowance or reduced retirement allowance shall be reduced proportionally. If the total accumulated contributions are withdrawn, no annuity shall be payable.
+The limitation of fifteen twenty-seconds of the maximum eamable compensation of a patrolman and fireman continues in effect. For purposes of determining the fifteen twenty-seconds limitation, a computation based on the annuity which is an actuarial equivalent of the accumulated contributions standing to a member's credit in the annuity savings fund prior to any partial or total refund will be used.
+This provision affords the members of this collective bargaining unit a similar option available to members of the general retirement system pursuant to 1973 amendment K. The parties agree that no other benefits or amounts payable pursuant to the Policemen and Firemen Retirement System are affected by this contractual provision.
+B.	On or after July 1, 1974, members or former members who are entitled to begin to receive the "40 & 8" benefit will be entitled to the annuity refund withdrawal option.
+C.	On or after July 1, 1974, non-duty disability retirants who retired pursuant to Title IX, Chapter VII, Article IV, Section 1, a, b or c prior to having twenty-five years of service credit, shall be entitled to the annuity refund withdrawal option on the date he would have had twenty-five years of service credit had he continued as an active member. Said option shall only apply to the balance of accumulated contributions, if any, remaining in such retirant's credit in accordance with the existing annuity refund provisions.
+D.	Survivor benefit beneficiaries as defined in Title IX, Chapter VII, Article VI, Part E, Section
+2,	parts (a) (b) and (c) of the 1918 City Charter in effect as of June 30,1974, and continued in effect by Section 11-102 of the July 1, 1974 City Charter shall be entitled to the annuity withdrawal refund option subject to the same rules that would have been applicable to the deceased member or members had he not died. Said option shall only apply to the balance
+60
+of accumulated contributions, if any, remaining in applicable former member's credit.
+E.	In any case of doubt, the Board of Trustees shall decide whether a member or beneficiary is entitled to an annuity refund withdrawal option.
+F.	In addition to the provisions of this Agreement, pension charter and ordinance provisions and all other pension rights of the members, a member shall have the right on or after the effective date of his becoming eligible for a full service retirement allowance (members who have 25 years of creditable service) to elect to receive a partial or total refund of his accumulated contributions to the Annuity Savings Fund. If a member makes such an election, an annuity payable under any retirement allowance or reduced retirement allowance shall be reduced proportionally. If the total accumulated contributions are withdrawn, no annuity shall be payable. If a member makes such an election, the retirement allowance shall be reduced to reflect the value of the annuity withdrawn. The amount of the annuity at the time of such election shall be the amount used at the time of retirement for purposes of computing the retirement allowance. Members who complete their required years of service, shall have the right to withdraw all or part of their accumulated contributions whether they choose to retire or not.
+G.	An employee who is entitled to a retirement allowance under Article VI, Part A, Section 4 of the Policemen and Firemen Retirement System and who leaves the employ of the Police Department of the City of Detroit on or after July 1, 1982 shall have the right to elect to receive on the effective date of termination a partial or total refund of his accumulated contributions. The pension portion of his retirement allowance shall be computed as if the member had not withdrawn his accumulated contributions from the annuity Savings Fund until the date he was eligible to retire had he continued in City employment.
+H.	For employees who retire on or after July 1,1990, and who have made or make an election to receive a total or partial refund of his or her accumulated contributions to the Defined Contribution Plan, there shall be no reduction of retirement allowances due to the portion of withdrawal representing interest credits. This subsection "H" shall be controlled by the requirements of the Act 312 arbitration award issued June 25,1990 (MERC Case No. B89 C-0622), page numbers 22 and 23.
+49.	MILITARY SERVICE CREDIT
+A.	Any member who performed military service prior to employment by the City of Detroit and
+inclusion in the pension system may claim service credit as a member of the retirement system for time spent in the military service in accordance with Ordinance 356-H of the Ordinances of the City of Detroit.
+B.	This provision shall be retroactive to July 1,1983.
+61
+50.	PENSIONS - ADOPTION BY REFERENCE
+A.	Chapter VII of Title IX of the previous Charter of the City of Detroit, as adopted by Article
+11 Section 11 -102 of the present Charter of the City of Detroit as previously amended to July 1, 1977, is incorporated herein by reference and made a part hereof to the same extent as if it were specifically set forth herein, except for changes in specific provisions or portions of provisions which are set forth in other sections of this Agreement.
+B.	Further, the parties hereby agree that said pension plan or any of its provisions may not be changed except in those areas which are administrative in their function and do not change the substantive benefits of the employees.
+51.	PENSIONS
+A.	The City agrees that in the Policemen and Firemen Retirement System Article VI, D and Article VI, E, all references to "widow" shall include "widower" and in Article VI, E, Section 2(a), the disability and dependency restrictions on widowers shall be removed.
+B.	The contributions, required by Article VII, Sections 8 (b) and 8 (c) of the Policemen and Firemen Retirement System, to the Survivor's Benefit Fund shall be eliminated.
+C.	Effective July 1, 1992, add to the Policemen and Firemen Retirement System, Article VI, part B, Section 2.1(b) the following:
+"... with the specific exception that for those members who receive benefits under Section 2.1(a), above, the ‘average final compensation’ used in this computation shall mean the current maximum salary for the rank(s), grade(s) or position(s) which would have been held by the member over the sixty (60) months prior to retirement (reduced disability/service retirement when the member would have attained a total of twenty-five (25) years of credited service) had he/she continued working in that classification which he/she held at the time of his/her disability. For members who begin receiving such benefits on or after July 1,1998, the amount of the member’s most recent full longevity payment shall be included in the definition of average final compensation.
+D.	Average Final Compensation: Definition
+1.	The average final compensation for "old plan" members is calculated by using the current maximum salary for the rank(s), grade(s) or position(s) held by the member over the sixty (60) months just prior to the member's elective date of retirement. The salary is obtained from the Official Compensation Schedule for the fiscal year prior to the member's elective date of retirement and an average is determined. For members retiring on or after July 1,1998, the amount of the member’s most recent full longevity payment shall be included in the definition of average final compensation.
+62
+2.	The average final compensation for "new plan" members, retiring on or after July 1,1992, is calculated using the current maximum salary for the rank(s), grade(s) or position(s) held by the member over the sixty (60) months just prior to the member’s elective date of retirement. The salary is obtained from the Official Compensation Schedule for the fiscal year prior to the member’s elective date of retirement and an average is determined. For members retiring on or after July 1, 1998, the amount of the member’s most recent full longevity payment shall be included in the definition of average final compensation.
+E.	Effective June 30,1986, the requirement that a member as defined in Article IV, Section 1(d) of the Policemen and Firemen Retirement System shall attain age 55 to be eligible for retirement shall be eliminated. Such members will be eligible to retire after 25 years of service regardless of age.
+F.	Reduced Early Pension Benefits
+(40 & 8 Vesting Retirees)
+1.	Members who terminate employment who are eligible for a pension pursuant to Article VI, Part A, Sec. 4 of the Policemen and Firemen Retirement System (40 & 8) provision shall have the option of receiving an immediate, but reduced early pension benefit in lieu of a deferred pension.
+2.	This reduced early pension benefit shall not result in an increase in employer contribution rates, therefore, the value of the Reduced Early Pension Benefit shall be the actuarial equivalent of the 40 & 8 pension.
+3.	No other benefits or amounts payable pursuant to the Policemen and Firemen Retirement System including benefits available to persons who retire under Article VI, Sec. 4 shall be affected by this contractual provision. Health insurance benefits payable under this provision will commence when the member would have been eligible to retire with a service retirement under Article VI of the Pension Plan.
+4.	Upon termination, an employee vesting his pension must within 90 calendar days make an irrevocable election as to whether or not to take this option.
+5.	Individuals who terminated prior to July 1, 1986, are not eligible for this option.
+6.	An employee who receives a lump sum payment for accumulated time upon termination is not allowed to have that time count towards his retirement service.
+7.	Since LSA members are eligible to begin collecting their vested pension as soon as they would have been eligible to retire had they continued their City employment, minimum retirement age (i.e., age 55) shall not be a factor in computing their actuarially reduced pension benefit.
+G.	Members of the Policemen and Firemen Retirement System as defined in the previous
+63
+charter of the City of Detroit - Chapter VII of Title IX, Section 2 of Article II as adopted by Article 11, Section 11-102 of the present charter of the City of Detroit as previously amended to July 1, 1977; who were in the service on or after July 1, 1941 but prior to January 1, 1969 and are still active members shall have the option of retiring under any existing plan of the pension system (i.e., amendment ofNovember 5,1969 or previous plan) commonly known as new plan and old plan.
+H.	Effective July 1,1992, members of the police-fire pension system shall be entitled to change
+their pension option from either option 2 or option 3 to a straight life pension after they have commenced collection of the pension if the member's beneficiary predeceases the member. The actuarial cost of the change in benefit shall be borne by the member who seeks change in his option election. The pop-up option shall be based upon the investment return assumption as recommended by the Board’s actuary and adopted by the Board of Trustees.
+I.	Persons who are retired on disability pensions pursuant to Article VIB of the Policemen and
+Firemen Retirement System shall be entitled to lump sum payments of all accumulated time from the date that the Board of Trustees determines that they are entitled to such a pension. Members shall not be required to utilize such time delaying their retirement date.
+J.	Pension-Employer Contribution
+The employee contributions to the Policemen and Firemen Retirement System Annuity Fund, although designated as employee contributions, shall be paid by the City of Detroit in lieu of contributions by the employee. The employee shall not have the option of choosing to receive the contributed amount directly instead of having them paid by the employer to the annuity fund. There shall be no additional contribution expense to the City of Detroit, and the amounts so contributed by the employer on behalf of the employee shall be treated, for tax purposes, as employer contributions and thus shall not be taxable to the employee until these amounts are distributed or made available to the employee.
+This provision shall not affect the amount or benefit level of the retirement allowance, or the City of Detroit's obligation thereto.
+The wage rate for members of the bargaining unit shall not be altered or changed in any way as a result of this contract clause. Consequently, this provision shall not affect the basis upon which Longevity, Sick Leave Payoff, Holiday pay, Overtime pay, Recall pay, Court time, Rank Differential, Roll call preparation time, final average earnings, etc., or any other wage-based benefit is computed.
+The effective date of this provision is January 1, 1987.
+K.	Pension Multiplier
+1.	Effective July 1,1992, each member who retires on or after said date shall be entitled to a pension which when added to the annuity, will provide a straight life retirement allowance equal to 2.1 % of his/her average final compensation, multiplied by the number
+64
+of years and fraction of a year, of his/her creditable service, not to exceed thirty-five (35) years service for new plan members and twenty-five (25) years service for old plan members.
+2.	Effective July 1, 1997, each member who retires shall be entitled to a pension which when added to the annuity will provide a straight life retirement allowance equal to 2.5% of his/her average final compensation multiplied by the number of years and fraction of year of his/her creditable service for the first twenty-five (25) years.
+For years of service over twenty-five (25) years the multiplier shall be 2.1 %. Maximum years of service for pension credit shall be thirty-five (35) years for new plan members and twenty-five (25) years for old plan members.
+L.	On or after July 1,1992, and the first of July each year thereafter, the pension portion of any
+retirement allowance or death benefit of a member or beneficiary of a member as defined in Article IV, Section 1(d) of the plan provisions, and Article 51,G of this Agreement (to include those members who opt to retire under the new plan provisions) shall be increased at the rate of 2.25% per annum computed on the basis of the amount of the pension received at the time of retirement by all new plan members who are currently retired or who retire on or after July 1, 1992.
+For persons retiring on or after July 1,1998, under the new plan provisions, the 2.25% per annum escalation amount shall be re-computed each fiscal year on the basis of the amount of pension received in the previous fiscal year (i.e., the 2.25% per annum escalation amount shall be compounded).
+M.	Effective July 1, 2000, members shall have the option of selecting a 75% surviving beneficiary option.
+N.	Duty Disability Retirement Provisions
+1.	As applicable to all current employees who file applications for disability retirement on or after June 30,1998, and to all future employees, the definition of "total disability" and "total incapacity" in the Policemen and Firemen Retirement System pension plan will be changed to read as follows:
+Own Occupation: During the first 24 months of benefits, total disability exists when, due to injury, illness or disease, an employee is unable to perform, for wage or profit, the material and substantial duties of the employee's occupation.
+Any Occupation: After the first 24 months of benefits, total disability exists when, due to illness, injury or disease, an employee is unable to perform, for wage or profit, the material and substantial duties of any occupation for which the employee is suited, based on education, training and experience.
+2.	a. The duty disability retirement benefits payable to an eligible member shall consist
+65
+of the amount derived from the sum of the applicable following factors and annual escalators in accordance with the definitions of "own occupation" and "any occupation" as set forth in paragraph 1. above.
+(1	) Part A. A basic duty disability benefit amount which is 50% of the member's final compensation at the time his duty disability retirement began.
+(2	) PartB. A supplemental duty disability benefit which is 16 2/3% of the member's final compensation at the time his duty disability retirement began.
+(3	) Escalators. On July 1st of each year, the amounts of Parts A and B then payable will each be increased by adding to said amounts the product of 2.25% times the initial amount of said Part A and B benefit which was computed at the time the duty disability retirement began.
+b.	For the first 24 months that a member is on duty disability retirement his benefit shall be the sum of Parts A and B plus applicable escalators.
+c.	After 24 months, a member who is disabled from any occupation shall continue to receive a duty disability retirement benefit which is the sum of Parts A and B plus applicable escalators. After the expiration of the period when the member would have attained 25 years of creditable service had he continued in active service, payment of Part B will cease.
+d.	After 24 months, a member who is not disabled from any occupation shall only receive Part A plus applicable escalators as his duty disability retirement benefit.
+e.	Conversion. Duty disability retirement benefits shall continue to be paid to a member on duty disability retirement after the member has attained 25 years of credited service, to the earlier of (i) the member's attainment of age 65, or (ii) termination of disability as determined by the third party administrator (TP A). Upon termination of disability or attainment of age 65, a member with 25 years of credited service shall be eligible to receive a service retirement benefit. The amount of such service retirement benefit shall be the same amount which would have been payable if the conversion from duty disability retirement to service retirement had occurred at the date of attaining 25 years of service credit.
+f.	If a member on duty disability retirement returns to active service and within a 24 month period re-qualifies for duty disability retirement for the same or related reasons he had been retired, then the disability shall be deemed a continuation of the prior disabling condition and the period of the return to work will not have caused the employee to be entitled to a new initial determination of Part A and B benefit amounts as set forth in sub-paragraphs 2.a.(l) and 2.a.(2) above. Instead, such employee will return to retirement at the point he had reached in sub-paragraphs 2.b., 2.c. or 2.d. above as if there had not been a break in his period of placement on duty disability retirement.
+66
+g.	Non-duty disability benefits will continue to be calculated as provided by the City Charter.
+h.	Disability retirement benefits shall continue to be considered Charter benefits which are paid instead of and not in addition to any benefits under the State Workers' Disability Compensation Act.
+i.	Survivor Benefits. Survivor benefit coverage applicable to active members shall be continued during the period a member is eligible for a duty disability benefit. Upon conversion to a service retirement benefit as provided in 2.e., automatic survivor benefit coverage shall terminate. At that time, the member shall have the right to elect an optional form of payment in the same manner as if he had retired from active membership on the conversion date.
+3.	Pension Credit While on Duty Disability Status.
+a.	While eligible to receive duty disability benefits, regular defined pension service credit shall continue to accrue.
+b.	The accrual of regular defined benefit pension service credit will cease when the member has 25 years of credited service.
+4.	Earnings Offset.
+a.	In the event that a recipient of a duty disability retirement benefit receives earned income from gainful employment during a calendar year, the amount of the member's disability benefit payable during the next subsequent fiscal year will be adjusted so it does not exceed the difference between (i) the member's base salary at the date of disability, increased by 2.25% times the number of full years from the date of disability to the year in which the earnings offset is applied, and (ii) the amount of remuneration from gainful employment during the prior calendar year.
+b.	The earnings test shall be based on information the TPA may periodically require from a duty disability benefit recipient or have secured from other reliable sources. Furnishing such information shall be a condition for continued eligibility for a duty disability benefit.
+5.	Annuity Withdrawal. The current withdrawal provision of the retirement system will continue. If a duty disability recipient elects annuity withdrawal after attaining 25 years of credited service, the applicable benefit reduction will offset the duty disability benefit until the conversion date, after which it will offset the converted service retirement benefit.
+6.	The disability retirement procedure will be revised as follows:
+a.	The function now performed by Medical Boards of Review with respect to the
+67
+determination of whether an applicant is disabled will be performed by a qualified physician or surgeon in the appropriate specialty at Detroit Receiving Hospital or such other medical facility as may subsequently be mutually determined by the Union and the City. If either the Union or the City desires to terminate the services of the medical facility, it shall give notice in writing to that effect to the other party, specifying the date of termination. The parties shall then send a joint written notice to the medical facility of its termination. Neither party may terminate the services of a medical facility unless it has heard at least one case. Once the medical facility has received written notice that its services are terminated, it shall hear no further cases. However, the medical facility shall render decisions on all cases where the applicant has been examined and evaluated prior to receiving such notice. The medical facility will select the doctor who will perform the examination and evaluation. The medical finding of this physician or surgeon as to whether the applicant is disabled shall be final and binding on all interested parties.
+b.	If the applicant is determined to be disabled, the Board of Trustees or its designee will examine the pension file, including the submissions of the applicant and the Police Department, to determine if there is any dispute as to whether the disability "resulted from the performance of duty" within the meaning of the pension plan. If it is undisputed that the disability did result from the performance of duty, the Board of Trustees will grant duty disability retirement benefits. If it is undisputed that the disability did not result from the performance of duty, the Board of Trustees will grant non-duty disability retirement benefits, provided the applicant meets the other conditions of eligibility, e.g., five years of creditable service. If the performance of duty issue is in dispute, the Board of Trustees will refer the matter to arbitration by a member of the Disability Retirement Review Board (DRRB). The decision of the DRRB member as to whether the disability resulted from the performance of duty shall be final and binding upon all interested parties. The DRRB shall consist of 3 qualified arbitrators who will be individually assigned in rotating order to decide the matters referred to arbitration by the Board of Trustees. By March 1, 1998, the Union and the City shall convene and select 3 disinterested persons qualified as labor arbitrators to serve as members of the DRRB. The procedure for the termination of umpires and the selection of new umpires currently in use by the DPOA and the Department shall apply to the termination and the selection of new DRRB arbitrators.
+c.	The hearing before a member of the DRRB will be conducted in accordance with the following procedures:
+(1)	The applicant and the City will have the right to appear in person or otherwise, may be represented by counsel if they wish and will be afforded an equal opportunity to present evidence relevant to the issues;
+(2)	A court reporter will be present and make a stenographic record of the proceedings;
+(3)	The hearing will be closed to the public, except that the applicant may select one
+68
+person to be with him in the hearing room; provided, however, that person may not testify;
+(4)	The witnesses will be sequestered;
+(5)	The witnesses will be sworn by the court reporter and testify under oath;
+(6)	The applicant may not be called by the City as an adverse witness;
+(7)	The DRRB member will apply the rules of evidence and follow the procedures which are customarily applied and followed in labor arbitration cases;
+(8)	If the applicant wishes to have an employee of the City released from duty to appear as a witness on his behalf, the applicant may so inform the Board of Trustees in writing which, in turn, will submit a written request to the appropriate Department executive for the release of the employee for the purpose of so testifying;
+(9)	The DRRB member will afford the parties an opportunity for the presentation of oral argument and/or the submission of briefs;
+(10)	The DRRB member will issue a written decision containing credibility resolutions as necessary, findings of fact and conclusions with respect to all relevant issues in dispute. The decision of the DRRB member shall be final and binding on all interested parties;
+(11)	The authority of the DRRB member is limited to deciding whether or not the applicant's disability "resulted from the performance of duty" within the meaning of the Pension Plan. The DRRB member shall have no authority to add to, subtract from, modify or disregard the terms of the Pension Plan; and
+(12)	The costs associated with the hearing, including the arbitrator's fees and expenses, and the court reporter's fees and expenses, shall be paid by the Board of Trustees.
+d.	A Third Party Administrator (TPA) mutually selected by the Union and the City shall provide all ongoing duties of administering the disability benefits after initial eligibility has been determined. These duties shall include:
+(1)	Monthly payment of benefits;
+(2)	The former duties of the Medical Director for conducting investigations to assure continuing eligibility for disability retirement benefits, including the annual reexamination of disability beneficiaries;
+(3)	Conducting investigations to determine any earnings the disability beneficiary may have for offset to system benefits; and
+69
+(4)	The TP A shall have reasonable powers to insure compliance with re-examination and proof of earnings requirements including the withholding of monthly payments until compliance is achieved.
+e.	If a disability beneficiary is determined by the TPA to no longer be disabled, he may appeal that determination within seven (7) days thereof by filing a written request with the TPA for a re-examination by a qualified physician or surgeon at and selected by the medical facility identified in paragraph 6.a. above whose medical finding will be final and binding. The TPA shall promptly arrange for such re-examination. The applicant's disability benefits will be continued pending that final and binding medical finding, and if the finding is that the applicant is no longer disabled, his disability benefits will be further continued while the Police Department is conducting such examinations and/or investigations as necessary to determine whether the applicant is qualified for reappointment to active duty. In the event that the examinations and/or investigations conducted by the Police Department result in a determination that the member is not qualified, for medical reasons, for reappointment to active duty, disability benefits will be continued.
+f.	In the event that the Union and the City are unable to reach agreement upon the medical facility to perform the functions described in paragraph 6.a. or the TPA to perform the functions described in paragraph 6.d. of this section, within thirty (30) days after a vacancy occurs, each shall nominate one choice as its selection and after reviewing any materials submitted and considering any arguments advanced by the parties in support of their respective nominations, a member of the DRRB shall decide which of the two nominees shall serve as the medical facility or the TPA.
+7.	The Board of Trustees shall not act upon or grant the application filed by an officer who, although he is not capable of performing the full duties of a police officer, has not suffered any diminishment of his base wages or benefits because he is either:
+a.	regularly assigned to a position, the full duties of which he is capable of performing; or
+b.	assigned to a restricted duty position, unless the Police Department advises that it intends to seek a disability retirement for the officer in the foreseeable future.
+8.	The provisions in paragraph 7 above are not intended to and will not:
+a.	affect the officer's right to seek a disability retirement when no restricted duty position is available; or
+b.	restrict in any way the existing authority of the Chief of Police to seek a duty or nonduty disability retirement for an officer or for that officer at that time to request a duty or non-duty disability retirement.
+70
+52.	ADOPTION BY REFERENCE OF RELEVANT CHARTER PROVISIONS, ORDINANCES AND RESOLUTIONS
+The parties further agree that subject to this Agreement, all provisions of the City Charter, the Ordinances and Resolutions of the City Council as previously amended from time to time and in effect as of August 20,1979, relating to the working conditions and compensation of employees covered by this Agreement, upon the execution of this Agreement, are incorporated herein by reference and made a part thereof to the same extent as if they were specifically set forth.
+53.	MAINTENANCE OF CONDITIONS
+A.	Wages, hours and conditions of employment legally in effect at the execution of this Agreement shall, except as improved herein, be maintained during the term of this Agreement. No employee shall suffer a reduction in such benefits as a consequence of the execution of this Agreement.
+B.	Relation to Regulations, etc.: This Agreement shall supersede any rules, regulations, ordinances, or resolutions inconsistent herewith.
+54.	WAGES AND DIFFERENTIAL
+A.	Wages - July 1, 1998 through June 30, 2001 - Base Salary
+1.	Effective July 1,1998, the salaries for all employees shall be increased by 2% over that being paid effective June 30, 1998.
+2.	Effective July 1,1999, the salaries for all employees shall be increased by 3% over that being paid effective June 30, 1999.
+3.	Effective July 1,2000, the salaries for all employees shall be increased by 4% over that being paid effective June 30, 2000.
+B.	Cash Bonus Formula
+All employees on the regular payroll on June 30,2001, shall be eligible to participate in a possible cash bonus which shall be determined and paid in accordance with the following rules, conditions and limitations:
+1.	A cash bonus not exceeding 2% will be payable if the City reports a General Fund Surplus for the City’s 2000-01 fiscal year. A General Fund Surplus for purposes of this provision shall be the Undesignated portion of the Unreserved Fund Balance. The City
+71
+represents that it will maintain its designated portion of unreserved fund balance in a prudent and responsible manner, consistent with past practices. For reference purposes only, the General Fund Surplus reported in the City’s Comprehensive Annual Financial Report for the year ended June 30,1998 was $13,380,061 (page 63).
+2.	The amount of any such surplus will be determined by using the City’s official annual audited results of the 2000-2001 Fiscal Year.
+3.	If such surplus funds do exist, the legally required portion of those funds must first be deposited to the Budget Stabilization Fund.
+4.	From any such surplus funds remaining after the preceding deposit has been made, 1/3 of such funds (the approximate proportion of the City budget that is made up of salary and wages and which amount is referred to as the "wage/salary surplus allocation" in the balance of this subsection) shall be used as the numerator in the following formula: The percent amount of the cash bonus will be calculated by dividing the amount of the wage/salary surplus allocation by the total budgeted allocation for Salaries and Wages for General City Agencies in 2000-01 for City employees and then multiplying the result of that computation by 100. For reference purposes only, the budgeted allocation for Salaries and Wages as reported in the official 1998-1999 Budget was $530,220,595 (page V).
+5.	Any bonus will be paid just one time from the one-time surplus funds remaining from City operations and monetary receipts within Fiscal Year 2000-2001 and shall not increase the employee’s base rate of pay.
+6.	The cash bonus shall be based on the employee’s base wage (2,080 hours of straight time regular payroll hours for the job classification the employee is officially holding on June 30, 2001). In order to receive the full bonus payment, the employee must have worked at least 1,800 straight time regular payroll hours in the fiscal year. Employees with less than 1,800 hours but 520 hours or more shall be entitled to a pro-rated amount based upon l/12th of the bonus percent for each month the employee worked at least 160 straight time regular payroll hours.
+7.	Such cash bonuses shall be paid as soon as possible after the official annual audit is available and all the necessary resulting calculations are made.
+C.	Differential - In no event shall the percentage differential between the salaries of police investigator and the maximum salary of police officer and the differential between the salary of police sergeant and the maximum salary of police officer and the percentage differential between the salary of police lieutenant and the maximum salary of police officer be less than the following schedule:
+Police Investigator
+(1)	Upon promotion	11 %
+(2)	Upon confirmation or upon completion of
+one (1) year in rank, whichever occurs later 12%
+72
+No police investigator currently a member of the Lieutenants' and Sergeants' Association bargaining unit, shall suffer any reduction in salary or current differential as a result of the execution of this Agreement.
+Police Sergeant
+(1)	Upon promotion	20%
+(2)	Upon confirmation or upon completion of
+one (1) year in rank, whichever occurs later 21 %
+(3)	Upon completion of three (3) years in rank 22%
+(4)	Upon completion of four (4) years in rank 23%
+(5)	Upon completion of six (6) years in rank 24% .
+No police sergeant, currently a member of the Lieutenants and Sergeants' Association bargaining unit, shall suffer any reduction in salary or current differential as the result of the execution of this Agreement.
+Police Lieutenant
+(1)	Upon promotion	35%
+(2)	Upon confirmation or upon completion of
+one (1) year in rank, whichever occurs later 36%
+(3)	Upon completion of three (3) years in rank 37%
+(4)	Upon completion of four (4) years in rank 38%
+(5)	Upon completion of six (6) years in rank 39%
+No police lieutenant, currently a member of the Detroit Police Lieutenants and Sergeants’ Association bargaining unit, shall suffer any reduction in salary or current differential as the result of the execution of this Agreement.
+55.	JURY DUTY
+A.	All employees who serve on jury duty on regularly scheduled work days exclusive of leave days, furlough days and holidays will be paid the difference between their pay for jury duty and their regular straight time pay for all days they are required to serve on jury duty.
+73
+B.	In the event that an employee reports for jury duty but does not actually serve on jury, he will be paid the difference between the jury pay received and his regular day's pay and be excused for the day.
+C.	In order to receive payment for jury duty supplementation, an employee must have been regularly scheduled to work on a non-overtime basis, must give reasonably prompt prior notice to his supervisor that he has been summoned for jury duty, and must furnish satisfactory evidence that he reported for or performed jury duty on the days for which he claims such payment, provided that the commanding officer shall have discretion in seeking to have the employee excused when his services are essential. The provisions of this section are not applicable to an employee, who, without being summoned, volunteers for jury duty.
+D.	Employees shall have the option when called to jury duty to use vacation, bonus vacation or compensatory time for such service. In that event, the employee will not be required to turn in his jury pay. However, the employee must notify the Department of his desire to exercise this option prior to the first date of jury service.
+If the date for jury duty falls upon a day when the employee is scheduled to work other than Platoon 2, the Department, upon request of the employee, will rearrange the employee's working schedule so that he will be carried working Platoon 2 on that date(s). If the date for jury duty falls upon a holiday an employee is scheduled to work, the employee shall be allowed to attend jury duty without loss of the employee's holiday work opportunity.
+E.	For payroll purposes, jury duty shall be considered as time worked.
+F.	An employee on jury duty will be continued on the payroll and be paid at his straight time
+hourly rate of his normally scheduled hours of work. Upon return from jury duty, the employee shall present evidence of the amount received from such jury duty and return that amount to the City, less any mileage allowance paid for the jury service.
+If an employee fails to turn in his jury duty payment, the City will hold subsequent payments due to the employee until the City is reimbursed for all time lost due to the alleged jury duty service.
+G.	Where employees once impaneled are excused for days or parts of days, reimbursement shall
+be made only for time served. Employees should otherwise be expected to report for work.
+56.	POLICE AND FIRE PENSION BOARD
+The Board of Trustees shall consist of eleven (11) trustees, as follows:
+1.	The Mayor of the City or his/her designated representative, ex-officio.
+2.	The President of the City Council, or another member thereof elected by the City
+74
+Council, ex-officio.
+3.	The City Treasurer or Deputy City Treasurer, ex-officio.
+4.	The Chief of Police or a designated representative appointed to serve in his/her absence, ex-officio. This representative shall be a person in the Police Department and shall serve at the pleasure of the Chief.
+5.	The Fire Commissioner or a designated representative appointed to serve in his/her absence, ex-officio. This representative shall be a person in the Fire Department and shall serve at the pleasure of the Commissioner.
+6.	Three Firefighters who are members of the system to be elected by the Firefighter members under such rules and regulations as may be established by the Fire Commissioner to govern such elections. Such trustees shall consist of:
+a.	Two to be elected by and from members holding the rank of Lieutenant (or its equivalent) and lower ranks.
+b.	One to be elected by and from the members holding rank above the rank of Lieutenant (or its equivalent).
+7.	Three Police Officers who are members of the system to be elected by the Police Officer members under such rules and regulations as may be established by the Police Chief to govern such elections. Such trustees shall consist of:
+a.	Two to be elected by and from the members holding the rank of Lieutenant (or its equivalent) and lower ranks.
+b.	One to be elected by and from the members holding ranks above the rank of Lieutenant (or its equivalent).
+Annual elections shall be held in the Police and Fire Departments during the month of May to elect a trustee to fill the vacancy created by the expiration of a term.
+In each such election the members entitled to vote shall be those of classes provided above, the term of whose representative is about to expire. The terms of office for all elected trustees shall be three (3) years. Elected trustees holding office on the effective date of this provision shall serve the remainder of their term.
+57.	PROMOTIONS
+A.	In accordance with the terms of the Act 312 award issued June 25, 1990, (MERC Case No.
+B89 C-0622), the existing rights of the City and the Union shall remain unchanged.
+75
+B.	Performance evaluation ratings for promotional consideration shall be utilized in accordance
+with past practice except as to investigators who are testing for the rank of sergeant. In the case of such investigators, if the investigator has less than two (2) years seniority in the rank of investigator by the date of the examination, the Department shall use the higher averaged rating of either of the following:
+1.	The last two (2) performance evaluation ratings received by the investigator when that member was a police officer.
+2.	The last two (2) performance evaluation ratings as an investigator.
+After two (2) years in the rank of investigator, performance evaluations shall be used in accordance with normal practice.
+C.	Appointments to the rank of inspector shall be made at the discretion of the Chief of Police in accordance with his authority under the City Charter.
+The authority of the Chief of Police to make "charter" promotions to the rank of Lieutenant shall be limited in the following respect. No more than one "charter" promotion to Lieutenant shall be made for thirteen (13) promotions to that rank. For purposes of applying this provision, the permissible number of "charter" promotions will be based upon the cumulative number of promotions in that rank made after the effective date of this award (D98 F-0944).
+58.	DRUG TESTING
+Members of the bargaining unit shall be subject to the drug testing program in accordance with the terms of the Act 312 award issued June 25, 1990, (MERC Case No. B89 C-0622).
+59.	SAVINGS CLAUSE
+A.	If any article or section of this Agreement or any supplement thereto, should be held invalid
+by operation of law or by any tribunal of competent jurisdiction, or if compliance with or enforcement of any article or section should be restrained by such tribunal, the remainder of this Agreement and supplements shall not be affected thereby, and the parties shall enter into immediate collective bargaining negotiations for the purpose of arriving at a mutually satisfactory replacement for such article or section.
+B.	The execution of this Agreement shall be without prejudice to any pending grievances, arbitration or other litigation except where the subject matter in dispute may be resolved herein.
+76
+60.	EXTENT OF AGREEMENT
+The parties acknowledge that, during the negotiations which resulted in this Agreement, each had the unlimited right and opportunity to make demands and proposals with respect to any subject or matters not removed by law from the area of collective bargaining and that the understandings and agreements arrived at by the parties after the exercise of that right and opportunity are set forth in this Agreement.
+61.	EFFECTIVE DATES/DURATION
+It is agreed between the parties that this contract shall continue in full force and effect until 11:59 p.m. June 30,2001. If either party desires to modify this contract it shall give written notice within six (6) months of the expiration date of this Agreement and negotiations for a new contract shall commence thirty (30) days after that date.
+In the event that the City and the Association fail to arrive at an agreement on wages, fringe benefits, other monetary matters, and non-economic items by June 30, 2001, this Agreement will remain in effect on a day-to-day basis. Either party may terminate the Agreement by giving the other party a ten (10) day written notice on or after June 20, 2001.
+'ll
+IN WITNESS WHEREOF, the parties hereto have executed this
+Agreement on this
+2000.
+DETROIT POLICE LIEUTENANTS AND SERGEANTS ASSOCIATION:
+CITY OF DETROIT:
+Labor Relations
+Gary k/j^entTGroup Executive
+
+Human Resources Director
+es Gawlowski, ergeant-at-Arms
+Law Department
+Napoleon / Chifef of Police
+J/Edward Hannan, Director Finance Department
+Be
+78
+EXHIBIT I OFFICIAL COMPENSATION SCHEDULE
+CLASS .CODE	TITLE	JULY 1,1998	JULY L 1999	JULY 1,2000	JANUARY 1, 2001
+33-10-16	Police Investigator	$46,206 - $46,623	$47,593 - $48,022	$49,497 - $49,943	$50,492 - $50,947
+33-10-21	Police Sergeant	$49,953 -$51,618	$51,452-$53,167	$53,511 -$55,294	$54,586 - $56,406
+33-10-31	Police Lieutenant	$56,197-$57,862	$57,883 - $59,598	$60,199-$61,982	$61,409-$63,229
+33-12-21	Senior Communications Officer-Police Sergeant	$49,953 -$51,618	$51,452-$53,167	$53,511 -$55,294	$54,586 - $56,406
+33-12-22	Senior Radio Maintenance Officer-Police Sergeant $50,129 - $51,798		$51,633 -$53,352	$53,699 - $55,487	$54,778 - $56,603
+33-12-33	Supervisor of Radio Systems and PlanningPolice Lieutenant	$57,459 - $59,162	$59,183 -$60,937	$61,551 -$63,375	$62,788 - $64,649
+33-12-34	Supervisor of Operators- Police Lieutenant	$57,459 - $59,162	$59,183 -$60,937	$61,551 -$63,375	$62,788 - $64,649
+33-12-35	Supervisor of Radio Maintenance-Police Lieutenant	$57,459-$59,162	$59,183 -$60,937	$61,551 -$63,375	$62,788 - $64,649
+79

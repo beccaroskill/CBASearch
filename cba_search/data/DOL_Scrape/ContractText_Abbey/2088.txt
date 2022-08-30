@@ -1,0 +1,569 @@
+﻿COLLECTIVE AGREEMENT
+between
+AJW TECHNIQUE Inc.
+and
+THE INTERNATIONAL ASSOCIATION OF MACHINISTS
+AND AEROSPACE WORKERS
+represented by
+DISTRICT LODGE 140
+on behalf of
+TECHNICAL PERSONNEL AND MATERIAL CONTROLLERS
+January 14, 2013 to January 14, 2018
+AJW
+technique
+TABLE OF CONTENT
+Glossary of terms............................................ iii
+1.	Purpose of the agreement ...................................1
+2.	Union Recognition...........................................2
+3.	Rights of management .......................................2
+4.	Employee Classification - Rates of pay .....................3
+5.	Seniority..................................................16
+6.	Recruitment and selection .................................18
+7.	Leave of Absence ..........................................19
+8.	Lay-off and Recall ........................................20
+9.	Time away from work .......................................24
+10.	Statutory Holidays ........................................27
+11.	Maternity and Parental ....................................27
+12.	Bereavement ...............................................27
+13.	Sick days .................................................27
+14.	Emergency Borrowed time....................................29
+15.	Group Benefits Plan........................................29
+16.	Pension Plan...............................................30
+17.	Harassment ................................................30
+18.	Uniform and work boots.....................................31
+19.	Discipline and Dismissals..................................32
+20.	Complaints, Grievances and Disputes Grievance procedure ...34
+21.	Arbitration................................................35
+22.	Health and Safety..........................................37
+23.	Union Membership and Union Dues............................40
+24.	Union representation.......................................41
+
+25.	Release for Union Business.................................42
+26.	Release for Negotiations...................................42
+27.	Work schedule .............................................43
+28.	Overtime ..................................................44
+29.	General....................................................45
+30.	Employee personal file and pay provisions .................46
+31.	Obligation of successor and change in operations ..........47
+32.	Technological change ......................................48
+33.	Training and Development ..................................48
+34.	Subcontracting ............................................48
+35.	Renewal, Amendment and Termination.........................49
+
+Glossary of terms
+In this Agreement, the terms below shall have the following meanings unless otherwise specified. Terms found in specific articles in this Agreement shall also have the same meaning when found elsewhere in this Agreement:
+Agreement - Means the Collective Agreement in effect, including agreed upon amendments or interpretations thereto and covered by Letters of Agreement signed by responsible Company and Union Officers/Representatives.
+CARs-Canadian Aviation Regulations.
+Classification - A classification as described in Article 4.1.
+Classification Seniority - The length of service in the classification, calculated from the date the employee enters the classification.
+Company - Refers to AJW Technique Inc., located at 7055 Alexander Fleming St, Suite 100, Saint Laurent, Quebec, Canada.
+Company Service Date - The date marking the beginning of continuous employment with the Company.
+Day Off - A continuous twenty-four (24) hour period during which an employee is free from all work-related duties.
+Employee - Any person who is employed by the Company who is in the bargaining unit covered by this Agreement.
+Expedited Arbitration - An arbitration procedure that allows the parties to settle grievances and disagreements using a simplified process in a timely manner.
+Sexual Harassment- Any conduct, comment, gesture or contact which, sexually, is likely to offend or humiliate an employee or which may be reasonably interpreted by the latter as placing a condition of a sexual nature on employment or on any opportunity for training or promotion.
+iii
+Personal Harassment and or discrimination - As any discrimination on the basis of race, national or ethnic origin, colour, religion, age, gender (including pregnancy and delivery), sexual orientation, sex, family status, marital status or disability.
+Psychological Harassment - Vexatious behaviour in the form of conduct, verbal comments, actions or gestures that are hostile or unwanted, that affect the employee’s dignity, psychological or physical integrity, or that make the work environment harmful.
+Statutory Holiday - Means a holiday as provided for in Article 10.
+Month - Means a unit of time equal to a calendar month (example: February 15th to May 15th equals three (3) months).
+Normal Work Week - Means the number of hours and days of work in a week, as further described in Article 27.
+Operational Requirements - Are the requirements inherent to the operation of the workplace. These may include (but shall not be limited to) factors such as staffing numbers, hours of operation, etc. When the “Operational Requirements” clause is invoked, the Company must include sufficient detail to enable the Union to thoroughly understand such requirements.
+OJT - Means on the job training.
+Salary (Annual base salary) - Salary earned during the period from January 1 to December 31; which includes regular hours, paid sick days, holidays and paid vacation (excluding premiums and bonuses) .
+Shift - Means the start and end time of the workday within the work schedule.
+Uniform - Means all mandatory clothing and accessories defined by the Company, as described in Article 18.
+Voluntary - Means done without compulsion or obligation, without constraint or pressure.
+Work Schedule - Means the number of hours and days of work in a week.
+iv
+1.	Purpose of the agreement
+1.1	The purpose of this Agreement is, in the mutual interest of the Company and the employees, to provide for the operation of the Company’s services under methods, which shall further, to the fullest extent possible, ensure the safety of air transportation and the efficiency of operation. It is recognized by this Agreement to be the duty of the Company and of the employees to cooperate fully, both individually and collectively, for the advancement of that purpose to define the relation between the Company and the Union, the wages and working conditions of employees of the Company represented by Union and the means by which complaints, grievances and disputes shall be resolved promptly and equitably.
+1.2	The personnel include Cell Lead, Avionic technician, Maintenance and Calibration Technician, Mechanical Technician, Machinist, Process Technician and Material Controller. Except in cases where gender is specifically mentioned, the male gender is used in this text to represent both sexes, without discrimination against men or women.
+1.3	The English and French versions of the present document are both official. In the event there is a difference between the English and French versions, preference shall be given to the English version.
+1.4	Electronic copy of the Collective Agreement will be available at all time in the Company’s electronic portal and printed copies will be available in both French and English upon request to the Human Resources Department. The cost to translate and print the Collective Agreement shall be covered entirely by the Company.
+1
+2.	Union Recognition
+2.1	The Company recognizes the Union as the exclusive collective bargaining agent for all employees identified in Article 1.2, in accordance with the certification document issued by the Canada Industrial Relations Board, under the provisions of the Canada Labour Code, unless otherwise directed by the Canada Industrial Relations Board.
+2.2	No employee covered by this Agreement shall be interfered with, restrained, coerced, or discriminated against by the Company, because of memberships in or lawful activity on behalf of the Union.
+3.	Rights of management
+3.1	The Union acknowledges that it is the exclusive function of the Company:
+a)	To maintain order, structure and efficiency, and to establish all Company policies and procedures;
+b)	To hire, classify, direct, transfer, promote, allocate training, demote, layoff, discipline and dismiss employees, provided that this does not breach any terms of the Collective bargaining Agreement and exercised in a just and reasonable manner;
+c)	To manage the industrial enterprise in which the Company is engaged and without restricting the generality of the foregoing, to determine the number and location of plants, the kinds and locations of machines, tools and equipment to be used, the control of materials and parts, components, the schedules of production and the extension, limitation, curtailment, or cessation operations, and to study and introduce new improved methods, processes, materials and facilities, and to establish rules and regulations covering the operation of its business provided that the said rules shall be
+2
+consistent with this Collective bargaining Agreement. If any of the previous occurs, written notice shall be given to the Union Chief Steward. Notice shall be given in advance of the occurrence where possible, if not as soon as reasonably possible.
+4.	Employee Classification - Rates of pay
+4.1	Employee Classifications
+The classifications of employment recognized by the Company are:
+•	Maintenance and Calibration Technician;
+•	Avionics Technician;
+•	Mechanical Technician;
+•	Machinist;
+•	Process Technician;
+•	Material Controller;
+•	Cell Lead
+4.2	Management reserves the right to add additional classifications.
+4.3	Terms, qualifications and wages for any new classification shall be communicated to the Union.
+4.4	For reference purposes only, the job classification for employee previously employed by Aveos would compare as follows:
+3
+Aveos Categories______________________AJWT Classifications
+Cat 9 - Avionic/Electronic Standards Cat 23 - Plant & Ground Equipment Maintenance (Mechanical) Cat 24 - Plant Maintenance (Electrical)	Maintenance and Calibration Technician
+Cat 8 - Electrical Accessories Overhaul & Repair Cat 16 - Instrument Overhaul & Repair Cat 22 - Radio & Electronic Overhaul & Repair	Avionic Technician
+Cat 7 - Mechanical & Fuel System Accessories Overhaul & Repair Cat 17 - Machine & Fitting (Mechanical unit only) Cat 15 - Wheel and Rubber	Mechanical Technician
+Cat 17 - Machine & Fitting (except Mechanical unit)	Machinist
+Cat 14 - Painting Cat 18 - Heat Treat & Processing Cat 29 - Engine Parts Cleaning & Blasting	Process Technician
+Stock keeper	Material Controller
+4.5	The definitions of classifications listed in this article are for
+information purposes only and cannot be interpreted as a limit to the Company’s right to assign an employee to carry out duties of a classification other than his own, on condition that the employee is judged to have the required capability, that this does not affect his working conditions and that it does not become a regular practice.
+4.5.1	Maintenance and Calibration Technician
+Key responsibilities include but are not limited to the following: Inspect, repair, test, calibrate and certify test rigs, test bench, any equipment related to repair, maintain, overhaul of aeronautical or non-aircraft product. Train and recommend qualification by OJT.
+4
+4.5.2	Avionic Technician
+Key responsibilities include but are not limited to the following: Inspect, repair, overhaul, test and certify aeronautical avionics, electrical components, instruments and related equipment. Train and recommend qualification by OJT.
+4.5.3	Mechanical Technician
+Key responsibilities include but are not limited to the following: Inspect, repair, overhaul, test and certify aeronautical hydro-mechanical, mechanical and electrical components, safety related components and related equipment and systems. Train and recommend qualification by OJT.
+4.5.4	Machinist
+Key responsibilities include but are not limited to the following: Inspect, manufacture and repair aeronautical and non-aircraft parts and tooling using conventional and numerical machine tools and equipment. Train and recommend qualification by OJT.
+4.5.5	Process Technician
+Key responsibilities include but are not limited to the following: Clean, blast, paint, inspect, chemically treat and heat treat aeronautical and non-aircraft parts and equipment. Train and recommend qualification by OJT.
+4.5.6	Material Controller
+Key responsibilities include but are not limited to the following: Inspection, handling, movement, and control of all materials and components from receipt through dispatch, delivery, with the exception of when being used in active production. Train and recommend qualification by OJT.
+5
+4.5.7	Cell leads
+Subject to final Company authority, are accountable for the efficient running of the cell for which they are responsible. Specifics include but are not exclusive to the following:
+•	Assign work;
+•	Coordinate and document vacation, overtime and emergency bank time;
+•	Establish and maintain training schedule;
+•	Give directions as to proper use of equipment, work methods and procedures, safety practices;
+•	See that assigned personnel are properly utilized;
+•	Perform the tasks for which he has qualification and certifications;
+•	Responsible to supervise the team members and performance;
+•	Perform incidental paperwork;
+•	Coordinate workflow of the cell;
+•	Coach, mentor and train.
+4.6	Non-unionised employees shall exercise the right to perform
+duties that are typically done by the employees covered by this Agreement to ensure resources are available in order to complete the task or tasks, as long as this does not affect the unionised members’ job security and all other options to utilize existing employees. Including but not exclusive to changes in shift or overtime have been considered. On occurrences where this action happens, they must be discussed with the Union Chief Steward prior to the action taking place unless, due to time constraints, this is not feasible.
+6
+4.7	Notwithstanding the scope of responsibility (job classification) assigned to each employee, the Company reserves the right to utilise an employee temporarily in any role to ensure efficiency of the total production requirement.
+4.8	Rates of pay
+Before January 14, 2018, the remuneration for all persons previously employed by Aveos and covered by this Agreement, with the exception of material controllers shall be as defined in table 4.8.1. For Process Technicians, hourly rate is defined as part of 4.8.3. Where the previous Aveos positions are no longer in existence, the employee shall be remunerated based upon the salary for the related AJW Technique classification as defined in table 4.4.
+4.8.1 Pay scale
+Aveos	Pay Level	Rates of Pay
+Junior 4	1	$21.90
+Mechanic 1	2	$22.80
+Mechanic 2	3	$23.65
+Mechanic 3	4	$24.08
+Mechanic 4	5	$26.40
+N/A Cell lead only	6	$29.04
+AJW Technique employees, who were not previously employed by Aveos, shall be employed on the salary policy that will be formulated between the Union and the Company no later than November 1st, 2013. The salary shall not exceed the maximum of $26.40, with the exception of Cell leads, which shall not exceed $29.04. Should the Company and union fail to formulate a policy by November 1st, 2013, table 4.8.1 shall stay in effect until the salary policy is defined and agreed in writing by both parties.
+The Company and Union agree to be bound to work towards a new skills and competencies salary map and use its
+7
+principles and methodology in order to formulate the new salary policy. This will be based on the Skills and Competencies Salary Map outlined in 4.8.3. This model shall be implemented for all employees as of January 14, 2018.
+4.8.2 The Skills and Competencies Salary Map establishes the procedure to progress an employee from one level to another within their classification. Once an employee has acquired the prerequisite requirements for the next level AND the Training Committee has approved those qualifications (refer to 4.8.3), the employee shall be granted the next salary level within his classification.
+Qualifications are grouped by Family. Each Family Group is characterised by a level of difficulty (level C being the simplest, B, intermediate and A, the most complex). For example, within the fuel cell, the Family Groups could be as follows:
+Family Group C:	-	Fuel Boost pump
+-	Gear box motor
+-	Gear pump engine
+Fuel general (nozzles, actuator and valves)
+Family Group B:	-	Fuel LPATCC
+-	Fuel HPTCC
+-	Fuel EVC-EVBC
+Family Group A:	-	Fuel MFC
+-	Fuel FMU-HMU
+8
+4.8.3 Skills and Competencies Salary Map
+Classification	Level	Certification Required	Qualifications Required	On the Job Training (OJT)	Pay Level
+Maintenance and Calibration Technician	Junior Technician Level 1		Entry level	Trainee	1
+	Junior Technician Level 2		Minimum 2 units from C Family Group	Trainee	2
+	Certified Technician Skill Level 1	SCA	Minimum 3 units from C Family Group	Train Others on qualified units	3
+	Certified Technician Skill Level 2	SCA	Level 1 completed AND 3 units from B Family Group	Train Others on qualified units	4
+	Certified Technician Skill Level 3	SCA	Level 2 completed AND 3 units from A Family Group	Train Others on qualified units	5
+Avionics Technician	Junior Technician Level 1		Entry level	Trainee	1
+	Junior Technician Level 2		Minimum 2 units from C Family Group	Trainee	2
+	Certified Technician Skill Level 1	SCA	Minimum 3 units from C Family Group	Train Others on qualified units	3
+	Certified Technician Skill Level 2	SCA	Level 1 completed AND 3 units from B Family Group	Train Others on qualified units	4
+	Certified Technician Skill Level 3	SCA	Level 2 completed AND 3units from A Family Group	Train Others on qualified units	5
+Mechanical Technician	Junior Technician Level 1		Entry level	Trainee	1
+	Junior Technician Level 2		Minimum 2 units from C Family Group	Trainee	2
+	Certified Technician Skill Level 1	SCA	Minimum 3 units from C Family Group	Train Others on qualified units	3
+	Certified Technician Skill Level 2	SCA	Level 1 completed AND 3 units from B Family Group	Train Others on qualified units	4
+	Certified Technician Skill Level 3	SCA	Level 2 completed AND 3 units from A Family Group	Train Others on qualified units	5
+9
+Classification	Level	Certification Required	Qualifications Required	On the Job Training (OJT)	Pay Level
+Machinist	Junior Technician Level 1		Entry level	Trainee	1
+	Junior Technician Level 2		Minimum2 units from C Family Group	Trainee	2
+	Certified Technician Skill Level 1	SCA	Minimum 3 units from C Family Group	Trainee	3
+	Certified Technician Skill Level 2	SCA	Level 1 completed AND 3 units from B Family Group	Train Others on qualified units	4
+	Certified Technician Skill Level 3	SCA	Level 2 completed AND 3 units from A Family Group	Train Others on qualified units	5
+	Junior Technician Level 1		Entry level	Trainee	$15.00
+	Certified Technician Skill Level 1	SCA	Cleaner Blaster only	Train Others on qualified skills	$19.43
+Process Technician					
+	Certified Technician Skill Level 2	SCA	Painter OR Heat treat and Cleaner blaster	Train Others on qualified skills	$23.65
+	Certified Technician Skill Level 3	SCA	All three skill sets	Train Others on qualified skills	$26.40
+4.8.4	Training committee or committees’ objective is to review the progress and training plan for all individuals. The committee shall be comprised of relevant personnel for each classification as defined by Management. They shall comprise as a minimum of the following: relevant Cell Lead for classification being discussed: a Management representative, HR Business Partner, Union Chief Steward. The decision of the committee shall be final. The committee shall meet on a minimum of every four months.
+4.8.5	The ability for an employee to receive training (on the job or on other forms) in order to progress from one level to another will be subject to business requirements. The Company will make reasonable efforts to accommodate such requests.
+4.8.6	For employees hired into the classification of Material Controller, scheduled advancement in pay will be automatic upon the first day of the pay period
+10
+following completion of one (1) year of service in the level of the salary scale and successful completion of
+SCA.
+4.8.7 Material Controller Pay Scale
+Levels	Seniority	Pay Rates
+Level 1	Less than 1 year	$14.00
+Level 2	1 year completed and SCA	$16.00
+Level 3	2 years completed and SCA	$18.00
+Cell Lead	N/A	$20.00
+4.8.8	Employees formerly employed by Aveos who are hired on or before January 14th, 2018 shall keep the remuneration detailed in Article 4.8.1 and 4.8.3. Prior this date, management shall make available to existing employees the required training in order to meet or exceed the requirements of the Skills and Competencies table referred to in article 4.8.3. Should an employee choose not to undertake training or fail to meet the training requirements by January 14, 2018, he shall only be entitled to the appropriate salary level defined in 4.8.3. Should it not have been possible to make training available, the employee shall maintain his existing salary as defined in 4.8.1.
+4.8.9	Salary levels shall remain in force until January 14, 2016.
+4.8.10	Any work will be considered off-site work when further than thirty (30) km from AJW Technique Inc., Ville Saint-Laurent, QC facility. All off site work shall be paid at the basic pay rate and to a maximum of eight (8) hours per day. Any part day away from home base for a period greater than four (4) hours shall constitute a full working day. All travel expenses shall be in line with the Company travel policy available in the Company electronic portal.
+11
+4.9	Incentive Pay
+Incentive pay will be calculated in three (3) separate portions and is defined on an annual basis. Target shall be set by the Company in the Dec of the previous year for which the bonus calculation is applicable. E.g. bonus goals and objectives set in Dec 2013 will be payable in the financial of 2014. These targets shall be communicated to all employees via the union chief steward. Measurement will be based from January 1st to December 31st. Employees are eligible for a cell bonus where they have been employed for a complete calendar quarter year with the exception that any leave of absence, sickness for greater than ten (10) working days within the quarter. New starters shall be eligible only for on a pro-rata basis for all other bonuses per whole month, rounded down to the nearest whole:
+a)	Company performance: Shall only be payable when the Company is profitable. Company performance objectives will be directly related to the company profitability. This shall constitute a maximum of 5% of the annual base salary of the employee from the previous year.
+b)	Cell or department bonus shall be determined for each cell and calculated based on 5% of the employee’s base salary and in line with predefined annual targets up to a maximum of 5% of their annual base salary, examples are as follows:
+1.	Quality / Warranty : 20%
+2.	Standard hours versus actual hours : 30%
+3.	Attendance : 20%
+4.	Utilisation of available hours : 30%
+12
+c)	Stretch targets are up to a maximum of 5% of basic individual salary and shall be based solely on Company profitability. Targets may be added or changed on an annual basis.
+d)	The Cell bonus (Article 4.9.b) shall be paid on a quarterly basis. All other bonuses shall be paid (if applicable) on an annual basis after financial year has closed.
+4.10	Evaluation/Probation
+4.10.1	Evaluations
+Before January 14, 2018 all vacant positions covered by this Agreement will be offered by qualification and by seniority to candidates from the former AVEOS Fleet Performance Inc. seniority list for applicable categories. All candidates will be subject to an interview process (orientation process) which will be conducted with the Union Chief Steward, the Hiring Manager, and the H.R business partner. The objective of the interview process is to ensure that the applicant is conducive to the spirit, culture and values of the company. The interview recommendation and decision shall be reviewed by the General Manager or designate before an employment offer shall be issued.
+It is also understood that, since qualifications and seniority will be the basis for the interview process, for the mergers of categories, a “dove-tail approach” will be used, as per Article. 4 - Classifications. The limit to this principle will be to ensure enough current categories will be available in the AJW Technique Inc. business.
+13
+In the event that a specific category is not required as part of the AJW Technique Inc. business, the employee’s past category will be a consideration for his hiring in that category.
+Former AVEOS Fleet Performance Inc. employees will be required to complete an evaluation period of ninety (90) working days from the date of hire by AJW Technique Inc. There will be a minimum of two (2) evaluation reviews during the evaluation period. The evaluation expectations shall be agreed between the Chief Steward and the Company. The Chief Steward shall be present during the review process.
+Should an employee previously employed by Aveos Fleet Performance Inc. fail to meet the agreed evaluation expectations, the Company may terminate his employment with just cause. Should the employee disagree with the Company’s decision, the matter will be referred to the District representative and will be given seven days (7) to discuss and review the case with the Company General Manager or designate, and based on the finding, the matter could be moved to expedited arbitration as per Article 21.
+4.10.2	Probation
+Once AJW Technique Inc. has exhausted the former AVEOS Fleet Performance Inc. seniority lists for applicable categories or after January 14, 2018, the Company will consider all new employees as new hires.
+Note: For further clarity, an example would be as follows: Once all employees from the former AVEOS Fleet Performance Inc. category 17 have been contacted and considered for
+14
+employment opportunities as Machinist at AJW Technique Inc., the Company is not obliged to call any other category of the former AVEOS Fleet Performance Inc. for opportunities of employment as Machinist. AJW Technique Inc. is considered to have exhausted the applicable seniority list and may proceed in the hiring of a new employee.
+The probationary period for new employees within the bargaining unit is ninety (90) working days. If the employee is retained in service of the Company beyond that period, he will be considered permanent and his seniority date shall be retroactive to his date of hire.
+All new employees will be subject to a performance review based on performance, attitude and aptitude. There will be a minimum of two (2) performance reviews during this evaluation period.
+The Company reserves the right to extend the probationary periods where it feels further evaluation of the employee is required. In this case, the Company shall inform the union of its decision no less than seven (7) working days before the end of the probationary period.
+Probationary employees will be entitled to all rights and privileges provided by this Agreement, unless detailed otherwise, with the only exception that he may be discharged by the Company without recourse to grievance procedure. A written notice to the Union’s Chief Steward summarizing the decision will follow no later than seven (7) business days.
+A laid off employee who retains seniority as provided under Article 5 or an employee on leave of absence
+15
+(Article 7) shall not be deemed to have separated from employment and shall not require being on probation, should the employee return to work.
+An employee who voluntarily transfers from one classification to another within the scope of this Agreement shall serve a probationary period of sixty (60) working days in the new position. If probation fails, the employee will be returned to his previous classification.
+5.	Seniority
+5.1	Recognition
+All Company employees will be considered new hires. On the date of completion of probation, an employee shall have seniority in the Company retroactive to his date of hire and thereafter, shall accrue seniority as provided herein and will be listed on the Company classification seniority list.
+Exceptionally until January 14th 2018, previous seniority gained through Aveos shall be recognized as applicable for an offer of employment within new merged classifications at the Company (refer to Article 4.4)
+Subject to Article 4.1, an employee’s seniority shall pertain solely to his classification. The classifications which the parties hereto have agreed upon for this purpose are listed in Article 4.1.
+Should an employee be permanently transferred from one classification to another (lateral transfer or promotion), his seniority shall continue to accrue into his old classification until permanency in his new classification. Once the probation has been approved, the employees will restart his seniority in his new classification. Temporarily transferred to a different or higher classification shall not accrue seniority in that classification for that period. The only exception
+16
+refers to permanent Cell Lead positions. In the Cell Lead appointment, seniority shall continue to be accrued in the base classification.
+5.2	Seniority Assignment
+Where there is more than one employee hired into the same classification on the same day, a Human Resources Representative and the Union designate shall conduct a random draw with the new hires present to determine the seniority ranking of the new employees.
+5.3	Loss of Seniority and Employment
+An employee loses his seniority and his job and corresponding privileges when:
+a)	He voluntarily resigns from Company;
+b)	He is discharged for just cause;
+c)	Should he be absent for three (3) consecutive working days without reporting to the Company and without reasonable explanation;
+d)	He is laid off and is not recalled to work within 24 months following his lay-off;
+e)	Should he fail to respond to recall pursuant to Article 8;
+f)	He fails to return to work at the end of a leave of absence without pay, without a valid reason.
+5.4	Seniority list
+Seniority lists shall be posted by the Company, by October 1st each year, in areas that are accessible to all employees. This shall be updated by both the Company’s Human Resources Department and the Union Chief Steward. Within 30 days following the posting date, an employee may contest in writing any error or omission made concerning him. This letter shall be addressed to the Company Human Resources Department and copied to the Union Chief Steward.
+17
+5.5	Any employee who decides to return to the bargaining unit from a permanent non-unionised position within six (6) months of leaving the bargaining unit shall be entitled to return to the bargaining unit, keeping his seniority. This privilege may only be utilised once every five (5) years. Any employee who decides to return to the bargaining unit from a permanent non-unionised position after six (6) months will not have any seniority recognized. This privilege may only be utilised once every five (5) years.
+6.	Recruitment and selection
+6.1	Temporary Vacancy
+6.1.1	Where the skill requirements of specific jobs are required on a non-permanent basis, the Company reserves the right to employ contractors as long as it does not jeopardise the job security of an existing employee.
+6.1.2	Temporary resource requirements shall be engaged on a contractual basis. The terms of this Agreement do not apply for any contractor. Contractors shall not exceed six (6) months of continuous service with the following exception: in the case of a sick leave replacement, extensive training of employees or a maternity leave replacement.
+6.2	Permanent Vacancy
+6.2.1	Whenever new vacancies occur, employees will be given preference. Such positions or vacancies will be filled based on skills, ability, experience, behaviour and qualifications. Seniority shall be the determining factor when the above elements are equal.
+6.2.2	All unionised permanent vacancies will be posted for a period of seven (7) working days on the Company bulletin boards. If no suitable internal applicants are
+18
+brought forward by this posting, the Company will fill the vacancy by other means.
+6.2.3	Employees who are on vacation or on authorized leave of absence during the posting period must apply to the position within the established timelines.
+6.3	Transfers and promotions
+6.3.1	Without prejudice to the right reserved under Article 3 of this Agreement, the Company shall consider seniority, but not as the only factor, when making transfers and promotions. Where essential qualifications, skills, ability, experience, behaviour and aptitude are equal, seniority shall be the determining factor.
+6.3.2	If any employee who has passed his probation period with the Company wishes to change his classification for a lateral transfer or promotion, he shall make such request to his Supervisor, copy the Union Chief Steward in writing and provide his reasons for making such request. The request will be given due consideration by the Company.
+7.	Leave of Absence
+7.1	Leave of absence - Voluntary Unpaid
+Operation requirements permitting, an employee may obtain a voluntary unpaid leave of absence not to exceed twelve (12) months, upon written request to the Human Resources Department. The Human Resources Department shall answer the request within fourteen (14) calendar days of the receipt.
+The details concerning the authorization shall be established in writing, with a copy to the Union Chief Steward.
+19
+The employee on a voluntary leave of absence continues to accumulate seniority except for the purposes of salary progression and acquiring vacation rights.
+7.2	Leave of absence - Compassionate and Family Care
+Compassionate or Family Care leave may be granted to an employee for an emergency or to give care to a sick or injured spouse/partner, parent, child or other dependant and which the Company considers legitimate grounds. Should the Company determine this leave to be without loss of regular pay, it shall be for a maximum of three (3) consecutive days. Additional time may be granted without pay. The employee requiring such leave shall endeavour to provide as much notice as possible to the Human Resources Department.
+7.3	For exceptional leaves of absence, employees shall lose no benefits due to them under the terms of this Collective bargaining Agreement, should the leave of absence be judged to be for fair and with reasonable motive, as interpreted by the General Manager, for an initial period of three (3) months. After this time, all benefits shall be withdrawn unless it has been previously approved by the Company and the Union. Union dues during the leaves of absence will not be collected.
+8.	Lay-off and Recall
+8.1	Before resorting to layoffs, the Company shall notify the
+Union Chief Steward, in writing, thirty (30) calendar days in advance of the proposed layoff date. The Company and the Union Chief Steward shall meet and try to find appropriate alternatives that could be offered to employees and that would prevent or minimize such layoffs.
+8.2	Should causes such as fire, flood, explosion, Act of God, or any unforeseeable work stoppage affecting the operations make it necessary to reduce the working force, twenty-
+20
+four (24) hours notice will be given to the employees by the Company. The employees affected thereby shall be laid off according to classification seniority. In the event of a resumption of operations, the employees affected shall be recalled by classification seniority.
+8.3	The Company shall notify the Union as soon as possible prior to any lay-off. All employees shall receive at least fourteen (14) calendar days’ notice of the lay-off, except in the case of lay-off as defined in Article 8.2.
+8.4	An employee who has been laid off shall be listed according to seniority when he left for twenty four (24) months after the day on which he was laid off. The employee will not continue to accrue seniority but will remain on the list for twenty four (24) months.
+8.5	An employee holding seniority in another category
+(reference Article 5.1), who is unable to retain employment by bumping in the current category, may exercise his bumping right in his former category in accordance with these provisions.
+8.6	Recall
+It is understood that the recall rights herein do not apply to the newly hired employees whose probation has not been completed.
+The employees shall retain their recall rights for twenty four (24) months.
+Recalls shall be done in order of seniority within the classification.
+All recalls shall be done before a transfer request can be granted.
+There shall be two (2) types of recalls: temporary and permanent
+21
+8.6.1	Temporary recalls are for periods of work not to exceed six (6) months. A temporary recall of less than one (1) month does not interrupt the twenty-four (24) month period mentioned in the above paragraph.
+a)	The Company shall identify the duration of the temporary recall (e.g. the starting and ending dates) and shall give the employee a one (1) week notice of lay-off.
+b)	The laid-off employee may refuse any temporary recall offer without losing his recall rights to a permanent position.
+c)	It is the employee's responsibility to provide the Company with a contact point where he can be reached.
+d)	The Company shall inform the employee by telephone of a temporary recall. The employee shall have twenty-four (24) hours to inform the Company that he accepts the recall and another twenty-four (24) hours to present himself for work.
+e)	If the Company is unable to reach the employee after having tried for twenty-four (24) hours, it shall notify the Union Chief Steward, who shall also have twenty-four (24) hours to try to reach the employee. If the employee cannot be reached within these periods, the employer shall repeat the same procedure with the next employee on the recall list.
+22
+8.6.2	Permanent recall is where there is a period of work for a position that is planned to exceed six (6) continuous months.
+a)	Permanent recall shall be by registered mail or email to the address last filed by the employee with the Company, or by personal interview. The Union Chief Steward shall receive a copy of each letter or email and notification for each call made by personal interview. A previous employee with seniority must keep the Company informed of any change of address by registered mail or email to human resources.	It is the employees’
+responsibility to ensure that the employer receives communications
+b)	Should the Company be unable to reach the employee by the above medium, the Union Chief Steward shall be advised and given two (2) working days to obtain a response. Should no response be forthcoming, the employee shall be removed from the seniority listing and will no longer be considered for employment by the company.
+c)	The employee has fourteen (14) calendar days to present himself to work. This delay starts on the date the employee accepts the recall.
+d)	If the employee refuses or fails to present himself within fourteen (14) calendar days following the notice, he shall be considered as having resigned, unless there are exceptional circumstances.
+23
+e)	Moreover, the employee shall notify the employer in writing, within three (3) calendar days following the recall notice that he intends to accept the recall.
+f)	Copies of this notice shall be supplied to the Union Chief Steward.
+9.	Time away from work
+9.1	Vacation
+9.1.1_______The following shall be the Vacation allowance for all _____________employees._____________________________________
+Years of Service (either Aveos or AJWT)	Comment	Entitlement	Leave year
+0 - 5 years	Full years only	10 Days	1st Jan to Dec 31st
+5 - 15 years		15 Days	
+15 years and more		20 Days	
+9.1.2	AJW Technique Inc. Vacation allowance shall be calculated on the first of January every year and only full years from that date shall count towards vacation service periods. This shall be defined as a “leave year”. The vacation allotment shall be pro-rated the first year based on date of hire, with only complete months counting in the calculation. As the employee gains seniority with the Company, the vacation entitlement will be calculated as follows, up to a maximum of twenty (20) days:
+a)	Employees who have completed twelve (12) months of continuous service from January 1 to December 31 shall be entitled to receive ten (10) days of vacation with pay equal to four percent (4%) of his total earnings with the Company during the calendar year;
+24
+b)	Employees who have completed five (5) years of continuous service from January 1 to December 31 shall be entitled to receive fifteen (15) days of vacation with pay equal to six percent (6%) of his total earnings with the Company during the calendar year;
+c)	Employees who have completed fifteen (15) years of continuous service from January 1 to December 31 shall be entitled to receive twenty (20) days of vacation with pay equal to eight percent (8%);
+d)	Vacation will be coordinated at cell level. The Cell Lead, in conjunction with the Manager, is responsible for ensuring operational effectiveness is maintained throughout team members’ vacation period. Vacation within the cell shall be based upon operational requirements only. Should multiple members of staff request vacation during the same period where it will have negative operational efficiency, seniority shall take precedence. Vacation which is already approved cannot be overruled by another employee regardless of seniority;
+e)	Vacation requests in excess of ten (10) consecutive working days shall not be unreasonably denied. However should two or more persons request vacation for the same period and operational risk is judged to be high, the Cell Lead, in conjunction with the Manager, shall review then approve or deny the request.
+25
+f)	Shut down: the Company reserves the right to designate plant shutdown periods throughout the year. This will be communicated in a reasonable timeframe prior to the designated weeks and discussed with the Union. Vacation during this time will be mandatory and be deducted from the employee’s annual vacation allowance. Management reserves the right to insist on minimum resourcing levels during this period;
+g)	All vacation must be approved by the Cell Lead in conjunction with the Manager and recorded through the Human Resources Department;
+h)	Payment of vacation accrual shall be made annually during April for the previous year’s vacation allowance reconciliation as part of regular payroll. Any changes to the payment period can be mutually agreed between the Union Chief Steward and the Financial Controller;
+i)	The Company will consider, at its sole discretion, application for extended periods of leave of absence over and above vacation allowance on an unpaid basis. These requests must be approved by the General Manager.
+9.2	Vacation must be taken within the calendar year.
+9.3	It is the company’s intent to accelerate vacation allowance up to the maximum of twenty (20) days. The feasibility of this intent shall be reviewed with the union on or before the 14 January 2016.
+26
+10.	Statutory Holidays
+10.1	The following statutory holidays shall be observed:
+New Year’s Day
+Good Friday Victoria Day
+St-Jean Baptist Day
+Canada Day
+Labour Day
+Thanksgiving Day
+Christmas Day
+Boxing Day
+10.2	Should the Federal Government legislate a new holiday during the term of this Agreement, which would differ from the aforementioned, said holiday shall be observed.
+11.	Maternity and Parental
+Maternity/ Parental leave will be granted in accordance with the provisions of the Canada Labour Code and/or provincial law where applicable.
+12.	Bereavement
+In the event of a death in the employee’s immediate family or spouse’s immediate family (spouse or common-law spouse, child, grandparent, brother, grandchild, sister, father or mother) he may be absent from work for five (5) days, including three (3) days with pay. In the event of the death of the employee’s son-in-law or daughter-in-law, the employee will be granted one (1) day without pay to attend the funeral (proof may be required, in the way of an obituary).
+13.	Sick days
+13.1	Eligibility: all employees covered by the Agreement, who have successfully completed their probationary period, as per Article 4.10.
+13.2	Eligible employees are entitled to an allowance of three (3) sick days per year on base salary for their classification. Persons joining through the year shall receive a prorated allowance rounded up to the nearest whole.
+27
+13.3	Sick day allowance shall be calculated on an annual basis, from January 1st to December31st.
+13.4	Employees who do not use any or some of the sick day allowance of the current year may carry over any remaining balance to the next year up to a maximum total allowance of five (5) days per year.
+13.5	Should a person become sick while at work, it will not constitute as a sick day as long as they have completed more than four (4) hours work. The employee must advise his Cell Lead or Manager prior to leaving the premises. The Company reserves the right to retract this at any time from an individual.
+13.6	If an employee is unable to work due to illness, he must advise his Cell Lead or Supervisor prior to the start of his shift.
+13.7	When the employee has called sick in excess of three (3) consecutive days, he must provide a doctor’s certificate when he returns to work. The Company reserves the right to request a doctor’s certificate for any sick days taken at any time. The request needs to be made verbally during the period of absence by the Chief Shop Steward.
+13.8	The Company may request in writing that any employee be examined by the Company doctor or doctor nominated by the Company to establish his fitness for work. All such requests shall be made through the Human Resource Department.
+13.9	If, in any situation, the opinions of the Company and the employees’ Physician are conflicting in nature, the Union (the District chairperson) and the Company shall appoint, within five (5) working days, a neutral medical specialist to undertake a further examination.
+28
+13.10	The decision of the medical specialist, based on the results of his examination, shall be conclusive of the issue and not be subject to appeal. The decision shall be rendered within five (5) working days of the medical report from the medical specialist.
+14.	Emergency Borrowed time
+14.1	The emergency borrowed time is to provide the employee with the flexibility to utilise hours, which would normally be part of their standard shift pattern, for an emergency leave. The hours utilised for emergencies would be required to be made up for the absence beyond the standard shift pattern.
+14.2	Emergency bank time will be spent or recuperated at standard hourly rate.
+14.3	Depending on operational requirements, the maximum emergency borrowed time will be minus eight (8) hours. Any request for time off must be approved by the Cell Lead prior to time being taken, and reported to the Manager. Borrowed time shall be used occasionally and shall not become the norm.
+14.4	The Company shall determine when the time owed shall be recovered up to a maximum of thirty (30) days after the event.
+15.	Group Benefits Plan
+15.1	The Company agrees to provide a group insurance plan for all employees as of their date of hire. The plan includes basic group life insurance, group disability income insurance (STD & LTD), basic accidental death, dismemberment and loss of use of insurance, extended health and dental plan.
+15.2	The coverage will be shared at a 70% employer/30% employee ratio.
+29
+15.3	A summary of benefits is included in the brochure available in the Human Resources Department.
+15.4	A Group Benefit Committee will be established no later than September 1st, 2013 and will be comprised of a minimum of two (2) unionized member and two (2) Management representatives. The objective of the committee is to ensure the members’ needs are well represented during the negotiation of the plan’s renewal.
+16.	Pension Plan
+16.1	All employees covered by this Agreement will be required to join the Federal IAM Multi-Employer Pension Plan.
+16.2	The Company agrees to match employees’ contribution at a fix 4.5% of their base annual salary. The contribution will start as of the date of hire and will be issued at the first pay of each month.
+16.3	A summary of the pension plan is included in a brochure available in the Human Resources Department
+17.	Harassment
+The Company, with the support of the Union, agrees to provide a work environment that is free from all forms of harassment (sexual, personal and psychological, as defined in the glossary). The Company must implement all reasonable measures to prevent all forms of harassment and/or discrimination; it is also responsible to ensure it ceases when it is made aware of such conduct.
+The Company, with the support of the Union, agrees to maintain harmonious relations between individuals in the workplace.
+No employee shall be subject to pressure, constraint or discrimination at work or in activities linked to work, that is likely to compromise the employee’s dignity or could have an impact on job security/employment by creating an environment that is intimidating, embarrassing, humiliating or offensive, as established under the
+30
+Canadian Human Rights Act and the Canada Labour Code.
+17.1	Complaint -An employee who believes he is a victim of harassment and/or discrimination may lodge a verbal or written complaint with the Human Resources Department or submit a grievance at any level of the grievance procedure. The Company agrees to keep confidential any information relating to this complaint.
+17.2	The Company shall take the appropriate disciplinary action against any employee who is found guilty of harassment.
+18.	Uniform and work boots
+The Company shall supply the following uniform items annually at no cost to the employee; employees will receive the allotted uniform items listed below. The balance shall be provided once they become full time employees. The employees are responsible for the cleaning and maintenance of uniform.____________
+Item	Permanent allocation	Probation allocation
+Shirts	5	3
+Pants	3	2
+Belt	1	1
+18.1	Should an item be damaged due to reasonable wear and tear within one year of issue, the Company will replace the damaged item providing that it be returned in a timely manner to the Company. The cost for this replacement will be borne at the cost of 100% by the Company.
+18.2	Any lost or damaged uniform components directly due to employee negligence will be replaced at the cost 100% borne by the employee. Employees will have the option to purchase additional items through the Company at their cost. Employees, whose employment terminates with the Company, will return any uniforms provided by the company promptly.
+31
+18.3	Employee shall report to work in full Company uniform. It is the employee’s responsibility to ensure that their uniform is clean and up kept.
+18.4	Boot Allowance
+The Company will provide an allowance equal to $125 every two years to all employees for the purchase of safety footwear, which must comply with CSA/ESD or subsequent applicable regulatory requirements. The payment shall be administered through normal payroll in the form of a biweekly allowance from the date of employment.
+18.5	Safety glasses
+Non-prescription safety glasses will be provided.
+Approved prescription safety glasses will be reimbursed up to a maximum of $150 every twenty four (24) months upon where pre approval has been granted by the Manager. The employee must submit a relevant prescription and receipt.
+19.	Discipline and Dismissals
+When an employee is required to correct a deficient behaviour, attitude or if he is not respecting Company policies or procedures, the Company will proceed with a coaching and counselling approach.
+19.1	Step 1 (informal): Verbal Coaching
+Verbal coaching is the first step in helping an employee to correct a deficient behavior. Although verbal, coaching is required to be recorded by the person conducting the verbal coaching, but will not be kept in the employee’s file. This process is usually carried out by the Cell Lead or immediate Supervisor but is not limited to either. It will also be verbally reported to the immediate supervisor and Union Chief Steward by the person who conducted the coaching.
+32
+19.2	Step 2 (formal)
+Step 2 is initiated when an employee has failed to correct the situation stated in the verbal coaching step or any other breach, incident, or infraction of the Company policies or procedures over the previous year . This step will be given by a Manager in the presence of the HR Business Partner, a Union representative and the employee involved within a reasonable timeframe following the alleged offence. It will be delivered through a meeting of which minutes are to be recorded. The minutes are to be signed as a true and fair representation of the meeting by all attendees. Step 2 letter is to be kept on employee’s file for a period of twenty four (24) months with a copy provided to the Union Chief Steward.
+19.3	Step 3 (formal)
+Should the employee fail to correct the situation or any other infraction of Company policies or procedures (related or unrelated to the previous occurrence), a formal disciplinary letter is initiated. Along with this letter, there will be a suspension without pay for a maximum of up to ten (10) working days. This step will be given by the Operation Director or designate within a reasonable timeframe after the alleged offence, in the presence of the HR Business Partner, Union Chief Steward and the employee involved. It will be delivered through a meeting of which minutes are to be recorded. The minutes are to be signed as a true and fair representation of the meeting by all attendees. Step 3 letter will be retained for a period of Thirty six (36) months with a copy provided to the Union Chief Steward. The purpose of this letter is to allow the employee a final opportunity to retain employment.
+33
+19.4	Step 4 (formal) Dismissal:
+Before commencing proceedings with relation to a dismissal, the Company must advise in writing the Union Chief Steward or delegate. An employee called to a meeting by the Company for a dismissal, has the right to be accompanied by a Union representative. Any dismissal must be communicated in writing, indicating the reasons, with a copy to the Union Chief Stewart. The employee will be expected to be removed from the premises with immediate effect.
+19.5	These steps will be followed in order except where one of the following instances has occurred: an employee’s behavior or actions are deemed gross misconduct, an employee is found to have severely breach confidence, acts in a dangerous manner that may put other employees or himself at risk, either physically or mentally, such as fighting, harassment, theft or other instances judged to constitute misconduct in the companies opinion.
+20.	Complaints, Grievances and Disputes Grievance procedure
+It is agreed that grievances, oral or written, arising out of the interpretation or application of one or more articles in this Agreement, will be managed as promptly as possible.
+20.1	Steps in procedure:
+a)	Any employee who feels that there has been a violation or misinterpretation of an article of this Agreement or that he has been treated unfairly under any of its terms must, by personal interview, discuss the matter with his immediate Supervisor. A Union representative may be present if the employee or Company desires, provided the immediate Supervisor is advised of this and of the nature of the problem, in advance of the discussion. This meeting shall take place no later than fourteen (14) working days following the awareness of the issue;
+34
+b)	Where such discussion fails to satisfy the complaint of the employee, the matter must be submitted in writing to the Supervisor within three (3) working days. The latter shall schedule a meeting no later than fourteen (14) business days with the employee and Union representative to discuss and resolve the issue. HR department shall render a written decision within seven (7) business days from the meeting date;
+c)	Should the matter still not be resolved to the Union satisfaction, the Union will appeal the decision in writing (with the response from HR in attachment) within seven (7) business days to the Operation Director or delegate, who shall meet with the Union representative to discuss the matter. The Operation Director shall provide a written response within seven (7) business days of the meeting to either uphold or deny the grievance;
+d)	Should the Operation	Director’s	response be
+unsatisfactory to the Union, the matter will be discussed between the General Manager and a District 140 General Chairperson;
+e)	Should the grievance still be unresolved, the matter may be referred to accelerated arbitration.
+20.2	The time limits provided for under this article may only be extended following a written mutual agreement between the Company and the Union Chief Steward or Union Representative.
+21.	Arbitration
+21.1	Both parties are in agreement that all grievances reaching the appropriate level shall be dealt with through accelerated arbitration.
+35
+21.2	All grievances that have not been settled through the grievance procedure may be submitted to one of the shortlisted arbitrators that have been chosen by both parties. The party requesting arbitration shall notify the other party in writing within thirty (30) calendar days following the Company's decision.
+21.3	In matters of appealed grievances, the arbitrator has complete authority to render a just and equitable decision on the interpretation, application and alleged violation of the Agreement and on any other grievance of a disciplinary nature.
+21.4	In the case of appeals relating to disciplinary measures or dismissals, the arbitrator has the ability to determine whether the disciplinary measure or the dismissal imposed by the Company was just and equitable in line with the Collective bargaining Agreement.
+21.5	In the case of appeals relating to disciplinary measures or dismissals, the arbitrator can uphold the Company's final decision, fully exonerate the employee and reinstate him with payment for the hours lost, or render any other decision that he considers just and equitable.
+21.6	Any decision that has not been submitted to arbitration within the prescribed time limits is final and binding.
+21.7	All decisions of the arbitrator shall be final and binding upon both parties but the arbitrator's jurisdiction shall be limited to deciding the case in litigation according to the meaning of the provisions of the Agreement. In no case shall the arbitrator have the power to add, remove, alter, modify or amend any part of this Agreement.
+21.8	The arbitrator's fees and expenses related to the arbitration shall be shared equally by both parties.
+36
+21.9	The time limits provided for under this article may only be extended following a written mutual agreement between the Company and the Union Chief Steward or Union Representative.
+22.	Health and Safety
+22.1	. All employees are responsible, in conjunction with the Company, for ensuring a safe working environment. Employees must ensure all safety related procedures are followed and report to their Supervisor any aspects, which they judge to be a potential hazard. It is the individual and companies responsibility to ensure they comply with the relevant laws and regulations.
+22.2	The parties to this Collective Agreement agree to set up a Health and Safety Committee with the same powers and obligations as those provided for, under the law. This committee shall consist of a minimum of two (2) members appointed by the Union, and of two (2) representatives appointed by the Company.
+22.3	The role of the Health and Safety Committee:
+a)	Receive, examine and quickly settle complaints concerning the health and safety of the employees it represents;
+b)	Maintain a record of its decisions on these complaints;
+c)	Cooperate with the Health Services established to serve the workplace;
+d)	May develop and promote health and safety programs aimed at educating the employees it represents on this subject;
+e)	Participate in all investigations concerning health and safety, environmental health and safety and request, when necessary, the assistance of professionally and
+37
+technically qualified individuals to act as advisers;
+f)	Will develop and implement an annual action program that includes measures and procedures aimed at protecting employees or improving their health and safety conditions;
+g)	Ensure the follow-up of programs, measures and procedures related to employee health and safety;
+h)	Ensure that adequate records are kept on work accidents and health hazards (any accident with or without loss of time must be reported), and regularly monitor data relating to these accidents and health hazards;
+i)	Cooperate with safety officials;
+j)	May ask the employer for the information it considers necessary in order to evaluate the real or potential risks of materials, work methods and equipment in the workplace;
+k)	Has unrestricted access to government and employer reports on the health and safety of the employees it represents;
+l)	The Company posts, on a permanent basis and in one or more prominent areas frequented by employees, the names of the Health and Safety Committee members for each work location under its complete authority, as well as the areas where these members work. The Company also posts the names of employees who have followed First-Aid training.
+22.4	The Health and Safety Committee shall hold meetings during working hours, at regular intervals, in accordance with the Canada Labour Code, Part II. It also meets in cases of emergency or exceptional circumstance, even outside working hours.
+38
+22.5	No member of the Health and Safety Committee is personally liable for acts or omissions done in good faith in the exercise of the powers conferred upon him under the present article.
+22.6	Subject to the foregoing, the Health and Safety Committee may set its own rules on the duration of its members' mandate, not to exceed twenty four (24) months, renewable, the date, place and frequency of its meetings and any other procedure it considers useful to its functioning.
+22.7	As soon as any incident, physical accident or accident involving equipment occurs, the Health and Safety Committee chairman or his designate must be immediately contacted and advised of the accident and all related details as they are known; the employer shall nonetheless proceed with the investigation. A copy of the accident investigation report shall be provided to the Health and Safety Committee and to the employee involved in the accident.
+22.8	Assignment Following a Work Accident or Disability
+22.8.1	In accordance with the Company’s needs and subject to an agreement between the Company and the Union Chief Steward, an employee may, (depending on the case), be preferably assigned to a work location likely to facilitate his temporary assignment. In some cases, this may mean shifts or work schedules that are shorter than normal.
+22.8.2	If the employee cannot resume the work that he carried out according to his position, he may be assigned to a position whose requirements correspond to his state of health, on condition that he can prove that he has the necessary abilities to carry out this work.
+39
+22.8.3	In accordance with Article 4, the Company, at its discretion, shall participate in the employee’s reintegration by providing him with the required training. The salary and benefits of the employee who has successfully completed this training shall depend on the position he has accepted.
+22.9	Protective Clothing, Devices and Safety Equipment
+Where the nature of the work or working conditions so require, employees shall be supplied, at the Company’s expense, all necessary protective clothing, safety equipment and other protective devices deemed necessary by the Company and the Health and Safety Committee, which shall be maintained and replaced, where necessary, at the Company’s expense, upon the return of the worn or damaged equipment. Employees are required to use these items where necessary.
+23.	Union Membership and Union Dues
+23.1	The parties hereto agree that all employees covered by this Agreement shall become members of, and maintain membership in good standing in the Union as a condition of employment.
+23.2	Membership in the Union shall be available to any employee eligible under the constitution of the Union upon payment of initiation or reinstatement fees uniformly required of all other such applicants by the Union.
+23.3	New employees shall become members of the Union the date they commenced employment and shall maintain membership as a continuing condition of employment, inclusive of the probationary period.
+23.4	As a requirement of employment of every employee under this Agreement, the Company shall deduct the amount of Union dues from their wage, monthly, and shall remit the
+40
+amount withheld to the specified Union location before the twentieth (20th) day of the following month.
+23.5	The amount to be deducted will be advised by the Union in writing to Human Resources Department, no later than thirty (30) days prior to any changes. The Company will be notified in writing by the Union official as to where to remit such withheld dues.
+24.	Union representation
+24.1	The Company recognizes the Union representatives duly identified by the Union.
+24.2	The Union shall select the representatives mentioned in Article 24.1 and forward their names in writing to the Company. In addition, the Union shall inform the Company of any subsequent change, within seven (7) working days, including the names of any representatives added or withdrawn, as stipulated in the Union by-laws.
+24.3	The Union recognizes that its leaders, Union Chief Stewards and members of the committees defined in the present Collective Agreement, as well as all employees, have regular work to perform for the Company and may not leave their respective workstation without permission from their immediate Managers. Approval for time spent on Union business shall not be unreasonably denied.
+24.4	The Company shall provide a notice board for the Union’s exclusive use. Any pamphlet, advertisement, notice or material that the Union wishes to distribute to its members or post on work premises, shall be approved beforehand by the Company. The Company shall not withhold approval without a reasonable justification.
+41
+24.5	Employees may not wear clothes, display posters or utilise other communication medium of a political nature that other employees may find offensive, on work premises, unless they have obtained prior permission by the Company.
+25.	Release for Union Business
+25.1	Provided that the Company can reasonably do without the services of the employees concerned for the duration of the leave of absence, the Company shall grant a leave of absence for Union business, including training, as long as this is to the mutual benefit of the Company and the individual.
+25.2	The Union Chief Steward must have access to a meeting area where discussion can comfortably take place and should be appropriately equipped to allow for discussion in confidence.
+26.	Release for Negotiations
+26.1	The Company shall release three (3) representatives, the Union Chief Steward plus two more members, for negotiations concerning renewal of the Collective Agreement.
+26.2	The Company shall absorb one hundred per cent (100%) of the costs related to bargaining committee (defined in Article 26.1) for negotiations concerning renewal of the Collective Agreement.
+26.3	The Union shall absorb one hundred per cent (100%) of the costs related to the bargaining committee for preparation of negotiations concerning renewal of the Collective Agreement.
+26.4	The Union shall absorb fifty per cent (50%) of the costs related to the rental of meeting rooms for negotiations concerning renewal of the Collective Agreement.
+42
+26.5	When an employee has a scheduled day off that falls during negotiations with the Company or preparation of negotiations, he shall be entitled to take another day off in lieu, to be taken according to the conditions mentioned in Article 26.2.
+27.	Work schedule
+27.1	Hours of work
+The primary shift pattern governed by this Collective Agreement shall be equal to forty-two and a half (42 1/2) hours divided into five (5) consecutive days of eight and a half (8 1/2) hours and two (2) consecutive days off which shall be Saturday and Sunday. This is inclusive of a 30 minutes unpaid meal break and 20 minutes paid break on each day, for a total of forty (40) hours paid week. Shift patterns shall be based upon operational requirements and subject to change from those stated. Any variation from the standard hours must be authorised by the Manager.
+Additional shift patterns, which will be available to the Company for employees covered by this Agreement, are four (4) working days, three (3) off, four (4) working days, four (4) off, six (6) working days, three (3) off, three (3) working days, four (4) off. Working hours within this schedule or others, as mutually agreed between the Company and Union, shall be flexible and based upon the operational requirements of the Company. Should shift patterns be introduced, clarification with regard to other benefits and selection of employees shall be discussed with the Union. The Company shall provide a notice of at least fifteen (15) working days. Pay shall be on the standard rate as detailed within this Collective bargaining Agreement.
+43
+27.2	Working hours and shift start times will be determined by the Management in consultation with the Union representative, but are not restricted in any way. The Management shall give a notice of ten (10) working days to any changes in standard working patterns, where the change is not of a temporary basis.
+27.3	If the change is of a temporary nature (less than two (2) weeks), Management shall endeavour to give a minimum of twenty-four (24) hours notice and, in the first instance, ask for a suitable volunteer or volunteers. Should this be unsuccessful in meeting the operational requirements of the plant, the Company reserves the right to assign the lowest seniority qualified person or persons to complete the task and shall inform the Union Chief Steward.
+27.4	The Company shall, at all times, take reasonable steps to give the employees advance notice of any change or cancellation of regular working hours. It will also endeavour to fit working patterns around the majority of the shift population.
+28.	Overtime
+28.1	Employee shall be compensated for overtime work as follows: For authorized overtime outside of scheduled shift hours (which are not covered under any other articles within the Collective bargaining Agreement) shall be paid at the rate of time and one-half (1.5) for all hours worked;
+28.2	An employee called into work on a statutory holiday will receive time and one-half (1.5) with an additional day off, which shall be added to his annual leave allowance;
+28.3	An employee called to work on a statutory holiday that must work beyond eight (8) hours will receive double time for the hours worked beyond his scheduled hours on the holiday. Overtime conducted during a statutory holiday will not be
+44
+added to the maximum of 104 hours as per Canada Labour Code.
+28.4	Overtime premium shall be calculated on the employee’s base hourly rate.
+28.5	An employee recalled to work after having completed his daily work assignment, or if called into work on his scheduled day off, shall receive a minimum of four (4) hours of pay at time and one half (1.5). Thereafter, the employees shall be paid for actual time worked at one and a half (1.5). As per the Canada Labour Code, an employee may not exceed a maximum of 104 hours of overtime by calendar quarter.
+28.6	Non-voluntary overtime shall only be called upon where operational requirements cannot be met through other reasonable means. In this instance, the Cell Lead, in conjunction with the accountable Manager or designate, will nominate the person who is best suited to perform the task. The selection shall be based upon a fair and equitable system.
+29.	General
+29.1	Call to Jury Duty
+Employees called upon to perform jury duty or to be crown witnesses shall be entitled to an authorized paid leave of absence and shall continue to accumulate seniority during their absence. They shall receive their salary less the allowance paid by the legal system.
+29.2	The 60+ Progressive retirement program
+The Union agrees to support any initiative from the Company to have employees on a voluntary progressive retirement program which may or may not be sponsored by HRDC (Human Resources Development Canada).
+45
+30.	Employee personal file and pay provisions
+30.1	Employee Personal File
+30.1.1	Written	instructions concerning transfers,
+promotions, demotions, disciplinary actions, unpaid leaves of absence and/or vacations, shall be put in the employee's personal file and a copy to the employee.
+30.1.2	Upon his request, an employee may have access to his personal Company file. He shall consult it in the presence of his Human Resources Representative, within five (5) days following his request.
+30.1.3	Upon his request, he may also obtain a copy of his personal file or part of it. This shall be provided within five (5) days of a written request.
+30.1.4	Union representatives, with written authorization by the employee, may have access to the personal information it contains.
+30.2	Pay provisions
+30.2.1	Employees shall be paid through direct deposit every two (2) weeks.
+30.2.2	Each pay date, employees shall be provided with a pay statement clearly identifying all credits/debits made, statutory holidays, vacation days, sick days and gross pay. Other relevant information shall be included as the payroll system is developed.
+30.2.3	In the event that an employee has a payroll error of one hundred dollars ($100) or more missing from his salary and the Company is responsible for this error, the Company agrees to correct it within four (4) working days following receipt by the Payroll Department of the written notice informing of this error. Any other error shall be corrected on the employee’s subsequent pay
+46
+30.2.4	In the event that an employee is overpaid, a maximum of ten per cent (10 %) of his gross salary shall be deducted, by pay period, until all amounts owed are reimbursed unless otherwise mutually agreed upon. It is the employee’s responsibility to inform the employer of any error in pay.
+30.2.5	Prior to any deductions being initiated by the Company, the employee shall be advised, in writing, of the error, the number of deductions to be made, the amount of each deduction and when the deduction shall commence.
+30.2.6	Accurate time and pay records shall be maintained for each employee, which shall be made available, upon request, to the employee and to the Union Chief Steward, when authorized by the employee in writing.
+31.	Obligation of successor and change in operations
+31.1	Should the Company change ownership, merge with another Company, alter its corporate legal identity in any way whatsoever, including the setting up of a subsidiary or combining with one or more organizations, sell or transfer its assets in whole or in part, this Agreement shall remain in full force and effect and the Canadian Industrial Relations Board certificate in effect at that time shall not be affected in any way, unless provisions to the contrary are contained in applicable legislation.
+31.2	In the event of any merger of the Company with another organization, acquisition of the Company by another organization, or acquisition of another organization by the Company, which affects the seniority rights of employees subject to this Agreement, provisions shall be made for the integration and protection of seniority lists in a fair and equitable manner including, where applicable, agreement
+47
+through collective bargaining between the Company and the Union representatives of the employee groups affected.
+32.	Technological change
+32.1	When a technological change is considered, the Company shall inform the Union in accordance with the provisions of the Canada Labour Code and shall enter into discussions with the Union to establish the application procedures that affect employees.
+32.2	The employer shall try to relocate, within the Company, all employees affected by a technological change.
+33.	Training and Development
+33.1	On the job training or training on products for which an employee is not qualified, should not be unreasonably refused, subject to operational requirements.
+33.2	The Company shall make every reasonable effort to schedule employees for training within the employees’ normal work schedule and shift.
+34.	Subcontracting
+34.1	Subcontracting shall be at the sole discretion of the Company; however, where the subcontracting is likely to affect Union members already employed by the Company, the opportunity to match the total cost of subcontracting shall be discussed with the Union Chief Steward.
+34.2	Should permanent subcontract affect the work schedule or position of permanent employees, then, every reasonable step will be taken by the Management to redeploy them within the business on the same rate of pay and conditions. Should they be redeployed within the Company, the transfer shall apply as per Article 6.3.
+48
+35.	Renewal, Amendment and Termination
+35.1	The present Collective Agreement shall come into effect from the date of ratification by both parties and remain in effect for five (5) years from January 14, 2013 until January 14, 2018 with the exception of salary levels which shall be negotiated starting January 14, 2016.
+35.2	After the expiry date, the present Collective Agreement continues to remain binding from year to year, unless there is notification in writing by either party of its wish to modify the Agreement. This notification shall be submitted within the one hundred and twenty (120) days preceding the Collective Agreement’s expiry date. In the event of such notification, the Collective Agreement shall remain in full force and effect for the duration of negotiations for a new Collective Agreement.
+35.3	Given the procedure provided by this Collective Agreement and the requirements of the Canada Labour Code for settling disputes, the Union agrees that there shall be no strike and the Company agrees that there shall be no lockout for the duration of the Collective Agreement.
+35.4	All clauses and provisions of this Agreement are subject to present and future legislation. However, should a clause in this Agreement be nullified by a present or future law, this invalidation shall not nullify other clauses of this Agreement, which shall remain in full force and effect.
+49
+we have signed this __3<_ day of _ ON BEHALF OF AJW Technique Inc. ? □‘a^^^mmonds General Manager	2013. ON BEHALF OF IAMAW Georges Bujold General Chairperson, Eastern Region IAMAW District Lodge 140
+Dina Medeiros Human Resources Business Part	tier George Kuehnl
+Guy Salicco Production Manager	Member of the negotiation committee ai^ Chief Steward Nojnnand Cyr Member of the negotiation committee Stephane Baril Member of the negotiation committee
+50

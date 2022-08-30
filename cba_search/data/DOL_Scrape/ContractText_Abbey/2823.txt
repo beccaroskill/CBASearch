@@ -1,0 +1,1402 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -http://digitalcommons.ilr.cornell.edu/blscontracts/2/)
+Title: Detroit, City of and Division 26, Amalgamated Transit Union (ATU), AFL-CIO (1998)
+K#: 810086
+Location: MI Detroit
+Employer Name: Detroit, City of
+Union: Division 26, Amalgamated Transit Union (ATU), AFL-CIO
+Local:
+SIC: 4111
+NAICS: 485111
+Sector: L
+Number of Workers: 1100
+Effective Date: 07/01/98
+Expiration Date: 06/30/01
+Number of Pages: 192
+Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+
+MASTER AGREEMENT BETWEEN THE CITY OF DETROIT AND
+LOCAL 26, AMALGAMATED TRANSIT UNION, AFL-CIO.
+Table of Contents - Page i ARTICLE	PAGE
+1.	Agreement and Recognition ............................................ 1
+2.	Bulletin Boards....................................................... 1
+3.	Agency Shop........................................................... 1
+3a.	Dues Check Off........................................................ 2
+3b.	Service Fee Check-Off................................................. 3
+3c.	Cope Check-Off........................................................ 4
+4.	Management Rights & Responsibilities ................................. 5
+5.	Union Representation ................................................. 6
+6	Grievance Procedure....................................................8
+7.	Disciplinary Procedures.............................................. 11
+8.	Wages ............................................................... 12
+9.	Work Week Off Days .................................................. 14
+10.	Work Schedules....................................................... 14
+11.	Selection of Work.................................................... 15
+12.	Assignment of Open Runs-Off Duty Provisions.......................... 17
+13.	Transfers - Extra Positions ......................................... 18
+14.	Runs - Definitions - Provisions...................................... 18
+15.	Workers’ Compensation................................................ 20
+16.	Non-Platform Assignments............................................. 21
+17.	Overtime ............................................................ 21
+18.	Extra Work - Regular Operators....................................... 23
+19.	Spread Premium ...................................................... 23
+20.	Report & Turn-In Time...............................................  23
+21.	Owl Runs............................................................. 23
+22.	Late Time ........................................................... 24
+23.	Relief Time........................................................   24
+24.	Trippers............................................................. 24
+25.	Instruction Rate....................................................  25
+26.	Operators Returned to Training.....................................   25
+27.	Court - Claims - Accident Reports ................................... 25
+28.	Change Off of Equipment.............................................. 26
+29.	Paid Intervening Time in Swing Runs ................................. 26
+30.	Running Time.......................................................   26
+31.	Rest Periods......................................................... 27
+32.	Canceled Work Substitution........................................... 27
+33.	t	Extra Operators................................................. 27
+34.	Missing Assignments ................................................. 29
+35.	Funeral Leave (With Pay)............................................. 30
+36.	Vacations............................................................ 31
+37.	Holidays...........................................................   33
+38.	Hospitalization Medical Insurance & Optical Care......................34
+39.	Employees Serving on Jury Duty .....................................  36
+MASTER AGREEMENT BETWEEN THE CITY OF DETROIT AND
+LOCAL 26, AMALGAMATED TRANSIT UNION, AFL-CIO.
+Table of Contents - Page 2 ARTICLE	PAGE
+40.	Longevity Pay........................................................37
+41.	Miscellaneous Benefits...............................................38
+42.	Uniforms.............................................................39
+43.	Reduction in Force ..................................................41
+44.	Sick Leave, Casual Leave, Sickness & Accident & Extended Disability Ins. .. 45
+45.	Retirement Benefits..................................................50
+46.	Death Benefits and Life Insurance ...................................53
+47.	Rights of Employees Entering or Returning from Armed Forces..........57
+48.	Leaves of Absence....................................................57
+49.	Successor Clause.....................................................57
+50.	Overtime Provisions of The	State Minimum Wage Law ...................58
+51.	Savings Clause ......................................................58
+52.	Interference with Work...............................................58
+53.	Nondiscrimination ...................................................59
+54.	Protection Clause....................................................59
+55.	Maintenance of Conditions............................................59
+56.	Duration of the Contract.............................................60
+SIGNATURE PAGE......................................................60
+MEMORANDA OF UNDERSTANDING: RE:	Compensation for Unused Casual Leave ..................................62
+RE:	Overtime................................................................63
+RE:	Union Input Into Scheduling.............................................64
+RE:	Vacation Allocations....................................................65
+RE:	Vacation Credit Conversion ...........................................    66
+RE:	Determination of a Suitable Retirement Memento..........................67
+RE:	Copies of the Contract..................................................68
+RE:	Special Rules Regarding Sickness and Accident Benefits..................69
+RE:	Operators Repeatedly Required to Work Foreign Lines.....................72
+The City and the Union Agree That the Following Shall
+Supplement Section 38 of this Agreement............................73
+RE: Benefit Deductions for Employees on S & A LTD...........................74
+RE: Improved Regularity in Attendance .......................................75
+RE: Temporary Placement of Employees into Other Duties.......................76
+Appendix A		77
+Appendix B	84
+General Provisions..........................................................93
+1.	AGREEMENT AND RECOGNITION
+This Agreement is entered into between the City of Detroit, a Michigan Municipal Corporation, hereinafter referred to as the EMPLOYER or the CITY, and Division 26, Amalgamated Transit Union, AFL-CIO, hereinafter referred to as the UNION.
+Pursuant to and in accordance with all applicable provisions of Act 336 of the Public Acts of 1947, as amended, the Employer does hereby recognize the Union as the sole and exclusive representative for the purpose of collective bargaining with respect to rates of pay, hours of employment, and other terms and conditions of employment for the term of this Agreement, of all employees of the City of Detroit Department of Transportation in the classification of Transportation Equipment Operator (72-20-38).
+2.	BULLETIN BOARDS
+A.	The Union shall have the exclusive right to the use of designated union bulletin boards and "Swap" boards in the terminals for publishing notices pertaining to the conduct of its affairs.
+B.	The Employer will determine where in each terminal lobby such bulletin boards will be located.
+3.	AGENCY SHOP
+A.	Employees not members of the Union who desire membership in the recognized bargaining unit shall confirm their desire to join for the duration of this Agreement by initiating their Union application form and dues deduction authorization forms.
+B.	Any person certified and employed with the City on/or after October 11,1947, and covered
+by this Agreement, who is not a member of aforesaid Union and does not make application for membership within ninety (90) days from the effective date of this Agreement or from the date of employment, whichever is later, shall, as a condition of employment, pay to the Union each month a service fee as a contribution towards the administration of this Agreement. Such service fee shall be paid on/or after their ninety-first (91st) day of employment or ninety (90) days after the effective date of this Agreement, whichever is later.
+Employees who fail to comply with this requirement shall be discharged by the Employer within thirty (30) days after receipt of written notice to the Employer from the Union, unless the City is otherwise notified by the Union, in writing, within said thirty (30) days, and provided, that the Union shall release the employing department from fulfilling the
+- 1 -
+obligation to discharge if during the thirty (30) day period following notice to the Employer from the Union, the employee pays the membership dues or service fees retroactive to the due date and confirms their intention to pay the required membership dues or service fees in accordance with this Agreement.
+C.	Provisional employees will not be used to replace or in lieu of Civil Service status employees in classifications in the recognized bargaining units, unless it is impossible to hire Civil Service status employees either from within or from outside the City service.
+D.	All deductions under this article shall be subject to revocation by the employee who executed such assignments, upon giving a written notice to assignees and the Finance Director within the thirty (30) day period immediately prior to the expiration date of this Agreement. The Finance Director and the City Treasurer shall thereafter cease withholding any money whatever under such assignments.
+E.	Assignees shall have no right or interest whatsoever in any money authorized withheld until
+such money is actually paid over to them. The City or any of the officers and employees shall not be liable for any delay in carrying out such deductions, and upon forwarding a check in payment of such deductions by mail to the assignees’ last known address, the City and its officers and employees shall be released from all liability to the employee-assignors and to the assignees under such assignments (Chapter 13, Article 4, Section 4 of the Municipal Code of the City of Detroit).
+F.	The Union agrees that, in the event of litigation against the City, its agents or employees arising out of this provision, it will co-defend and indemnify and hold harmless the City, its agents or employees from any monetary award arising out of such litigation.
+G.	If any provision of this section is invalid under Federal law or the laws of the State of Michigan, said provision shall be modified to comply with the requirements of Federal or State law or shall be renegotiated for the purpose of adequate replacement.
+3a. DUES CHECK-OFF
+A. The Employer agrees to deduct from the wages of any employee, who is a member of this Union, all Union membership dues and initiation fees uniformly required, if any, as provided in a written authorization in accordance with the standard form used by the Employer herein (see Paragraph D), provided, that the said form shall be executed by the employee. The written authorization for Union dues deduction shall remain in full force and effect during the period of this contract and may be revoked only by written notice given during the period thirty (30) days immediately prior to expiration of this contract The termination notice must be given both to the Employer and to the Union.
+-2-
+B.	Dues and initiation fees will be authorized, levied and certified in accordance with the Constitution and By-Laws of the local union. Each employee and the Union hereby authorize the City to rely upon and to honor certifications by the Secretary-Treasurer of the local union, regarding the amounts to be deducted and the legality of the adopting action specifying such amounts of Union dues and/or initiation fees.
+C.	The Employer agrees to provide this service without charge to the Union.
+D.	Dues Deduction Check-Off Card.
+AST NAME	FIRST	MI.	AGENCY	7101	DEDUCTION AUTHORITY UNION/ASSOCIATION/SERVICE FEE
+	TO THE FINANCE DIRECTOR'-		
+STREET NUMBER	STREET NAME	ZIP CODE			
+ADJUST
+EMPLOYEE SOCIAL SECURITY NUMBER
+Effective this date, I hereby request and authorize the City of Detroit to deduct from my earnings bi-weekly a sufficient amount to provide for the regular payment of monthly t 1 Union? Association dues, or O Service fees as may be fixed and certified by the duly authorized Officers of the ASSIGNEE
+A
+R
+Local Union or Assoc No..
+8
+DEDUCTION CODE
+DEDUCTION AMT. OR DEDUCTION %
+DEO. ADJ. AMT.
+I hereby waive al! right and claim to said monies paid in accordance with this authorization.
+By written notice this authorization is revocable by me any time during thirty (30) days prior to the expiration of any written Collective Bargaining Agreement between the City of Detroit and the Union or Association currently in effect or becoming effective while this authorization is in force or upon termination of my employment. Notice the revocation must be given to the Finance Director and to the Union or Association.
+DATE
+EMPLOYEE SIGNATURE
+PENSION NUMBER
+GLOBE 45J2I5
+3b. SERVICE FEE CHECK-OFF
+A.	The Employer agrees to deduct from the wages of any employee whois not a member of the
+Union, all Union service fees as provided in a written authorization in accordance with the standard form used by the Employer herein (see Paragraph D), provided, that the said form shall be executed by the employee. The written authorization for service fee deduction shall remain in full force and effect during the period of this contract and may be revoked only by written notice given during the period of thirty (30) days immediately prior to expiration of this contract. The termination notice must be given both to the Employer and to the Union.
+B.	Each employee and the Union hereby authorize the City to rely upon and honor certifications
+by the Secretary-Treasurer of the Union regarding the amounts to be deducted and the legality of the adopting action specifying such amounts of Service Fee deductions.
+-3-
+C.	The Employer agrees to provide this service without charge to the Union.
+D.	Service Fee Check-Off Card.
+.ST NAME________________________FIRST__________________________ML
+STREET HUMBER	STREET NAME	Z:p CODE
+0710	720	730
+ADD	CHANGE	AD JUST
+GENCY___ FORM 7101 DEDUCTION AUTHORITY
+TO THE	UNION/ASSOCIATION/SERVICE FEE
+FINANCE DIRECTOR: ___________________________
+Effective this date, 1 hereby request and authorize the City of Detroit to deduct from my earnings bi-weekly a sufficient amount to provide for the regular payment of monthly EZZZI Union/ Association dues,or □ Service fees as may be fixed and certified by the duly
+authorized Officers of the ASSIGNEE—____________________________—
+i । । I । 1 i । । IRI EMPLOYEE SOCIAL SECURITY HUMBER
+DEDUCTION CODE
+|	FBI I 1 !_______________I____|____ES
+DEDUCTION AMT.
+I	Oft
+I _______ DEDUCTION %	___
+I ic~l । । । i a__________________।___Lfr]
+I	+/- DEO. ADJ. ANT.
+ii
+Local Union or Assoc. No___________________________
+I hereby waive all right and claim to said monies paid in accordance with this authorization.
+By written notice this authorization is revocable by me any time during thirty (30) days prior to the expiration of any written Collective Bargaining Agreement between the City of Detroit and the Union or Association currently in effect or becoming effective while this authorization is in force or upon termination of my employment. Notice the revocation must be given to the Finance Director and to the Union or Association.
+GLOBE 453215	DATE
+EMPLOYEE SIGNATURE
+PENSION NUMBER
+3C. COPE CHECK-OFF
+A.	The Employer agrees to deduct from the wages of any employee who is a member of the Union, Committee on Political Education (COPE) funds, which are voluntarily solicited, as provided in a written authorization in accordance with the standard form used by the Employer herein (see Paragraph E), provided, that the said form shall be executed by the employee. The written authorization for COPE fund deductions shall remain in full force and effect during the period of this contract unless revoked at an earlier date by written notice executed by the employee. The employee must provide a copy of his or her termination notice to both the appropriate representative of the Employer and the Union.
+B.	Each employee and the Union hereby authorize the City to rely upon and honor certifications
+by the Secretary-Treasurer of the Union regarding the COPE fund amounts to be deducted and the legality of the adopting action specifying such amounts of COPE fund deductions.
+C.	Article 3 ("Agency Shop"), paragraphs E, F and G shall also apply to this Article 3C.
+D.	The City agrees to provide this service under exactly the same arrangements as were being
+followed at the time this contract was entered into, except that if there is a change in the conditions on which this practice rest, the City shall meet with the Union to discuss the reasons for making any changes prior to those changes going into effect.
+-4-
+E.	COPE Check-Off Card.
+LAST NAME FIRST MI [AGENCY
+GENERAL DEDUCTION
+710	720	730
+<7 ADD	\_/CHANGEv_y ADJUST
+. ■ ■ I ■ I ■ ■ ■ fRl employee social security number
+[A]__!__iiii /1______I_i .fRl
+DEDUCTION CODE (YR. PAY PERIOD)
+STOP DATE
+ref ■ I ■ A I [Ri DEDUCTION AMOUNT OR DEDUCTION PERCENT
+O—1—।—i—i a i—I /1________t_। । ।—। a ।___Er]
++/~ BED. ADJUSTMENT	FRINGE ADJUSTMENT
+AMOUNT	AMOUNT
+TO THE FINANCE DIRECTOR:
+I HEREBY AUTHORIZE THE CITY
+OF DETROIT TO DEDUCT THY SUM
+INDICATED HEREIN FROM MY
+EARNINGS O BI-WEEKLY □ WEEKLY
+REMITTED TO_______________________
+DATE EMPLOYEE SIGNATURE
+GLOBE 4529'4
+4.	MANAGEMENT RIGHTS & RESPONSIBILITIES
+A.	The Union recognizes the prerogatives of the City and the Department of Transportation to operate and manage its affairs in all respects in accordance with its responsibilities and powers of authority inclusive of all rules and regulations contained within the City Charter, State Law, Federal Laws and traditional inherent powers consistent with providing quality transportation services for the good of the public interest.
+B.	The department has the right to schedule overtime work as required, to determine hours and
+schedules of work in a manner most advantageous to the department and consistent with the requirements of providing transportation service and the public interest. Such overtime shall not be scheduled so as to cause the layoffs of any members of the bargaining unit.
+C.	The department reserves the right to discipline and discharge for j ust cause. The department
+reserves the right to layoff for lack of work or funds or the occurrence of conditions beyond the control of the department or where such continuation of work would be wasteful and unproductive. The department shall have the right to establish the methods and processes by which such work is performed provided they do not conflict with the express terms of this agreement.
+D.	The Union shall have the right to grieve on the interpretation and application of these provisions.
+-5-
+5. UNION REPRESENTATION
+A.	The Union President shall be compensated forty (40) hours per week to administer this agreement.
+B.	Certified executive board members of the Union, not to exceed (1) for each terminal, will each be allowed a maximum of twenty (20) hours of pay per week to fully compensate them for time consumed in settlement of grievances, assisting terminal picks of runs and off days, attending department safety meetings, attending meetings with representatives of the department, whether same be called by Employer or the Union, assisting in the United Foundation Torch Drive, and other such community-wide drives, and for engaging in any activities bearing upon labor relations with the Department of Transportation.
+C.	In the three (3) terminals, a steward, in addition to the executive board member, may be allowed a maximum of ten (10) hours pay per week to compensate for time consumed assisting the executive board member. A steward may represent employees in handling labor relations activities with the Transportation District Superintendent. The Union’s Vice President may be allowed a maximum of ten (10) hours pay per week to compensate them for time consumed in assisting in the settlement of grievances, attending department safety meetings, attending meetings with representatives of the department, whether same be called by the Employer or the Union, assisting in the United Foundation Torch Drive, and other such community-wide drives, and for engaging in any activities bearing upon department community employee relations.
+D.	The payment of the weekly allowance shall be reduced on a prorated basis for any one (1)
+week period when the said Union representatives perform less than five (5) days work except when enjoying a partial vacation. The stewards and vice president will not be replaced when on vacation or absent for other reasons, or when replacing the executive board member and/or the president and business agent.
+E.	If, in the j udgement of the Union, an operator's union duties require their absence from work,
+the Union will request that such operator be excused on union business. Such operator will be excused on union business, without pay, provided such operator's absence, in the opinion of the Employer, is not detrimental to the public service. Upon return to work such operator will be returned to their position on the board without loss of seniority. Such time off will be considered as paid time.
+F.	It shall not be a violation of this agreement and it shall not be cause for discharge or disciplinary action if any employee refuses to enter upon any property involved in a primary labor dispute, or refuses to go through or work behind any primary picket line, including the primary picket line of the Union party to this agreement, except that the department shall not be required to pay the wages of employees who shall refuse to report for work. Provided, however, that such refusal shall in no way be detrimental to the public health or safety.
+-6-
+However, the employee cannot be ordered to cross a picket line if such action could result in adverse effect of the personal safety of the employee, nor shall employees be required to do work normally done by striking members of other Unions.
+G.	The district superintendent shall notify the terminal executive board member in the following
+instances:
+1.	operators' suspensions,
+2.	operators cited to the Board of Review,
+3.	operators’ off-day adjustments.
+H.	Employee Assistance Committee: The Employer and the Union recognize that personal problems of employees may adversely affect their on-the-job performance and that it is therefore, in the best interest of the Employer and the Union to assist employees with their personal problems to the extent feasible and to the extent that it does not adversely affect the provision of public service. This committee shall have the responsibility for developing employee assistance programs. The Vice President, Executive Board Member and Steward from each terminal shall be members of the Employee Assistance Committee. The Union may also appoint three (3) additional members who must be acceptable to the Employee Assistance Committee. Members of the Employee Assistance Committee shall be excused from work without loss of time or pay to attend the meetings.
+I.	Safety Committee: An operator who has complaints or concerns about matters regarding safety has an initial responsibility to report those complaints or concerns to their supervisor.
+Each terminal shall have a Safety Committee consisting of the Board Member, Steward, Union Safety Representative (or alternate), District Superintendent (or representative) and the Auto Repair Superintendent (or representative). The Safety Committee at each terminal shall meet on a monthly basis to discuss and resolve health and safety concerns. The Departmental Safety Representative may participate in these monthly terminal meetings. Members of the Terminal Safety Committee will be excused from work without loss of time to participate in monthly terminal safety meetings. The Union Safety Representative or alternate will be excused from work without loss of time to attend Departmental Safety meetings.
+The Safety Committee at each terminal shall participate in monthly safety inspections which involve checking the interior and exterior of coaches for safety features and checking the terminals and garages for safety violations. The date of the terminal safety inspections will be determined by the Departmental Safety Representative. Members of the Terminal Safety Committee will be excused from work without loss of time to participate in monthly inspections.
+J.	Union Election of Officers: The Employer agrees to allow sufficient operators off work (without pay) to operate the polling places. That shall be three (3) operators for each terminal, three (3) for the Union hall plus two (2) election commissioners. It is also agreed
+-7-
+that candidates for election and workers for such candidates will be allowed to trade work with other operators and adjust off days in order to be off for the election. The department will assist candidates and workers for candidates by attempting to get other operators to take their runs on an overtime basis, provided their identity is given to the District Superintendent three (3) weeks prior to the election.
+6.	GRIEVANCE PROCEDURE
+A.	Should disputes arise between the Employer and the Union during the term of this agreement, an earnest effort shall be made to resolve such disputes promptly and in accordance with the following procedure. The grievance procedures contained in this agreement shall be the exclusive grievance procedure for members of this bargaining unit. This shall not preclude an employee from exercising any rights they may have under the provisions of the Veteran's Preference Act.
+B.	Complaints which do not involve misapplication or misinterpretation of specific provisions
+of this contract agreement shall not be proper subjects for arbitration.
+C.	Any employee who has a grievance or a complaint shall grieve in the following manner and
+the following successive steps must be followed unless it is mutually agreed, in writing, between the Employer and the Union to alter this procedure.
+D.	Grievances must be presented within fourteen (14) calendar days of their origin and to retain validity, they must be appealed within seven (7) days of notice of an unsatisfactory decision at each step of the grievance procedure. Any grievance which is not answered by the department within the prescribed time limits, may be appealed to the next step of the grievance procedure within seven (7) days of the expiration of those time limits. The written appeal shall indicate that the grievance was not answered timely at the previous step of the grievance procedure.
+E.	STEPS IN FILING:
+1.	The operator and their union representative shall discuss the grievance with the District Superintendent or their designated representative. An earnest effort shall be made to resolve the matter at that level. The operator and the Union representative may examine the operator's record in the presence of the superintendent. If the grievance is not resolved, the Union representative shall present the grievance to the District Superintendent in writing, on the standard grievance forms and forward copies of the grievance to the Superintendent of Transportation operations. The
+-8-
+District Superintendent or their designated representative shall give a written reply to the grievance within three (3) days of its receipt. If the District Superintendent's written reply does not satisfactorily settle the grievance, then;
+2.	The Union President-Business Agent or their designated representative will present the grievance to the Superintendent of Transportation Operations or their designated representative who will reply, in writing, within five (5) days of their receipt of the written grievance. If the written reply of the Superintendent of Transportation Operations or their designated representative does not satisfactorily settle the grievance, then;
+3.	The Union President-Business Agent or their designated representative will present
+the written appeal to the Director of Transportation or designated representative who will reply, in writing, within seven (7) days of their receipt of the written appeal. If the written reply of the Director of Transportation or their designated representative does not satisfactorily resolve the grievance, then;
+4.	The Union President-Business Agent, or their designated representative will appeal the grievance, in writing, to the City of Detroit, Director of Labor Relations who will schedule a hearing on the grievance within fifteen (15) days of its receipt. The Director of Labor Relations or their designated representative will give a written reply to the grievance within ten (10) days of the hearing.
+F.	ARBITRATION
+Any unresolved grievance which relates to the interpretation, application or enforcement of any specific article or section of this agreement or any written supplementary agreement and which has been fully processed through Step 4 of the grievance procedure may be submitted to arbitration in strict accordance with the following:
+1.	Arbitration shall be invoked by written notice to the other party of intention to
+arbitrate within ten (10) days of the notice of an unsatisfactory decision at Step 4 of the grievance procedure. If the parties are unable to agree upon an arbitrator within seven (7) days of such notice, the party desiring arbitration, shall refer the matter to the American Arbitration Association for the selection of an impartial arbitrator and determination of the dispute in accordance with all applicable rules of the American Arbitration Association.
+2.	The arbitrator shall limit their decision strictly to the interpretation, application or enforcement of this agreement and they shall be without power and authority to make any decision:
+a.	Contrary to, or inconsistent with or modifying or varying in any way, the terms of this agreement.
+-9-
+b.	Concerning the discipline or discharge of employees for engaging in a strike,
+slowdown or stoppage of work who exercises their right under Section 6 of Act 336 as amended by Act 379 of the Public Acts of 1965 or to the Mayor pursuant to provisions of the Detroit City Charter, or applicable State law.
+c.	Granting any wage increases or decreases.
+d.	Granting any right or relief for any period of time whatsoever prior to the execution date of this agreement.
+3.	The arbitrator shall be without authority to require the City to delegate, alienate or relinquish any powers, duties, responsibilities, obligations or discretions which by State law or City Charter the department cannot delegate, alienate or relinquish.
+4.	No settlement at any stage of the grievance procedure, except an arbitration decision,
+shall be a precedent in any arbitration and shall not be admissible in evidence in any future arbitration proceeding.
+5.	All claims for back wages shall be limited to the amount of wages that the employee
+otherwise would have earned less any compensation received for temporary employment obtained subsequent to their removal from the City payroll, and payments for Unemployment Compensation Insurance, Social Security Disability, Welfare, Aid to Dependent Children, City funded Long Term Disability Insurance, Sickness and Accident Insurance and Automobile Accident Income Replacement Insurance. Where appropriate, the City shall reimburse those agencies and insurance funds so as to not affect the employee's equity therein.
+6.	The decision of the arbitrator in a case shall not require a retroactive wage adjustment
+in another case except by express agreement of the parties.
+7.	There shall be no appeal from the arbitrator’s decision, if made in accordance with their jurisdiction and authority under this agreement. The arbitrator's decision shall be final and binding on the department, on the employee or employees and on the union.
+8.	In the event a case is appealed to an arbitrator and they find that they have no power to rule on such case, the matter shall be referred back to the parties without decision or recommendation on the merits of the case.
+9a. The expenses of the arbitrator shall be shared equally by the parties. The aggrieved and their local representative shall not lose pay for time off the job while attending the arbitration proceedings.
+-10-
+b. Arbitration hearings will be conducted at the City of Detroit Labor Relations Division unless the circumstances of the grievance indicate it should more appropriately be held where the grievance originated.
+10. Except as provided herein by letter or agreement between the parties, the parties understand and agree that in making this contract they have resolved for its term all bargaining issues which were or which could have been made the subject of discussion. The arbitral forum here established is intended to resolve disputes between the parties only over the interpretation or application of the matters which are specifically covered in this contract and any supplemental agreements which are or may become part of this agreement and which are not excluded from arbitration.
+7.	DISCIPLINARY PROCEDURES
+A.	Notification shall be given to the Union of any disciplinary action taken against any employee which may result in any official entries being added to the employee's personnel file. Both employee and the Union representative shall normally be given a copy of such official entry prior to the effective date of the disciplinary action, except when the employee is unavailable as a result of not having reported for scheduled work. In that event, the employee will be notified by certified mail at their last known address. A further exception to the requirement for prior notification shall be for penalties given immediate effect.
+B.	Penalties for infractions of the rules will be made effective no sooner than the seventy-two (72) hours excluding Saturdays, Sundays and holidays after same are determined, unless the seventy-two (72) hours is waived, in writing, by the employee against whom the penalty was levied. A penalty which involved a suspension or dismissal may be appealed to the Director of Transportation or their designated representative. When such penalty is appealed within the seventy-two (72) hour period, no penalty will be imposed until after the Director of Transportation or their designated representative shall have responded in writing to the appeal. The exception to this provision shall be that penalties shall be given immediate effect for accidents causing serious personal injury or property damage, willful insubordination, intoxication while on duty, apprehension by legal authorities, mishandling fares, possession of firearms, loss of chauffeurs license and other comparable serious offenses. A further exception shall be that the seventy-two (72) hour delay shall not apply to decisions to suspend or dismiss made by the Board of Review.
+C.	Suspensions shall not be scheduled so as to disqualify an operator for holiday pay except in those instances where a penalty is given immediate effect.
+D.	Any operator who is charged with an infraction which could result in their dismissal shall be cited to the Board of Review which will review the matter and make a decision on the appropriate disciplinary action, if any. Decisions by the Board of Review may be appealed
+- 11 -
+to the Director of Transportation or their designated representative at the third step of the Grievance Procedure. Such appeal must be made within seven (7) days of the Board of Review decision.
+E.	In imposing discipline on a current charge, management will not take into account any prior infractions or disciplinary action taken which occurred more than twelve (12) months previously.
+F.	If the discharge or suspension of an operator is found to be unwarranted, they will be returned to their regular position and they will be compensated for their wage loss.
+8.	WAGES
+A.	Improvement Factor
+Effective July 1,1998:	2%
+Effective July 1,1999:	3%
+Effective July 1,2000:	3%
+B.	Special Wage Adjustment
+Effective April 29,2000, the maximum hourly rate for Transportation Equipment Operator shall be increased by 700.
+C.	Budget Surplus Bonus Payment
+All employees on the regular payroll on June 30,2001, shall be eligible to receive a possible cash bonus of up to 2% of the employee’s base wage. Such bonus, which shall not increase the employee’s base wage, is based upon a formula which considers a General Fund surplus for the 2000-01 fiscal year.
+In order to receive the full bonus payment, the employee must have worked at least 1,800 straight time regular payroll hours in the fiscal year. Employees with less than 1,800 hours but 520 hours or more shall be entitled to a pro-rated amount based upon 1/12 on the bonus for each month the employee worked at least 160 straight time regular payroll hours.
+D.	Work Performance Cash Incentive Payment
+During the period of July 1, 2000, through June 30, 2001, employees demonstrating acceptable work performance shall be eligible to receive a cash incentive payment of 1% of their June 30,2001, annual base rate.
+-12-
+The cash incentive payment shall not increase the employee’s base rate of pay, but will be included in the employee’s average final compensation for pension purposes. It is scheduled to be paid on the first payday in December, 2001.
+In order to receive the full cash incentive payment, the employee must have worked at least 1,800 straight time regular payroll hours in the fiscal year. Employees with less than 1,800 hours but 520 hours or more shall be entitled to a pro-rated amount based upon 1/12 on the bonus for each month the employee worked at least 160 straight time regular payroll hours.
+E.	A daily record of the time paid operators will be posted in each terminal lobby.
+F.	Wage rate changes will become effective as of the pay period immediately following completion of operator’s service periods.
+G.	Progression Rate Schedule
+1.	Operators hired prior to April 29, 2000, will be paid according to the following progression rate schedule upon successful completion of training:
+Months of	% of Maximum
+Employment Hourly Rate
+0 - 6	70%
+7 - 12	75%
+13 - 18	80%
+19-24	85%
+25 - 30	90%
+31+	100%
+2.	Operators hired on or after April 29, 2000, will be paid according to the following progression rate schedule upon successful completion of training:
+Months of % of Maximum
+Employment Hourly Rate
+0-9 10-18 19-28 29-37 38-47
+48+
+70%
+75%
+80%
+85%
+90%
+100%
+- 13 -
+3. The hourly rate step increment schedule is as follows:
+% of Max. Hourly Rate	Rate Effective July 1.1998	Rate Effective July 1,1999	Rate Effective April 29, 2000	Rate Effective July 1,2000
+70%	$ 9.75	$10.04	$10.53	$10.85
+75%	$10.44	$10.76	$11.28	$11.63
+80%	$11.14	$11.48	$12.04	$12.40
+85%	$11.84	$12.19	$12.79	$13.18
+90%	$12.53	$12.91	$13.54	$13.95
+100%	$13.92	$14.34	$15.04	$15.50
+The anniversary date for step adjustments shall be on the first pay period of the month succeeding the date a TEO receives their badge.
+9.	WORKWEEK - OFF DAYS
+A.	All operators shall select a five (5) day work week. The two (2) remaining days in the work week shall be known as "off days".
+B.	Off days shall be selected when terminal picks are held, provided off day picks for extra men
+shall be held whenever necessary.
+C.	The employer shall determine the number of operators to be off on each day of the week. Operators will then be permitted to select, in seniority order, the available off days.
+D.	The work week of all operators shall begin on Saturday and end on Friday.
+E.	New operators will be assigned their off days according to seniority, beginning the second week after qualifying.
+1 O. WORK SCHEDULES
+A.	All schedules involved in terminal picks or city-wide picks, except in emergencies, shall be posted at least five (5) days before the picking of runs and work assignments begins.
+B.	Operators may select all work within their classification if it is part of regular scheduled runs.
+This includes chartered service order, specials, loading and starting, but no such work shall be selected if it is required for operators who have furnished suitable proof of their incapacity to perform their regular assignments.
+- 14-
+C.	When working as loaders or starters, such incapacitated operators shall receive a minimum of eight (8) hours pay and they shall receive spread premium. They will receive report and turn- in time only when platform work is performed.
+1	1. SELECTION OF WORK
+A.	Operators shall, in the order of their seniority, select their runs from posted schedules. Notice
+of their selection may be made through another person so delegated. If the operator or their designee does not pick at their scheduled time, the Terminal Board Member may pick for them. If the Terminal Board Member fails to pick for the operator, the Station Master shall assign the operator the first open run off in the terminal.
+B.	When notice of progressive, line, or terminal picks are posted and picking starts, and the operator is notified of their time to pick, they must pick at that time. If they fail to do so in a line pick, they will be assigned the first open run off on the line, and in progressive or terminal picks, they will be assigned the first open run off in the terminal. Operators off on vacation or sick leave must leave their selections with the Station Master. If an operator makes no selection, and the terminal board member does not pick for them, they will be assigned the first run off in the terminal. Operators shall be notified no less than one (1) day in advance of the date and time they are to pick.
+C.	If an operator ordinarily selects night runs and the schedule is to be operated on line standing,
+they will be marked up for any available night run if they request it before 12:01 A.M. of the preceding day. Owl Run operators will be marked up with Owl Runs as comparable to their regular Owl runs as is possible. Other operators will move up accordingly.
+D.	Selected runs shall be held while the schedule is operated; provided that if four (4) months elapse, the schedule shall be posted for re-selection. City-wide picks will go into effect in January, June and September. A terminal pick will be held in April.
+E.	If a service reduction forces an operator onto the extra board while runs are held by others with less seniority on other lines, they and those below them will re-select within seven (7) days after said reduction, and they will in the interim, enjoy full seniority on the extra board.
+F.	Line Picks will be held on Fridays when it will not result in added cost or decreased efficiency. If they are not held on Friday, board standing will be operated no more than two (2) days.
+G.	No operator may lay off a run in order to be assigned a chartered service order except Gray Line or Sight-Seeing orders.
+-15 -
+H.	The maimer of selecting runs and the time required for terminal or line picks shall be determined by the employer.
+1.	In connection with city-wide picks, the approximate manpower requirements at each terminal including the number of operators to be allowed off on week days and Saturday and Sunday will be posted one (1) week prior to the closing date of transfers.
+2.	The date for closing of operator transfer shall be the Friday before the Monday on which the picking of runs begin.
+I.	The operation of the Downtown Trolley shall be classified as special service. Trolley Operators must be from the Gilbert Terminal.
+1.	Trolley Operators will be selected by Management from an eligibility list established by a posting to Transportation Equipment Operator employees only.
+2.	Seniority forthepurpose of picking schedules, days off and vacations shall be established on the date an operator becomes certified for the Trolley Board, for Trolley Operators who hold Monday through Friday runs on the Trolley Board.
+3.	All work shall be selected on the basis of seniority established on the Trolley Board, for operators who hold Monday through Friday runs on the Trolley Board.
+4.	Operators on the Trolley Board who voluntarily pick off the board shall lose their Trolley Board seniority.
+5.	Operators who have been certified as Trolley Operators, but who do not hold Monday through Friday runs on the Trolley Board, will pick runs, off days and vacations at the Gilbert Terminal according to their seniority on the TEO Board at that terminal.
+6.	The most senior operator on the Trolley Board, according to Trolley B oard seniority, will be in charge of daily operations and authorized to make adjustments in response to daily situations which may arise.
+7.	When an open run on the Trolley Board is to be filled, the Transportation Terminal Supervisor will call the relief Trolley Operators, in Trolley Board seniority order, for volunteers. The least senior Trolley Operator will be assigned if no one volunteers.
+J.	Operators who are not actively driving as a result of being on Leave of Absence, on Long Term Disability, assigned to another classification on an out-of-class basis or any reason which causes an absence in excess of twenty (20) weeks shall be removed from the T.E.O. Board until they return to active driving for the purposes of picking runs, lines, off days and vacations. Such operators will return on the Extra Board if a pick has occurred during their absence and shall remain on the Extra Board until the next pick.
+- 16-
+When an operator has been off thirty (30) days or more for any reason when a pick is in process, that operator is picked on the extra board and must remain on the extra board for the duration of the pick.
+K.	Operators who are assigned on an out-of-class basis to other classifications will not be allowed to operate coaches in service or on Chartered Service orders.
+1 2. ASSIGNMENT OF OPEN RUNS -OFF DUTY PROVISIONS
+A.	When the first run of the day is completed, the markup sheet shall have been posted for the following day.
+B.	When regular operators are excused from work before the board is marked up, the first of their then open runs off will be marked up to the first extra man, the second off to the second extra and so forth, until all open runs are assigned. The remaining extra operators will be moved up in order.
+C.	When operators are excused after having worked part of a day, they shall not be required to lose the day following.
+D.	A run open seven (7) days or more due to extended leave of absence, prolonged illness or assignment to non-platform work or separation will be subject to re-selection by a line pick.
+E.	A run which will be open at least seven (7) days due to a vacation leave or short term illness will be considered an open run for the purpose of selection by extra men.
+F.	Open runs, as defined in paragraph E, shall be subject to selection by extra men, in seniority order, for seven (7) day periods, subject to the following conditions:
+1.	The option of picking open runs will be limited to the first seventy (70) extra men in the terminal except during summer school close period when the first ninety (90) men in each terminal will be permitted to pick.
+2.	The remaining extra men in the terminal, including those who do not exercise their option of picking, shall be marked up on a daily basis in the regular manner.
+3.	Open runs will be posted in the terminal for selection by 4:00 P.M. Monday for operation on the following Monday.
+- 17-
+4.	Open runs will be subject to pick from 4:00 P.M. Monday to Midnight Tuesday only.
+5.	An open run so picked will be assigned to and held by the extra man for the ensuing seven (7) day period, or until the run holder returns to work, if same occurs sooner.
+6.	The practice of picking open runs by extra men and the number of extra men permitted to pick will be subject to adjustment at the terminal level at the discretion of the Employer.
+7.	The provisions of this paragraph F, shall not apply as to those weeks in which school schedules are operated for a portion of the week only.
+1	3. TRANSFERS - EXTRA POSITIONS
+A.	The employer shall determine the number of operators required at each terminal and shall have the right to lay off according to seniority.
+B.	Operators may be transferred to a terminal or terminals provided a city-wide pick as to terminals is allowed for those affected.
+C.	Operators transferred under the conditions of subsection B shall be required to ride lines at the terminal to which they are transferred for eight (8) hours per day for a period of two (2) days and familiarize themselves with those lines, provided the operators have never worked at the terminal to which they are transferred. Such operators will be paid for such time at the appropriate rate.
+D.	Though all runs must be selected, regular operators may pick extra men's work, in which case
+they shall receive no advantages over extra men, and shall assume a position on the extra board according to seniority, and shall not select a numbered extra board position.
+E.	If extra men who hold runs because of others picking the extra board are laid off or transferred, their runs shall be marked up to extra men until the next terminal pick.
+1 4. RUNS - DEFINITIONS - PROVISIONS
+A.	Scheduled weekday runs consisting of six (6) or more work hours will be considered as regular runs, and will be paid a minimum of eight (8) hours.
+B.	Rims shall be straight where reasonably po s sible, and shall consi st of approximately eight (8)
+hours. The time of their commencement and completion shall be posted on the schedules.
+-18-
+All runs pulling in after 9:00 P.M. will be straight.
+Sunday and holiday schedules shall consist of all straight nms.
+C.	The scheduled running time will be allowed from the pull-in point to the terminal, unless operating in express service or over expressways, and passengers shall be picked up same as in regular service.
+D.	Runs already selected may be revised and rescheduled. If thirty (30) minutes or more is added to the run, the operator with greater seniority in the line affected, may request a repick, progressive or otherwise, within forty-eight (48) hours. Operators absent because of vacation or illness may request a repick within forty-eight (48) hours upon return to work. If the revised run is decreased ten (10) or more minutes, a repick will be permitted.
+In the absence of a demand for a repick, the run will be compensated as rescheduled from the date of the change. If a repick is demanded and required under these provisions, the run holder shall be compensated for their runs as originally scheduled or as revised, whichever is greater, until the board is worked line standing.
+E.	When an operator picks a line and later a part of the line is changed and they are required to operate on a foreign line, they may request a terminal pick. A foreign line is any line other than the one that the operator picked.
+F.	Underpayments or overpayments made in computing time in a run shall be retroactively corrected upon discovery, to the effective date of the last pick, even though the run has been selected and worked.
+All other errors of underpayment or overpayment of wages or other fringe benefits shall be corrected and paid retroactively upon discovery. Such retroactive correction shall be limited to one year from the date of discovery.
+In case of overpayment to the employee, where repayment is possible, the Employer shall be entitled to recover. Attempts will be made, however, to arrange partial payments to decrease hardships upon the employee.
+G.	When two or more operators are marked up in error for the same run, the operator with the greater seniority shall be given the run and the operator with the lesser seniority shall be given other work equivalent to the run for which they were marked up. The substitute work shall not require the operator to work beyond thirty (30) minutes of the scheduled time of the run marked up in error. Operators assigned substitute work as noted above shall be paid no less than the run marked up in error.
+- 19-
+1	5. WORKERS’ COMPENSATION
+A.	An employee sustaining inj ury or occupational disease arising out of and in the course of City
+employment shall be entitled to benefits under the Workers' Compensation Act. For those employees with one or more years of seniority who have been approved for Workers' Compensation Benefits, the City agrees to continue hospitalization and life insurance benefits for a period of nine (9) months. Employees shall also be eligible for supplemental benefits in accordance with Section 44 of this Agreement.
+B.	In the absence of Workers' Compensation Benefits, those employees who are victims of physical assault and battery as determined by the Department shall be paid two-thirds (2/3) of their daily wages for a period not to exceed the first five (5) regularly scheduled work days after the incident.
+Any overpayment of Workers' Compensation shall be recovered in accordance with the provisions of Section 14F. Overpayment amounts shall be recovered through payroll deductions of up to twenty-five dollars ($25.00) weekly. There shall be a one year limitation on retroactive recovery of overpayments of Workers' Compensation. If the employee separates from service, the entire unpaid balance shall be recoverable immediately.
+C.	Consistent with the Workers’ Compensation Act and current City practices:
+1.	The City shall continue its program of returning workers who suffered job injuries back to active employment to perform work tasks which are compatible with their current physical capabilities. To the maximum extent possible, employees will be returned to their former job classification in their former department, or if no such position is available, in another City department if they are presently able to perform the essential duties with or without reasonable accommodations.
+2.	If the employee is presently able to perform some but not all of the essential duties, but there is competent medical documentation that he/she will be able to preform all such duties within ninety (90) days, he/she may be placed conditionally in an available position in the classification subject to review at the end of this period. Work tasks assigned will be those compatible with present work restrictions.
+3.	If the employee cannot presently be returned to his/her former job classification, he/she will be placed in an appropriate available position in another classification on a temporary basis until such time as the employee is able to return to he/her former job classification or acquires permanent status in the alternate classification by action of the Human Resources Department. The duration of the temporary status shall be in accordance with the Workers’ Compensation Act. During the temporary period, efforts will be made to place the employee in available positions consistent with his/her training and experience and current physical capabilities.
+-20-
+4.	While employed in the alternate j ob classi fication, whether temporary or permanent, the employee shall be representation by the local union having jurisdiction over employees in that classification and at the location. However, residual seniority rights to the employee’s former classification shall remain with his/her former local or other union. An employee in an alternate classification on a permanent basis continues to have a right to return to his/her former job classification in his/her former department when physically able to do so.
+5.	Employees returned to work under these provisions shall not be charged with absences for disciplinary purposes where there is medical documentation that such absences were caused and necessitated by the former job injury.
+6.	Employees will be eligible for wage increases granted to their alternate job classification.
+7.	Should a medical dispute arise between the employee’s physician and the Employer’s physician, a third physician will be mutually selected by the doctor’s and the third doctor’s opinion shall be final and binding on the City and Union.
+8.	The City will be responsible fornotifying the Union when an employee in an alternate job classification, on a permanent or temporary basis, is physically and mentally able to return to his or her former job classification as a Transportation Equipment Operator.
+1 6. NON-PLATFORM ASSIGNMENTS
+A.	Operators temporarily engaging in non-platform work shall continue to receive their regular base wage rate for the time actually worked. Examples of non-platform work are: transferring equipment, receiving instructions, loading, giving instructions, traffic work, and for the purpose of this section, plugging of one (1) hour or less.
+B.	When operators are required to see the supervisor outside their scheduled and paid working hours, the operators will be paid for such time at the appropriate rate.
+17. OVERTIME
+A.	The overtime rate will be time and one-half and will be paid for work in excess of forty (40)
+hours per week (and in excess of a regular run subject to provisions of Section 21 hereof.)
+-21 -
+B.	At no time shall there be a duplication or pyramiding of overtime premium and spread premium except for scheduled swing runs or when an operator on a scheduled swing run is required to work overtime by going to the end of the line when they are not relieved as scheduled, in accordance with the provisions of Section 18, b.
+C.	The following items being paid allowances shall neither be compensated for at the overtime rate or used in computing overtime premium: spread premium, extra man's weekly minimum guarantee, tripper minimum guarantee.
+D.	When an operator works on their off days, having worked all scheduled days in the Saturday through Friday work week and they have not been charged with a suspension, the following occurrences shall not deprive the operator of off-day premium:
+1.	Appearance in court on behalf of the Employer.
+2.	A miss occurring on a day on which a full run or its equivalent is worked.
+3.	Being off with permission on a paid holiday.
+4.	Being paid scheduled vacation or scheduled Casual Leave during the work week.
+E.	Extra work will be distributed as follows:
+1.	All known extra work to be operated will be posted daily when the Board is marked up.
+2.	Operators will volunteer for the posted work.
+3.	When more than one operator volunteers, the extra work will be awarded to the operator who worked the lesser amount of overtime in the previous work week.
+4.	The list of extra work will be closed to volunteers at 8:00 P.M. It will be the responsibility of the operator to check with the terminal between 8:00 P.M. and 4:00 A.M. to determine if they have been awarded that extra work.
+F.	Absences due to paid sick leave, unscheduled Casual Leave or other scheduled or unscheduled absence without pay on a scheduled work day will bar off-day premium until the operator has completed forty (40) hours of actual straight-time work during the work week.
+G.	A suspension shall not be imposed so as to cany into two (2) or more employee work weeks unless of such length as to be unavoidable or at the request of the employee.
+H.	During those weeks in which terminal or City-Wide picks are held, off-day premium will be paid only for work performed on the temporary off-days assigned for pick purposes.
+I.	Operators reporting for extra work before 3:30 A.M. on their off days shall receive work according to seniority. Operators reporting for extra work after 3:30 A.M. shall receive work on a first come basis. An operator assigned to a run may move up ahead of an operator from a foreign terminal but not ahead of a day off operator or an operator who has completed their day's work at the terminal at which the extra work occurs.
+-22-
+1 8. EXTRA WORK - REGULAR OPERATORS
+A.	Regular operators who are requested to report for extra work and who report will be paid a minimum of four (4) hours at the appropriate rate and may be required to remain on duty for the minimum four (4) hours period,
+B.	When an operator is not relieved from duty as scheduled, they shall notify the dispatcher via their coach radio or the Terminal Supervisor via the nearest convenient public telephone enroute to the scheduled destination of their line. Such operator must continue enroute, in service, to the end of the line, unless specifically authorized by the dispatcher or Terminal Supervisor to pull in before going to the end of the line. The operator may then pull in from the end of the line, but may not be required to operate in service on pull in.
+1	9. SPREAD PREMIUM
+Spread premium of half the base rate will be allowed in addition to any overtime premium on scheduled swing runs. If more than ten (10) hours, including report and tum-in time, are scheduled to elapse in such a run from the first required report to the time of completion, the operator working and completing it will receive the premium for the scheduled period beyond ten (10) hours. An operator will not be entitled to spread premium for work beyond their scheduled swing run except as provided in Section 17B.
+20.	REPORT AND TURN-IN TIME
+A.	Operators shall report to their terminals fifteen (15) minutes before their runs are scheduled to leave.
+B.	On each day they perform platform work, operators will be paid twenty (20) minutes for reporting, preparing for work, moving vehicles in and out of the terminals and turning in.
+C.	Twenty (20) minutes will be considered as time worked and shall be used in the computation of all overtime.
+21.	OWL RUNS
+A.	An owl run is a night run scheduled to finish after 3:30 A.M.
+B.	The owl rate will be 104% of an operators basic wage rate. This rate will be paid for working
+a complete scheduled owl run and any late time on the same.
+-23 -
+C.	The said owl rate will also be paid for a portion of an owl run if operated through 3:30 A.M.,
+and either started or finished as scheduled.
+D.	Owl runs shall be started as early as practicable; the owl operator's wages to start no later than
+midnight.
+E.	For the purpose of computing earnings, extra work begun before 10.00 A.M. following completion of an owl run will be regarded as work of the previous day.
+22.	LATE TIME
+Operators will be paid for delays in runs or swings thereof provided that on the day the delay occurs the operator shall submit a late slip (which is detachable from the trip sheet) for same and explain the reason for the delay. The late slip must also be submitted to be eligible for payment of the late time.
+23.	RELIEF TIME
+When an operator is required to relieve or to be relieved on the road, the operator will be paid the running time from the relief point to the terminal, in addition to any platform time worked. Such time will be considered as time worked.
+24.	TRIPPERS
+A.	Trippers are runs of less than six (6) hours duration.
+B.	A minimum guarantee of two (2) hours pay at the straight time rate including report and turn-
+in time, but excluding overtime premium, will apply to any tripper or extra other than Charter Service Orders or Revenue Specials in those instances where an operator works same as a separate and unrelated assignment prior to or following completion of their regular work assignment for the day or when same is worked on an off day.
+C.	Said minimum guarantee shall not apply to coupled trippers or extras unless the combined time of same is less than two (2) hours, in which case the guarantee shall apply as one assignment.
+-24-
+25.	INSTRUCTION RATE
+A.	118.75% of an operator's basic straight time rate will be paid operators for instructing students
+or trainees.
+B.	Operators will be selected as instructors based upon their demonstrated superior performance.
+C.	Unless the instructing operator is found negligent in their duties, they shall not be charged with any accident in which the student is involved, and it will not be entered on their record.
+D.	122.75% of an operator's basic straight time rate will be paid to operators for instructing students or trainees during an owl run.
+26.	OPERATORS RETURNED TO TRAINING
+A.	Operators required to return to training on a re-break status shall be compensated as follows:
+1.	Operators with less than six (6) months of service or have not completed their probationary period shall be compensated at the student rate.
+2.	Operators who have completed six (6) months of service and having completed their probationary period shall be compensated at their regular rates including spread and other premiums.
+B.	Operators returned to training have the option of wearing their uniforms or the same dress required of student operators.
+C.	The student rate will be paid in accordance with the minimum wage provisions of the Fair Labor Standards Act.
+27.	COURT - CLAIMS - ACCIDENT REPORTS
+A.	Operators required to report to the Law Department, attend court for the department, or the City of Detroit, or to be detained at the terminal, shall be paid the regular wage rate plus travel time, and less witness fees.
+When it is necessary that an operator be relieved for these purposes after, or prior to, working a portion of their run, they shall be paid for their entire run as though worked and shall be paid for all time consumed beyond the scheduled work hours of their run. In such cases any extra platform work performed before or after the scheduled hours of their run shall be compensated at the overtime rate provided the operator makes themselves available for work, during the scheduled hours of their run.
+-25-
+This provision shall not be construed as precluding the department from marking an operator off their entire run for the day for these purposes, in which case they shall be paid only for the actual time consumed plus any difference necessary to compensate them for the equivalent of their run.
+B.	When five (5) or more operators from a terminal are requested to appear for interview or other
+Law Department purposes, arrangements shall be made to see the operators at their respective terminals.
+C.	Pay for thirty (30) minutes will be allowed an operator for making out a required accident report and fifteen (15) minutes will be allowed for a required written statement, carbon copies will suffice as duplicates.
+28.	CHANGE OFF OF EQUIPMENT
+Operators, when used to change off vehicles, will be allowed pay for the actual running time plus ten (10) minutes at the straight time rate, provided that they will receive the overtime rate for such work if it is performed in addition to eight (8) hours of work.
+29.	PAID INTERVENING TIME IN SWING RUNS
+A.	When an unworked interval in a swing run amounts to one (1) hour or less, it will be treated and compensated for as actual platform time.
+B.	The lesser of the two (2) unworked intervals in a three (3) piece swing run will be treated and
+compensated for as actual platform time.
+30.	RUNNING TIME
+A.	When the complaints of the operators show there should be an adjustment in running time or
+drop back on any line or lines, upon written notice to the board member from at least five (5) operators so affected, a representative or representatives of the employer and a representative or representatives of the union together shall make a thorough study of the line or lines in dispute. When it is decided to make a schedule change, the department will rectify such running time and/or drop back as soon as practical, but not to exceed thirty (30) days.
+B.	When changed conditions affect service, running time shall be adj usted for added coach stop s
+or traffic lights.
+-26-
+31-	REST PERIODS
+A.	An operator who has performed eight (8) or more hours actual work or completed their assigned show-ups shall be given a rest period of not less than eight (8) hours if they so request.
+B.	An extra operator who completed only one (1) show-up can demand no such rest period unless they have worked a run or completed eight (8) hours work.
+C.	An operator reporting at the designated time following such a rest period will be assigned work prior to those with less seniority whether they are then or later put on show-up.
+32.	CANCELED WORK SUBSTITUTION
+A.	When a regular run, or portion is canceled in a schedule, the run holder shall nevertheless be paid as though they worked same, but they may be used in other work if in duration it • approximates that which was canceled.
+B.	The substituted work shall not start before or end more than thirty (30) minutes after that which was canceled, unless the substitution is for the last half of a swing run. With proper notification, work which starts and ends earlier may be substituted for the last half of a swing run.
+33.	EXTRA OPERATORS
+A.	Extra operators, working a five (5) day week, who fulfill the requirements of this section, shall be guaranteed total weekly compensation of forty (40) hours at the regular straight time rate.
+B.	Their work will be marked up and/or they will be placed on show-ups from which assignments will be made in the order of their seniority.
+C.	Extra operators may be required to serve two (2) show-ups daily of not more than three (3) hours each of which the second show-up must be scheduled to complete within ten and one-half (10-1/2) hours after the start of the first show-up. No second A.M. or P.M. show-up shall be given until prior first show-ups are terminated.
+D.	In the event of the following occurrences an operator shall have their weekly guarantee reduced by eight (8) hours for each such occurrence.
+-27-
+1.	Refusal to make an assigned show-up and/or perform all assigned work.
+2.	Failing to report immediately for further assignments when less than eight (8) hours work, including report and turn-in time, is received on the first show-up.
+3.	While serving at the bottom of the board for disciplinary reasons.
+E.	In case of the following occurrences, an operator shall have their minimum weekly guarantee
+reduced by the difference between the time actually worked by them for the day and eight (8) hours for each occurrence:
+1.	A single miss or double miss;
+2.	Inability to finish a work assignment due to illness which necessitates their being relieved from their vehicle;
+3.	When permitted to change their first or second daily show-up for any reasons, excluding a rest period. (In such cases, extra man's spread minimum will not apply for the day.)
+F.	If an operator is assigned a run on their first daily show-up, they shall work same to completion and shall enjoy the status of a run holder, with any spread premium being payable after ten (10) hours, inclusive of report and turn-in time, but beginning with time of show-up.
+G.	Operators shall not be entitled to exercise preference for runs or trippers.
+H.	When pieces of work are hooked up and assigned an operator on show-up, or when separate assignments are commenced within one (1) show-up period, the time between separate pieces will be paid for as time worked.
+I.	Scheduled pieces of work may be split or divided by assigning only a portion, or by relieving
+the operator already assigned, but this shall not be done when an operator received a run on first show-up.
+J.	Operators must complete work assignments except when given specific permission to pull in.
+If an assignment made on the second show-up would require that an operator work more than nine (9) hours including report and turn-in time or beyond a daily spread oftwelve(12) hours, they may request that they be relieved at a relief point reached after the eleventh (11th ) spread hour or eighth (8th) work hour.
+If the operator is not relieved as requested, they shall notify the dispatcher via their coach radio or Terminal Supervi sor via the nearest convenient public phone enroute to the scheduled destination of their line. Such operator must continue enroute, in service, to the end of the
+-28-
+line, unless specifically authorized by the dispatcher or the Terminal Supervisor to pull in before going to the end of the line. The operator may then, pull in from the end of the line, but may not be required to operate in service on pull-in.
+K.	All work time, report and tum-in time, allowances, premiums and bonuses shall be included in computing the minimum weekly guarantee provided that the following items are excluded and shall be paid in addition to any weekly guarantee allowance that may be due:
+1.	Work performed on off days.
+2.	Extra work performed after completion of work assignments received on show up.
+3.	Extra man's spread premium.
+L.	Operators on show-up shall be subject to an assignment within the classification of Transportation Equipment Operator.
+M.	An extra operator may be sent to a foreign terminal for work during a day, but their travel time to and from their terminal will be paid as work time.
+N.	Each extra man, in good standing, will be entitled to and may be required to serve on show-up
+in seniority order on each of their scheduled work days even though their earnings exceed their minimum weekly guarantee.
+0.	On the six (6) major holidays, operators required to serve on show-up will be guaranteed a minimum of three (3) hours pay at the holiday premium rate, for each show-up, provided they meet the standard extra man requirements.
+34.	MISSING ASSIGNMENTS
+A.	Subject to the provisions of paragraph C, when a operator misses in the A.M., but reports within two (2) hours, they shall either be put on the next A.M. show-up or be assigned a later show-up or be dismissed for the day in accordance with the requirements of the service. If not put on the next A.M. show-up, they will be assigned to only one (1) show-up that day.
+B.	Subject to the provisions of paragraph C, when an operator misses in the P.M., but reports within two (2) hours they shall either be put on the next P.M. show-up or be assigned a later P.M. show-up or be dismissed for the day in accordance with the requirements of the service. If not put on the next P.M. show-up, they will be assigned to only one (1) show-up that day.
+C.	An operator missing more than five (5) times in a fiscal year (July to June) may, by reasons
+thereof, be assigned work at the bottom of the extra man show-up list when they report for work following the miss. All operators miss record will be wiped clean at the beginning of each fiscal year.
+-29-
+D.	When an operator misses and does not report within two (2) hours, the penalty when they do report shall be on that day as per A and B hereof. On their next work day they shall be placed as last extra man.
+E.	Operators when serving on show-up as extra men, shall be required to make all show-ups required for extra men in accordance with the terms of Section 33, paragraph C of this contract. No operator, while serving penalty time for missing will be entitled to the minimum weekly guarantee for extra men as to time lost on such days.
+F.	If an operator misses all or part of their assigned run and is assigned a new piece of work in
+substitution, therefore, the said new piece of work will be considered as unconnected with any other work performed by them on that day prior to the miss except for the purpose of computing daily overtime premium. All penalties and allowances computed on the run originally assigned shall be forfeited.
+G.	When an operator fails to report on time for the second part of their assigned run and then picks up their run and works the remaining part, they shall not be entitled to receive spread bonus for the run unless their late report was due to failure to DOT service.
+H.	In computing spread premium, any work performed after a miss must be regarded as unconnected with that performed before a miss.
+35.	FUNERAL LEAVE (WITH PAY)
+A.	If a death occurs among members of the employee's immediate family, such employee will be granted three (3) days leave not to be charged to Casual Leave or Sick Leave, provided that such leave may be extended to five (5) days if the funeral which the employee attends is more than 300 miles from the City of Detroit and charged to Casual Leave, Sick Leave, Vacation or without pay based upon individual circumstances. When an employee is entitled to three (3) days leave under this provision and the funeral is within 300 miles of Detroit, they shall be granted two (2) days to be charged to Casual Leave, Vacation or Sick Leave upon their request.
+B.	A Definition of Immediate Family: The immediate family is defined as wife, husband, son,
+daughter, brother, sister, father, mother, stepfather or stepmother.
+C.	If death occurs among the relatives of the employee, the employee will be granted one (1) day
+leave, not to be charged to sick leave or Casual Leave provided they attend the funeral. If the funeral which the employee attends is more than 300 miles from the City of Detroit, the employee may extend the leave by two (2) days to be charged against Casual Leave, Sick Leave or Vacation upon their request.
+-30-
+D.	Definition of Relative: Relatives are defined as grandson, granddaughter, grandmother, grandfather, brother-in-law, sister-in-law, uncle, aunt, mother-in-law and father-in-law.
+E.	In the event the local union president could not attend, their designated representative from the bargaining unit with proper notification to the department head, shall be allowed one (1) funeral leave day, not to be charged to Casual Leave or Sick Leave, in the event of the death of a member of the bargaining unit covered by this agreement.
+36.	VACATIONS
+A.	Annual paid vacation based upon employment and service will be granted those who qualify for same.
+B.	Employment will be credited while one is listed as an active employee with the Department
+of Transportation or with other City departments as per Appendix B hereof. One will not be considered employed during periods of layoff or during leaves of absence unless same are for military service as per Appendix A, or for training encampments as reservists as per Board Meeting No. 1750.
+C.	A service day is one for which an operator earns wages for work, holidays, vacation, sick leave, in military or City service as provided in Appendixes A and B.
+D.	Operators will become eligible for full paid vacation for each employment year of 225 or more service lays.
+E.	Those who fail to accumulate 225 service days shall be entitled to one-twelfth (1/12) of a vacation for each month of eighteen (18) or more such service days only.
+F.	Upon separation for any reason other than mishandling fares, operators will be paid vacation
+due and earned in the previous year. Operators separating by resignation or discharge after a departmental finding of guilty of mishandling fares, shall be ineligible as to any vacation allowance.
+G.	Those who die, or are granted a leave of absence, or are separated for reasons other than discharge, shall be entitled to prorated vacation leave on the basis of one-twelfth (1/12) of a vacation for each month of eighteen (18) or more service days.
+H.	No full or partial vacation shall be allowed until an operator completes their first employment
+year, but they shall then be allowed vacation earned up to July 1st, and it shall be connected with their next succeeding off days. Subsequent vacations shall be computed on a fiscal year basis.
+-31 -
+I.	Operators vacation allowances will be as follows:
+VACATION ALLOWANCE
+Year of Service	Vacation Davs	Allowance Hours
+1	5	40
+2-5	10	80
+6	11	88
+7	12	96
+' 8	13	104
+9	14	112
+10-12	17	136
+13	18	144
+14	19	152
+15 or more	20	160
+J.	Operators shall not be entitled to enjoy more than one (1) vacation in any fiscal year unless they separate as in paragraph G.
+K.	When one (1) of the holidays falls during an operator's vacation period, their division head
+will determine whether or not to pay them for one (1) extra day or extend their paid vacation.
+L.	Management shall determine the number of vacation leaves to be scheduled at any given time
+of the year, and they shall base such determination on the requirements of the service. Vacation periods will then be selected by operators according to seniority.
+M.	Operators going on two (2) or more consecutive weeks of vacation leave may, by advance written notice to the paymaster, have their paychecks forwarded to themselves, by mail, on pay days.
+N.	Operators will be permitted to select up to four (4) weeks regular vacation, not including bonus vacation, on the first selection, provided that no more than three (3) weeks may be selected during the prime vacation period starting with the school close schedules in June and ending with the school open scheduled in September.
+O.	When the vacation pick is finished, a copy of the vacation schedule will be given to the Union.
+P.	An operator must pick all earned vacation during the vacation pick except an amount which is less than five (5) days. All vacation must be used by June 30th of each year. An operator will not be granted a vacation day if the scheduled vacations have reached the quota.
+-32-
+Q.	All unused vacation which has not been picked, will be posted in the terminal between April 1st and April 10th of each year. Such vacation will be picked from the vacation schedule. Any vacation which remains unused on June 30th will be forfeited.
+R.	Vacation will be considered as time worked for the purpose of computing off day overtime.
+S.	Operators will be allowed to work their scheduled vacations at the bottom of the board.
+37.	HOLIDAYS
+Operators shall be compensated as follows for eleven (11) recognized holidays, consisting of Independence Day, Veterans' Day, Labor Day, Thanksgiving Day, Election Day, Christmas Eve, Christmas Day, New Year’s Eve, New Year's Day, Martin Luther King's Birthday and Memorial Day.
+When there is no major election during the year, Election Day will be paid on the first Tuesday after the first Monday in November of that year.
+Four (4) hours pay at straight time, in addition to regular pay for time worked, will be paid for Good Friday. Operators do not have to be working on this day, provided they are in good standing.
+A.	Operators in good standing shall receive eight (8) hours pay at their then base rate when excused from work on any of the above holidays provided those operators will qualify for holiday pay if they are paid for at least eight (8) hours, exclusive of overtime, anytime in the calendar week prior to, during or after the holiday, providing that they continue on the payroll through the holiday in question.
+B.	The unexcused absence from work by an operator on a holiday will result in loss to them of the holiday pay allowance.
+C.	Absence due to illness on a holiday must be approved by the Sick Leave Board prior to payment of holiday allowance.
+D.	An operator missing or serving at the bottom of the board of same on the aforesaid service days or holidays, who nevertheless is assigned and performs eight (8) hours work, including report and turn-in time, shall not be denied holiday pay by reason thereof, if they are otherwise qualified.
+E.	An operator who works on a holiday and who qualified for aforesaid eight (8) hours pay, shall
+receive same plus their regular pay for the work in lieu of any off-day premium. If they fail to qualify for the holiday pay, they shall receive only the regular pay for their work
+-33-
+performance. Qualified operators who work on New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day will be paid two hundred percent (200%) of their base rate for all hours worked plus eight (8) hours holiday allowance. If holiday schedules are operated on Martin Luther King's birthday, the premium rate will be paid the same as the above holidays.
+F.	If an operator is qualified to receive pay for a holiday which falls on their seventh (7th) day according to their work schedule, then the Employer will within its discretion either grant their holiday pay for the said day or allow them another work day off with holiday pay.
+G.	Exclusive of Election Day and Veterans' Day a pick of the remaining six (6) major holidays will be held once a year, and each operator shall in accordance with their seniority be required to select three (3) of the holidays as days off.
+38.	HOSPITALIZATION, MEDICAL INSURANCE AND OPTICAL CARE
+A.	The City shall provide hospitalization and medical insurance based on the Blue Cross/Blue Shield ward service under the Michigan Variable Fee coverage (MVF-2) and the Prescription Drug Group Benefit Certificate with two dollar ($3.00) co-pay (Certificate #87), known as the two-dollar ($2.00), deductible Drug Rider for employees and their legal dependents, duty disability retirees and their legal dependents, duty death beneficiaries and their legal dependents as provided by Chapter 13, Article 11 of the Municipal Code of the City of Detroit.
+NOTE: The $2 deductible Drug Rider (Certificate #87 referenced above) reflects the benefit at the time the premium sharing arrangement was instituted. Currently, the co-pay for the Prescription Drug benefit is $3. Retirees shall be responsible for the co-pay amount in the effect at the time of retirement.
+B.	The City will pay up to the following amounts per month for hospitalization:
+Single Person	$100.06
+Two Persons	$238.29
+Family	$253.54
+Fifty percent of any premium charges that exceed the above amounts shall be paid by the employees and fifty percent shall be paid by the employer.
+C.	Employees who wish to insure sponsored dependents shall pay the premium cost of this coverage.
+-34-
+D.	The City will provide regular retirees and their spouses hospitalization and medical insurance
+based on the Blue Cross/Blue Shield ward service under the Blue Cross,/Blue Shield ward service under the Michigan Variable Fee Coverage (MVF-2) and the Prescription Drug Group Benefit Certificate with two dollar ($3.00) co-pay (Certificate #87) known as the two dollar ($2.00) deductible Drug Rider as provided by City Council in the 1977-78 Closing Resolution. The City will pay this premium for regular retirees and their spouses for only as long as they receive a pension from the City. For persons who retire on or after July 1,1986, the City will pay up to the following amounts per month for hospitalization and medical insurance:
+Single Person	$100.06
+Two Persons	$238.29
+Fifty percent of any increase over these amounts shall be paid by the retiree and fifty percent shall be paid by the City. The City will pay this premium for regular retirees and their spouses only for as long as they receive a pension from the city.
+E.	The City Blue Cross hospitalization plan for active employees and their dependents and retirees and their spouses shall include Blue Cross Master Medical Insurance with a twenty percent (20%) co-pay benefit and a fifty dollar ($50.00) per person annual deductible ($100.00 for two or more in a family).
+F.	Employees and retirees shall have the option of choosing alternative hospitalization medical
+coverage from any plan or program made available by the City. The Union shall also have the option of selecting a traditional carrier provided they meet the standards as set forth in this section. The City's contribution to the alternative plans or programs shall be limited to the premium cost charges by Blue Cross/Blue Shield for the level of benefits provided in Paragraphs B and D, as applicable. If at the end of any fiscal year an alternative hospitalization plan or program has failed to enroll 50 employees city wide, the City shall have the option of removing that plan from the list of eligible plans or programs. Effective with the 1987-88 fiscal year all alternate carriers must account for their premium charges without distinguishing between active and retired employees using the following format:
+Single Person
+Two Person
+Family
+Any alternate traditional hospitalization carrier selected by the Union must furnish the City with an annual financial accounting for rate development and experience data by April 1st each year for the members insured by that company.
+In the event that Blue Cross/Blue Shield will no longer coexist with an alternate traditional carrier and the union does not select Blue Cross/Blue Shield as a carrier, benefits offered to current retirees insured by Blue Cross/Blue Shield shall be substantially equivalent to those as of June 30, 1986.
+-35-
+G.	The City shall provide for all active employees and their dependents a Dental Plan which shall be the Blue Cross/Blue Shield program which provides Class I benefits on a 25% co-pay basis and Class II and III benefits on a 50% co-pay basis. Classes I, II and III benefits shall not exceed $1,000 per person per year. In addition, Orthodontic coverage shall be on a 50% co-pay basis with a $1,000 life time maximum.
+The City will contribute an equal amount per employee to a dental capitation plan made available to its employees.
+Newly hired employees shall not be eligible for these benefits until they shall have worked 1,040 straight time hours.
+H.	The City will provide Optical Care Insurance through the Employee Benefit Board, such benefit will include case hardened lenses.
+I.	If, during the term of this Agreement, a Federal Health Security Act is enacted, the City of Detroit will pay during the term of the Agreement any premium, taxes or contribution employees may be required to pay under a Federal Health Security Act that are specifically earmarked or designated for the purpose of the Federal Program.
+J.	No insurance carrier shall be allowed to underwrite City Health Care Benefits unless it offers
+coordination of benefits.
+K.	The City reserves the right to implement Health Care Cost Containment Programs during the
+term of the Contract. Said Cost Containment Program shall not diminish the levels of benefits provided in the basis plans but may require the insured to follow procedures prescribed by the carrier in order to be eligible for benefits. If premium levels remain below the 1982-83 base year premiums for coverage listed in paragraph B, the City will pay fifty percent (50%) of that amount to an escrow account which shall be used to offset health care cost or to increase health care benefits.
+L.	Effective January 1,1987, the City shall implement a Preferred Provider Prescription Drug program in its traditional hospitalization plan.
+39.	EMPLOYEES SERVING ON JURY DUTY
+A.	An employee who serves on jury duty will be paid the difference between their pay for jury duty and their regular day's pay for all days they are required to serve on jury duty.
+B.	In the event that an employee reports for jury duty but is not selected to actually serve on a jury, they will be paid the difference between the jury pay received and their regular day's pay and be excused for the day, exclusive of travel pay.
+-36-
+C.	In order to receive payment for jury duty an employee must have been regularly scheduled to work on a non-overtime basis and within ten (10) days of completion of serving on jury duty they must turn in documentation received from court to departmental supervisor of such service, otherwise, all monies paid will be recovered by the department.
+D.	Jury duty shall be considered as time worked. Run holders will be paid for the difference between pay for jury duty and pay for their regularly scheduled runs. Extra persons will be paid the difference between pay for jury duty and eight (8) hours.
+E.	An operator serving on jury duty shall report for scheduled work on any day they are not required to serve on jury duty.
+F.	An operator who is required to serve on jury duty is not required to report for work that day regardless of the time of their scheduled work.
+40.	LONGEVITY PAY
+A.	Employees shall qualify for longevity pay as follows:
+1.	Employees may qualify for the first step of longevity pay, provided they have served as City employees for an accumulated period of five (5) years.
+2.	Employees may qualify for the second step of longevity pay, inclusive of the first step provided they have served as City employees for an accumulated period of eleven (11) years.
+3.	Employees may qualify for the third step of longevity pay, inclusive of the first and second steps, provided they have served as City employees for an accumulated period of sixteen (16) years.
+4.	Employees may qualify for the fourth step of longevity pay, inclusive of the first, second and third steps, provided they have served as City employees for an accumulated period of twenty-one (21) years.
+5.	Employees may qualify for the fifth step of longevity pay, inclusive of the first, second, third and fourth steps, provided they have served as City employees for an accumulated period of twenty-six (26) years.
+6.	The first step of longevity increment shall be one-hundred fifty dollars ($150). The second step of longevity increment inclusive of the first step, shall be three-hundred dollars ($300). The third step of longevity increment, inclusive of the first and second steps, shall be four-hundred and fifty dollars ($450). The fourth step of longevity
+-37-
+increment, inclusive of the first, second and third steps, shall be six-hundred dollars ($600). The fifth step of longevity increment, inclusive of the first, second, third and fourth steps, shall be seven hundred and fifty dollars ($750).
+B.	Employees who have qualified for longevity pay and have accumulated at least eighteen-hundred (1,800) hours of straight time Regular Payroll hours of paid time during the year immediately preceding any December 1st date or other day of payment will qualify for a full longevity payment provided they are on the payroll on the December 1st date or any other date of qualification. Except for employees first qualifying for increments, the payment will be made in a lump sum annually on the first pay date after December 1st.
+No employee will be denied a full longevity payment on December 1st because of a temporary unpaid absence of twenty (20) continuous days or less extending through the December lsl date in question.
+C.	Employees who first qualify for longevity pay increments in any month after any December
+1st date shall be paid such increment on a pro-rata basis upon attaining such qualification in the amount of a full increment less one-twelfth (1/12th) thereof for each calendar month or fraction thereof from the previous December 1st date to date of such qualification.
+D.	Prorated longevity payments may be made between December 1st dates to qualified employees and officers who separate or take leave from City service, excluding those who are discharged, those who resign and those who resign with a vested pension. Such prorated longevity increment shall be paid for time served on a full calendar month basis since the date of their last longevity payment; provided, that each month shall contain at least 160 straight time Regular Payroll hours of service.
+E.	All of the above provisions except as modified herein shall be in accordance with Chapter 13,
+Article 7, of the Municipal Code, of the City of Detroit.
+41.	MISCELLANEOUS BENEFITS
+A.	Employee benefits as contained in City of Detroit Ordinances establishing sick leave, retirement sick leave, longevity, layoff benefits, vacation transfer and jury duty shall apply unless otherwise modified by this Agreement.
+B.	The requirements for promotion of the Transportation Equipment Operators to the classification Transportation Station Worker shall be a minimum three (3) years of service in the classification of Transportation Equipment Operator which is satisfactory to the department.
+-38-
+C.	A suitable watch will be presented by the Department of Transportation to each employee represented by the Union upon their retirement, and inscribed with the length of service and date of retirement.
+D.	Active and retired employees will be permitted to ride without charge on all local, express and
+zone fare coaches, excepting Race Track or Special Service coaches, without payment of any additional or premium fare upon presentation of a current pass card or a retirement pass card.
+E.	Employee benefits for those employees sixty-five (65) years of age and older may be modified as permitted by law but shall not result in any additional cost to the employee, (e.g. coordination of medicare/medicaid coverage with City hospitalization coverage).
+F.	Bargaining unit members may participate in the City's Tuition Refund Program as administered by the Human Resources Department. Employees requesting a tuition refund should submit the applications to the Human Resources Officer in their department.
+The maximum amount of the tuition refund shall be six hundred ($600) per fiscal year.
+42.	UNIFORMS
+A.	Those operators having completed one (1)* year of service and are actively working in the classification of T.E.O., shall be granted an annual uniform payment of two hundred and ten dollars ($210.00). Those operators who are receiving Sick Leave Allowance or Sickness and Accident benefits, Long Term Disability benefits, on Leave of Absence, or not actively working in the capacity of T.E.O. during the week the uniform payment is issued will not be entitled to receive a uniform payment. However, upon their return to work and after actively working a full regularly scheduled work week the operator will be issued a uniform payment at that time.
+*One (1) year of service is twelve (12) months of eighteen (18) paid days.
+B.	One (1) year notice will be given to the operators and the Union if the standard of uniform is to be changed.
+C.	The tailoring, quality of material, cut and design of uniform, which shall include culottes (for
+women) and vests, will be determined jointly between Management and the Union.
+-39-
+FABRIC SPECIFICATIONS:
+Jacket	16-16-1/2 oz.,	55% Dacron/45%	Wool
+Winter Trousers	16-16-1/2 oz.,	55% Dacron/45%	Wool
+Summer Trousers	11-11-1/2 oz.,	55% Dacron/45%	Wool
+Shirt Sweater	07-07-1/2 oz.,	65% Dacron/35% Wool 100% Wool or equal	
+D.	Operators must wear a clean uniform and tie (optional) and may not wear a vest without a jacket or sweater. Operators may wear brown or black shoes with one (1) inch heels and 1/2 inch soles.
+E.	Uniform jackets will be specified for operators in winter months. Operators shall wear a uniform jacket or sweater when the vehicle is heated.
+F.	Any operator wearing other items not a part of the designated uniform will be considered "OUT OF UNIFORM" while on duty.
+G.	During the period from May 1st to October 1st, the operators may operate without uniform jackets or sweaters, in shirt sleeves.
+H.	An operator may operate at any time without their uniform cap, if they so choose, as long as the same is so displayed as to leave the badge number in plain view and no other cap or hat is worn while they are on duty. However, the uniform cap must always be wom when:
+1.	Reporting for duty to the Transportation Terminal Supervisor
+2.	Receiving or returning transfers or refund slips at the Cashiers window
+3.	Securing a coach assignment from the Transportation Station Worker
+4.	Leaving the coach when identification is necessary, such as securing information on an accident
+5.	Ona Charter Service Order
+6.	When working as a Loader
+7.	On an assignment where a full uniform is specified.
+-40-
+43.	REDUCTION IN FORCE
+Laid-off employees covered by this Agreement shall receive unemployment benefits in accordance with the unemployment insurance plan administered by the Michigan Employment Security Commission under the Michigan Employment Security Act.
+SECTION 1	- REDUCTION IN FORCE TERMS DEFINED
+A.	A reduction in force is a reduction in the number of employees in a given class in a department of the City for lack of work, lack of funds or reasons other than the acts or delinquencies of employees.
+The expiration of a limited term certification or change of status shall not be considered a reduction in force.
+B.	A layoff due to reduction in force is the removal of an employee from a position in a department and from the classified service of the City of Detroit, subject to the recall rights provided under this Rule.
+C.	A demotion due to reduction in force is the removal of an employee from a position in a class
+in a department by change of status to a position in a lower class.
+D.	A transfer due to reduction in force is the removal of an employee from aposition in a class
+in a department by change of status to a position in another class which is at the same level.
+E.	A voluntary lay off is a removal of an employee from the classified service of the City of Detroit which is made at the request of and for the convenience of the employee.
+F.	Unless otherwise indicated, seniority shall mean total City seniority as determined in accordance with Human Resources Department Rules.
+G.	An employee acquires status in the classified service by certification in accordance with Section 6-510 of the City Charter and Human Resources Department Rules III and IV.
+H.	An employee who is certified, promoted, transferred or demoted to a position in a class on a regular permanent basis or permanent-subject to continuing availability of program funding, acquires permanent status in the class, provided they have satisfied all qualification requirements of the class including completion of any required probation period. An employee can have permanent status in only one class at a time.
+I.	An employee who is certified, promoted, transferred or demoted to a position in a class only for a specified term on conditional event, or where the certification or status change states that such employment is limited to assignment on a particular proj ect, acquires limited-term status in the class.
+-41 -
+SECTION 2	- ORDER AND MANNER OF REDUCTION
+In the event of a planned reduction in force, when time is available, the Union will be given a seventy-two (72) hour notice of the layoff.
+Reduction in force shall be by class in a department and shall be made from among all employees in the same class in that department.
+A.	Within the department, the following categories shall be removed first:
+1.	Provisional employees shall be separated by terminating their services; provided, however, that employees provisionally employed in the class who hold permanent status in some other class shall revert to the class in the department from which they were provisionally promoted or transferred.
+2.	Employees who have not completed their initial probationary period shall be laid off in accordance with their seniority, the least senior employee first.
+3.	Employees hired on a limited-term basis shall be laid off in accordance with their seniority, the least senior employee being laid off first.
+B.	In the event it is necessary to reduce the number of permanent status employees in the class,
+the order of removal shall be as follows:
+1.	Employees in the class on a limited-term basis and employees in the class on a permanent basis who have not completed the required probationary period, but who hold permanent status in some other class, shall be restored to the class from which they were promoted or transferred. Removal shall be in accordance with their total City seniority, the least senior employee to be removed first.
+2.	Employees in the class on a permanent basis shall be removed in accordance with their total City seniority, the least senior employee to be removed first. Such employees shall be laid off subject to the following demotion or transfer rights within the department:
+(a)	Demotion in Series
+If the employee is in a class in an occupational series, the employee shall have the right to be demoted to a position in a lower class in the series, provided there are one or more employees in the lower class in the department having less total City seniority. (The least senior employee displaced as a result shall be subject to demotion, transfer or layoff in accordance with applicable provisions of this Rule.)
+-42-
+An employee who waives their right to demotion to the next lower class in series and is laid off shall lose all rights to City-wide displacement, as provided for in Section 3, and restoration rights, as provided for in Paragraph A, of Section 4.
+(b)	Demotion or Transfer to a Formerly-Held Class
+If the employee has previously held permanent status in another class not in series which is at the same or lower level, the employee may elect demotion or transfer to such class, provided there are one or more employees in the class in the department having less total City seniority. (The least senior employee displaced as a result shall be subject to demotion, transfer or layoff in accordance with applicable provisions of this Rule).
+An election to accept a demotion or transfer to a formerly held class is optional for employees who also have a right to a demotion in series.
+(c)	Change of Status to Vacant Positions in Other Classes
+If the employee has exhausted their rights to demotion or transfer under (a) and (b) above, the department may, in so far as the interests of the service permit, propose transfer or demotion of the employee to an available vacant position in any other class in the department for which the department believes the employee is qualified. Such proposed change of status shall be subject to the approval of the Human Resources Director.
+SECTION 3	- CITY WIDE DISPLACEMENT
+Employees with permanent status who have been laid off in a class from a City department shall displace employees of the same classification in those categories listed in Paragraph A, of Section 2, on a city-wide basis. In addition, laid off permanent employees who have one or more years of classified service shall displace other permanent employees in the same classification of lesser seniority on a City-wide basis; and if there are no lesser seniority employees in the same classification, shall have the right to displace lesser seniority employees in a lower class in the same occupational series. Employees who fail to exhaust their eligibility for demotion to the next lower class in series in their department shall lose their eligibility for City-wide displacement. (Least senior employees displaced under this section shall be subject to demotion, transfer or layoff in accordance with applicable provisions of this Rule).
+Displacement of lesser seniority employees across departmental lines shall be accomplished by layoff and displacement certification and shall coincide with the effective date of the layoff, if possible, but in any event within thirty (30) days of the effective date of layoff of employees having displacement rights.
+-43 -
+SECTION 4 - RE-EMPLOYMENT PROCEDURES
+A.	Employees with permanent status in the class who were laid off, demoted, transferred or laid
+off and certified to a lower class as a result of reduction in force shall have their names maintained in order of their total City seniority on a special register ("blocking list") in the Human Resources Department. Such employees shall be entitled to recertification, promotion or transfer from the register to any vacancy in the class from which they were demoted, transferred or laid off, or any lower class in the same series in any City department, before any such vacancy can be filled by certification, promotion or transfer.
+An employee's name shall remain on the special register until they are restored to the classification (or equivalent level) from which they were demoted, transferred or laid off, or waives an offer of such restoration.
+B.	Laid off employees who elect layoff in lieu of demotion in series shall be placed on the preferred eligible list for the class in which they were laid off and shall be recertified to available vacancies in this class in the order of their total City seniority from the list.
+C.	Laid off employees shall be placed in preferred eligible lists for all other classes in which they
+have held permanent status and shall be offered certification to available vacancies in these classes in the order of their total City seniority from such lists, provided that employees who were laid off in such classes have been first recalled.
+Should a laid off employee on a preferred eligible list waive an offer of employment to a position in the class, their right to remain on that list shall terminate.
+D.	In the absence of a preferred eligible list for a class, laid off employees shall be certified to requisitions for positions in such class from higher, equivalent or allied lists which have been determined to be appropriate by the Human Resources Director.
+SECTION 5	- EFFECT OF JURISDICTIONAL LINES
+The order of layoff, demotion and re-employment shall not be altered by bargaining unit jurisdictional lines and employees shall carry their total City seniority across jurisdictional lines for reduction in force purposes.
+SECTION 6	- EMPLOYEES HOLDING MULTIPLE TITLES
+In determining an employee's rights under this Rule, an employee can have permanent status in only one class at a time. An employee who carries a multiple title shall have permanent status in the lowest class of the multiple title or the class in which they last held permanent status on a single title basis, unless there is a contractual agreement which otherwise identifies the class in which the employee has permanent status, or official action is taken designating such class based upon the nature and history of the employment. Such agreement or official action must be completed at least ninety (90) days prior to the announcement of the reduction in force.
+-44-
+J
+SECTION 7	- CONDITIONAL WAIVER OF EMPLOYEE RIGHTS
+Where the City anticipates that a reduction in force will not exceed thirty (30) days, an employee in a class subject to reduction in force and their employing department may agree to a conditional waiver of the employee's seniority rights for a specified period not to exceed thirty (30) days. This conditional waiver must be in writing and be approved by the Human Resources Director. It is recognized that an out-of-seniority layoff resulting from such waiver is of the benefit of the City and the employee retains the right to exercise all rights to restoration, demotion, transfer and displacement at the end of the specified period.
+SECTION 8	- PREEMPTIVE LAYOFF REQUESTS
+If a reduction in force in a department is imminent or taking place over an extended period of time, any employee who has been identified as being subject to layoff may request in writing that they be laid off prior to the date when they would be reached for such layoff. Such request is subject to approval of the employing department and the Human Resources Director.
+Employees who are granted an effective date of layoff earlier than the scheduled layoff date shall retain the same rights which they would have had had they been laid off as scheduled.
+SECTION 9	- STATUS CHANGES IN ANTICIPATION OF LAYOFFS
+Where the Human Resources Department shall find that any status change was made either to avoid the layoff of or to cause the layoff of any employee, upon finding by the Human Resources Director that such status change was made for reasons other than the good of the service such status change shall be set aside and proper layoff made; provided, however, this section shall not apply to status changes of more than six (6) month's standing.
+44.	SICK LEAVE, CASUAL LEAVE, SICKNESS AND ACCIDENT AND EXTENDED DISABILITY INSURANCE
+A.	Payment for all sick leave shall be subject to the discretion and approval of the Sick Leave Board. All appeals shall be heard by the Sick Leave Board.
+B.	Operators shall notify their Station Master thirty (30) minutes before they are due to pull out in the event of illness or other absence. The report may be made by telephone. On the work day following any such absence the operator must notify their terminal thirty (30) minutes before their run is due out that they are reporting for work, otherwise their run will be reassigned for the day.
+C.	Any operator who fails without good reason to give the required notice of illness or absence,
+shall be charged with a miss. The following day will then be treated as the first day of illness or absence for the purpose of computing paid sick leave.
+-45 -
+D.	An operator who is marked off for a day after giving notice of illness of one (1) day or less, will be marked up for their run or show-up on the day following. If their illness extends beyond the first day their name will be placed on the sick list.
+E.	An operator, when reporting for work after more than one (1) day of absence, shall notify the Transportation Terminal Supervisor by 7:00 A.M. in order that they may work the following day.
+F.	Sick notes for absences of three (3) consecutive days or less may be written by the operator. For absences of more than three (3) consecutive days, the department will require medical proof.
+G.	Sick Leave Earned Prior to July 1.1978
+1.	After July 1, 1978, sick leave may be used to supplement the benefits paid by the Sickness and Accident and Extended Disability Benefit Insurance program to provide 100% pay to an employee until such banks are exhausted. An employee supplementing Sickness and Accident and Extended Disability Benefits with sick leave under this section shall not accrue any benefits except as provided in sections J-2 and K-2 of this article.
+2.	Sick leave may also be used to provide payment for time lost because of an unpaid absence due to illness according to departmental practices regulating sick leave.
+3.	An employee who retires or dies on or after January 1,1978, shall be paid 50% of their unused sick leave banks earned prior to July 1, 1978, plus an additional 10% of their banks for each complete year they work over 30 years, not to exceed 100% of the bank.
+30	years or less = 50% of unused sick leave.
+31	years = 60% of unused sick leave.
+32	years = 70% of unused sick leave.
+33	years = 80% of unused sick leave.
+34	years = 90% of unused sick leave.
+35	years = 100% of unused sick leave.
+4.	The payments will be made as part of the Employee's Pension Program or the Employee's Benefit Plan, or through the Finance Department.
+H.	If an employee has no casual leave or sick leave they may charge vacation for time lost due
+to illness if the employee files a claim for Sickness and Accident Insurance and duration of the illness is of sufficient time to qualify for Sickness and Accident Insurance.
+I-	Casual Leave
+1.	All employees who have been on the payroll for the previous six (6) months and who shall have completed three (3) months of continuous service on July 1 of any one fiscal year shall be granted seven (7) Casual Leave Days on July 1 of any one fiscal year
+-46-
+provided they are on the payroll on that date. A month of continuous service is a calendar month for which an employee is paid for a minimum of eighteen days. Any calendar month for which an employee is not paid for a minimum of eighteen (18) days shall not be counted.
+a.	Employees not on payroll effective July 1st:
+Employees returning to work in the month of
+July
+August
+September - October
+November - December January - February March
+April through June
+Days credited after three (3) months of new service
+7
+6
+5
+4
+3
+2
+7 days next fiscal year
+The exception to the above shall be that no casual leave will be credited for the months of May nor June
+b.	New Hires:
+If an employee qualifies in the month of	Days credited after six (6) months on the payroll with three (3) months of continuous service
+July 1	7
+August 1	6
+September 1	5
+October 1	4
+November 1	3
+December 1	2
+January 1 through March 1	1
+April through June	7 days next fiscal year
+2.	For the purpose of this section, an employee shall be considered off the payroll if they are fired, quits, engages in a work stoppage, is on a formal leave of absence granted by the Human Resources Department (generally over 30 days), laid off, collecting Extended Disability Benefit Insurance, or retired. A employee's payroll status not covered by the above shall be subject to a special conference. Criteria to be used to determine payroll status will be if the absence of the employee shall be for more than thirty (30) days.
+-47-
+3.	The seven (7) casual leave days may be used for personal or family illness without requirement of medical proof of illness. An employee may also use casual leave for moving day, wedding day, closing a mortgage or other important personal business, which cannot reasonably be handled outside working hours, provided they arrange with their supervisor at least 24 hours in advance. The supervisor shall have the right to deny personal leave if the employee's absence would adversely affect the department's operation.
+4.	Up to eight (8) hours of casual leave may be used in less than four (4) hour increments but not less than one (1) hour increments. Otherwise casual leave must be used in not less than half day increments.
+5.	Employees may not use the provisions of this section for scheduled work on a holiday or Excused Time Day. Departments shall have the right to require proof of illness for absence due to illness on holidays and excused time off days.
+6.	Casual Leave Bonus Plan
+a.	All casual leave earned under this section may be converted to vacation or paid in cash at the option of the department if not used in the fiscal year in which it is credited or if an employee is laid off.
+b.	If no casual leave in the complete fiscal year is used because an employee had no unscheduled absences, such employee shall be paid for nine (9) days.
+c.	If one casual leave day is used in the complete fiscal year because an employee only had one day of unscheduled absence, such employee will be paid eight (8) days.
+d.	All unscheduled absences (except funeral leave)1 will be charged first to unused casual leave days.
+e.	Absences of employees excused for union business will not be charged to casual leave.
+f.	No casual leave bonus will be paid employees who have more than one unscheduled absence even when casual leave was not used to cover that absence.
+7.	Employees who have notified the City of their intent to resign may be required to furnish proof of illness for casual days taken under this section.
+8.	No more than seven (7) casual leave days may be credited to an employee in any fiscal year.
+9.	No disciplinary action shall be taken as a result of using the seven (7) casual days granted under this section in accordance with the above.
+-48-
+10.	No casual leave will be paid between June 20 and June 30, at the end of the fiscal year, for the purpose of auditing casual leave banks to reimburse employees for unused casual leave. If an employee has an unscheduled absence during this period and has casual leave for which they are due to be reimbursed, such employee will not be paid casual leave for the actual day(s) of absence but will receive payment when unused casual leave is reimbursed. The absence will be recorded as casual leave.
+J.	Sickness and Accident Insurance
+1.	All employees who have completed one (1) year of continuous service shall be eligible for Sickness and Accident Insurance Benefits. One year of continuous service shall mean 12 consecutive calendar months for which an employee is paid for a minimum of eighteen days. The Sickness and Accident benefit shall be fifty percent (50%) of standard gross pay at time of disability.
+2.	An employee shall continue to be eligible for the following fringe benefits while collecting Sickness and Accident Insurance:
+a.	All medical insurance
+b.	Death benefits and life insurance;
+c.	Service time for pension accrual, vacations, longevity and unused sick leave payments d. Seniority.
+3.	The rules and regulations regarding the administration of the Sickness and Accident Insurance program are as set forth in the supplemental agreement covering Sickness and Accident and Extended Disability Benefit Insurance.
+K.	Extended Disability Benefit Insurance
+1.	All employees who have completed three (3) years of continuous service shall be eligible for Extended Disability Benefit Insurance. A year of continuous service shall be twelve (12) consecutive months for which an employee is paid for a minimum of eighteen days. The benefit shall be fifty percent (50%) of standard gross pay at time of disability.
+2.	An employee shall be eligible for the fo llowing fringe benefits while collecting Extended Disability Benefit Insurance:
+a.	All medical insurance;
+b.	Death benefit plan;
+c.	Service time for pension accrual if the disability is duty related.
+d.	Seniority shall continue to accrue for the purposes of picking vacations, holidays, and work preferences within the Department of Transportation.
+3.	The rules and regulations regarding the administration of Extended Disability Benefit Insurance shall be as set forth in the supplemental agreement covering Sickness and Accident and Extended Disability Benefit Insurance.
+-49-
+45. RETIREMENT BENEFITS
+A.	Eligibility for Service Retirement Allowance - Any employee who is covered by the provisions of this Agreement and who is a member of the General Retirement System of the City of Detroit who later has thirty (30) or more years of credited service may retire upon their written application filed with the Board of Trustees setting forth the date, which shall not be less than thirty nor more than ninety days, subsequent to the execution and filing of said written application, they desires to be retired. On the date so specified for his/her retirement he/she shall be retired notwithstanding that pending such period of notification he/she may have separated from City service. Upon his/her retirement they shall receive a Retirement Allowance as provided by the City Charter and Municipal Code. Employees may retire on or after July 1,1992, with 25 years of credited service but less than 30 and receive an actuarially reduced pension which shall be known as the Actuarially Reduced 25 Year Option of the Retirement Plan. Employees who are receiving a duty or a non-duty disability pension or Income Protection benefits may elect to convert to this new option if they otherwise meet the qualifications.
+The above paragraph notwithstanding, employees hired after November 15,1996, shall not be eligible for a Service Retirement until they shall have attained fifty-five (55) years of age. The age requirement shall apply to both the Regular Service Retirement with thirty (30) years of service and the Early Service Retirement (actuarially reduced) with twenty-five (25) or more years of service.
+Employees who have resigned with 25 or more years of service since July 1,1992, shall have ninety (90) days to submit an application for this option from the date they are officially notified by the Pension Bureau that said application can be processed.
+After the initial enrollment of applicants by the Pension Bureau, employees who subsequently leave City employment shall have ninety (90) days from their last paid date on the City payroll to select this option.
+Retirees who began receiving a Duty or Non-Duty Disability Pension after July 1,1992, may convert to this option no later than ninety (90) days after they would have had twenty-five (25) years with the City and have been notified by the Pension Bureau of the availability of this option.
+Employees who began receiving Income Protection Benefits after July 1,1992, may convert to this option anytime after they have had twenty-five (25) years of service with the City.
+B.	Retirement benefits shall be modified to include an optional coordination of benefits between
+regular retirement benefits and Social Security benefits for those employees who retire from the City with a regular retirement or the Actuarially Reduced 25 Year Option prior to
+-50-
+becoming eligible for Social Security payments. Such coordination of benefits shall cause an approximate leveling of total monthly benefits derived from both the City's retirement system and Social Security without creating any additional actuarial costs.
+C.	For employees hired on or after July 1, 1980, the vesting provisions of the City Retirement Plan shall require ten (10) years of service regardless of age in lieu of the "40 and 8" age and service requirement.
+D.	For employees who separate from City service with a vested pension prior to reaching eligibility for a regular service retirement, time earned after July 1,1988, shall not be factored into the formula for determining their pension benefit until they shall have attained age 62. This provision will not affect the current practice governing disabled employees.
+In the event that any law, state or federal is passed during the term of this Agreement which permits employees to vest their pension prior to meeting the vesting requirements set forth in this contract, any employee who vests hi s/her pension in such a manner shall not be eligible for any pension benefits until his/her sixty-second (62nd) birthday.
+E.	Employees who become eligible for a pension under the vesting provisions of the plan, shall be ineligible for any of the hospital, medical, optical or dental benefits provided for other retirees, spouses, dependents or beneficiaries.
+F.	Employee contributions to the general retirement annuity fund shall be optional. Balances in the fund standing to the individual credit of employees discontinuing contribution shall be maintained with accumulated interest to be paid out to the employee upon separation from the City. Employees qualified under the pension vesting provision of the general retirement system may withdraw their annuity with accumulated interest upon separation.
+Upon attainment of twenty-five (25) years of service, an employee shall be eligible to withdraw, one time only prior to retirement, all or part of his/her annuity savings.
+Non-Duty and Duty Disability Retirees shall be eligible to withdraw, one time only, all or part of their annuity savings.
+G.	At the time of retirement, members of the general City pension system may elect an option which shall entitle them to change their pension option from either option 2 or option 3 to a straight life pension after they have commenced collection of the pension if the member's beneficiary predeceases the member. This shall be known as the Pop-Up Option. The actuarial cost of the change in benefit shall be borne by the member who selects this change in his/her option election.
+H.	Employees who retire on or after July 1,1998, shall have their pensions computed according
+to the following formula. Using the highest paid 36 consecutive months out of the last 120, including longevity payments, as Average Final Compensation; 1.6% of Average Final
+-51 -
+Compensation for each year of service for the first 10 years; 1.8% of Average Final Compensation for each year of service greater than 10 years up to 20 years, 2.0% of Average Final Compensation for each year of service greater than 20 years up to 25 years; and 2.2% of Average Final Compensation for each year of service greater than 25 years; plus $12 for each year of City service not to exceed $120. In no case shall benefits paid by the Retirement System exceed ninety percent (90%) of Average Final Compensation except in the case where a higher pension amount has been earned in accordance with the provisions in effect prior to July 1, 1992.
+I.	Effective for bargaining unit members who retire on or after July 1,1999, they shall have the option to 1) select the Unused Sick Leave On Retirement payment benefit provided for elsewhere in Article 30 of this labor agreement or 2) chose to receive payment of one-quarter (1/4) of their unused sick time and have that sum included in the average final compensation used to compute the membership service pension portion of their retirement allowance.
+J.	Effective January 1,1999, the maximum annual amount payable to an individual on a Duty Disability pension shall be increased to $9,000 and for Non-Duty Disability pension to $6,000.
+The maximum amount of the Accidental Death Benefit as found in Chapter VI, Article VI, Part C, Section 1, Paragraphs B and C of the City Charter shall be increased to $9,000 per annum.
+K.	Effective January 1, 1999, minor dependents under age 19 or permanently mentally or physically impaired dependent children who become impaired prior to age 19 of employees who die with 20 years of service without a surviving spouse shall receive a payment of $9,000 per year which shall be divided equally amongst all eligible dependents. The payment will cease when the last minor attains age 19 or for mentally or physically impaired children at death. There shall be no retirement escalator for this payment.
+L.	In addition to in-service death pension benefits which already exist for employees with 20 or
+more years of service, effective July 1,1998, if a bargaining unit member dies after having attained 15 or more but less than 20 years of creditable service at any age below 60, the surviving spouse will be paid a 50% joint and survivor election. Dependent children, if there is no eligible surviving spouse, are to be paid a total of $6,000 which shall be divided equally amongst all eligible dependents until the youngest child reaches age 19, or for life if a child is permanently physically or mentally impaired.
+M.	The post retirement escalator factor shall increase from 2.0% to 2.25% of original base pension effective July 1,1992.
+N.	Employees shall have the option of selecting from two additional surviving beneficiary options of 25% and 75%.
+-52-
+O.	Annuity Contribution Amounts: The City will offer to employees who choose to contribute to the annuity plan the option of 3% up to the Social Security maximum salary which would then be increased to 5%, a straight 5%, or a straight 7%.
+P.	Members of the bargaining unit shall have the option of belonging to the City’s current defined benefit/defined contribution retirement plan or a new defined contribution retirement plan in accordance with the rules the City will issue for a defined contribution plan. The parties agree that the defined contribution plan the Executive Branch will propose for acceptance by the City Council, although not specifically detailed at this time, is intended to be primarily in accordance with the provisions which were last advocated in the Executive Branch in November-December, 1997.
+Q.	Effective April 29, 2000, or the earliest date thereafter when all required agreements are reached between the City and other parties, the membership of the General Retirement System, Board of Trustees [Article n, Section 2, Subsection (1)] shall be modified to provide that one of the trustees is: "The Mayor of the City or his/her designated representative, exofficio. Such designated person shall be a full time appointive or classified City employee."
+R.	All Retirement and Pension Plan Provisions provided for by the City Charter and Municipal Code are incorporated herein by referral unless otherwise specifically modified by this Agreement and Ordinance 2-93, J.C.C. Page 133.
+46.	DEATH BENEFITS AND LIFE INSURANCE
+A.	DEATH BENEFITS
+Death benefits for all regular City employees are authorized by the City Charter, Title IX, Chapter VIH. The City Code, Chapter 13, Article 8, currently provides a death benefit of $6,000.00.
+1.	MEMBERSHIP
+Mandatory for regular employees.
+2.	CONTRIBUTIONS
+By the City - $13.30 per year per employee. By the employee twenty cents per week or $10.40 per year.
+If during the term of this Agreement, the Employee Benefit Board recommends a change in the above amount, the parties will negotiate regarding such recommendation.
+-53-
+B.	Payment for employees killed or permanently disabled in line of duty:
+1.	A lump sum duty death benefit of $ 10,000 will be paid to the beneficiaries or estate of employees who are killed or who die as a direct result of injuries sustained in the actual performance of their duties.
+2.	A lump sum payment of $10,000 will be made to any employee who is totally and permanently disabled from illness or injury arising solely out of the actual performance of their duties. "Totally and permanently disabled" shall be defined exclusively as follows:
+a.	Total and permanent loss of sight of both eyes.
+b.	Loss of both legs or both feet at/or above the ankle.
+c.	Loss of both arms or both hands at/or above the wrist.
+d.	Loss of any two of the members of facilities enumerated in (a), (b) and (c)
+e.	Permanent and complete paralysis of both legs or both arms or one leg and one arm.
+f.	Incurable insanity or imbecility.
+A claimant to benefits under this paragraph shall have the right to present any written information in support of the claim which shall become part of the records reviewed by the physician appointed by the Finance Director and the Medical Board of Inquiry, should a Board of Inquiry be formed.
+The Finance Director shall appoint a physician who shall examine the medical records and findings and with respect to rights of claimants the physician may also personally examine the claimant. Said physician shall within sixty (60) days of appointment file a written report regarding his medical findings which report shall include a recommendation as to whether or not the claimant is entitled to the benefits.
+Should either the claimant or the Finance Director disagree with the medical findings of the physician so appointed and the claim for benefits is denied, the claimant or the Finance Director must so indicate to the other in writing the demand for a Medical Board of Inquiry. The Medical Board of Inquiry shall consist of three (3) physicians or surgeons appointed by the Wayne County Medical Society. The Medical Board of Inquiry shall examine all medical findings and within sixty (60) days of its formation shall file with the Finance Director a written report of its findings, which as to the benefits provided herein shall be final and binding as to the medical findings. The Finance Director shall pay the fees of the physician named by them and the fees of any Medical Board of Inquiry formed.
+-54-
+3.	Employees who receive a permanent disability payment under this section shall be ineligible for the $10,000 Duty Death Benefit described in Section B-l above.
+C.	GROUP LIFE INSURANCE
+A group life insurance program for the employee and their family is available for all members of the Employees Benefit Plan on an optional basis, under the provisions of the City Code, Chapter 13, Article 9.
+1.	Membership - Optional for members of the Employees Benefit Plan.
+2.	Contributions - The City shall pay approximately sixty percent (60%) of the premium for insurance up to and including $12,500. The employee shall pay forty percent (40%) of the premium for insurance up to and including $ 12,500. The employee shall pay the full cost of any insurance in excess of $12,500.
+3.	Benefits - Employees:
+Yearly Pay	Amount of Insurance
+Under $5,000 $5,000 to $7,500 $7,500 to $10,000
+Over $10,000
+$ 3,750
+$ 6,205
+$ 9,375
+$12,500
+4.	Additional life insurance inclusive of the $12,500 of insurance shown above is available through this plan at the employee's expense as follows:
+Yearly Pay
+Amount of Insurance
+$12,500 to $15,000 $15,000 to $17,500 $17,500 to $20,000 $20,000 to $22,500 $22,500 to $25,000 $25,000 to $27,500 $27,500 to $30,000 $30,000 to $32,500 $32,500 and above
+$15,000 $17,500 $20,000 $22,500
+$25,000 $27,500 $30,000 $32,500
+$35,000
+-55 -
+5.	BENEFITS - DEPENDENTS:
+Cost of Employee Amount of Insurance
+a)	For employees hired prior to December 21, 1973
+25 cents per week	$1,500 each dependent
+70 cents per week	$5,000 each dependent
+b)	For employees hired on or after December 21,1973
+70 cents per week $5,000 each dependent
+D.	1. Employees will be able to purchase insurance which is approximately equal to their annual salary or they may choose to purchase insurance which is approximately equal to two times their annual salaries in accordance with the following:
+Yearly Pay	Amount of Insurance Option 1	Amount of Insurance Option 2
+$12,500 to $15,000	$15,000	$30,000
+$15,000 to $17,500	$17,500	$35,000
+$17,500 to $20,000	$20,000	$40,000
+$20,000 to $22,500	$22,500	$45,000
+$22,500 to $25,000	$25,000	$50,000
+$25,000 to $27,500	$27,500	$55,000
+$27,500 to $30,000	$30,000	$60,000
+$30,000 to $32,500	$32,500	$65,000
+$32,500 and above	$35,000	$70,000
+And so forth in	And so forth in	And so forth in
+$2,500 increments	$2,500 increments	$5,000 increments
+2.	Subject to the agreement of and conditions determined by the current life insurance carrier, retirees shall have the option of converting all or part of their group life insurance to a life insurance policy at their own expense. Also, subject to the above conditions, employees who resign may continue their current coverage at their own expense. For retirees who elect to retain this coverage, the City shall deduct the premiums from their retirement checks on a monthly basis.
+-56-
+47.	RIGHTS OF EMPLOYEES ENTERING OR RETURNING FROM ARMED FORCES
+The rights of employees entering or returning from armed forces shall be in accordance with Article 13, Section 5 of the Municipal Code of the City of Detroit.
+48.	LEAVES OF ABSENCE
+A.	Leaves of Absence without pay may be granted for reasonable periods for the purposes listed
+below.
+1.	Temporary physical or mental incapacity.
+2.	Training relating to an employee's regular duties in an approved educational institution.
+3.	Military service.
+4.	Purposes and conditions consistent with the Family Medical Leave Act.
+Leaves of absence may be granted for other reasons than those listed above where in the judgement of the City such leaves are deemed beneficial to the City.
+B.	To be eligible for a leave of absence, the employee must have completed one (1) year of continuous classified service immediately prior to the leave. This requirement shall not apply to leaves for military service.
+C.	Leaves of absence (excluding military) may be extended for periods up to two (2) years. After
+two years, the person's name may be placed on the preferred eligible list for an additional two (2) years. Seniority of persons on leave of absence shall be governed by the Seniority section of this Agreement.
+D.	Unless otherwise provided for, the procedure for the administration of this section shall be in accordance with Human Resources Department Rules.
+49.	SUCCESSOR CLAUSE
+This Agreement shall be binding upon the parties hereto, their successors, administrators, executors and assigns. In the event an entire operation or any separable, independent segment thereof is sold, leased, transferred or taken over by sale, transfer, lease, assignment receivership or bankruptcy proceeding, such operation shall continue to be subj ect to the terms and conditions of this Agreement for the life thereof.
+-57-
+50.	OVERTIME PROVISIONS OF THE STATE MINIMUM WAGE LAW
+This contract is negotiated and agreed to between the parties with the recognition that the effect of the application of the overtime provisions of the State Minimum Wage Law and the Fair Labor Standards Act to public transportation systems may impact the provisions of this Agreement. To the extent that the overtime provision of the State Minimum Wage Law and the F air Labor Standards Act affects any section(s) or provision(s) of this Agreement, the affected section(s) or provision(s) shall be renegotiated by the parties to this Agreement.
+51.	SAVINGS CLAUSE
+If any Article or Section of this Agreement or any Supplement thereto, should be held invalid by operation ofLaw or by any Tribunal of competent jurisdiction, or if compliance with or enforcement of any Article or Section should be restrained by such Tribunal, the remainder of this Agreement shall not be affected thereby, and the parties shall enter into immediate collective bargaining negotiations for the purpose of arriving at a mutually satisfactory replacement only for those Articles or Sections affected.
+52.	INTERFERENCE WITH WORK
+The Union agrees to refrain from engaging, or participating in any strike, work-stoppage or slowdown or participating in any activity for the purpose of interfering with the operations of the Employer during the term of this Agreement.
+The Employer will not lock out any employee during the term of this Agreement. However, if equipment or facilities are unavailable for a member of this bargaining unit to work due to a strike, work stoppage, slowdown or other interference by other employees, such unavailability shall not be deemed a lockout under the terms of this section nor shall the employee affected be considered striking or refusing to work.
+Employees in the Unit are not subject to disciplinary action for refusing to cross a picket line of another union, if such action could endanger the personal safety of the employees, provided that such refusal shall in no way be detrimental to the public health or safety.
+The City shall not, however, be obliged to pay the wages of employees who do not work.
+-58-
+53.	NONDISCRIMINATION
+It is agreed by the City and the Union that the City is legally and morally obligated to provide equality of opportunity, consideration, and treatment of all employees of the City and, accordingly, to establish policies and regulations that will insure such equality of opportunity, consideration, and treatment of all persons employed in the bargaining unit in all phases of the employment process, without regard to race, color, creed, national origin, age, political orientation, sex, sexual orientation, marital status, or non-disabling handicap, except where based on a bona fide occupational qualification in accordance with applicable State and Federal laws.
+54.	PROTECTION CLAUSE
+It is the City's commitment that in terms of a total compensation package, the bargaining unit will not be economically disadvantaged as a result of subsequent settlements with other unions. However, it must be understood that compulsory arbitration may result in varied settlements.
+55.	MAINTENANCE OF CONDITIONS
+Wages, hours, conditions of employment and current proper practices which are beneficial to the employees at the execution of this Agreement, shall, except as provided and improved herein, be maintained during the term of this Agreement. Changes must be mutually agreed upon by the City and the Union.
+NOTE: During the course of negotiations there was considerable discussion as to the interpretation and intent of Article 55. The parties agree that Article 55 is intended to include those proper practices and minor benefits not covered by specific language in the contract.
+The parties agree that Article 55 is not intended to conflict with the City's ability and responsibility to manage it's affairs.
+The parties further agree that Article 55 is not intended to maintain improper practices which may exist in the various operating departments nor is intended to prevent the City from taking appropriate corrective action.
+- 59-
+56.	DURATION OF THE CONTRACT
+A.	It is the intent of the parties that this contract as set forth herein shall remain in effect until June 30,2001. At least one hundred and twenty (120) days prior to June 30,2001, the parties will review this contract for the purpose of determining any modification or revisions found desirable or necessary, and negotiations for a new contract will commence thirty (30) days thereafter.
+B.	In the event that the department and the union fail to arrive at an agreement on wages, fringe benefits, other monetary matters, and non-economic items by June 30,2001, this Agreement shall remain in effect on a day to day basis. Either party may terminate the Agreement by giving the other party a ten (10) day written notice on or after June 20,2001.
+C.	Nothing contained in this contract is intended to conflict with the City Charter, the statutes of the State of Michigan or the laws of the United States.
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement
+AMALGAMATED TRANSIT UNION DIVISION 26, AFL-CIO Paul Bowen, President Arthur L. Vardiman, Vice President Shyriw. McCormick Secretary/T reasurer	CITY OF DETROIT Dennis W, Archer, Mayor R^^^^ieek, Director Labor Relations fGroup Execd Human Resources Director
+-60-
+oration Counsel
+Phyllis A. J Law Departm'ent
+J. Edward Hannan, Director Finance Department
+AMALGAMATED TRANSIT UNION DIVISION 26, AFL-CIO
+Executive Board Member	Executive Board Member
+Executive Board Member
+_____
+Marchel Curtis Executive Board Member
+Executive Board Member
+Henry Gaf&ey
+Executive Board Member
+-61 -
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT
+DEPARTMENT OF TRANSPORTATION AND
+DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Compensation for Unused Casual Leave
+Because of the unique nature of public transportation operations and the attendant problems and costs involved when additional time off for employees is encumbered, the parties recognize and agree that the service to the public would be enhanced if unused casual leave which has been converted to vacation were paid in cash rather than scheduling time off for the affected employees. Therefore, for the term of the agreement between the parties with a beginning date of July 1,1998, casual leave which is unused at the end of the fiscal year will be paid in cash.
+Dated This
+Paul Bowen, President ATU- Div. 26, AFL-CIO
+Day of
+-62-
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT DEPARTMENT OF TRANSPORTATION AND DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Overtime
+Notwithstanding, that in some sections of this Agreement the language having been adapted from a time when daily overtime rules applied, at no time shall the overtime rates be applicable until after an operator has worked more than forty (40) hours in a workweek.
+Dated This
+Paul Bowen, President ATU-Div. 26, AFL-CIO
+.,2001.
+Roger N. Cheek, Director Labor Relations
+-63 -
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT DEPARTMENT OF TRANSPORTATION AND DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Union Input Into Scheduling
+During negotiations the parties recognized that many problems which face the Department of Transportation and its employees may be impacted to some degree by innovative scheduling and that Local 26 could have valuable input into such scheduling. Toward that end, the Department agrees to meet with Local 26 and afford it an opportunity for problem solving scheduling innovations at the Department of Transportation.
+Accordingly, the parties agree to form a joint union/management committee to explore ways to develop greater efficiency in the delivery of transportation services. Items for consideration may include block runs, rostering, trippers and other issues which may impact service.
+Paul Bowen, President
+ATU-Div. 26, AFL-CIO
+Roger N. Cheek, Director
+Labor Relations
+-64-
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT DEPARTMENT OF TRANSPORTATION AND DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Vacation Allocations
+It is recognized by the parties that the period beginning with school closed schedules in June and ending with school open schedules in September is the period when vacation time is most desirable. It is also recognized by the parties that scheduling of vacations beyond the differences in manpower requirements of the school open and school closed schedules involves the costly addition of manpower to the work force. The problem, however, is lessened as the availability of coaches and manpower are improved and the parties are involved in improving both. To address the entire matter, the parties agree to:
+1.	Maintain the present level of vacation allocations, which is 4.75% of the work force during
+school open schedules and 8% of the work force during school closed schedules. (These are department-wide percentages which may not apply to each individual terminal.)
+2.	To meet each year prior to determination or posting of vacation schedules, picks, or notices
+thereof. Such meetings will be held for the purpose of determining whether the level of vacation allocations may be changed as a result of improvements in availability of coaches and manpower.
+Paul Bowen, President ATU-Div. 26, AFL-CIO
+Roger N.‘‘Cheek, Director
+Labor Relations
+-65 -
+MEMORANDUM OF UNDERSTANDING BETWEEN THE
+CITY OF DETROIT DEPARTMENT OF TRANSPORTATION
+AND
+DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Vacation Credit Conversion
+The Parties agree that effective January 1,2001, vacation time will be credited on a fiscal year basis. In order to make the conversion, on January 1, 2001, TEO’s will receive one-half of their yearly vacation allowance. Then, on July 1, 2001, a full year’s allotment will be credited to cover the period starting on that date and running through June 30,2002.
+The Department will hold a vacation pick for the days credited on January 1,2001. Employees will be able to select their vacation between the period of January 1, 2001, through June 30, 2002. A second vacation pick will also be held for the days credited on July 1, 2001, with employees selecting between the period of July 1, 2001, through June 30, 2002. Following this initial conversion to a fiscal year basis, there will be a single vacation pick corresponding with the July vacation credit.
+The parties further agree that no TEO will lose any of his or her vacation time as a result of this switch.
+Os
+Dated This	Day of
+2001.
+Paul Bowen, President ATU-Div. 26, AFL-CIO
+Roger N. Cheek, Director
+Labor Relations
+-66-
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT DEPARTMENT OF TRANSPORTATION AND DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Determination of a Suitable Retirement Memento
+During negotiations of the contract between the parties to be effective July 1, 1998, the union expressed dissatisfaction with the watch which is presented to retirees. The parties hereby agree to establish a committee to determine a more suitable retirement memento. The committee will be comprised of two (2) representatives each of the Department of Transportation and the Union which will agree upon a replacement for the watch which is now presented to retirees. The watch presentation will continue until a suitable replacement is agreed upon by the parties.
+Paul Bowen, President ATU-Div. 26, AFL-CIO
+Roger N. Cheek, Director
+Labor Relations
+-67-
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT
+DEPARTMENT OF TRANSPORTATION AND
+DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Copies of the Contract
+The City agrees to pay to Division 26 of the Amalgamated Transit Union a sum of $2,000 for printing copies of the Contract.
+The Union agrees to furnish the City 500 copies of the contract without charge.
+32^
+Dated This _Day of
+2001.
+Paul Bowen, President ATU-Div. 26, AFL-CIO
+Roger N.Uheek, Director
+Labor Relations
+-68-
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT DEPARTMENT OF TRANSPORTATION AND DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Special Rules Regarding Sickness and Accident Benefits
+It is agreed between the parties that:
+1.	All time off under the 50% Sickness and Accident program or the 50% Extended Disability program will automatically be supplemented by any Sick Leave balances which an employee may have so as to insure 100% of pay.
+2.	Casual Leave time or Vacation time will not automatically be used as a supplement to either
+the Sickness and Accident program or the Extended Disability program.
+3.	Individuals on Sickness and Accident who have exhausted all Sick Leave balances may elect to have their off time supplemented by Casual Leave and/or Vacation. In order to have such supplementation, the individual must so request in writing to the Department of Transportation Human Resources office. Casual Leave in these cases will be used and exhausted first before Vacation time is utilized.
+4.	The contract states that employees who shall have completed six (6) months on the payroll and three (3) months of continuous service shall be granted seven (7) days of casual leave on July 1st of any one fiscal year provided they are on the payroll on that date. Therefore, if someone goes off sick on July 2nd they would be entitled to their Casual Leave Days for the fiscal year beginning July 1st even though they do not return to work during the same fiscal year. They would not be eligible for the bonus of two (2) casual days, however, since they would not be on the payroll on July 1st of the succeeding fiscal year. The Casual Leave the employees had as of the day they went on Long Term Disability would be forfeited unless the employee returns to work before the beginning of the next fiscal year.
+5.	The waiting period begins on the first full regular scheduled work day that an employee misses work. Actual scheduled work days will be used to determine the elimination period for the current work week (Saturday - Friday) starting with the first day off sick. With completion of the work week in which the first day of sickness occurs, the work week will be switched to a Monday through Friday work week. In no case, however, will an employee be credited with more than five days, which may consist of work days, S & A days or elimination days in any week. An employee would not be eligible for a S & A payment, however, until such time as they are under treatment by a physician. Therefore, if employees fail to see a physician until after the mandated five day waiting period, they would not receive any S & A benefits until the day they receive treatment and are judged unable to work by their physician.
+-69-
+6.	The definition of a month of service is a calendar month in which an employee is paid for eighteen (18) or more days on the Department of Transportation payroll.
+7.	Mid-Continental has agreed that in the event the Detroit Industrial Clinic notifies them an employee is able to return to work on a Friday, the employee will not be told to return to work until Monday. The employees so ordered will remain on a Monday through Friday work schedule for the week in which they return to do work.
+8.	Written notice of an illness shall consist of a written statement (verified by a doctor) from an
+employee that they are ill, delivered to the Department of Transportation Human Resources office within ten (10) consecutive calendar days of the first day off sick. Unless completely incapacitated for a majority of this ten (10) day period, benefit days will be lost until notice of illness is received at the Department of Transportation Human Resources Office. Employees will still be eligible for up to twenty (20) weeks of S & A benefits from date notice is given, providing proof of illness is provided as specified in the contract. The notice shall be signed by the employee unless they are unable to do so because of the nature of their illness.
+9.	An employee who fulfills the ten-day written notification requirement will not lose S & A benefits for failure to provide medical proof of illness except in those instances where they fail to furnish Mid-Continental proof within ninety (90) days after the termination of the period for which weekly benefits are payable under the plan.
+10.	An employee who returns from Long Term Disability (LTD) status and works for a period less than three (3) months and become ill again with the same illness reverts back to LTD status. Benefits are suspended during the time they returned to work.
+11.	Full time paid union officials are eligible for Casual Leave, S & A and LTD benefits to the extent they were eligible for Sick Leave benefits.
+12.	If an employee fails to fulfill the requirements in the contract regarding notification, or physician’s care, benefits will commence as of the day that the employee fulfills those conditions. Benefits will, however, be forfeited if proof of illness is not furnished as discussed in item #9 of this communication.
+13.	Casual leave will not be used to supplement S & A payments unless the employee so requests. This ruling applies to occupational injury cases also. Casual leave will, however, be used to pay for absences due to illness, accident, or other unscheduled absences not covered by S & A benefits. This ruling applies to instances which are occupational in nature also.
+-70-
+In addition to the above, we wish to advise you that when employees are judged able to return to work by Detroit Industrial Clinic, they will be so notified by telephone and telegram. Sickness and Accident Benefits will be paid through the date specified in the telegram as the last day of coverage. The telegram will be sent to the employee's last known address on file with Mid-Continental.
+Employees found to be disabled by Detroit Industrial Clinic will be notified by MidContinental of their continuing disabled status and informed as to when further medical verification will be required from the employee's doctor by Mid-Continental.
+Dated This	Day of /Zu Paul Bowen, President ATU-Div. 26, AFL-CIO	2001. Roger Cheek, Director Labor Relations
+-71 -
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT DEPARTMENT OF TRANSPORTATION AND DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Operators Repeatedly Required to Work Foreign Lines
+During negotiations there was considerable discussion about the problem of an operator being repeatedly pulled from the run they picked and sent to work on a foreign line. Both parties, recognizing the undesirability of being removed from one's picked runs and also recognizing the need to be able to adjust service, have agreed to the following procedure:
+When an operator is repeatedly removed from their picked run and brings it to the attention of their Union Representative, the Union Representative will bring the matter to the attention of the District Superintendent or Assistant District Superintendent. The Union and Management Representatives shall meet at the terminal level to identify the problem which necessitated pulling the operator from his picked run and to identify alternative solutions to the service adjustment problem.
+ATU-Div. 26, AFL-CIO
+Labor Relations
+-72-
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT DEPARTMENT OF TRANSPORTATION AND DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+The City and the Union agree that the following shall supplement Section 38 of this Agreement.
+1.	Definition: "Base". The term base means the amount of health insurance premium paid by the City as set forth in Section 38.
+2.	The amount of the health insurance premium payable by the City, including base and the City's share above base, shall be paid to a health insurance carrier designated by the Union. The Union will negotiate with that carrier on all matters relating to payment of health insurance premiums.
+3.	The City will surcharge employees each month for the employee's share of health insurance
+premiums. The amount of the surcharge is defined by Section 38. The City may increase the amount of the surcharge once per year, if justified by premium increases. The increase may take effect only following notice by the Union that such change is warranted, or on June 30th, whichever is earlier.
+4.	The City shall promptly remit to the Union all rate information received from Blue Cross/Blue Shield or other carrier designated by the Union.
+Dated This
+2001.
+Paul Bowen, President ATU-Div. 26, AFL-CIO
+Roger N. Cheek, Director
+Labor Relations
+- 73-
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT DEPARTMENT OF TRANSPORTATION AND
+DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Benefit Deductions for Employees on S & A - LTD
+The City and the Union agree that employees who are on Sickness and Accident or Long Term disability status shall be allowed to pay for their share of the cost of Death Benefit and Optional Life Insurance through deductions from S & A or LTD benefits.
+Dated This
+2001.
+Paul Bowen, President ATU-Div. 26, AFL-CIO
+Roger N. Cheek, Director
+Labor Relations
+- 74-
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT
+DEPARTMENT OF TRANSPORTATION AND
+DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Improved Regularity in Attendance
+In order to maintain and increase worker morale, provide higher quality services, and reduce operational costs, the parties agree to form a committee to work during the term of the labor agreement on new ways and ideas to improve employee’s regularity in attendance.
+The parties further agree that there will be no changes in the present policy, unless both parties agree to do so, and that the members of the committee representing the Union will be appointed by the President-Business Agent of the Union.
+Dated this
+,2001.
+Paul Bowen, President ATU-Div. 26, AFL-CIO
+Roger N. Cheek, Director Labor Relations
+-75 -
+MEMORANDUM OF UNDERSTANDING BETWEEN THE CITY OF DETROIT
+DEPARTMENT OF TRANSPORTATION AND
+DIVISION 26, AMALGAMATED TRANSIT UNION, AFL-CIO
+RE: Temporary Placement of Employees into Other Duties
+The parties agree to form a committee to review and expand the practice of permitting bargaining unit members to be placed into different operational configurations which improve operations and/or reduce costs.
+The parties further agree that there will be no changes in the present policy, unless both parties agree to do so, and that the members of the committee representing the Union will be appointed by the President-Business Agent of the Union.
+Dated this
+
+,2001.
+Paul Bowen, President ATU Div. 26, AFL-CIO
+Roger N. Cheek, Director Labor Relations
+-76-
+APPENDIX A
+SUPPLEMENTAL AGREEMENT RELATIVE TO SICKNESS AND ACCIDENT AND LONG TERM DISABILITY BENEFITS
+SICKNESS AND ACCIDENT BENEFITS
+(a)	Eligibility for Benefits
+(1)	If while insured for these benefits, an employee becomes wholly and continuously disabled as a result of any injury or sickness so as to be prevented thereby from performing any and every duty of their occupation, and during the period of such disability is under treatment therefore by a physician legally licensed to practice medicine, the amount of weekly benefits for which the employee is then insured shall be paid to the employee each week during the period they are so disabled and under such treatment. Notwithstanding the above, Sickness and Accident Benefits shall be payable to an employee who becomes wholly and continuously disabled as a result of undergoing surgery for sterilization purposes, or becomes confined as a registered bed patient in a legally constituted hospital for the purpose of undergoing testing to determine their suitability to be donor for an organ or tissue transplant and, in either case, is otherwise eligible for such benefits.
+(2)	Sickness and Accident Benefits shall not be paid for any day for which an employee receives holiday pay.
+(3)	For new hires, preexisting conditions shall not be covered. The Union shall be held harmless by the City in any lawsuit regarding a dispute arising out of preexisting conditions language in the agreement.
+(b)	Duration and Commencement of Benefits
+(1)	Sickness and Accident Benefits shall be payable during total disability for a period not to exceed twenty (20) weeks, for any one continuous period of disability, whether from one or more causes, or for successive periods of disability due to the same or related cause or causes.
+(2)	The waiting period for sickness or accident shall be seven (7) calendar days. The waiting period for hospital confinement shall be five (5) calendar days, except when hospital confinement extends five (5) days or more, then benefits shall begin with the first day of hospitalization.
+-77-
+(c)	Basis for Daily Benefit Payments
+Any Sickness and Accident Benefits due for a period other than a whole week shall be paid on the basis of one-fifth of the weekly benefit for each scheduled day of five (5) day work week, the employee is disabled and misses work.
+(d)	Benefits for More Than One Absence
+(1)	If an employee returns to work after receiving Sickness and Accident Benefits for less
+than twenty (20) weeks and is again absent within three (3) months for the same reason or some disability related to it, there is no waiting period for the rest of the twenty (20) weeks' period, if the employee is disabled that long.
+(2)	If the second absence results from a different kind of sickness or injury, the first absence does not affect any possible future benefits. If there are three (3) months or more between two (2) periods of disability, and the employee worked two hundred (200) hours during the intervening period, the second period of disability shall not be considered as being due to the same or related cause of causes as the first disability.
+(e)	Occupational Disabilities
+(1)	Benefits payable for any period shall be reduced by any payments for time lost from work in that period to which the employee is entitled under any Workers’ Compensation Law or Act or any Occupational Disease Law or Act.
+(2)	No deduction shall be made for any payments under such laws specifically for hospitalization or medical expense, or specific allowances for loss, or 100% loss of use, of member or disfigurements.
+(f)	Unemployment Compensation
+Benefits payable for any period shall be reduced by any payments of unemployment benefits to which the employee is entitled for that period under any Unemployment Compensation Law.
+(g)	Notice and Proof of Claim
+(1)	Written notice of injury or sickness in the form of written statement from a physician
+legally licensed to practice medicine must be received by the insurance company or the Payroll Office of the employer within ten (10) calendar days after the date of the accident causing such injury or the commencement of disability resulting from such sickness. If such written statement is not received within the initial ten (10) day period, no benefits shall be payable prior to the date such statement is received. Proof
+-78-
+of such injury or sickness must be furnished to the insurance company within sixty (60) days after the commencement of disability for an employee to be eligible for Sickness and Accident Benefits.
+(2)	The insurance company shall have the right to have such medical examinations of an
+employee who is eligible to receive Sickness and Accident Benefits, as it may reasonably require, made by a physician or physicians designated by it.
+(3)	No legal action shall be brought by an employee to recover from the insurance company prior to the expiration of 60 days after proof of claim has been filed in accordance with the requirements of the Plan, nor shall such action be brought at all unless brought within three (3) years from the expiration of the time within which proof of claim is required by the Plan.
+(h)	Payment of Claim
+(1)	Subject to due proof of claim, the weekly benefits will be paid to the employee each
+week during any period of disability for which such benefits are payable and any balance remaining unpaid at the termination of such period will be paid immediately upon receipt of proof.
+(2)	If disability is due to or accompanied by mental incapacity, all or any part of such weekly benefits, may, at the option of the insurance company, be paid to the beneficiary of record of the employee or to any other person or institution then in the judgment of the insurance company contributing toward or providing for the care or maintenance of the employee.
+(i)	Benefit for Chemical Dependency
+(1)	Employees who have met the requirements to receive Sickness and Accident benefits
+and who have been referred for treatment or have voluntarily presented themselves for treatment for chemical dependency shall receive Sickness and Accident benefits for the initial inpatient treatment program followed up by enrollment in an ongoing outpatient treatment program. Benefits will be paid upon verification from a licensed physician or proof of admission in a medical facility. Monthly progress reports will be required every thirty (30) days confirming that each scheduled appointment has been kept, that the employee is adhering to all prescriptions and proscriptions as instructed and is remaining substance free. If or when treatment is discontinued, the Department must be notified. No additional benefits will be paid for any absence that may occur within a twelve-month period that is related to the chemical dependency.
+(2)	Fo Ho wing hospitalization and during outpati ent treatm ent, the employee will be held
+to the same standards of attendance and performance as other employees. Repetition of the behavior that led to the initial treatment will be regarded as a violation of
+-79-
+Department policy regarding chemical dependency treatment and chemical dependency will not be regarded a mitigating circumstance if discipline is indicated and such employees shall be ineligible for Sickness & Accident Benefits for any illness or disability related to chemical dependency fortwelve (12) months after return to work.
+(3)	Such employees who fail to submit themselves for prescribed treatment by licensed physician and prescribed out-outpatient treatment or follow-up will be ineligible for Sickness & Accident Benefits.
+EXTENDED DISABILITY BENEFIT INSURANCE
+(a)	Eligibility
+Extended Disability Benefit Insurance shall be provided while an employee is insured for Sickness and Accident Insurance, but not beyond normal minimum retirement date or if an employee does not qualify for a pension, age 62.
+An employee who is insured for Sickness and Accident Benefits and who, at the date of expiration of the maximum number of weeks for which they are entitled to receive Sickness and Accident Benefits and during a continuous period of disability thereafter, is totally disabled, shall receive monthly Extended Disability Benefits for the period described in subsection (c) below.
+For an employee to be deemed totally disabled, they must not be engaged in regular employment or occupation for remuneration or profit and be wholly prevented from engaging in regular employment or occupation with the City in the classification where they have seniority as a result of bodily injury or disease, either occupational or nonoccupational in cause for a period of two (2) years and thereafter any occupation with the City.
+For new hires, preexisting conditions shall not be covered. The Union shall be held harmless by the City in any lawsuit regarding a dispute arising out of preexisting conditions language in the agreement.
+(b)	Amount of Benefit
+(1)	The monthly Extended Disability Benefit is as set forth in section 44 K-l of the Contract reduced by an amount equal to the monthly equivalent of the total of the following benefits for which the person receiving Extended Disability Benefits is eligible:
+(i)	Lost time benefits under Worker’s Compensation Laws or other laws providing benefits for occupational injury or disease, including lump-sum settlement, but excluding specific allowances for loss, or 100% loss ofuse, of a body member.
+-80-
+(ii)	Disability or Old-Age Insurance Benefits (primary insurance amounts only) to which the person is entitled under the Federal Social Security Act or any future legislation providing similar benefits, except old-age benefits reduced because of the age at which received.
+(iii)	Benefits under any state or federal law providing benefits for working time lost because of disability.
+(iv)	Any government paid income benefits paid as a result of City service.
+(2)	In determining the amount by which Extended Disability Benefits are reduced:
+(i)	The monthly equivalent of benefits paid on weekly basis is computed by multiplying the weekly benefit rate by 4.33.
+(ii)	Lump-sum settlements under state Workers’ Compensation Laws result in reductions equal to the monthly equivalent of the amount of the Workers’ Compensation benefit to which the employee would have been entitled under the applicable law had there been no lump-sum payment, but not to exceed in total the amount of the settlement. The amount of such compensation shall be allocated to days of disability for which compensation has not previously been paid, in chronological order until such amount has been fully allocated, at the rate of one-seventh of the weekly Workers’ Compensation benefit which would have been applicable under the state law if the claim had been allowed and if there had been no lump sum settlement.
+(iii)	The amount of a person's benefit under subsection b (1) above shall not be increased subsequent to the first day for which Extended Disability Benefits are payable, except that the amount of such increase shall not be disregarded if it represents an adjustment in the original determination of the amount of such benefit.
+(iv)	The amount of monthly Extended Disability Benefit shall not be reduced by any increase in an employee's benefit under subsection b(l) above that is effective subsequent to the first day for which an employee's Extended Disability Benefit is reduced because of receipt of such benefit However, the amount of Extended Disability Benefit shall be reduced by any such increase which represents an adjustment in the original determination of the amount of the employee's benefit under subsection b(l).
+(3)	Extended Disability Benefit computations presume eligibility for Social Security Disability Insurance Benefits. However, during the pendency of an employee's application for Social Security Disability Insurance Benefits the employee will
+-81 -
+receive Extended Disability Benefit as described in Section 44-K-l of this contract. If an employee is granted Social Security Disability Insurance Benefits, Extended Disability Benefit payments shall cease until such time that the amount of Social Security benefits that the employee received equals the amount of Extended Disability Benefits withheld. Employees who are denied Social Security benefits shall receive full Extended Disability Benefits, provided that such denial was not for refusal to accept vocational rehabilitation services. If the denial was for this reason then the Extended Disability Benefit amount will be reduced by the amount of Social Security Disability Insurance that the employee would have been entitled to had he accepted vocational rehabilitation services.
+(4)	Benefits payable for less than a full calendar month are prorated on the basis of the ratio of calendar days of eligibility to total calendar days in the month.
+(5)	The insurance company may require each applicant or recipient of Extended Disability Benefits to certify or furnish verification of the amounts of their income from sources listed in subsection b(l) above not more than once in a twelve (12) month period.
+(c)	Commencement and Duration of Benefits
+(1)	Extended Disability Benefits to an eligible applicant shall be for the period commencing twenty-one (21) weeks from the date of disability. To be eligible for Extended Disability Benefits an employee must have depleted his vacation and casual leave banks.
+(2)	The maximum period during which Extended Disability Benefits may be payable shall be equal to one-half the employee's service with the City, rounded to the nearest month, or the normal minimum retirement date of the employee, whichever occurs first, or if not eligible for a pension age 62, but in no event beyond the date of death, or the time that they no longer satisfy the disability requirement. If an employee's return to work with the City does not qualify them for a new period of Sickness and Accident Benefits or if they engage in some gainful occupation or employment other than one for which they are reasonably qualified by education, training or experience, their satisfying of the disability requirement shall not be deemed to end, but their Extended Disability Benefit shall be suspended for the period of the return to work or the period they engage in such occupation or employment.
+(3)	If monthly Extended Disability Benefits payable to an employee are discontinued because the employee no longer satisfies the disability requirement, and within two (2) weeks of the effective date of such discontinuance and before the employee returns to work with the City, they again become disabled so as to satisfy the disability requirement, monthly Extended Disability Benefits will be resumed.
+- 82-
+(4)	If disability is due to or accompanied by mental incapacity, all or any part of such monthly Extended Disability Benefits may, at the option of the insurance company, be paid to the beneficiary of record of the employee or to any other person or institution then in the judgement of the insurance company contributing toward or providing for the care or maintenance of the employee.
+(d)	Rehabilitation
+There is no ineligibility for Extended Disability Benefits because of work which is determined to be primarily for training under a recognized program of vocational rehabilitation.
+(e)	Proof of Disability
+The insurance company may require an applicant, as condition of eligibility, to submit to examinations by a physician designated by it for the purpose of determining their initial or continuing disability.
+(f)	Eligibility List
+If an employee is no longer eligible for Extended Disability Benefits because the maximum period for benefits has been reached, the City will attempt to place the employee in a vacant position which the employee is qualified to fill. If the City is unable to place the employee in such a position the employee will be placed on an "Employee Availability List". As vacancies occur the City will review such vacancies to see whether the employee is qualified to fill them. If the employee is qualified, the City will place the employee in such position. This provision shall not conflict with the Human Resources Department's Reduction in Force Rules.
+-83-
+APPENDIX B
+LONG TERM DISABILITY
+1.	TABLE OF BENEFITS
+This table of benefits must only be interpreted in conjunction with other provisions of the plan.
+Elimination Periods:
+An employee shall not be eligible for Long Term Disability Benefits until after all of the following have been exhausted:
+1.	The seven (7) day waiting period for Sickness and Accident Benefits, where applicable.
+2.	The twenty (20) weeks Sickness and Accident Benefits.
+3.	The total accumulated number of days an employee is eligible to receive casual leave days, casual leave time and swing holidays and vacation days under plans sponsored by the employer.
+Maximum Benefit Period:
+1.	For an employee who is eligible for a pension, Long Term Disability Benefits may be paid only until the earlier of:
+a.	one-half of the employee’s service time with the City, rounded to the nearest month,
+b.	the date on which the employee completes thirty (30) years of service, or
+c.	the date the employee attains sixty (60) years of age with at least eight (8) years of service.
+2.	For an employee who is not eligible for a pension, Long Term Disability Benefits may only be paid to the earlier of the date the employee attains age 62 or one-half of the employee's service time with the City, rounded to the nearest month.
+In no event shall benefits be paid after the date the employee accepts employment in any capacity with any employer.
+- 84-
+Benefit Class
+All bargaining unit employees
+Employees Monthly Benefit Amount
+An amount equal to 50% of the employee’s monthly earnings rounded to the nearest multiple of a dollar.
+2.	DEFINITIONS
+In the Plan,
+1.	"Company" means the Great-West Life Assurance Company.
+2.	"Proof' means proof satisfactory to the Company and shall include a medical examination if required by the Company.
+3.	"Employer" means the city of Detroit, Department of Transportation.
+4.	"Employee" means and includes a person who is in the service of the Employer.
+5.	"Employ", "employed", "employment" and the like, refer to employment with the Employer.
+6.	"Monthly Earnings" unless otherwise specified in the TABLE OF BENEFITS, means the current basic hourly rate of pay multiplied by 40, multiplied by 4.33, received by the employee from the Employer.
+7.	"Service" means employment with the Employer on an active, permanent, full-time and full pay basis, but does not mean:
+(1)	employment on a temporary, seasonal or part-time basis, or
+(2)	employment where the employee works less than 40 hours per week with the Employer, or
+(3)	employment at a location other than the Employer's usual and customary place of business unless it is a location to which the Employer's business requires the employee to travel;
+8.	"Work" means service with the Employer.
+9.	"Plan" means the Long Term Disability Benefit Plan of the City of Detroit.
+- 85 -
+3.	MISCELLANEOUS PROVISIONS
+In the Plan,
+1.	Any application notice, report, proof or request to be made or given to or filed with the Employer must be in writing and must be so made or given to or filed with the Employer at its Main Office.
+2.	Words implying the masculine gender include the feminine.
+4.	TERMINATION OF AN EMPLOYEE'S COVERAGE
+The coverage of an employee under the Plan terminates automatically on the earliest of the following dates:
+1.	The date of termination of the Plan, or
+2.	The date of termination of service with the Employer, or
+3.	In respect of:
+(a)	An employee who is eligible for a pension, the date on which he completes 30 years of service, or attains age 60 with at least 8 years of service, whichever occurs first.
+(b)	In respect of an employee who is not eligible for a pension, the date on which he attains age 62.
+(c)	But in no event more than one year of benefit for two years of service.
+5.	EXTENDED BENEFITS AFTER TERMINATION OF THE PLAN
+If prior to the termination of the Plan, an employee is considered to have a Total Disability (defined in the Plan) on the date his coverage terminates due to termination of the Plan, he/she shall be entitled during the continuance of the disability to any Long Term Disability Benefits that would have been payable had the coverage not terminated.
+6.	QUALIFICATION FOR BENEFITS
+Subject to other provisions and qualifications contained herein, if the accidental bodily injury or a sickness results in an employee's Total Disability and if such Total Disability commences while the employee is covered under the Plan and continues for at least the number of days
+- 86-
+of the Elimination Period (shown in the TABLE OF BENEFITS in Section 1) the employee shall be entitled to the payment of benefits determined in accordance with Section 7 which is entitled AMOUNT PAYABLE. Such benefits:
+1.	Shall commence on the first (day following the number of consecutive days of the Elimination Period (stated in the TABLE OF BENEFITS), and
+2.	Shall continue for not more than the Maximum Benefit Period (stated in the TABLE OF BENEFITS) during any one Period of Disability.
+It is hereby provided that:
+1.	No benefits shall be paid for any portion of a Period of Disability after the earlier of the following dates:
+(a)	the date of cessation of Total Disability
+(b)	the date on which an employee retires
+(c)	the date an employee who is eligible for pension completes 30 years of service or attains age 60 with 8 years of service
+(d)	the date an employee who is not eligible for pension attains age 62.
+In no event shall an employee receive more than one year of benefits for each two years of service.
+In no event shall benefits be paid after the date the employee accepts employment in any capacity with any employer.
+2.	Total Disability shall be deemed to continue during a Rehabilitation Program (defined herein).
+For the purposes of the Plan,
+1.	"Accidental Bodily Injury", subject to the conditions and limitations contained in section on BENEFIT LIMITATIONS, means a bodily injury caused by an accident which occurred after the effective date of the employee's coverage under the plan and which results directly and independently of all other causes in Total Disability.
+2.	"Sickness" subject to the conditions and limitations contained in subsection on BENEFIT LIMITATIONS, means a disease, illness or pregnancy.
+3.	"Total Disability" means the complete inability of a covered employee because of accidental bodily injury or sickness to engage in their regular occupation or employment with the Employer on a full-time basis for remuneration or profit.
+- 87-
+4.	"Rehabilitation Program" means a program of rehabilitation in which the employee engages after qualifying for benefits hereunder and which is approved by the Employer, Any of the following may be eligible for consideration as a Rehabilitation Program:
+(a)	The employee's regular occupation on a part-time basis:
+(b)	A formal vocational training program.
+The Rehabilitation Program shall continue until the earlier of the following dates:
+(i)	The date on which the employee is able to perform their regular occupation on a full-time basis, or
+(ii)	The date which is 24 months after the end of the Elimination Period.
+5.	"Amount of Indemnity" means an employee's Basic Monthly Benefit Amount in accordance with the TABLE OF BENEFITS.
+6.	"Period of Disability" means that period which commences with the date the employee is first absent from work as a result of Total Disability and which continues for at least the number of consecutive days of the Elimination Period (stated in the TABLE OF BENEFITS).
+Subsequent periods of Total Disability suffered by an employee while they are covered hereunder shall be considered as occurring in the same Period of Disability, except:
+(a)	When the later disability is due to causes wholly different from those of the prior disability and the employee works, excluding service during a Rehabilitation Program, 200 hours or more in the 3 month period immediately following their return to work, or
+(b)	When the later disability is due in whole or in part to causes related to those of the prior disability and the employee completes at least 3 months of continuous service, excluding service during a Rehabilitation Program, before commencement of the later disability, or
+(c)	When the later disability, regardless of cause, commences more than 2 weeks after the date the employee's benefits under this Plan were terminated and the employee has not returned to work.
+- 88-
+7.	"Regular Occupation" means the duties equal or similar to those duties performed by the employee in the classification in which they have seniority immediately prior to the commencement of a Period of Disability.
+8.	"Physician" means
+(a)	A duly qualified physician who is legally licensed to practice medicine or osteopathy, or
+(b)	To the extent that this contract provides coverage for services they are licensed to perform, any other practitioner of the healing arts who performs a service within the scope of their license and for whom the law of the applicable State requires that such service be covered.
+9.	"Hospital" means an institution which
+(a)	Is legally constituted as a hospital,
+(b)	is open at all times,
+(c)	Is operated primarily for the care of sick and injured persons as inpatients,
+(d)	Has a staff of one or more licensed physicians available at all times,
+(e)	continuously provides twenty-four (24) hour nursing services by graduate registered nurses,
+(f)	Provides organized facilities for diagnosis, and
+(g)	Is not primarily a clinic, nursing, rest or convalescent home or similar establishment, nor other than incidentally a place for drug addicts.
+2. AMOUNT PAYABLE
+The amount of the monthly benefit to which the employee is entitled is the Basic Monthly Benefit amount in accordance with the TABLE OF BENEFITS as of the date of the commencement of the Period of Disability, except that such amount will be reduced by the sum of:
+1. The primary Social Security benefits to which an employee is entitled under the Social Security Act of the United States.
+-89-
+For the purposes of this section,
+(a)	An employee shall be deemed to be entitled to benefits under the Social Security Act of the United States whether or not he is actually so entitled, unless satisfactory evidence is submitted to the Employer indicating that such benefits were applied for and denied.
+(b)	The amount of the initial entitlement under said Act for a Period of Disability shall be deemed not to have been increased by any Social Security increases which result from a change in the Social Security Act, or an increase in the Consumer Price Index as provided under said Act.
+(c)	The employee's Amount of Indemnity shall be reduced by an amount equal to Social Security Disability Insurance Benefits that would have been payable except for the employee's refusal to accept vocational rehabilitation services.
+2.	The monthly amount or the monthly equivalent of any indemnity to which he is entitled in accordance with the provisions of any state or federal law providing benefits for working time lost as a result of disability, such as Workers’ Compensation, No-Fault or similar law, including lump sum settlements, but excluding specific allowances for loss, or 100% loss of use, of a body member.
+3.	The monthly amount of the periodic payments to which the employee is entitled under plans or laws of any government or subdivision thereof, other than under (1) and (2) above, and except the portion they were receiving prior to the effective date of his coverage hereunder.
+4.	The monthly amount of the remuneration they may receive from the Employer during a Period of Disability, including any government income benefits paid as a result of service with the Employer.
+It is hereby provided that:
+(A)In determining the amount by which the employee’s Amount of Indemnity is reduced:
+(a)	The monthly equivalent of benefits paid on weekly basis shall be computed by multiplying the weekly benefit rate by 4.33.
+(b)	Lump sum settlements under Workers’ Compensation, No-Fault or similar law shall result in reductions in the Basic Monthly Benefit equal to the monthly amount of the benefit to which an employee would have been entitled had there been no lump sum settlement, but not to exceed the total amount of the settlement.
+In the event the lump sum settlement is made for a period of disability for which the full Basis Monthly Benefit has previously been paid, the lump sum settlement will be allocated to future amounts in chronological order in an amount equal to the Basic
+-90-
+Monthly Benefit until the full amount of the lump sum settlement is allocated. Payment of the Basic Monthly Benefit will cease until the time the full amount of the lump sum settlement has been allocated. Should the disability continue beyond such time, payment of the Basic Monthly Benefit will resume.
+Should the cessation of disability, termination of the plan, the ineligibility of the employee for future benefits or any other factor cause there to have been an overpayment, the employer shall be entitled to reimbursement from the employee.
+(B)Once an employee's Basic Monthly Benefit amount is determined, it shall not be changed unless the change represents an adjustment in the original determination of the employee's monthly benefit amount.
+(C)The Company shall pay a fraction of the amount determined under this section for any portion of a Period of Disability which is less than a full month. Such fraction shall be the number of calendar days an employee is entitled to receive benefits divided by the total number of calendar days in the month for which benefits are due.
+(D)The Company may require certification of the employee's amount of income from sources (1) through (4) above, but not more than once in any 12 month period.
+(E) If Total Disability is due to or accompanied by mental incapacity, any of all of the employee's monthly benefit amount may, at the option of the Company, be paid to the employee's beneficiary of record or to any other person or institution then, in the judgement of the Company, contributing toward or providing for the care or maintenance of the employee. Any such payment shall constitute a full discharge of the liability of the Company to the extent thereof.
+8- BENEFIT LIMITATIONS
+No benefits shall be payable hereunder for or on account of:
+1.	An accidental bodily injury arising out of or in the course of any employment for remuneration or profit other than with the Employer.
+2.	Accidental bodily injury or sickness which is the result of war, declared or undeclared.
+3.	Any sickness due to a mental, or emotional disorder of any type after 24 months of benefits have been paid, unless the employee continues to be confined in a hospital as a registered bed-patient.
+4.	Accidental bodily injury or sickness
+(a)	For which the employee is not continuously under the regular care and attendance of a physician, and;
+-91 -
+(b)	If the sickness is due to a mental or emotional disorder of any type, for which the employee is not receiving continuing treatment from a physician certified in psychiatry.
+5.	Intentionally self-inflicted bodily injury or sickness.
+6.	Accidental bodily injury or sickness due to alcoholism, drug addiction or the use of any hallucinogenic.
+7.	A bodily injury or sickness which results from committing or attempting to commit an assault or crime.
+-92-
+GENERAL PROVISIONS
+ENTIRE CONTRACT: CHANGES
+The contract and the individual application, if any, of the employees covered shall constitute the entire contract between the parties. All statements made by individual employees shall, in the absence of fraud, be deemed representations and not warranties and no such statement shall be used in defense of a claim under this contract unless it is contained in an individual application of an employee.
+No change in the contract shall be valid until approved by the parties to the contract and unless such approval be endorsed by the parties and attached hereto.
+No agent of the parties has authority to change the contract or to waive any of its provisions.
+NOTICE OF CLAIM
+Written notice of claim, in the form of a statement of verification of disability from a physician licensed to practice medicine, must be given to the Employer within 10 days after the occurrence or commencement of disability covered by this contract, or as soon thereafter as is reasonably possible. Such notice given by or on behalf of the covered employee to the Employer at its main office with information sufficient to identify the employee, shall be deemed notice to the Employer.
+CLAIM FORMS
+If written notice of claim is not made on forms furnished by the Employer for filing proof of claims, the Employer, upon receipt of the notice of claim, will furnish to the claimant such forms as are required for filing proofs of claim. If such forms are not mailed to the last address given the Employer by the claimant within ten (10) days after giving such notice, the claimant shall be deemed to have complied with the requirements of this contract as to proof of loss upon submitting, within the time fixed in this contract for filing proof of claim, written proof covering the occurrence, the character and extent of the disability for which claim is made.
+PROOFS OF CLAIM
+Written proof of loss must be furnished to the Employer at its main office within 90 days after the termination of the period for which the Company is liable. Failure to furnish such proof within the time required shall not invalidate nor reduce any claim if it was not reasonably possible to give such proof within such time, provided such proof is furnished as soon as reasonably possible and in no event, except in the absence of legal capacity, later than one year from the time proof is otherwise required.
+-93 -
+it
+4

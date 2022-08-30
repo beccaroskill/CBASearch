@@ -1,0 +1,553 @@
+﻿K9847
+	Paragraph	Page
+Duration of Contract	125	48
+Grievance Procedure	115	23-25
+Holiday Pay	107	13
+Hours of Employment	105	9-10
+Incentive Program	118	32-35
+Insurance	122	42-43
+Job Assignment	111,112	19-20
+Job Description	120,121	38-41
+Leave Of Absence	109	17
+Management Clause	104	8
+Miscellaneous	113	21
+Overtime	106	11-12
+Parties	101	4
+Pay Rates	117	29-31
+Pension	119	36-37
+Preamble	102	5
+Safety & Quality	114	22
+Saving Clause	124	47
+Scope	103	6-7
+Seniority	108,110	14-16,18
+Vacation	123	44-46
+Wages	116	26-28
+1
+2
+AGREEMENT
+GREEN BAY DROP FORGE
+GREEN BAY, WISCONSIN
+AND
+LOCAL LODGE NO. 177 OF
+THE INTERNATIONAL BROTHERHOOD OF BOILERMAKERS, IRON SHIP BUILDERS, BLACKSMITHS, FORGERS AND HELPERS
+3
+AFL-CIO, CFL
+A G R E E M E N T
+101
+PARTIES
+This Agreement entered into between the Green
+Bay Drop Forge hereinafter referred to as "Company", and Local Lodge No. 177 of the International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers, AFL-CIO, CFL hereinafter referred to as "Union".
+4
+102
+PREAMBLE
+Whereas, the parties intend to foster and promote sound, stable and peaceful relations between the Company, the employees and the Union: and whereas, the parties seek to benefit the employees and themselves through cooperation and good will in the fulfillment of their respective obligations: and whereas, the parties desire to establish equitable and orderly grievance procedures in order that complaints may be quickly discovered, discussed and settled: now therefore, in consideration for competent and efficient service to the Company by the employees subject to the Agreement and in return for the continuous cooperation and good will of such employees and the Union which represents them, the Company commits itself to the employment terms and the relationship policies provided for in this Agreement.
+5
+103
+SCOPE, RECOGNITION, UNION SECURITY VOLUNTARY CHECK-OFF AND PROBATIONARY PERIOD
+103.A	Scope and Recognition:
+The Union is hereby recognized as the exclusive collective bargaining agency with respect to wages, hours, and working conditions for the employees in the Company's Die Room, Forge Shop, Press Room and all Green Bay divisions.
+"Employees", for the purposes of this agreement, shall include all persons in the Company's employ whose work is normally performed in the shop (as distinct from the office) except those classified as follows:
+(1)	Timekeepers, engineers, and trainees for those jobs.
+(2)	Foremen and other management representatives who either have the authority to hire, fire, promote, or discipline employees, or who can effectively recommend such action.
+103.B	Union Membership
+All present employees and all newly hired employees shall become, and shall remain, during the continuance of this agreement and any extension thereof, members of the Union in good standing immediately following a 720 hour period from the effective day of this agreement, or the date of their hiring, whichever is the later.
+103.C	Voluntary Check-Off
+(a)	The Company agrees, upon written voluntary authorization of any Union member, to deduct from the first paycheck of each month initiation fees, dues, and such other uniform obligations owed to the Union, as may be legally deducted, except that initiation fees so authorized shall be deducted from the first paycheck following the completion of 720 hours. Deductions made in accordance with the foregoing shall be remitted to the Union officer designated by the Union.
+(b)	The Union shall, initially, notify the Company as to the monthly sums to be deducted in accordance with the foregoing. Any subsequent change in amounts shall be certified to the Company in writing over the signatures of duly authorized officers of the Union, and shall take effect
+6
+on the first paycheck following fifteen (15) days after such notification is given.
+(c)	The Company shall notify the Union, through the Local Financial Secretary, of all new employees who have completed 720 hours with the Company.
+(d)	Voluntary authorization forms shall be furnished by the Union to the employees. All previously filed check off authorizations shall be recognized in accordance with their terms.
+(e)	If an employee does not have sufficient earnings to pay his uniform obligation to the Union from his first paycheck of the month as outlined above, then this amount will be deducted from the first paycheck when he has sufficient funds to pay same.
+(f)	The Union agrees to indemnify and hold the Company harmless against any and all claims, suits, orders, or judgments brought or issued against the Company as a result of any action taken or not taken by the Company pursuant to any written or oral communication from the Union under the provisions of this Article.
+103.D	Probationary Period
+The "probationary period" of an employee shall be his first 720 hours worked for the Company. This period may be extended by mutual agreement.
+103.E
+Non-Discrimination
+The parties agree to the principle that there shall be no discrimination toward any person because of race, color, creed, sex, ethnic or national origin, in the hiring or retention of any employee or acceptance into the Union.
+The Company will not discriminate against any employee because of his membership in the Union or because he is serving as a representative of the Union.
+7
+104
+MANAGEMENT
+This Agreement contemplates that the company continues to possess unabridged all the rights, prerogatives or discretion of ownership, enterprise and management which it has always possessed; subject only to such regulations and restrictions governing the exercise of these rights, as are expressly provided in the Agreement.
+8
+105
+HOURS OF EMPLOYMENT
+105.A	The regularly established work week shall be Monday
+through Thursday and begin at 4:30 A. M. on Monday. This starting time shall be recognized as the beginning of the twenty-four (24) hour day. The second and third shifts worked within this twenty-four (24) hour period shall be considered belonging to that day. The starting time of the shifts or individual employees may be changed by mutual agreement.
+105.B	The regularly established work day shall consist of
+ten (10) hours per day. The regularly established work week shall consist of four (4) regularly established work days, Monday thru Thursday for a forty (40) hour week, except when a Holiday falls on or is celebrated on a regular workday, the work week shall be correspondingly less. The hours of work is not a guarantee of employment: meaning ten (10) hours daily or forty (40) hours per week.
+105.C WORKING HOURS ARE AS LISTED: 1ST Shift: 5:30 a.m. to 3:30 p.m. 2nd Shift: 3:30 p.m. to 1:30 a.m.
+105.D LUNCH, REST, AND CLEANUP PERIODS
+1ST Shift:	10:00 a.m. to 10:20 a.m. - Compensated Lunch
+1:00 p.m. to 1:10 p.m. - Compensated Rest Period
+2nd Shift:	8:00 p.m. to 8:20 p.m. - Compensated Lunch
+11:00 p.m. to 11:10 p.m. - Compensated Rest Period
+105.E	Under mutual agreement the Company may incorporate
+a five (5) day, eight (8) hour, Monday thru Friday forty (40) hour work week, except when a Holiday falls on or is celebrated on a regular work day, the work week will be correspondingly less. The start times will be agreed upon prior to starting the five day work week. Employees will be allowed one 20 minute compensated break per day. The time for the break will be agreed upon prior to the start of the five day work week.
+9
+105.F	1st Shift Work Priority
+When work is to be done in any work unit which would not require two (2) full shifts on that day, every effort shall be made to first provide the regular operator on the day shift with a full day's work thereon.
+105.G	Work Restrictions During Layoff
+No employee with seniority shall be laid off on account of lack of work while the work load as operated on his shift is in excess of forty (40) hours.
+However, the Company may and employees shall work overtime on equipment repair or furnace rebuilding while senior employees are laid off. The Company may and the employees shall work overtime on emergency work for customers while senior employees are laid off, provided that such work is not used to keep men on the seniority list laid off.
+105.H	Cleanup Period
+All employees shall be allowed a ten (10) minute cleanup period at the end of their shifts.
+10
+106
+OVERTIME
+106.A	Time and one-half shall be paid for all work
+performed in excess of forty (40) hours in any one week. Compensated time shall be considered as hours worked. Employees shall be required to work four (4) hours overtime per month. The overtime will be scheduled two (2) hours at a time, Monday through Thursday only. Employees shall be fore-warned three (3) working days prior to the overtime requirement.
+106.B	Double time shall be paid in the following
+instances:
+All work performed on Sunday. (Sunday being defined as 12:01 AM Sunday thru 12:00AM Monday)
+All work performed on the following holidays: New Year's Day, Memorial Day, Good Friday, Fourth of July, Labor Day, Thanksgiving Day, Day after Thanksgiving, Day before Christmas, Christmas Day, and Day before New Year's, except that straight time shall be paid for hours worked on a regular shift starting on a day before a holiday and running over into a holiday; and double time shall be paid for regular hours worked in shifts starting on a holiday and running over into a regular work day.
+106.C	In no instance when a holiday is worked shall
+the pay exceed three (3) times the hourly rate of the employee.
+106.D	When a holiday falls on Sunday, the Monday
+following shall be deemed as a holiday. When a holiday falls on a Saturday, the preceding Friday shall be deemed a holiday.
+106.E	No employee shall be required to take time off
+from the regular scheduled work to offset any overtime hours the employee may have worked outside of his regular scheduled hours.
+106.F	Distribution of Overtime
+All overtime shall be distributed equally as possible among employees who have seniority. Unexcused absence may disqualify an employee for overtime on Saturday, Sunday, or holidays in that week.
+106.G	When conditions of 106.A are not possible, the
+Department Stewards will be notified by the Company as soon
+11
+as practical. Any employee not given 24 hours notice of overtime shall not be discriminated for overtime if he refuses.
+106	.H	Overtime Distribution Departmental
+All overtime shall be distributed as equally as possible among all employees in each department on a calendar basis, and consistent with reasonable operations.
+106.I	Die Department Overtime Distribution
+In the event that an insufficient number of Die Department employees are available to work the overtime within the classification , the Company may, without regard to equalization, distribute the overtime to other classifications. The overtime distributions shall be on a calendar year basis and must be consistent with reasonable operating efficiency.
+12
+107
+HOLIDAY PAY
+107	.A	All employees who qualify shall be paid for
+eight (8) hours at the straight time hourly earnings based on the average straight time hourly earnings of the payroll prior to the pay period in which the holiday occurs, Excluding shift and overtime premiums.
+107.B	The following holidays not worked shall be
+observed with pay:
+Employee’s Birthday, New Year's Day, Memorial Day, Good Friday, Fourth of July, Labor Day, Thanksgiving Day, Day After Thanksgiving, Day Before Christmas, Christmas Day, and the Day Before New Year's Day providing that an employee qualifies for holiday pay under the following provisions:
+1.	An employee shall have completed 720 hours worked for the Company.
+2.	An employee shall have worked the last regularly scheduled work day preceding and the first regularly scheduled work day following the holiday, unless the employee is absent due to pressing personal reasons, such as death or marriage in the immediate family, bonafide illness or accident, jury duty or reasons beyond the employee's control.
+3.	An employee will not qualify for holiday pay if on authorized leave of absence or on layoff status for the entire week in which the holiday occurs.
+4.	If an employee is on vacation and a holiday occurs, he shall be paid for the holiday, providing he worked the last scheduled work day preceding his vacation and first scheduled work day following as provided in 107.B #2 above.
+5.	Whenever one of the before named holidays falls on a Sunday, the following Monday shall be considered the holiday within the meaning of this subsection. When a holiday falls on a Saturday, the preceding Friday shall be deemed a holiday.
+6.	If a holiday is worked, holiday pay will be two
+13
+	(2)	times the regular rate plus holiday pay. Except for inventory, pay will be time and one-half plus holiday pay. This excludes Employee’s Birthday holiday. 7.	Employee’s Birthday Holiday may be used within a five (5) work day period before or five (5) work day period after the actual Employee’s Birthday. 8.	When a holiday is observed the employees will be given the option to have a full forty (40) hour work week, If the employee elects not to make up the lost time due to a holiday being observed, it will not be held against them in the insurance and absenteeism calculations. This can be handled with the employee working more hours per day or taking vacation hours to make up the shortfall, if the holiday is observed Monday thru Thursday. If the holiday is observed on a Friday, at the companies discretion the hours will be eight (8) hours each day Monday thru Thursday.
+108	SENIORITY
+108.A	Seniority Defined Seniority shall mean length of seniority with
+the Company	from last date of hire.
+108.B	Seniority Obtained
+New employees will gain seniority when probationary periods have been completed and shall be established as of the date of last hiring.
+108.C	Seniority By Departments And Classifications
+Seniority shall be by departments and classifications in the Forge Shop, in the Die Department by department only.
+108.D	Ability
+Ability being sufficient, seniority within the department shall apply in all cases of reduction and restoration of forces and in filling all new jobs and vacancies.
+14
+108.E	Filling Vacancies For Classified Jobs
+A notification of an opening for all new jobs and any vacancy in any of the classified jobs shall be posted for a period of five (5) work days prior to filling the opening. Temporary replacements within the posting period are to be filled by the Company.
+Employees desiring to fill the posted job vacancy shall submit their names to the superintendent in writing, on forms supplied for that purpose within five (5) days.
+In the event an employee selected has less seniority than other applicants, the Company shall submit its reasons for the out of seniority selection to the Union Committee. If the employee with the greater seniority desires to submit a grievance relative to the selection, he must do so within three (3) days after the Company has stated its reasons for the selection.
+Employees advanced into the hammerman, or setup man jobs shall be on a trial period not to exceed sixty (60) work days; failing to qualify, the employee shall be reassigned to his former job. This time may be extended by mutual agreement.
+An employee may hold seniority in more than one (1) classification, however, he shall accept the work assignments in the highest paid classification for which he holds seniority. An employee may work in a lower rate range of classification providing he shall accept such assignments for a reasonable length of time and such assignments are consistent with reasonable operating efficiency.
+108.F	Notification of Layoff
+Wherever possible, at least five (5) work days notice shall be given before any layoff. The Committee shall be supplied with a list of employees to be laid off at the time notice is given. A list of employees to be recalled shall be furnished when recalling employees to work.
+The employee with the least seniority shall be laid off first, provided however, that in case the pursuit of this seniority rule would adversely affect the efficient operation of the Company, then the Company may deviate from such seniority rule to the minimum extent necessary to maintain efficient operation; provided further that in case
+15
+the Company deems it necessary to effect any layoffs or return to work which do not follow straight seniority, the Union Committee shall be notified of the fact and the circumstances discussed with them. For recall, the same procedure shall be followed except in reverse order. In the event an employee believes he has been unjustly laid off or not recalled according to his seniority, the employee may submit his reason to grievance procedure.
+108.G	Seniority Terminated
+Seniority shall terminate when:
+1.	An employee quits
+2.	Is discharged for cause
+3.	Absent from work for a period of more than two (2) successive working days without reasonable cause.
+4.	Employees who are laid off and are notified by registered mail to last given address, return receipt requested. Such employee shall, within three (3) regular working days after receipt of aforesaid notice, notify the Company of his intention and shall return to work within five (5) regular working days after receipt of notification, except in case of illness or justifiable reason.
+5.	When an employee voluntarily "quits" and is not rehired within ten (10) calendar days, except by mutual agreement.
+108	.H	Seniority Rosters
+Seniority rosters of all classified employees as per classification or department, shall be maintained by the Company with copies available upon request. The Company will notify the Union of all newhires, layoffs, terminations, and any classification changes.
+108.I	Promotion Outside of Agreement
+Any employee who is promoted to a job which is outside the jurisdiction of the agreement, shall, in case he returns to a job which is within such jurisdiction within ninety (90) days, have the seniority standing which he would
+16
+have if he had remained and worked during all such time; provided, however, that no employee who has been so promoted shall at any time, because of reduction of forces, be temporarily returned to a job under the Union's jurisdiction.
+108.J	Progression
+All employees who are not at the top rates in their respective job classifications will be put into an apprenticeship type program. The employees will be evaluated by the Company and the Union on a periodic basis. The employee can be moved up the pay scale provided they meet the criteria for the positions. After an employee is in their respective positions for seven years and are not at the top pay of their respective position, they can request that they are given a test devised by the company and a representative from their department. If they pass the test they will advance to the top pay rate for that classification. If the employee fails the test they will remain at the pay level they are currently at. An employee may request another chance at the test after a minimum of six months from the previous test. The employee may not request to take the test prior to their 7 year anniversary.
+109
+LEAVE OF ABSENCE
+109	.A	Leaves of absence will be granted to employees
+for justifiable reasons when production requirements permit, for periods not to exceed ninety (90) days, except in such cases where the Company and the Union may agree to an extension of this period. All leaves of absence shall be by agreement between the Company and the Union, and shall be reduced to written form, setting forth the conditions thereof and signed by the Company, the Union, and the employee involved. A copy of such leave of absence agreement shall be furnished to the Union and the employee. An employee on leave may return to work in line with his seniority before the expiration of his leave, providing not less than five (5)
+17
+work days notice is given to management. The return within the five (5) day period is at the option of management.
+109.B	Leave For Illness Or Accident
+In cases where leaves of absence are necessary by reason of illness or accident, they shall be of such duration as may be required and until the employee involved is certified for return to work by his physician. An employee is to keep the Company advised as to his condition and to advise the Company five (5) days before he reports for work that he will return.
+109.C	Leave For Armed Service
+Employees who return to work from leave for Armed Services will be rehired in accordance with State and Federal Laws. National Guardsmen or ready or organized reservists shall be entitled to automatic leave of absence to attend required training sessions, if the employee gives a five (5) day notification of such leave to the Company, "except for emergency Call-Up". This leave shall be counted as time actually worked in the employ of the Company for the purposes of seniority, vacations and all other benefits provided by this agreement.
+109.D	Members Of The Bargaining Committee
+Members of the Bargaining Committee, stewards, and members selected for such purpose in specific instances by Local Lodge No. 177 or by the International Union shall be granted a leave of absence without pay for such purposes, with seniority by reason thereof uninterrupted, upon official notice in writing to the Company. Upon expiration of such leave or any extension thereof, the employee shall be returned to his regular job and rate of pay plus any increases placed into effect during the period of such leave of absence.
+18
+110
+SENIORITY OF HAMMERMEN AND TRAINEES
+Employees advanced in the hammerman, fork lift operator, or set-up trainee jobs according to Paragraph 108.E shall be on a trial period not to exceed sixty (60) work days. Failing to qualify, the employee shall be reassigned to his former job. This time may be extended by mutual agreement.
+Employees successful in filling the opening of a trainee shall maintain a seniority position of a trainee as of the date he starts training. At the completion of the training period, trainees shall be placed on their respective roster of hammermen, or set-up at the seniority position that is indicated by the date of hire which established his seniority.
+All regular hammermen, fork lift operators, and set-up men shall have a seniority position on their respective roster which establishes each employee's seniority.
+19
+111
+FORGE SHOP JOB ASSIGNMENTS
+111.A	The Company shall post a weekly work
+assignment schedule. Consideration shall be given to any employee's indicated shift and job preference, if made in writing to the employee's supervisor prior to noon Thursday, however, job assignments shall be made in accordance to seniority and must be consistent with reasonable operating efficiency. In the event the Company contends that reasonable operating efficiency would be impaired by following seniority in accordance to job preference, the Company shall disclose its reasons to the Union Committee prior to posting the work assignment. In so far as practical, classified employee shall be assigned the same unit each week. For those units which an employee is normally assigned, he shall maintain seniority and need not indicate his preference each week. Those employees who desire a change from the unit they are operating or desire a specific shift or unit should indicate their preference. Employees may not use their seniority to change their work assignment once it is posted. Employees not assigned to work at a classified job shall be assigned to work in the same manner as noted above. With the exception of the employees assigned to work with classified employees, all unclassified employees shall be assigned to work daily by their Supervisor. All assignments in the unclassified jobs are subject to change according to the amount of work scheduled and to meet changes required within the work load.
+111.B	Qualified employees assigned to furnace
+installation, furnace repair, or igniting fires shall be paid according to the Forge Shop General Maintenance Man classification. Employees assisting these qualified employees shall be paid according to their seniority.
+Classified employees assigned to this classification shall receive the rate of their job or the rate of the classification of Forge Shop General Maintenance, whichever is higher except on Saturday, Sunday or holidays, for which time he shall be paid the rate of Forge Shop General Maintenance.
+111	.C	In the event of a realignment before the start
+of the shift, assignments will be made by seniority. If an alignment is required after the start of the shift, assignments will be made by supervision based on shift efficiency.
+Newly hired hammermen shall obtain seniority positions according to their date of hire but shall not
+20
+interrupt the program of any trainee who has been accepted as a trainee prior to the date that a new hammerman has been hired.
+112	DIE DEPARTMENT JOB ASSIGNMENTS
+112.A	Work Assignments
+An employee may be required to do any work which falls within his classification.
+112.B	Shift Preference
+The efficiency of the shift and seniority shall govern in shift preference. An employee may use his seniority to change shifts only, effective at the start of the work week. For any shorter period of time, two (2) employees may trade shifts within the same classification providing both employees are in agreement, and the Company has sufficient notice and approves the change in shifts.
+112.C	Interruption In Work Schedule
+In the event of an interruption in the work schedule that requires realignment, the schedule shall be so amended to give consideration to the classifications and shifts that the employees are working. In the settlement of any disagreement that may arise in the realignment, the efficiency of the shift and seniority shall govern.
+21
+113
+MISCELLANEOUS
+113.A	Union Posting
+The Union shall be allowed to use the plant bulletin boards for the purpose of posting notices of interest to the membership. No such notice will be posted by any employee other than that, and, only over the signature of a recognized officer of the Union.
+113.B	Hiring Notification
+At time of hiring, the Company shall inform all new or former employees of Union membership. The Chief Steward shall be advised of the Company's interest in hiring employees for the purpose of obtaining qualified employees.
+113	.C	No Smoking Policy
+Refer to current state laws.
+113	.D	Transfer of Information
+The Company shall advise the financial secretary of the Union the names of all employees: discharged, laid off, completed their probationary period, reclassified or who, for any reason have terminated their employment, on an annual basis. The list shall show the employee's classification and rate of pay.
+The Company will furnish all employees with a copy of this Agreement as requested.
+22
+114
+SAFETY AND QUALITY
+114	.A	Improvement Committee
+The Company and the Union hereby agree to formulate and implement programs in the areas of: Health and Safety, Quality Improvement, and Productivity (Utilization and Efficiency). The purpose and goal of these programs is to:
+1.	Control health costs
+2.	Provide a continuously safer work environment
+3.	Reduce the cost of quality
+4.	Increase the productivity of the forging operations; and
+5.	Provide a more stable work schedule.
+Acknowledgment of this Agreement commits both parties to attainment of these goals.
+The Union recognizes that an obligation rests upon every employee to give honest, efficient, and economical service in the performance of their job duties. The Union agrees that its members will not directly or indirectly interfere with the effects of the Company to attain the goals stated in this section. It is the intent of the Company to: aid the employees in maintaining or improving their health; to provide a safer work place; to improve the skill and efficiency of the work force; and to reduce waste and spoilage.
+The Company shall at its own expense provide all safety equipment where such equipment is required by the Company, State or Federal Law.
+The Union Committee will meet with the Company on the second Tuesday of each month at 2:00 p.m. to discuss safety problems within the shops, at the current practice.
+23
+115
+GRIEVANCE PROCEDURE
+115.A	Purpose of the Grievance Procedure
+It is the intent of the parties to this agreement that all disputes or questions of interpretation of the existing terms of this Agreement be disposed of as provided herein.
+Either party to this Agreement shall have access to the grievance procedure provided for herein, for the settlement of any disputes that might arise. All grievances shall be disposed of as expeditiously as possible. A grievance shall not be considered if based upon a condition or event that has not occurred or has not existed during the twenty (20) days immediately prior to the date on which the grievance is presented.
+115.B	Union Committee and Information
+The Union shall select a Union Committee consisting of not more than three (3) members, for the purpose of disposing of grievances.
+115.C	International Representation
+The Union Committee shall have the right to have present and/or be represented by a Representative of the International Union in handling of any matters with Representatives of the Company. The Company will make available to the Union any records or information necessary to the solution of the grievance. The International Representative shall have access to the plant with prior notification.
+115.D	Grievance Procedure
+All grievances shall be settled in the following manner:
+1.	Any employee or group of employees subject to this Agreement having any complaint with their work, or feeling that they have been unjustly dealt with, or that any of the provisions of this Agreement have been violated, and who have been unable or feel they cannot adjust the matter with the foreman, shall notify the Union Committee. The Union Committee shall meet with the
+24
+foreman or department superintendent for a solution or settlement.
+2.	If no satisfactory settlement is reached, a brief summary of the grievance is to be reduced to writing by the Union Committee and referred to the head of the department.
+3.	If no satisfactory settlement is reached, the matter shall be referred to the Plant Manager or other authorized Company official through the Union Committee.
+4.	If no agreement can be reached by the steps of the grievance procedure, the matter shall be referred to arbitration if the aggrieved party should so desire.
+5.	There shall be a five (5) day time limit to resolve each step of the grievance procedure.
+115.E	Arbitration
+Grievances submitted to arbitration shall be referred to an impartial arbitrator. The arbitrator shall not have the power to add or to subtract from or modify any terms of this Agreement or any Agreement supplemental hereto. The decision of this arbitrator shall be final and binding on both parties.
+In cases requiring arbitration, the services of the Wisconsin Employment Relations Commission shall be used. The Wisconsin Employment Relations Commission shall, as soon as possible, appoint an arbitrator who shall hear the parties to the dispute and render a decision.
+The fee and expense of the arbitrator shall be borne by the party against whom the arbitrator's decision is rendered. In the event the arbitrator decides that the dispute is not arbitrary under the Agreement, the fee and expense of the arbitrator shall be borne by the party requesting arbitration. Expenses incidental to arbitration shall be borne by the party incurring such expense.
+115.F	Meeting Between Company and Committee
+Meetings between the Company and the Union
+25
+Committee shall, if possible , be held outside of regular working hours. If held during regular working hours the employee will receive their regular straight time base rate until the end of their shift. If the employee is receiving any other form of wages, vacation, layoff or bereavement pay, this section does not apply.
+The Company and Union will meet on the second Thursday of each month from 1:30 p.m. to 2:00 p.m. to discuss any problems. The party wanting to meet must present an agenda two (2) days prior to the meeting. If no agenda is presented, there will be no meeting.
+115	.G	No Strike or Lockout
+The Union agrees that during the tenure of this Agreement there shall be no strikes; as long as the terms and provisions of this Agreement are observed. The Company agrees that there shall be no lockouts during the tenure of this Agreement as long as the terms and provisions of this Agreement are observed.
+115	.H	Regular Union Meetings
+One (1) member of the second shift may be excused from work without pay for the purpose of attending the regular monthly union meeting providing such employee so designates this request when making known his job preference per 111.A.
+26
+116
+WAGES
+116	.A	Wage Rates
+Wage rates for classifications, special clauses, incentive and job description shall be contained in Paragraph 117. These wage rates shall not serve to lower any higher rate any individual employee may now or later be receiving, except as hereinafter provided.
+116.B	Unclassified Work
+Rates for any work which is not already classified shall be established by agreement of the Company and the Union, and shall be in line with rates established for comparable jobs.
+116.C	Shift Premium
+A shift premium of twelve cents ($.12) per hour will be paid to all employees working on the second shift and a shift premium of fifteen cents ($ .15) per hour shall be paid to all employees working on the third shift.
+116.D	Pay Day
+Employees shall be paid approximately fifteen minutes prior to the end of their regular shift every Friday. In the event Friday is a holiday, pay day shall be the first working day preceding the holiday or holidays.
+Paychecks cannot be advanced except under such conditions which are acceptable to the Company and provided the paycheck is available from the Payroll Department.
+Relative to pay check errors, the Company agrees to issue a separate check for any under payment of $15.00 or over, payment of less than $15.00 will be on the next pay period check. Deductions of overpayment will be deducted in $15.00 increments until the overpayment is satisfied.
+116.E	Change in Capability
+Employees no longer able to perform their regular duties shall be offered such work that may be available at the rate of pay for such work.
+116.F	Injured Employee
+27
+Any employee who is injured in the course of his employment and who is directed not to continue to work on the day of injury, either by a Company representative or by a doctor after telephone or other communication with the Company, shall receive not less than the regular shift pay for such day.
+116.G	Call-In Pay
+Employees who have been relieved for the day then called back for emergency maintenance or production work will be paid for not less than two and two-thirds (2-2/3) hours to be paid at the rate of time and one-half (1 1/2).
+116.H	Reporting Pay
+Employees reporting for work on their regular schedule shall be guaranteed at least four (4) hours work, or pay thereof, at their regular rate, except in such cases where they are notified not to report or if the plant is unable to operate because of an act of nature, power failure, wind, fire, flood, or explosion.
+116.I	Bereavement Pay
+The purpose of Bereavement Pay is to allow the employee to attend the funeral and funeral affairs. To assist regular full-time employees when a death occurs in his/her immediate family, the employee, by request, will be allowed time off up to a maximum of three (3) paid days for the express purpose of preparation and attendance of the funeral. To be eligible for Bereavement Pay, you must be a full-time employee and have completed your employment probationary period with Green Bay Drop Forge.
+The paid time off may be requested from the date of death of the family member to the day immediately after the funeral. Funeral leave pay is based on eight (8) hours of pay for each normally scheduled workday of funeral leave absence. Green Bay Drop Forge may request that an employee provide documentation for verifying relationship and attendance of funeral purposes. Hours paid under the Bereavement Pay benefit are not counted as hours worked for computing overtime or time off benefit.
+For the purposes of granting Bereavement Benefits, the term “immediate family” will be considered as follows:
+Three (3) days paid funeral leave: spouse, child, stepchild,
+28
+mother, father, stepparent, brother, sister, stepbrother/sister;
+Two (2) days paid funeral leave: grandparent, grandchild, current father/mother-in-law, current son/daughter-in-law;
+One (1) day paid funeral leave: spouse’s grandparent, employee’s uncle/aunt, *brother/sister-in-law.
+(*The brother/sister-in-law are either the employee’s spouse’s brother/sister or the spouse of the employee’s brother/sister. The husband of the sister-in-law or the wife of the brother-in-law is not considered immediate family.)
+In the event of a death in your immediate family, please notify your supervisor immediately concerning the time off desired so that other arrangements can be made to cover your work schedule as necessary. Uncompensated time off in excess of the stated times above will be allowed with departmental manager’s approval. The pay shall be the average straight time hourly rate for the pay period preceding the bereavement, excluding pay for overtime, shift premium, or incentive.
+116.J	Bereavement Eligibility
+To determine an employee's eligibility for bereavement pay, the employee must contact the Personnel Clerk to establish his qualifications.
+29
+117
+REGULAR HOURLY RATES
+117.A	The hourly rate for all employees is shown in
+the wage schedule of rates for all types of work. As shown, all hot workers and cold press are covered by two (2) rates for each classification, Down Time Rate and Piece Work Rate.
+117.B	PAY RATES
+All employees on the payroll as of the signing of this contract shall receive the following wage increases:
+Effective on the first anniversary of this contract, all employees will receive a twenty cent ($0.20) per hour increase on their base rates. On the second anniversary of the contract, all employees will receive a twenty cent ($0.20) per hour increase on their base rate. On the third anniversary of the contract, all employees will receive a twenty cent ($0.20) per hour increase on their base rate. On the fourth anniversary of the contract, all employees will receive a twenty ($0.20) per hour increase. The years of service pay will stay at five ($0.05) per year of service for duration of the contract.
+HOT WORK	DOWN TIME	RATE	PIECE WORK RATE	
+	Low	High	Low	High
+All Hammers	9.91	13.28	11.91	15.19
+All Hot Trims	8.91	12.58	10.41	14.35
+All Heaters	8.35	12.48	9.31	14.25
+Upsetter	9.91	13.28	11.91	15.19
+Hammerman Trainees (Period		to be determined by		Company,
+375 days, $1.00	less than rate of Hammer. Employee will			
+evaluated on a	quarterly basis)			
+COLD WORK	DOWN TIME RATE		PIECE WORK RATE	
+	Low	High	Low	High
+Press Set-Up	12.42	16.63		
+Cold Press	8.91	12.55	10.41	14.09
+Floor Labor	10.41	13.99		
+F.S. Gen. Maint	11.91	15.31		
+Max. be
+DIE DEPARTMENT	Low	High
+Tool Technician	17.86	19.25
+Tool & Die Machinist	10.91	18.00
+Maint. Machinist	11.95	16.00
+Maint. Mach. Leadman		16.60
+30
+117.C	The incentive piece rate shall be increased as
+the productive rate increases for each period.
+117.D	Down Time Rate
+For such occasions wherein an employee is actively and fully engaged in repairs of equipment, the piece work rate will apply for such time that the employee is so involved. In the event that an employee is not fully engaged in maintenance, the downtime rate will apply.
+Piece work rates will apply to any hammerman or helper for the original set-up. Reset of dies is on downtime rate.
+Board changes will be on piece work rates.
+Piece work rates will be paid for the maximum allotted time agreed upon.
+In the event that hammer dies, holders, or inserts cannot be judged as complete due to no fault of the employee, the piece work rate shall continue to be paid beyond the allotted time.
+Hammermen performing minor furnace repairs on the unit assigned for production will be paid the downtime rate, performing furnace repairs on any other unit will be on the piece work rate.
+Time for furnace rebuilding will be on the Forge Shop General Maintenance Rate.
+117.E	For Productive Work, hot workers shall receive
+the Down Time Rate of their classification or the Cold Press Rate, whichever is the highest, while these employees are on production during the time their unit or dies are being repaired.
+117.F	Hot Work Rates
+1.	All time which the unit is actively producing is productive time.
+2.	Any employee from the cold operations assigned to a hammer for setup, hammer line up, maintenance or for any assistance, shall maintain his rate from
+31
+the cold operation such as cold press, or labor.
+3.	Cold press operators assigned to hot trim due to change in job or absenteeism shall receive hot trim rates while active as a member of the hot work crew.
+4.	Hammermen assigned to other equipment due to the job they were originally assigned completing shall be paid in accordance to the new assignment. Hammerman assigned to other equipment due to the job they selected going down for reasons beyond their control will maintain the pay of the original assignment for the remainder of that day.
+5.	Hot trimmers assigned to cold press shall receive cold press rate.
+6.	Hot trimmers assigned to labor shall receive Down Time rates or the rate of the job according to seniority.
+7.	Hot trimmers assigned to cold press work shall receive cold press rate once reassigned to a hammer as a hot trimmer, the employee is then paid according to the hot press work.
+8.	In general, hot work rates apply for the crew of the hot work unit until such time as the characteristics of the job change, (i.e.) job completing or re-assignment due to absenteeism.
+9.	These rules do not change any position of the Agreement relative to seniority work interruptions, or schedule changes.
+118	INCENTIVE PROGRAM
+118.A	Rules Governing the Incentive Program
+for Forge Shop Employees
+1. As compensation for increased effort in producing an increased quality of acceptable pieces, employees shall be paid an incentive for the number of acceptable pieces.
+32
+2.	Quality and Quantity a.	The Company will not pay incentive pay for any defective or faulty work that is due to the worker's negligence, carelessness or willful or intentional making of scrap. b.	Scrap shall not be thrown into the waste-pile until the scrap has been counted. Scrap shall remain at the operation until the end of the shift and then discarded.
+118.B	Establishment of Base Incentive Rates
+1.	Base rates on new jobs shall be established on the basis of quantities per hour which can be effectively produced by an average operator with normal effort. It is understood that such rates can be exceeded an approximate 30% or more by increased application.
+2.	Base rates for new jobs shall be posted on the bulletin board.
+3.	Incentive earnings shall be paid only for productive hours and set-up.
+4.	Base rates currently in effect are to be periodically reviewed by both parties for the purpose of maintaining such rates in compliance with Paragraph 118.B.1. No established rate shall be changed without the mutual consent of both parties.
+5.	When changes in production methods are made, such as tooling, material or equipment which affect the base rate of the job, the base rate will be reestablished by method of time-study in compliance with Paragraph 118.B.1. If an off standard condition should exist, the foreman will have the authority to allow the rate of 125% of the productive rate to be applied.
+33
+Conditions which affect the standard by 5% or less will not change the standard.
+During a time study, the operator(s) will be paid 130% of his or her productive rate. Down-time will be paid at the down-time rate. It is the intent that a time study will immediately establish a productive rate for a job. When an operation is changed back to its original method of production the original base rate will be reinstated.
+118.C
+118.D
+Posting Incentive Rates and Pay
+1.	Incentive rates for all jobs shall be posted on the bulletin board and a copy given to the Union Committee.
+2.	A slip will be given to each employee making incentive daily indicating the pieces run, productive hours, down-time, number of pieces over the base incentive pay, and the incentive pay. Notification of any disagreement with the incentive pay must be made no later than one (1) day after the notice is received.
+Down-time
+1. An Engineering representative will determine whether downtime is excessive and directly related to a source other than the control of the operator. Allowances shall be made for downtime that is deemed excessive, and is directly related to a source out of the operators control. It is the responsibility of the employee or a representative of the employee to notify Supervision of the downtime as it is occurring. The downtime will also begin to be evaluated in-depth with the Cebos program, which is in the process of being implemented for tracking production. If an employee is not in agreement with the Engineering decision, they have the right to have the Union committee review the determination. After the committees review of the determination, the committee may then request a review by the company, prior to subjection to the grievance procedure.
+34
+118.E.1	Incentive For Hammer Set-up
+1.	Set-up of the hammer dies shall be performed by two employees, the hammerman and the most economical helper that can be assigned.
+2.	A hammer set-up is completed when dowels and keys are firmly in place and the setup has furnished three groups of acceptable forgings. These acceptable forgings must be lined up to forging tolerance.
+3.	The helper will stay with the set-up as long as needed to assist the hammerman, the helper will be reassigned by supervision when no longer required. The helper will receive the same percentage of incentive as the hammerman.
+4.	Down-time will be allowed for any condition that is not normal such as frozen keys or dowels, equipment failure, die or hot trimmer delay, furnace failure or failure that is beyond the capability of the hammerman to normally adjust.
+5.	Incentive		Pay for all	Set-ups
+	a.	4000#	hammer 1.00	hours
+	b.	3000#	hammer 1.00	hours
+	c.	2500#	hammer 1.00	hours
+	d.	1500/2000# hammer		1.00 hours
+118.E.2	Incentive is to be paid for hammer set-up
+using holders and inserts that are made in less time than: a. Holders 1.0 hours b. Inserts 1.0 hours
+118.E.3	Press Set-Up
+1.	There is no longer any incentive associated with this set-up.
+2.	Set-up includes the time from when the set-up man is ready to begin the actual set-up until the time when the set-up has
+35
+been approved by supervision from pieces run by the set-up man.
+a.	Prior to the actual set-up, the set-up man is to supply himself with all necessary items to make the set-up.
+b.	Set-up time includes taking out the old set-up.
+c.	Set up time includes set-up of the safety equipment provided, and in securing its proper working order.
+3.	After the set-up is complete or set-up as far as possible; the set-up man is to clean the dies he removed. If repairs are needed or a replacement to be made, the set-up man is to inform the supervisor. Dies not requiring repairs are to be returned to storage.
+36
+119	PENSION TRUST
+119.A	In the Agreement, the Boilermakers Blacksmith
+National Pension Trust is referred to as "National Pension Trust", "Pension Trust", or "Trust", the Contractor is referred to as "Employer", and the Contractors are referred to as "Employees".
+119.B	Employer agrees to be bound to the Trust
+Agreement entered into as of June, 1960, establishing the Boilermakers-Blacksmith National Pension Trust and by amendments to said Trust Agreement, and to execute an individual acceptance of said Trust Agreement and amendments upon request of the Union.
+119.C	Payment of Employer contributions to the
+National Pension Trust in the amount specified in the Agreement shall be made on the dates and in the manner and form prescribed by the Trustees of said Trust.
+119.D	Employer shall furnish the Trustees with
+information such as the names of employees, classification, Social Security numbers, hours worked, and such other information as may be required or deemed necessary by the Trustees for the proper and efficient administration of the Trust.
+119.E	Employer hereby authorizes and directs the
+Committee named in this Agreement as representing the Employers, and as to the future, the Committee representing the Employers named in the then current Agreement successor to this Agreement with the Union or any local thereof, to do each and all of the following in his (Employer's) name and behalf, either individually or in conjunction with other Employers covered by this Agreement.
+1.	Execute the Trust Agreement establishing the National Pension Trust and any amendments thereto.
+2.	Exercise any rights, powers and authority given or provided by said Trust Agreement or any amendments thereto, to elect, select, appoint or to vote for any or more Employer Trustees and successor Employer Trustees of the Trust and to remove or vote for or against the removal of any Employer Trustee of the Trust.
+3.	Exercise any and all other rights in
+37
+connection with or relating to the National Pension Trust or the individually or together with other employers, under said Trust Agreement. In exercising or in not exercising the power and authorities herein granted, the Committee shall act and in accord with but only on and in accord with, the vote of a majority of the designate its then Chairman, alone or together with one or more of its members, or one or more other members of the Committee, to vote or to execute any document on behalf of the Committee and/or Employer and/or all or some of the other Employers covered by this Agreement.
+119.F	Employer hereby irrevocably designates the
+Employer Trustees appointed pursuant to said Trust Agreement, and their successors collectively as his (Employer's) representatives for the purpose set forth in said Trust Agreement.
+119.G	For employees, the Company will contribute
+fifty cents ($.50) per hour, on hours worked, as well as holiday, vacation, & bereavement hours to the Pension Trust.
+The Union agrees that the employees’ wages shall be reduced by an amount equal to the amount required by the Pension Trust as a result of amendment 1.
+Furthermore, the Union and the Company agree that in the event the Boilermakers Pension reaches green status or the proposed increases to the Base Contribution Rate because of amendment 1 are eliminated or reduced by the Trustees, an amount equal to the reduction will be restored to the employees’ wage rate.
+38
+120
+FORGE SHOP JOB DESCRIPTION
+12 0.A	Hammerman
+Sets up and operates power forge hammers and related furnaces. Lubricates and performs simple maintenance and repair on them. Directs heater operators and trimmers working with him and instructs apprentices. Is responsible for efficiency and quality of production in accordance with prescribed standards and instructions, including the following:
+1.	Condition of equipment and accompanying safety devised.
+2.	Performance according to specifications given him.
+3.	Maintenance of heat at specified temperatures.
+4.	Correct alignment of dies.
+5.	Recognition of when various materials (carbon steel, alloy, or stainless steel, etc.) have been heated to specified forging temperatures.
+6.	Maintenance of furnace loading for proper operation of hammer.
+120.B	Hammerman Trainee
+Assigned to and under direction of a qualified forge hammerman or supervisor to fulfill requirements of forge hammerman classification.
+120.C	Heater
+Cleans and operates furnace, inserts and removes steel for processing. Assists in setting up hammer. Maintains heat at proper time periods and temperature. May be called on to operate normalizing and annealing furnaces and in this capacity counts, loads and unloads the materials in process.
+120.D	Forge Shop Floor Labor
+Moves material of all types, operates grinder (pedestal or snagging). Segregates forgings, cleans up,
+39
+unloads cars, drives yard truck, lift truck, tractor and performs other duties as directed by supervision.
+120.E	Cut-Off Work, Cold Press
+Operates cold press to cut off or re-cut stock to prescribed lengths and finish.
+120.F	Press Set-Up
+1.	Instructs and directs employees on presses as to proper efficient and safe performance. May be called on to instruct other set-up men.
+2.	Sets up the presses, adjusts the safety devices and lays out the work for the employees directed, and performs minor repairs.
+3.	Responsible for proper tool maintenance, precision and speed of operation, also for job and time records of the jobs directed.
+4.	Performs production work when called upon.
+5.	Makes required reports, including immediately reporting to supervision any delay or failure in production. Also instructs workers to carry out requests of supervisors concerning proper care of filling out the job tickets.
+120.G	Cold and Hot Press Operator, Forge Shop
+Operates hot and cold presses in Forge Shop.
+May be required to set-up own machine when necessary. Responsible for operations, quantity and quality of product produced.
+120	.H	Leadperson
+The company may designate a leadperson who shall be paid on an hourly basis. Leadperson shall perform general supervisory functions except hiring and firing, shall have no authority to discipline other employees, nor recommend disciplinary action, and may perform their regular duties. Leadpersons shall accumulate seniority while acting
+40
+in this capacity and shall be laid off and recalled in order of their seniority. Leadperson wages shall be negotiated with the Union prior to appointment.
+120.I
+Forge Shop General Maintenance Person
+Must be moderately skilled in the use of the tools of many trades, but especially skilled in installing, repairing, igniting, and regulating forge furnaces. In addition to duties relative to forge furnaces, this person shall perform other types of maintenance work requiring only moderate skill such as lubricating equipment, cleaning equipment, painting, carpentry and minor repairs to mechanical equipment, building or grounds. They make reports to supervision of any known defect, keeps records as required, assists in dismantling, moving, installing or repair of equipment. Shall be assigned to unclassified work if not occupied in their classification as determined by supervision.
+41
+121
+DIE DEPARTMENT JOB DESCRIPTIONS
+121	.A	Tool Technician
+This position is the same as Tool & Die Machinist with the addition of working with all aspects of the company to promote the efficient operation of all equipment. This includes but is not limited to working on all CNC machines throughout the organization.
+121	.B	Tool & Die Machinist
+Carries through to completion, but is not limited to, the production of the following:
+1. Trimmers, trim punches and their accessories 2. Punch dies
+3.	Fixtures
+4.	Coin dies
+5.	Gages
+6.	Forge dies
+Must have a minimum of a Machine Tool Operation certificate or equivalent experience. Shall confer and assist the appropriate personnel in the investigation of improvements to new and existing tooling and procedures. Shall be able to run all equipment in the die room, either through advanced training or past experience. Shall assist the training of other employees when called upon.
+121.C	Maintenance Machinist
+Carries through to completion the repair of equipment. Sets up and operates available machine tools as required in machining to very close tolerances. The resulting work must produce parts to the required specifications. Must be capable of repairing equipment, structures, tools, dies and fixtures. Keeps all equipment in efficient operating condition. Performs such duties as dismantling, moving, installing, erecting, or any similar duty as required. With their knowledge of equipment, makes reports to supervision of any known defects and keeps records as required. May be called upon to lubricate in the absence of the Forge Shop general maintenance person and perform emergency repairs.
+121	.D	Maintenance Machinist Leadman
+In addition to having the qualifications of a maintenance machinist, shall be capable of diagnosis and corrective means to repair all pertinent equipment. Must be conscientious in preventive maintenance and cost reduction of
+42
+maintenance. Requires a minimum of supervision and directs employees relative to maintenance.
+122	INSURANCE
+122.A	The Company agrees to provide Health, Life and
+Disability Insurance to all eligible employees acceptable by the Company and Union in accordance with the provisions of this section. The Company agrees to contribute seventy per cent (70%) of the cost of the coverage, based on each employee’s election of single or family coverage, and adjusted for the cost of any benefit level increases previously or in the future requested by the Union. The Company will jointly review the health insurance plan renewals, and the Union committee will participate in pursuing and considering alternate plan proposals. The Company may change the coverage as long as the general benefits remain the same. Annual Out- of-Pocket Maximums not to exceed $1500.00 for a single plan and $3000.00 for a family plan unless any alternatives to control cost can not be agreed upon between the Company and the Union committee.
+Efforts will be made to obtain the most favorable coverage provisions in future medical coverage proposals, depending on the ability to obtain the most favorable premium rates, and depending on any regulatory constrictions realized by the implementation of the Patient Protection and Affordable Care Act and Health Care and Education Reconciliation Act of 2010, and any related amended bills.
+The Life Insurance and Accidental Death and Dismemberment amount will be $10,000.00. The Short Term Disability Weekly Income will be $300.00 per week for twenty-six weeks.
+122.B	When an employee quits or is terminated, the
+company's obligations as to premium payments shall cease.
+The employee will then be covered by the Cobra provision.
+122.C.1	An employee must be regularly employed and
+work 90% of the regular established work hours of the month preceding the month of coverage; if an employee has worked less than 90% of the regular established work hours of the month preceding the month of coverage, the Company will pay 50% of the Company contribution, employee to pay the balance; or if an employee is on layoff or leave of absence up to 50% of the regular established work hours of the month preceding the month of coverage, the Company will not pay for the employees insurance for the following month. However, the cost can be paid to the Company by the individual and the Company will forward the amount to the insurance company, for a period of three (3)
+43
+months, or Cobra provision, if they apply. Copies of the Insurance Policy and Trust Agreement are to be attached to and made part of this Agreement.
+122.C.2	If an employee for whom the Company is making
+payments under Paragraph 1 of this Section is unable to work because of a compensable injury, the Company will continue to make the same payments on behalf of such employee for a maximum period of six (6) months or until the employee is allowed to return to work by his physician, whichever is shorter.
+44
+123
+VACATION PROGRAM
+123.A
+Vacation Eligibility Requirements
+1.	The number of days vacation an employee is eligible for with pay is indicated by the number of years seniority gained by the employee prior to the anniversary date of hire.
+2.	An employee must be employed for 70% of the normal work days in the current calendar year to be eligible for vacation. Included as normal work days shall be days not worked due to occupational and compensable accident or occupational and compensable illness, vacation, paid holidays, and excused union business.
+3.	Vacations with pay shall not accumulate and must be taken during the calendar year unless the employee requests he be paid in lieu of a vacation because of extended illness or injury during the vacation year or for such other reason mutually agreed upon by the Company and Union Committee.
+4.	Any employee who is eligible for a vacation under the above provisions and quits after giving the Company two (2) days notice, or is terminated by the Company, shall be eligible for vacation pay. An employee who is discharged for cause, shall forfeit any accrued vacation pay.
+5.	An employee may take one to four days vacation at a time of his selection but no more than a total of fifteen days in this manner. Selection of the day or days shall be in accordance with the Agreement except that an employee may use up to ten days of his vacation to make up time lost by applying for and obtaining his supervisor's written permission.
+Employees shall be allowed to designate a maximum of ten days vacation according to their seniority and eligibility, until all employees have declared the time of their
+45
+vacation, after which employees with more than ten days vacation shall designate the balance of their vacation time.
+6.	All eligible employees who do not qualify under the 70% work time clause shall be compensated at the end of the year as shown in the vacation schedule.
+7.	The hourly rate for vacation pay shall be the average straight time hourly rate for the one (1) payroll period preceding the vacation period excluding pay for overtime, shift premium or incentive. The vacation check shall be paid the Friday or last regular work day prior to the start of the employee's vacation.
+8.	Starting on March 15 of each year, employees will submit vacation requests to their supervisor or timekeeper. These requests will be made in order of employees seniority. Written confirmation will be given at the time of approval.
+Employees who wish to take a vacation prior to April 15 shall make arrangements through their supervisor.
+If an employee is undecided as to when he desires his vacation at the time it is necessary to sign up, he shall lose his turn and his name shall be placed below that of the next least senior employee. If an employee is absent, the company will attempt to contact him.
+Not more than 25 percent (by department) of the total work force may be on vacation, at any given time. The remaining work force must include a sufficient number of classified employees to maintain an efficient operation. The remaining 75 percent of the work force may be eligible whenever the work load and shift efficiency permit.
+The vacation schedule will be kept at the supervisor or timekeeper station to allow
+46
+employees to see which are available.
+9.	If an employee retires or dies, the employee's vacation shall be determined as in 1. & 2. In the cases of death, the vacation pay would be paid to his family.
+10.	If the Company intends to close down for inventory, the Company shall so advise the Union by May 1st. In the event of a close down, it shall be mandatory for all eligible employees to take vacation during the shutdown period.
+11.	In the event of a close down for inventory, the Company shall be allowed to perform maintenance using such employees as required, perform such work in the Die Department as is necessary by its work load, however, there shall be no productive work in the Forge Shop.
+12 Employees taking two (2) weeks vacation at a time shall be paid for the ten (10) work days prior to going on vacation.
+13.1 Length of vacation;
+#Years/
+Seniority
+# Days/ % of Total Vacation Straight Time
+Earnings/Current
+Year
+1	5	2
+2	10	4
+8	15	6
+15	20	8
+47
+124
+SAVING CLAUSE
+The parties hereby pledge to comply fully to the best of their ability with every applicable jurisdiction over the subject matter of this Agreement and the parties hereto agree that in the event that any provision of this Agreement is held to be unlawful or void by any tribunal having the right to so hold, the remainder of the Agreement shall remain in full force and effect.
+48
+125
+DURATION OF CONTRACT
+This Agreement shall become effective on
+June 1, 2011 applicable to the parties, their successors in interest or assigns and shall remain in effect for five (5) years, from year to year thereafter, unless either party desiring, notifies other party of such desire in writing at least sixty (60) days prior to expiration date or any anniversary of this date.
+49
+This agreement is executed by the undersigned this June 2011.
+1st day of
+GREEN BAY DROP FORGE
+FOR THE COMPANY
+Joe Caelwaerts
+______________________________ Andrew Higgins
+INTERNATIONAL BROTHERHOOD OF BOILERMAKERS, IRON SHIP BUILDERS, BLACKSMITH, FORGERS AND HELPERS, AFL-CIO, CFL, LOCAL 177
+FOR THE UNION
+______________________________Scott Tilque
+______________________________ Kelly Urbanek
+______________________________ Andrew Lenss
+______________________________Ben Selner
+50

@@ -1,0 +1,623 @@
+﻿COLLECTIVE BARGAINING
+AGREEMENT
+Oregon University System
+Eastern Oregon University Oregon Institute of Technology Oregon State University Portland State University
+Southern Oregon University University of Oregon
+Western Oregon University
+and
+SEIU Local 503, OPEU, AFL-CIO, CLC
+2003 - 2005
+TABLE OF CONTENTS
+Article Number	Article Description	Page	Article Number	Article Description	Page
+1	Parties to the Agreement	1	24	Insurance	38
+2	Recognition	1	25	Overtime	41
+3	Scope of Agreement	2	26	Standby Duty	43
+4	Term of Agreement	2	27	Travel Allowance	44
+5	Complete Agreement/Past Practices	3	28	Mileage Reimbursement	44
+6	Legislative Action	4	29	Moving Expenses	44
+7	Separability	4	30	Penalty Pay	44
+8	No Strike or Lockout	4	31	Career Development	45
+9	Employer Rights	5	32	Affirmative Action	46
+10	Union Rights	5	33	Filling of Vacancies	46
+11	Employee Assistance Program (EAP)	13	34	Veteran’s Preference	48
+12	Child Care	13	35	Trial Service	48
+13	Contracting Out	14	36	Transfer During Trial Service	49
+14	Negotiations Procedures	15	37	Limited Duration Appointment	50
+15	Parking	16	38	Job Sharing	50
+16	Personnel Records	16	39	Voluntary Demotion	51
+17	Discipline and Discharge	17	40	Personal Leave Days	51
+18	Grievance and Arbitration Procedure	19	41	Sick Leave	52
+19	No Discrimination	24	42	Bereavement	55
+20	Differential Pay	26	43	Holidays	55
+21	Salary	30	44	Election Days	58
+22	Salary Administration	32	45	Leaves With Pay	58
+23	Payroll Computation Procedures	36	46	Leaves of Absence Without Pay	59
+Article	Article		Article	Article	
+Number	Description	Page	Number	Description	Page
+47	Parental Leave	61	66	Inclement Conditions	90
+48	Pre-retirement Counseling	61	67	Technological Change/Retraining	91
+49	Search and Rescue	61	68	Professional Recognition	92
+50	Vacation Leave	62	69	Information Technology Compensation Plan	92
+51	Layoff	65			
+52	Seasonal and Intermittent Employees	71		Letters of Agreement	
+53	Academic Year Positions	72	2	Recognition	96
+54	Temporary Interruption of	75	5	Complete Agreement/Past	96
+	Employment - Lack of Work			Practices	
+55	Change in Classification	75	21	Salary (A)	96
+	Specifications			Salary Increase (B)	97
+56	Reclassification Upward-	76	22, 69	Salary Administration (22)	98
+	Downward			Information Technology Compensation Plan (69)	
+57	Position Descriptions and Performance Evaluations	79	38	Job Sharing	98
+58	Work Schedules	80	41	Family Medical Leave Act (FMLA)	99
+59	Safety and Health	81	51	Layoff	99
+60	Communication/Consultation	83	69	IT Design Committee/Evalua-	100
+	Committees			tion of Information Technology Compensation Plan	
+61	Job Protection for On-The-Job	84		Drug and Alcohol Testing for	100
+	Illness or Injury			OSU	
+62	Video Display Terminals	86	22, 32, 33,	Reduced Meal Cost - OSU	101
+63	Special Provisions-Sailing	86	37,39,41,	PSU/SCF Child Welfare	101
+	Complement (OSU)		50,51	Partnership	
+64	Education, Training and Development	89		OPEU/OUS CDL	103
+65	Uniforms, Protective Clothing	90		Human Resource Information	107
+	and Tools			System	
+Letters of Agreement- cont.
+Information Technology	110
+Anniversary Date
+Optional Retirement Plan	111
+Accounting Series	112
+The Application of The	112
+Christmas and Christmas Eve Day Holidays
+Appendices/Index
+Appendix A
+Classification/Class Title Salary Range (Alpha)
+Appendix B
+Classification/Class Title Salary Range (Numeric)
+Appendix C Salary Schedule
+■	February 1, 2003
+Appendix D IT Salary Schedule
+■	February 1, 2003
+Appendix E
+Grievance Filing and Timeline
+Chart
+Subject Index
+ARTICLE 1	- PARTIES TO THE AGREEMENT
+This Agreement is entered into between the SEIU Local 503, OPEU, AFL-CIO, CLC (Union) and the Oregon State Board of Higher Education (OSBHE) (Employer) acting by and through the Office of the Chancellor in the Oregon University System (OUS) on behalf of the following universities/colleges: Eastern Oregon University, Oregon Institute of Technology, Oregon State University, Portland State University, Southern Oregon University, University of Oregon, and Western Oregon University.
+ARTICLE 2	- RECOGNITION
+Section 1.
+(A)	The Employer recognizes the Union as the exclusive bargaining representative for all classified employees in positions represented by the Union at the universities designated in Article 1 - Parties to the Agreement and for all classified positions currently represented by the Union in the Chancellor’s office. This recognition does not apply to employees currently represented by other labor organizations, students who are not classified employees, unclassified, exempt, temporary, supervisory, managerial and confidential employees as defined by law or as determined by the Employment Relations Board.
+(B)	The Employer agrees to provide the Union and the affected employee(s) with no less than thirty (30) days written notice of its intent to exclude a filled bargaining unit position based on supervisory, confidential, or managerial status. The employee may elect to exercise his/her layoff rights under Article 51 - Layoffs, Section 12. If the employee elects to exercise layoff rights, the layoff will not be effective prior to the end of the thirty (30)-day notice period. If the Employer decides during the thirty (30)-day notice period not to proceed with the exclusion, and the position is not otherwise eliminated, the employee shall remain in the position. The effective date of the exclusion remains unchanged.
+(1)	Within twenty-five (25) days of the date of the Employer’s notice, the Union shall notify the Employer, in writing, of any comments it has regarding the exclusion.
+(2)	For purposes of this Section, written notice may be provided by personal delivery, fax, or mail (postmark) within the time frames cited above.
+Section 2.	The Employer and the Union have established a single bargaining unit made up of employees at the universities/college designated in Article 1 - Parties to the Agreement.
+Section 3.	When there has been a determination of the Employment Relations Board to modify the bargaining unit or when the parties reach mutual agreement to modify, negotiations will be entered into as needed or as required by law.
+Section 4.
+(A)	Temporary appointments shall be used for the purpose of meeting emergency, nonrecurring or short-term workload needs. Employment of a temporary
+1
+worker, other than to replace a regular employee on leave, shall not exceed the equivalent of six calendar months (1,040 hours) in a twelve-month period, except when the university/college has granted an extension based on the following conditions: 1) the work to be performed continues and is the same work performed as at the time of the initial appointment; and, 2) no other reasonable means exist to get the work done. In the case of such extensions, the university/college will notify the Union in writing of the extension and specify the circumstances necessitating the extension. A temporary appointment made to replace a regular employee on leave shall not exceed the period of the leave.
+(B)	Upon written request from the Local Union President to the university/college Human Resources Department, the university/college will provide a written report to the Local President regarding the duration of and reason for temporary appointments and a list of temporary agencies and the amount paid to each agency for the previous six-month period. The Union agrees to pay reasonable costs associated with providing this information.
+(C)	Grievances alleging a violation of this section may be submitted only by the Union directly to the university/college President or designee.
+ARTICLE 3	- SCOPE OF AGREEMENT
+Section 1.	This Agreement binds the Union, its bargaining unit members and any person designated by it to act on behalf of the Union. Likewise, this Agreement binds the Employer and any person designated to act on behalf of the Employer.
+Section 2.	This Agreement supersedes all prior collective bargaining agreements and Letters of Agreement negotiated between the Union and the Oregon University System acting by and through the Office of the Chancellor.
+ARTICLE 4	- TERM OF AGREEMENT
+Section 1.	This Agreement shall become effective upon ratification by the Parties and expires June 30, 2005 except where specifically stated otherwise in this Agreement.
+Section 2.	Either party may give written notice during the period of October 15 -November 15, 2004 of its desire to negotiate a successor Agreement. Such negotiations shall commence with an exchange of written proposals by the parties no later than the first week in February 2005.
+Section 3.	This Agreement shall not be opened during the term of the agreement except by mutual agreement of the parties, by proper use of Article 7 - Separability, or as provided in Section 2 of this Article or as otherwise specified in this Agreement.
+2
+ARTICLE 5	- COMPLETE AGREEMENT/PAST PRACTICES
+Section 1.	Complete Agreement
+(A)	Pursuant to their statutory obligations to bargain in good faith, the Employer and the Union have met in full and free discussion concerning matters in "employment relations" as defined by ORS 243.650(7). This Agreement incorporates the sole and complete agreement between the Employer and the Union resulting from these negotiations. The Union agrees that the Employer has no further obligation during the term of this Agreement to bargain wages, hours or working conditions except as specified below. The Employer agrees that during the term of this Agreement it may not unilaterally change employee wages or hours. "Working conditions" established by a specific provision of this Agreement may not be unilaterally changed. Other "working conditions" not covered by this Agreement may only be changed pursuant to the restrictions and procedures in Section 2 of this Article.
+(B)	Notwithstanding Section 1(A) of this Article, the parties agree that the employer may modify or eliminate campus-specific direct and/or indirect monetary benefits that apply to all on-campus employee groups in accordance with ORS 243.698, with the following exceptions:
+1.	Campus-based mass transit passes and/or discounts.
+2.	Modification or elimination of a campus-specific benefit, that results in a lower benefit for bargaining unit workers compared to other employee groups.
+Section 2.	Past Practices
+(A)	The parties recognize the Employer’s full right to direct the work force and to issue work orders and rules and that these rights are diminished only by the law and this Agreement, including arbitrator’s awards which may evolve pursuant to this Agreement.
+(B)	(1) The Employer may change or issue new work practices or rules
+covering permissive subjects of bargaining, including issuing administrative rules over issues which are nonnegotiable and are not in conflict with or otherwise addressed in a specific provision of this Agreement. The Employer agrees to bargain over any proposed changes in "working conditions" or their impact which are mandatory subjects of bargaining.
+(2)	If the Employer believes the change is a mandatory subject of bargaining, the parties shall meet within ten (10) days of the Union’s request to meet. One (1) Union Steward from the affected university/college will be allowed to use university/college time without loss of pay or benefits to participate in these negotiations. The Employer will not be liable for any overtime, premium pay, travel reimbursement or mileage for the Union Steward.
+(3)	The Union may file an unfair labor practice complaint with the Employment Relations Board if the Employer refuses to bargain. If the Board rules that the change is a permissive or prohibited subject of bargaining, the Union shall withdraw
+3
+its demand to bargain. If the Board determines the change is a mandatory subject of bargaining, the parties shall meet to negotiate this subject change.
+(4)	If, after bargaining, the parties do not reach agreement, the Union
+may exercise its right to utilize the dispute resolution procedures under ORS 243.712-ORS 243.726, including the right to strike (notwithstanding Article 8 - No Strike or Lockout of this Agreement)
+ARTICLE 6	- LEGISLATIVE ACTION
+Section 1.	Provisions of this Agreement not requiring legislative funding or statutory changes before they can be put into effect shall be implemented on the effective date of this Agreement or the date otherwise specified in this Agreement. Necessary bills for implementation of the other provisions shall be submitted promptly by the OUS to the Legislative Assembly and both parties shall jointly recommend passage of the funding and statutory changes.
+Section 2.	Should the Legislature not be in session at the time agreement is reached, the funding provisions of this Agreement shall be promptly submitted to the Emergency Board by the OUS and both parties shall jointly recommend passage.
+Section 3.	Should the Legislature not be in session at the time agreement is reached, all other legislation necessary for the implementation of this Agreement shall be submitted to the next session (whether regular or special) of the Legislative Assembly.
+ARTICLE 7	- SEPARABILITY
+In the event that any provision of this Agreement is at any time declared invalid by any court of competent jurisdiction, declared invalid by final Employment Relations Board (ERB) order, made illegal through enactment of federal or state laws, or through government regulations having the full force and effect of law, such action shall not invalidate the entire Agreement, it being the express intent of the parties hereto that all other provisions not invalidated shall remain in full force and effect. The invalidated provision shall be subject to renegotiation by the parties within a reasonable period of time from such request.
+ARTICLE 8	- NO STRIKE OR LOCKOUT
+The Employer agrees that during the term of this Agreement, the Employer shall not cause or permit any lockout of employees from their work. In the event an employee is unable to perform his/her assigned duties because equipment or facilities are not available due to a strike, work stoppage or slowdown by any other employees, such inability to provide work shall not be deemed a lockout.
+During the term of this Agreement, the Union shall neither cause nor counsel the members of the bargaining unit to strike, walk out, slowdown or commit other acts of work stoppage.
+4
+Upon notification, confirmed in writing by the Employer to the Union, that certain bargaining unit employees covered by this Agreement are engaging in strike activity in violation of this Article, the Union shall, upon receipt of a mailing list, advise such striking employees in writing with a copy to the Employer to return to work immediately. Such notification by the Union shall not constitute an admission that it has caused or counseled such strike activity. The notification by the Union to employees covered by this Agreement shall be made at the request of the Employer.
+ARTICLE 9	- EMPLOYER RIGHTS
+Except as may be specifically modified by a specific term of this Agreement, the Employer shall retain all rights related to management in the direction of its operations, resources, facilities and services including the direction of the work force. Rights of the employer shall include, but not be limited to, the right to:
+(a)	Manage and direct employees;
+(b)	hire, promote, transfer, assign and retain employees;
+(c)	suspend, discharge or take other proper disciplinary action against employees;
+(d)	reassign employees;
+(e)	relieve employees from duty because of lack of work or other reasons;
+(f)	schedule work; and,
+(g)	determine methods, means and personnel by which operations are to be conducted.
+(h)	determine the need for a reduction or increase in the workforce.
+ARTICLE 10	- UNION RIGHTS
+Section 1.	Rights/Obligations
+(A)	The Union and the Employer agree that there must be mutual respect for the rights and obligations of the Union and the Employer and the representatives of each.
+(B)	Employees covered by this Agreement are at all times entitled to act through a union representative in taking any grievance action or following any alternate procedure under this Agreement.
+(C)	Once a bargaining unit member files a grievance, the employee shall not be required to discuss the subject matter of the grievance without the presence of the union representative if the employee elects to be represented by the Union.
+(D)	The Union shall be granted “Recognized Campus Organization” status or its equivalent in accordance with the rules and policies applicable to each campus and shall be entitled to all rights and/or privileges thereof.
+Section 2.	Union Organizer Visitations. Union organizers, with approval from a responsible manager, shall be allowed reasonable contact with bargaining unit
+5
+members on university/college facilities. The purpose of these visits will be to meet with Union Stewards, with employees or management regarding any actions or procedures under this Agreement, including but not limited to, employee grievances per Article 18 -Grievance and Arbitration Procedure. The union organizer will have the right to contact any represented employee in the workplace, as long as it does not interfere with the normal flow of work (e.g., lunch hour, break, before and after work shifts). The Union agrees to provide the Employer with a list of authorized representatives.
+Section 3.	Building Use. University/college facilities may be used for union activities according to current building use policies, so long as the facility is available and proper scheduling has been arranged.
+Section 4.	Bulletin Boards. The university/college shall allow the use of reasonable bulletin board space for communicating with employees. Union material shall not be displayed in the work area except in the designated bulletin board space.
+Section 5.	Electronic Mail. Union representatives and SEIU Local 503, OPEU represented employees shall be allowed to use the University’s electronic mail system for union business. Such use shall be in compliance with the acceptable use policy for that particular campus in effect on September 16, 2003 and according to the following conditions:
+(a)	The Union’s use of the University e-mail system shall not be more restrictive than other "recognized campus" organizations.
+(b)	Use of the University e-mail system shall be on the employee’s non-work time.
+(c)	The Union will hold the Employer harmless against any lawsuits, claims, complaints or other legal or administrative actions where action is taken against the Employer, Union or its agents (including Union staff, Union officers and stewards) regarding any communications or effect of any communications that are a direct result of use of e-mail under this Article.
+Upon the execution of this agreement, the Oregon University System shall remove any blocks that bar the free transmission of electronic mail between Union electronic mail servers and OUS electronic mail servers.
+Section 6.	Union Steward Representation. The Employer agrees that a union steward system exists for employee representation available to all employees covered by this Agreement and also agrees to respect that when the employee is acting in his/her role of steward, the relationship is different from that of supervisor and employee.
+Section 7.	List of Union Representatives. The Union shall provide the Employer with a list of the names of authorized union stewards and duty location, worksite representation responsibility, and a list of authorized staff representatives and shall update those lists as necessary. If problems arise regarding Union Steward authorized activities in representing employees, the Union agrees to discuss the problem with the Employer as the situation suggests.
+6
+Section 8.	The Employer agrees that there shall be no reprisal, coercion, intimidation or discrimination against any represented employee for protected union activities. It is recognized that only certain protected activities are permitted during work hours.
+Section 9.	New Employee Orientation. Reasonable time shall be granted for a representative of the Union to make a presentation at the orientation of new employees on behalf of the Union for the purpose of identifying the organization’s representation status, organizational benefits, facilities, related information and distributing and collecting membership applications. This time is not to be used for discussion of labor/management disputes. If the union representative is an employee of the university/college, the employee shall be given time off with pay for the time required to make the presentation. The Employer will provide the Union reasonable notice of the place and time of meetings for the orientation of new employees.
+Section 10.	Union stewards will be granted mutually agreed upon time off during regularly scheduled working hours to investigate and process grievances, and to represent bargaining unit employees in investigatory interviews as described in Article 17, Section 5 and Article 18, Section 7 upon notice to their immediate supervisor. If the permitted activities would interfere with the work the Steward or employee is expected to perform, the immediate supervisor shall, within the next workday, arrange a mutually satisfactory time for the requested activity.
+Section 11.	Release Time to Attend OSBHE Meetings. One employee designated by the Union will be released with pay to attend a meeting of the Oregon State Board of Higher Education and attend Board committee meetings scheduled on the same day as the Board meeting, providing the employee notifies the immediate supervisor one (1) week in advance of the Board and Board committee meetings. The designated employee shall work at the university/college where the Board meeting is scheduled or from the university/college in the closest physical geographic proximity to the meeting.
+Section 12.	Union stewards will receive their regular rate of pay for time spent processing grievances and representing bargaining unit employees in investigatory interviews as described in Article 17 - Discipline and Discharge, Section 5 and Article 18 - Grievance and Arbitration Procedure, Section 7 during their regularly scheduled hours of employment. However, except as provided in Article 18, Section 10 and Section 12, only one (1) union steward will be in pay status for any one (1) grievance except where a grievance involves employees in more than one (1) university/college. Supervisors may request that stewards maintain and submit a monthly activity report of work time spent investigating and processing grievances.
+Section 13.	The Employer is not responsible for any compensation of employees or their representative for time spent processing grievances or distributing union material outside their regularly scheduled hours of employment. The Employer is not responsible for any travel or subsistence expenses incurred by a grievant or union steward in the processing of grievances.
+Section 14.	Official Union delegates and members of the Union's Board of Directors shall be granted personal leave, accrued vacation leave, accrued compensatory time or
+7
+leave of absence without pay at their request to attend the Union’s biennial General Council.
+The Union shall notify the Employer of the names of official delegates and board members who shall attend General Council, at least thirty (30) days in advance of the date of the General Council. In emergency situations where the Union is unable to provide thirty (30) days of advance notice, delegates and board members shall be granted leave with less than thirty (30) days notice unless, by granting such leave, the university/college will suffer undue hardship.
+Subject to the employee’s work unit operating requirements, official Union Stewards shall be granted personal leave, accrued vacation leave, accrued compensatory time or leave of absence without pay at their request to attend the Union’s annual Steward Conference. Such request will be submitted in writing at least ten (10) work days before the conference.
+The Union President and Executive Director shall, at their requests, be given release time from their positions for a period not to exceed the term of his/her office for the performance of Union duties directly related and central to the collective bargaining relationship. However, if the Union President and Executive Director are employed at the same institution, the institution is not obligated to approve both requests. If the Union President or Executive Director requests release time for less than his/her full regular schedule, such release time shall be subject to the university/college’s approval based on the operating needs of the employee’s work unit. The Union shall, within thirty (30) days of payment to the President or Executive Director, reimburse the Employer for payment of salary, benefits, paid leave time, pension and all other Employer-related costs. The Union shall indemnify and the Union and its President and Executive Director hold the Employer harmless against any and all claims, damages, suits or other forms of liability which may arise out of any action taken or not taken by the Employer for the purpose of complying with this Section.
+Section 15.
+(A)	Upon timely request, the Employer shall make available at no cost to the Union the latest copy of any SEIU Local 503, OPEU bargaining unit employee statistical and expenditure reports relative to employment and benefits currently produced by the Employer which do not require manual or machine editing to remove confidential data or non-SElU bargaining unit employee data. Such request must be made in advance of the preparation of the reports. If new and appropriate employee statistical and expenditure reports are produced by the Employer, the Employer and the Union may mutually agree in advance to provide such reports at no cost.
+(B)	Upon request, the Employer shall make available to the Union at cost any SEIU Local 503, OPEU bargaining unit employee statistical and expenditure data relative to employment and benefits which is possible to produce, although not normally produced, by the Employer. Data that are not normally produced, but possible to produce, include manual or machine editing of existing reports to remove confidential data or data on non-SElU bargaining unit employees or data or reports that require new development.
+8
+(C)	Each university/college shall furnish monthly to the Union a list of new employees hired into positions represented by the Union. The list shall contain the name, classification, date of employment, transfer if known, and worksites of the new employees.
+Section 16.	Dues Deduction
+(A)	Upon receipt of a request in writing from an employee to do so, the Employer shall deduct Union dues from such employee’s monthly salary or wages in the amount indicated in such request. These monthly dues deductions can include regular Union dues, special assessments, political dues checkoff or voluntary political contributions. All applications for Union membership or dues cancellation shall be submitted by the employee to the Union. All applications for membership or dues cancellation which a university/college receives shall be promptly forwarded to the Union. Employee applications for Union membership or dues cancellation will be submitted by the Union to the university/college payroll offices seven (7) working days prior to the first of each month for payroll deduction.
+(B)	Dues Deduction Register. An alphabetical listing of dues deducted for the previous month for Union members by the university/college shall be forwarded to the Union by the third workday for each month with the dues check. The listing shall be compiled and mailed by the Payroll Center and shall list the employee’s name, (last, first, middle initial), Social Security number, amount deducted, base pay, classification number and representation code.
+(C)	Dues Adjustment Summaries for Union Members. Summaries will be forwarded by the Payroll Center to the Union by the 20th of the month. The Dues Adjustment Summary will reconcile the previous month’s remittance with the current month’s remittance. The Dues Adjustment Summary will be an alphabetical listing and shall show the following:
+Name (last name first, full first name, middle initial)
+Formatted Social Security Number (000-00-0000)
+Prior month deduction
+Current month deduction
+Variance (difference between prior month deduction and current month)
+Reason for change in dues deduction amount (correction for previous month’s error and explanation, salary increase, salary decrease, hourly, part-time, new member, cancellation, transfer to or from which university/college, layoff, retirement, termination, name change, leave of absence without pay, return from leave of absence without pay, end or beginning of season for seasonal employee).
+The Union recognizes that the above information may require hand editing and/or notations. Therefore, only repeated similar errors or omissions will be considered a violation of this section.
+9
+(D)	The Employer shall continue to deduct dues from employees as long as the employee remains on the same designated payroll, except when the employee requests cancellation of the dues deduction in writing.
+(E)	Upon return from leave of absence or leave without pay, the Employer shall reinstate the payroll deduction of union dues from those workers who were having dues deducted immediately prior to taking leave.
+(F)	If a Union member transfers to another university/college, the gaining university/college will designate the employee as a transfer on the new employee list referenced in Section 14(c) if the gaining university/college is aware the employee has transferred. Such employees will be carried over to the new university/college with no change or interruption in their membership status and will not be required to fill out a new membership application in order to maintain their status as Union members.
+(G)	The Payroll Center shall provide monthly an electronic file on any agreed form of media or means of data transmission, all SEIU Local 503, OPEU represented employees and all SEIU Local 503, OPEU members which contains the following information in its most updated form:
+Social Security Number
+Employee name
+Home Address
+Home City
+Home State
+Home Zip Code
+Work Phone
+Home Phone University/College Position number Position Class Position Description Annual Salary Indicator Annual Salary Current Hire Date Adjusted Service Date Employee Status Description FTE
+Job Location
+Work County
+Job Location Description
+Birth Date
+Gender
+Ethnic Description
+Employee Class
+Appointment Basis
+10
+(H)	The Union agrees to pay the one-time reasonable cost associated with reprogramming to comply with formatting and additions for providing the information requested by the Union in Sections 15 and 16 of this Article as well as all reasonable ongoing administrative costs. It is understood that the Employer is not required to provide information not currently available in the data base but rather will prospectively gather such information.
+(I)	Special Reports. Upon request, the Payroll Center will make available to the Union at cost, on a timely basis the following reports:
+(1)	An alphabetical listing of the names of all SEIU Local 503, OPEU represented employees within a university/college;
+(2)	An alphabetical listing of all SEIU Local 503, OPEU fair share payers by university/college.
+These reports shall contain:
+Employee name
+Social Security Number
+Classification with representation code Location code, if any City/county code
+(J)	The parties agree that if the Employer adopts a biweekly pay plan this section of the Agreement will be opened to negotiate any issues including but not limited to readjusting reports and due dates.
+(K)	The Union shall indemnify and hold the Employer harmless against claims, demands, suits or other forms of liability which may arise out of action taken by the Employer for the purpose of complying with the provisions of this Article.
+(L)	The Employer will bill the Union for any additional costs associated with preparing information not already specifically contained in this Article. Upon request, the Employer will meet with the Union to discuss the Employer providing an additional standard magnetic tape format for information the Union requires.
+Section 17.	Fair Share
+(A)	All employees in the bargaining unit who are not members of the Union shall make fair share payments in-lieu-of-dues to the Union.
+(B)	Fair share deductions shall be made in the first full month of employee service.
+(C)	Bargaining unit members who exercise their right of non-association, only when based on a bona fide religious tenet or teaching of a church or religious body of which such employee is a member, shall pay an amount of money equivalent to regular monthly union dues to a non-religious charity or to another charitable organization mutually agreed upon by the employee and the Union and such payment shall be
+11
+remitted to that charity by the employee in accordance with ORS 243.666. At time of payment, notice of such payment shall simultaneously be sent to the Employer and the Union by the employee.
+(D)	Fair Share Deduction Register. An alphabetical listing of SEIU Local 503, OPEU fair share deductions for the previous month by university/college shall be forwarded to the Union by the third workday of each month with the month’s remittance. The listing shall be compiled and mailed by the Payroll Center and shall show employee’s name (last, first, middle initial), Social Security Number, amount deducted, base pay, classification number and representation code.
+(E)	Fair Share Adjustment Summaries for SEIU Local 503 Members, OPEU. Summaries will be forwarded by the university/college payroll office to the Union by the 20th of the month. The Fair Share Adjustment Summary will reconcile the previous month’s remittance with the current month’s remittance. The Fair Share Adjustment Summary will be an alphabetical listing and shall show the following:
+Name (last name first, full first name, middle initial)
+Formatted Social Security Number (000-00-0000)
+Prior month deduction
+Current month deduction
+Variance (difference between prior month deduction and current month) Reason for change in dues deduction amount (correction for previous month’s error and explanation, salary increase, salary decrease, hourly, part-time, new member, cancellation, transfer to or from which university/college, layoff, retirement, termination, name change, leave of absence without pay, return from leave of absence without pay, end or beginning of season for seasonal employee.)
+The Union recognizes that the above information may require hand editing and/or notations. Therefore, only repeated similar errors or omissions will be considered a violation of this section.
+(F)	The Union shall indemnify and hold the Employer harmless against any and all claims, damages, suits or other forms of liability which may arise out of any action taken or not taken by the Employer for the purpose of complying with the provisions of this Article.
+Section 18.	Other Deductions. Voluntary payroll deductions made to the Union for employee benefits will be submitted at the same time as regular dues deductions.
+No later than the 15th of each month, the Union shall receive a benefit register for each benefit listing each employee, the amount deducted and the purpose of the deduction.
+Section 19.	Union Rights/Stewards
+(A)	The employees in each university/college shall be allowed not more than the following:
+12
+PSU	Ten (10) Stewards in Portland; one (1) at Salem Center so long as eight (8) or more bargaining unit employees are assigned to the Salem Center.
+uo	Twenty (20) Stewards
+osu	Twenty-five (25) Stewards
+wou	Four (4) Stewards
+EOU	Four (4) Stewards
+sou	Four (4) Stewards
+OIT	Four (4) Stewards
+To the extent practicable, each steward will be selected from and represent equal numbers of employees who have a high degree of compatibility with respect to geographic area, classification or other employment interests.
+(B)	The function of the steward is to represent employees, when requested by them, in grievance procedures outlined in Article 18 - Grievance and Arbitration Procedure, and in disciplinary investigative interviews that an employee reasonably believes could result in disciplinary action under Article 17 - Discipline and Discharge. A steward may participate in additional matters when at the discretion of the university/college Appointing Authority, such participation is deemed to be mutually beneficial.
+(C)	A chief or senior steward may assist in the processing of the first grievance when the original steward of record is new or inexperienced. This assistance includes accompanying the steward of record to any meetings or interviews related to the grievance, without any loss in pay.
+ARTICLE 11	- EMPLOYEE ASSISTANCE PROGRAM (EAP)
+Section 1.	The Employer agrees to provide to the Union the statistical and program evaluation information provided to management concerning Employee Assistance Program(s).
+Section 2.	No information gathered by an Employee Assistance Program may be used to discipline an employee.
+Section 3.	Employees shall be entitled to use accrued sick leave for participation in an Employee Assistance Program.
+Section 4.	Each university/college will offer training to local Union Stewards on the Employee Assistance Program available in their university/college, on university/college time, where an Employee Assistance Program is available.
+ARTICLE 12	- CHILD CARE
+The Employer may make available the use of facilities for child care centers. Use of facilities shall include a rental/lease agreement. Any child care facilities and/or vendors utilized under this Article must be certified in accordance with state laws and regulations.
+13
+ARTICLE 13	- CONTRACTING OUT
+Section 1.	The Union recognizes that the Employer has the management right, during the term of this Agreement, to decide to contract out work performed by bargaining unit members. When a contract exceeds $40,000 annually, or when the contracting out will displace bargaining unit members, such decisions shall, however, be made only after the affected university/college has conducted a feasibility study determining the potential costs and/or other benefits which would result from contracting out the work in question. Feasibility studies will not be required when: 1) an emergency exists; 2) the work in question cannot be performed by available bargaining unit members; or 3) necessary equipment is not readily available. The Employer agrees to notify the Union when a feasibility study for a contract covering work performed by bargaining unit members exceeds $40,000 annually or results in the displacement of bargaining unit members. Upon request, the Employer shall furnish the Union a copy of the feasibility study.
+The Employer shall provide the Union with no less than thirty (30) days notice that it intends to issue bids to contract out bargaining unit work where the decision would result in displacement of bargaining unit members. During this thirty (30) day period, the Employer shall not release any bids and the Union shall have the opportunity to submit an alternate proposal. The notification by the Employer to the Union of the results of the feasibility study will include all pertinent information upon which the Employer based its decision to contract out the work including, but not limited to, the total cost savings and/or quality of services the Employer anticipates.
+Nothing in this Article shall prevent the Employer from continually analyzing its operation for the purpose of identifying cost saving opportunities.
+Section 2.	If the Union’s proposal would result in providing quality and/or savings equal to or greater than that identified in the management plan, the parties will agree in writing to implement the Union proposal. In comparing the two plans, the employer shall count only 80% of wages earned by represented workers.
+Section 3.	Should any full-time bargaining unit member become displaced as a result of contracting out, the Employer and the Union shall meet to discuss the effect on bargaining unit members. The Employer’s obligation to discuss the effect of such contracting does not obligate it to secure the agreement of the Union or to exhaust the dispute resolution procedure of ORS 243.712, 243.722 or 243.742, concerning the decision or the impact.
+"Displaced" as used in this Article means when the work an employee is performing is contracted to another entity outside the Oregon University System and the employee is removed from his/her job.
+14
+Section 4.	Once a university/college makes a decision to contract out, it will either:
+(A)	Require the contractor to hire employees displaced by the contract at the same rate of pay for a minimum of six (6) months subject only to "just cause" terminations. In this instance, the OUS will continue to provide each such employee with six (6) months of health and dental insurance coverage through the Public Employees’ Benefits Board, if continuation of coverage under the Public Employees’ Benefits Board is allowed by law and pertinent rules of eligibility; or
+(B)	Place employees displaced by a contract elsewhere in the Oregon University System in the following order of priority: within the department, within the university/college, or within OUS generally. Salaries of employees placed in lower classifications will be red-circled. To the extent this Article conflicts with Article 33 -Filling of Vacancies, this Article shall prevail.
+(C)	An employee may exercise his/her layoff rights pursuant to Article 51 -Layoff if the employee finds option (A) or (B), as selected by the Employer, is unsatisfactory.
+The employee must select layoff within five (5) calendar days pursuant to notification of Paragraph (A) or (B) of this Section.
+ARTICLE 14 - NEGOTIATIONS PROCEDURES
+Section 1.	Negotiations shall commence pursuant to Article 4 - Term of Agreement of this Agreement.
+Section 2.	The Employer agrees to grant leave with pay for one employee per university/college to represent the Union for actual negotiating table time including caucuses, negotiation work sessions and a reasonable number of membership meetings relating to negotiations. In addition, the Employer agrees to grant leave with pay for a bargaining team chairperson designated by the Union. The Union agrees, as a prior condition to the release of the employee from work, to notify the Employer in writing of the member designated for negotiations. The Employer is not responsible for travel, per diem, overtime or other benefits beyond that which the employee would have received had the employee not attended bargaining sessions. Subject in each case to prior approval by the university/college, the Employer further agrees to grant leave without pay to additional employees determined necessary by the Union to attend negotiating sessions. Should it become necessary for the Employer to replace an employee scheduled for swing or graveyard shift so as to permit that employee to participate in collective bargaining negotiations, the Union agrees alternatively as follows:
+(A)	Six (6) workdays notice shall be given by the Union to the Employer so as to allow the Employer to avoid payment of penalty pay for the schedule change of the replacement employee; or
+15
+(B)	If the Union does not give notice prescribed in (A) above, the Union shall reimburse the Employer for the penalty pay paid to the replacing employee.
+Section 3.	Ratification. It is understood that all tentative agreements at the table are subject to ratification by both parties.
+ARTICLE 15-PARKING
+The Employer agrees to advise the Union of any proposed change in parking rates at OUS owned or operated facilities as soon as the Employer has knowledge of an impending change.
+ARTICLE 16	- PERSONNEL RECORDS
+Section 1.	The Official Personnel File
+(A)	Each university/college shall maintain one (1) official personnel file for each employee, located at the primary administrative Human Resource Office for the university/college.
+Where the personnel records are maintained on microfiche/microfilm, the personnel file will include both microfiche/microfilm and any material not yet copied.
+Upon reasonable notice, an employee may inspect the records, excluding any confidential reports from previous Employers, in his/her official university/college personnel file; provided that, if the official personnel file is kept at a separate facility, the employee shall, at the university/college’s discretion, either be allowed to go where the file is kept or the file will be brought to the employee for review within five (5) days of his/her request. With the employee's written authorization, his/her Union Steward may inspect the employee's official personnel file, consistent with the time requirements provided herein. No grievance material shall be kept in an employee's official personnel file.
+(B)	No information reflecting critically upon an employee except notices of discharge shall be placed in the employee's official personnel file that does not bear the signature of the employee. The employee shall be required to sign material to be placed in his/her official personnel file provided the following disclaimer is attached: "Employee's signature confirms only that the supervisor has discussed and given a copy of the material to the employee. The employee's signature does not indicate agreement or disagreement with the contents of this material."
+If an employee is not available within five (5) working days or refuses to sign the material, the university/college may place the material in the file provided a statement has been signed by two (2) management representatives and a copy of the document was mailed certified to the employee at his/her address of record.
+(C)	Employees shall be entitled to prepare a written explanation or opinion regarding any critical material placed in his/her official personnel file. The employee's
+16
+explanation or opinion shall be attached to the critical material and shall be included as part of the employee’s official personnel record so long as the critical materials remain in the file. Where the personnel records are maintained on microfiche/microfilm, the explanation or opinion will be placed next to or in closest possible proximity to the critical material.
+(D)	An employee may include in his/her official personnel file a reasonable amount of relevant material such as letters of commendation, licenses, certificates, college course credits and other material which relates creditably on the employee. This material shall be retained for a minimum of three (3) years except that licenses, certificates or college credit information may be retained so long as they remain valid and relevant to the employee’s work.
+(E)	Material reflecting caution, consultation, warning, admonishment and reprimand shall be retained for a maximum of three (3) years. Such material may however be removed after twenty-four (24) months, provided there has been no recurrence of the problem or a related problem in that time. Earlier removal will be permitted when requested by an employee and if approved by the university/college Appointing Authority.
+Material relating to disciplinary action recommended, but not taken or disciplinary action which has been overturned and ordered removed from the official personnel file(s) on final appeal, shall be removed.
+Incorrect material will be removed, upon request, from an employee’s personnel file. (See Article 57 - Position Descriptions and Performance Evaluation.)
+Section 2.	Supervisory Files
+(A)	Supervisors may keep records and/or anecdotal notes on subordinate employees. Employees shall be notified if a supervisory file is being kept.
+(B)	The employee may inspect the supervisory file upon reasonable notice to the supervisor. Upon employee request, a copy of the records and anecdotal notes within the file will be provided.
+(C)	At the employee’s request, rebuttal documents will be placed in the supervisory file.
+(D)	If the employee severs his/her employment with the university/college, the supervisory file will be expunged. If the employee promotes, transfers or demotes within the university/college, the supervisory file will be retained in the former department for a period of up to one (1) year from the effective date of such action, at which time the file will be expunged.
+ARTICLE 17	- DISCIPLINE AND DISCHARGE
+Section 1.	The principles of progressive discipline shall be used when appropriate. Discipline shall include, but not be limited to: written reprimands; denial of an annual
+17
+performance pay increase; reduction in pay; demotion; suspension and dismissal. Discipline shall be imposed only for just cause.
+The parties agree that the procedures described in Article 17 - Discipline and Discharge, Article 18 - Grievance and Arbitration Procedure, and Article 19 - No Discrimination shall be the only contractual procedure for resolving disputes concerning Discipline and Discharge.
+Section 2.
+(A)	Reduction, Suspension and Demotion Appeals. An employee reduced in pay, demoted or suspended without pay shall receive written notice of the discipline with the specific charges and facts supporting the discipline at the time disciplinary action is taken. In cases where an employee has been suspended with pay pending an investigation, written notice of the allegations as they are or may be known at the time, must be provided to the employee within seven (7) calendar days of the effective date of the action; however, such actions become disciplinary when they result in further disciplinary action or when they extend beyond fourteen (14) calendar days or when they extend beyond twenty-one (21) calendar days upon written notice by the university/college of reasonable need for such extension (e.g., inability to complete an investigation). Suspensions with pay will not be recorded in employee personnel files nor in any manner used against an employee if no disciplinary action is subsequently taken.
+(B)	The university/college shall have the following statement appear on all dismissals and disciplinary notices covered in Section 2(a) above:
+"If you choose to contest this action you have a right to be represented by the Oregon Public Employees Union, SEIU Local 503 and you must file an appeal within thirty (30) calendar days from the effective date of this action in accordance with Article 18 - Grievance and Arbitration Procedure."
+Included with this statement will be the name of the Chief Steward or a Steward designated by the Union with his/her work phone and/or home phone number.
+Failure to include this notice will not void the disciplinary action.
+(C)	Appeals of Written Reprimands, Denial of a Performance Pay Increase, and any Other Form of Discipline Other than Dismissal, Reduction, Suspension and Demotion Appeals. Appeal of a written reprimand, denial of an annual eligibility date performance pay increase, and any other form of discipline other than dismissal, reduction, suspensions and demotions shall be filed in accordance with Article 18-Grievance and Arbitration Procedure.
+Section 3.	A written predismissal notice shall be given to a regular status employee who is being considered for dismissal. Such notice shall include the then known complaints, facts and charges, and a statement that the employee may be dismissed. The employee shall be afforded an opportunity to refute such charges or present mitigating circumstances to the university/college Appointing Authority at a time and
+18
+date set forth in the notice, which date shall not be less than seven (7) calendar days from the date the notice is received or, at the option of the employee, by written response by that date. The employee shall be permitted to have an official representative present. At the discretion of the university/college Appointing Authority, the employee may be suspended with or without pay or be allowed to continue to work as specified in the predismissal notice. Should an employee be suspended without pay, the employee will first be afforded notice and the right to present mitigating circumstances to the university/college Appointing Authority or designee.
+Section 4.	Employees in initial trial service with the university/college shall have no right to appeal removals from service under this Article. Employees in trial service as a result of promotion who are returned to their former classification shall have no right of appeal under this Article for such removal. However, an employee in trial service as a result of promotion who is dismissed from service may have his/her dismissal appealed by the Union under this Article.
+Section 5.	Upon request, an employee shall have the right to Union representation during an investigatory interview that an employee reasonably believes will result in disciplinary action. The employee will have the opportunity to consult with a local Union Steward or Union Organizer before the interview, but such consultation shall not cause an undue delay.
+ARTICLE 18	- GRIEVANCE AND ARBITRATION PROCEDURE
+Section 1.	Grievances are defined as acts, omissions, applications or interpretations alleged to be violations of the terms or conditions of this Agreement.
+Grievances shall be filed within thirty (30) calendar days of the date the grievant or the Union knows or by reasonable diligence should have known of the alleged grievance, or in the case of discipline, within thirty (30) calendar days of the effective date of the action. In the event that a deadline for filing a grievance or submitting a grievance response falls on a Saturday, Sunday or university/college holiday, a grievance or response will be considered timely if it is filed or submitted by 5:00 p.m. on the following business day (Monday - Friday).
+Grievances shall be reduced to writing, and shall be signed by the grievant(s), stating the specific Article(s) alleged to have been violated and clear explanation of the alleged violation, sufficient to allow processing of the grievance. Grievances shall be filed at all steps of this procedure on the form identified as the Official Statement of Grievance Form. Once filed, the Union shall not expand upon the original elements and substance of the written grievance.
+All grievances shall be processed in accordance with this Article and it shall be the sole and exclusive method of resolving grievances. However, grievances arising under Article 19 - No Discrimination and Article 56 - Reclassification Upward/Downward shall be subject to the alternative procedures specifically outlined in their respective Articles.
+19
+Section 2.	Time limits specified in this and the above-referenced Articles shall be strictly observed, unless either party requests a specific extension of time, which if agreed to, must be stipulated in writing and shall become part of the grievance record. "Filed" for purposes of all grievances shall mean postmarked (dated by meter or U.S. Post Office), fax received by close of the business day or actual receipt.
+If at any step of the grievance procedure, the Employer fails to issue a response within the specified time limits, the grievance may be advanced to the next step of the grievance procedure. If the grievant or Union fails to meet the specified time limits, at any step of the grievance and arbitration procedure, the grievance will be considered withdrawn and it cannot be resubmitted.
+Grievance steps referred to in this Article may be waived by mutual agreement in writing. Such written agreements shall become part of the grievance file.
+Section 3.	When required by the Employer to investigate the grievance, any time spent by employee(s) to attend meetings during regular working hours, shall be considered as work time.
+Section 4.	Multi-Supervisor and Multi-University Grievances. Where there are grievances in universities/colleges involving two (2) or more supervisors, such grievances shall be filed and processed in accordance with Step 2 of the grievance procedure. When a grievance involves employees in more than one (1) university/college, such grievance shall be filed and processed in accordance with Step 3 of this Article. The grievance shall specifically enumerate, by name, the affected employees, when known. Otherwise, the affected employees will be generically described in the grievance.
+Section 5.	Grievance Procedure. Grievances shall be processed as per Appendix E.
+A. Step 1. The grievant(s), or the Union on behalf of the grievant(s), shall file the grievance consistent with the requirements of Section 1 with his/her immediate excluded supervisor, except in the case of grievances described in paragraph B of this section. The supervisor shall respond in writing to the grievant(s) within thirty (30) calendar days from the receipt of the grievance. In all cases, the grievant and his/her immediate excluded supervisor will attempt to meet within the thirty (30) day filing period in an attempt to resolve the grievance at the lowest possible level of management. Failure to meet will not invalidate the grievance.
+The parties agree that all Step 1 grievance settlements are non-precedential and shall not be cited by either party or their agents or members in any arbitration or fact-finding proceedings now or in the future. Step 1 grievance settlements shall be reduced to writing and signed by the grievant and the immediate excluded supervisor.
+20
+The settlement shall include the statement:
+"Step 1 grievance settlements are non-precedential and may not be cited by either party or their agents or members in any arbitration or fact finding proceedings now or in the future."
+Actions taken pursuant to Step 1 settlement agreements shall not be deemed to establish or change practices under the Collective Bargaining Agreement, including but not limited to Article 5 - Complete Aqreement/Past Practices, or ORS Chapter 243 and shall not give rise to any bargaining or other consequential obligations.
+Step 2. When the response at Step 1 does not resolve the grievance, the grievance must be filed by the Union within thirty (30) calendar days after the Step 1 response is due or received, whichever occurs first. The appeal shall be filed in writing to the university/college President or designee, who shall respond in writing within thirty (30) calendar days after receipt of the Step 2 appeal.
+Step 3. Failing to settle the grievance in accordance with Step 2, the appeal, if pursued, must be filed by the Union and received by the OUS Human Resources Division within thirty (30) calendar days after the Step 2 response is received,. The OUS Human Resources Division shall respond in writing within thirty (30) calendar days from receipt of the Step 3 appeal. A copy of the Step 3 response shall be sent concurrently to the Union’s Legal Department. At this step the parties agree that a face-to-face meeting (or the equivalent by phone) will occur between the Union and the OUS Human Resources Division.
+Pursuant to Article 19 - No Discrimination, grievances involving discrimination based on sexual orientation proceed to Step 3, grievances alleging discrimination based on sexual harassment proceed to Step 3 with the same time lines as stated in this section, or Bureau of Labor and Industries and/or Equal Employment Opportunity Commission. All other discrimination grievances must be appealed to BOLI and/or EEOC.
+Step 4. Grievances that are not satisfactorily resolved at Step 3 may be appealed to arbitration, in accordance with Section 6 of this Article. The Union may elect to arbitrate dismissal grievances under Section 6 or Section 11 of this Article, but not both.
+(B) Exceptions to Initial Filing at Step 1
+(1)	Grievances Filed Initially at Step 2
+The following types of grievances shall be filed initially with the university/college President or designee (Step 2), in accordance with the procedures specified in Sections 1 and 5(A) of this Article:
+(a)	Discipline grievances above a letter of reprimand other than dismissal;
+(b)	Discrimination grievances (Article 19);
+(c)	Family Medical Leave Act grievances;
+21
+(d)	Layoff and recall grievances (Article 51);
+(e)	Reclassification downward (Article 56, Section 4);
+(f)	IT Competency Levels (Article 69, Section 3, C, D, & F);
+(g)	Multi-supervisor grievances (grievances in a university/college involving two or more supervisors in a university/college—Article 18, Section 4).
+(2)	Grievances Filed Initially At Step 3
+The following types of grievances shall be filed initially with the OUS Human Resources Division (Step 3) in accordance with the procedures specified in Sections 1 and 4 of this Article):
+(a)	Dismissal Grievances;
+(b)	Reclassification upward grievances (Article 56, Section 4(A);
+(c)	Multi-university grievances (grievances involving employees in more than one University/college—Article 18, Section 4).
+FAMILY MEDICAL LEAVE ACT GRIEVANCES: Any grievances alleging a violation of the Family Medical Leave Act will be submitted in writing within thirty (30) calendar days of the date the grievant or the Union knows or by reasonable diligence should have known of the alleged grievance, directly to the University/College President or designee as defined or used in Article 18, Section 5. A copy of the grievance shall be sent concurrently to the OUS Human Resource Division. The university/college President or designee shall respond within thirty (30) calendar days after receipt of the grievance. All unresolved FMLA grievances may be submitted by the Union or the grievant to the U. S. Department of Labor if not already so filed. All unresolved OFLA grievances may be submitted by the Union or the grievant to BOLI if not already so filed. Nothing in this Article shall preclude an employee from filing a complaint with the Department of Labor at any time.
+Section 6	- Arbitration Selection and Authority.
+(A)	Within sixty-five (65) calendar days of receipt of OUS's response at Step 3 by the Union’s Legal Department, the Union shall notify the Federal Mediation and Conciliation Service (FMCS) of the dispute and request a list of arbitrators which shall be specifically limited to Geographic Area 29. A copy of such notice shall be sent concurrently to the OUS Human Resources Department. Selection of arbitrators and dates shall be in accordance with the rules of FMCS. The arbitration will be handled in accordance with the rules of FMCS. In the event the Union fails to notify FMCS within sixty-five (65) calendar days of receipt of the OUS Step 3 response, as specified above, the grievance shall be considered withdrawn and it cannot be resubmitted. For dismissal grievances refer to Section 11 of this Article.
+(B)	The arbitrator shall have the authority to hear and rule on all issues which arise over substantive or procedural arbitrability. Such issues, if raised, must be heard prior to hearing the merits of any appeal to arbitration. Upon motion by either party to bifurcate the hearing on procedural or substantive arbitrability issues, the arbitrator will make the determination on bifurcation. Should the arbitrator choose to take the arbitrability issue under advisement and proceed with the merits, he/she shall issue a
+22
+written decision on the arbitrability issue only, should the issue be found to be nonarbitrable.
+(C)	The Parties agree that the decision or award of the arbitrator shall be final and binding on each of the parties. The arbitrator shall issue his/her decision or award within thirty (30) calendar days of the closing of the hearing record. The arbitrator shall have no authority to rule contrary to, to amend, add to, subtract from, change or eliminate any of the terms of this Agreement, and shall be confined, to the application and interpretation of this Agreement. The arbitrator shall not make any decision that limits or interferes with the authority of the Employer, except as modified by this Agreement.
+(D)	The Parties shall split FMCS costs and the arbitrator’s charges equally. All other expenses shall be borne exclusively by the party requiring the service or item for which payment is to be made.
+Section 7.	Upon request, an employee shall have the right to Union representation during an investigatory interview that an employee reasonably believes will result in disciplinary action. The employee will have the opportunity to consult with a local Union Steward or Union Organizer before the interview, but such consultation shall not cause an undue delay.
+Section 8.	A grievant and the steward of record shall be granted leave with pay for appearance in arbitration proceedings, including the time required going and returning to his/her headquarters. NOTE: See Article 45 - Leaves With Pay, Section 3.
+Section 9.	No reprisals shall be taken against any employee for exercise of his/her rights under the provisions of this Article.
+Section 10 - Grievance Committees. A committee of the Union Stewards for each university/college as listed below shall be appointed by the Union to act as a grievance committee. The committee shall discuss employee grievances for the purpose of achieving resolutions at the lowest possible level of the grievance procedure. The Union Stewards appointed to this committee shall be allowed one (1) hour on duty per month for committee meetings, without loss of pay and benefits provided time off is prescheduled with the supervisor and activity is reported to the supervisor pursuant to Article 10 - Union Rights, Section 11. The university/college shall suffer no overtime obligation as a result of this Article. The employees in each university/college shall be allowed not more than the following:
+Oregon State University University of Oregon Portland State University Western Oregon University Oregon Institute of Technology Eastern Oregon University Southern Oregon University
+Five (5) Union Stewards. Three (3) Union Stewards Three (3) Union Stewards Two (2) Union Stewards. Two (2) Union Stewards. Two (2) Union Stewards. Two (2) Union Stewards.
+23
+Section 11 - Expedited Arbitration of Dismissal Grievances
+(A)	If the Union wishes to proceed to arbitration on a dismissal grievance it shall notify the OUS Human Resources Department of its intent to proceed to arbitration within twenty (20) calendar days following the date that the Step 3 response was received by the Union’s Legal Department. Unless the Union specifies in such notice that it wishes to process the grievance under Section 6(A) of this article, the parties agree to use the expedited procedure specified in this section, and the parties will mutually arrange for scheduling an arbitrator in accordance with paragraph (B) of this section.
+(B)	The parties have agreed on a list of five arbitrators who have agreed in advance to be available on short notice to hear such cases. Arbitrators shall be used on a rotational basis. An arbitrator unable to hear an expedited arbitration case within sixty (60) calendar days of his/her selection shall be deemed unavailable and the next arbitrator in turn will be selected. If no arbitrators on the list are available to hear the case within sixty (60) calendar days, the earliest available arbitrator shall be used.
+(C)	The hearing shall be conducted as soon as practicable. Except by mutual agreement, there shall be no transcripts or briefs. The arbitrator shall issue a decision as soon as possible, but no later than twenty-one (21) calendar days after the hearing has been closed. The 21-day requirement may only be waived by mutual agreement of the parties.
+Section 12 - Monthly Meetings. The Chief Steward or steward designated by the Union and the Employee Relations Manager or Human Resources Director at each university/college shall schedule a monthly meeting to review pending grievances and to make good faith efforts to resolve such grievances. The Chief Steward or steward designated by the Union and the Employee Relations Manager or Human Resources Director shall mutually agree on the participation of other Union and Employer representatives at these meetings on a case-by-case basis. Such meetings shall take place during regular working hours. Bargaining unit employees authorized to attend these meetings shall be considered to be on work time.
+Section 13. Upon the Union’s written request in support of a specific grievance, the University/College, within a reasonable period of time, will provide a listed summary of redacted Employer-issued disciplinary actions. Such requests will not extend beyond the statutory records retention requirement and the cost for preparing the summary will be borne by the Union.
+ARTICLE 19	- NO DISCRIMINATION
+Section 1.	It is the policy of the Employer and the Union to continue their policies not to engage in unlawful discrimination against any employee because of race, color, marital status, religion, sex, national origin, age, mental or physical handicap. Neither will the Employer discriminate based on sexual orientation.
+Section 2.	Sexual harassment is considered a form of sex discrimination. No employee shall be subjected to sexual harassment by the Employer, Union or other
+24
+bargaining unit members. Unwelcome sexual advances, requests for sexual favors and other deliberate or repeated unsolicited verbal or physical conduct of a sexual nature constitutes sexual harassment when:
+(A)	submission to such conduct is made either explicitly or implicitly a term or condition of an individual’s employment;
+(B)	submission to or rejection of such conduct by an individual is used as the basis for employment decisions affecting such individual; or
+(C)	such conduct has the purpose or effect of unreasonably interfering with an individual’s work performance or creating an intimidating, hostile or offensive working environment.
+Section 3.	Discipline and Discharge appeals which allege the action was taken for sexual harassment or sexual orientation reasons shall follow the appeal time frames in Article 17 - Discipline and Discharge.
+Any other grievance alleging any form of discrimination as listed in Section 1 will be submitted in writing within thirty (30) calendar days of the date the grievant or the Union knows or by reasonable diligence should have known of the alleged grievance, directly to the university/college President or designee as defined or used in Article 18, Section 5. The university/college President or designee shall respond within thirty (30) calendar days after receipt of the grievance. If the grievance is still not resolved at this level, grievances alleging discrimination based on sexual harassment or sexual orientation shall be submitted by the Union to the OUS Employee Relations Manager for resolution within thirty (30) calendar days after receipt of the university/college President’s or designee's response. The OUS response shall be due thirty (30) calendar days after receipt of the grievance.
+Section 4.	All other unresolved discrimination grievances may be submitted by the Union or the grievant to the Bureau of Labor and Industries or the EEOC for resolution, if not already so filed. In the case of sexual harassment and sexual orientation grievances, the Union may proceed to arbitration per Section 5. Nothing in this Article shall preclude an employee from filing a charge of discrimination with the Bureau of Labor and Industries or the EEOC at any time. It is agreed, however, that there will be no concerted effort on the part of the Employer to discourage arbitration or the Union to encourage the use of multiple sources of complaint resolution.
+Section 5.
+(A)	Grievances alleging discrimination because of sexual harassment or sexual orientation may be arbitrated provided such Union request is made, in accordance with Article 18 - Grievance and Arbitration Procedure, Section 6(A). In addition to back pay and fringe benefits, relief sought through arbitration may include transfer, promotion, and cease and desist orders. Arbitration requests shall proceed under Article 18, Section 6.
+25
+(B)	The right to arbitrate grievances alleging discrimination based on sexual orientation shall expire on the effective date of a change in federal or state law, Bureau of Labor and Industries or EEOC regulations or court decision that such discrimination is covered by law and a statutory appeal procedure exists.
+Section 6.	Where the Union alleges unlawful discrimination as a basis of any grievance, in whole or in part, the Union shall make a declaration of its choice to arbitrate the issue by declaring to OUS following its response at Step 3 of the grievance procedure.
+Where the Union chooses to proceed to arbitration, allegations of unlawful discrimination under Article 19 shall be removed as the claim of violation for the arbitration.
+NOTE: Time lines for filing tort claims notice or legal actions are not suspended by filing a grievance under this Article. This note is for information only and is not part of the contract.
+ARTICLE 20	- DIFFERENTIAL PAY
+Section 1.	Geographic Area Pay
+(A)	Classifications, C4115, C4116, C4207, C4209, C4211, C4213, 04215, 04221, C4223, C4225:
+Prevailing basic rates in specific geographical areas for employment of limited duration less than one hundred twenty (120) days will be approved. Employees paid at such rates will not be eligible for vacation, sick leave or holiday benefits. Such rates will be paid only for construction work.
+(B)	A differential, not to exceed twenty-five percent (25%) over the base rate, may be paid a permanent, nonresident classified employee upon approval of the university/college Appointing Authority. An employee would not be entitled to a per diem expense allowance in lieu of the differential.
+(C)	C2309, C2312 - Education Project Aide, Education Program Asst:
+Prevailing local rates for foreign nationals employed outside the United States.
+Section 2.	Special Duty Pay
+(A)	High Work Differential: When an employee is required to perform work more than twenty (20) feet directly above the ground or water and use of safety ropes, scaffolds, boatswain chairs or other similar safety devices are required for support, the employee shall receive a high work differential. Rate: One dollar ($1.00) per hour.
+(B)	Application: C6222, C6224 - Staff Nurse, Registered Nurse 1.
+Definition: Charge differential shall be defined as a temporary hourly differential for an eight (8) hour shift for a Staff Nurse or Registered Nurse 1 who has been assigned charge duties.
+26
+Rate: Staff Nurses and Registered Nurses who are assigned and are performing charge duties will receive an additional thirty-three cents ($0.33) per hour. When this special duty pay condition occurs on a holiday worked or in an overtime period worked, this additional special duty premium pay shall be paid at the rate of time and one-half (1-1/2).
+(C)	Application: C6135 - Licensed Practical Nurse.
+Eligibility: Charge differential shall be defined as a temporary hourly differential for an eight (8) hour shift for a Licensed Practical Nurse who has been assigned charge duties by the Employer.
+Rate: Licensed Practical Nurses who are assigned and are performing charge duties shall receive an additional five percent (5%) above their current rate of pay for all hours worked during the assignment. When this special duty pay condition occurs on a holiday worked or in an overtime period worked, this additional special duty premium pay shall be paid at the rate of time and one-half (1-1/2).
+(D)	Diving Differential:
+Eligibility: Employees whose work assignment requires the use of self-contained underwater breathing apparatus or other sustained underwater diving equipment and who passes current certification for the use of such equipment will receive a differential of five dollars ($5.00) per hour or any fraction thereof, for actual diving time.
+(E)	Hazardous Materials Differential:
+Employees shall be paid a differential of one dollar ($1.00) per hour for all time spent performing work with hazardous materials which requires a certificate or a license and shall be paid a differential of one dollar and fifty cents ($1.50) per hour for all time spent performing work with hazardous materials which requires a supervisory certificate or license. This differential will apply only when Haz Mat duties are not included in the employee’s classification specifications.
+Section 3.	Special Qualifications Pay
+(A)	Bilingual: A differential of five percent (5%) over base rate will be paid to employees in positions which specifically require and have been recruited for bilingual skills (i.e., translation to and from English to another foreign language or the use of sign language) as a condition of employment. The interpretation and translation skills must be contained in an employee’s individual position’s position description.
+(B)	Supervisory Electrician Differential:
+Eligibility: Employees whose work assignment requires that they be licensed as a supervisory electrician by the university/college.
+Rate: A differential of 5% over the base rate shall be paid.
+(C)	Nuclear Reactor License Differential:
+Eligibility: Employees who are required to possess a nuclear reactor operator’s license by the Employer where such license is not a requirement of the classification.
+27
+Rate: A differential of 5% over the base rate shall be paid.
+(D)	Special Campus Security Officer Differential:
+Eligibility: Employees who are designated as special campus security officers as per ORS 352.385. Rate: A differential of 10% over the base rate shall be paid.
+Section 4.	Shift Differential
+(A)	Eligibility: Shift Differential shall apply to all employees except temporary appointments. In order to qualify for the shift differential, an employee must be in a job classification which is allocated to Salary Range 23 or below. All employees shall be paid a differential as outlined in Paragraphs (B) and (C) below for each hour or major portion thereof (thirty minutes (30) or more), worked between 6:00 p.m. and 6:00 a.m. and for each hour or major portion thereof worked on Saturday or Sunday.
+(B)	All other personnel excluding those identified in Paragraph (C) will receive a differential of fifty cents ($.50) per hour
+(C)	Registered Nurses, Nurse Practitioners, and Licensed Practical Nurses will receive a shift differential of one dollar and thirty-five cents ($1.35) per hour.
+Section 5.	Leadwork Differential
+(A)	Except as provided in paragraph (G) of this section, leadwork differential shall be defined as a differential for employees who have been formally assigned by their supervisor in writing, "leadwork” duties over two (2) or more bargaining unit employees in an equivalent or lower salary range for ten (10) consecutive work days or longer. Leadwork is where, on a recurring daily basis, the employee has been directed to perform substantially all of the following functions: orient new employees, if appropriate; assign and reassign tasks to accomplish prescribed work efficiently; give direction to workers concerning work procedures; transmit established standards of performance to workers; review work of employees for conformance of standards; and provide informal assessment of workers’ performance to the supervisor.
+(B)	The differential shall be five percent (5%) beginning from the first day the duties were formally assigned in writing for the full period of the assignment.
+(C)	Leadwork differential shall not be computed at the rate of time and one-half (1-1/2) for the time worked in an overtime or holiday work situation, or to effect a “pyramiding” of work out-of-classification payments. However, leadwork differential shall be included in calculation of the overtime rate of pay.
+(D)	Leadwork differential shall not apply for voluntary training and development purposes that are mutually agreed to in writing between the supervisor and the employee.
+(E)	Leadwork differential shall not apply to employees in those classifications that normally perform oversight or leadwork duties.
+28
+(F)	If an employee believes that he/she is performing the duties that meet the criteria in Section 6(A) of a leadworker, but the duties have not been formally assigned in writing, the employee may notify the President or designee in writing. The university/college will review the duties within fifteen (15) calendar days of the notification. If the university/college determines that leadwork duties were in fact assigned and are appropriate, the leadwork differential will be effective beginning with the day the employee notified the President or designee of the issue.
+If the university/college determines that the leadwork duties were in fact assigned but should not be continued, the university/college may remove the duties during the fifteen (15) day review period with no penalty.
+If the university/college concludes that the duties are not leadwork, the university/college shall notify the employee in writing within fifteen (15) Calendar days from receipt of the employee’s notification to the President or designee.
+(G)	Consistent with all provisions of Paragraph (A) through (F) of this Section a five percent (5%) leadwork differential shall be paid to employees who are employed in the classification of Office Assistant 1-2; Food Service Worker 1-2; Custodian; or Laborer 1; AND are assigned in writing by their supervisor to lead the work of four (4) or more student employees for ten (10) consecutive calendar days or longer; HOWEVER, employees so assigned will only be eligible for this differential for the work weeks in which the collective hours of work performed by the assigned student employees equals forty (40) hours or more.
+Section 6.	Work Out-of-Classification
+(A)	When an employee is assigned for a limited period to perform the duties of a position at a higher level classification for more than ten (10) consecutive calendar days, the employee shall be paid at what would be the next higher salary step or the first step of the higher salary range, whichever is greater.
+When assignments are made to work out-of-classification for more than ten (10) consecutive calendar days, the employee shall be compensated for all hours worked beginning from the first day of the assignment for the full period of the assignment.
+(B)	An employee performing duties out-of-classification for training or developmental purposes shall be informed in writing of the purpose and length of the assignment during which there shall be no extra pay for the work. A copy of the notice shall be placed in the employee’s file.
+(C)	An employee who is underfilling a position shall be informed in writing that he/she is an underfill, the reasons for the underfill, and the requirements necessary for the employee to qualify for reclassification to the allocated level. Upon gaining regular status and meeting the requirement for the allocated level of the position, the employee shall be reclassified.
+(D)	Assignments of work out-of-classification shall not be made in a manner which will subvert or circumvent the administration of this Section.
+29
+ARTICLE 21	- SALARY
+Section 1.	Salary Increase. The parties agree that there will be no general salary increase for bargaining unit employees for the term of this Agreement.
+Section 2.	PERS.
+(A)	The Employer shall continue to pay the six percent (6%) employee contribution to the Public Employees Retirement Fund for PERS-eligible employees through December 31,2003.
+(B)	Effective January 1,2004, in lieu of paying the six (6%) employee contribution to the Public Employees Retirement Fund, the Employer will pay the six percent (6%) employee contribution to the employee’s Individual Account Program (IAP) account established under HB 2020 through December 31,2005.
+(C)	Effective January 1, 2004, if the employee IAP account is declared invalid or is otherwise eliminated and a replacement is not available, then, effective upon the date of its invalidation or elimination, a corresponding general salary increase of six percent (6%) shall be paid to eligible employees.
+(D)	If for any reason the six percent (6%) Employer payment described in either (A) or (B) of this section is declared invalid or is otherwise eliminated, then effective on date of its invalidation or elimination, a corresponding general salary increase of six percent (6%) shall be paid to eligible employees. In such case, employees’ six percent (6%) contributions shall be deducted for payment to the applicable employee accounts and shall be treated as "pre-tax" contributions pursuant to Internal Revenue Code Section 414(h)(2).
+(E)	In no case shall there be a six percent increase under both (C) and (D).
+Section 3.	Selective Salary Adjustments. Effective October 1, 2003 employees in the classifications listed in Section 3(E) below, shall be placed in the new salary range in the following manner:
+(A)	Employees who are below the first step of the new salary range shall be placed at the first step of the new salary range. For employees in classifications listed in Section 3(E), October 1 shall be established as the employee's salary eligibility date for future increases beginning in 2005.
+(B)	Employees in classifications listed in Section 3(E) who have been at the top step of the former salary range since October 1, 2002, or earlier shall receive an increase of one step in the new salary range. October 1 shall be established as the employee's salary eligibility date for future increases beginning in 2005.
+(C)	For an employee whose rate is within the new salary range, but not at a corresponding salary step, the employee's salary shall be maintained at the current rate
+30
+until the next eligibility date. At the employee’s next eligibility date, after June 30, 2005, if qualified, the employee shall be granted a salary rate increase of one full step within the new salary range plus that amount that their current salary rate is below the next higher rate in the salary range.
+(D)	All other employees shall be placed in the new salary range at a salary rate equivalent to their current rate and shall be eligible for increases on their next salary eligibility date, after June 30, 2005.
+(E)	Effective October 1,2003 new ranges for the following classifications have been bargained as follows:
+Classification	Class #	Prior Range	New Range
+Artist’s Model	2394	5B	6B
+Cashier 1	0230	9	10
+Dental Assistant 1	6390	9	10
+Early Childhood Assistant	2316	9	10
+Food Service Worker 1	9100	6	7
+Food Service Worker 2	9101	8	9
+Issuing Agent	0714	9	10
+Laboratory Aide	6805	9	10
+Laundry Worker	9210	7	8
+Mail Services Assistant	0405	8	9
+Office Assistant	0102	9	10
+Ordinary Mariner	4510	9	10
+Seamster 1	9200	8	9
+Seed Analyst-Entry	8104	8	9
+Ship’s Assistant Cook	4600	8B	9B
+Section 4.	Statement of Joint Intent/Commitment. The parties are resolved to work jointly to achieve appropriate compensation increases through the specific mechanisms and commitments incorporated in this Article. The parties agree that the goal under this Article is to make bona fide efforts to progressively achieve (1) total compensation levels that represent plus or minus five (5) percent of market, as defined in Section 6 of this Article, for the classifications represented in Appendix A of this agreement; and (2) a compensation system that is fair and equitable. The parties agree and understand that any specific increases in compensation are subject to the availability and authorization of appropriated funds for the purpose.
+Section 5.	Measures and Standards for Compensation Increases. The parties agree that the appropriate measures and standards for determining appropriate levels for compensation increases shall include a market survey, which they shall jointly develop and update on an annual basis, and Consumer Price Index (CPI) data. The parties agree that the jointly developed market survey shall use as its base: comparators, benchmarks, base pay and benefits. Additionally the parties agree that
+31
+they will rely on the CPI for Portland-Vancouver, All Urban Consumers, as reported by the United States Department of Labor. The parties agree that both market survey data and CPI data will be considered together in making assessments and recommendations for compensation increases.
+ARTICLE 22	- SALARY ADMINISTRATION
+Section 1.	Pay.
+(A)	Pay for employees in the bargaining unit shall be in accordance with the Compensation Plan adopted by the Oregon State Board of Higher Education as modified by this Agreement. No changes shall be made in the Compensation Plan which affect bargaining unit employees unless the parties to this Agreement have negotiated the changes and reached agreement on what changes will be made. This is not intended to prevent mechanical changes or other minor changes necessary to administer the Compensation Plan.
+(B)	All employees shall be paid no later than the last day of the month. When a payday occurs on Monday through Friday, payroll checks shall be released to employees on that day. When payday falls on a Saturday, Sunday or holiday, employee paychecks shall be made available after 8:00 a.m. on the last working day of the month. When an employee is not scheduled to work on the payday, the paycheck may be released prior to payday if the paycheck is available and the employee has completed the "Request for Release of Payroll Check Form”. However, the employee may not cash or deposit the check prior to the normal release time. Any violation of this provision may be cause for disciplinary action. All checks released early under this Article shall be accompanied by written notice from the Employer as to the normal release time and date for that employee and a statement that early cashing or depositing of the check may be cause for disciplinary action.
+(C)	Employees shall be paid no less than the minimum rate of pay for their classification upon appointment to a position in OUS. An entrance salary rate may exceed the minimum rate when the university/college Appointing Authority believes it is in the best interest of the university/college to do so.
+(D)	Release of sixty percent (60%) of an employee's earned gross wages prior to the employee's designated payday shall be authorized, subject to approval of the university/college Appointing Authority or designee, in emergency cases upon receipt of a written request from the employee that describes the emergency. An emergency situation shall be defined as an unusual, unforeseen event or condition that requires immediate financial attention by an employee. Emergencies include but are not limited to the following circumstances:
+(1)	death in family;
+(2)	major car repair;
+(3)	theft of funds;
+(4)	automobile accident (loss of vehicle use);
+(5)	accident or sickness;
+(6)	destruction or major damage to home;
+32
+(7)	new employee lack of funds (maximum 1 draw); or
+(8)	moving due to transfer or promotion.
+Section 2.	Submission of Salary Increases. Recommendations for salary increases must be made to be effective on the first day of the month and must be submitted prior to the proposed effective date. However, retroactive six (6) month and annual salary increases to correct errors or oversights and retroactive payments resulting from grievance settlements shall be authorized. The proposed effective date for retroactive six month and annual salary increases must be the first day of the month no more than twelve (12) months prior to the time of submitting the correcting recommendation.
+Section 3.	Performance Increase. Salary administration shall be based upon a performance-based system. Employees shall be granted an annual performance pay increase on their eligibility date if the employee is not at the top of the salary range of his/her classification, and provided the employee’s performance has not been deficient. Employees who do not receive an annual performance pay increase shall receive timely notice of deficient performance or conduct during the evaluation period. Employees shall receive a notice related to the deficiencies as they are noted prior to the completion of the performance evaluation period. "Timely" shall be a reasonable amount of time, taking into consideration the specific alleged deficient performance. Such notice shall provide the employee with adequate opportunity to correct the problem prior to the end of the evaluation period.
+Employees shall be eligible for performance increases at the first of the month following the intervals of:
+(A)	Annual periods after the initial date of hire until the employee has reached the top step in his/her salary range. However, should an employee be promoted during the first year of service with the Employer, the employee shall not receive this increase, but be eligible for increases in part (B).
+(B)	The first six (6) months after promotion and annual periods thereafter until the employee has reached the top step in his/her salary range. Performance-pay shall use the following criteria:
+(1)	classification specifications developed and promulgated by the Employer;
+(2)	an individual position description reduced to writing;
+(3)	written memoranda including letters of instruction, when necessary. Work plans where used will not be accepted as a substitute for notice of deficiency; and
+(4)	disciplinary action.
+The above criteria shall be the primary factors upon which an employee’s performance is judged and upon which annual performance pay decisions are determined.
+Section 4.	Salary Increases - Academic Year. Employees whose full work year is generally an academic year shall have actual time worked and leave without pay considered in determining eligibility for annual increases. When an employee is increased to the maximum rate for that classification, that employee no longer has an eligibility date for a salary increase.
+33
+Section 5.	Salary on Demotion. Whenever an employee demotes to a job classification in a lower range that has a salary rate the same as the previous salary step, the employee’s salary shall be maintained at that step in the lower range.
+Whenever an employee demotes to a job classification in a salary range which does not have corresponding salary steps with the employee’s previous salary but is within the new salary range, the employee’s salary shall be maintained at the current rate until the next eligibility date. At the employee’s next eligibility date, if qualified, the employee shall be granted a salary rate increase of one (1) full step within the new salary range plus that amount that their current salary rate is below the next higher rate in the salary range. This increase shall not exceed the highest rate in the new salary range.
+Whenever employees demote to a job classification in a lower range, but their previous salary is above the highest step for that range, the employee shall be paid at the highest step in the new salary range. This section shall not apply to demotions resulting from official disciplinary actions.
+Section 6.	Salary on Promotion. An employee shall be given an increase to the next higher rate in the new salary range effective on the date of promotion.
+If an employee is demoted or removed during trial service as a result of a promotion, his/her salary shall be reduced to the former step, and the previous salary eligibility date shall be restored.
+If the employee’s salary eligibility date occurs during the promotional trial service period, upon reinstatement to the previous class, the salary eligibility date prior to promotion will be recognized.
+Section 7.	Salary on Lateral Transfer. An employee’s salary shall remain the same when transferring from one (1) position to another which has the same salary range.
+Section 8.	Effect of Break in Service. When an employee separates from OUS service and subsequently returns to OUS service, in a bargaining unit position, the employee’s salary eligibility date shall be determined by the university/college as follows:
+(A)	Return from Recall List. The employee’s previous salary eligibility date, adjusted by the amount of break in service, shall be restored.
+(B)	Return from Reemployment. The employee’s previous salary eligibility date, adjusted by the amount of break in service, shall represent the earliest salary eligibility date following return. However, the salary eligibility date may be established as the first of the month in any future month up to twelve (12) months from the date of reemployment.
+Section 9.	Rate of Pay on Appointment from Layoff Recall List. When an individual is appointed from a layoff recall list, the person shall be paid at the same salary step at which such employee was being paid at the time of layoff. The salary eligibility date of an individual who is appointed from a layoff recall list shall be determined in accordance with Section 8 of this Article.
+34
+Section 10.	Rate of Pay on Return to OUS by Reemployment. When a former employee is appointed from reemployment to a position in the same classification in which he/she was previously employed or in a related classification with the same salary range, he/she may be paid at or below the step at which he/she was being paid at the time of his/her termination. If a person is reemployed in a position in a classification with a lower salary range than that of his/her previous position, he/she may be paid at any step in the lower salary range not exceeding the rate he/she was being paid in the higher classification, except where exceptional circumstances justify payment of a higher rate. The salary eligibility date of a former employee who is appointed from reemployment shall be determined in accordance with Section 8 of this Article.
+Section 11.	Recoupment of Wage and Benefits Overpayments. Except as provided in Article 56 - Reclassification Upward-Downward, Section 2, in the event the employee receives wages or benefits from the university/college to which the employee is not entitled, regardless of whether the employee knew or should have known of the overpayment, the university/college shall notify the employee in writing of the overpayment which will include information supporting that an overpayment exists and the amount of wages and/or benefits to be repaid. For purposes of recovering overpayments by payroll deduction, the following shall apply;
+(A)	The university/college shall be limited in using the payroll deduction process to a maximum period of three (3) years before the notification.
+(B)	The employee and the university/college shall meet and attempt to reach mutual agreement on a repayment schedule within thirty (30) calendar days following written communication.
+(C)	If there is no mutual agreement at the end of the thirty (30) day calendar period, the university/college shall implement the repayment schedule stated in Section 11 (D) of this Article.
+(D)	If the overpayment amount to be repaid is more than five percent (5%) of the employee’s regular monthly base salary, the overpayment shall be recovered in monthly amounts not exceeding five percent (5%) of the employee’s base salary. If an overpayment is less than five percent (5%) of the employee’s regular monthly salary base, the overpayment shall be recovered in a lump sum deduction from the employee’s paycheck. If an employee leaves university/college service before the university/college fully recovers the overpayment, the remaining amount may be deducted from the employee’s final check(s).
+(E)	Notwithstanding the above, Section 11(B), (C), and (D) of this Article shall not apply to payroll adjustments necessitated by a discrepancy between actual hours of paid time versus hours projected for payroll purposes from one pay period to another. For example, if an employee utilizes leave without pay near the end of a month but is paid for such time because leave without pay was not anticipated at the payroll cutoff date for that month, the employee’s pay and benefit entitlements may be adjusted on the following month’s paycheck.
+35
+(F)	An employee who disagrees with the university/college determination that an overpayment has been made to the employee, may grieve the determination through the grievance procedure. The employee may grieve after the thirty (30) calendar day period as stated in Section 11(B) of this Article, if mutual agreement concerning the overpayment has not been reached.
+(G)	This section does not waive the university/college’s right to pursue other legal procedures and processes to recoup an overpayment made to an employee at any time.
+ARTICLE 23 - PAYROLL COMPUTATION PROCEDURES
+Section 1.	Definitions
+(A)	Permanent Full-Time - a permanent position equivalent to eight (8) hours per day or forty (40) hours per week. A permanent full-time employee will be paid on a monthly salary basis, and all benefits will be calculated on a monthly or hourly pay status basis.
+(B)	Permanent Part-Time - a permanent position less than permanent full-time. A permanent part-time employee will be paid on a fixed partial monthly or hourly salary basis, and all benefits will be calculated on a partial monthly or pay period, pay status basis. All permanent part-time employees whose work hours are regularly scheduled (work hours are based on a predetermined schedule) shall be paid on a fixed partial monthly basis.
+(C)	Seasonal Full-Time - a seasonal position normally equivalent to eight (8) hours per day or forty (40) hours per week. An employee in such position will be paid on a monthly, hourly or fixed partial monthly salary basis. All benefits will be calculated on a partial monthly or pay period, pay status basis, whichever is appropriate.
+(D)	Seasonal Part-Time - a seasonal position normally less than equivalent to eight (8) hours per day or forty (40) hours per week. An employee in such position will be paid on an hourly basis and all benefits will be calculated on a partial pay period, pay status basis.
+(E)	Number of workdays in month or pay period - number of possible workdays in the month or pay period based on the employee's weekly work schedule, such as Monday - Friday, Tuesday - Saturday, etc. Holidays that fall within the employee's work schedule are counted as workdays for that month or pay period.
+(F)	Hourly rates of pay - the hourly equivalent of the monthly base rates of pay as published in the Compensation Plan. The hourly rates are computed by dividing the monthly salary by 173.33.
+(G)	Partial month’s pay - a prorated monthly or pay period salary. The number of hours actually worked by an employee divided by the total number of possible hours in the month or pay period based on the work schedule, times the full
+36
+monthly or pay period salary rate. For example, if the employee works 115 hours in a month or pay period with a possible work schedule of 121 hours, the partial month’s pay is computed as follows:
+115 x full month salary = gross partial pay
+121
+(H)	Days worked - includes all days actually worked, all holidays and all paid leave, which occurs within an employee’s service period.
+Section 2.	General Compensation
+(A)	Permanent Full-Time Employees - Pay and benefits will be computed on a monthly pay status basis.
+(B)	Permanent Part-Time Employees
+(1)	Pay and benefits will be computed on a prorated monthly or pay period basis, such as one-half monthly or pay period pay for a half-time employee. Permanent part-time employees in permanent full-time positions will be treated as permanent part-time for purposes of this Article.
+(2)	Employees paid on a fixed partial monthly basis shall have all extra hours worked over the regular part-time schedule paid at the hourly rate. Employees paid on a fixed partial monthly basis who work less than the regular part-time schedule shall have time deducted at the hourly rate or prorated monthly rate, depending on how their pay is regularly computed.
+(C)	Seasonal Full-Time Employees - Pay and benefits will be computed on a monthly, prorated monthly or an hourly pay period, pay status basis.
+(D)	Seasonal Part-Time Employees - Pay will be computed on an hourly basis, and pay and benefits will be normally prorated on a pay period, pay status basis.
+(E)	Job Sharing Employees - The total time worked by all job share employees in one (1) position will not exceed 1.0 FTE.
+(F)	Partial month’s pay or partial pay period.
+(1)	Partial month’s pay (or prorated monthly or pay period pay) is applied when:
+(a)	A full-time employee is hired on a date other than the first working day of the month or pay period (based on employee’s work schedule).
+(b)	A full-time employee separates prior to the last workday in the month or pay period (based on the employee’s work schedule).
+(c)	A full-time employee is placed on leave without pay or returns from leave without pay.
+(d)	An employee is appointed to a permanent part-time position.
+(2)	See definition for partial month’s pay under Section 1(G) of this Article for computation procedures.
+37
+(G)	Changes in salary rate - When an employee’s salary rate changes in the middle of a month, pay will be computed on the fractional amount of hours worked at each salary rate during the month. For example:
+actual hours x old rate + actual hours x new rate = gross pay possible hours	possible hours
+Section 3.	The parties agree that if the Employer adopts a biweekly pay plan, this Article of the Agreement will be open for renegotiation.
+ARTICLE 24 - INSURANCE
+Section 1.	Definition of Participants. The intent of this Article is to define participants who receive an Employer contribution toward the cost of insurance. For purposes of this Agreement, the following definitions apply.
+(A)	Employer Insurance Program. The definition of Employer insurance includes any insurance program authorized or sponsored by the Employer to provide insurance benefits for employees of the Oregon University System.
+(B)	Eligibility. Employees who meet eligibility requirements of the Employer insurance program are considered to participate.
+(C)	Opt-Out. Employees who meet eligibility requirements of the Employer insurance program and elect to opt-out of medical coverage are considered to participate.
+Section 2.	Employer Contribution. An Employer contribution for insurance will be made for each participant, according to full or part-time status.
+(A)	Full-Time Employees. The Employer shall make the full contribution for employees who have at least eighty (80) paid hours in a month.
+(B)	Part-Time Employees. For part-time employees who have at least eighty (80) paid regular hours in the month, the Employer shall contribute a pro-rated amount of the contribution, including the appropriate subsidy per Section 2(C) of this Article, for full-time employees. For the purposes of pro-ration, part-time employees include part-time, seasonal part-time, intermittent and job share employees described in Article 23 -Payroll Computation Procedures of this Agreement.
+(1)	The minimum Employer contribution for part-time employees who have at least eighty (80) paid regular hours in a one-month pay period is 50% of the full contribution for full-time employees.
+38
+(2)	The Employer contribution shall be pro-rated for paid regular hours between 80 and 160 hours in a pay period, to the nearest full percent, not to exceed 100% of the full-time contribution.
+(3)	In the event that a less than full-time employee, who is regularly scheduled to work half-time or more, fails to maintain at least half-time paid regular hours because of the effect of pro-rated holiday time or other paid or unpaid time off, he/she shall be allowed to use available vacation, exchange time or comp time to maintain his/her eligibility for benefits and the Employer’s contribution for such benefits.
+(4)	The parties agree to provide additional subsidies for part-time employees participating in the PEBB Part-time Insurance Plans, as specified below:
+a)	In Plan Year 2004, the subsidies for part-time employees participating in either the Regence Part-time Plan or the Kaiser Part-time Plan will be as follows:
+Employee only:
+Employee plus spouse/partner
+Employee plus children
+Family
+$107.92
+$161.02
+$126.77
+$168.79
+The cost of the 2004 part-time subsidy for OUS-SEIU bargaining unit employees will be paid for initially from OPEU/BUBB Rate Stabilization Funds. However, if the actual cost of such subsidy for all SEIU-represented employees in PEBB exceeds the total remaining balance of the OPEU/BUBB Rate Stabilization Funds, then OUS shall pay the share of such excess which is attributable to OUS-SEIU bargaining unit part-time employees.
+b)	In Plan Year 2005, the subsidies for part-time employees participating in either the Regence Part-time Plan or the Kaiser Part-Time Plan will be as follows:
+Employee only:
+Employee plus spouse/partner
+Employee plus children
+Family
+$121.05
+$181.65
+$142.66
+$190.70
+The cost of the Plan Year 2005 subsidy will be paid by the Employer through June 30, 2005.
+c)	If the actual Plan Year 2005 premium costs for the Part-time Plans exceed the PEBB projected premium costs, the parties shall jointly petition PEBB to use reserve funds pursuant to Article 24, Section 2(C)(4), so as to prevent out-of-pocket premium costs for part-time employees from exceeding 2003 levels. This petition shall request that funds be accessed in the following priority order:
+39
+i)	Any unused money in the OPEU/BUBB reserves.
+ii)	Any amount that PEBB determines is available for SEIU from the remainder of the $15 million in PEBB reserves described in Article 24, Section 2(C)(4).
+iii)	Additional PEBB reserves beyond the $15 million amount.
+(C) Contribution Rate.
+The Employer contribution for insurance benefits to full-time eligible participants will be:
+(1)	Plan Year 2003. The Employer contribution for insurance benefits to full time, eligible participants will be an amount equal to 2001 PEBB tiered rates (Employee Only - $387.14; Employee Plus Child(ren) - $443.59; Employee Plus Spouse/Partner -$520.12; Employee Plus Family - $531.97) plus an Employer subsidy adequate to provide full insurance coverage for medical, dental and basic life insurance, regardless of tier or plan choice. The Employer increased the subsidy paid during Plan Year 2002 to meet increases in premium costs for PEBB medical, dental and basic life insurance for Plan Year 2003, but only up to a maximum amount comparable to an average subsidy increase of $85.00 per eligible FTE. The current Employer contribution and subsidy will remain in effect until the end of the 2003 Plan Year (12/31/03).
+(2)	Plan Year 2004. For Plan Year 2004 (1/1/2004 through 12/31/04) the dollar difference between the Employer monthly contribution for each of the above tiers and the premium cost of the plan selected by the employee will be paid by the Employer as a subsidy so there is no out-of-pocket premium cost to the eligible employee for medical, dental, and basic life insurance regardless of tier or plan choice. These subsidies are based on a PEBB estimated composite rate not to exceed fifty-eight dollars and eighty-eight cents ($58.88) per eligible FTE per month above the 2003 OUS composite rate, including tiered contributions and subsidies as described in Paragraph Section 2(C)(1) above.
+(3)	Plan Year 2005. For Plan Year 2005 (1/1/2005-12/31/2005), the Employer will increase the subsidy paid in Plan Year 2004 by an additional PEBB-estimated composite amount not to exceed sixty-four dollars and two cents ($64.02) per eligible FTE per month. The Employer contribution remains in effect until the end of the plan year, December 2005.
+(4)	The parties shall jointly petition the Public Employees Benefit Board (PEBB) to allocate to OUS a pro-rata portion of the up to $15 million in rate stabilization reserves approved to offset Employer contribution increases in Plan Year 2004 and 2005. In addition, the parties shall jointly petition PEBB to use (1) PEBB reserve funding and (2) OPEU/BUBB Rate Stabilization Funds to cover increases in premium costs above the projected premium increase for Plan Year 2005.
+Section 3.	Administration. The Employer will make payment for employee insurance directly to the appropriate insurance carriers and/or administrators.
+40
+Section 4.	Proprietary Interest. The Employer ceases to have proprietary interest in its own contributions to the insurance plan when it pays such funds to the carrier or to persons who have irrevocable duty to transfer such payment to carriers and/or providers when due.
+ARTICLE 25 - OVERTIME
+Section 1.	Definition of Time Worked. All time for which an employee is compensated at the regular straight time rate of pay, except standby time and penalty payment(s) (Articles 26 and 30) but including holiday time off, compensatory time off and other paid leave, shall be counted as time worked. Holidays which fall on an employee’s scheduled day off shall not count as time worked toward computation of overtime.
+Section 2.	Overtime Work Definition. Overtime for employees working a regular work schedule is time worked in excess of eight (8) hours per day or forty (40) hours per work week. Overtime for employees working an irregular work schedule is time in excess of ten (10) hours per day or forty (40) hours per work week. Overtime for employees working a flexible work schedule is time in excess of the agreed upon hours each day or time in excess of forty (40) hours per work week. Time worked beyond regular schedules by employees scheduled for less than eight (8) hours per day or forty (40) hours per work week is additional straight time worked rather than overtime until the hours worked exceed eight (8) hours per day or forty (40) hours per work week. In a split shift, the time an employee works in a day after twelve (12) hours from the time the employee initially reports for work is overtime. For purposes of this Article, time worked includes telephone calls made to an employee or by an employee after his/her work shift for work-related purposes.
+Notwithstanding the foregoing eligibility criteria, in cases where the application of reporting time changes or a "penalty" payment is appropriate, the rate of compensation shall be the straight time hourly rate of pay.
+Section 3.	Compensation. All employees shall be compensated for overtime at the rates set out in Section 4 of this Article. No application of this Article shall be construed or interpreted to provide for compensation for overtime at a rate exceeding time and one-half (1-1/2), or to effect a "pyramiding" of overtime and penalty payments.
+Section 4.	Eligibility for Overtime Compensation
+(A)	Overtime Eligible Positions. Time and one-half (1-1/2) their regular hourly rate unless a determination at the date this Agreement is effective has been made that the position is executive, administrative, or professional as defined by the Fair Labor Standards Act (FLSA). Such time and one-half (1-1/2) compensation shall be in the form of cash or compensatory time, pursuant to Section 7 of this Article.
+(B)	Straight Time Eligible Positions. Employees in positions which have been determined to be executive, administrative or professional as defined by the FLSA shall receive exchange time off for authorized time worked in excess of eight (8) hours per day or forty (40) hours per week at the rate of one (1) hour off for one (1) hour of
+41

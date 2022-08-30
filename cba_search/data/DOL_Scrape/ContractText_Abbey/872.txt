@@ -1,0 +1,3905 @@
+﻿1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+STATEMENT OF PURPOSE
+It is the purpose of this Agreement to establish the terms and conditions of employment, and to encourage a constructive, mutually respectful working relationship between Local 2300 and Cornell University.
+The Union recognizes the educational and research mission that Cornell University provides. The University recognizes the mission of Local 2300 in providing a collective voice for service and maintenance workers on campus.
+Both parties agree to strive toward resolution of conflict in a constructive, mutually respectful manner. Both parties agree that full and open dialog prior to decisions affecting the other is essential to a healthy relationship. Both parties recognize that all Cornell staff and students deserve to be treated with respect and dignity.
+ARTICLE 1 RECOGNITION
+The University recognizes the Union as the exclusive representative for the purpose of collective bargaining in respect to wages, hours and other conditions of employment of all non-exempt non-academic regular full-time and regular part-time service and maintenance employees located within Cortland and Tompkins Counties, New York, as certified by the National Labor Relations Board by case 3-RC-7939 and within the specific job classifications listed in AppendixA. Full-time employees shall be those defined as regularly scheduled to work a minimum of thirty-five (35) hours per week. Part-time employees shall be those defined as regularly scheduled to work a minimum of twenty (20) hours per week but less than thirty-five (35) hours per week. Excluded from the unit and from coverages under this Agreement are all student employees, confidential employees, administrative and clerical employees, technical employees, temporary and casual employees, employees represented by a certified representative, agricultural employees, guards, supervisors as defined in the National Labor Relations Act, and all other employees not in the classifications listed in Appendix A.
+Temporary employees shall be limited to:
+a.	employees hired for up to six (6) consecutive months in one department. Fall Break, Winter Intersession, and Spring Break shall be considered a pause in service when determining six (6) months of consecutive temporary service;
+- 1 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+b.	employees hired to replace other employees on a paid or unpaid leave of absence, e.g., disability; and
+c.	employees considered temporary by special agreement between the Union and the employer.
+Temporary employees, other than those in (b) and (c) above, scheduled to work at least 20 hours per week with a term of employment of six consecutive months or longer in one department are considered regular employees except for the bumping and recall provisions of Article 14, Layoff and Recall.
+Upon request, the University will inform the Union regarding the status of a temporary position.
+The University shall notify the Union whenever the University establishes a new unit classification that does not correspond with any of the classifications contained in Appendix A of this Agreement. The Union may request a meeting with the Director of Workforce Policy & Labor Relations to discuss the classification and grade level of that position.
+The University's determination of a job's classification, including its job title and grade level, is final, unless it is shown to be arbitrary or capricious, in which event the matter will be referred to Step 3 of the Grievance and Arbitration Procedure, Article 11.
+ARTICLE 2
+TERMS OF AGREEMENT
+This Agreement constitutes the full, complete and final understanding and agreement of the parties for the duration hereof. The parties voluntarily and unqualifiedly waive the right, and each agrees that the other shall not be obligated, to bargain collectively with respect to any subject or matter whether or not referred to or covered in this Agreement, even though such subject matter may or may not have been within the knowledge or contemplation of either or both parties at the time that this Agreement was negotiated or signed. The execution of this Agreement shall not result in any abridgment of the rights retained by the University pursuant to Article 3.
+It is agreed by and between the parties that any provision of this Agreement which is subject to funding by the State of New York shall not become effective until appropriate approval by the State.
+2 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+ARTICLE 3
+MANAGEMENT RIGHTS
+It is agreed that the University retains all of the rights, powers and authority possessed by the University prior to the execution of this Agreement and that nothing in this Agreement shall be construed to limit the University in any way in the exercise of these rights, except to the extent that these rights are specific- ally relinquished, restricted or modified by the express provisions of this Agreement. These rights shall include, but shall not be limited to the right to:
+1.	determine the mission, purposes, objectives, policies, and programs of the institution;
+2.	determine the facilities, methods, standards, and means of operation, and number and qualifications of personnel required for the conduct of its program;
+3.	determine and/or alter work schedules, hours of employment, and the duties, responsibilities and assignments of employees with respect hereto;
+4.	recruit, hire, approve, train, retain, evaluate, transfer, promote, demote, layoff and recall employees;
+5.	determine or change job content, classify or reclassify positions and allocate or reallocate new or existing positions;
+6.	discipline or discharge employees in accordance with the provisions of this Agreement and rules and regulations promulgated hereunder;
+7.	promulgate, modify and enforce rules and regulations and qualitative and quantitative standards of performance;
+8.	although the University retains the right to subcontract unit work, the University agrees that it will make reasonable effort to avoid employee layoffs where sub-contracting may eliminate unit jobs; and,
+9.	change existing, or introduce new equipment, operations, methods, processes, means or facilities as determined to be in the best interest of the University.
+- 3 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+Nothing contained herein shall constitute a waiver of the right of the University to exercise other normal functions of management not enumerated above. Furthermore, the exercise or non-exercise of rights hereby retained by the University shall not be deemed a waiver of any such right or prevent the University from exercising such rights in any way in the future.
+ARTICLE 4 UNION SECURITY
+All employees covered by this Agreement who were members of the union as of July 1, 1985 shall continue to pay to the union amounts equal to the union's regular fees and dues for the duration of the Agreement.
+Any employee hired from July 1, 1985 and thereafter, shall be required, as a condition of employment, to pay an amount equal to the union's regular fees and dues for the duration of the Agreement. Employees hired prior to July 1, 1985 who, on July 1, 1985 had elected not to pay dues are under no obligation to become members or pay dues.
+ARTICLE 5 DUES CHECKOFF
+The University agrees to deduct an initiation fee and thereafter bi-weekly the regular Union membership dues from the wages earned by any member of the Union covered by this Agreement and to remit such dues monthly to the Union, provided such employee previously has signed a written authorization and direction to make such deduction to the appropriate University Payroll Managers.
+With each remittance, the employer will provide the Union with a list of names of employees and the dates and amounts of deductions made for each employee. The University shall remit the Dues Checkoff check to the Union within seven (7) days of the last payroll date of the month.
+In the event that an employee who has authorized payroll deductions for dues, falls into arrears for one (1) month's dues or less as a result of an unpaid leave of absence or layoff, the University shall deduct that amount, in addition to usual dues deductions, from the employee's paycheck within one (1) month following the Union's notification to the University of the employee's name, social security number, the amount of dues owed and the period for which they are owed. Further, the Union is required to send notice to the employee
+4 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+via first class mail that the Union has requested that the University take this deduction. The Union shall indemnify the University against any and all claims, demands, suits, or other forms of liability that may arise out of action taken or not taken by the University at the Union's request for the purpose of complying with any of the above provisions.
+Hardship Fund and VCAP Check-Off
+Employees shall have the option of enrolling in a voluntary Hardship Fund and or VCAP Check-off. The employee shall have the right to enroll in the fund or VCAP at reasonable, specified times agreed upon by the Union and the University.
+Enrollment shall be by written authorization signed by the employee directing the University to make the Hardship Fund and or VCAP deduction.
+ARTICLE 6
+NO STRIKE GUARANTEE
+Under no circumstances shall the Union, its officials, its employees, its affiliates, or its members, directly or indirectly cause, instigate, permit, support, encourage or condone, nor shall any employee or employees, directly or indirectly, take part in any action against or interference with the operations of the University such as a strike, work stoppage, sit-down, stay-in, slow-down, curtailment of work, restriction of production, or any picketing, patrolling or demonstrations at any location whatsoever during the term of this Agreement and as a continuing obligation.
+In the event of any such action or interference, and on notice from the University, the Union without any delay shall take whatever affirmative action is necessary to prevent and bring about the termination of such action or interference. Such affirmative action shall include immediate disavowal and refusal to recognize any such action or interference and the Union immediately shall instruct any and all employees to cease their misconduct and inform them that their misconduct is a violation of the Agreement subjecting them to disciplinary action, including discharge.
+Nothing herein shall preclude the University from seeking legal or other redress of any individual who has caused damage to or loss of University property or from taking disciplinary action, including discharge, against any employee. Any such disciplinary action taken shall not be reviewable through the griev
+- 5 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+ance and arbitration procedures, except for the fact question of whether the employee took part in any such action or interference.
+The University agrees that it will not lock out its employees during the term of this Agreement.
+ARTICLE 7
+FAIR EMPLOYMENT PRACTICES
+The University and the Union recognize their mutual obligations that the provisions of thisAgreement be applied to all employees covered by thisAgreement without regard to race, color, religion, age, sex, sexual orientation, union activity, marital status, disability, national origin, Vietnam era veteran or disabled veteran status.Any employee claiming he/she was discriminated against based upon one (1) of the above-noted protected categories may file a grievance at Step 3 of the Grievance Procedure, Article 11 of the Agreement.
+The University and Union recognize their mutual obligations under the various Affirmative Action and Equal Employment Opportunity statutes and regulations and labor laws.
+The University and the Union will exercise their respective responsibility for non-discrimination in employment rights for workers with disabilities, as mandated by the Americans with Disabilities Act.
+In keeping with our mutual interests to diversify the work force to be more inclusive of affirmative action protected groups (i.e., minorities, women, veterans and people with disabilities) at all levels, the Union and the University agree to the following:
+•	to work together with community agencies, local educational institutions and other resources to identify and recruit potential candidates for employment
+•	to work jointly to guarantee access to and participation in diversity and sensitivity education for members of management and the bargaining unit
+•	to expand access to and participation in career training and equal opportunities through such programs as:
+- 6 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+•	CLASP
+•	Extramural
+•	Tuition Aid
+•	Employee Degree
+•	Calendar Programs
+•	Departmental efforts
+•	On the Job Training
+•	Office Professionals Program
+•	Other
+In order to meet our goals, the parties may mutually agree to waive contractual provisions, (e.g., seniority, right to hire most qualified), on a case-by-case basis.
+Diversity/Inclusion
+The University and the Union recognize that a diverse workforce is a necessary component for the enrichment of the entire Cornell community.
+The University and the Union affirm that active steps will be taken to ensure that women, minorities/underrepresented groups, persons with disabilities and veterans at all levels are represented in applicant pools and the bargaining unit workforce. This representation should be in proportion to their availability in the relevant labor market.
+The University and the Union will work collaboratively to deliver information concerning career development and promotional opportunities within Cornell’s workplace to our minority populations, and that the opportunity to take advantage of these programs be guaranteed to every member of the bargaining unit.
+The University and the Union will work collaboratively to plan and implement educational training programs that focus on supporting diversity as well as awareness of harassment and discrimination for bargaining unit members and their supervisors.
+For the duration of the contract period, the University and the Union will establish a Diversity Advocate Committee. The committee will consist of three (3) members of management, three (3) members of the bargaining unit, a representative of Cornell’s Workforce Diversity, Equity & Life Quality, and a member of the Cornell community to be jointly selected by the University and the Union. The Committee will meet at least quarterly to uphold the principles outlined in this statement on Diversity. In further
+- 7 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+ance of this, the Committee is empowered to review problems in hiring and promotion that depart from the spirit and letter of this statement with a view to making recommendations for their rectification; and is empowered to inventory minority and underrepresented employees to create a list of promotional opportunities. The committee shall provide reports periodically to the Director of Workforce Diversity, Equity & Life Quality and the Vice President of Human Resources who will review any recommendations and respond in writing.
+ARTICLE 8
+UNION REPRESENTATION
+The University recognizes the obligation of the Union to represent employees in the bargaining unit.
+The Union shall furnish the University with a list of all Union representatives and officers on a quarterly basis and shall promptly notify the University in writing of any change. This list shall also include the areas for which each steward and zone representative are responsible.The University shall recognize all Union representatives and officers upon official notification to the Office of Workforce Policy & Labor Relations of their election or appointment.
+The University shall grant the Union up to two hundred (200) days annually of unpaid leave for the purpose of conducting Union business. For purposes of this provision, the employee will accrue sick leave and vacation benefits for up to ten (10) days of unpaid union business leave. However, this limit shall be waived for one (1) zone representative per department except for Campus Life which will be allowed a waiver for two (2) zone representatives. Additionally, this limit shall be waived for all zone representatives during negotiations. Where feasible employees will be excused for such leaves provided that the University is given two (2) work days of advanced notice prior to the date of the leave. The Union will provide Workforce Policy & Labor Relations with advance notice of union meetings which could result in significant requests for union business leave.
+The Union shall attempt to distribute union responsibilities, paid and unpaid, in an effort to minimize the impact of time away from work.
+For purposes of negotiating a successor agreement, the University will reimburse up to ten (10) employees for lost work time as a result of negotiating sessions with the University.
+- 8 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+The University will allow a union representative up to one hour of union business leave to orient new bargaining unit employees.
+The University shall grant up to three (3) employees a full-time leave under the terms of the Long-Term Personal Leave of Article 22 for a period of up to a calendar year for the purpose of holding a Local Union office. When the employee's leave expires, the employee shall be returned to his/her department to the classification and grade last held by the employee, bumping the least senior University employee in that classification and grade. The salary of the employee upon return shall be equal to his/her last rate of pay plus any increments that may have accrued during the leave. This leave is subject to annual renewal at the discretion of the University.
+The Union shall notify the Director of Workforce Policy & Labor Relations in writing of its intent, at least one calendar month prior to the expiration of the leave, to either return to work, request an extension of the leave, or terminate the leave.
+ARTICLE 9 SENIORITY
+Seniority is defined as the length of time an employee has been continuously employed by the University within the bargaining unit.
+Probationary Period
+New employees shall be considered probationary employees for the first 90 calendar days of employment commencing with the first day of employment. Periods of temporary layoff, disability and workers' compensation shall extend the probationary period accordingly. However, if an employee has worked as a temporary for three (3) consecutive months or more and is subsequently hired without a break in service into a bargaining unit position in the same department with similar job duties, such employee will be subject to a probationary period of thirty (30) calendar days. The University may extend the probationary period for an additional thirty (30) calendar days with the written approval of the Union President, or designee. Upon satisfactory completion of the probationary period seniority shall commence, retroactive to the last date of hire. During their probationary period, employees shall have no seniority rights and may be terminated at the sole election of the University and without recourse to the grievance and arbitration provisions of this Agreement. If a new employee was employed as a temporary employee in a bargaining unit
+- 9 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+position, and there is no break in service between the period of temporary service and regular service, the new employee, upon successful completion of the probationary period, shall be credited for that time served as a temporary employee for the purposes of seniority calculation. Fall break, winter intersession and spring break shall not be considered as a break in service period for seniority purposes.
+Any employee transferred from a position excluded from the bargaining unit shall have no seniority if transferred into the bargaining unit. Such an employee shall be considered a "new hire" for seniority purposes. Employees who transfer out of the bargaining unit to accept a supervisory position or other position not included in the bargaining unit shall have their seniority frozen as of the date of transfer. Should the University desire to return the employee to the bargaining unit, their seniority that accumulated prior to the transfer shall be restored and they will return to any available job to which their seniority entitles them. Any employee on layoff or absent due to work related illness or injury shall continue to accrue seniority.
+Employees hired on the same date shall rank for seniority according to the last four (4) digits of their social security number with the employee having the highest number being given the highest rank.
+Loss of Seniority
+Continuity of service with the University shall be considered broken and seniority rights shall cease for any of the following reasons.
+1.	The employee resigns or is discharged for cause.
+2.	The employee retires from Cornell University.
+3.	The employee is laid off for a period of twenty-four (24) consecutive months.
+4.	The employee is absent from work for three consecutive working days without directly notifying the supervisor or the departmental administrator in keeping with departmental procedures and provided the failure to notify is not due to circumstances beyond the control of the employee.
+5.	The employee fails to return to work for three consecutive working days, provided the failure to return to work is not due to circumstances beyond the control of the employee, after:
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+-	the expiration of an approved leave of absence,
+-	recall from layoff,
+-	the expiration of vacation,
+-	or disciplinary suspension,
+-	expiration of disability or workers' compensation status
+6.	The employee fails to return to employment at Cornell within one (1) year following the expiration of Short-Term Disability Leave.
+7.	An employee on a continuous absence from work due to a work related injury or illness who fails to return to work within one (1) year of a determination by a physician that the employee is permanently disabled.
+The University shall provide the Union with a master list or disk (when available) of all bargaining unit employees quarterly, showing the name, seniority, date of employment, classification, wage grade and department of each employee.
+ARTICLE 10
+FILLING JOB VACANCIES
+The University will post all job openings which may occur in the bargaining unit.
+Barring unforeseen circumstances, posted positions shall be filled within a reasonable length of time. Upon request, the University will inform the union regarding the status of a position if it is not filled within a reasonable length of time.
+The University shall regularly provide the job posting information to the Union office through the University's normal distribution routine. Whenever possible, each posting of a bargaining unit position shall indicate whether it is an endowed or statutory position, location, grade, classification, and work schedule.
+Qualified employee candidates are to be given preferential consideration for any vacancy within the institution and, to that end, at least the two most senior applicants who, in management's judgment, meet the minimum qualifications for any vacant position, shall be interviewed and have their application reviewed. Supervisors should encourage and support their
+- 11 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+employee’s pursuit of Cornell career opportunities. It is agreed that such openings should be filled by the person most qualified to perform the work. If all relevant factors such as experience and qualifications are equal, then the employee with the most bargaining unit seniority will be awarded the position.
+If an employee has occupied a position for fewer than three (3) months, that employee may not apply for a promotion to a different department, unless invited by management to do so. Lateral transfers within a department shall not be considered a change of position for the purposes of this provision.
+Any employee who has applied through normal Division of Human Resources application procedures to a posted bargaining unit position shall be notified in writing if he or she did not get the Job. Violation of this provision shall be grievable but not arbitrable.
+Provisional Employment
+On an ad-hoc basis, the parties may mutually agree to identify a posted position to which the most senior qualified employee applicant may be assigned to on a trial basis. The length of such trial period shall be mutually agreed to by both parties. These opportunities will not be unreasonably denied.
+If the employer believes that the employee, as specifically demonstrated by his/her performance in the position, cannot perform the job duties, then such employee shall be returned to his/her former position from which he/ she was transferred. The employee also has the option to return to his/her former position during the trial period.
+The employee will be paid during the trial period in accordance with the provisions outlined below.
+Promotions, Demotions, Lateral Movements and Reclassifications
+1.	Any employee hired after July 1, 1994 who is promoted or reclassified will be paid at the Hire Rate or Job Rate of the grade as appropriate. The reverse shall apply in the case of a demotion.
+2.	Any employee hired before July 1, 1994 who is promoted or reclassified will remain in the same quad and year in quad in the higher grade
+12 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+and will be paid at the rate for that quad for which the employee is promoted. The reverse shall apply in the case of a demotion.
+3.	An employee whose rate is equal to or exceeds the maximum of the pay grade to which the employee is promoted or reclassified, shall receive a five-percent (5%) increase to their base hourly rate for one grade or a ten-percent (10%) increase to their base hourly rate for two or more grades.
+4.	An employee who moves laterally will remain at the same base hourly rate.
+ARTICLE 11
+GRIEVANCE PROCEDURE AND ARBITRATION
+1.	"Grievance" within the meaning of the Agreement shall be defined as any matter involving the interpretation or application of this Agreement which alleges a violation of the rights of an employee or the Union under the terms of this Agreement.
+2.	Whenever an employee refuses or fails to initiate a grievance upon occurrence of an alleged violation of the rights of that employee under the terms of this Agreement, the Union may file a grievance in the name of the employee at Step 2 of the Grievance Procedure.
+3.	When the Union alleges that the University has applied or interpreted the terms of the Agreement so as to allegedly violate employee's rights under the terms of the Agreement, the Union may initiate the grievance at Step 3 of the Grievance Procedure.
+4.	When a grievance arises from the alleged violation of a provision of this Agreement that specifically provides for the grievance to be initiated at Step 3 of the Grievance Procedure, the grievance will be reduced to writing by the employee or a Union representative and submitted to the Office of Workforce Policy & Labor Relations.
+5.	An employee grievant(s) (no more than three (3)) and/or one Union representative participating in the required meetings of the Grievance Procedure, Steps I through 4 inclusive, as set forth in Section l3 of this Article, during working hours shall suffer no loss of wages for the time spent in such meetings. Whenever possible grievance meetings shall
+- 13 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+be scheduled during the grievant's normal working hours, at a mutually convenient time.
+6.	In no instance shall a grievance be filed after ten (10) working days from the date of its occurrence or reoccurrence. Any grievance not processed at each level within the number of working days specified herein shall be regarded as settled on the basis of the University's most recent answer. If the University should fail to observe the time limits in a specific step, the grievance may be appealed to the next step or the Union may wait for the University's response. "Working Day" within the meaning of this Article shall be defined as Monday through Friday, excluding all paid holidays.
+7.	Settlements through Step 2 of the Grievance Procedure shall not establish a precedent or practice for either party. The Union may amend a grievance at Step 3 of the Grievance Procedure to correct inaccuracies such as incorrect Article citation or statements of remedy. The Union may withdraw a grievance at any step without prejudice or precedence.
+8.	Initial steps and time limits in the Grievance Procedure may be waived by written mutual agreement of both the University and a Union representative.
+9.	No employee shall be discriminated against for participating in the Grievance Procedure.
+10.	Where an employee's presence as a witness is required during the adjustment of a grievance or during arbitration, the University shall excuse that employee from work. Neither party, however, shall be responsible for the expense of witnesses called by the other, including lost work time. Witnesses called by mutual agreement in advance of the witness appearance shall not lose pay.
+11.	Employees who have filed a grievance shall have the right to be present personally at any stage of the Grievance Procedure. However, an employee may waive the right to be present. The employee may be accompanied by a Union representative. Union representatives may assist employees who wish to file grievances. The grievant(s) and Union representative(s) will be permitted a reasonable amount of time, normally not to exceed one-half (1/2) hour without loss of pay, to confer privately immediately prior to any scheduled grievance step meeting.
+- 14 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+12.	At each step of the grievance procedure, each party shall present the facts and documents known to the party at the time to support its position on the grievance.
+13.	All grievances shall be processed and settled in conformity with the following procedure:
+Step 1. All grievances must first be discussed by the employee with his/her immediate supervisor with or without a Union representative present and the grievant or the Union representative must make known to the supervisor that such a discussion is intended as a Step 1 grievance. The supervisor shall respond to the employee and the Union representative when involved, as soon as possible, but no later than three (3) working days from the date the grievance was discussed.
+Step 2. If the immediate supervisor's oral answer does not resolve the grievance and the employee chooses to pursue the matter further, it shall be reduced to writing setting forth the facts upon which the grievance is based, the section(s) of the Agreement pursuant to which the employee's rights are alleged to have been violated, the reason for disagreement of the Step 1 response, and the remedy or correction sought, and within five (5) consecutive working days from receipt of the oral answer be appealed to the department head or designated representative. The department head or designee shall within five (5) consecutive working days from the date the grievance is appealed meet and discuss the grievance with the employee and a Union representative. A written answer to the grievance shall be provided to the employee and the Union representative within five (5) working days after the date of the Step 2 meeting.
+Step 3. If the grievance is not resolved in Step 2, the Union representative may appeal the grievance in writing within five (5) consecutive working days of receipt ofthe Step 2 answer. The appeal shall include the reason for disagreement of the Step 2 response. Within twenty (20) working days from the date the grievance was appealed to Step 3, a meeting shall be held between the Director of Workforce Policy & Labor Relations or a designee and three (3) persons the Director of Workforce Policy & Labor Relations determines may assist in the resolution of the grievance, and a designated International Representative, the Local President, a
+- 15 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+Union representative and the aggrieved employee. The Director of Workforce Policy & Labor Relations shall provide the International Representative, the Local President, the grievant and the Union representative with a written answer on the appeal within ten (10) working days of the meeting.
+Step 4. If the grievance remains unresolved after the Step 3 answer from the Director of Workforce Policy & Labor Relations, the designated International Representative or Local President may appeal the grievance to arbitration by submitting an official written notice to the Director of Workforce Policy & Labor Relations within ten (10) working days from receipt of the Step 3 answer. Such request for arbitration shall include the specific provision(s) of the Agreement alleged to be violated as stated in Step 3, as well as the reason for disagreeing with the prior step decision.
+Arbitration
+The selection of an arbitrator and arbitration proceedings shall be conducted under the then current Labor Arbitration Rules of the American Arbitration Association.
+The jurisdictional authority of the arbitrator is defined and limited to the determination as to whether there have been violations of the provision or provisions of the Agreement as set forth in the written grievance; the arbitrator shall have no power to add to, subtract from, or modify any of the terms of this Agreement. The decision of the arbitrator shall be based exclusively on evidence presented at the arbitration hearings and shall be final and binding on all involved parties.
+Where the decision of the arbitrator includes an award for back pay, back wages shall be limited to the amount of wages that the employee otherwise would have earned less any unemployment compensation or other additional interim payments or compensation.
+The parties shall bear their own expenses and share in the arbitrator's fee and expenses equally. Each party shall be responsible for the expenses of its witnesses and representatives, except as provided in Section 5 of this Article. Either party may be represented by counsel.
+Except as otherwise provided for in this Agreement, the University may temporarily fill any position pending the resolution of the grievance.
+16
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+Grievance Mediation
+Upon mutual agreement, the University and the Union will request a Federal Mediator from the Federal Mediation and Conciliation Service for the purpose of grievance mediation. This process may be implemented with mutual agreement prior to filing for Arbitration, or in the time frame between the filing for Arbitration and the Arbitration proceedings. In the event Grievance Mediation is chosen prior to filing for Arbitration, the time limits for filing for Arbitration will be extended to accommodate the Grievance Mediation process. The decision/ recommendations of the Federal Mediator shall not be binding on either party and may not be introduced in any subsequent arbitration proceedings.
+Grievance Reinstatement
+In those instances where the International Union, UAW by either its Executive Board, Public Review Board, or Constitutional Convention Appeals Committee has reviewed the disposition of a grievance and found that such disposition was improperly effected by the Union or a union representative involved, the International Union may inform the University in writing that such grievance is reinstated in the grievance procedure at the step at which the original disposition of the grievance occurred. Grievants may also appeal their grievance disposition as outlined in the UAW Constitution, Article 33. In the event such appeal is upheld, the grievance will be reinstated the same as above. This process must be initiated within forty-five (45) days of the disposition of the original grievance and must be concluded within ninety (90) days thereafter. Grievances may only be appealed once.
+ARTICLE 12
+DISCIPLINE AND DISCHARGE
+The University and the Union agree to a procedure of progressive discipline. The parties adhere to the principle that discipline has the objective of improving the future performance of the employee.
+The University and the Union recognize the sensitive nature of the disciplinary process and to that end, will strive whenever possible, to handle all disciplinary matters in a private setting with relevant personnel only.
+An employee may be disciplined only for cause. Employees have the right to union representation during any meeting that might lead to discipline or during a disciplinary meeting.
+- 17 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+The steps in the procedure of progressive discipline shall include oral warnings, written warnings, suspensions and discharges.
+Referral to the Employee Assistance Program (EAP) is not a required step of the disciplinary procedure.
+Situations involving major infractions or offenses shall be exempted from progressive discipline and may subject an employee to discipline, including discharge, regardless of the employee's prior record.
+Management shall use its best efforts in appropriate cases to have a union representative present during an investigatory meeting that could lead to discipline as well as when employees are issued a suspension or discharge. Failure to give advanced notice to the union shall not be an issue in any grievance related to the suspension or discharge. In all cases, however, the union shall receive a copy of the suspension or discharge as soon as possible after the issuance to the employee.
+Suspension of a full day or longer shall be served in full day increments unless departmental needs require otherwise.
+Any employee who has been given a written warning or disciplined in any manner or discharged may file a written grievance with or without the assistance of a specified union representative and initiate the grievance at Step 2 of the Grievance Procedure. The meeting with the department head shall take place within five working days from the date of the written grievance. Such grievances must be filed within ten working days from the date of the University's action.
+An employee shall sign written disciplinary warnings indicating that he/ she has received a copy. Signing does not mean that the employee agrees or disagrees with the written disciplinary warning. If the employee is unable to sign the statement, a union representative for that department shall sign on behalf of the employee. The employee shall have a right to promptly respond in writing to any written discipline. This response will be kept with the written discipline.
+In imposing discipline on a current charge, the University will not take into account any prior infractions that occurred more than twenty-four (24) months prior to the date of the current infraction. Periods of disability and workers’ compensation of greater than thirty (30) days shall extend the life of discipline.
+- 18 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+Probationary employees shall be exempt from the provisions of this Article.
+ARTICLE 13
+HEALTH AND SAFETY
+The University shall continue to comply with all applicable federal, state and local occupational health and safety laws for the protection of the health and safety of the employee. To this end, all employees shall receive paid health and safety training for all aspects of their job.
+Employees shall comply with safety rules established by the University.
+The University shall continue to supply and require the use of special health and safety equipment (except boots and shoes) without cost, where established by law or where a need is determined by the department, Life Safety or the Office of Environmental Health.
+Employees are encouraged to report health and safety concerns to immediate supervisors. Issues will be forwarded to the appropriate office and a response will be provided within a reasonable time. No employee shall be punished or in any way adversely affected because he or she raises health and safety concerns.
+Up to three (3) bargaining unit employees selected by the union shall participate in the Joint Health & Safety Committee. This committee shall meet periodically but at least quarterly with The Office of Environmental Health & Safety and others the University deems appropriate to discuss relevant health and safety concerns, to share educational information, ongoing and planned safety and training programs information, and to establish joint priorities for future safety and training programs. The agenda shall be set jointly in advance for each meeting, and at least once each year to establish future priorities. These three (3) employees shall suffer no loss of wages for time spent in such meetings or training sessions during working hours. Any alleged health and safety violations shall be reviewed by this committee, or discussed by the Union and the University, prior to involving any outside parties.
+The University shall make reasonable efforts to notify the Union of serious work related accidents or illnesses that have come to the attention of Labor Relations or Environmental Health and Safety.
+- 19 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+The Union may file alleged violations of this Article at Step 1 of the Grievance Procedure and Arbitration of this Agreement. In addition, the Union and the University shall establish a joint ad hoc committee, three (3) to be designated by each party, to investigate the grievance after it has been filed at Step 3, unless the Union and University mutually agree to waive committee involvement. Should the Committee be unable to recommend an acceptable remedy to the grievance, the grievance shall be heard at Step 3 of the Grievance Procedure. The Union may involve an International Health and Safety Representative who may investigate the matter and/or attend the hearing. If still unresolved, the grievance may be taken to arbitration.
+Time spent by the Union's committee members shall be covered under the provisions of Section 5 of the Grievance and Arbitration Procedure Article.
+ARTICLE 14
+LAYOFF AND RECALL
+1.	In the event the University should determine that a layoff is necessary, the University shall have the sole discretion to determine the type, number and location of the jobs to be reduced.
+Indefinite Layoff
+2.	Notice shall be provided in the following manner to employees who have completed the probationary period. A copy of the layoff letter will be sent to the Union.
+a.	In cases of less than ten (10) years of service, employees shall receive written notification within a minimum of thirty (30) calendar days (not including accrued vacation time) prior to the effective date of the layoff.
+b.	In cases of ten (10) or more years of service, employees shall receive written notification of layoff within a minimum of sixty (60) calendar days (not including accrued vacation time) prior to the date of layoff.
+c.	When minimum notification, as described above, is not possible, the employee will receive, in lieu of notice, pay equal to the amount he/ she would have received had notice been possible, in addition to any accrued vacation pay.
+20
+1
+2
+3
+4
+5
+6	3.
+7
+8
+9
+10	4.
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+d.	When employees receive notice of layoff as provided for above, Division of Human Resources will give the employees special assistance throughout the layoff period in identifying other jobs the employees may be able to perform.
+The about to be laid off seniority employee has the option of replacing probationary employees in any classification or department provided he/ she meets the necessary job prerequisites.
+All layoffs shall be initiated at the department level in the following order:
+a.	Employees shall be laid off in line with their seniority in their wage grade and classification within a department, provided the employee(s) to be laid off does not have specialized knowledge or abilities required in the classification which could not be met by the remaining work force.
+b.	An employee laid off under (a) above may displace the least senior employee in a lower wage grade in the same classification within his/ her department, provided the employee who might be displaced does not have specialized knowledge or abilities required in that classification and not possessed by the laid off employee. An employee shall not be required to fill a position with fewer than their present standard hours of work.
+When an employee moves into a new position, that employee shall be placed in their corresponding pay rate within the grade.
+c.	An employee who is laid off in accordance with (a) and/or (b) of the paragraphs above and whose seniority is greater than another employee at the same grade or in a lower grade may make written application during the 30 days immediately following notice of layoff to the Director or Workforce Policy & Labor Relations listing the classifications the employee believes he/she may be able to perform. Such list of classifications shall be considered in the following order:
+•	the least senior employee in the classification and grade from which the employee was laid off
+•	the least senior employee in other classifications at the grade equal to that from which the employee was laid off
+•	the least senior employee in the same classification at a lower grade than that from which the employee was laid off
+- 21 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26	5.
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+•	the least senior employee in other classifications at a lower grade than that from which the employee was laid off
+NOTE: Under the provision of section c. above:
+An employee shall not be required to fill a position with fewer than their present standard hours of work. Contract College employees will not be required to fill an Endowed position and Endowed employees will not be required to fill a Contract College position.
+As soon as possible but within thirty (30) calendar days from receipt of the employee's list, the University shall make the decision as to whether or not the employee is able to perform the work of the listed position either immediately or within one (1) week of appropriate familiarization, and notify him/her. Where the University determines that the employee is able to displace, the employee shall be placed in that position in keeping with the notice requirements of paragraph 2 of thisArticle. By mutual agreement of the parties, the time limits may be extended.
+The parties agree that placement of a qualified laid off employee into an available vacancy is preferable to displacement of another employee. To that end, and in order to avoid displacing another employee, the parties agree that bargaining unit vacancies for which the laid off employee is qualified represent additional employment possibilities for consideration.
+Return to work in formerly held classifications: When the work force increases after a layoff, employees shall be entitled to be placed in openings in accordance with their seniority provided they can perform the work. Employees who have not been returned to the highest rated wage grades and classifications worked in prior to layoff shall be returned to those wage grades and classifications as soon as an opening occurs in line with their seniority. Employees who have been placed in other departments or who have been laid off completely from the University must make a written request to initiate these rights to the Director of Workforce Policy & Labor Relations. Such rights will expire two (2) years from date of layoff. Employees who have been placed at a lower grade within the department from which they were laid off shall have such rights for three (3) years from date of layoff unless the employee fails to exercise his/her right to return to a known vacancy. Employees are presumed to be aware of positions posted in the Career Opportunities Bulletin distributed weekly by the University.
+- 22 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+6.	Whenever an employee returns from layoff to a different wage grade and classification than the job held prior to layoff, the employee shall be placed in their corresponding pay rate within the grade.
+7.	Benefits During Layoff: An employee on layoff is entitled to a continuation of certain benefits for up to one year following the effective date of layoff, or until comparable non-Cornell employment has been accepted, whichever is sooner. The benefits are as follows:
+•	Health Insurance shall continue provided the employee maintains his/ her applicable premium payments.
+•	The basic amount of group life insurance coverage (1/2 the annual base salary) will continue. No employee contribution will be required. If enrolled in the Supplemental Plan, the employee may continue coverage by paying the cost of the insurance in advance.
+•	Cornell Children's Tuition Scholarship benefit will continue for one (1) full academic term.
+•	Accidental Death and Dismemberment benefits will continue provided the employee continues to make the same contributions required of regular full-time and regular part-time employees.
+•	Enrollment or continued participation in the extramural program (up to six (6) credits per semester) for up to one (1) year or until comparable non-Cornell employment is accepted whichever is sooner.
+•	New York State Disability Benefits coverage will continue for a period of four (4) consecutive weeks from the effective date of layoff without any regular contributions.
+8.	Layoff and recall of specified Union representatives and officers:
+The Union shall identify sixteen (16) specified Union representatives and four (4) Union officers (Local Union President, Vice President, Financial Secretary/ Treasurer and Recording Secretary) who shall have preferential seniority. Accordingly, they shall be the last employees to be laid off within their respective classifications at their same grades or lower grades. In the event these specified representatives and officers are on layoff, they will be the first to be recalled to any unit position provided they are able to perform the work.
+It shall be the responsibility of the Union to maintain and update the preferential seniority list and to provide a copy to the Director of Labor Relations at least semi-annually. Only those employees on the preferential seniority list shall be eligible for its conditions.
+- 23 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+Temporary Layoff
+9.	In the event that it is necessary to lay off employees on a temporary basis, not to exceed ninety (90) calendar days, the University shall notify the employees to be affected and the Union. Whenever feasible the University shall provide one week advance written notice for a layoff in excess of thirty (30) days. A copy of the layoff letter will be sent to the Union. Senior employees may request such layoffs. Departments shall have sole discretion in granting such requests. Such requests shall be granted in order of seniority starting with the most senior employee except where specialized knowledge or abilities cannot be met by the remaining work force.
+Temporary Employment - Winter Intersession
+10.	The university agrees to make a good faith effort to locate temporary employment and to work with those employees who are not scheduled to work during the winter intersession who notifies the University in writing that they are seeking employment during this period.
+The representatives of the University agree to meet with the Union prior to the winter intersession period to discuss temporary employment opportunities for employees laid off during this period. Both parties recognize that such opportunities will be limited.
+Employees hired to work in a temporary position during winter intersession shall be paid their regular rate of pay, but no more than the maximum of the applicable bargaining unit wage grade.
+Employees laid off during the winter intersession period in the Department of Campus Life and Statler Hotel may use one day of accrued sick leave during this period as leave with pay.
+ARTICLE 15 PERSONNEL FILES
+Division of Human Resources shall maintain the official personnel file for each employee. The University shall use personnel files for University-related activities. Information from the personnel files shall not be made available to anyone outside the University and shall be held in the strictest confidence unless the employee grants written permission or unless the University is required by law or subpoena, or unless the information in an employee's personnel
+- 24 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+file is requested by the Union in the processing of a grievance, provided that employee's file has relationship to the grievance in question.
+Employees may arrange to examine materials in their personnel file by making an appointment with a representative from Division of Human Resources.
+Where an employee authorizes a representative to obtain information from that employee's personnel file, such representative shall obtain written consent from the employee for each examination of the file and/or copying of any material from that file. The employee's representative shall contact a Workforce Policy & Labor Relations representative of Division of Human Resources, to arrange an appointment to examine the employee's personnel file. Examination of the file shall be done in the presence of a Workforce Policy & Labor Relations representative.All written authorizations to examine an employee's personnel file shall become a part of that file.
+The University shall bill the union or the employee for copying costs when the request exceeds five (5) copies per year per employee.
+ARTICLE 16
+TOOLS
+Employees shall not be required to use their personal hand tools in the performance of their jobs unless they were told of the requirement prior to acceptance of their positions. The University, through the College and/or Department, shall determine the need for, type, number and quality of the hand tool(s) to be used.
+The University reserves the right to require the use of University-provided tools. If an employee loses a University hand tool through negligence, the employee shall be charged the amount of its replacement value. If an employee knowingly damages a University hand tool through misuse, other than normal wear, the employee shall be charged the amount of its replacement value.
+The University shall be liable for lost, stolen or damaged hand tools that are the personal property of employees if the employee has requested to use University hand tools or has received supervisory approval for the use of personal hand tools, unless the employee has failed to exercise reasonable care for those hand tools. In any instance the University's liability for lost, stolen or damaged personal hand tools owned by the employee shall be the amount of their replacement value.
+- 25 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+ARTICLE 17 REQUIRED APPAREL
+The University may establish reasonable rules pertaining to employee dress and may require the wearing of particularized apparel, such as a uniform.
+The University shall provide such required particularized apparel. Employees permitted to wear such clothing off the premises shall be responsible for laundering. Where the employee is not allowed to wear such apparel off the premises, the University shall allow a maximum of five (5) minutes changing time at the beginning and end of each regularly scheduled shift.
+Where employees are required to wash-up, they shall be given a maximum of ten (10) minutes to wash-up and change. Where a work unit has a current practice of an authorized wash-up, such practice shall be continued within the limits set forth in this Article. Extra time may be allotted at the discretion of management.
+The University will make a reasonable monetary reimbursement for clothing rendered useless through unusual or accidental events on the job. The University will not reimburse employees for clothing worn out by normal wear and tear. Each case will be considered on the basis of the circumstances surrounding it. While the decision to determine the application of this provision in each case is the University's, the employee may grieve a denial to the third step of the Grievance Procedure for final disposition by the parties. Such matters shall not be arbitrable.
+Where the use of safety shoes or boots is required by the department and the department chooses not to provide them, the University shall reimburse the employee for the purchase of safety boots or shoes up to one-hundred-twenty-nine dollars ($129.00) per year for year one, and be increased by the Consumer Price Index (CPI) each year for the remainder of the agreement.
+ARTICLE 18
+VEHICLE ALLOWANCE
+It shall be the responsibility of the University to notify an employee prior to hire or prior to appointment to a new position if intermittent or regular access to a personal motor vehicle will be a condition of employment.
+- 26 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+Intermittent Use of Motor Vehicle
+An employee shall be reimbursed for such personal vehicle in accordance with University policy in keeping with IRS regulation. The University reserves the right to verify mileage claims by reading the odometer of the vehicle used by the employee. Any falsification of mileage claims shall subject the employee to disciplinary action.
+Regular Access to Motor Vehicle
+Regular access to motor vehicle is defined as requiring the presence of an employee's personal motor vehicle at the University during the scheduled hours of work and regularly requiring its use in excess of fifty miles per week. An employee using a personal motor vehicle under the regular access category shall be paid a monthly vehicle use allowance of one-hundred-twelve dollars ($112.00) per year for year one, and be increased by the Consumer Price Index (CPI) each year for the remainder of the agreement. Employees who meet the requirements of this paragraph who drive less than 50 miles but more than twenty-five (25) miles per week, shall be paid a monthly vehicle use allowance of Seventy-three dollars ($73.00) per year for year one, and be increased by the Consumer Price Index (CPI) each year for the remainder of the agreement. The monthly allowance shall be reduced by one-fourth (1/4) for each full week not worked within any calendar month. Employees currently receiving a vehicle use allowance shall continue to be paid according to the terms of the provision for Regular Access to Motor Vehicle, so long as one of the two (2) criteria set forth in this provision is maintained. Otherwise the employee shall be reimbursed under the provision for Intermittent Use as set forth above.
+Maintenance Mechanics
+Maintenance Mechanics other than those departments that have a separate sub-council agreement shall be paid a monthly vehicle use allowance bi-weekly when they are regularly required to use their personal motor vehicle in excess of fifty (50) miles per week in the performance of their work duties. The monthly amount shall be one-hundred-six dollars ($106.00) for year one, and be increased by the Consumer Price Index (CPI) each year for the remainder of the agreement. The bi-weekly allowance shall be reduced by one-half (1/2) for each full week not worked within each bi-weekly period
+- 27 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+In all cases where employees are required to use their personal vehicles, such vehicles will be registered with the University and conform with University vehicle and parking regulations. The University reserves the right to provide and require the use of alternate methods of transportation other than personal vehicles.
+All employees required to use their personal vehicle to drive to and from worksites shall be provided with appropriate permits.
+ARTICLE 19
+FLEXIBLE WORKING HOURS
+The University shall consider employee requests for flexible working hours. Departments shall review such requests based upon a department's determination that it would be able to sustain its work flow and/or meet its requirements. While the decision to grant such requests is the University's, the employee may grieve a denial of such a request to the Third Step of the Grievance Procedure for final disposition by the parties.
+ARTICLE 20
+MEAL BREAKS AND REST PERIODS
+Employees who are required to work more than six (6) consecutive hours shall receive one (1) uninterrupted meal break of at least thirty (30) minutes. The meal break shall be taken after the employee has worked a minimum of four (4) hours. The scheduling and length of the meal break not to exceed one (1) hour shall be determined by the department. The meal break shall be taken on the employee's time and is not included in the standard work week.
+All employees will be entitled to thirty (30) minutes of paid rest time during the day. Department heads shall have the authority to establish either one (1) thirty (30) minute rest period, where necessitated by departmental operations, or two (2) fifteen (15) minute rest periods and to determine the scheduling of such period(s).
+An employee shall be entitled to take one fifteen (15) minute paid rest period for each four (4) hours of overtime worked.
+Lunch and rest periods cannot be accumulated.
+28
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+ARTICLE 21
+CONSULTATION ON WORKING CONDITIONS
+Where new or additional equipment affecting employees is required, the University agrees that it will consult the affected employees as early as possible prior to its purchase or rental. Where the University plans major renovation and/or reorganization of the physical plant or where a permanent change is considered in the location of work areas or in work procedures, the University agrees that the affected employees will be consulted as early as possible prior to implementation of those changes. It is understood, consultation refers to the asking of advice or opinion of affected employees in such a manner so they will have a meaningful effect on the decisions made by the University. The employee may grieve the denial of such consultation to Step 3 of the grievance procedure for final disposition by the parties. This article is not arbitrable. Issues affecting health and safety and/or ergonomic considerations in the work place may be brought to the joint health and safety committee.
+ARTICLE 22
+LEAVE OF ABSENCE WITHOUT PAY
+Short-Term Personal Leave
+All regular full-time and part-time employees may be eligible for a short-term personal unpaid leave after completion of their probationary period. Short-term personal leaves may be requested for up to ninety (90) calendar days. The employee's position will be held open for the duration of the short-term leave. The request must state the reason for the leave and the length of leave.
+Requests for short-term personal leaves are granted solely at the discretion of the department. Any request for a short-term personal leave which is denied may be grieved directly to Step 3 of the Grievance Procedure, but shall not be arbitrable.
+Long-Term Personal Leave
+All regular full-time and part-time employees with at least one year of continuous service prior to the date of leave are eligible for a long-term personal unpaid leave of up to a maximum length of one year. The employee's position will not be held open, and there shall be no guarantee of re-employment. However, employees on unpaid long-term leaves of absence may use their seniority to apply for vacant bargaining unit positions in keeping with Article 10.
+- 29 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+Eligible employees may be authorized to take a long-term unpaid personal leave for the following reasons:
+•	Government service (elective office)
+•	Educational purposes
+•	Extended vacation (following five (5) years of University service)
+•	Sickness and disability
+•	Settlement of an estate
+•	Travel to accompany spouse on sabbatic
+•	Domestic responsibilities
+•	Other reasons deemed appropriate by the University
+The employee is required to submit a written request for a long-term unpaid personal leave through the department head to Division of Human Resources stating the reason for the leave and length of leave. The request for a long-term unpaid personal leave must be made at least two (2) weeks in advance of the first day of leave. Whenever employees exhaust their Short-Term Disability Plan benefits and application for Long-Term Disability Plan benefits is still pending, the employee shall be automatically placed on a Long-Term Personal Leave for the interim period up to a maximum of one (1) year.
+Cornell Children's Tuition Scholarship will be continued until the end of the term in which a leave begins, then discontinued until the employee returns to regular University service.
+Requests for unpaid long-term personal leave are granted entirely at the discretion of Division of Human Resources. Denials shall not be unreasonable.
+General Provisions For Short-Term And Long-Term Unpaid Personal Leaves
+Accrued vacation must be exhausted before a long term unpaid personal leave begins. An employee shall not be eligible for sick leave or disability benefits while on an approved unpaid personal leave. Sick leave and vacation will not accrue while an employee is on unpaid personal leave. If the employee returns to active employment at the University within the limits specified by the unpaid leave of absence agreement, sick leave shall be restored to its former level.
+Acceptance of any employment inconsistent with the unpaid leave will result in termination of the unpaid leave and may result in discipline.
+- 30 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+ARTICLE 23
+VOLUNTEER FIREFIGHTER AND EMERGENCY MEDICAL TECHNICIAN LEAVE
+In the event that a volunteer firefighter and/or an Emergency Medical Technician (EMT) associated with a volunteer fire company is called to a working fire or emergency during the employee's actual scheduled working hours, the University shall compensate the employee at the employee's regular straight time hourly rate of pay only for those emergency hours which overlap the employee's scheduled hours. It is expected that the employee shall respond to a fire or medical emergency only when that individual's services are necessary. Whenever possible, the employee shall request to leave from his/her supervisor before departing the work place. The employee shall not depart from work knowing that such departure may cause or contribute to unsafe conditions at the University or damage to University property.
+If after responding to a medical emergency or fire such employee's service or presence is not required, the employee shall immediately return to the employee's work assignment, provided there is time remaining in the employee's shift.
+In the event that a volunteer firefighter and/or an EMT is required to respond to a working fire or emergency during the eight (8) hours immediately preceding the start of the employee's shift, the employee shall receive compensatory time off during the upcoming shift equal to the actual time spent in resolving the emergency or fire. In no event shall the employee receive compensatory time off for any time greater than their shift assignment for that day.
+Any hours compensated under this provision shall be counted as hours paid but shall not apply to any calculations for premium pay, unless otherwise provided by this Agreement. The University shall pay or provide compensatory time off only for time spent when responding to emergency calls or fires.
+The University may designate an employee as exempt from this provision if the nature of the employee's job responsibilities are such that the employee's sudden absence could create hazard or unduly disrupt University business. The University reserves the right to verify any claim or the length of any claim made by an employee under this provision.
+- 31 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+ARTICLE 24
+INCLEMENT WEATHER
+Employees required to report to or remain at work when the University has officially announced a delayed opening, a partial closing, or a University closing for inclement weather shall be paid at a rate of time and one-half (1-1/2) their regular rate for the hours worked when the University is closed and shall also receive compensatory time off for each such hour worked.
+Employees who are not required to report to or remain at work shall be paid at their regular rate for the hours scheduled that day but not worked due to the closing.
+Those employees on approved scheduled vacation or sick leave during such a closing shall be charged leave time, regardless of the weather conditions.
+Employees who are late to work or unable to report to work due to severe weather and travel conditions may charge any such lost time to either accrued personal or vacation leave when the University has remained open, or make up the time within the same workweek at the mutual convenience of the employee and supervisor.
+An employee may request to leave a work assignment early due to severe weather and travel conditions. Such requests shall be honored unless it would cause unreasonable hardship for the University and shall not be charges as an unscheduled absence.
+Public Transportation/Ride Share
+During inclement weather employees utilizing public transportation or a registered ride share arrangement shall not suffer loss of pay or be disciplined if they report to work within one hour of their normal starting time. For purposes of this provision, the definition of inclement weather shall include any such University announcement or a public announcement by a law enforcement agency that an official travel advisory is in effect. Employees may be required to provide proof of such conditions in questionable situations.
+General Provisions
+An employee’s supervisor will take into consideration extraordinary weather conditions in reviewing an employee’s attendance record.
+- 32 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+ARTICLE 25
+VOTING
+Employees who are registered voters may take time off from work with pay in order to vote if polling places are not open four (4) consecutive hours before or after the employee's scheduled work day.
+ARTICLE 26 UNIVERSITY COMMITTEES
+Employees who have been appointed or selected by a person(s) delegated by the University to do so, or elected through an authorized University election, to serve on official University Committees will receive time off with pay during regularly scheduled working hours to serve on such committees. Employees who are appointed or elected to an official University Committee shall notify their supervisors when the appointment or election becomes effective.
+Employee members of official committees who desire time off from work to serve on official committees should notify their immediate supervisor of the meeting. The supervisor will grant time off unless the staffing needs of the department require the employee's presence at that particular time.
+If approved, employees will be paid for release time to serve on official committees during normal working hours.
+ARTICLE 27
+JURY DUTY LEAVE
+An employee called for jury duty will be paid his/her regular rate of pay upon submission of the summons. An employee subpoenaed to appear in court as a witness by the employer or for an employment related matter will be paid his/her regular rate of pay upon submission of the subpoena. The employee should notify his/her supervisor immediately. Employees serving on jury duty are expected to work during normal working hours when excused from court when more than one-half (1/2) day excluding travel time from court remains in his/her work day or unless excused by his/her supervisor.
+An employee who works a schedule other than a normal schedule of Monday through Friday who is selected for Jury Duty may request a temporary schedule change. Such requests will be considered on a case by case basis in keeping with business needs.
+- 33 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+ARTICLE 28 BEREAVEMENT LEAVE
+When a death occurs in an employee's immediate family, the employee shall be allowed up to a maximum of three (3) days off with pay to make funeral arrangements and/or attend the funeral or attend related services. The immediate family consists of the employee's parents, step-parents, grandparents, parents-in-law, brothers-in-law, sisters-in-law, sons-in-law, daughters-in-law, grandchildren, spouse (as defined by University policy), domestic partner, child, step-child, brother or sister.
+For the funeral of other relatives or service as a pallbearer, an employee may be released from work with pay for a maximum of one-half (1/2) day for a local funeral, and one (1) day when the employee would have to drive twenty- five (25) miles or more from the University to attend the funeral.
+Employees may be released with pay for a maximum of one-half (1/2) day to attend the funeral of a fellow employee in the immediate work unit. The University may restrict the number of employees to be released for a fellow employee's funeral. However, serious consideration shall be given to all requests.
+For the death of others not listed above, or, if additional time off is needed during this period, employees may request the use of personal leave, vacation leave or leave without pay in keeping with Articles 31 and 32, respectively. Such requests will not be unreasonably denied.
+ARTICLE 29
+MILITARY SERVICE LEAVE
+Upon application, a military service leave without pay shall be granted to employees who enlist or are drafted into the Armed Forces of the United States.
+Reinstatement and rights after reinstatement are governed by applicable federal laws. Seniority shall accumulate while an employee is on a Military Service Leave.
+- 34 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+ARTICLE 30
+MILITARY TRAINING LEAVE
+Employees who are members of the National Guard, Coast Guard, or U.S. Military Reserve units shall be granted leave with pay for training periods of more than seven (7) days on no more than two (2) occasions in a twelve (12) month period, up to a maximum of thirty (30) days in total in a twelve (12) month period. Vacation or personal leave may be used for military training in excess of thirty (30) days subject to the approval of the department head.
+Whenever possible, the employee shall provide written documentation to the University at least two (2) weeks in advance of the scheduled training, specifying the reason and duration of the military leave.
+ARTICLE 31
+SICK, HEALTH CARE AND PERSONAL LEAVE
+Sick Leave
+Sick leave permits the employee income continuation for time when they are not able to work due to their illnesses. The University reserves the right to establish attendance standards, to require medical verification of employee illness and to discipline employees for abuse of sick leave, including suspension or discharge. The University will engage in discussions with the Union prior to implementing modifications to these standards. Employees shall accrue sick leave as follows:
+•	Sick leave accrual is based on the number of straight time hours paid to an employee during a pay period, at the rate of .04615 hours per hour paid. Sick leave accrual begins immediately upon employment.
+•	If an employee is on a paid leave (for other than vacation) for more than 20 consecutive calendar days, sick leave ceases to accrue. With regard to military leave, determination for accrual shall be based on the Military Training Act. The 20 consecutive days are counted from the first day of absence.
+•	Sick leave accrual shall not exceed a total of seven hundred twenty (720) hours for an employee regularly scheduled to work forty (40) hours per week. All other accruals shall be prorated based upon a forty (40) hour work week.
+- 35 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+Sick leave cannot be taken before it is accrued.
+Sick leave shall be available for only personal employee illness or employee dental or medical appointments which cannot be scheduled outside regular working hours.
+Employees should submit, with as much advance notice as possible, a leave request to their supervisor for routine medical and dental appointments.
+In the event of a medical emergency, the employee's supervisor should be notified as soon as possible. When there is a reason to suspect abuse, supervisors may request a physician's certificate as verification of an employee's illness before approving the payment of sick leave.
+To be eligible to receive sick leave pay employees must abide by the call-in procedure set forth by their individual departments except when failure to notify is due to circumstances beyond the control of the employee.
+Upon return to work from sick leave the University reserves the right to require the employee to submit medical proof of fitness for the resumption of duties.
+On the first day of a job related injury (i.e., workers' compensation), time away from work to receive first aid treatment will be considered leave with pay. However, any other lost time from work on day one will be charged to the employee's sick leave.
+Health Care Leave
+Up to three (3) working days of accumulated sick leave may be taken within each fiscal year in the event that an employee's full attention is necessary to care for a member of the employee's immediate household, or who is a member of the immediate family or a dependent. Immediate family shall be restricted to those relationships identified in Article 28. Regular part-time employees may take the prorated equivalent. Health care leave that is not used by the end of the fiscal year will remain as unused sick leave.
+Where health care leave is used for an emergency, the employee's supervisor must be notified as soon as possible. Health care leave for purposes other than an emergency requires advance permission of the employee's supervisor.
+36
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+Supervisors may require verification of the health care or emergency causing an employee to request use of this leave time.
+Personal Leave
+Up to three (3) working days of accumulated sick leave may be taken for personal reasons or emergencies within each fiscal year. For employees with twenty (20) or more years of continuous service, up to five (5) working days of accumulated sick leave may be taken for personal reasons or emergencies within each fiscal year effective the beginning of the next fiscal year. Regular part-time employees may take the pro-rated equivalent. Personal leave may be taken only if an equal amount of sick leave has accrued. Personal leave that is not used by the end of the fiscal year will remain as unused sick leave.
+Where personal leave is used for an emergency, the employee's supervisor must be notified as soon as possible. Personal leave for purposes other than an emergency requires advance permission of the employee's supervisor.
+Sick leave and personal leave balances are canceled upon termination of the employee and may not be taken as terminal leave. An employee shall not earn or use sick/personal leave when the employee is on an unpaid leave from the University.
+If there is reason to suspect abuse, supervisors may require verification of the personal reason or emergency causing an employee to request use of Personal Leave. Employees may choose to provide verification to their supervisor or a higher level of departmental supervision.
+An employee shall not earn or use personal leave when the employee is on unpaid leave from the University.
+ARTICLE 32 VACATION
+Employees are eligible to use accrued vacation leave after twelve (12) months of continuous service at the University. However, with the supervisor's approval, employees may use accrued vacation after six (6) months. If the employee terminates prior to completing twelve (12) months of service, the amount of vacation paid will be deducted from the employee's final paycheck. Vacation shall accrue for each straight time hour worked, including paid personal leave,
+- 37 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+sick leave, holidays, and vacation, according to the following rates.
+Employees hired prior to July 1, 1994 are entitled to earn vacation under the following schedule:
+Years of Service Completed*	Vacation Earned Per Year	Vacation Factor
+1 -10 10 years	3 weeks	.05769 3 weeks	.06153 plus l day	.06538 per year	.06923 up to 4 weeks	.07307 .07692
+Employees hired on or after July 1, 1994 are entitled to earn vacation under the following schedule:
+Years of Service	Vacation Earned
+Completed*	Per Year	Vacation Factor
+1 - 5	2	weeks 6 - 10	3	weeks 11 or more	3 weeks	plus 1 day per year up to 4 weeks	.03846 .05769 .06153 .06538 .06923 .07307
+.07692
+*Years of Service Completed are based on an employee’s Adjusted Service Date.
+Paid vacation accrual begins on the date of last hire. Employees who transfer into the bargaining unit shall accrue vacation based on their Adjusted Service Date. Changes in accrual rates shall be effective on the anniversary date of last hire. Paid vacation may accrue to a maximum of three hundred and twenty (320) hours or two (2) times the annual accrual rate, whichever is less.
+Employees who do not earn their annual paid vacation accrual may request unpaid vacation leave that is equal to the difference between their actual paid vacation accrual and their annual vacation entitlement. Unpaid vacation leave shall not accrue. All such requests shall be considered by the department in keeping with business needs.
+- 38 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+If a scheduled University holiday falls within an employee's vacation period, the employee shall be given the holiday pay and shall not have to use vacation time for that day. If an employee is on vacation when the University declares an unscheduled day off (e.g., inclement weather) the employee shall continue to use vacation time for that day and will not be given an additional day off.
+Upon termination, an employee shall have a right to receive payment for all unused vacation time, provided the employee has completed at least one year of continuous service.
+When an employee retires, accrued vacation may be paid in normal payroll amounts and cycles until the current and accrued vacation is exhausted otherwise vacation will be paid in a lump sum. Employees who receive vacation pay following retirement will receive holiday pay for all holidays covered under Article 33 of this Agreement which fall within the period.
+Except as provided in Short-Term Disability, vacation time cannot be substituted for sick leave. The supervisor has sole discretion to approve the use of vacation time when employees have exhausted their accrued sick leave.
+Written requests for vacation time off shall be submitted as soon as reasonably possible to the employee's supervisor. The employee shall receive a copy of the approval or rejection within a two (2) week time period. Once approved, the vacation time off cannot be canceled or changed without the agreement of the employee.
+The following procedure applies solely for the purpose of resolving conflicting vacation requests:
+Employee requests for vacation between October 1 and March 31 shall be submitted in writing before September 23. Requests for the period of April 1 through September 30 shall be submitted before March 23. When multiple vacation requests for the same period are simultaneously received, approvals will be granted by length of seniority, with the highest seniority employee given first preference. Approval or denial of requests shall be returned to the employee no later than March 30 or September 30. All requests for vacation shall be considered by the department in keeping with business needs. An exception to this procedure may be made for an employee who must make a financial commitment to specific vacation plans more than four (4) months in advance of the vacation date. Such requests may be approved or denied based on business needs on a first
+- 39 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+come first served basis. The employee may be required to demonstrate such financial commitment.
+An employee’s request for vacation may be based on balances that could accrue after the cutoff dates identified above. Any approval of a vacation request will be contingent on the employee having a sufficient vacation balance at the time vacation is used.
+When an employee has accrued vacation leave and dies, the corresponding payment for such shall be paid to the employee's duly appointed legal representative or any relative the University in its discretion may deem appropriate.
+ARTICLE 33 HOLIDAYS
+The University shall observe the holidays listed below for employees covered by this Agreement:
+•	Memorial Day
+•	Independence Day
+•	Labor Day
+•	Thanksgiving Day
+•	Friday After Thanksgiving Day
+•	Winter Holiday Period
+Each year Division of Human Resources shall announce the specific calendar days on which the holidays shall be observed. Holidays which fall on Saturdays or Sundays shall be designated by the University for observance on a weekday.
+Holiday Pay
+Regular employees who are not scheduled to work on the holiday will be paid for holidays at their regular rate of pay for the employee’s “standard” workday. Standard workday is defined as one-fifth (1/5) of the employee’s regular weekly hours.
+Pay For Holiday Work
+Employees who are required to work on a University holiday will receive pay at time and a half their normal rate for hours actually worked on that holiday plus regular pay for the balance of the hours, if any, not worked
+- 40 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+on that holiday. In addition, the employee shall receive compensatory time off equal to the number of hours worked on that holiday, not to exceed the employee's standard workday. Unused compensatory time will be paid out at the end of the fiscal year.
+At the discretion of the department, after advanced discussion with the employee, employees may receive holiday pay in lieu of holiday compensatory time off. Only time worked in this option shall be used for overtime purposes.
+Eligibility
+To be eligible to receive holiday pay the employee must work the employee's last scheduled work day prior to and the employee's next scheduled workday after a holiday, unless the employee is able to substantiate, in management's judgment, a reasonable cause for absence.
+For each holiday period the employee must work the last scheduled workday prior to each holiday period and the next scheduled workday after each holiday period. Failure to do so shall disqualify the employee for pay for one holiday in the holiday period, unless the employee is able to substantiate, in management's judgment, a reasonable cause for absence.
+The mid-year Intersession shall include the winter holiday period (6 working days).
+When departments or dining units are not completely shut down during the mid-year Intersession period and less than the full complement of employees are scheduled to work, employees may apply to their immediate supervisor for time off during this period and it will be granted, in keeping with operational needs, in order of seniority. Employees who are on temporary layoff during this period may request any unpaid workdays be charged to personal or vacation leave time.
+Laid off employees shall be eligible to receive holiday pay for all of the holidays in the mid-year Intersession period if they meet one of the following:
+1.	They are laid off during the five (5) working days immediately prior to the last day of final exams prior to the start of the mid-year Intersession period.
+2.	They are laid off during the mid-year Intersession period.
+- 41 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+3.	They are recalled from layoff during the mid-year Intersession period.
+4.	They are recalled from layoff within five (5) working days of the first day of regular classes following the termination of the mid-year Intersession period.
+Any employee on a paid leave of absence, excluding long-term disability, shall be paid for any holidays which occur during that leave.
+Any employee who is scheduled to work on a holiday and fails to report to work shall forfeit holiday pay and be subject to disciplinary action, unless the employee is able to substantiate a reasonable cause for absence.
+ARTICLE 34 OTHER BENEFITS
+Endowed Employees
+The University and the Union agree that, during the term of this Agreement, the University will automatically extend to endowed employees covered by this Agreement any adjustments made by the University in the current benefit programs listed below in this paragraph which the University might make for employees not covered by a collective bargaining agreement. In the event of such changes, the University will notify the Union of such changes prior to their implementation:
+•	Group Life Insurance
+•	Accidental Death and Dismemberment Plan
+•	Cornell University Retirement Plan (CURP)
+•	Cornell Tax Deferred Annuity Plan (Voluntary)
+•	Cornell Children's Tuition Scholarship Plan
+•	Cornell Long Term Disability Plan
+•	Cornell Workers' Compensation
+•	Cornell's Short-Term Disability Plan
+•	Cornell Health Care Plan
+•	Employee Tuition and Training Program
+•	Direct Deposit
+•	Sick Leave Conversion for Post-Retirement Health Insurance Coverage
+•	Cornell Break in Service Policy
+•	Employee Assistance Program (EAP)
+•	Holidays
+- 42 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+Vacations
+Bereavement Leave
+Family and Medical Leave Act
+Statutory Employees
+The University and the Union agree that, during the term of this Agreement, the University will automatically extend to Statutory employees covered by this Agreement any adjustments made by the University in the current benefit programs listed below in this paragraph which the University might make for employees not covered by a collective bargaining agreement. In the event of such changes, the University will notify the Union of such changes prior to their implementation.
+•	Group Life Insurance
+•	Accidental Death and Dismemberment Plan
+•	New York State Employees Retirement System Benefits
+•	Tax Deferred Annuity Plan (Voluntary)
+•	Cornell Children's Tuition Scholarship Plan
+•	Long-Term Disability Plan (non-vested employees only)
+•	Workers' Compensation
+•	Cornell's Short-Term Disability Plan
+•	Group Health Insurance:
+•	The Statewide Plan or Group Health Incorporated
+•	Employee Tuition and Training Program
+•	Direct Deposit
+•	Cornell Break in Service Policy
+•	Employee Assistance Program (EAP)
+•	Holidays
+•	Vacations
+•	Bereavement Leave
+•	Family and Medical Leave Act
+ARTICLE 35
+HOURS OF WORK AND OVERTIME
+The University reserves the right to determine and/or amend daily hours of work, weekly work schedules and pay days.
+While the University will make every effort to accommodate an employee's request to be excused, the University reserves the right to require
+- 43 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+employees to work overtime or report on their scheduled hours or days off.
+When feasible departments shall give employees at least one (1) week notice prior to weekly work schedule changes or long-term changes in work location. Except in emergency situations, no schedule shall be changed for any single employee more than three (3) times in a fiscal year to avoid overtime without the employee’s consent. This does not apply to employees who are hired with the understanding that his/her position requires a variable schedule.
+Employees will notify their supervisor if they desire a change in schedule within their department. Where feasible, departments will honor seniority in scheduling within job classification for open positions and will consider schedule change for other positions annually beginning in January 2010. If management cannot accommodate seniority, management will explain the reasons to the employee and the union, and will work with the employee to avert a similar situation in the future.
+Irrespective of the days worked or the number of hours worked in any one day, employees shall be paid for all hours worked in excess of forty (40) hours in any given work week at one and one-half times their regular rate of pay. All hours paid in the work week as defined below shall be counted for the purpose of computing overtime in any work week. There shall be no pyramiding of overtime and/or premium pay.
+Other than during emergency situations, seniority shall be respected when scheduling overtime.
+The work week begins at 12:00 a.m. Thursday and ends at 11:59 p.m. Wednesday. Nothing contained in this Agreement shall be construed as a guarantee of hours of work per day or per week or as a limitation on the right of the University to require overtime.
+Shift Differential
+Employees who are regularly scheduled to work a shift which includes four or more hours between the hours of 6:00 p.m. and 6:00 a.m. shall be paid ninety cents ($.90) per hour. Any employee who is involuntarily assigned to a shift on a temporary basis for three (3) days or more in a week shall be paid this shift differential. Shift differential shall be paid for the following paid leave situations: vacation, holiday, sick, personal family health care leave and bereavement leave.
+- 44 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+Call-Back Pay
+Employees required to return to work after leaving the University's premises following their work shifts shall be paid a minimum of four (4) hours pay.
+In the event an employee is called back a second time within eight (8) hours of leaving work, only actual hours worked during the call-back shall be counted toward the calculation of overtime.
+Employees who report to work on a scheduled workday and are sent home due to a scheduling error on the part of management shall be guaranteed either four (4) hours of work or four (4) hours of pay.
+ARTICLE 36 WAGES
+It is the responsibility of management, the Union and the employee to insure the proper placement of employees in the wage step system.
+When an error of placement or a pay rate comes to the attention of management, the error will be corrected. Retroactivity for an overpayment or an underpayment will be limited to the beginning of the fiscal year in which it was brought to management's attention, except if the error is brought to management's attention in July, the retroactivity may go back to the prior July.
+All employees will be paid in accordance with the instructions indicated on the wage schedules below for the life of the agreement. In addition, in year one of the agreement a Lump Sum Payment was negotiated as outlined below.
+2009-2010 Lump Sum Payment - Effective 07/01/2009
+•	$1,000 gross pay lump sum bonus payment for all employees whose annualized wages are less than $26,000 pro-rated accordingly for eligible part-time staff.
+•	$750 gross pay lump sum bonus payment for all employees whose annualized wages are at least $26,000 and less than $34,200 pro-rated accordingly for eligible part-time staff.
+•	$360 gross pay lump sum bonus payment for all employees whose annualized wages are at least $34,200 or more pro-rated accordingly for eligible part-time staff.
+•	$360 gross pay lump sum bonus payment for all Statler Tipped Service employees.
+- 45 -
+2009-2010 Wage Rate Schedule Effective 07/01/2009
+	Hire Rate	Job Rate	Hire Date
+	Step 1	Step 2	6/30/94 and Prior
+S01	12.13	12.90	15.32
+S02	12.49	13.30	15.86
+S03	12.88	13.70	16.42
+S04	13.26	14.22	17.01
+S05	13.66	14.89	17.57
+S06	14.72	15.46	18.30
+S07	15.57	16.19	19.02
+S08	16.11	16.87	19.83
+S09	16.94	17.67	20.63
+S10	17.77	18.38	21.49
+S11	18.48	19.10	22.39
+S12	19.23	19.86	23.30
+19 For year two (2) of the contract base wages will increase as indicated in 20 the schedule below or will match the increase to base wages of the salary 21	improvement pool for non-exempt, non-bargaining unit employees for the
+22	fiscal year 2010-2011, whichever is higher. If the salary improvement pool
+23 for non-exempt, non-bargaining unit employees is higher the schedule below 24 will change.
+2011-2012 Wage Rate Schedule Effective 07/01/2011
+	Hire Rate	Job Rate	Hire Date
+	Step 1	Step 2	6/30/94 and Prior
+S01	12.74	13.55	16.10
+S02	13.12	13.98	16.67
+S03	13.53	14.39	17.25
+S04	13.94	14.94	17.87
+S05	14.35	15.65	18.46
+S06	15.46	16.24	19.23
+S07	16.36	17.01	19.98
+S08	16.92	17.73	20.84
+S09	17.80	18.56	21.67
+S10	18.67	19.31	22.58
+S11	19.42	20.06	23.53
+S12	20.20	20.87	24.48
+46
+1	For year three (3) of the contract base wages will increase as indicated in
+2	the schedule below or will match the increase to base wages of the salary
+3	improvement pool for non-exempt, non-bargaining unit employees for the
+4	fiscal year 2011-2012, whichever is higher. If the salary improvement pool
+5	for non-exempt, non-bargaining unit employees is higher the schedule below 6 will change.
+2010-2011Wage Rate Schedule Effective 07/01/2010
+	Hire Rate	Job Rate	Hire Date
+	Step 1	Step 2	6/30/94 and Prior
+S01	12.37	13.16	15.63
+S02	12.74	13.57	16.18
+S03	13.14	13.97	16.75
+S04	13.53	14.50	17.35
+S05	13.93	15.19	17.92
+S06	15.01	15.77	18.67
+S07	15.88	16.51	19.40
+S08	16.43	17.21	20.23
+S09	17.28	18.02	21.04
+S10	18.13	18.75	21.92
+S11	18.85	19.48	22.84
+S12	19.61	20.26	23.77
+25	Hire Rate
+26
+27	All new employees in the bargaining unit shall be paid at the Hire Rate.
+28	Employees will move from the Hire Rate to the Job Rate upon completion
+29	of two (2) years of service.
+30
+31	Job Rate
+32
+33	All employees who are currently in the Job Rate or move into the Job Rate from
+34	the Hire Rate will remain at the Job Rate for the duration of this agreement.
+35
+36 Hire Date 6/30/94 and Prior
+37
+38	Employees hired into the bargaining unit prior to and including June 30, 1994
+39 are eligible for this rate. Any employee eligible for this rate shall receive the 40 corresponding rates according to the charts above, or annual increase equal to 41 the increase in each year to the wage schedule, whichever is greater.
+- 47 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+Statler Hotel Wages - Special Classifications
+Cornell University and the UAW agree to the following terms regarding Statler Hotel employees.
+Wages for Tipped Service Employees Hired Before July 1, 1994
+Employees in the tipped service positions listed below, who were hired prior to July 1, 1994, shall receive the contractual general increases for the life of the agreement.
+Grade	Classification	Working Title
+S03	Waitperson	Lead Waitperson
+S04	Food Service Worker	Regent Lounge Bartender
+S04	Food Service Worker	Banquet Captain
+S04	Food Service Worker	Beverage Captain
+Wages for Tipped Service Employees Hired on or After July 1, 1994
+Effective Effective
+Grade	Classification	07/01/2009	07/24/2009
+S02	Waitperson	$7.15	$7.25
+S02	Bellperson	$9.15	$9.25
+S04	Bartender	$7.40	$7.50
+These wages shall not fall below the Federal Minimum Wage, New York State Minimum Wage or the student tipped wage, whichever is highest.
+All Paid Leave Rates shall be at the corresponding Hire Rate or Job Rate based upon the employee’s seniority.
+ARTICLE 37 WORK OUT OF GRADE
+Any employee who is assigned by their supervisor to fill in a higher level position on a temporary basis for more than five (5) working days, will be temporarily paid at the corresponding pay rate for that grade. Any employee reassigned to the same position within twelve (12) months of the previous assignment to the upgraded job will not be subject to the five (5) day waiting period.
+The effective date of any pay increase shall be the beginning of the acting appointment. At the end of the temporary appointment employees shall return
+48
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+to the grade and salary previously held, plus any adjustments to salary that may have occurred in the meantime.
+This provision is not applicable when the job description reflects a fill-in role and the acting appointment is within the scope of such a role.
+This provision is not applicable when an employee is temporarily assigned to work with an employee (not to replace an employee) in a higher grade for the purpose of providing a cross-training and development opportunity. Employees shall not be disciplined for refusing such opportunities.
+ARTICLE 38
+SEPARABILITY
+If any provision or part thereof of this Agreement is found to be invalid or unenforceable by a final decision of a court of law or is in conflict with any applicable federal or state law or regulation, such provision, or part thereof shall be deemed to be deleted from this Agreement. In the event that any provision, or part thereof, of this Agreement is thus rendered inoperative and of no force and effect, the remaining provisions shall, nevertheless, remain in full force and effect.
+ARTICLE 39
+DURATION OF AGREEMENT
+This Agreement shall remain in full force and effect until 11:59 p.m., June 30, 2012 and, thereafter, shall be renewed from year to year unless any party hereto shall notify the other party, in writing, at least sixty (60) days prior to the termination date of this Agreement of its desire to change or modify in any way or terminate this Agreement. Such written notice shall be sent by registered or certified mail to the other party.
+ARTICLE 40
+RECLASSIFICATIONS
+When an employee or group of employees, request a job reclassification review, the employee(s) shall provide in writing the reason for the review to the department. The Union may assist the employee(s) in any stage of this process. The department shall review such request and develop in conjunction with the employee(s) a revised job description if appropriate. Reasonable effort will be made to complete this process within sixty (60) days. The
+- 49 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+department shall forward the request to Division of Human Resources within two (2) weeks of the completion of the job description. Division of Human Resources will conduct a fair and objective review. Employee(s) input shall be sought when appropriate. The employee(s) shall be notified of the results of the review within six (6) months from the initial request.
+For endowed positions which are upgraded, the employees' pay shall be retroactive to the beginning of the pay period following receipt of the request by Division of Human Resources and in no event more than sixty (60) days after the department’s receipt of the employees written request. For statutory positions which are upgraded, the employees' pay shall be effective in accordance with established statutory procedures.
+If the employee(s) wishes to appeal the results of the decision the employee(s) may forward an appeal of such decision with written justification through his or her department to Division of Human Resources. Such appeal shall be processed in accordance with the established Compensation appeals procedure. It is understood that when an existing job is upgraded or reclassified, the employee(s) holding that position shall remain in that revised position. Reviews may not be requested more than once a year unless job duties or responsibilities have changed.
+ARTICLE 41
+WORK PRIORITIES
+When work priorities change significantly, supervisors should discuss these changes with the affected employee (s). If the employee (s) has questions regarding work priorities, the employee (s) is encouraged to discuss those questions with the supervisor. The employee may grieve the denial of such discussion to Step 3 of the grievance procedure for final disposition by the parties. This article is not arbitrable.
+50
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+ARTICLE 42 AGREEMENT
+This Agreement is entered into this 13th day of July, 2009 by and between Cornell University (herein referred to as the University) and the Cornell Service and Maintenance Unit, Local 2300 of the International Union, United Automobile, Aerospace and Agricultural Implement Workers of America, UAW (herein referred to as the Union).
+In witness whereof, the parties hereto have executed this Agreement this 13th day of July, 2009.
+Cornell University
+Service and Maintenance Bargaining Unit
+- 51 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+Letter of Understanding A Agricultural Seasonal Employees
+Except for the provisions of Article 14, Layoff and Recall, employees hired to work in an agricultural seasonal position for a period of more than six (6) months are subject to the provisions of the agreement reached between Cornell University and the United Auto Workers. The employee's service will be terminated at the end of the seasonal employment.
+For purposes of seeking other bargaining unit work, prior to or following termination, and for purposes of placement in the wage step system while in Plantations, the employee shall have seniority equal to the total time worked in that seasonal position. This seniority shall be frozen for a period equal to the length of the last period of seasonal employment.
+Seasonal employees at Cornell Plantations are eligible to use accrued vacation leave after twelve (12) months of service at Cornell Plantations. Service does not need to be continuous but should be in blocks of at least six (6) months. With the supervisor's approval, after six (6) months of service employees may begin to use accrued vacation during the 2nd season of employment. If the employee terminates prior to completing twelve (12) months of service, the amount of vacation already paid will be deducted from the employees final paycheck.
+Vacation time shall accrue according to the UAW contract.
+Accrued vacation time may only be used during the employees scheduled employment period. Vacation time may not be used to extend the employment period past the scheduled termination date. If the employee terminates after twelve (12) months of service but prior to the scheduled end of the season, accrued vacation time will be paid through the end of the season or until vacation accrual is exhausted, whichever comes first.
+If vacation time is not used up at the end of the season it may be carried forward to the next year's seasonal employment period at Cornell Plantations. If the employee does not return to Cornell Plantations the following year any accrued vacation time is lost.
+This policy will take effect with the 1991 season and will apply to anyone who returned from the 1990 season and is working for Cornell Plantations in 1991.
+- 52 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+Letter of Understanding B
+Cornell University and the UAW agree to the following:
+1.	Health Insurance
+The University agrees that during the life of the Benefits Advisory Committee, the Union shall have a representative on such committee.
+The University agrees to continue to pay no less than 90% of the cost of single coverage and 60% of the cost of family coverage for endowed employees. The employee shall be responsible for the remainder.
+2.	Joint Benefits Education Committee
+The University is committed to educating its employees about their available benefits, the scope and coverage of the various plans and in processing claims. To that end, the University and the Union shall form a Joint Benefits Education Committee whose purpose shall be the design of a program that will accomplish the foregoing goals. Thereafter, the University will arrange at least annually group meetings with employees to present the jointly designed education program, and make University Benefit Consultants available to individual employees on an appointment and/or scheduled drop-in visit basis.
+3.	Cornell/UAW Benefits and Education Representative
+General Statement
+The Union and the University agree to the continuation of the position “Cornell/UAW Benefits and Education Representative.” A selected UAW representative will be provided unpaid time away from work in keeping with Article 8, Union Representation, to act as a benefits liaison. The liaison role will be to educate and assist UAW-represented employees in understanding and utilizing their contractual benefits. Paid time away from work will periodically be provided to fulfill jointly agreed upon responsibilities and to attend BenefitsAdvisory Committee meetings when the time cuts across this employee’s normal work schedule.
+- 53 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38	4.
+39
+40
+41
+Liaison Role
+•	Become acquainted with Benefits staff and their roles
+•	Refer employees to appropriate benefits staff
+•	May attend meetings, upon employee request, with benefits staff to assist in communication
+•	May attend portion of WTC program, when appropriate, with UAW members in attendance
+•	May assist employees in completion and processing of forms in conjunction with Benefits staff
+•	Represent the UAW on the Benefits Advisory Committee and any other joint benefits ventures
+•	Identify communication needs specific to UAW-represented employees
+•	Assist in addressing specific needs of employees for benefits education programs
+•	Serve as a liaison in marketing the importance of attending education and consultation sessions regarding benefits
+•	The Benefits Liaison shall meet on an as needed basis with the disability case managers to review disability cases and return to work issues. The University agrees to meet with the Union and benefits representative upon request to review extended workers’ compensation and disability cases. Based on employment eligibility and business needs, the employee’s position may be held open for a reasonable period of time beyond six (6) months. Continuation of benefits will be determined by university policy and applicable law.
+Notes
+•	It is not the intent of the liaison role to advise or act as a consultant to the University benefits staff or the UAW-represented employees in the selection of benefit options.
+•	The University shall continue to fund a paid (including all benefits) fulltime Benefits Representative. The Benefits Representative will report to the Vice President for Human Resources or designee. Both parties must agree on the selection of the individual to fill this role.
+Career Development
+Three representatives from the University and three representatives from the Union shall meet regularly for purposes of establishing objectives and
+- 54 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+goals as they relate to career opportunities and job training for employees. The University and the Union, for example shall work together to identify existing job families and to better communicate their prerequisite qualifications through job profiles to assist employees with career mobility.
+The parties agree to jointly indentify individuals and jointly educate staff to encourage participation in the Provisional Employment features of Article 10, Filling Job Vacancies.
+5.	Parking
+Consistent with the parking regulations for all employees on the Ithaca Campus, a free parking area will be provided for the term of the agreement. Campus bus service which is currently free of charge for employees with valid identification shall remain free of charge. The University will notify the Union of any proposed changes in the parking plan and upon the Union's request, will negotiate such changes prior to their implementation. The union shall have a position on the University Assembly Transportation Advisory Committee.
+6.	Labor/Management Commitment to Education
+The University and the Union agree that training, continuous education, and development of employees is of mutual benefit to the individual and the University.
+In keeping with University policies, employees are encouraged to participate in educational programs including jointly planned labor/management initiatives.
+Paid release time will be provided for jointly sponsored labor/management programs with the approval of the department.
+7.	Job Security
+Employees who are indefinitely reduced from full-time to part-time status for more than ninety (90) days in one contract year shall be eligible to opt for layoff and will be provided the provisions of Article 14, Layoff and Recall.
+The parties agree to meet approximately eighteen (18) months into the contract to discuss job security issues.
+- 55 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+8.	Letters of Understanding and the Sub-Council Agreements are subject to the provisions of Article 11, Grievance and Arbitration.
+9.	When the University is considering outsourcing work or contracting outside vendors to perform non-incidental work or services that would otherwise be bargaining unit work that may result in the layoff of a bargaining unit employee, the union will be informed of the pending decision and a joint UAW/Management meeting shall be convened. In the meeting, the parties will attempt to find reasonable alternatives in order to keep work in-house. Management will provide the Union with specific reasons for the contemplation of outsourcing in advance of the meeting. If the parties jointly deem it practical, a third party may be utilized to assist in proposing means to enhance the feasibility of retaining the work.
+When the University is considering outsourcing work or contracting outside vendors to perform non-incidental work or services that would otherwise be bargaining unit work that does not result in a layoff of a bargaining unit employee, the University will make its best effort to inform the Union of the pending decision and the university will meet with the union upon request.
+The University’s final decision shall not be subject to the grievance and arbitration provisions in the collective bargaining agreement.
+10.	Full-Time University Compensated Un-Elected Positions
+It is agreed and understood that University compensated full-time bargaining unit appointed positions shall be nominated by the Local Union and must be approved by both the University and the International Union. It is also understood that employees occupying these positions shall serve subject to the continuing approval of both the University and the International Union. Employees resigning or removed from appointed positions will be returned to his/her department to the classification and grade last held by the employee, bumping the least senior University employee in that classification and grade. Employees will be compensated at the corresponding pay for the classification and grade they last occupied including any and all negotiated increases.
+•	The University agrees to fund a full-time peer counselor position.
+•	The University agrees to fund the president’s position
+- 56 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+11.	The University agrees to provide eighty (80) hours of paid release time per year for Zone Representatives for joint training opportunities, problem solving and grievance prevention.
+12.	Omnibus Transportation Employee Testing Act Policy
+1.	Change Section IV, Random Testing, of the above policy as follows:
+Characteristics of Random Alcohol Testing
+The number of safety-sensitive employees randomly selected for alcohol testing during the calendar year shall be equal to a minimum percentage rate of fifty percent (50%) of the total number of covered employees subject to alcohol testing.
+2.	Change Section II, Reasonable Suspicion Testing, Section III, PostAccident Testing, Section IV, Random Testing and Section V, Return to Duty, to reflect the following:
+Any safety-sensitive employees who tests positive for drugs or who undergoes breath alcohol testing which results in an alcohol concentration of .04 or greater as a result of a reasonable suspicion, post-accident or random test shall be immediately and permanently removed from their safety-sensitive position.
+Any Safety-sensitive employee who undergoes breath alcohol testing which results in an alcohol concentration between .02 and .04 shall immediately be removed from the safety-sensitive function and shall be evaluated by a Substance Abuse Professional (SAP). Such employee shall be subject to Section V, Return to Duty Testing and Section VI, Follow-up Testing.
+13.	Quarterly Meetings with Sr. Management
+The Vice President for Human Resources, the Director of Workforce Policy & Labor Relations, the UAW Local 2300 President, UAW Benefits Representative and UAW International Representative shall meet quarterly to discuss labor, training and other issues that may affect the employer/ employee relationship. At one of the quarterly meetings, up to 5 Union Representatives and appropriate Human Resource Departmental Representatives, who have knowledge of the agenda issues, may attend. It is
+- 57 -
+1
+2
+3
+4
+5
+6	14.
+7
+8
+9
+10
+11	15.
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+agreed that agenda issues will have been discussed at the department or college level prior to this quarterly meeting. The parties will endeavor to exchange items five (5) days in advance of the meeting. However, failure to include an issue will not preclude discussion of that issue.
+Job Descriptions
+At the time of hire, and upon request thereafter, employees will be provided with their current job description.
+CU/UAW Joint Sustainable Employment Committee (CU/UAW JSEC)
+During 2009 contractual negotiations the parties agreed to the formation of a Joint Sustainable Employment Committee (JSEC) immediately upon ratification of this agreement. The JSEC shall be charged with the exploration and development of a sustainable fuller employment for full-time Dining employees. Toward this end the JSEC will present proposals to Cornell administration to assist in the accomplishment of this objective.
+Goals:
+•	To provide sustainable fuller summer employment for regular Dining employees at their regular total weekly hours of work;
+•	Dining will use attrition whenever possible instead of involuntary job loss to restructure the Dining workforce;
+•	While we recognize that it will take time to restructure the dining work force, the committee is charged with providing a plan of action within nine months.
+•	The parties recognize and accept the following:
+•	Fuller sustained employment positions are important to Dining and the Union
+•	Business needs for Dining must be accommodated in any plan;
+•	Summer, Intercession, Fall and Spring breaks are down times for Dining;
+•	Student employment, temporary and contracted employees are integral to Dining.
+The JSEC shall consist of no less than 8 members, 4 from the Union and 4 from the University administration.
+58
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+16.Establishment and Co-Sponsorship Apprenticeship Program
+During the 2009 contractual negotiations the parties discussed and have agreed to the formulation of a Joint Apprentice Committee (JAC) immediately upon ratification of this agreement.
+The JAC shall consist of no less than six (6) members, three (3) shall be representatives of the University administration three (3) shall be Skilled Trades members of the United Automobile, Aerospace and Agricultural Implement Workers of America (UAW) Local Union 2300 bargaining unit.
+The JAC shall be charged with the exploration and, if feasible, the development and registration of a U.S. Department of Labor-Office of Apprenticeship training program under the guidelines of Title 29 CFR part 29 apprenticeship training.
+As a condition of creating the JAC, the UAW agrees to meet with the Tompkins-Cortland Counties Building Trades Council, Maintenance Division (BTC) and the University to resolve jurisdictional issues between the BTC and the UAW.
+Letter of Understanding C Sub Council Agreements
+Campus Life
+• Summer Scheduling
+Cornell Dining experiences shutdowns and reduced service during the summer period that affects employee schedules.
+The representatives of the University agree to meet with the Union prior to the summer period to discuss temporary employment opportunities for employees laid off during this period. Both parties recognize that such opportunities will be limited. The representatives of the University also agree to meet with the Union at the end of the summer period to review the summer scheduling process.
+a.	Employees whose services are not required during the summer intersession will be laid off in line with their seniority within
+- 59 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+their work unit provided the remaining employees are able to perform the work.
+b.	Employees who desire to work in a temporary position at the University during this period must make that desire known, through Dining, to the Division of Human Resources to the Recruitment and Employment Center in the Division of Human Resources. Employees will be asked to make their interest known in writing, using a form that Dining provides to each employee during the summer scheduling process. The Recruitment and Employment Center shall match laid off employees to available assignments considering seniority, current classification and grade and the ability to perform the work. The University will make every effort to locate temporary employment for those affected employees. Employees hired to work in a temporary position shall be paid their regular rate of pay, but no more than the maximum of the applicable bargaining unit wage grade.
+c.	Employees working in a temporary position at the University during this period, who have available vacation and sick hours and who request and are granted time off with pay, will be paid at their regular rate of pay.
+d.	Employees who are in temporary positions who are not required to work on a holiday will be paid at the rate of pay the employee is receiving in the temporary position. Benefits listed in Articles 31 and 34 will continue to accrue during temporary employment. Employees will be recalled to work in their regular work unit and classification in line with seniority, provided the employees are available for work at the time of the need and are able to perform the work. In order to be recalled, employees who have requested vacation during unscheduled work periods must inform their departments of their availability for work.
+e.	Employees who are hired to work in temporary positions are working in non-bargaining unit positions as defined in Article I, Recognition.
+f.	Scheduling procedure in Dining:
+Step 1: Dining will offer schedules to 20-year employees based on position respecting seniority.
+- 60 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+Step 2: Dining will offer schedules to employees by position within their home unit respecting seniority.
+Step 3: Dining will offer schedules to employees by position in dining respecting seniority.
+g.	Temporary employment in housekeeping
+Referral to Housekeeping for temporary summer employment will be offered within the scheduling procedure above.
+Employees will be offered schedules respecting seniority and based on their availability for work.
+h.	Release from summer employment
+Dining will consider employee requests for early release from their home unit to accept other temporary employment on a case-by-case basis.
+An employee may request summer layoff.
+If an employee accepts a summer schedule with dining or housekeeping, the employee shall submit a written request for release from that schedule to Campus Life Human Resources for approval.
+i.	Employees on disability or workers’ compensation leave
+If an employee is released from disability or workers’ compensation leave, the employee shall provide the department one week’s notice of availability to return to work. The employee will be returned to his/her position if available. If an employee’s position is not available, the employee will be placed on summer layoff.
+•	Dining recognizes the Union’s concern in regard to preserving 12-month positions. Dining agrees to discuss this issue at the regularly scheduled joint labor/management meetings.
+•	Campus Life Footwear: The Union and representative of the Department of Campus Life shall meet to discuss footwear
+- 61 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+for campus life employees. If the department chooses not to provide the footwear or the employee chooses to purchase their own footwear the employee shall be reimbursed eighty-one dollars ($81) per year for year one, and be increased by the Consumer Price Index (CPI) each year for the remainder of the agreement.
+Building Care
+•	Barring major changes in business needs, the department agrees to maintain a minimum of 214 full-time employees.
+•	The department shall continue to hire temporary employees as one method of filling-in for absent employees. It is in the interest of both parties to fill temporary positions in as timely a manner as possible.
+•	Officially, there will not be a 4 a.m shift, but periodically, managers may authorize individuals to start their shifts at 4 a.m., or at other times, as needed on a temporary basis.
+•	Part time employees will be offered full time positions as they arise based on seniority. A part time employee who declines an offer for full time will indicate (using written dept. form) if they choose to move to the bottom of the seniority list or be removed from the list altogether. However, employees may elect to remain in their current division (contract college or endowed) and turn down a full time offer for the other division, and not lose their spot on the seniority list, in order to wait for an opening in their current division. At that point, the employee will be placed in the next available full time position. This placement may result in a different work location for the employee.
+•	The department agrees to notify the union president via telephone of any probation extensions before a decision is made.
+•	When a full time need exists on a temporary basis, a reasonable effort will be made to place a regular part time employee in good standing in the same building into such temporary need based on seniority, prior to offering the hours to a temporary employee.
+•	As discussed and clarified at sub council meetings, employees will be compensated for function set-up and tear-down duties in keeping with current practice.
+- 62 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+•	If a current full time employee wishes to become part time, such request will be granted. However the employee may be assigned to a different work location. The change in appointment to part time status shall be in effect for a minimum of one (1) year. Exceptions to this shall be considered on a case-by-case basis, e.g., loss of day care, employee or family illness, etc and will be granted when possible. If the employee wishes to return to full time status, the request must be submitted in writing to the supervisor. The employee will be placed in the next available full time position. This may also result in placement for the employee in a different work location. The employee may elect to stay in the same division (i.e. contract colleges or endowed).
+•	Bulletin boards are provided at all time clocks and the parties agree to jointly monitor the material on the boards. It is agreed that all postings shall be dated to indicate the "life" of such postings and that once the date expires the posting may be removed. If there is a question as to the "life" of a posting, the supervisor and steward shall discuss it prior to its removal.
+•	Building Care will provide a clock list to the Union on a semi-annual basis unless otherwise requested by the UAW.
+•	Efforts will be made by the Union to schedule union business leave to straddle the break or lunch period.
+•	The Building Care managers agree to give as much notice as possible to employees who are moved to a different area. Additionally, the department agreed to communicate the reasons for a move to a different area whenever possible. Temporary or lower senior employees, when possible, will typically be first to regularly be assigned to another area. The department will also give consideration to employee requests to remain in an assigned area or be moved to another area. However, Building Care must retain the right to reassign employees to meet the needs of a large service department.
+•	Building Care’s current policy is that our more relaxed policy (shorts permitted) is in effect between the end of reunion weekend and the start of Fall classes. There have and will be occasions of unusually hot weather in the Spring and Fall when we will make an exception to this policy. Employees may bring shorts to work on days when it is expected to be hot and will be allowed to change into them if Manage
+- 63 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+ment deems it appropriate. Employees shall not be sent home for an initial violation of the Building Care’s dress code unless such violation is of a serious nature.
+•	Building Overtime - Building overtime, other than special assignments and emergency situations, shall be assigned for business efficiency reasons, to the person who is regularly assigned to work the floor where the overtime is available. If that person is unavailable, such assignment shall be rotated by seniority within that building. If additional employees are needed to work the building assignment, the department shall offer the overtime to other employees in that building on a rotating basis by seniority.
+•	Complex Overtime and Departmental Overtime - The department has then agreed to create the following overtime assignment lists: one for each complex and one for the entire department. When special assignment overtime work is available within a complex, names will be selected first from the complex list in which overtime is available. If no one is interested the department wide list shall be used. The initial lists shall be developed based on seniority and if you accept overtime, or if you are asked and reject the overtime, your name moves to the bottom of the list. Each manager shall maintain his/her own complex list. The department list shall be maintained centrally. Every six months, all Care of Buildings employees will be asked whether they are willing to work overtime and the lists will be updated accordingly. As new names are added to the lists they shall be slotted in order of seniority into the existing list without disrupting the rotation.
+•	Building Care retains the right to assign head custodians to overtime assignments only when a lead person is needed, as determined by the department.
+•	It is agreed that for planned overtime projects in a particular complex, the department may post a sign-up sheet at each clock for employees with an interest in the overtime assignment to sign. This is in lieu of the department asking each employee in the complex if they have an interest in the overtime assignment. For overtime assignments in Barton Hall or department-wide, the department will continue to distribute a signup list for all employees every six (6) months. Employees who refuse overtime assignments, do not show up or are late two (2) times during a six (6) month period will be dropped from the overtime list.
+- 64 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+•	The department will continue to provide slip resistant boots to those employees who are required to maintain swimming pools, showers, locker rooms and employees required to strip floors. The department will consider recommendations for other types of slip resistant boots.
+Statler Hotel
+•	For the purpose of fostering good communications, we agree to conduct quarterly meetings of a small group of bargaining unit employees representing each of the Statler departments with the Hotel School’s Director of Human Resources and other invited Statler managers. The UAW will contact the Statler HR office to schedule these meetings.
+•	The Statler will provide ongoing diversity/inclusiveness and health/ safety training and programming.
+•	When bargaining unit employees must be called in on a day that they had not been scheduled to work, the supervisor shall start with the senior-most employee in the job title/grade, proceeding through the list in order of seniority.
+•	Subject to availability and non-peak times, Statler Hotel bargaining unit employees may receive a ten percent (10%) discount on guest rooms, banquet functions and dinner/brunch in Banfi’s Restaurant. The Statler employee may extend this discount to his/her immediate family (parents and children), but the Statler employee must make the room reservation and be present for the food & beverage functions.
+•	Statler Housekeeping room attendants are typically assigned 14 room credits per 8-hour work shift. A Tower Suite with two bathrooms will count as two credits. If someone calls off work, a room attendant might be assigned 15 room credits. Fewer rooms are assigned to room attendants who have to travel several floors to complete their rooms; or, they are assigned less “checkouts” and more “stay-overs”. Room attendants who are able to clean more than 15 room credits up to Statler Standards in an 8-hour work shift will be paid an additional five dollars ($5.00) per room credit for each room credit over 15.
+•	The Statler will provide for or subsidize the expense (up to $57) of one pair of Statler-approved work shoes per year for our bargaining unit Housekeeping and Food & Beverage employees. This amount
+- 65 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+shall increase by the Consumer Price Index (CPI) each year for the remainder of the agreement.
+Plantations
+•	Clothing & Outer Wear Allowance: All full-time and seasonal Plantations staff who are members of the collective bargaining unit will be provided with a clothing and shoe allowance of three-hundred-three dollars ($303) per year payable through the payroll system after the employee has completed probation. This total allowance shall be increased in subsequent contract years by the rate of inflation as determined by the CPI.
+•	Uniforms: Plantations will contract with the University's preferred uniform supplier to provide vehicle mechanics with the standard package of 5 clean mechanic uniforms per week.
+•	Grandfather Clause for Seasonal Terminations: Most Plantations seasonal staff are now employed on an "8+4" basis (8 months of fulltime work; 4 month of part-time work). This practice was developed at the request of the seasonal staff to ensure that year-round work could provide for year-round income, and that critical benefits coverage could be maintained year-round without interruption. Seasonal staff hired prior to January 1, 1999, may request to return permanently to the prior practice of being terminated after 10 months of full-time seasonal employment. Staff exercising this "grandfather clause" option must make this request in writing to the supervisor by September 1 of the year in which the permanent schedule change will occur. Subsequently, these staff will be provided with one opportunity to convert back permanently to the standard 8+4 schedule. Again, a request to convert back to the standard 8+4 schedule must be submitted in writing to the supervisor by September 1 of the year in which the schedule change will occur. However, it is important to note that once the conversation back to the standard 8+4 scheduled is granted, that staff member is no longer covered by this grandfather clause and may not request for a second time to be returned to the prior practice of working 10 months full-time followed by termination.
+•	New employees will retain their original date of hire, irrespective of seasonal layoff.
+- 66 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+•	If Plantations has a need to reduce staff during seasonal employment, employees shall be given a minimum of 14 calendar days notice or pay in lieu of notice.
+•	Employees who are terminated or laid off at the end of a season are not eligible for continued health Insurance coverage other than those benefits covered under COBRA.
+•	The Union agrees to allow Plantations to waive posting in those situations where employees are returning to the same grade and classification in subsequent seasons. However, all parties recognize that certain University procedures, such as waiver of posting policy, must be met.
+Mechanical Shop
+•	All mechanics who use their personal vehicles for related matters shall receive one-hundred-fifty-one dollars ($151) bi-weekly during the first year of this contract and this allowance will increase by the CPI for the following three years.
+•	Clothing/Shoe allowance: the department agrees to provide clothing and shoe allowance of three-hundred-twenty-five dollars ($325) during the first year of the contract, and this allowance will increase by the CPI for the following three years.
+•	Shift differential: all regular scheduled employees who work on weekends (6:00 PM Friday till 6:00 AM Monday) will be paid the following allowance: Employees scheduled to work four or more hours between the hours of 6:00 PM and 6:00 AM will get $1.72 an hour increase in pay. Any employee who works during the hours of 6:00 AM till 6:00 PM will receive $1.06 an hour increase. Employees who regularly work a shift from 6:00 AM Monday thru 6:00 PM Friday, which includes four or more hours between the hours of 6:00 PM and 6:00 AM, shall be paid an additional $1.06 an hour. These differentials will remain in effect for the duration of the agreement. If an employee receives this shift differential, then they will not be eligible for the shift differential which is covered under Article 35 of their contract. Management will entertain suggestions from the Union to change the present method of scheduling shift employees.
+- 67 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+•	The UAW and Management will work toward an agreement on implementing an apprenticeship program that will give guidelines so an employee will receive the pay for the grade he is working. This program will give SO10 pay for any SO08’s that have completed the program.
+•	When there is a business need to fill an SO10 and there are qualified SO08’s available to apply, the parties agree to discuss the waiving of posting for such internal shop candidates in keeping with Article 10, Filling Job Vacancies.
+•	All job descriptions may be submitted for review under the provision of Article 40, Reclassifications.
+•	Management will review the duties as they are currently being performed by the acting SO-12 Maintenance Mechanic. If management decides there is a continuing need for the position, it will be posted and filled.
+Grounds
+•	Full time employees shall be provided with a clothing and shoe allowance of two-hundred-seventy-five dollars ($275) after they have completed probation. Employees who do not choose to accept the coveralls provided by the department shall be paid two-hundred-ninety-seven dollars ($297). This allowance shall be increased in subsequent contract years by the rate of inflation as determined by the CPI.
+•	Asphalt Worker Shoe Allowance: A shoe allowance for the purchase of flat-soled, rubber safety sneakers or shoes will be made to full time employees of our construction crew who, as determined by our Construction Manager, are designated to be regularly engaged in asphalt paving work causing premature demise of their work shoes. This shoe allowance will be three-hundred-fourteen dollars ($314) for the first year of the contract and will be adjusted for inflation by the CPI in subsequent contract years. Full time employees who have assignment changes eliminating their regular asphalt paving duties will receive the allowance indicated in bullet #1. Full time staff who are newly assigned to begin regular asphalt paving duties in subsequent contract years will receive the difference between their current allowance (under bullet #1) and the asphalt worker allowance.
+68
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+•	Overtime After Eight (8) Hours: For emergency situations other than snow, employees who are called in after 11:00 P.M prior to a normal workday may choose to do one of the following if they work five (5) or more hours:
+•	Work for up to four (4) hours in their next scheduled shift
+•	Work for up to four (4) hours in their next scheduled shift and supplement the remaining hours in that shift with personal time or vacation accruals.
+•	Leave after the emergency leave is over and use personal leave or vacation accruals to cover the hours remaining in their next scheduled shift.
+•	Management will post any second shift (3:00 - 11:30 PM) schedule as of September 1st. Qualified employees will be eligible to bid on this shift based on seniority. Criteria will be established to more specifically define qualifications for working on this shift.
+•	Grounds employees who work four (4) or more hours between the hours of 6 PM and 6 AM shall receive the negotiated shift differential as described in Article 35, Hours of Work and Overtime.
+Harford Teaching & Research Center
+•	Employees working at the Harford Teaching and Research Center shall receive combined clothing and shoe allowance of three-hundred-twenty-five dollars ($325) for year one of the agreement. This allowance shall be increased in subsequent contract years by the rate of inflation as determined by the CPI.
+•	The negotiated clothing allowance will be added to the employee's regular paycheck and taxed accordingly. This allowance will be issued by the middle of August of each contract year.
+•	Employees may choose to reduce the tax implication by adjusting their W-4 form for the pay period in which the allowance is included in their regular check.
+•	Employees may shop for clothing and shoes anywhere they choose.
+•	Leather steel toed or non-metallic protective toe shoes are required but
+- 69 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+employees have the choice in style. Steel or non-metallic protective toe boots that are designed to be worn without shoes are also acceptable.
+•	All available non-emergency overtime work will be posted and allocated based on seniority regardless of shift.
+CU Hospitals for Animals - Staff Coverage Procedures for Equine Farm Animal Hospital and Companion Animal Hospital
+Procedures:
+1.	Staffing Coverage
+Background - The Cornell University Hospital for Animals consists of several 24/7 units, which requires coverage 24 hours a day, 7 days a week by staff who support those units. To meet expectations of superior patient care, animal care staff may be asked to work weekends, holidays, or other shifts/days normally scheduled off in order to meet business/staffing needs.
+a.	All regular union staff members will be on a rotation list, which will be based on seniority. The animal care supervisor is responsible for maintaining the rotation list.
+• Two separate rotation lists will be maintained. One for holidays and one for regular (non-holiday) work days (Monday through Sunday).
+b.	Individuals providing staffing coverage will receive the option of selecting either: a.) pay for the time worked or b.) time off (equivalent to the hours worked) within the same pay week.
+• The staff member covering the shift will receive overtime pay if the total hours worked during that pay week exceed 40 hours.
+2.	Rotation Process
+a.	Union staff members will rotate on the list based on seniority. The initial list established will begin with the most senior union staff member and continue with the remaining staff members in order by seniority.
+ii.	Should a staff member decline, the next staff member on the list will be offered the opportunity to work. The staff member who declined will be moved to the bottom of the list and contacted the next time the list rotates back to his/her name.
+• Staff members have the right to refuse/decline the request to provide staff coverage.
+70
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+iii.	If the scheduling effort is being done by phone, a no answer or busy signal equates to “not available” and the next staff member on the list will be called. The list will be noted that the attempt to contact was made. The staff member who was not available will be moved to the bottom of the list and contacted the next time the list rotates back to his/her name.
+iv.	Continue down the list until required staffing is obtained.
+v.	After required staffing is obtained, the next person on the list becomes the first person called for the next rotation process to cover staffing needs.
+vi.	Casuals or temporary staff will be contacted only after exhausting all regular staff members on the rotation list.
+b.	In the event that staff coverage becomes mandatory as a result of all staff declining the request to provide coverage, the least senior union staff member will be required to provide coverage. In this case, the individual will receive the option of selecting either: a.) pay for the time worked or b.) time off (equivalent to the hours worked) within the same pay week.
+i.	The staff member covering the shift will receive overtime pay if the total hours worked during that pay week exceed 40 hours.
+APPENDIX A CLASSIFICATIONS
+Animal Attendant
+Animal Science, Athletics, CARE, CU Hospital for Animals, Psychology, Vet Clinical Sciences
+Baker
+Campus Life, Statler Hotel and Conference Center
+Bellperson
+Statler Hotel and Conference Center
+Boat Rigger
+Athletics
+Bus Driver
+CU Transit
+- 71 -
+Clinic Aide
+CU Hospital for Animals
+Cook
+Campus Life, College of Arts & Sciences, ILR Conference Center, Statler Hotel and Conference Center
+Cook, Short Order
+Campus Life, Statler Hotel and Conference Center
+Crew Leader
+Grounds, Cornell Plantations
+Custodian
+Building Care, Campus Life, Dean of Students, Vet Microbiology-James A
+Baker Institute, Laboratory of Ornithology, Statler Hotel and Conference Center
+Custodian, Head
+Building Care, Campus Life, Lab of Ornithology, Vet Microbiology-James A Baker Institute, Statler Hotel and Conference Center
+Dairy Worker
+Animal Science
+Delivery Driver
+Campus Life, Courier Garage, Food Science, Lab of Ornithology, Mail Services
+Dish Machine Operator
+Campus Life, Statler Hotel and Conference Center
+Digital Copy Operator
+Print Copy
+Dispatcher
+Facilities Management
+Equipment Operator
+Cornell Plantations, Grounds, Vet Medicine - Bio Safety
+- 72 -
+Field Assistant
+Animal Science, Cornell Plantations, Crop & Soil Sciences, CUAgriculture Experiment Station, Entomology, Farm Services, Horticulture, Plant Breeding
+Food Service Worker
+Campus Life, ILR Conference Center, Statler Hotel and Conference Center
+Gardener
+Cornell Plantations, Grounds
+Greenhouse Grower
+CU Agriculture Experiment Station
+Greenhouse Grower, Head
+CU Agriculture Experiment Station
+Groundsworker
+Athletics, Grounds
+Lab Attendant
+Molecular Biology & Genetics, Vet Biomedical Sciences, Vet Microbiology-James A. Baker Institute, Vet Molecular Medicine
+Mail Preparation Assistant
+Mail Services
+Maintenance Mechanic
+Animal Science, Athletics, Building Care, Campus Life, Cornell Plantations, Dean of Students, Facilities Management, Lab of Ornithology, Parking & Commuter, Plant Biology, School of Hotel Administration, Statler Hotel and Conference Center, Vet Microbiology-James A. Baker Institute
+Material Handler
+Athletics, Campus Life, Cornell Business Services, CU Hospital for Animals, Grounds, Laboratory of Atomic and Solid State Physics, Planning, Design and Construction, School of Industrial and Labor Relations, Statler Hotel and Conference Center, University Press, Vet Facilities Services, Vet Laboratory Animal Services
+Milk Plant Worker
+Food Science
+- 73 -
+Orchard Worker, Head
+Horticulture
+Print Machine Operator
+Print Copy
+Rink Assistant
+Athletics
+Vehicle Mechanic
+Animal Science, Courier Garage, CUAgriculture Experiment Station, Grounds, Cornell Plantations, Crop & Soil Sciences, Mail Services, Plant Breeding, Fleet Operations, Veterinary POP Medicine
+Waitperson
+Statler Hotel and Conference Center
+APPENDIX B
+GRADE LEVELS AND CLASSIFICATIONS
+SO01
+Food Service Worker
+Laboratory Attendant
+SO02
+Bellperson Custodian
+Dish Machine Operator Food Service Worker Waitperson
+SO03
+Clinic Aide
+Custodian
+Food Service Worker Laboratory Attendant Material Handler
+SO04
+Animal Attendant
+Cook
+SO04 continued
+Cook, Short Order Custodian
+Custodian, Head Dairy Worker Delivery Driver Field Assistant Food Service Worker Grounds Worker Laboratory Attendant Mail Preparation Assistant Maintenance Mechanic Material Handler Rink Assistant
+Vehicle Mechanic
+SO05
+Animal Attendant Custodian, Head Dairy Worker Delivery Driver
+74 -
+SO05 continued Field Assistant Grounds Worker Laboratory Attendant Mail Preparation Assistant Maintenance Mechanic Material Handler Vehicle Mechanic	SO08 continued Digital Copy Operator Dispatcher Equipment Operator Field Assistant Gardener Greenhouse Grower, Head Maintenance Mechanic Orchard Worker, Head
+SO06 Animal Attendant Baker Cook Custodian, Head Dairy Worker Digital Copy Operator Equipment Operator Field Assistant Gardener Mail Preparation Assistant Material Handler	SO09 Boat Rigger Gardener Maintenance Mechanic Material Handler Milk Plant Worker Print Machine Operator Vehicle Mechanic SO10 Crew Leader Gardener
+SO07 Animal Attendant Cook Dairy Worker Delivery Driver Dispatcher Duplicating Machine Operator Field Assistant Greenhouse Grower Maintenance Mechanic Material Handler Milk Plant Worker Orchard Worker	Greenhouse Grower, Head Maintenance Mechanic Material Handler Orchard Worker, Head Print Machine Operator Vehicle Mechanic SO11 Gardener Maintenance Mechanic Vehicle Mechanic SO12 Sr. Maintenance Mechanic
+SO08 Animal Attendant Baker Bus Driver Cook	Maintenance Mechanic Vehicle Mechanic SO12 Sr. Maintenance Mechanic
+- 75 -
+SUBJECT INDEX
+Article 37 Work Out of Grade Letter of Understanding A Letter of Understanding B Article 9 Seniority
+Article 35 Hours of Work & Overtime
+Letter of Understanding B
+Appendix A
+Article 10 Filling Job Vacancies Article 7 Fair Employment Practices
+Acting Appointments ....................
+Agricultural Seasonal Employment .......
+Benefit Education ......................
+Breaks in Service ......................
+Call-Back Pay ..........................
+Career Development .....................
+Classifications (Titles)................
+Demotions ..............................
+Diversity/Inclusion.....................
+Letter of Understanding B
+Appendix B
+Letter of Understanding B Article 31 Sick, Health Care & Personal Leave
+Drug & Alcohol Testing Policy .......
+Grade Levels ........................
+Health Care Committee................
+Health Care Leave....................
+Letter of Understanding B Letter of Understanding B Article 10 Filling Job Vacancies Article 8 Union Representation Article 8 Union Representation Article 35 Hours of Work & Overtime
+Letter of Understanding B Article 31 Sick, Health Care & Personal Leave
+Job Descriptions.......................
+Job Security...........................
+Lateral Movement ......................
+Negotiations, Paid Time For ...........
+New Employee Orientation...............
+Overtime ..............................
+Parking ...............................
+Personal Leave ........................
+Article 9	Seniority
+Article 10	Filling Job Vacancies
+Letter of Understanding B
+Article 10	Filling Job Vacancies
+Article 12 Discipline &
+Discharge
+Article 17 Required Apparel
+Article 35 Hours of Work &
+Overtime
+Article 35 Hours of Work &
+Probationary Period .....................
+Promotions ..............................
+Quarterly Meetings with Sr. Mgmt ........
+Reclassifications .......................
+Right to Union Representation............
+Safety Boots/Shoes ......................
+Schedule Changes, Notice of .............
+Shift Differential ......................
+Overtime
+76
+SUBJECT INDEX (continued)
+Sick Leave............................ Article	31 Sick, Health Care &
+Personal Leave
+Sub Council Agreements................. Letter	of Understanding C
+Summer Scheduling ..................... Letter	of Understanding C
+Subpoena.............................. Article	27 Jury Duty
+Temporary Employees .................. Article	I Recognition
+Temporary Layoff ..................... Article	14 Layoff & Recall
+Temporary Service and Wages........... Article	36 Wages
+Union Business Leave.................. Article	8 Union Representation
+Univ. Compensated Un-elected Positions ... Letter of Understanding B
+Vacation............................... Article 32 Vacation
+Wages ................................. Article 36 Wages
+Work Week Definition.................. Article	35 Hours of Work &
+Overtime
+- 77 -
+INDEX
+TITLE	ARTICLE	PAGE
+AGREEMENT	42	52
+BEREAVEMENT LEAVE	28	34
+CLASSIFICATIONS	APPENDIX A	70-72
+CONSULTATION ON WORKING CONDITIONS	21	29
+DISCIPLINE AND DISCHARGE	12	17-19
+DUES CHECKOFF	5	4-5
+DURATION OF AGREEMENT	39	50
+FAIR EMPLOYMENT PRACTICES	7	6-8
+FILLING JOB VACANCIES	10	11-13
+FLEXIBLE WORKING HOURS	19	28
+GRADE LEVELS & CLASSIFICATIONS	APPENDIX B	73-75
+GRIEVANCE PROCEDURE AND ARBITRATION	11	13-17
+HEALTH AND SAFETY	13	19-20
+HOLIDAYS	33	40-42
+HOURS OF WORK AND OVERTIME	35	44-45
+INCLEMENT WEATHER	24	32
+JURY DUTY LEAVE	27	33
+LAYOFF AND RECALL	14	20-24
+LEAVE OF ABSENCE WITHOUT PAY	22	29-30
+LETTER OF UNDERSTANDING A		53
+LETTER OF UNDERSTANDING B		54-59
+LETTER OF UNDERSTANDING C		59-69
+MANAGEMENT RIGHTS	3	3-4
+MEAL BREAKS & REST PERIODS	20	28
+MILITARY SERVICE LEAVE	29	34
+MILITARY TRAINING LEAVE	30	35
+NO STRIKE GUARANTEE	6	5-6
+OTHER BENEFITS	34	42-43
+PERSONNEL FILES	15	24-25
+RECLASSIFICATIONS	39	50
+RECOGNITION	1	1-2
+REQUIRED APPAREL	17	26
+SENIORITY	9	9-11
+SEPARABILITY	38	50
+SICK, HEALTH CARE AND PERSONAL LEAVE	31	35-37
+STATEMENT OF PURPOSE		1
+SUBJECT INDEX		76-77
+TERMS OF AGREEMENT	2	2-3
+INDEX (continued)
+TITLE TOOLS UNION SECURITY UNION REPRESENTATION UNIVERSITY COMMITTEES VACATION VEHICLE ALLOWANCE VOLUNTEER FIREFIGHTER AND EMT LEAVE VOTING WAGES WORK OUT OF GRADE WORK PRIORITIES	ARTICLE	PAGE 16	25 4	4 8	8-9 26	33 32	37-40 18	26-28 23	31 25	33 36	45-49 37	49-50 41	51
+0102
+JPpUOpQ
+Calendar
+NOTES
+NOTES
+NOTES
+NOTES
+2009-2012 Agreement Between
+Cornell University
+AND
+Cornell Service and Maintenance Unit
+UAW
+Local 2300
+UAW Office, 272-4108
+TABLE OF CONTENTS
+TITLE	ARTICLE
+STATEMENT OF PURPOSE	
+RECOGNITION	1
+TERMS OF AGREEMENT	2
+MANAGEMENT RIGHTS	3
+UNION SECURITY	4
+DUES CHECKOFF	5
+NO STRIKE GUARANTEE	6
+FAIR EMPLOYMENT PRACTICES	7
+UNION REPRESENTATION	8
+SENIORITY	9
+FILLING JOB VACANCIES	10
+GRIEVANCE PROCEDURE AND ARBITRATION	11
+DISCIPLINE AND DISCHARGE	12
+HEALTH AND SAFETY	13
+LAYOFF AND RECALL	14
+PERSONNEL FILES	15
+TOOLS	16
+REQUIRED APPAREL	17
+VEHICLE ALLOWANCE	18
+FLEXIBLE WORKING HOURS	19
+MEAL BREAKS & REST PERIODS	20
+CONSULTATION ON WORKING CONDITIONS	21
+LEAVE OF ABSENCE WITHOUT PAY	22
+VOLUNTEER FIREFIGHTER AND EMT LEAVE	23
+INCLEMENT WEATHER	24
+VOTING	25
+UNIVERSITY COMMITTEES	26
+JURY DUTY LEAVE	27
+BEREAVEMENT LEAVE	28
+MILITARY SERVICE LEAVE	29
+MILITARY TRAINING LEAVE	30
+SICK, HEALTH CARE AND PERSONAL LEAVE	31
+PAGE
+1
+1-2
+2-3
+3-4
+4
+4-5
+5-6
+6-8
+8-9
+9-11
+11-13
+13-17
+17-19
+19-20
+20-24 24-25
+25
+26 26-28
+28
+28
+29 29-30
+31
+32
+33
+33
+33
+34
+34
+35 35-37
+TABLE OF CONTENTS (continued)
+TITLE	ARTICLE PAGE
+VACATION	32	37-40
+HOLIDAYS	33	40-42
+OTHER BENEFITS	34	42-43
+HOURS OF WORK AND OVERTIME	35	44-45
+WAGES	36	45-49
+WORK OUT OF GRADE	37	49-50
+SEPARABILITY	38	50
+DURATION OF AGREEMENT	39	50
+RECLASSIFICATIONS	39	50
+WORK PRIORITIES	41	51
+AGREEMENT	42	52
+LETTER OF UNDERSTANDING A		53
+LETTER OF UNDERSTANDING B		54-59
+LETTER OF UNDERSTANDING C		59-69
+CLASSIFICATIONS	APPENDIX A	70-72
+GRADE LEVELS & CLASSIFICATIONS	APPENDIX B	73-75
+SUBJECT INDEX		76-77

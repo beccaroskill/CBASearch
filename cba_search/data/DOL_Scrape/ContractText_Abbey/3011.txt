@@ -1,0 +1,1020 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection
+Title: New Jersey University of Medicine & Dentistry and Communications Workers of America, AFL-CIO, Local 1031 (2002)
+K#: 820224
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+The complete metadata for each collective bargaining agreement can be found at -
+http://digitalcommons.ilr.cornell.edU/blscontracts/1/
+For a glossary of the elements see - http://digitalcommons.ilr.cornell.edU/blscontracts/2/
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+For more information aboUt the BLS Contract Collection, see http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+AGREEMENT BETWEEN
+COMMUNICATIONS WORKERS OF AMERICA, AFL-CIO LOCAL 1031
+AND
+THE UNIVERSITY OF MEDICINE & DENTISTRY OF NEW JERSEY
+July 1, 2002 to October 31, 2005
+INDEX
+TITLE
+PAGE
+PREAMBLE
+1
+1 RECOGNITION	2
+2 MANAGEMENT RIGHTS	2
+3.	UNION STATUS		2
+	3.01	New Staff Members	2
+	3.02	Union Dues	3
+	3.03	Transmission of Dues	3
+	3.04	Agency Fee	4
+	3.05	Union Representatives, Rights and Limitations	6
+	3.06	Union Business	7
+	3.07	Information and Data	8
+	3.08	Bulletin Boards	8
+	3.09	Union Access to Premises	8
+4.	PERSONNEL PRACTICES		8
+	4.01	Appointment to Position	8
+	4.02	Out-of-Title Work	9
+	4.03	Promotions and Reclassifications	9
+	4.04	Reassignment	10
+	4.05	Labor Management Committee	10
+	4.06	Supervisor Performance Evaluation	11
+5.	SUPERVISOR STATUS		
+	5.01	Classification	13
+	5.02	Regular Full-time Staff Member	13
+	5.03 5.04	Regular Part-time Staff Member with Benefits Regular Full-time or Regular Part-time with Benefits Staff Versus Regular Part-time Staff Members Without Benefits, Temporary, Casual or Per Diem Staff	13 14
+	5.05	Probationary Period	14
+	5.06	Personnel Files	14
+	5.07	Seniority	15
+	5.08	Seniority Lists	17
+i
+6	WORKTIME	18
+6.01 Normal Workday	18
+6.02 Normal Workweek	18
+6.03	Work Schedules	18
+6.04	OvertimeWork: Compensatory Time Off	18
+6.05	Weekend Defined	19
+7	MONETARY BENEFITS:	TIME WORKED	19
+7.01 Regular Compensation Rate	19
+7.02	Premium Compensation Rate -	OT Work	19
+7.03	Pay Period	19
+7.04	Salary Increase Date	20
+7.05	Daylight Savings Time	20
+8	MONETARY BENEFITS:	TIME NOT WORKED 20
+8.01 Holiday Designation	20
+8.02 Holiday Entitlement	21
+8.03 Holiday Pay	21
+8.04	Vacation Amount	23
+8.05	Vacation Accruals	23
+8.06	Vacation Entitlement	23
+8.07	Vacation Scheduling	24
+8.08	Sick Leave, Entitlement and Amount	25
+8.09	Sick Leave Notice and Pay	26
+8.10	Leave for Death or Serious Illness in Immediate
+Family	27
+8.11	Jury Duty Leave Amount	27
+8.12	Jury Duty Leave Procedure	27
+8.13	Court Appearance	28
+8.14	Leave of Absence Limitation	28
+8.15	Meal Period	28
+9	LEAVES OF ABSENCE	28
+9.0	1	Basis and Amount	28
+9.0	2	Procedure	28
+10	MONETARY BENEFITS: HEALTH BENEFIT,
+PRESCRIPTION DRUG PROGRAM, DENTAL CARE PROGRAM, EYE CARE PROGRAM, LIFE INSURANCE, PENSION DISABILITY, PARKING, TUITION REFUND	30
+10.01 Health Benefits	30
+10.02 Prescription Drug Program	30
+ii
+10.03 Dental Plan	30
+10.04 Eye Care Program	31
+10.05 Life Insurance Program	31
+10.06 Pension	31
+10.07 Temporary Disability Plan	32
+10.08 Parking	32
+10.09 Tuition Refund	32
+11	MONETARY BENEFITS MISCELLANEOUS	3 3
+11.01 Terminal Benefits	33
+11.02 Resignation	33
+11.03 Identification Cards	33
+11.04 Experience - Rehire	33
+11.05 Continuing Education	33
+11.06 Uniform Allowance	34
+11.07 On-Call	34
+11.08 Shift Differential	34
+11.09 Reimbursement For Travel	35
+12	HEALTH AND SAFETY	35
+12.0	1 Health Examination	35
+12.0	2 Employer Obligation	35
+13	NO STRIKE/NO LOCKOUT	36
+14	DISCIPLINE	36
+14.0	1 Definition	36
+14.0	2 Grievance Procedure	37
+15	NON-DISCRIMINATION	41
+16	SUBCONTRACTING SERVICES	41
+17	SALARY/ADJUSTMENT	42
+17.0	1 Correcting Payroll Errors	42
+17.0	2 Salary Program November 1, 2003 to October 31, 2005	42
+18	MAINTENANCE OF BENEFITS	45
+19	COMPLETE AGREEMENT	45
+20	AVAILABILITY OF CONTRACTS	45
+iii
+21	TERM OF AGREEMENT, SUCCESSOR AGREEMENT NEGOTIATION PROCEDURES 45
+21.01	Term of Agreement	45
+21.02	Successor Agreement	45
+21.03	Negotiations Procedures	46
+21.04	Notification Addresses	46
+SIGNATURE PAGE	47
+APPENDIX A	48
+CWA SUPERVISOR TITLE LISTING	49
+SIDE LETTER 1 - LAYOFF RIGHTS	00
+SIDE LETTER 2 - NOTICE OF FAILED
+PROBATION	00
+SIDE LETTER 3 - LAYOFF NOTICE	00
+iv
+Page 1
+PREAMBLE
+This Agreement is effective July 1, 2002 and is made between the University of Medicine and Dentistry of New Jersey, 65 Bergen Street, Newark, New Jersey 07107 (hereinafter called “the University”) and the Communications Workers of America, AFL-CIO, (hereinafter called “the Union”).
+The parties recognize that it is the responsibility of the University to provide high quality educational programs, to encourage the development of new knowledge through research and to provide patient care services to the larger community. This Agreement is intended to contribute to the fulfillment of those responsibilities. UMDNJ and the Union recognize that it is in the best interests of the parties that all dealings between them continue to be characterized by mutual responsibility and respect. To this end, they mutually enter into this Agreement, which sets forth the employment relationship between the University and the staff members subject to this Agreement under applicable State and Federal law.
+The parties agree that the Preamble Clause is not subject to the grievance procedure.
+Page 2
+1.	RECOGNITION
+The University of Medicine & Dentistry of New Jersey hereby recognizes the Union as the exclusive representative for the purpose of collective negotiations for all terms and conditions of employment in the bargaining unit, as certified by the Public Employment Relations Commission in its Certification of Representation dated April 29, 1994 (Docket No. RO-94-68) and as amended by decision of the Public Employment Relations Commission and by the agreement between the parties dated November 4, 1994.
+The University recognizes the Union as the exclusive collective bargaining representative of any staff member covered by this Agreement.
+2.	MANAGEMENT RIGHTS
+The University retains and may exercise all rights, powers, duties, authority and responsibilities conferred upon and vested in it by the laws and Constitution of the State of New Jersey and of the United States of America.
+Except as specifically abridged, limited or modified by the terms of the Agreement between the University and the Union, all such rights, powers, duties, authority, prerogatives of management and the responsibility to promulgate and enforce reasonable rules and regulations governing the conduct and the activities of staff members are retained by the University.
+3.	UNION STATUS
+3.01 New Staff Members:
+At the time a new staff member subject to this Agreement is hired, the University will deliver to him/her a mutually agreed upon written notice provided by the Union, which includes a list of Union Representatives(Representatives are defined as staff members under this Agreement who are authorized by the Union to represent it).
+A representative designated by the Union will be provided time set aside by the University, not to exceed fifteen (15) minutes, to speak with all new staff within sixty (60) days of hire.
+Page 3
+In lieu of being provided time at orientation, the Union may be allowed fifteen minutes to meet with newly hired or promoted staff members within the first two weeks of employment. The Union must get the consent of the unit’s member’s manager or immediate supervisor with notice to the Campus Human Resource Office. Such consent shall not be unreasonably withheld.
+The University shall, at the end of January, April, July and October of each year, provide the Union with a complete alphabetized list of bargaining unit staff members. Such list shall include: name, address, social security number, classification, job title, unit and campus.
+Within thirty (30) days after the date of employment of a new staff member who is covered by this Agreement, the staff member’s name, address, social security number, classification, job title, department and campus will be forwarded to the Union. Any change in classification, status or unit assignment will be given to the Union within thirty (30) days of the change.
+3.02 Union Dues:
+The University agrees to deduct from the regular paycheck of a staff member included in the bargaining unit, dues for the Union, provided that the staff member authorizes such deduction in writing in proper form to the local Human Resources Office.
+The University shall make Union dues deductions from a new staff member in the pay period next following the thirty (30) days after the staff member’s date of hire.
+Union dues deductions from any staff member in the bargaining unit shall be limited to the Union, the duly certified majority representative. Supervisors shall be eligible to withdraw such authorization only as of October 1st of each year provided the notice of withdrawal is filed after July 1 and prior to September 1 on a timely basis with the responsible payroll clerk. The University will furnish the Union with a list of Supervisors who have withdrawn membership prior to October 1st of each year.
+For the purpose of calculating dues deductions, reimbursement for tuition shall not be included as part of the gross salary of staff.
+3.03 Transmission of Dues:
+Dues so deducted by the University shall, within ten (10) days of the date of deduction, be transmitted to the designated officer of the Union together with a list of staff members included, the amount deducted, hours worked and their hourly rate of pay. Once dues are transmitted to the Union, their disposition shall be the sole and exclusive responsibility of the Union. The Union shall certify to the University the amount of Union dues and shall
+Page 4
+notify the University of any changes in dues structure forty-five (45) days in advance of the requested date of such change.
+3.04 Agency Fee:
+Beginning thirty (30) days after the effective date of this Agreement, all eligible nonmember staff in the unit will be required to pay to the Union a representation fee in lieu of dues for services rendered by the Union. Nothing herein shall be deemed to require any staff members to become a member of the Union.
+Prior to the effective date of this Agreement, the Union shall notify the University, in writing, of the amount of regular membership dues, initiation fees and assessments charged by the Union to its own members for that contract year. Any changes in the representation fee structure during the contract year shall be in accordance with the procedure set out in Section 3.04 below. In no event shall the representation fee exceed eighty-five percent (85%) of the payments of regular members.
+For the purpose of calculating representation dues deductions, reimbursement for tuition shall not be included as part of gross salary of staff.
+After verification by the University that a staff member must pay the representation fee, the University will deduct the fee for all eligible staff members in accordance with this Section. The mechanics of the deduction of representation fees and the transmission of such fees to the Union will be the same as those used for the deduction and transmission of regular membership dues to the Union.
+The University shall deduct the representation fee as soon as possible after the tenth day following reentry into the unit for staff members who previously served in a position identified as excluded, for individuals recalled from layoff, for staff members returning from leave without pay and for previous staff members who become eligible for the representation fee because of non-member status.
+The University shall deduct the representation fee from a new staff member in the pay period following the thirty (30) days after the staff member’s date of hire.
+The representation fee in lieu of dues shall only be available to the Union if the procedures set out hereafter are maintained by the Union. The burden of proof under this system is solely on the Union.
+Page 5
+The Union shall return any part of the representation fee paid by the staff member, which represents the staff member’s additional pro rata share of expenditures by the Union that is either in aid of activities or causes of a partisan political or ideological nature only incidentally related to the terms and conditions of employment or applied toward the cost of any other benefits available only to member of the majority representative.
+The staff member shall be entitled to a review of the amount of the representation fee by requesting the Union to substantiate the amount charged for the representation fee. This review shall be accorded in conformance with the internal steps and procedures established by the Union.
+The Union shall submit a copy of the Union review system to the University’s Office of Labor Relations. The deduction of the representation fee shall be available only if the Union establishes and maintains this review system. If the staff member is dissatisfied with the Union’s decision, he/she may appeal to the three-member board established by the Governor.
+The Union hereby agrees that it will indemnify and hold the University harmless from any claims, actions or proceedings brought by any staff member in the bargaining unit that arises from deductions made by the University in accordance with this provision. The University shall not be liable to the Union for any retroactive or past due representation fee for a staff member who was identified by the University as excluded or confidential or in good faith was mistakenly or inadvertently omitted from the deduction of the representation fee.
+It is understood that the implementation of the agency fee program is predicated on the demonstration by the Union that more than fifty percent (50%) of the eligible staff members in the bargaining unit are dues paying members of the Union.
+If at the signing of this Agreement the above percentage has not been achieved, the agency fee plan will be continued through pay period twenty-six (26) of the calendar year, after which it shall be discontinued unless the minimum has been achieved prior to that occurrence. Thereafter, if the minimum percentage is exceeded on any quarterly date; i.e., January 1st , April 1st , July or Octoberlst, the agency fee plan shall be reinstated with proper notice from the Union to affected staff members.
+In each year of the Agreement on July 1st, an assessment shall be made to determine if the minimum percentage has been exceeded. If it has, the agency fee will be discontinued and eligibility for reinstatement shall be on a quarterly basis as provided above.
+Provisions in this clause are further conditioned upon other requirements set by statute.
+Page 6
+3.05 Union Representatives, Rights and Limitations:
+The Union shall furnish the University Office of Labor Relations a list of all official Union representatives, specifying their authority and showing the name, title or office for each and the departments and shifts for which they function. The Union shall notify the University of any changes in the list and keep it current.
+Both parties agree to recognize and deal with only properly authorized and empowered University or Union representatives who are officially made responsible by the parties’ written compliance with the Section.
+It is agreed that the Union will appoint or elect up to twelve (12) representatives, including officers who will be recognized by the University in their defined authority to act for the Union. The Union’s Officers will be its Branch President, Branch Vice President and Branch Secretary-Treasurer for the Newark and Piscataway/New Brunswick Campuses.
+The names of those representatives and officers will be provided to University Office of Labor Relations and the respective Campus Directors of Human Resources and updated within thirty (30) days of any change.
+The University agrees that during working hours on its premises and without loss of base pay or when otherwise agreed upon, Union representatives previously designated and authorized to represent the Union and recognized by the University shall be allowed to:
+a)	Represent a staff member in the department/work unit.
+b)	Investigate a grievance, providing such investigation time will be limited
+to a maximum of one (1) hour and further provided there is no interruption of work activities. In emergency situations, these time limitations may be extended if approved by the Office of Human Resources or the Supervisor on duty, should the office of Human Resources be closed.
+c)	Post Union notices.
+d)	Attend negotiating meetings (the number of representatives to be agreed upon between the Union and the University) if designated as a member of the negotiating team scheduled to attend by the Union.
+e)	Attend scheduled meetings with the University.
+Page 7
+The authorized Union representative shall provide reasonable notification to his/her manager or immediate supervisor whenever he requests permission to transact such Union business. Permission will not be unreasonably withheld. It is further understood that the manager or immediate supervisor of the authorized Union representatives has the right to seek rescheduling of appointments when the work situation warrants this.
+Any mail incorrectly addressed to the Union at the University shall be forwarded with reasonable care to the Union at CWA Local 1031, 84 Culver Road, Monmouth Junction, New Jersey, 08852. When the Union has mail to be delivered to its officers or representatives, the University’s Inter-Office Mail System will be made available provided that priority is retained for University business.
+3.06 Union Business:
+The University agrees to provide leave of absence at the base rate of pay equal to the length of the staff member’s regular work shift for officers of the Union to attend Union activities.
+The Union shall have the right to designate any Union officers (Local officers and Shop Stewards) for such leaves of absence. A total of five (5) days of such leave in the aggregate may be used each fiscal year of this Agreement.
+This leave is to be used exclusively for participation in regularly scheduled meetings or convention of labor organizations with which the Union is affiliated or for training programs for Union representatives and Union Officers and for which appropriate approval by the University is required. Written notice from the Union of the authorization of an individual to utilize such leave time shall be given to the staff member’s supervisor with a copy to the Office of Human Resources at least fourteen (14) days in advance of the date of such meeting except in an emergency, when less notice may be given. Granting of such leave to a staff member shall not be unreasonably denied by the University.
+In addition, the University agrees to provide leave of absence without pay for officers or representatives of the Union to attend Union activities. A total of five (5) days in the aggregate of such leave of absence without pay may be used in each fiscal year of this Agreement. Granting of such leave shall not be unreasonably denied by the University. This additional leave of absence without pay is to be used with the same condition and restrictions as leave for Union business with pay provided in this section.
+Page 8
+3.07 Information and Data:
+A list of supervisory titles and their respective salary ranges shall be appended to the collective bargaining agreement. This is for informational purposes only.
+The University shall continue to provide the Union with revisions of University and Human Resource Policies in a timely manner. The Union will be placed on an e-mail list to receive all notices of changes in University policies and the changes in the policies.
+3.08 Bulletin Boards:
+The University shall provide space on six (6) centrally located bulletin boards: three (3) on the Newark campus, one (1) at the Robert Wood Johnson Medical School in Piscataway, one (1) at the Clinical Academic Building in New Brunswick, and one (1) at the Wellness Center in Stratford, for the exclusive use of the Union.
+Three (3) additional bulletin boards shall be provided, at a campus or campuses designated by the Union, and at such location within such campus or campuses as mutually agreed upon by the parties, for the non-exclusive use of the Union.
+3.09 Union Access to Premises:
+Each business agent or representative previously designated to the University by the Union shall be admitted to the premises of the University on Union business. Notice of such visitation rights shall be directed to the designated University official and include the general purpose of each visit. Permission for such visits shall not be unreasonably withheld.
+Such Union officials shall have the opportunity to consult with staff before the start of the work shift, during lunch or after completion of a work shift. The University will provide accommodations at its facilities for such meeting, provided space is available, requests are made and approved at least ten (10) working days in advance of the proposed date of use and that liability for the damages, care and maintenance and any costs which are attendant thereto are borne by the Union.
+4.	PERSONNEL PRACTICES
+4.01 Appointment to Position:
+Appointment to a position shall be in writing with the date of hire, salary and any differential stated. A job description for the specific position occupied by the newly appointed staff member will be distributed to him/her prior to or at orientation. Other job descriptions defining all positions under this Agreement will be made available for review by an authorized Union representative upon request.
+Page 9
+At the time of hire, each bargaining unit member will be informed of his/her current normal workweek and days, current travel requirements, current shift differential, and current on-call requirements. Bargaining unit members holding positions that are grant funded shall be notified in a timely manner if the status of the grant has changed and such change will impact upon the member’s terms of employment.
+4.02 Out-of-Title Work:
+Supervisors shall be assigned work appropriate to their job classification. The parties agree that Supervisors will not be assigned to out-of-title work as a usual and substantial part of their assigned duties except in those cases in which such duties are part of the specific job for which the supervisor was hired.
+Claims of out-of-title work as identified by the Union are to be submitted to Salary Administration with copies sent to the respective Campus Human Resources Director and the Supervisors department head. The claims will be investigated and Salary Administration will provide a written response within ninety (90) calendar days. Such response shall include the substantive reason(s) for their determination.
+If the claim is substantiated to be in violation of this provision of the Agreement, corrective action will be instituted and if warranted, additional compensation will be provided retroactive to the date the claim was received by Salary Administration.
+Any dispute concerning whether work is appropriate to the job classification of a supervisor shall be grievable to Step Two of the Grievance procedure, with the decision at Step Two for said procedure being final and binding.
+4.03 Promotions and Reclassifications:
+Supervisory staff are eligible for a promotion which occurs when there is a vacancy at a higher level for which they are qualified. The announcement of the position vacancy will include a description of the position, a detailed outline of expected educational and professional requirements, the salary range for the position and the name of the campus Human Resources representative who will receive applications from interested candidates.
+The announcement of the position vacancy will be posted each Friday to the following Friday on bulletin boards where Human Resources notices are normally placed. Interested internal candidates are to submit their bids to that campus that is recruiting for the vacancy.
+Page 10
+All qualified internal candidates who submit timely bids will receive an interview for the position vacancy. Upon request, copies of the job description shall be made available.
+Each internal candidate will be notified in writing of the decision with respect to his/her candidacy. This decision will indicate: 1) the applicant has been offered the position, or 2) That the applicant has not been offered the position, including a reason for such decision.
+Transfer in status or classification shall not delay the use of entitled benefits.
+Transferred, re-classified and promoted bargaining unit members shall serve a one-hundred and eighty (180) calendar day probationary period, subject to a thirty (30) calendar day extension. Such supervisors shall retain all benefits and rights pertaining to bargaining unit members, including access to the grievance procedure, except for the decision concerning the outcome and disposition of their probationary period. Should the supervisor fail the probationary period, the University shall return the supervisor to his/her former position if it is still available. Should the supervisor’s former position not be available, his/her employment with the University will be terminated. Individuals who are terminated pursuant to the above circumstances will be allowed to bid as “internal candidates” for up to two months after the effective date of termination.
+4.04 Reassignment:
+Reassignment is the movement of a bargaining unit member from one job assignment to another within such staff member’s job classification and within his/her department. Such reassignment may be to another geographic location.
+When a bargaining unit member is reassigned within his/her job classification, his/her salary shall not be reduced below that which he/she would have received had the staff member continued in his/her original position.
+4.05 Labor-Management Committee:
+The Union and the University agree to the establishment of a Labor-Management Committee. The committee shall consist of representatives selected by the Union (not to exceed 8) and representatives of the University (not to exceed 8). The Director of Human Resources or designee from each campus shall attend for the University. In addition, a representative from the administrative offices of the relevant administrative Division of the University may attend a specific meeting of the Labor-Management Committee. This meeting will be on a bi-monthly basis. The Director of Labor Relations of the University shall attend the committee meetings on a semi-annual basis.
+Page 11
+The Labor-Management Committee shall function completely separate from and independent of all grievance procedures under this Agreement. These meetings shall not be considered negotiating sessions. The purpose of the meeting shall be to discuss matters of mutual concern. The Union agrees to supply a proposed agenda to the Director of Labor Relations, at least five (5) business days in advance of the meeting.
+The University agrees to release from work, if necessary, the members of the LaborManagement Committee, at no loss of their base rate of pay for the purpose of attending Labor-Management Committee meetings. The Union shall inform the University’s Office of Human Resources of the members of these Committees thirty (30) days prior to the first meeting.
+The University and the Union agree that campus-based issues may be discussed with the Campus Human Resource Director or designee on an ad hoc basis.
+4.06 Supervisor Performance Evaluation:
+A.	The annual supervisory performance evaluation will be done on a prompt and timely basis. At the time of the evaluation, the supervisor will be provided a copy of his/her job description. The supervisor being evaluated will be provided a copy of his/her performance evaluation and will have three (3) calendar days, excluding holidays and weekends, to review the evaluation. By the conclusion of the time period, the supervisor may add his/her comments to the original performance evaluation and shall sign the original performance evaluation. Comments added by the supervisor shall be included in the Supervisor’s Personnel file in Human Resources.
+B.	If comments are not made within this period or the supervisor does not sign within this period, the right to comment will be forfeited, the manager or immediate supervisor will note the refusal to sign and forward the evaluation to Human Resources for inclusion in the Personnel file.
+C.	Prior to evaluating a supervisor as a “2” or a “1,” the supervisor’s manager or immediate supervisor must notify the supervisor that his/her performance is deficient and that he/she may receive no performance based increases. Such notification shall be made through a written memorandum, documented oral warning, and/or written warning regarding performance issues. In addition, such notification shall contain a description of the performance deficiencies and the corrective actions needed to remedy the performance deficiencies.
+Page 12
+D.	Upon the mutual consent of the supervisor and his/her manager or immediate supervisor, his/her manager or immediate supervisor, and a Union representative shall meet to discuss performance issues. Such a meeting shall not be considered part of the grievance procedure. Further, the performance rating of the supervisor is not subject to the grievance procedure.
+E.	Supervisor performance shall be evaluated and reviewed annually on or about January 1 by the unit member’s manager or immediate supervisor. Beginning FY 2001, an annual evaluation will occur on or about November 1. Each overall evaluation shall fall into one of the following categories: “5” (highest), “4,” “3,” “2” or “1” (lowest).
+F.	Each supervisor shall be notified of his/her rating and given an opportunity to participate in the formulation of performance standards and improvement goals for the next appropriate evaluation. The period of such re-evaluation should be established consistent with the performance standards and improvement goals developed by the supervisor and his/her manager or immediate supervisor.
+G.	The supervisor shall be provided with copies of the performance evaluation and the agreement on performance standards and improvement goals. All evaluations shall be signed by the supervisor and by the manager or immediate supervisor before being placed in the supervisor’s personnel file. The supervisor’s signature shall signify that the supervisor has seen and reviewed the evaluation, but not that she/he necessarily concurs with its contents.
+H.	If a supervisor received a rating of “2,” the manager or immediate supervisor shall review the substance of performance deficiencies with the supervisor and shall counsel the supervisor as to appropriate steps which should be taken to improve performance and shall review with the supervisor any warnings or prior counseling received with respect to performance. The supervisor receiving a “2” will have the right to have a union representative accompanying him/her. Also in attendance will be a representative from Labor Relations. The purpose of the meeting is not to challenge the rating, but to promote the supervisor’s understanding of the basis of the rating and appropriate steps for improvement.
+The supervisor’s performance must be re-evaluated after another three (3) month period (within 90 days). If upon re-evaluation the performance has not come up to a “3” level, the re-evaluation shall be considered to be a final warning for purposes of the disciplinary process. The manager or immediate supervisor shall also advise the supervisor that failure to improve performance may result in further discipline up to and including discharge.
+Page 13
+I.	A supervisor receiving a rating of “1” shall not be entitled to receive any increase in compensation. Such performance evaluation shall be considered as a final warning for purposes of the disciplinary process. The manager or immediate supervisor shall review the performance deficiencies with the supervisor and shall counsel the supervisor as to appropriate steps that should be taken to improve performance and shall review with the staff member any warnings or prior counseling received with respect to performance. The performance of supervisors receiving the level “1” evaluation shall be carefully monitored by the manager or immediate supervisor. If performance remains below the “3” level after three months, such supervisor shall be discharged.
+J.	The supervisor’s performance evaluation rating is not subject to the contractual grievance procedure (Article 14).
+K.	Violation of the procedure set forth above is subject to the contractual grievance procedure.
+5.	SUPERVISOR STATUS
+5.01 Classification:
+A staff member will be classified as either (a) regular full-time (b) regular part-time benefits (c) regular part-time without benefits (d) casual or per diem.
+5.02 Regular Full-time Staff Member:
+A staff member hired to fill a position for an undetermined period of time, regular fulltime non-exempt staff will work thirty-five (35), thirty-seven and one-half (37-1/2) or forty (40) hours each week, as determined by the position.
+Regular full-time exempt staff will work their regularly scheduled work hours and are expected to work the necessary hours to complete their work assignments.
+Regular full time non-exempt and exempt staff shall be eligible for all benefits pertaining to full-time status.
+5.03 Regular Part-time Staff Member with Benefits:
+A staff member who is hired to fill a position for an undetermined period of time twenty (20) hours or more each week but less than the full-time equivalent for the position.
+Such staff members shall be eligible for pro-rated benefits as per current University policy. In addition, they shall be eligible for health insurance, as per current University policy, subject to continued approval of the State Health Benefits Commission.
+Page 14
+5.04 Regular Full-Time or Regular Part-Time with Benefits Staff Versus Regular Part-time Staff Members Without Benefits, Temporary, Casual, or Per Diem Staff: When a staff member is hired or transfers into a position, such staff member shall be advised as to his/her status as either a regular full-time staff member, regular part-time staff member with benefits, regular part-time staff member without benefits, temporary, casual, or per diem staff member.
+Regular part-time staff without benefits are hired to work less than twenty (20) hours each week to fill a position for an undetermined period of time. Temporary staff are hired for a specified period of time. A casual or per diem staff member has an on-going but intermittent employment relationship with the University.
+Regular part-time supervisors hired to work less than twenty (20) hours each week, temporary, casual or per diem staff are not eligible for any benefits except those required by law.
+5.05 Probationary Period:
+All Full and Part-Time supervisors shall serve a one hundred and eighty (180) calendar day probationary period following their initial date of hire.
+The University reserves the right to extend the initial probationary period up to an additional thirty (30) days for Full and Part-Time supervisors. A supervisor’s employment may be terminated at any time during the probationary period. Such decision shall be final and binding, and not subject to the grievance procedure.
+Probationary supervisors will be eligible to use accrued sick leave after thirty (30) calendar days of employment and other accrued leave time after ninety (90) calendar days of employment.
+5.06 Personnel Files:
+A staff member shall, within five (5) working days of a written request to Campus Human Resources, have an opportunity to review his/her central Campus Human Resource file in the presence of an appropriate official of the Campus Human Resources Office to examine any criticism, commendation of any evaluation of his/her work performance or conduct prepared by the University. Such examination shall not require a loss of paid time. If requested by the staff member, a Union representative may accompany the staff member.
+A staff member shall be allowed to place in such file a response of reasonable length to anything contained herein. The University will honor a request made by
+Page 15
+a staff member for a copy of any derogatory item, the Employment application, resume, performance evaluations or any correspondence addressed to the staff member contained in the central Personnel file. The staff member will be charged Human Resources prevailing rate for any copies.
+A staff member may request to expunge materials included in the file where there are pertinent and substantive inaccuracies, or for reasons of time duration, relevance or fairness. Such requests will be evaluated in relation to the University’s needs for comprehensive and complete records but will not be unreasonably denied.
+No document of anonymous origin shall be maintained in a staff member’s central personnel file nor be part of any personnel action taken against a staff member.
+5.07 Seniority:
+A.	Accrual: Seniority will be credited from the date of hire or rehire to all regular Full Time or Part Time staff members upon the successful completion of their initial probationary period.
+B.	Loss of Seniority: A supervisor’s seniority shall be broken by resignation, dismissals from employment, or other types of terminations, layoffs of more than one (1) year or refusal of a suitable position while on recall from layoff.
+C.	Layoff: Layoffs shall be administered in accordance with university policy except as stated below:
+1.	Effective January 1, 2000, seniority will prevail in layoffs due to economic reasons or reorganization. Bumps shall be only within a job title in a University Operating Unit or to the immediate prior title on the Campus (See Appendix A for listing of University Operating Units). Seniority will prevail on call backs within one (1) year from layoff.
+A list of vacant positions will be available for review in the Campus Human Resources Offices.
+A staff member who chooses to fill a vacancy or to bump another staff member, and is subsequently informed by the campus Human Resources department that the salary of the vacant or bump position is more than 10% below his or her current salary, shall be allowed to reconsider their decision and to go on to the recall list.
+Within their respective departments/work units, regular supervisors shall not be laid off before temporary or probationary supervisors in the same job classification.
+Page 16
+Supervisors shall serve a probationary period of one-hundred eighty (180) calendar days in a new position whether such placement is due to filing a vacancy, exercising a bump, or as a result of a recall, except that a supervisor who bumps or is recalled in to the same job title within the same department shall not be required to serve a probationary period.
+A probationary period can be extended, at the option of the University, up to an additional thirty (30) days. If the Supervisor fails the probationary period, his/her employment at the University shall be terminated and all layoff and recall rights shall cease.
+2.	Layoff for Special Categories of Supervisors: All regular full or part-time supervisors shall be covered by the layoff policy regardless of salary range, consistent with the following provisions:
+a)	Supervisors employed under a J-Visa shall not be eligible for coverage.
+b)	Supervisors employed under a H-Visa shall have bumping rights only into the same job classification.
+c)	Supervisors holding research position may only exercise a bump into a position in his/her own Department for which he/she is qualified and only if the project would not be seriously disrupted by the change in personnel as determined by the Associate Vice President for Academic Administration.
+If a supervisor cannot bump in the Department, he/she can bump into the immediate prior title (non-research) on the campus.
+The parties agree that the subject matter of any appeal to arbitration concerning the Associate Vice President’s decision on bumping rights shall be limited to whether the criteria as to which positions shall be exempt from bumping were applied. Should an arbitrator find that the criteria were not applied by the Associate Vice President, then his/her sole remedy shall be to refer the matter back to the Associate Vice President for reconsideration.
+The University will provide a minimum of twenty-one (21) calendar days notice of layoff to any regular staff member affected.
+Page 17
+3.	Information to the Union: The University shall continue the practice of providing the Union with a copy of each layoff notice sent to supervisors. The notice shall be provided to the Union within 24 business hours of service of the notice to the individual supervisor. In the event that five or more supervisors are laid off within a pay period on campus, the University shall, upon notification to the Union of the names and job titles of the supervisor affected by the layoff, provide the Union with an up to date seniority list of the affected departments and job titles.
+4.	Continuity of Services: The University agrees to consider patient transition issues in determining how much actual notice is given to Mental Health and Social Work professionals of layoff, consistent with Section 3 above.
+Laid off staff members, in the order of the effective date of the layoff, have first recall rights beginning with the title and job requirements of the position from which they are laid off, to positions with comparable or lower requirements within the same classification series.
+All laid off staff members shall retain their rights of recall for one year from the date of layoff. Should a laid off staff member refuse a position when recalled, he/she shall be removed from the recall list. However, staff members shall be allowed to refuse a position if the salary of the position is greater than or equal to 10% less than the salary of their former position. Staff members will be recalled based on the effective date of the layoff. If more than one staff member in the same job title is laid off, effective the same date, University-wide seniority will be utilized to determine recall rights.
+Upon recall, a staff member shall retain his/her original date of hire.
+5.08 Seniority Lists:
+The University will on each January 31st and July 31st submit to the Union a list containing the names of staff members of each particular unit or department in order of seniority according to date of hire, as of January 1st and July 1st. The dated list will reflect the relative seniority of staff members pursuant to Section 5.07. Any staff member may protest, in writing, his/her relative standing within thirty (30) calendar days of such submission to the Union.
+Page 18
+6.	WORK TIME
+6.01 Normal Workday:
+For the purpose of determining the application of any non-exempt staff member’s base compensation rate, a regular non-exempt staff member’s normal workday will be either eight (8), seven and one-half (7-1/2) or seven (7) work hours as determined by the staff members position. This hourly rate will also be used to calculate the compensation of regular part-time staff members. All defined workdays for non-exempt staff members, staff shall include a scheduled meal period as specified in Section 8.15.
+Regular full-time exempt supervisors are salaried staff members, and as such their compensation is not determined by the number of hours they work in a workday. Exempt staff members are expected to work the necessary hours to complete their work assignments.
+6.02 Normal Workweek:
+The workweek begins at 12:01am, Sunday and ends midnight Saturday.
+6.03 Work Schedules:
+Requests or preferences for time off will be submitted in writing no less than one(l) week in advance of the date(s) requested except that Float Holidays may be used with less notice in the case of an emergency. Management has the right to require proof of an emergency usage of Float Holidays. The University will respond in writing to all written requests within one(l) week of submission.
+Changes requested by a staff member in his/her schedule will be considered by the University and will not be unreasonably denied.
+Supervisors shall receive no less than two (2) weeks notice, except in the event of an emergency, of a change in scheduled hours that requires a supervisor to work evening, night or weekend hours on a regular basis. Upon request, the University shall meet with the Union only to discuss the change in schedule and its impact on affected staff. If possible, and where determined by the University to be appropriate, the University will seek volunteers to change to new department schedules as set forth in this paragraph. A volunteer may be assigned such new department schedule, provided he/she is qualified to perform the work at issue.
+6.04 Overtime Work and Compensatory Time Off:
+A non-exempt staff member may request overtime payment or compensatory time off for hours worked in excess of his/her work week. The University retains the option of paying non-exempt staff members overtime or granting compensatory time off as provided for in the Fair Labor Standards Act (F.L.S.A.) for public employment.
+Page 19
+Compensatory time off for exempt staff members shall be in accord with current University policy.
+Bargaining unit employees may be permitted to take at least two(2) compensatory days per month, provided that the employer approves of said request within its sole discretion, and based upon its operational needs.
+6.05 Weekend Defined:
+A weekend shall be defined as Saturday and Sunday for all staff members.
+7.	MONETARY BENEFITS: TIME WORKED
+7.01 Regular Compensation Rate:
+A staff member’s regular compensation rate is his/her base rate of pay and does not include any differential, premiums or bonuses.
+7.02 Premium Compensation Rate - Overtime Work:
+A.	NON-EXEMPT STAFF
+The University conforms to the Fair Labor Standards Act (FLSA) for Public Employment. All non-exempt staff members shall be compensated at time and one-half (1-1/2) for all time worked in excess of forty (40) hours for the week. Such overtime shall be compensated, at the University’s option, either by (a) payment, or (b) compensatory time off.
+For the purpose of computing overtime, all time worked on a holiday will be counted toward computing overtime. This will not affect the payment of the holiday premium paid for working a holiday. All holidays paid for but not worked will not be counted as time worked for the purpose of computing overtime.
+B.	EXEMPT STAFF
+Exempt staff members are not eligible for overtime payment. Compensatory time off for exempt staff members shall be in accord with current university policy.
+7.03 Pay Period:
+Frequency of payment will continue as heretofore. All paychecks shall be delivered and available on the Friday of each pay week. Pay stubs will clearly identify specific hours worked and compensated. On a quarterly basis, the University will provide a written summary of each staff member status of accrued, unused benefit time and compensatory time.
+Staff members may opt for direct deposit of their paycheck into their personal bank account. Staff members may pick up their pay stubs on payday, or for one (1) week thereafter at a designated site at each facility. When an error in pay has been made, the
+Page 20
+University will issue a check with the correction within two payroll (2) workdays of notification or error, with proper deductions.
+7.04 Salary Increase Date:
+Salary increases that may be delayed will be paid retroactively to the date upon which the increase is scheduled to take effect.
+7.05 Daylight Savings Time:
+If a non-exempt staff member actually works one (1) hour greater than his/her scheduled hours of work as a result of an adjustment in daylight savings time, he/she shall receive one (1) hours pay at either straight time or at time and one-half (1-1/2) depending on the hours worked that week. If a non-exempt staff member works one (1) hour less than his/her scheduled hours of work as a result of an adjustment in daylight savings time, he/she will be compensated for the time actually worked.
+8.	MONETARY BENEFITS: TIME NOT WORKED
+8.0	1 Holiday Designation:
+Effective January 1, 1996, the number of holidays will be fifteen (15) holidays. The fifteen (15) holidays are:
+New Year’s Day	Labor Day
+Martin Luther King Birthday	Thanksgiving Day
+Good Friday	Day After Thanksgiving
+Memorial Day	Christmas
+Independence Day	Float Holiday (6)
+The six (6) float holidays will be issued to those full-time and part-time staff members who are in active pay status as of January 1st of each year.
+Except in the case of an emergency, a request for float holiday must be submitted to the supervisor’s manager or immediate supervisor for review and approval at least five (5) days in advance of its intended use.
+Effective January 1, 1998, all bargaining unit members hired or returning from unpaid leaves of absences between January 2 and July 1 of any year will be credited with three (3) float holidays within one full pay cycle after July 1. No float holidays will be credited for individuals hired or returning from leave of absences from July 2 - December 31 (individuals returning from leave from January 2 to July 1 will only receive the three float holidays if they did not already receive float holidays for the particular year).
+Float holidays may be used for emergencies, personal matters, observation of religious or other days of celebration (but no officially recognized University holidays).
+Page 21
+Managers or immediate supervisors shall have the right to require proof of an emergency. The University agrees that such proof shall be kept confidential. Failure of a supervisor to supply such proof shall result in a salary deletion for the day(s) and appropriate disciplinary action may be taken if warranted.
+For staff members subject to a seven (7) day a week schedule, New Year’s Day, Independence Day, and Christmas shall be observed on the actual day they occur, e.g., if Christmas falls on Saturday, it shall be observed on Saturday. For staff members subject to a Monday - Friday schedule, these holidays will be observed as follows:
+If the holiday falls on a Saturday, it will be observed the preceding Friday. If it falls on Sunday, it will be observed the next day, Monday.
+Staff members, absent compelling documentation of illness or emergency, who call off on the scheduled day before or after a holiday or if scheduled to work the holiday call off, will be salary deleted and forfeit the holiday.
+8.0	2 Holiday Entitlement:
+The University shall have the right, at its sole discretion, to require any staff member to work on the holidays specified above. The University agrees to assign holidays off on an equitable and rotational basis.
+If the holiday falls on a staff member’s day off, he/she shall receive another day off for the holiday. The holiday may not be used prior to the date the actual holiday is observed and shall be scheduled within sixty(60) calendar days after the date the actual holiday is observed. If the staff member has requested, but not received the compensatory time off for the holiday by the sixty(60) calendar day period, the University will either pay the staff member for the holiday at his/her base rate of pay or shall be scheduled for the time off by the next pay period.
+If a holiday falls during a staff member’s vacation, the day will be observed as a holiday and vacation time will not be charged for the day.
+8.0	3 Holiday Pay:
+A.	Non-exempt supervisors who are required to work on a holiday shall be paid at the rate of time and one-half (1-1/2) their base rate of pay for all hours worked. In addition, they shall receive either a scheduled day off or be credited with one(l) day of compensatory time.
+Page 22
+B.	Exempt supervisors who are required to work on a holiday shall be credited with one (1) day of compensatory time unless waived by mutual agreement between the supervisor and his/her manager or immediate supervisor. The exempt supervisor and his/her manager or immediate supervisor shall schedule the compensatory time off within a sixty (60) calendar day period.
+C.	Effective January 1, 1996, non-exempt supervisors required to work on the following holidays will be paid at the rate of time and one half (1-1/2) of their basic rate of pay for all hours worked. In addition, the non-exempt supervisors shall receive either a scheduled day off or be credited with one (1) day of compensatory time:
+New Year’s Day	Independence Day
+Christmas	Martin Luther King’s Birthday
+Labor Day	Memorial Day
+Thanksgiving
+D.	Non-exempt supervisors who are required to work on Good Friday or the Day after Thanksgiving shall be paid at straight time for all hours worked. In addition, the non-exempt supervisors will receive a scheduled day off or be credited with one day compensatory time.
+E.	Holidays for Twelve Hour Shift Staff
+1.	All full and part-time staff in active status January 1 of each year will be credited with six (48 hours) float holidays and may use these holidays in accordance with University Policy and this Article.
+2.	Full and part-time staff that are routinely scheduled to work twelve (12) hour shifts shall be compensated for the nine holidays (72) hours. University designated holidays are as follows:
+a.	For the period July 1 through November 30 of each year of this Agreement, each staff member will be compensated in a lump sum payment in December for all four (4) University designated holidays which fell within this period while the staff member was actively employed. A staff member not in active status on a day designated by the University as a holiday will not receive compensation for such holiday.
+Page 23
+b.	For the period December 1 through June 30 of each year of this Agreement, each staff member will be compensated, in a lump sum payment in July, for all five (5) University designated holidays which fell within this period while the staff member was actively employed. A staff member not in active status on a day designated by the University as a holiday, will not receive compensation for such holiday.
+c.	A non-exempt staff member scheduled to work on a contractually designated holiday will be compensated, at the rate of time and one-half at his/her base rate of pay or at his/her regular rate of all hours worked, depending on the holiday (See 8.02C and 8.02D).
+d.	Upon termination of employment or upon transfer out of the twelve hour shift, the staff member will be compensated for accrued holiday pay for any University designated holiday which has not been paid less any monies the staff member may owe the University.
+8.0	4 Vacation Amount:
+Vacation accruals for newly hired or rehired staff will commence upon the successful completion of the first ninety (90) days of employment and will be credited retroactively to the staff member’s date of hire or rehire.
+Vacation time will accrue in each calendar year in accordance with the following schedule. The annual rate will change in the month when the staff member reaches a service milestone if the staff member’s anniversary date is before the 16th of the month and will change effective the following month if the staff member’s anniversary date is the 16th of the month or after.
+Vacation accruals are cumulative from one year to the next up to an amount equal to one (1) year of accruals. When unusual circumstances warrant an exception, amounts greater than one (1) year can be carried over with approval from the supervisor’s department head and the Campus Director of Human Resources.
+8.05 Vacation Accruals:
+Effective January 1, 2000: Length of Service 0-10 Years
+11-20 Years
+21 Years and Greater
+Annual Rate Per Month 1-1/4 Days 1-2/3 Days
+2-1/2 Days
+A staff member will be paid for vacation at his/her base rate of pay.
+Page 24
+8.0	6 Vacation Entitlement:
+All regular Part-time staff who are included in this bargaining unit shall accrue vacation credit on a proportionate basis based upon the number of hours the staff member is regularly scheduled to work. Vacation credit shall not accrue when a staff member is on an unpaid leave except that he/she will receive credit for the month the leave commenced provided the leave commenced on or after the 16th and will receive credit for the month he/she returns from leave provided the staff member returns on or prior to the 15th of the month.
+A staff member who has resigned with appropriate notice, or who has been discharged except for cause, shall be entitled to vacation allowance of unused vacation time accrued within the time limit described previously, less any overdrawn sick time allotment except that a staff member separated during the initial hire or rehire probationary period will not be entitled to such allowance.
+If a staff member dies having vacation credits accrued within the limits described previously, a sum of money equal to the compensation computed on said staff member’s base salary rate at the time of death shall be calculated and paid to his/her estate less any overdrawn sick time allotment.
+8.0	7 Vacation Scheduling:
+The vacation period will be the entire year. The staff member will, subject to the University’s operating requirements, have his/her choice of vacation time; it being recognized, however, that vacations must be scheduled by the University in manner designed to ensure the effective and efficient operation of the University, including staffing needs. No part of a staff member’s scheduled vacation may be charged to sick time.
+The University may restrict the amount of vacation time granted to a staff member during prime vacation periods to allow for equitable distribution of prime vacation time among staff members. The prime vacation periods will normally be June 1 through Labor Day, December 1 to January 15th.
+A staff member may carry a maximum of one (1) year of accrued vacation allowance forward into the next succeeding year.
+By September 1st of each year, a staff member’s department head/designee will advise the staff member of the number of vacation days remaining which must be used by the end of the calendar year or forfeited.
+Vacation requests for each “vacation year” of April through March 31 that involve the use of one (1) or more weeks of vacation, must be planned and requested by February 15th of each year. The staff member will submit three (3) choices of vacation time in order of priority. In situations in which choices of vacation are timely and two (2) or
+Page 25
+more staff members request the same time period, University seniority will prevail. A written response to the staff member’s request will be provided by March 15th.
+Failure to submit a vacation request by February 15th will result in loss of seniority status as it relates to vacation requests for the upcoming year. Any vacation requests submitted after February 15th, including those of less than (1) week, will be treated on a first come basis and not decided by seniority. A request must be submitted a minimum of thirty (30) days before the effective date of the vacation, unless waived by mutual agreement with the department head/designee. A written response to the request will be provided within seven (7) calendar days of receipt.
+With approval, vacation time may be taken as single or multiple days, single or multiple weeks.
+Staff members assigned to units that are open 7 days a week, 24 hours a day, shall not be required to find replacement coverage for themselves as a condition of approval of requested vacation time, including weekends, unless the vacation is requested after the schedule is posted. Notwithstanding the above, the University has at all times the discretion to deny vacation requests based upon its operational needs, including staffing.
+8.0	8 Sick Leave, Entitlement and Amount:
+Staff hired on or after July 1, 1993 shall accrue sick days on the basis of one (1) day per month. Effective January 1, 2000, staff hired before July 1, 1993 shall accrue sick days on the basis of one and one sixth (1-1/6) days per month. Effective January 1, 2001, all staff shall accrue days on the basis of one (1) day per month.
+Sick pay accruals are cumulative FROM ONE YEAR TO THE NEXT.
+Staff with five (5) or more years of service will be eligible for an emergency advance of up to one (1) year’s equivalent of sick leave under the following circumstances:
+A.	At least twenty (20) days have been or will have been continuously used for the same emergency immediately before any of the advanced days. These days must have been used to cover absences for illness.
+B.	The staff member has not been the subject of a written warning, suspension or any other discipline for attendance within the previous year. All evaluations over the last two (2) years must have been satisfactory.
+The application for the advance must be approved by the Department Head and accompanied by documentation of the illness.
+C.	The application must also be approved by the Campus Human Resource Director or his/her designee.
+Page 26
+D.	The approval/disapproval of the application for the emergency advance of sick leave is grievable up to Step II of the Grievance Procedure. The decision of the Step II Hearing Officer is final and not subject to arbitration.
+E.	Should State regulations pertaining to the issue of sick leave donation become applicable to members of the bargaining unit during the term of the contract, the parties agree to meet and discuss the extension of such a benefit to members of this unit.
+8.0	9 Sick Leave Notice and Pay:
+A staff member will be paid for sick leave at his/her base rate of pay.
+Staff are required to comply with the departmental call in procedure. If the illness extends beyond one (1) day, the staff member must continue to call in ill each day unless they have already indicated to his/her manager or immediate supervisor an expected return date. If the illness extends beyond the expected return date, he/she must call in with a new expected return date.
+Supervisors taken ill while on duty and who leave their work area with their manager’s permission shall be paid for the authorized time spent on the employer’s premises and may use accrued sick leave if they desire payment for the balance of the work shift. Supervisors may be excused without seeking medical attention at the University by their manager. Any non-exempt supervisor identified as an attendance abuser, in accordance with the University’s Attendance Policy, will not be paid for time spent on the University’s premises while seeking medical treatment. Such time will be unpaid.
+Bargaining unit members can use no more than thirty four (34) weeks of paid sick leave in any twelve-month period, except as provided in Article 9.01/9.02. The exception is staff hired prior to 1983 who can use all sick time prior to applying for a medical leave of absence.
+Whenever a regular staff member retires, except a staff member who elects deferred retirement, pursuant to the provisions of a state administered retirement system and has to his/her credit any accrued sick leave, he/she shall be compensated for such accrued sick leave as follows: The supplemental compensation amount payment shall be computed at a rate of one-half (1/2) of the eligible staff member’s daily rate of pay for each day of unused accumulated sick pay accruals based upon the average annual base rate of compensation received during the last year of his/her employment prior to the effective date of his/her retirement provided however that no lump sum supplemental compensation payment shall exceed fifteen thousand ($15,000.00) dollars.
+The compensation shall be paid in accordance with the State rules then applying.
+Page 27
+8.10	Leave for Death or Serious Illness in Immediate Family:
+At the time of a death of a family member, up to three (3) consecutive work calendar days off with pay will be granted to staff provided they are scheduled to work those days and provided sick pay or other paid leave is accumulated to the credit of the staff member and is so charged.
+Members of the immediate family are defined as spouse, children, parents, brothers or sisters, parents-in-law or other relative or significant others living in the staff member’s household.
+In cases where the death of a grandchild, grandparent, brother-in-law, aunt or uncle, niece or nephew occurs, up to one(l) calendar day off with pay will be granted to attend the funeral services, provided sick pay or other paid leave is accumulated to the credit of the staff member, and is so charged.
+A short period of emergency attendance upon a member of the staff member’s immediate family who is seriously ill and requiring the presence of such staff member may be granted in accordance with University policy and the Family Leave Act. A staff member can use sick days to take care of a seriously ill family member pursuant to University Policy Number 30-01-40-40:10.
+Regular Part Time staff will receive prorated benefits.
+8.11	Jury Duty Leave Amount:
+Supervisors shall be granted necessary time off, at their base rate of pay, when they are summoned and perform jury duty as prescribed by applicable law and provided the staff member was scheduled to work on the day(s). In no case will jury duty be granted or credited for more than the standard workday or workweek for the supervisor.
+The receipt of a notice to report for jury duty must be reported immediately to the supervisor’s manager or immediate supervisor.
+8.12	Jury Duty Leave Procedure:
+The supervisor shall notify his/her manager or immediate supervisor immediately of his/her requirement for this leave, and subsequently furnish evidence that he/she performed the duty for which the leave was requested.
+If jury duty is canceled on a day the supervisor would have worked, he/she must immediately notify his/her manager or immediate supervisor and may be required to report to work.
+Page 28
+8.13	Court Appearance:
+Supervisors shall be granted necessary time off, at his/her base rate of pay, when he or she is summoned to testify at depositions or in court, on any matter arising within his/her scope of employment at the University. The supervisor shall immediately report receipt of any subpoena or court order related to his/her employment at the University to the University’s Office of Legal Management and to their manager or immediate supervisor.
+8.14	Leave of Absence Limitation:
+All leaves as described above must be taken at the time of the related occurrence or shall be waived. Supervisors will be terminated for obtaining leave by false pretense or for failing to return from a leave in accordance with University policy.
+8.15	Meal Period:
+Non-exempt staff who work during their regularly scheduled meal period will, at the option of the University, be paid in accordance with the Federal Labor Standards Act (FLSA). Exempt staff shall be granted a meal period, during which time they shall remain available to respond to calls from the employer, unless the employee arranges for qualified coverage in his or her absence.
+9.	LEAVES OF ABSENCE
+9.0	1 Basis and Amount:
+Type of Leave	Maximum Length
+Medical..............................................18	weeks
+(After use of accumulated sick time)
+Military................In	accordance with State and Federal Statute
+Family..............................As	per current University Policy
+Academic...............................................6 months
+Personal...............................................1 month
+9.0	2 Procedure:
+A.	Medical Leave: Except for reasons of health and safety or inability to perform the job, a pregnant staff member shall be permitted to work. Medical leaves of absence due to maternity shall be treated the same as other medical leaves.
+A medical leave shall be granted upon presentation of a letter to the supervisor from the staff member’s personal physician which must state when the staff member’s inability to work commenced, nature of the illness or injury and expected date the supervisor will be able to return to work. The University may, at its cost, have the staff member requesting a medical leave examined by a physician of the University’s choosing as a condition of granting, continuing or extending a medical leave of absence.
+Page 29
+As provided by Article 8.09, paid sick time can be used up to thirty-four (34) weeks. Once either all sick time is used or thirty four (34) weeks expire, staff may then apply for up to an eighteen (18) week unpaid medical leave of absence. Staff who have applied for medical leave after the expiration of thirty-four (34) weeks of paid sick time will be able to use any remaining sick time accruals to be paid during the medical leave of absence. The total amount of time that a bargaining unit member may be continuously out of work cannot exceed fifty-two (52) weeks.
+Upon return from leave, the supervisor must present to his/her manager or immediate supervisor documentation from the supervisor’s personal physician indicating the date the staff member has been cleared to return to work, and that the supervisor is able to return to work without restriction.
+B.	Military Leave: Military Leave will be governed by applicable State and Federal Statute.
+C.	Family Leave: As per current University policy.
+D.	Workers Compensation: Staff members in this bargaining unit who become disabled because of a job-related injury shall, if approved by Risk and Claims Management, BE GRANTED A LEAVE OF ABSENCE. Payment during such leave will be made in accordance with the New Jersey Worker’s Compensation Act. If not approved by Risk and Claims Management, application may be made to use sick leave, if available and then application may be made for a medical leave of absence under University policy.
+E.	Personal Leave: In certain circumstances, supervisors may be permitted to take an unpaid personal leave of absence from their positions with the University. Such leaves may be applied for and are available to regular Full Time and Part Time supervisors working twenty (20) or more hours per week provided they have completed six (6) months of continuous service.
+Requests for personal leaves must be accompanied with the reason for the leave and duration and must be submitted in writing to the supervisors manager or immediate supervisor along with any supporting documentation.
+Such request must be submitted at least two (2) weeks in advance of the starting date for the leave except in the case of a bonafide emergency. A manager or immediate supervisor shall have the right to require proof of an emergency as a condition for approval.
+The maximum length of a personal leave is one (1) month.
+Page 30
+F.	Return from Leave: The University shall place a supervisor returning from an unpaid leave of six (6) months or less in his/her position, or if such position is unavailable, to an equivalent position. A supervisor who fails to return from leave within five (5) days from his/her scheduled date of return and without securing permission from his/her manager or immediate supervisor to extend such leave, shall be discharged.
+A supervisor who has utilized the maximum length of leave and who is unable to return at that time shall resign in good standing or in the alternative will be terminated for being unable to return from leave.
+10.	MONETARY BENEFITS: HEALTH BENEFIT, PRESCRIPTION DRUG PROGRAM, DENTAL CARE PROGRAM, EYE CARE PROGRAM, LIFE INSURANCE, PENSION DISABILITY, PARKING, TUITION REFUND
+10.01 Health Benefits:
+All members of the unit who are eligible for the State’s health insurance pension/life insurance benefits shall be provided with these benefits on the same basis and to the same extent provided to all State staff members whose contracts expired June 30, 1999. Should negotiations or legislative action change these benefits for State staff members during the life of this contract, the benefits for eligible members of the unit shall change accordingly. If the State should notify the University that they will not cover Part-Time (less than 35 hours per week) staff members, the University will not continue such coverage.
+10.02 Prescription Drug Program:
+The State administered Prescription Drug Program shall be continued in keeping with the legislative appropriation.
+10.03 Dental Plan:
+It is agreed that the State shall continue the Dental Care Program, during the period of this Agreement. The program shall be administered by the State and shall provide benefits to all eligible staff and their eligible dependents.
+An optional Group Dental Program which provides services through specific dental clinics will be made available to staff members in the unit. Participation in this program shall be voluntary with a condition that each participating staff member authorizes a biweekly salary deduction not to exceed fifty (50%) percent of the cost of the coverage for a one (1) year period. Staff members are able to enroll in only one (1) of the two (2) programs or in no program at all.
+Page 31
+10.04 Eye Care Program:
+It is agreed that the University shall continue the Eye Care Program during the period of this Agreement. The program shall be administered by the University and shall provide benefits to all eligible staff and their eligible dependents (spouse and unmarried children under twenty-three (23) years of age who live with the staff member in a regular parent/child relationship).
+The program shall provide for eligible staff and dependents to receive a thirty-five ($35.00) dollar payment for prescription eyeglasses with regular lenses or a forty ($40.00) dollar payment for such glasses with bifocal lenses. The program shall provide thirty-five ($35.00) dollars per exam annually and/or exam to be provided at campus.
+Eligible staff and eligible dependents (as defined above) shall be eligible for a maximum payment of a thirty-five ($35.00) dollars or the cost, whichever is less, for an eye examination by an Ophthalmologist or an Optometrist.
+Each eligible staff member and dependent shall be eligible to receive only one(l) payment for glasses and one (1) payment for examinations during the fiscal periods of July 1, 1999 to June 30, 2001. The extension of benefits to dependents shall be effective only after the staff member has been continuously employed for a minimum of sixty (60) days. Proper affidavit and submission of receipts are required of the staff member in order to receive payment and must be submitted to the local Human Resources or Benefits office. The program will discontinue after June 30, 2001.
+10.05 Life Insurance Program:
+Life insurance coverage is provided as part of the Public Employee Retirement System (PERS), or the Alternate Benefit Program. Both programs are administered by the New Jersey Division of Pensions. Eligibility for participation by staff members and benefits are governed by statute and Rules and Regulations promulgated thereunder and administered exclusively by the New Jersey Division of Pensions.
+10.06 Pension:
+The University is a participant in the Public Employee Retirement System (PERS) and the Alternate Benefits Program. Eligibility for participation by staff members and benefits are governed by statute and Rules and Regulations promulgated thereunder and administered exclusively by the New Jersey Division of Pensions. A written description of the PER Program or Alternate Benefits Program can be obtained from the University’s Benefits or Campus Human Resources Office.
+Page 32
+10.07 Temporary Disability Plan:
+The University agrees to include staff in this unit in the State of New Jersey Temporary Disability Plan. It is a shared cost plan that provides payments to staff members who are unable to work as the result of non-work connected illness or injury and who have exhausted their accumulated sick leave.
+10.08 Parking:
+Beginning July 1, 1994 and for every fiscal year until a successor agreement is concluded, the parking fee for all bargaining unit members will be equal to .5% of the base salary of the last pay period of the remainder of the fiscal year based on their salary at time of hire.
+10.09 Tuition Refund:
+A.	Effective January 1, 2000, the University will reimburse all Full and Part-time staff up to nine hundred dollars ($900.00) per semester for tuition costs for courses successfully completed with a grade of a “C” or better. The annual maximum reimbursement will be two thousand seven hundred dollars ($2,700.00). Effective January 1, 2001, reimbursement will be one thousand ($1,000.00) dollars per semester, maximum reimbursement three thousand ($3,000.00) dollars per year.
+B.	There will be no reimbursement for incidental fees incurred in the courses.
+C.	The University will reimburse staff within six (6) weeks of submission of tuition receipts and grades by the staff member.
+D.	Effective January 1, 1997, there shall be no caps on the number of semesters for which a supervisor can receive a tuition refund.
+E.	Supervisors in the Mental Health and Social Work professions shall be eligible to receive tuition reimbursement for course work at a post-Master degree “institute” or an equivalent program in their fields.
+F.	Effective September 1, 2000, if a staff member takes a course at a non-UMDNJ school that allows for a deferred tuition reimbursement, the staff member will not be required to pay the school first and then be reimbursed by the University. Provided that the staff member successfully completes the course with a grade of “C” or better and submits an appropriate invoice, the University shall issue a check to the staff member (within the maximum amounts set forth in this section) and the staff member shall submit such check to the non-UMDNJ school. However, it is the responsibility of the staff member to make such payments and the University shall be held harmless from any disputes between the staff member and the non-UMDNJ school regarding tuition payments.
+Page 33
+11.	MONETARY BENEFITS MISCELLANEOUS
+11.01 Terminal Benefits:
+A full-time or part-time staff member whose employment is terminated by reason of permanent layoff will receive as a terminal allowance:
+a)	Three (3) weeks notice or compensation at the staff member’s regular compensation rate to the extent such notice is deficient.
+b)	Accrued but unpaid vacation and compensation time to the staff member’s termination date.
+11.02 Resignation:
+A staff member who terminates by resignation will give the University three (3) weeks written notice. Staff members who resign will be entitled to all accrued but unused vacation and compensation time, less any sick time advanced but not accrued.
+Staff who terminates by resignation or for any other reason must return all University property, including but not limited to ID cards, parking tags and keys, and computer software. Failure to return this property will allow University Management to withhold final pay checks.
+After submitting a notice of resignation, a staff member shall only be eligible to use a maximum of two float holidays within the last three weeks of employment, provided the request for such float holidays are approved.
+11.03 Identification Cards:
+The University shall furnish identification cards to all staff members. Lost cards shall be reported immediately. The staff member shall be responsible for paying for the replacement of lost cards at the then prevailing rate.
+11.04 Experience - Rehire:
+A staff member who leaves the University in good standing and is rehired in the same job title within one (1) year of his/her date of separation shall be placed at the same range and step as when the staff member left.
+11.05 Continuing Education:
+A supervisor may request in writing to his/her manager or immediate supervisor, permission to participate in work-related educational workshops, seminars, conferences and/or conventions. The University will make a reasonable effort to approve such participation.
+Page 34
+The University will grant time off without loss of pay to those supervisors approved to attend Continuing Education conferences.
+Night shift supervisors who are scheduled off to attend Continuing Education programs may be given as a conference day, either the night before, or the night after. Staff will receive a response to their request for participation within two (2) weeks of submission.
+All travel arrangements must be made in conformance with University policy in order to be reimbursable.
+11.06 Uniform Allowance:
+Should the University require staff members to wear uniforms but choose not to provide them, the University will then give all full time staff an annual uniform allowance of four hundred ($400.00) dollars and two hundred ($200.00) dollars for part-time staff.
+Effective July 1, 1997, the uniform allowance will be five hundred ($500.00) dollars for full-time staff and two hundred fifty ($250.00) dollars for part-time staff.
+The uniform allowance will be effective July 1st of each fiscal year to all eligible staff noted above who have completed their initial probation period prior to July 1st. Full or part-time payments will be based on the staff member’s status as of July 1st. The staff member must be in active pay status as of the date of payment.
+11.07 On-Call:
+A.	Non-exempt staff required to work on-call, as defined by the Fair Labor Standards Act (F.L.S.A.), will be compensated as required by the Act. The rate for on-call compensation will be $3.50/hour.
+B.	When a non-exempt staff member is called to work outside his/her regularly scheduled shift, he/she will be compensated for the actual hours worked. The staff member will be guaranteed a minimum of two (2) hours of compensation whether or not the two (2) hours are worked, except when the end of the call-in period coincides with the beginning of his/her regular shift.
+C.	An exempt staff member required to work on-call or who is called to work at a time that the exempt staff member is not normally scheduled to work shall be treated in accordance with Article 6.04 of this Agreement.
+11.08 Shift Differential:
+Effective January 2, 2000, the shift differential for all supervisors who receive the differential shall be $1.10/hour.
+Effective December 31, 2000, the shift differential will be $1.20/hour for all non-exempt supervisors.
+Page 35
+11.09 Reimbursement for Travel:
+Travel expenses will be reimbursed to bargaining unit members as per University Policy Number 00-01-50-10:00.
+12.	HEALTH AND SAFETY
+12.0	1 Health Examination:
+The University will provide to each member of the bargaining unit a physical examination at the time of employment. Thereafter, an exam will be provided if required by the appropriate accrediting authority or the University or by statute.
+Staff members returning from medical or disability leave must present a note from the treating physician which indicates the date the staff member was able to return to duty and certifying the staff member’s fitness to return to work full duty. The University may, at its own cost and expense, have a physician of its choosing perform a physical examination of the staff member to ensure fitness and capability to return to work.
+12.0	2 Employer Obligation:
+The University agrees to provide adequate and regularly maintained sanitary facilities for supervisor’s use. Each supervisor will maintain acceptable standards of personal hygiene and cleanliness in accordance with the requirements of the job.
+The University shall make reasonable provisions for the safety and health of its supervisors and will observe all applicable health and safety laws and regulations. The University will provide safety devices for supervisors when deemed appropriate by the University or as required by law and will provide a reasonably safe and healthy place of employment.
+A supervisor must report incidents of unsafe and/or unhealthful conditions to his/her manager or immediate supervisor immediately. The University shall respond in a timely manner to all health and safety problems reported by the Union and/or bargaining unit members.
+The University and CWA agree to discuss problems concerning health and safety at the bimonthly Labor/Management meetings. Any recommendations concerning improvement or modification of conditions regarding health and safety shall be reported to the University’s Safety Committee by the CWA Union’s Committee representative.
+The University shall, upon request, provide the Union with the results of all health and safety inspections of the facilities of the University. The University shall notify the Union of all such inspections where the inspections were initiated as a result of a Union/bargaining unit member complaint and/or grievance. The University will also notify the Union in cases where on-going health and safety hazards which may affect bargaining unit members are discovered.
+Page 36
+13.	NO STRIKE/NO LOCKOUT
+The Union and the bargaining unit members agree to refrain from any strike, work stoppage, slowdown concerted refusal to work overtime, or concerted sick call, and will not support or condone any such job action, nor prevent or attempt to prevent the access of any person to the University’s facilities during the term of this Agreement.
+The University agrees that there shall be no lockouts during the term of this Agreement.
+14.	DISCIPLINE
+14.01 Definition:
+Discipline shall mean official written warning, suspension without pay, disciplinary demotion or discharge from employment at the University. Dismissal from employment or demotion based upon a layoff or operational changes made by the University shall not be construed to be discipline. Oral counseling, although in writing, is not to be considered discipline and shall not be placed in the staff member’s central personnel file.
+The University shall have the right to discipline staff members for just cause. Just cause for discipline including discharge from employment shall include those causes set forth in the University Rules and Regulations. This list of causes is not exclusive and discipline up to and including discharge from employment may be made for any other combination of circumstances amounting to just cause. The University reserves the right to substitute a second written warning for suspension without pay and such substituted warning shall substitute for suspension in the University’s scheme of progressive discipline. Such warning shall not be arbitrable.
+The University may, in lieu of suspension for a fixed number of days, and upon mutual consent of the union and the supervisor, deduct up to five days from vacation balances. The disciplinary penalty will be equivalent to the same number of days of suspension and treated for all purposes as equivalent to a suspension.
+Suspension without pay of greater than three working days, disciplinary demotions or discharge from employment shall be subject to arbitration as specified in the grievance procedure set forth in Article 14.02. No other disciplinary actions shall be subject to arbitration.
+The University will notify the Union in writing of any suspension or discharges within seventy-two (72) hours of the action not including weekends. Failure by the University to properly notify the Union will not void any disciplinary action, but the time limit for filing a grievance will not commence until the date to the Union or staff member was notified of the action in writing.
+Page 37
+14.02 Grievance Procedure:
+A.	DEFINITION
+1.	A breach, misinterpretation or improper application of the terms of this Agreement; or
+2.	A claimed violation, misinterpretation, or misapplication of rules or regulations, existing policy or orders of the University affecting the terms and conditions of employment.
+B.	PURPOSE
+The purpose of this procedure is to assure prompt and equitable solutions of problems arising from the administration of this Agreement or other conditions of employment by providing an exclusive vehicle for the settlement of bargaining unit member grievances and to facilitate the uninterrupted operations of the University.
+C.	GENERAL PROVISION
+No grievance settlement reached under the terms of this agreement shall add to, subtract from or modify any terms of this Agreement.
+Nothing in this Agreement shall be construed as compelling the Union to submit a grievance to arbitration. When a grievant has Union representation, the Union’s decision to request the movement of any grievant at any step or to terminate the grievance at any step shall be final as to the interests of the grievant and the Union.
+The terms of this Article shall not apply to probationary staff members. This exclusion shall not apply to regular staff serving a probationary period due to a change in job title which is included in the negotiating unit, except that under no circumstances will the University’s judgment as to the adequacy of the staff member’s performance/conduct and/or attendance in a probationary period or any action taken in pursuance thereof be deemed to be discipline or subject to grievance.
+All time limits are of the essence and may be extended only by mutual agreement between authorized representatives of the University and the Union. Grievances not raised and processed in strict and absolute accordance with the grievance procedures and time limits will be waived by the Union and staff member and will not be considered.
+A grievance which affects a substantial number or class of staff members, or in a case of suspension or discharge, or which the University representative at Step One lacks the authority to settle, may initially be presented a Step Two of the grievance procedure.
+Page 38
+D PRELIMINARY INFORMAL PROCEDURE
+A supervisor may orally present and discuss a grievance with his/her manager or immediate supervisor. At the supervisor’s option, he/she may request the presence of a Union representative. If the supervisor exercises this option, the manager or immediate supervisor may determine that such grievance be moved to the first formal step.
+Informal discussions shall not serve to extend the time within which a grievance must be filed, unless such is mutually agreed upon in writing.
+If an informal discussion does not produce a satisfactory settlement, the grievant may move the grievance to the first formal step.
+E. FORMAL STEPS
+Step One:
+All disciplinary grievances must be signed by the individual grievants prior to the filing of the Step 1 (or Step II) appeal or within two (2) workdays of the filing of the appeal.
+The grievance shall be reduced to writing and submitted to the department head within fourteen (14) calendar days, excluding holidays, from the date upon which the bargaining unit member first gained or should reasonably have gained knowledge of the alleged violation of the Agreement or policy took place. The grievance shall be signed by the grievant and/or Union representative, and shall set forth the nature of the dispute, the relief sought and the specific provision of the Agreement/policy alleged to have been violated.
+The department head shall answer the grievance in writing within seven (7) calendar days, excluding holidays, after its receipt.
+Step Two:
+The grievance may be appealed by written notice to the Vice President for Human Resources of the University or his/her representative within seven (7) calendar days, excluding holidays, after the Step One decision was rendered or due.
+The grievances filed initially at Step II pursuant to the fifth paragraph of 14.02C, must be filed within twenty-one (21) calendar days of the date upon which the bargaining unit members first gained or should reasonably have gained knowledge of the action which is the subject of the grievance.
+Page 39
+The Vice President for Human Resources or his/her representative will convene a hearing within twenty-one (21) calendar days, excluding weekends and holidays, after receipt of the grievance unless extended by mutual agreement. The bargaining unit members may be represented at such hearing by the Union representative or designee. The Vice President for Human Resources or his/her representative will render a decision within twenty-one (21) calendar days from the date of the conclusion of the hearing.
+Step Three Arbitration:
+In the event the grievance has not been satisfactorily resolved in Step Two and the grievance involved an alleged violation of the Agreement as described in the definition of a grievance in A (1) above or in the case of discipline involves the following implemented disciplinary actions:
+1.	Written warnings
+2.	Involuntary Demotion
+3.	Discharge
+4.	Written warnings in lieu of suspensions of greater than three (3) days then a request for arbitration may be brought only by the Union within twenty-one (21) calendar days from the date the Union receives the Step Two decision.
+The request for arbitration shall be submitted in writing to the Public Employment Relations Commission, with a copy sent to the Director of Labor Relations.
+Arbitrators shall be selected, on a case-by-case basis, under the selection procedure of the Public Employment Relations Commission. A transcript of all arbitration hearings may be taken. All expenses of arbitration shall be borne by the University and Union equally, except that the cost of preparing and presenting each party’s case or charge for a late cancellation shall be borne by each respective party.
+The arbitrator selected shall be requested to hold the arbitration within one hundred and eighty (180) calendar days from receipt of the request for arbitration and render his/her decision within thirty (30) calendar days after the close of the hearing unless such time is extended by mutual consent of the parties in writing.
+The arbitrator shall have the right to subpoena relevant documents and witnesses if requested by either party.
+Page 40
+The function of the neutral arbitrator shall be a judicial rather than a legislative nature. The arbitrator shall give effect to the plain meaning of the Agreement language and shall not interpret such language unless the meaning of the language is unclear and ambiguous. When an arbitrator is called upon to interpret language in this Agreement, he/she shall render a decision which is consistent with the plain meaning of the interpretation and with general considerations reserved to management by the Public Staff Member Relations Act and case interpretation of the Act.
+The arbitrator shall not have the power to add to, subtract from or otherwise amend this Agreement nor shall he/she have the authority to prescribe a monetary award as a penalty for a violation of this Agreement.
+Should the arbitrator reinstate a staff member with back pay, the staff member may be paid for the hours he/she would have worked in his/her normally scheduled work week, at his/her base rate of pay less any deductions required by law or other off-setting income for the back pay period specified by the arbitrator.
+The decision of the arbitrator shall be final and binding upon the University, the Union and staff member, unless either party seeks a review in an appropriate court proceedings. In the event either party seeks a review, such procedure shall operate as a stay of the arbitrator’s award until the Judicial review is concluded.
+The terms of any settlement agreed upon in a case that has been filed for arbitration shall be implemented as soon as practical, but in any event no later than forty-five (45) days after the agreement is fully executed. The agreement may contain, if appropriate, either as a term of the agreement, or as an appendix, a statement(s) concerning the implementation of the terms of the agreement.
+With respect to contract interpretation grievances, the scope of Judicial review shall be limited to determining whether the arbitrator’s award is within the limits of the authority of the arbitrator as set forth in this Article.
+A neutral arbitrator may hear and decide only one grievance during one arbitration proceeding unless otherwise mutually agreed in writing by the parties. In the event that either party asserts that the grievance is barred or waived by the grieving party’s failure to follow procedures or adhere to the time limits specified in this Article, the neutral arbitrator selected in accordance with the provisions contained herein shall render a decision as to the waiver or bar of the issue prior to any hearing on the merits of the grievance, unless the parties mutually agree in writing otherwise. The parties agree that the issue of waiver or bar shall not be decided by the same arbitrator who decides the merits of the grievance, unless the parties mutually agree in writing otherwise. Both parties shall be given ample
+Page 41
+notice of the time and place of any hearing before the arbitrator and shall be afforded ample opportunity to present to the arbitrator evidence and contentions pertinent to the question or questions at issue, including the direct and cross-examination of all witnesses.
+The arbitrator shall not substitute his/her judgment for the University where this Agreement has specified whose judgment will be used or the matter involved has been reserved to the University by law or this Agreement.
+Upon receipt of the arbitrator’s award, corrective action, if any, will be implemented as soon as practical, but in any event no later than thirty (30) calendar days after receipt of the arbitrator’s award, unless a party wishes to challenge the award.
+If the arbitrator’s decision is not challenged within thirty (30) calendar days, the decision shall be final and binding. If challenged, the appropriate party must initiate such legal proceedings as available within thirty (30) calendar days of receipt of such award from the arbitrator. In the event such legal remedy is pursued, corrective action will be implemented no later than fifteen (15) calendar days after final resolutions by the courts.
+15.	NONDISCRIMINATION
+Neither the University nor the Union will discriminate against any staff member or applicant for employment, in any matter relating to employment because of race, color, creed, national origin, ancestry, nationality, sex, marital status, age, sexual orientation, or liability for service in the Armed Forces of the United States of America. Neither the University nor the Union will discriminate against any staff member because he/she is or is not a member of the Union, or because he/she has filed any complaints or grievance with the University or the Union.
+16.	SUBCONTRACTING SERVICES
+If the University contemplates contracting work normally performed by staff covered by this Agreement the University agrees, prior to the execution for such contract to meet with the Union for discussion of the proposed contract. If such a contract is executed, the University agrees to give displaced staff consideration concerning other positions at the University for which they are qualified.
+If such subcontracting necessitates the layoff of personnel, affected staff shall be given at least thirty (30) calendar days notice prior to being laid off.
+Page 42
+17.	SALARY/ADJUSTMENT
+17.0	1 Correcting Payroll Errors:
+Payroll errors amounting to one day’s pay or more, when brought to the attention of the Payroll Department, shall be corrected within 2 payroll workdays from the time the error is reported to Payroll by the affected staff member. Staff members scheduled to be off on payday may receive their paycheck the day before payday in accordance with University Policy.
+17.0	2 Salary Program November 1, 2002 to October 31, 2005:
+A.	Effective November 1, 2002, all bargaining unit members in the unit as of July 1, 2002 shall receive an across the board wage increase of 2.5% of salary, except that those employees receiving a performance rating of “1” shall not be eligible to receive said increase.
+B.	Effective November 1, 2002, all bargaining unit members in the unit as of July 1, 2002 receiving a performance rating of “3” or higher shall receive a merit adjustment. The merit adjustment shall be administered by each operating unit, pursuant to the terms set forth at Section C below. The pool for the merit adjustment shall be equal to one percent (1%) of payroll for each operating unit as of October 1st of the Fiscal Year in which the increase is payable.
+C.	Merit adjustments shall be made as follows:
+Step 1:	Determination of “share” value:
+A “share” of the merit pool shall be determined as follows:
+(a)	The performance rating number (3, 4 or 5) shall be multiplied by the number of people in the operating unit receiving that rating.
+Example:
+10 people receive 5	10x5	= 50
+20 people receive 4	20 x 4	= 80
+50 people receive 3	50x3	= 150
+(b)	Add the total number of “points” of resulting calculation:
+50 + 80+ 150 = 280 “points”
+Page 43
+(c ) Divide the merit pool dollars by the total number of “points” to determine the value of one “share”
+Example:	1% of operating unit payroll = $45,000
+$45,000 divided by 280 = @ $160
+one (1) “share” = $160
+Step 2:	Distribute merit pool by performance rating, as follows:
+(a)	Employees receiving a rating of “5” shall receive a merit adjustment of one share multiplied by five (5):
+Example:	5x $160 = $800
+All employees in the operating unit receiving a rating of 5 would receive a merit adjustment of $800
+(b)	Employees receiving a rating of 4 shall receive a merit adjustment of one share multiplied by four(4):
+Example:	4 x $160 = $640
+All employees in the operating unit receiving a rating of 4 would receive a merit adjustment of $640
+(c)	Employees receiving a rating of 3 shall receive a merit adjustment of one share multiplied by three(3):
+Example:	3 x $160 = $480
+All employees in the operating unit receiving a rating of 3 would receive a merit adjustment of $480
+The numbers set forth above are included for illustrative purposes only, and are not intended to establish a guaranteed level of benefits as to any member of the bargaining unit.
+Page 44
+D.	Effective November 3, 2003 and November 1, 2004, bargaining unit members shall receive a salary increase pursuant to the terms set forth in subsections A through C above.
+E.	Miscellaneous
+1.	Minimums and maximums for each salary range shall be as follows:
+a.	FY03	Increase	by 2.5%
+b.	FY04	Increase	by 2.5%
+c.	FY05	Increase	by 2.5%
+2.	An individual whose salary increase as set forth above would raise his/her salary to an amount exceeding the maximum for the salary range for his/her title will be given a one time salary bonus in lieu of that portion of the salary increase which exceeds the salary range maximum.
+3.	The parties recognize and agree that the amounts distributed to employees pursuant to Section C above may vary from one operating unit to another in any given year, as well as from year to year, based upon the aggregate results of the performance ratings in each operating unit each year.
+4.	In the event that the average performance appraisal score for the entire operating unit is less than a “3”, the following limitation will apply. The maximum merit adjustment which any individual employee may receive shall be capped at (4) times the stated percentage used to define the merit pool based upon the employee’s salary.
+Example:	If the merit pool is defined as one percent (1%) of CWA
+salaries in the operating unit, the maximum increase which an employee may receive is 4% of his/her salary (i.e., 4 x 1% = 4%).
+5.	There will be no other merit increase and no other “cost-of-living” or “across the board” increase other than those referred to above.
+6.	The dollar amounts expressed in this Article are unique to each fiscal year of this agreement and shall in no manner whatsoever be considered part of the status quo subsequent to the expiration of this agreement.
+Page 45
+18.	MAINTENANCE OF BENEFITS
+The fringe benefits, which are substantially uniform in their application to bargaining unit members and which are currently provided to those staff members, shall remain in effect without diminution during the term of this Agreement unless modified herein or by subsequent agreement of the parties.
+19.	COMPLETE AGREEMENT
+The University and the Union acknowledge this to be their complete Agreement inclusive of all negotiable issues whether or not discussed and hereby waive any right to further negotiations except as may otherwise be provided herein or specifically reserved for continued negotiations by particular reference in memoranda of understanding predating the date of signing to this Agreement and except that proposed new rules or modification of existing rules governing working conditions shall be presented to the Union and negotiated upon the request of the Union as may be required pursuant to Chapter 303 of the Law of N.J. 1968 as amended.
+20.	AVAILABILITY OF CONTRACTS
+The University and the Union agree to equally share the cost of printing of this contract. The parties shall use their best effort to print the contract within ninety (90) days of ratification of this Agreement.
+21.	TERM OF AGREEMENT, SUCCESSOR AGREEMENT NEGOTIATION PROCEDURES
+21.0	1 Term of Agreement:
+This agreement shall become effective on the date when the Union presents written certification of proper ratification to the University and shall remain in full force and effect until October 31, 2005. The certification shall be effective if delivered to the University within thirty (30) days of the signing of the Agreement.
+21.0	2 Successor Agreement:
+The Agreement shall be renewed from year to year thereafter unless either party shall give written notice of its desire to terminate, modify or amend the Agreement. Such notice shall be by certified mail prior to February 1, 2005. The parties agree to enter into collective negotiations concerning a successor Agreement to become effective on or after November 1, 2002 subject to the provision above.
+Page 46
+21.03 Negotiations Procedures:
+The parties also agree to negotiate in good faith on all matters properly presented for negotiations. Should an impasse develop, the procedures available under law shall be utilized exclusively in an orderly manner in an effort to resolve such impasse.
+21.04 Notification Addresses:
+Notice for the purpose of giving notice as provided in Article XXI, the University may be notified through the Vice President for Human Resources, 65 Bergen Street, Newark, New Jersey, 07107; and the Union through CW A, District 1, 1030 St. Georges Avenue, Suite 304, Avenel, NJ 07001.
+Page 47
+IN WITNESS WHEREOF, The University of Medicine and Dentistry of New Jersey and the Communications Workers of America, District One, have caused this agreement to be signed by their duly authorized representative as of this day of 2003.
+UMDNJ
+COMMUNICATIONS WORKERS OF AMERICA, AFL-CIO
+Maryann Master, VP of Human Resources Dated:
+Abdel Kanan, Labor Relations Manager
+Dated:
+Gerry Garcia, Director of Compensation
+Dated:
+Lynn Buckley, Staff Representative Dated:
+CWA LOCAL 1031
+John Rose, President Local 1031
+Dated:
+Kathleen Hernandez, Vice President
+Dated:
+Judy Downey
+Dated:
+Kevin P. McGovern, Special Labor Counsel
+Dated:	________________
+Yvonne Sherrill
+Dated:
+Donald Corrette
+Dated:
+Page 48
+APPENDIX A
+List of University Operating for Purpose of Layoff
+For the purpose of Article 5.07, Section C, “University Operating Units” are defined as follows:
+1.	Newark Campus
+1.	University Hospital
+2.	N.J. Medical School (including Graduate School of Biomedical Sciences)
+3.	N.J. Dental School
+4.	School of Nursing and SHRP
+5.	UBHC
+6.	Central Administration
+2.	New Brunswick/Piscataway Campus
+1.	Robert Wood Johnson Medical	School (including School of
+Nursing and SHRP staff)
+2.	UBHC
+3.	Central Administration
+3.	Stratford/Camden Campus
+1.	SOM (including School of Nursing and	SHRP staff)
+2.	UBHC
+3.	Central Administration
+Physical Plant employees on the Newark Campus will be considered to be in one Operating Unit (UH and CA).
+All accumulated benefits shall be retained by employees who bump and are bumped. Seniority will prevail on recalls made within one (1) year from layoff.
+Page 49
+CWA Supervisory Title Listing
+This list is for informational purposes only
+Job Title	Pay Range
+Administrative Analyst II	26
+Administrative Coordinator	23
+Administrative Center for Aging	26
+Administrator Deans Office SOM	24
+Administrator Faculty Practice Billing	25
+Administrator Graduate Medical Education	25
+Administrator Nursing Services	27
+Administrator Officer CABM	26
+Administrator Quality Assurance and Professional Review	32
+Administrative Analyst I	29
+Administrative Coordinator I	21
+Administrative Coordinator II	19
+Administrative Coordinator VP CEO UH	23
+Admissions Officer Assistant Registrar	27
+Admissions Officer	27
+Admitting Supervisor	18
+Admitting Supervisor I	20
+Analyst I	29
+Assistant Business Manager - Patient Billing	25
+Assistant Chief Nurse Administrator	26
+Assistant Coordinator Customer Relations	16
+Assistant Coordinator Transport	20
+Assistant Department Administrator	25
+Assistant Executive Housekeeper I	25
+Assistant Manager Patient Accounts Receivable	23
+Assistant Registrar SOM	25
+Assistant Supervisor Admitting	16
+Assistant Supervisor General Stores	15
+Assistant Supervisor Linen and Laundry	15
+Assistant Supervisor Mail Services	17
+Assistant Supervisor Maintenance and Construction	22
+Assistant to Dean	24
+Assistant Registrar NJMS RWJ	26
+Auditor I	26
+Campus Safety Officer	29
+Cataloging Specialist	23
+Cataloging Specialist I	23
+Chef	21
+Page 50
+Job Title	Pay Range
+Chief Anesthesia Technician	21
+Chief Animal Care Taker	16
+Chief Medical Illustrator	24
+Chief Nuclear Medical Technician	27
+Chief Physician Assistant	31
+Chi ef Radi ati on Therapi st	25
+Chief Respiratory Therapist	28
+Chief Technologist Ophthalmology	25
+Chief Technologist Pathology Newark	27
+Chief Technologist Radiology	27
+Chief Ultrasound Technician	24
+Chief Vascular Technician	26
+Clinical Coordinator Physical Therapy	29
+Clinical Coordinator UBHC	30
+Clinical Res Coordinator	25
+Clinical Supervisor	30
+Computer Network Coordinator	21
+Coordinator Admissions and Student Affairs	20
+Coordinator Admitting Services	22
+Coordinator Alumni Affairs RWJ	24
+Coordinator Alumni and Student Affairs	25
+Coordinator Audio Visual Center	23
+Coordinator Bed Control	19
+Coordinator Clinical Billing	17
+Coordinator Deans Office RWJ	23
+Coordinator Dental Multi Disciplinary Services	24
+Coordinator Environmental Services	23
+Coordinator Faculty Affairs NJMS	25
+Coordinator Food Services Purchasing	22
+Coordinator Grants and Contracts	27
+Coordinator Graphic Arts	24
+Coordinator Image Processing and Distribution	24
+Coordinator Inventory	21
+Coordinator Laboratory Computer Systems	30
+Coordinator Medical Records	20
+Coordinator Patients Accounts Collections	21
+Coordinator Presidents Office	27
+Coordinator Research and Sponsored Programs	29
+Coordinator Research Administration	26
+Coordinator Research Animal Facility	23
+Coordinator Research Evaluation	30
+Coordinator Shipping and Receiving	24
+Page 51
+Job Title	Pay Range
+Coordinator Sports Medicine	21
+Coordinator Sterilization	19
+Coordinator Students Services	19
+Coordinator Transport Services	25
+Coordinator Utilization Review	24
+Coordinator Volunteer Programs	22
+Data Entry Supervisor	17
+Document Delivery Specialist	20
+Education Media Design	22
+Executive Assistant II GSBS	26
+Executive Assistant Pres Hist Lat	29
+Executive Assistant to Associate VP Academic Affairs	30
+Facility Coordinator Business Liaison	25
+Financial Planner	28
+Gift Shop Manager	16
+Grants Coordinator	26
+Health Educator I	25
+Hospice Coordinator	28
+Housekeeping Supervisor I	19
+Industrial Hygiene Infection Control Coordinator	24
+Industrial Hygiene Coordinator	27
+Inventory Coordinator Pathology	21
+1ST Supervisor I	24
+1ST Supervisor II	21
+Laboratory Animal Technologist	18
+Laboratory Supervisor	24
+Library Specialist I	23
+Locksmith Supervisor	26
+Management Studies Specialist	26
+Mental Health Screener	22
+Morgue Supervisor	21
+Nutritionist I	24
+Office Manager	18
+Office Supervisor	17
+Pastoral Care Program Director	30
+Patient Service Manager	27
+Pension Supervisor	23
+Physician Referral Center Supervisor	24
+Planner Scheduler	21
+Planner Scheduler Newark	23
+Principal Accountant	25
+Page 52
+Job Title	Pay	Range
+Principal Management Assistant	24
+Principal Occupational Therapist	24
+Program As si stant	19
+Program As si stant C ABM	19
+Program Assistant Center Aging	20
+Program Assistant Environmental Education	19
+Program Assistant Laboratory Neuroscience	19
+Program Assistant Molecular Genetics	21
+Program Assistant Residency Training	17
+Program Assistant Teaching Courses	17
+Program Clinical Coordinator	25
+Program Coordinator	25
+Program Coordinator	26
+Program Coordinator	23
+Program Coordinator NJ Cancer Institute I	25
+Program Development Specialist I	26
+Program Director Fitness Center	24
+Program Manager Liver Disease Program	25
+Program Supervisor Family Planning	24
+Program Supervisor Genetics	26
+Project Coordinator	27
+Project Leader	31
+Project Planning Coordinator	28
+Public Health Representative I	24
+Purchasing Coordinator	26
+Purchasing Coordinator	21
+Research Teaching Specialist I	28
+Respiratory Therapist Clinical Supervisor	26
+Section Head Pathology	23
+Section Head Photography Production	28
+Section Head Radiology	23
+Section Head Nuclear Medicine	25
+Service Supervisor	29
+Shift Supervisor Pathology	24
+Social Work Coordinator	27
+Social Work Coordinator	25
+Special Projects Coordinator	23
+Senior Buyer	22
+Senior Contract Assistant - Office Manager	23
+Senior Coordinator Energy Utilities	28
+Senior Lead Groundskeeper	19
+Senior Management Assistant	22
+Page 53
+Job Title	Pay	Range
+Senior Nutritionist	26
+Senior Project Specialist	25
+Staff Assistant	19
+Staff Coordinator Board of Trustees	22
+Staffing Coordinator Nursing	21
+Storekeeper 1/Stockroom Supervisor	18
+Supervisory Librarian I	30
+Supervising Accountant	27
+Supervisor Accounts Payable	20
+Supervising Audit Accounts Clerk	17
+Supervising Habilitation Counselor	25
+Supervising Laboratory Technician	21
+Supervising Medical Services Assistant	17
+Supervising Mental Health Screener Specialist	23
+Supervising Mental Health Specialist	21
+Supervising Mental Health Specialist UBHC	21
+Supervising Public Information Assistant	27
+Supervising Public Information Coordinator	28
+Supervising Substance Abuse Counselor	23
+Supervisor Access Area Phlebotomy Team	23
+Supervisor Accounts Payable	21
+Supervisor Addiction Services	22
+Supervisor Anatomy Study Laboratory	22
+Supervisor Animal Care	21
+Supervisor Billing	18
+Supervisor Cafeteria Cashiers	18
+Supervisor Central Supply	18
+Supervisor Claims	27
+Supervisor Clinic	24
+Supervisor Clinical Billing	20
+Supervisor Clinical Engineering	30
+Supervisor Clinical Records	18
+Supervisor Clinic Services	19
+Supervisor Computer Operator	24
+Supervisor Data Control	20
+Supervi sor Di spensary	17
+Supervisor Dental Clinic	19
+Supervisor General Stores	20
+Supervisor Graphic Arts	20
+Supervisor Histology/Immunopathology	25
+Supervisor Hospital Transport	16
+Supervi sor Housekeeping	17
+Page 54
+Job Title	Pay Range
+Supervisor Linen Laundry Services	17
+Supervisor Mail UBHC	16
+Supervisor Mail Services	19
+Supervisor Maintenance and Construction	24
+Supervisor Medical Assistant Unit	20
+Supervisor Medical Records	18
+Supervisor Microfilming Services	17
+Supervisor Patients Accounts	18
+Supervisor Patient Collection accounts	21
+Supervisor Patient Payment Accounts	21
+Supervisor Patient Services	18
+Supervisor Payroll Processing	23
+Supervisor Pharmacy	29
+Supervisor Physical Therapy	29
+Supervisor Power Plant	27
+Supervisor Presidents Office	23
+Supervisor Printing and Duplicating Services	23
+Supervisor Printing Operator I	22
+Supervisor Radiology Information Services	23
+Supervisor Receiving Stores	15
+Supervisor Records Physical Plant	17
+Supervisor Registration	17
+Supervisor Registration	20
+Supervisor Retail Services	18
+Supervisor Risk Control Program	28
+Supervisor Sanitation Maintenance	18
+Supervisor Shipping and Receiving	17
+Supervisor Special Services Dental Clinician	21
+Supervisor Word Processing	21
+Systems Analyst I	28
+Systems Programmer I	30
+Team Supervisor	17
+Tech HW Support I	26
+Technical Projects Coordinator	29
+Technical Systems Consultant	31
+Training and TQM Coordinator	25
+Training Officer Public Safety	25
+Transporter Logistics Supervisor	19
+UBHC Clinical Education and Training Coordinator	32
+User Support Specialist I	29
+Page 55
+DATE:
+Lynn Buckley, CWA Representative Communications Workers of America 1030 St. Georges Avenue
+Suite 304
+Avenel, NJ 07001
+RE: Layoff Rights
+Dear Ms. Buckley:
+As agreed, effective January 1, 2003 the University will allow individuals in this
+bargaining unit to bump into titles with the nomenclature “Assistant Supervisor” when appropriate and when the individuals are qualified. This agreement will not apply to the Physical Plant Staff.
+Please indicate your agreement by signature below.
+Very truly yours,
+Abdel Kanan, Esq.
+Director of Labor Relations
+Lynn Buckley, CWA Representative Communications Workers of America
+Page 56
+DATE:
+Lynn Buckley, CWA Representative Communications Workers of America 1030 St. Georges Avenue
+Suite 304
+Avenel, NJ 07001
+RE: Notice of Failed Probation
+Dear Ms. Buckley:
+As agreed, please be advised that the University agrees that when members of this
+bargaining unit exercise a bump and are subject to a probationary period in their new positions, this probationary period will be automatically extended by thirty (30) calendar days if they are told that they failed probation without some form of prior notice of deficient performance.
+Please indicate your agreement by signature below.
+Very truly yours,
+Abdel Kanan, Esq.
+Director of Labor Relations
+Lynn Buckley, CWA Representative Communications Workers of America
+Page 57
+DATE:
+Ann Twomey, President H.P.A.E.
+110 Kinderkamack Road Emerson, NJ 07830
+RE: LayoffNotice
+Dear Ms. Twomey:
+The University agrees to meet with the HPAE at least one week, except in the case of
+an emergency, in advance of any notice f layoff of HPAE personnel greater than five on a single campus. The purpose of the meeting is to discuss pending layoff situations. At that meeting, the Union is free to set forth its position on the pending layoff.
+Very truly yours,
+Abdel Kanan, Esq.
+Director of Labor Relations
+Ann Twomey, President Health Professionals & Allied Employees, AFT, AFL-CIO

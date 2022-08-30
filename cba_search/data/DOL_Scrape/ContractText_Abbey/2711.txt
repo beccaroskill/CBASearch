@@ -1,0 +1,1389 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Rutgers, the State University of New Jersey and American Federation of State, County, & Municipal Employees (AFSCME), AFL-CIO, Council 52, Local 1761 (2003)
+K#: 800273
+Location: NJ
+Employer Name: Rutgers, the State University of New Jersey
+Union: American Federation of State, County, & Municipal Employees (AFSCME), AFL-CIO, Council 52
+Local: 1761
+SIC: 8221	NAICS: 611310
+Sector: S	Number of Workers: 1600
+Effective Date: 07/01/03	Expiration Date: 06/30/07
+Number of Pages: 66	Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+AGREEMENT
+This Agreement, made and entered into the 18th day of May, 2004, by and between RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY (hereinafter called "Rutgers") and the AMERICAN FEDERATION OF STATE, COUNTY, AND MUNICIPAL EMPLOYEES, AFL-CIO; Council 52; and its affiliate LOCAL UNION No. 1761 (hereinafter called the "Union").
+TABLE OF CONTENTS
+ARTICLE 1	- PURPOSE..........................................1
+ARTICLE 2	- RECOGNITION......................................1
+ARTICLE 3	- UNION SECURITY...................................2
+ARTICLE 4	- UNION REPRESENTATIVES............................3
+ARTICLE 5	- NONDISCRIMINATION................................4
+ARTICLE 6	- RULES AND REGULATIONS............................4
+ARTICLE 7	- LABOR/MANAGEMENT CONFERENCES.....................4
+ARTICLE 8	- GRIEVANCE PROCEDURE..............................4
+ARTICLE 9	- SENIORITY AND LAYOFF.............................8
+ARTICLE 10	- VACATION ELIGIBILITY AND ALLOWANCE.............10
+ARTICLE 11	- HOLIDAYS.......................................12
+ARTICLE 12	- REST PERIODS...................................12
+ARTICLE 13	- SICK LEAVE.....................................13
+ARTICLE 14	- BEREAVEMENT LEAVE..............................14
+ARTICLE 15	- PREGNANCY/CHILDBIRTH, ADOPTION, CHILD CARE LEAVE.15
+ARTICLE 16	- MILITARY LEAVE.................................15
+ARTICLE 17	- LEAVE OF ABSENCE WITHOUT PAY.....................16
+i
+ARTICLE 18	- JURY DUTY......................................17
+ARTICLE 19	- ADMINISTRATIVE LEAVE..........................17
+ARTICLE 20	- SALARY.........................................18
+ARTICLE 21	- BIWEEKLY PAY...................................21
+ARTICLE 22	- ANNIVERSARY DATES..............................21
+ARTICLE 23	- PROMOTION COMPENSATION.........................21
+ARTICLE 24	- ACTING CAPACITY................................21
+ARTICLE 25	- OVERTIME.......................................22
+ARTICLE 26	- CALL BACK PAY..................................22
+ARTICLE 27	- AUTO ALLOWANCE................................23
+ARTICLE 28	- CHANGE IN WORKSHIFTS..........................23
+ARTICLE 29	- SHIFT PREFERENCE..............................23
+ARTICLE 30	- LAYOFF, RESIGNATION NOTICE....................24
+ARTICLE 31	- TECHNOLOGICAL CHANGE..........................24
+ARTICLE 32	- JOB POSTING PROCEDURE..........................24
+ARTICLE 33	- POSITION CLASSIFICATION REVIEW................27
+ARTICLE 34	- JOB EVALUATION MANUAL.........................28
+ARTICLE 35	- BULLETIN BOARDS...............................28
+ii
+ARTICLE 36	- SAFETY COMMITTEE.....................................29
+ARTICLE 37	- UNIVERSITY PROCEDURES................................29
+ARTICLE 38	- RETIREMENT AND LIFE INSURANCE BENEFITS...............29
+ARTICLE 39	- HEALTH BENEFITS......................................29
+ARTICLE 40	- TEN-MONTH EMPLOYEES..................................30
+ARTICLE 41	- PERSONNEL FILES......................................30
+ARTICLE 42	- GENERAL PROVISIONS...................................30
+ARTICLE 43	- WORKDAY..............................................32
+ARTICLE 44	-VDT OPERATORS.........................................32
+ARTICLE 45	- SEVERABILITY.........................................32
+ARTICLE 46	- PRINTING OF AGREEMENT................................33
+ARTICLE 47	- TERM.................................................34
+APPENDIX A	- Job Titles (Alphabetical List)......................35
+APPENDIX B	- Expanded COLT Job Families..........................40
+APPENDIX C	- COLT Job Titles by Family...........................45
+APPENDIX D	- Compensation Schedules..............................49
+APPENDIX E	- Sick Leave Certification Form.......................55
+INDEX.............................................................iv
+iii
+ARTICLE 1	- PURPOSE
+Rutgers and the Union have entered into this Agreement for the purpose of establishing conditions under which employees as hereinafter defined shall be employed to work for Rutgers and procedures for the presentation and resolution of grievances, and to regulate the mutual relations among themselves with the view of promoting and ensuring harmonious relations, communications, cooperation and understanding between Rutgers and its employees.
+ARTICLE 2	- RECOGNITION
+1.	Rutgers recognizes the Union as the sole and exclusive negotiations representative for wages, hours, terms and conditions of employment of its employees as hereby defined.
+2.	The terms "employee" and "employees" as used herein shall include all regular employees, both full time and part time employees* (those scheduled to work for twenty (20) hours or more per week), employed in the classifications listed under Appendix "A" attached hereto and included herein by reference and made a part of this Agreement, and for regular employees in such other classifications as the parties hereto may later agree to include; but excluding all probationary employees, confidential employees as agreed previously by Rutgers and the Union, students, casual employees and temporary employees, faculty, professional employees, supervisors, employees in the jurisdiction of other unions now recognized by Rutgers, and all other employees of Rutgers.
+* Inclusion in the unit does not change the current benefits for part time employees.
+3.	Definitions
+A.	Temporary Employee - A temporary employee is defined as an individual who is hired to work on an hourly basis as an interim replacement or for any short term work. If an individual is hired to perform a job which, if it were a regularly appointed position would be included in the negotiations unit, that individual will not be retained in that job for more than twelve (12) consecutive months, with a four (4) month extension if necessary. Beginning in July 1991, when such individual has worked for twelve (12) months in such job, the University will notify the Union, and the Union will grant the four (4) month extension. If the department needs to retain the individual in this capacity beyond sixteen (16) months, the University will notify the Union prior to the expiration of the sixteen (16) months. If agreement is not reached on this further extension for this individual prior to the expiration of the sixteen (16) months, the individual will not be retained by the department.
+B.	Casual Employee - A casual employee is defined as an employee who is employed on an intermittent basis.
+C.	Regular Employee - A regular employee is defined as an employee appointed on a ten (10) or twelve (12) month continuous salaried basis with a specific or indefinite expiration date.
+1
+ARTICLE 3	- UNION SECURITY
+A.	UNION DUES
+Rutgers agrees to deduct from the paycheck the biweekly Union dues of each employee, as defined herein, who furnishes a voluntary written authorization for such deduction, on a form acceptable to Rutgers. Each employee may cancel such written authorization giving written notice of such cancellation to Rutgers and the Union between December 15 and December 31 of any year effective January 1 of the ensuing year. The amount of Union dues to be deducted by Rutgers from the employee's paycheck shall be in such amount as may be certified to Rutgers by the Union at least thirty (30) days prior to the date on which deduction of Union dues is to be made. Deduction of Union dues made pursuant hereto shall be remitted by Rutgers to the Union every four (4) weeks together with a list of the names of employees from whose pay such deductions were made.
+B.	REPRESENTATION FEE
+1.	Representation Fee Deduction
+The parties agree that effective approximately thirty (30) days after agreement on this contract all employees in the bargaining unit who do not become members of AFSCME Local 1761 within thirty (30) days shall have deducted from their salaries and forwarded to the Union a representation fee in a manner and in an amount as provided below.
+2.	Representation Fee Amount
+At least thirty (30) days before the effective date of the representation fee, or any subsequent modification thereof, the Union shall notify the University of the biweekly amount to be deducted from non-members' salaries. Any change in the representation fee shall be made upon written notification to the University.
+3.	Representation Fee Deductions
+The representation fee shall be deducted from nonmembers' salaries in equal biweekly installments. Representation fee deductions from the salaries of all nonmember employees shall commence on the payroll begin date following thirty (30) days after the expiration of a COLT eligible employee's probationary period or the tenth (10th) day following reentry into the bargaining unit for employees who previously served in bargaining unit positions and who continued in the employ of the University in a nonbargaining unit position. For the purpose of this Article, ten (10) month employees shall be considered to be in continuous employment.
+If, during the course of the year, the nonmember becomes a Union member, the University shall cease deducting the representation fee and commence deducting the Union dues after written notification by the Union of the change in status.
+2
+Conversely, if the Union member directs the University to cease dues deductions in a manner appropriate under the terms of the dues checkoff agreement, the University shall commence deduction of the representation fee after written notification by the Union of the change in status. After deduction, representation fees shall be transmitted to the Union in the same manner and at the same time as Union dues.
+4.	Indemnification
+The Union hereby agrees to indemnify, defend, and save harmless the University from any claim, suit or action, or judgements, including reasonable costs of defense which may be brought at law or in equity, or before any administrative agency with regard to or arising from the deduction from the salaries of any employee of any sum of money as a representation fee under the provisions of the Agreement.
+ARTICLE 4	- UNION REPRESENTATIVES
+1.	Authorized representatives of the Union, who are not employees of Rutgers, shall be admitted to the premises of Rutgers. At the time of entering the premises of Rutgers, the Union representatives shall make their presence and destination known to the Office of Labor Relations or the Division Head, or his/her representative responsible for the area to be visited.
+2.	Stewards (not to exceed 41 in number throughout the University) shall be designated in specific, geographic areas. Names of the employees selected to act as Stewards and their areas of responsibility and the names of other union representatives who represent employees shall be certified in writing to Rutgers by the local Union.
+3.	Stewards shall be granted a reasonable amount of time during their regular working hours, without loss of pay, to interview an employee who has a grievance and to discuss the grievance with the employee's immediate supervisor. The Union President or his/her designee shall be granted a reasonable amount of time during his/her regular working hours, without loss of pay, to present, discuss and adjust grievances with Rutgers, provided such person is an employee of Rutgers. When a designee is assigned to act in a particular grievance, the Union will give Rutgers prior notice. Neither a steward, nor a Union officer nor a designee shall leave his/her work without first obtaining permission of his/her immediate supervisor, which permission shall not be unreasonably withheld.
+4.	The Union may have ten (10) members, who are in the bargaining unit covered by this Agreement, on the contract negotiating committee and six (6) members on the economic reopener. Rutgers agrees that these members shall not lose pay for time spent during their regular working hours while serving in such capacity.
+5.	Rutgers agrees to permit authorized representatives of the Union employed by Rutgers to take time off without loss of pay for the purpose of attending Union
+3
+conventions, conferences and educational classes, provided that the total amount of such time off without loss of pay during the period of this Agreement shall not exceed one hundred seventy (170) days. Permission for such time off must be obtained from Rutgers. Such permission shall not be unreasonably withheld. Names of persons attending such activities and time to be charged shall be certified in writing to the Office of Labor Relations.
+ARTICLE 5	- NONDISCRIMINATION
+There shall be no discrimination by Rutgers or the Union against any employee or applicant for employment because of race, creed, color, sex, religion, age, marital status, national origin, disability, status as a Vietnam-era Veteran or disabled Veteran, membership or nonmembership in the Union or sexual orientation.
+ARTICLE 6	- RULES AND REGULATIONS
+Rutgers may establish and issue reasonable rules and regulations concerning the work to be performed by, and the conduct of, its employees, and it shall apply and enforce such rules and regulations fairly and equitably. These rules and regulations shall not be inconsistent with the terms of this Agreement, and Rutgers will make every reasonable effort to have prior discussion on those rules and regulations that may be of general interest or concern as provided for in Article 7. Neither party waives any rights it may have by virtue of New Jersey statutes.
+ARTICLE 7	- LABOR/MANAGEMENT CONFERENCES
+A Labor/Management Conference is a meeting between the Union, the Office of Labor Relations and such other representative of Rutgers as appropriate, to consider matters of general interest and concern other than grievances. Such a meeting may be called by either party, shall take place at a mutually convenient time and place and may be attended by no more than five (5) Union Representatives employed by Rutgers who shall not lose pay for time spent during their regular working hours at such a meeting. International Representatives and/or Council Representatives may attend such meetings. The work place should be free from harassment. Any claims of harassment shall be the subject of a Labor/Management Conference. Agreements reached at Labor/ Management Conferences will be reduced to writing.
+ARTICLE 8	- GRIEVANCE PROCEDURE
+1.	A grievance is defined as any claimed violation of any provision of this Agreement or of any Rutgers policy relating to wages, hours or other terms or conditions of employment of the employees. The procedure set forth herein is the sole and exclusive remedy for any and all claims pertaining to the provisions of this Agreement.
+2.	All grievances, regardless of the Step at which they are initiated, must specifically cite which provision of this Agreement and/or Rutgers policy is alleged to have been violated. The Union shall endeavor to set forth specific information indicating the factual nature
+4
+of the grievance. This language is not intended to preclude the Union from amending its grievance.
+3.	Any grievance of an employee, or of the Union, shall be handled in the following manner:
+Step 1
+The grievance shall initially be presented within ten (10) working days after the occurrence of the event or knowledge of the event out of which the grievance arises. The grievance shall be presented in writing citing the alleged violation. The grievance normally shall be presented to the employee's immediate supervisor or the person with the authority to resolve the grievance. If the employee so requests, the steward may be present at any meeting that takes place at this level in attempting to adjust the grievance. Such meeting shall be held within two (2) working days after the grievance is submitted in writing. The first level of supervision shall give his/her answer in writing within four (4) working days after the grievance is submitted in writing.
+In cases where the event giving rise to the grievance is not initiated by the employee's immediate supervisor, the grievance initially shall be presented to the first level of supervision having authority to effect a remedy.
+Step 2
+If the grievance is not resolved at Step 1, the employee or the Union may within five (5) working days of the written answer forward the grievance to the second level of authority with a copy to the first level of authority and to the Office of Labor Relations. If a Step 2 grievance is filed by an individual employee, the employee shall also send a copy to the Union president. This second level of authority shall within ten (10) working days of receipt of the written grievance hold a meeting. The employee shall be entitled to be accompanied by the steward and/or by either a Union officer or the president's designee. This second level of authority shall send to the employee, to the representative(s) present at the hearing, to the Union president, to the first level of authority and to the Office of Labor Relations his/her written answer within five (5) working days after the date of such meeting.
+Step 3
+If the Union is not satisfied with the Step 2 answer, the Union may within three (3) working days of receipt of that answer submit to the Office of Labor Relations in New Brunswick and where appropriate to the Personnel Officer in Newark the written statement of the grievance along with a written request for a Third Step Hearing.
+Such hearing shall take place at a mutually agreeable time and place not later than five (5) working days after receipt of the written request for such hearing. The employee shall be entitled to be present. The steward, and/or either the Union President or his/her designee shall be present, and the Council representative may be present.
+5
+The Third Step Hearing Officer shall give his/her written decision to the employee and to the Union within five (5) working days after such hearing. These five (5) days may be extended by mutual agreement.
+If the Union believes that the third step Hearing Officer has based his/her decision on material not presented or referenced at the third step, the Union may request a reconvening of the hearing to review or rebut this material.
+A general grievance, one that may affect all or a group of employees, may be presented by the Union at Step 3.
+Step 4
+If the Union is not satisfied with the decision of the Third Step Hearing Officer, the Union may within ten (10) working days after the receipt of the written decision of the Third Step Hearing Officer submit the grievance to binding arbitration.
+Rutgers and the Union agree that the arbitrator to be chosen jointly shall be selected from a panel or panels to be provided by the American Arbitration Association, except that for the life of this Agreement the arbitrator will be chosen from panel(s) provided by the Public Employment Relations Commission. The arbitrator will be selected in accordance with the rules and procedures of the agency.
+The costs and expenses incurred by each party shall be paid by the party incurring the costs except that the fees of the neutral arbitrator and the administering agency shall be borne equally by Rutgers and the Union.
+When documents are discovered by the University which were not presented at third step but which will be used at arbitration, the University will provide such documents to the Union four (4) days prior to the arbitration hearing, with the parties realizing that situations may necessitate shorter notice.
+4.	No arbitrator functioning under the provisions of the grievance procedure terminating at Step 4 in binding arbitration shall have the power to amend, modify or delete any provision of this Agreement.
+5.	In the case of discharge, the grievance may begin at Step 2 above.
+6.	In the case of grievances relating to selection of a candidate under the Promotion and Transfer Procedure, Steps 1, 2, and 4 above shall be utilized.
+7.	Saturdays, Sundays and holidays shall not be considered working days in computing the time limits provided for above. Any written decision or written answer to a grievance made at any step which is not appealed to the succeeding step within the time limits provided, or such additional period of time as may be mutually agreed upon in writing, shall be considered a final settlement and such settlement shall be binding upon Rutgers, the Union and the employee or employees involved.
+6
+8.	An employee shall not lose pay for the time spent during his/her regular working hours at the foregoing steps of the grievance procedure. In the event that it is necessary to require the attendance of other employees, during regular working hours, at the Step 4 meeting of the grievance procedure, such employees shall not lose pay for such time.
+9.	In the event of the discharge for cause of any employee, Rutgers shall promptly give written notice of the discharge to the employee's steward and attempt to give telephone notice to the President of the Union or the Vice President of the Union responsible for the campus on which the discharged employee had been employed.
+10.	Rutgers and the Union agree to process a grievance over a discharge in an expeditious manner.
+11.	Rutgers shall provide a copy of any written reprimand which is to be made part of the employee’s central personnel file to the employee and to the President, or in Newark and Camden to the Vice President. The employee shall sign such reprimand, the signature serving only to acknowledge that he/she has read the reprimand. Any employee may file a grievance with respect to any document written to the employee which expresses dissatisfaction with his/her work performance or conduct and with which he/she does not agree.
+Annually, through a joint letter from the Union and the Office of Labor Relations, employees will be informed that a document from a supervisor to an employee which expresses dissatisfaction with the employee's work performance or conduct may be grieved under this article.
+When an employee's record is free from any disciplinary action for a period of one (1) year, any letters of reprimand or documents which express dissatisfaction with the employee's work performance or conduct in the employee's record shall be deemed to be removed. Disciplinary actions other than letters of reprimand shall remain part of the employee's record.
+12.	If an employee is being questioned about his/her work performance or conduct and if the employee has a reasonable belief that the answers to such questions will result in discipline, then the employee may request that a steward be present.
+13.	No employee shall be discharged, suspended or disciplined in any way except for just cause and the sole right and remedy under this Agreement of any such employee shall be to file a grievance through and in accordance with the grievance procedure.
+14.	If Rutgers should exceed the time limits in replying to any grievance at any step in the grievance procedure, the grievance may be advanced to the next step.
+15.	In addition, an employee may appeal the interpretation, or application of agreements and administrative decisions which affect terms and conditions of employment, as that concept has been defined by law, by presenting such appeal for determination to the Office of Labor Relations.
+7
+16.	AFSCME Steward Trainees shall be permitted by the Step One, Step Two or Step Three hearing officer to attend such hearing, provided that the steward trainee has received permission from his/her supervisor to be in attendance at such hearing.
+ARTICLE 9	- SENIORITY AND LAYOFF
+1.	All employees shall be considered as probationary employees for the first ninety (90) calendar days of their employment. The probationary period may not be extended without concurrence of the Union. Probationary employees may be disciplined or terminated at any time for any reason whatsoever at the sole discretion of Rutgers and they shall not be entitled to utilize the provisions of Article 8 - Grievance Procedure. Upon completion of such probationary period, their seniority will be dated as of the date of commencement of their employment. In the event that two (2) employees have the same seniority date, their respective seniority shall be determined by alphabetical order of their last names.
+2.	Seniority for full time and part time type 1 employees for the purpose of this article shall be based upon an employee's continuous length of service in the bargaining unit, except that employees employed on grant funds shall be credited with their seniority after thirteen (13) months of continuous service in the bargaining unit. Part time employees' seniority shall be maintained on separate seniority lists for Camden, Newark and New Brunswick.
+3.	The Office of Labor Relations shall maintain seniority lists of employees by seniority units, copies of which shall be furnished to the Union.
+Seniority units are as defined as follows:
+a.	Camden
+b.	Newark
+c.	New Brunswick
+4.	An employee's seniority shall cease and his/her employee status shall terminate for any of the following reasons
+a.	Resignation or retirement
+b.	Discharge for cause
+c.	Continuous layoff for a period exceeding six (6) months for employees with less than two (2) years continuous service; continuous layoff for a period exceeding one (1) year and one (1) day for employees with two (2) years or more continuous service.
+d.	Failure of laid off employee to report for work either (i) on date specified in written notice of recall mailed seven (7) or more calendar days prior to such date, or (ii) within three (3) working days after date specified in written notice of recall mailed less than seven (7) calendar days prior to
+8
+such date, unless return to work as herein provided is excused by Rutgers. Written notice of recall to work shall be sent by Rutgers by certified mail, return receipt requested, to the employee's last known address as shown on Rutgers' personnel records.
+e.	Failure to report for work for a period of three (3) consecutive scheduled working days without notification to Rutgers of a justifiable excuse for such absence.
+f.	Failure to report back to work immediately upon expiration of vacation, leave of absence or any renewal thereof unless return to work is excused by Rutgers, and such excuse shall not unreasonably be withheld by Rutgers.
+5.	When Rutgers decides to reduce the number of employees in any particular job title in a particular department(s), the employee(s) so affected may displace the least senior employee in his/her job title in his/her work unit in that department, who is also less senior than the affected employee. Such displaced employee may displace the least senior employee, who is also less senior than the affected employee, in his/her particular job title in the seniority unit, provided he/she has the requisite qualifications and abilities to perform the work available.
+6.	If the employee(s) so affected does not have the requisite qualifications and abilities to perform the work available in order to displace the least senior employee in his/her job title, he/she may displace the least senior employee, who is also less senior than the affected employee in the next lower-rated classification in his/her expanded job family (Appendix B) in the seniority unit for which he/she has the requisite qualifications and abilities to perform the work available.
+7.	Any employee(s) so displaced may in turn displace the least senior employee, who is also less senior than the affected employee, in the next lower-rated classification in his/her expanded job family in the seniority unit for which he/she has the requisite qualifications and ability to perform the work available.
+8.	Employees hired on a 10-month basis shall not be entitled to utilize the provisions above during the off season of July and August. Such employees may apply to the Division of Personnel for casual work during this period without jeopardizing the status of their regular appointment.
+9.	Employees laid off during a layoff which persists for thirty (30) calendar days or less shall not be entitled to displace any other employee during this layoff period. Such temporary layoff is not subject to the notification provisions of Article 30. This paragraph 9 which is intended for extraordinary circumstances shall not be utilized to circumvent the other seniority and layoff provisions of this Article.
+10.	Any employee exercising his/her right to displace another employee with less seniority in any lower rated job title shall be paid at the rate of such job in accordance with
+9
+regulations governing an employee being assigned to a lower rated title, but not more than the maximum of such job.
+11.	Employees laid off from Rutgers shall be recalled to work in their seniority unit from layoff in order of their seniority to a position in the same job title as the one vacated at time of layoff provided that they have the requisite qualifications and ability to perform the work available. Such employees may apply to the Division of Personnel for casual work without jeopardizing their rights of recall.
+12.	For purposes of layoff and recall, the President, three Vice Presidents, the Secretary/Treasurer, Recording Secretary, Corresponding Secretary and all recognized stewards, or an alternate steward temporarily filling the role of the steward during the absence of the steward, shall be granted top seniority in their seniority units during their terms of office, provided that they have the requisite qualifications and ability to perform the work available at the time of layoff or recall. The Union will provide the University with a list of names and geographic areas of responsibility of these persons holding the positions described as being granted top seniority and will keep the list current.
+13.	An employee who is promoted or permanently transferred to a job or position not covered by this Agreement shall retain and accumulate seniority in the seniority unit from which he/she was promoted or transferred only for a period of one (1) year from the time of his/her promotion or transfer, during which period of time the employee may be returned to work in a position comparable to the one which he/she held at the time of his/her promotion or transfer.
+14.	In determining requisite qualifications and abilities to perform the work available, Rutgers will give the same consideration to employees exercising their seniority rights as they would to new employees in qualifying for the specific position.
+15.	If a department lays off an employee but continues to employ a casual employee (Type 4) to perform the same or similar functions as the laid off employee, the department will offer that employee that work as a Type 4, as an option to termination of employment, if the employee has the qualifications and ability to perform it. The employee will be paid at the rate the casual employee was being paid. An employee who elects to work as a casual employee will remain on the recall list in accordance with the Agreement.
+16.	When there is more than one vacancy in the job title of an affected employee, all of the vacancies in that title in the seniority unit will be considered the least senior.
+ARTICLE 10	- VACATION ELIGIBILITY AND ALLOWANCE
+Regularly appointed full time employees are first eligible for vacation upon completion of the fiscal year during which they are employed, and they will accrue vacation at the rate of one (1) day for each full month employed during the period. The allowance earned in one (1) fiscal year must be used before the end of the following fiscal year or it is forfeited. However, if it is mutually agreed between the employee and his/her supervisor, then a maximum of one (1) year's vacation allowance may be carried forward into the next succeeding year. However, an employee may not expect to combine the entire vacation allowance from two (2) fiscal years unless the supervisor and employee mutually agree to such an extended vacation.
+10
+Where a University holiday falls within an approved vacation period, it is not counted as a vacation day except if the vacation allowance is being paid upon resignation or death. If an employee becomes ill during five (5) or more of his/her vacation days, he/she may request that that portion of his/her vacation during which he/she was ill be converted from vacation time to sick leave provided that:
+1.	He/she was hospitalized during his/her vacation period; or
+2.	He/she was under a doctor's care for illness other than a chronic condition during
+the course of his/her vacation.
+In order to be eligible for such conversion of vacation to paid sick leave, the employee must submit acceptable evidence of hospitalization or of a doctor's attendance. When a death occurs in the immediate family while an employee is on vacation, bereavement time may be charged.
+Any vacation allowance accrued at the time of retirement must be taken prior to the effective date of retirement. The retiring employee is entitled to any unused vacation earned in the previous fiscal year plus the amount of vacation accrued on a pro-rata basis for service in the fiscal year in which retirement occurs. The total amount may exceed the normal annual allowance. If a holiday falls within the vacation period, it is not counted as a vacation day.
+Upon separation, an employee shall be entitled to payment for his/her accrued vacation allowance. Such allowance shall include any unused vacation earned in the previous fiscal year plus the amount of vacation earned in the fiscal year when separation occurs.
+Payment will be made for unused vacation allowance of a deceased employee who had been a regularly appointed staff member. Such payment shall be for any unused vacation earned in the previous fiscal year, and vacation accrued on a pro-rata monthly basis for service in the fiscal year in which death occurs.
+Vacation allowances are based on fiscal years of service as follows:
+1.	Less than one year of service: - one full working day for each full month of service.
+2.	One through twelve years: - fifteen working days.
+3.	Thirteen through twenty years: - 20 working days.
+4.	Over twenty years: - 25 working days.
+When an employee completes twelve (12) years of service during a fiscal year, he/she will earn vacation for the remainder of the fiscal year at the rate of 1-2/3 days for each full month of service. When an employee completes twenty (20) full years of service during a fiscal year, he/she will earn vacation for the remainder of that fiscal year at the rate of two (2) days for each full month of service.
+11
+Vacations shall be taken at the convenience of the department with consideration given to employees' preferences.
+In the event of any conflict, the employee with the greater seniority shall be given preference.
+Vacation schedules, once decided, cannot be changed without mutual agreement by all employees affected, subject to approval by supervision.
+The rate of vacation pay shall be the employee's regular straight time rate of pay.
+ARTICLE 11	- HOLIDAYS
+The regular paid holidays observed by Rutgers are: New Year's Day, Martin Luther King's Birthday, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, the day after Thanksgiving, and Christmas Day. When any of the above holidays falls on a Sunday, the following Monday is observed in lieu of the holiday. When any of the above holidays falls on a Saturday, the preceding Friday will be observed in lieu of the holiday.
+In addition, Rutgers shall observe as holidays either one (1) full holiday or two (2) half holidays during the Christmas Season, three (3) other holidays to be annually determined by Rutgers, and two (2) holidays to be selected by the individual employee. Employees shall be eligible for the individually selected holidays after six (6) months of employment and the rules for their use will be governed by those applicable to administrative leave as provided in Article 19 of this Agreement.
+An employee whose regularly scheduled day off falls on a University holiday may request a particular day off in that workweek as an Alternate Day off. If the request can be granted without interfering with the needs of the department, it will be granted. If the department determines that its needs do not permit granting that day, the department may assign another day during that workweek as the Alternate Day off. If the employee is not given an Alternate Day off during that workweek the University holiday counts as compensable hours toward overtime.
+ARTICLE 12	- REST PERIODS
+Where the nature of the work lends itself to pauses during the workday, full time employees working in such an environment are eligible, during each one-half shift, for either an aggregate of fifteen (15) minutes rest period or for one 15-minute rest period.
+In those situations where the nature of the work is continuous and uninterrupted, (for example, when an employee(s) is required to remain at a definite station or machine), full time employees working in such an environment are eligible for a formally scheduled rest period of fifteen (15) minutes during each one-half shift. These provisions shall not be utilized to permanently deny an employee a rest period.
+12
+Part-time employees are eligible for either an aggregate of fifteen (15) minutes rest period, or for one fifteen (15) minute rest period, for each one half shift the employee is regularly scheduled to work.
+If it is necessary to leave the work station, it is understood that there be sufficient coverage of said work station. Type of rest period and scheduling of such shall be at the discretion of the employee's supervisor. Rest period time is not cumulative.
+ARTICLE 13	- SICK LEAVE
+Sick leave is defined as a necessary period of absence because of the employee’s own illness or for exposure of the employee to contagious disease.
+The meaning of sick leave may be extended to include a charge to the employee’s accrued sick leave time to provide medical care to a seriously ill family member as defined in the special circumstances described below. The number of days that the employee may charge to accrued sick leave time for the special circumstances described in sections 1 and 2, below, shall not exceed a total of five (5) days per fiscal year.
+Special Circumstances:
+1.	Emergency Attendance.
+Employee’s emergency attendance on a member of the employee’s immediate family (mother, father, spouse, child, step child, foster child, sister, brother, grandmother, grandfather) who is seriously ill.
+2.	Medically Certified Care.
+Employee’s attendance upon the employee’s seriously ill spouse, parent, or child at a hospital, health care facility, or at home, or the employee’s transport of the employee’s seriously ill spouse, parent, or child, to medical treatment, when properly certified by a Health Care Provider on the form designated in Appendix E. Use of sick time will not be permitted where the employee has failed to provide the certified form.
+Medically certified care does not cover such situations as illness not defined as seriously ill, matters unrelated to medical needs, baby-sitting, running errands, and/or running a business for the family member while he/she is ill.
+Full-time employees hired prior to July 1, 2000 earn fifteen (15) days of sick leave in each fiscal year at the rate of 1-1/4 days per month. During the first year of employment, employees will earn sick leave at the rate of one (1) day per month of service except that employees appointed on July 1 will earn sick leave at the rate of 1-1/4 days per month.
+Full-time employees hired on or after July 1, 2000 will earn sick leave at the rate of one (1) day per month of service. After twelve (12) years of service, full-time employees hired on or after July 1, 2000 will earn sick leave at the rate of one and one-quarter (1-1/4) days per month of service.
+13
+Unused sick leave is cumulative.
+Employees are expected to notify their supervisor preferably by telephone as early as possible at the beginning of the work day on which sick leave is used and to keep the supervisor adequately informed should the absence extend beyond one day.
+Employees who require more sick time than accumulated will have their pay adjusted accordingly except that the employee may charge such time to vacation or administrative leave. In such cases, all sick leave policies will apply. Employees may request that the supervisor make available for the employee’s review a current record of the employee’s sick leave, such request will not be unreasonably denied.
+ARTICLE 14	- BEREAVEMENT LEAVE
+An employee who is absent from work due to death in the immediate family (mother, father, spouse, child, foster child, sister, brother, grandmother, great grandmother, grandfather, great grandfather, grandchild, or any relative of the employee residing in the employee's household) may charge up to three (3) days for such absence to attend the funeral or for mourning. Such time must be initiated within seven (7) calendar days from notice of the date of death. If such notification exceeds the date of death by more than seven (7) days, a department may require verification of notification. However, in the event that the funeral of a member of the immediate family is held at some distant location, and the employee will attend, an exception to the above may be requested by the employee to provide for up to five (5) days of absence to be charged to bereavement leave.
+Employees are eligible to receive one (1) day of bereavement leave for attendance at the funeral of the employee's mother-in-law, father-in-law, son-in-law, daughter-in-law.
+If an employee requests to use available vacation time to extend the bereavement leave, it will not be unreasonably denied.
+14
+ARTICLE 15	- PREGNANCY/CHILDBIRTH, ADOPTION, CHILD CARE LEAVE
+A.	Pregnancy/Childbirth An employee desiring to work during pregnancy must furnish Rutgers with a physician's certificate indicating the expected date of birth and the physician's opinion as to how long the employee may continue to work. Unless the University requires an additional medical opinion, the employee will be permitted to work until the time specified by her own physician. An employee who is unable to work during pregnancy because of a disability may charge the time to vacation, administrative leave, personal holiday or sick leave to the extent it is available. For the period of disability after childbirth, she may also charge vacation, administrative leave, personal holiday or sick leave to the extent it is available. If sick leave is not available, the employee should apply for temporary disability insurance. An employee who has no earned time to charge will be given a leave of absence without pay in accordance with Article 17 and may elect to continue Rutgers benefit programs by personal contributions while on such leave.
+The employee must keep the department fully advised as to due date, expected date of return, whether she will also request Family Leave to care for the child, and any complications that may keep her from returning to work on the expected date of return. She will be reinstated to her original position under most circumstances, or to a position of similar status and pay. If necessary, the department may fill the position on an interim basis with the clear understanding that this is a temporary arrangement which will be terminated at the time she returns.
+An employee who wishes to work part-time for some period before childbirth should discuss this request with her supervisor to determine whether such request can be accommodated.
+This policy applies to all female employees regardless of marital status.
+B.	Adoption An employee who wishes to take unpaid time off upon placement of a child for adoption should apply for Family Leave. Family Leave will be granted in accordance with the provisions of the Act.
+C.	Child Care Leave An employee who wishes to take unpaid time off for child care after the birth of a child should apply for Family Leave. Family Leave will be granted in accordance with the provisions of the Act.
+The provisions of B. and C. apply to male and female employees.
+ARTICLE 16	- MILITARY LEAVE
+1.	Training
+Any full-time regularly appointed employee who is a member of a reserve component of the armed forces of the United States of America shall be entitled to a leave of absence with pay for the usual prescribed training period not to exceed fifteen (15) working days per year. Such leave shall not be charged against vacation time.
+15
+The employee must give the supervisor a two (2) week advance notice of such leave and must present to the supervisor a copy of the official governmental orders authorizing the military training.
+2.	Induction or Enlistment
+Any full time regularly appointed employee, excluding grant and temporary employees, who initially enters active service in any branch of the armed forces of the United States of America for more than six (6) months either voluntarily or pursuant to law shall be granted a leave of absence without pay for the period of such service plus ninety (90) days immediately following separation.
+Such an employee, unless dishonorably discharged, shall be entitled to reemployment by Rutgers provided application for reemployment is made prior to expiration of the leave.
+In case a service-connected disability prevents the employee from returning to work within the normally prescribed time, the employee may request that the leave be extended and upon submitting to Rutgers substantiating medical evidence, a six (6) month leave extension may be granted, the total of such extensions not to exceed twelve (12) months from the date of separation.
+Upon reemployment, the returning veteran employee's salary shall be adjusted to reflect any normal increments or general adjustments the employee would have received had the employee continued working for Rutgers.
+Sick leave days will not accrue during the military service leave but the time will count as University service in applying vacation scales and with regard to seniority.
+ARTICLE 17	- LEAVE OF ABSENCE WITHOUT PAY
+1.	An employee may submit a written request for leave of absence without pay for consideration by Rutgers. Such request shall be granted by Rutgers only in exceptional situations.
+2.	An employee who is unable to perform the duties of his/her job title because of illness or injury shall be given a leave of absence without pay. Such leave of absence shall be limited to a period of three (3) months, but shall be renewable for a justifiable reason for additional three (3) month periods, not to exceed a total leave of absence of one (1) year.
+3.	Employees on leave of absence shall retain and accumulate seniority during such leaves of absence. Upon expiration of an employee's leave of absence, the employee shall be returned to his/her former position, if it is open, or to a position comparable to the one previously held.
+4.	Employees on leave without salary for one (1) month or longer do not accrue vacation or sick leave benefits. Employees on leave of absence due to injuries occurring in the
+16
+course of and arising out of employment for Rutgers, will earn sick leave and vacation until workers' compensation payments cease.
+ARTICLE 18	- JURY DUTY
+Rutgers shall grant time off with full normal pay to those employees who are required to serve on jury duty during such periods as the employee is actually serving. If jury duty does not require a full day, it is expected that the employee will return to his/her duties.
+If an employee whose regular work schedule is an afternoon or night shift is required to serve on jury duty during non-shift hours, the employee will be released from his/her scheduled work shift on the date(s) of jury duty for an amount of time equal to the non-shift hours spent on jury duty, not to exceed the number of hours in the employee's regularly scheduled workday.
+Employees are required to submit to their supervisors the notification of jury duty upon receiving it and to submit verification of daily attendance upon return to work.
+ARTICLE 19	- ADMINISTRATIVE LEAVE
+Full time employees shall be granted three (3) days administrative leave at the beginning of each fiscal year. Employees hired after the beginning of the fiscal year shall be granted a half (1/2) day administrative leave after each full calendar month of service in the first fiscal year of employment to a maximum of three (3) days.
+Employees appointed on a 10-month basis shall be granted administrative leave on the same basis except the maximum shall be two and one half (2-1/2) days per year. Administrative leave for part time employees shall be prorated in accordance with the length of their work week.
+Administrative Leave shall be granted by Rutgers upon request of the employee and shall be scheduled in advance provided the request can be granted without interference with the proper discharge of the work in the work unit involved. Requests for such leave shall not be unreasonably denied.
+Administrative Leave may be used for personal business, including emergencies and religious observances. Administrative Leave may be taken in conjunction with other types of paid leave. Where there are more requests at one time than can be granted without interfering with the proper conduct of the work unit, priorities in granting such requests shall be: (1) emergencies; (2) religious holidays; and (3) personal matters. If there is still a conflict, the matter will be resolved on the basis of seniority within the work unit. In the case of an emergency, where advance notice and approval are not possible, requests for Administrative Leave for emergencies shall not be unreasonably denied.
+Administrative Leave must be scheduled in minimum units of one (1) hour.
+17
+Such leave shall not be cumulative. Unused balances in any year shall be cancelled. An employee who leaves employment shall not be required to reimburse Rutgers for earned days already used.
+ARTICLE 20	- SALARY
+1.	In the case of employees paid from other than State funds, the University will endeavor to persuade funding agencies to conform in accord with the University salary structure.
+2.	In the event funding agencies do not conform in accord with the University salary structure, the failure to do so will be the subject of a Labor/Management Conference under Article 7.
+3.	Salary Program
+The following salary adjustments are subject to the appropriation of and allocation to the University by the State of adequate funding for the specific purposes identified for the full period covered by this Agreement.
+When it is possible to do so, salary detail as to overtime and rates will be printed on check stubs.
+Fiscal Year 2003-2004
+1.	Each eligible employee will receive a normal merit increment on the appropriate anniversary date.
+Fiscal Year 2004-2005
+1.	Each eligible employee will receive a normal merit increment on the appropriate anniversary date.
+2.	Effective July 1, 2004, the salary schedule in effect on June 30, 2004 shall be increased across the board by two and nine-tenths percent (2.9%).
+3.	A full-time, or part-time, 12-month employee, whose annualized base salary on June 30, 2004 was less than $31,000, who continues on the payroll through July 1, 2004 shall receive a lump sum bonus, not added to or made part of the base salary, calculated as the difference between two and nine-tenths percent (2.9%) of the employee’s annualized base salary on June 30, 2004 and two and nine-tenths percent (2.9%) of $31,000. This lump sum bonus shall be appropriately pro-rated for parttime, 12-month employees. The bonus shall be paid in July 2004 for 12-month employees.
+18
+4.	A full-time, or part-time, 10-month employee, whose annualized base salary on June 30, 2004 was less than $31,000, who continues on the payroll through September 1, 2004 shall receive a lump sum bonus, not added to or made part of the base salary, calculated as the difference between two and nine-tenths percent (2.9%) of the employee’s annualized base salary on June 30, 2004 and two and nine-tenths percent (2.9%) of $31,000 and appropriately pro-rated. This bonus shall be paid in September 2004 for 10-month employees.
+Fiscal Year 2005-2006
+1.	Each eligible employee will receive a normal merit increment on the appropriate anniversary date.
+2.	Effective July 1, 2005, the salary schedule in effect on June 30, 2005 shall be increased across the board by two percent (2.0%).
+3.	Effective January 1, 2006, the salary schedule in effect on December 31, 2005 shall be increased across the board by two percent (2.0%).
+4.	A full-time, or part-time, 12-month employee, whose annualized base salary on June 30, 2005 was less than $31,000, who continues on the payroll through July 1, 2005 shall receive a lump sum bonus, not added to or made part of the base salary, calculated as the difference between two percent (2.0%) of the employee’s annualized base salary on June 30, 2005 and two percent (2.0%) of $31,000. This lump sum bonus shall be appropriately pro-rated for part-time, 12-month employees. The bonus shall be paid in July 2005 for 12-month employees.
+5.	A full-time, or part-time, 12-month employee, whose annualized base salary on December 31, 2005 was less than $31,000, who continues on the payroll through January 1, 2006 shall receive a lump sum bonus, not added to or made part of the base salary, calculated as the difference between two percent (2.0%) of the employee’s annualized base salary on December 31, 2005 and two percent (2.0%) of $31,000. This lump sum bonus shall be appropriately pro-rated for part-time, 12-month employees. The bonus shall be paid in January 2006 for 12-month employees.
+6.	A full-time, or part-time, 10-month employee, whose annualized base salary on June 30, 2005 was less than $31,000, who continues on the payroll through September 1, 2005 shall receive a lump sum bonus, not added to or made part of the base salary, calculated as the difference between two percent (2.0%) of the employee’s annualized base salary on June 30, 2005 and two percent (2.0%) of $31,000 and appropriately pro-rated. This bonus shall be paid in September 2005 for 10-month employees.
+7.	A full-time, or part-time, 10-month employee, whose annualized base salary on December 31, 2005 was less than $31,000, who continues on the payroll through January 1, 2006 shall receive a lump sum bonus, not added to or made part of the base salary, calculated as the difference between two percent (2.0%) of the employee’s annualized base salary on December 31, 2005 and two percent (2.0%) of
+19
+$31,000 and appropriately pro-rated. This bonus shall be paid in January 2006 for 10-month employees.
+Fiscal Year 2006-2007
+1.	Each eligible employee will receive a normal merit increment on the appropriate anniversary date.
+2.	Effective July 1, 2006, the salary schedule in effect on June 30, 2006 shall be increased across the board by two and one-quarter percent (2.25%).
+3.	Effective January 1, 2007, the salary schedule in effect on December 31, 2006 shall be increased across the board by two and thirty-five one hundredths percent (2.35%).
+4.	A full-time, or part-time, 12-month employee, whose annualized base salary on June 30, 2006 was less than $31,000, who continues on the payroll through July 1, 2006 shall receive a lump sum bonus, not added to or made part of the base salary, calculated as the difference between two and one-quarter percent (2.25%) of the employee’s annualized base salary on June 30, 2006 and two and one-quarter percent (2.25%) of $31,000. This lump sum bonus shall be appropriately pro-rated for parttime, 12-month employees. The bonus shall be paid in July 2006 for 12-month employees.
+5.	A full-time, or part-time, 12-month employee, whose annualized base salary on December 31, 2006 was less than $31,000, who continues on the payroll through January 1, 2007 shall receive a lump sum bonus, not added to or made part of the base salary, calculated as the difference between two and thirty-five one hundredths percent (2.35%) of the employee’s annualized base salary on December 31, 2006 and two and thirty-five one hundredths percent (2.35%) of $31,000. This lump sum bonus shall be appropriately pro-rated for part-time, 12-month employees. The bonus shall be paid in January 2007 for 12-month employees.
+6.	A full-time, or part-time, 10-month employee, whose annualized base salary on June 30, 2006 was less than $31,000, who continues on the payroll through September 1, 2006 shall receive a lump sum bonus, not added to or made part of the base salary, calculated as the difference between two and one quarter percent (2.25%) of the employee’s annualized base salary on June 30, 2006 and two and one quarter percent (2.25%) of $31,000 and appropriately pro-rated. This bonus shall be paid in September 2006 for 10-month employees.
+7.	A full-time, or part-time, 10-month employee, whose annualized base salary on December 31, 2006 was less than $31,000, who continues on the payroll through January 1, 2007 shall receive a lump sum bonus, not added to or made part of the base salary, calculated as the difference between two and thirty-five one hundredths percent (2.35%) of the employee’s annualized base salary on December 31, 2006 and two and thirty-five one hundredths percent (2.35%) of $31,000 and appropriately prorated. This bonus shall be paid in January 2007 for 10-month employees.
+20
+4.	Salary Schedule
+Effective July 1, 2006, a ninth step will be added to the salary schedule in effect on June 30, 2006. Movement to the ninth step will not occur until an employee’s second anniversary date after movement to the preceding step.
+ARTICLE 21	- BIWEEKLY PAY
+Employees are to be paid on a bi-weekly basis.
+ARTICLE 22	- ANNIVERSARY DATES
+A new employee is assigned an initial salary anniversary date based on the effective date of appointment. When the date of appointment is the first day of the calendar quarter, that date, in the next fiscal year, becomes the initial anniversary date. When the date of appointment occurs after the first day of a calendar quarter, the first day of the following calendar quarter, in the next fiscal year, becomes the initial anniversary date. An employee's anniversary date may, however, change as a result of other actions such as promotion or salary adjustments.
+ARTICLE 23	- PROMOTION COMPENSATION
+1.	Upon promotion, an employee's salary is increased one increment in his/her present range; then, if no step in the new range is equal to this increased rate, his/her salary will be adjusted to the next higher rate.
+2.	In the case of employees paid from other than State funds, the University will endeavor to persuade funding agencies to conform in accord with the University salary structure.
+3.	In the event funding agencies do not conform in accord with the University salary structure, the failure to do so will be the subject of a Labor/Management conference under Article 7.
+ARTICLE 24	- ACTING CAPACITY
+When Rutgers appoints by written notice an employee to temporarily work in a higher title in an acting capacity as an interim replacement for a period of fifteen (15) calendar days or more, the employee will be paid, retroactively to the first day of his/her temporary assignment, a rate of pay which would be equal to the rate the employee would receive if he/she were promoted to the higher title. It is not the intention of the University to rotate such assignments solely for the purpose of circumventing this benefit. If such assignment is not put in writing to the employee, the employee will not be held accountable for performing the higher level work.
+21
+ARTICLE 25	- OVERTIME
+1.	Overtime hours requested and authorized by the employee's supervisor beyond forty (40) hours in the standard workweek shall be paid at the rate of one and one-half the employee's regular hourly rate. Effective July 1, 2004, hours worked beyond thirty five (35) but less than or equal to forty (40) hours in the standard workweek by employees whose regular workweek is thirty five (35) hours shall be compensated by either paying the employee's regular hourly rate, or by providing compensatory time off at a time and one-half rate at the supervisor's discretion.
+2.	The standard workweek to be used in computing overtime hours and pay requirements will extend from 12:01 a.m. Saturday through Midnight Friday.
+3.	Overtime Distribution - Rutgers will make every reasonable effort to provide for an equitable distribution of overtime work among employees in each job classification within each work unit, after taking into consideration the nature of the work to be performed during the overtime hours and the qualifications and abilities of the employees in the work unit. Employees shall be expected to work a reasonable amount of overtime upon request. Any refusal of overtime work shall be recorded as an opportunity to work overtime by the employee. The Union shall have access to the overtime record on a reasonable basis. If, because of refusals to work overtime, there are an insufficient number of employees available to perform the overtime work, Rutgers may assign the overtime work to the necessary number of the least senior employees in the work unit who have the qualifications and abilities to perform the work. Employees will be given 24 hours advance notice of scheduled overtime. When such notice has not been given, scheduled overtime will be on a voluntary basis.
+4.	Paid time off for vacation, sick leave, holidays, administrative leave, and jury duty is counted as hours worked in determining the number of hours an employee has worked in a given week.
+5.	Holiday Premium: An eligible employee who is authorized to work on an observed holiday will, in addition to his/her regular pay for the day, earn compensation at time and one half the employee’s normal rate for all hours worked.
+ARTICLE 26	- CALL BACK PAY
+Any employee who is called back to work after he/she has completed his/her regular shift and has left his/her place of work shall be guaranteed a minimum of four (4) hours work or compensation in lieu thereof. Such employee shall be required to work all hours, in addition to the four (4) hour minimum guarantee, which are required by his/her supervisor.
+22
+ARTICLE 27	- AUTO ALLOWANCE
+No employee will be required to use his/her car for Rutgers business unless Rutgers designates his/her job as one requiring use of the employee's car, or designates such requirement as a result of change in job content.
+Neither may an employee use his/her personal car on Rutgers business unless advance approval is given by the employee's supervisor.
+The employee must carry Automobile Liability Insurance with liability limits of at least 25/50/10. The cost of any physical damage to the vehicle is the sole responsibility of the owner. Any accident must be reported to the Rutgers Insurance Department.
+Use of a personal car on authorized Rutgers business is reimbursable at the prevailing reimbursement rate as specified in University Regulations and Procedures.
+ARTICLE 28	- CHANGE IN WORKSHIFTS
+Prior to effecting a change of one hour or more in the regular starting time of work shifts, Rutgers will give at least one week notice to affected employees and will discuss such change and the need for same with the representatives of the Union, unless circumstances, such as in emergency situations, make such notice and prior discussion impracticable.
+ARTICLE 29	- SHIFT PREFERENCE
+When a vacancy occurs or a new job is created within a given job classification in a work unit having more than one shift, any employee in the same classification may elect, in accordance with seniority, to change his/her shift to that shift in which the opening occurs, provided in the judgment of supervision that the efficiency of the particular operation will not be impaired by such a change and provided that no employee shall voluntarily exercise his/her seniority rights for such purpose more than once in any year. No employee shall be considered for a change in shift unless he/she shall in writing have requested a change in shift no earlier than six (6) months and no later than two (2) weeks before any such opening occurs.
+Effective July 1, 2004, a shift premium of forty-five ($0.45) cents per hour shall be paid to any full time employee who is regularly scheduled to start work on or after 9:00 p.m. and before 4:00 a.m.
+Effective July 1, 2004, a shift premium of thirty-five ($0.35) cents per hour shall be paid to any full time employee who is regularly scheduled to start work on or after 3:00 p.m. and before 9:00 p.m.
+Paid time off is considered to be time worked for eligibility for payment.
+Employees must be employed on the date of payment in order to receive this payment.
+23
+ARTICLE 30	- LAYOFF, RESIGNATION NOTICE
+Rutgers agrees that prior to any layoff it will, except in case of emergencies, give at least twenty (20) calendar days notice to the employees affected (except probationary employees), and in consideration therefore, the Union agrees that the employees covered by this Agreement will, except in case of emergencies, give at least fourteen (14) calendar days notice prior to resigning from employment.
+ARTICLE 31	- TECHNOLOGICAL CHANGE
+The University shall have the sole right to make technological and other such major changes in its operation as it may deem advisable for its efficient operation. However, prior to the introduction of any such changes, the University shall notify the Union of such contemplated changes and of any opportunities for training. In the event the introduction of any new process or equipment results in layoff of persons, these matters shall also be discussed with the designated Union representative prior to their introduction. Any such layoffs shall be made pursuant to the layoff procedure in Article 9.
+ARTICLE 32	- JOB POSTING PROCEDURE
+The procedure to be used by the employer to indicate a promotional opportunity or a transfer shall be called a "posting procedure." The posting procedure for clerical, office, laboratory and technical employees shall be divided into two categories: Promotional Opportunities-Vacant Positions, and Recruitment Notifications. The posting procedure shall be used in a manner consistent with the goals of the Affirmative Action Program and the provisions of the collective negotiations Agreement between Rutgers and AFSCME Local 1761.
+PROMOTIONAL OPPORTUNITY-VACANT POSITION
+Promotional Opportunities-Vacant Positions are defined as those positions within the COLT bargaining unit which are above the elementary level category (see Appendix C) for each job family. When vacancies occur and are to be filled for any of these job classifications, each such promotional opportunity shall be posted on an individual job by job basis in the geographic area concerned (New Brunswick, Newark or Camden) and in one location on each of the other geographic campuses for a period of five (5) work days. The posting shall be on a form entitled "Promotional Opportunity-Vacant Position" and will include the following information:
+1.	Title of Position
+2.	Salary Range
+3.	Geographic Location
+4.	Department
+5.	"Scope and Function" and "Requirements" paragraphs of the generic job
+description.
+6.	Date Posted
+7.	Workweek designation if other than 35 hours
+24
+8.	Expiration Date of Posting
+9.	Special Conditions
+10.	Specific requirements such as specialized skills, specialized machine capabilities or language skills.
+11.	Positions awarded by listing job number, name of successful bidder, old job title, new job title and seniority date; or by listing job number and the term "new hire" whichever is applicable.
+12.	The heading will include "AFSCME Local 1761, AFL-CIO."
+This information is to be prepared by the Personnel Office for weekly publication. Positions which are posted are not to be reposted in subsequent weeks if they have not been filled. Copies of all job postings will be provided to the Union President. Copies of all job postings will be provided to all stewards and Vice Presidents in the geographic areas concerned. Rutgers will provide to a Union designee in each seniority unit a list of applicants who were successful in the posting procedure.
+RECRUITMENT NOTIFICATION
+At the discretion of the administration, any position vacancy in a classification other than those listed in the COLT bargaining unit, or elementary level positions, or confidential positions may be made known if such information seems appropriate for distribution. It shall be the responsibility of the appropriate Personnel Office to prepare and distribute such recruitment notices.
+GENERAL
+POSITIONS TO BE POSTED
+All permanent 12 or 10 month vacant positions of twenty (20) hours or more per week that are to be filled and are included within the COLT bargaining unit shall be posted.
+EMPLOYEES ELIGIBLE TO USE THE POSTING PROCEDURE
+Those Rutgers University employees who are considered eligible to use this posting procedure shall be defined as those employees eligible for inclusion in the COLT bargaining unit, including employees working twenty (20) hours a week or more, and having been employed by Rutgers University on a continuous basis for a period of at least six (6) months. Casual and temporary employees are not eligible to bid. Reclassification shall not be a bar to bidding. Employees holding confidential positions may also use this posting procedure.
+25
+HOW TO APPLY
+Employees covered by this procedure who feel qualified for any posted position may apply for it. A completed bid form for each position applied for must be in the designated Personnel Office at the time specified on the posting. If any interview takes place, the employee shall request permission of his/her immediate supervisor to be absent for the time required. Permission will not be unreasonably denied.
+Contents of the job requisition for a position will be shared with an employee at his/her request in accordance with specific instructions on the posting sheet.
+POSTING PERIOD
+All positions which must be posted shall be posted for five (5) consecutive work days. Saturdays, Sundays, and holidays shall not be considered work days for purposes of this procedure.
+Only if application is made for a posted position during this five (5) day period is there an obligation to consider that applicant for the position.
+SELECTION OF CANDIDATES
+The selection of the successful candidate will be determined with primary consideration given to performance, demonstrated ability and qualifications. After these factors have been carefully considered, if two or more candidates for the vacancy are equally qualified based on the aforementioned criteria, then seniority shall be the determining factor in the selection of the successful applicant for the position. Employees covered by this Agreement will be considered for selection regarding vacant Local 888 positions after Local 888 applicants but before applicants from any other sources, provided they apply during the appropriate posting period. Non-selection will not be subject to the grievance procedure.
+FUNDING
+If a position is funded as opposed to being supported by a regular budgetary line, a notation should be made on the posting of this fact; in this manner, employees will be aware that this is a term appointment rather than an indefinite one.
+FREQUENCY OF APPLYING FOR A POSTED POSITION
+There shall be no limitation on the number of times an individual who is eligible may bid on posted positions, except that after an employee has successfully bid and has been accepted, the employee must wait six (6) months before bidding on another position.
+26
+RECLASSIFICATIONS WITHIN DEPARTMENTS
+Where, because of increase in duties and responsibility or for other bona-fide reasons, a department wishes to recommend that a position be reclassified, the reclassification procedure shall be followed. This reclassification cannot be used, however, to promote an existing employee into a vacant position. In such a case, the vacant position must be posted as outlined above.
+ARTICLE 33	- POSITION CLASSIFICATION REVIEW
+1.	An employee wishing to request a position classification review will submit a completed request to the Department Head/Director and simultaneously send a copy to the appropriate personnel office on forms designed by Rutgers. The personnel office will complete such review within eight (8) weeks, with a two (2) week extension if necessary, after signoff of the forms by the Vice President/Provost, or consultation by University Human Resources with the employee’s department. Compensation for any new job classification will be effective retroactively to the payroll begin date following receipt of completed request-for-review materials at the appropriate personnel office.
+2.	If the employee is dissatisfied with the results of the review, he/she may appeal within six (6) weeks to the Office of Wage & Salary Administration for a second review of the classification material. Such review will be completed within six (6) weeks with a two (2) week extension if necessary.
+3.	If the employee and the Union are dissatisfied with the decision of this first appeal the Union may, within thirty (30) days of receipt of that decision, submit the appeal to a neutral Classification Review Officer (CRO).
+The Classification Review Officer, who will be an expert in the field of salary and classification, will be selected mutually by the Union and the University and will serve for the duration of the Agreement.
+The Classification Review Officer will consider each case appealed to him/her on its individual merits and any determination by the Classification Review Officer will not be applicable to other employees. The Classification Review Officer will conduct hearings in an expeditious and informal manner. The Classification Review Officer will submit his/her written recommendations to the parties within thirty (30) calendar days of the hearing date or any extension mutually agreed to by the parties.
+4.	The determination of the Classification Review Officer will not be denied arbitrarily by the University; the University will provide reasons in writing for any denial of a Classification Review Officer determination.
+A decision by the University not to reclassify an individual position whose reclassification has been recommended by the CRO will not be made for budgetary reasons.
+27
+5.	If a position classification review is requested of Wage & Salary by other than the incumbent in the position, the incumbent shall be informed by Wage & Salary that such a review has been initiated. Contents of the job description submitted and the decision of Wage & Salary will be shared by the department with the incumbent. The employee has the right to respond in writing to Wage & Salary, with a copy to his/her supervisor, concerning all data submitted to Wage & Salary.
+6.	Wage & Salary will inform the Union of any change in the form and the rationale for the change.
+7.	When an employee's position has been reclassified to a lower level, the employee may accept the downgrade; may use the layoff, bumping procedure or may appeal the downgrade through steps two and three of this procedure. If the latter option is chosen, no salary reduction will be implemented until the payroll begin date after the final decision is made.
+ARTICLE 34	- JOB EVALUATION MANUAL
+Rutgers shall provide to the Union a job evaluation manual containing job descriptions for all jobs in the bargaining unit.
+In the event that Rutgers establishes a new bargaining unit job title or changes the duties as described in the generic job description of an existing job title, the Union will be notified in writing of the new job title, the new job description and/or the changed generic job description, and the salary range assigned. If requested by the Union within fifteen (15) working days of said notification, Rutgers and the Union shall negotiate the salary range assigned subject to the Public Employment Relations Commission rules governing negotiations. Any range designation established through said negotiations will be retroactive to the date of said notification. Retroactive payment shall be applicable only to those employees who are in said title at the time of agreement on the designation.
+A list of all bargaining unit employees promoted or reclassified out of the unit will be sent to the Union President on a monthly basis. Copies of the administrative job posting sheets will be sent to the Union President as produced.
+ARTICLE 35	- BULLETIN BOARDS
+Rutgers shall provide for each agreed-upon area a bulletin board, space on a bulletin board or space for a bulletin board for posting by Union representatives of notices related to official Union matters. The Union agrees that notices posted on such bulletin boards shall only contain material related to official Local 1761 business.
+28
+ARTICLE 36	- SAFETY COMMITTEE
+Rutgers and the Union agree to establish jointly a committee to discuss mutual problems concerning employee safety and health. The committee shall be a standing committee, and once constituted shall meet regularly bimonthly to discuss long range, overall safety and health problems of employees. Video Display Terminals and their operation will be discussed at such safety committee meetings. Immediate safety problems should be reported to the supervisor or to the Department of Radiation and Environmental Health and Safety. The Union may appoint two (2) employees who shall not lose pay for the time spent at committee meetings. A representative of AFSCME may attend committee meetings.
+ARTICLE 37	- UNIVERSITY PROCEDURES
+Rutgers and the Union agree that employees shall be entitled to enjoy, and shall be subject to, all terms and conditions of employment applicable to the bargaining unit provided for in the University Regulations, Procedures, and Forms Usage Manual and not provided for herein. During the life of the Agreement, any change in the University Regulations, Procedures, and Forms Usage Manual affecting terms and conditions of employment of members of the bargaining unit shall be negotiated.
+ARTICLE 38	- RETIREMENT AND LIFE INSURANCE BENEFITS
+Appointed employees shall be eligible for participation in the Public Employees Retirement System consistent with its rules and regulations. Should there be changes made in this plan by legislation during the term of this Agreement, all such changes appropriate to members of this negotiating unit shall be made and effected in accordance with the provisions of such legislation.
+Administrative rules are established by the Division of Pensions and Rutgers.
+ARTICLE 39	- HEALTH BENEFITS
+Members of the bargaining unit who are eligible for health insurance benefits coverage and who are hired on or after March 17, 2004 shall not be eligible for enrollment in the Traditional Plan.
+All employees represented by the Union who are eligible for health insurance benefits coverage under P.L. 1961 c.49 (N.J.S.A. 52:14-17.25 et seq) shall pay premium or periodic charges therefore on the same basis and to the same extent as the State establishes for State AFSCME employees. This provision will become effective July 1, 2000.
+29
+ARTICLE 40	- TEN-MONTH EMPLOYEES
+Full time employees appointed on a regular 10-month basis (those employed for the standard academic year beginning September 1 and ending June 30) generally receive benefits on a pro-rata basis except for holiday pay which will be granted for those holidays that fall during the academic year only.
+ARTICLE 41	- PERSONNEL FILES
+Only authorized personnel shall have access to employee personnel files.
+All employees shall have access to their central personnel files to review their employee records. The request for review of such records shall be made in writing in advance to the Division of Personnel and such review shall be during regular office hours. An employee may respond in writing to any document in the file. Such response shall become a part of the file.
+In addition, upon a specific written request by an employee, the Union, through a designated steward or Union officer, shall have the right to review that employee's file. Such request for review shall state the reason for the request and shall be scheduled in advance with the Division of Personnel and shall take place during regular business hours. Grievances and Classification Review records shall not be a part of the employee's personnel file. When any such documents are found in the personnel file, they shall be removed.
+ARTICLE 42	- GENERAL PROVISIONS
+1.	This Agreement supersedes any individual agreement between an individual employee and Rutgers.
+2.	Rutgers and the Union recognize the commitment of the University to its students to provide part time employment. Rutgers will not use students to undermine the bargaining unit.
+3.	Employees may be given permission to attend classes during the workday, provided the attendance at such classes does not interfere with the normal operation of the work unit, where such classes are related to the employee's job or career improvement and arrangements are made to make up the lost time. Any such arrangement shall be subject to approval by Rutgers.
+4.	The annual motor vehicle registration fee for employees wishing to register their vehicles for the use of surface campus parking facilities shall be l/10th of 1% of the employee's annual salary for employees earning less than $25,000. Thereafter, beginning January 1993, for salaries from $25,000 to $29,999 the rate shall be 1 l/100th of one percent (.0011).	For	salaries	from	$30,000 to $34,999,	the	rate	shall	be	12/100th	of one	percent
+(.0012).	For	salaries	from	$35,000 to $39,999	the	rate	shall	be	14/100th	of one	percent
+(.0014).	For	salaries	from	$40,000 to $44,999	the	rate	shall	be	16/100th	of one	percent
+(.0016).	For	salaries	from	$45,000 to $49,999	the	rate	shall	be	18/100th	of one	percent
+30
+(.0018). Thereafter, the rate shall increase 2/100th of one percent (.0002) for each additional $10,000 of salary or portion thereof, the new rate to be applied to the entire salary.
+The fee shall be based on the employee's annual salary at the time of billing.
+To the extent permitted by law, effective with the registration next following January 1, 2000, employees who pay the motor vehicle registration fee for the use of campus parking facilities by way of payroll deduction shall be given the option of paying said fee by way of a pretax payroll deduction.
+5.	Rutgers and the Union will establish a committee to study the concept and feasibility of a career ladder program. This committee shall be a standing committee consisting of three (3) Union and three (3) University members. Rutgers and the Union agree that the committee shall first discuss opportunities for technical training in the computer and word processing fields.
+6.	Rutgers agrees to have raingear available for those postal employees who regularly pick up and deliver mail and in kiosks on the New Brunswick campus for the use of bus dispatchers.
+Rutgers agrees to have two (2) smocks or aprons available for employees in reprographics.
+7.	Meal Allowance. Employees who are required to work for twelve (12) consecutive hours or more shall be entitled to one meal allowance of $5.50 effective July 1, 2004; $5.75 effective July 1, 2005; and $6.00 effective July 1, 2006.
+8.	Dispatcher (University Police) and those employees assigned to the Post Office who are issued uniforms shall receive a uniform maintenance allowance of $85 effective July 1, 2004; $90 effective July 1, 2005; and $95 effective July 1, 2006. Rutgers agrees to explore problems in this area if any develop.
+9.	At the request of an employee, access to his/her medical records which are maintained by the University will be granted. The request must be in writing and signed by the employee. The request must be made to the medical office where the records are maintained at least two (2) working days prior to the time the employee wishes to have access to such records. The original medical records may not leave the medical office where they are maintained and any inspection of the records must be completed in the presence of a member of the medical office staff during regular working hours. The employee may purchase copies of such medical records for his/her use at a cost of $.10 per page.
+10.	If the University cannot hire a successful applicant unless a salary higher than step 1 of the appropriate salary range is offered, the University will immediately notify the Union that it intends to offer or has offered the applicant such a salary, within that salary range, and will provide the Union with information about the position at issue. If the Union so wishes to negotiate particular future salary adjustments for that individual, the Union shall request such negotiations.
+31
+11.	As soon as practicable following the execution of this Agreement, Rutgers University will post this Agreement on the Office of Labor Relations’ website, and shall list on the website the name, address, telephone number and website of Local 1761.
+12.	To the extent permitted by law, upon the effective date of this Agreement, the University will carry without charge by University campus mail up to three times per semester the Local 1761 newsletter to its bargaining unit members. Local 1761 will not send, and the University will not carry, by campus mail any other matter except upon payment of appropriate United States Postal charges.
+ARTICLE 43	- WORKDAY
+For the sole purpose of determining administrative leave, personal holidays, holidays, vacation and sick leave as set forth in this Agreement, a workday for employees who work a thirty-five (35) hour workweek will be seven (7) consecutive hours and a workday for employees who work a forty (40) hour workweek will be eight (8) consecutive hours.
+ARTICLE 44	-VDT OPERATORS
+A full-time employee who operates a Video Display Terminal full time who is pregnant and is experiencing significant discomfort at her work station may request reassignment to other work. Such request shall be granted in full or in part when there is comparable work available, and in accordance with the needs of the employee's department. When it is not feasible to accommodate the employee, she shall be entitled to a leave without pay upon a doctor's certification that such leave is necessary. Under most circumstances, she will be returned to the same or similar position. Grievances concerning leaves of absence will be arbitrable; grievances concerning assignment will be processed exclusively under Article 8, Section 15.
+Full-time employees who operate VDTs on a full time basis shall be eligible for the cost of eyeglasses each year should there be a change in vision requiring new glasses. The rate at which the employee will be reimbursed is as described in Article 39.
+ARTICLE 45	- SEVERABILITY
+Rutgers and the Union understand and agree that all provisions of this Agreement are subject to law. In the event that any provision of this Agreement shall be rendered illegal or invalid under any applicable law, such illegality or invalidity shall affect only the particular provision which shall be deemed of no force and effect, but it shall not affect the remaining provisions of this Agreement.
+Upon request of either party, the parties agree to meet and renegotiate the provision so affected.
+32
+ARTICLE 46	- PRINTING OF AGREEMENT
+Rutgers shall be responsible for reproducing this Agreement and will furnish a sufficient number of copies to the Union for distribution to employees in the unit. The printing cost shall be shared equally between Rutgers and the Union.
+33
+ARTICLE 47	- TERM
+This Agreement shall be effective from July 1, 2003 until 12:00 midnight on June 30, 2007.
+Dated: May 18, 2004
+RUTGERS, THE STATE UNIVERSITY
+Harry M. Agnostak	Jeff Maschi
+Jennifer E. Walker	Mark Rozewski
+Robert L. Harris	Patricia Kelly
+Patricia S. Stevenson	Patricia Brancato
+Rita Mac Indoe
+AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO
+Richard Gollin	Arthur C. Delo, Jr.
+LOCAL UNION NO. 1761 AFFILIATED WITH AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO
+Charl esetta Bynes	Betty McCoy-Carter
+Maria Kreger	Permelia Toney-Boss
+Leona Pellot	Shelby Miller
+Rhonda Crouch	Dolores Wardrop
+Gwen Brogsdale	Georgette Adamcik
+34
+APPENDIX A
+AFSCME LOCAL 1761 (COLT) JOB TITLES (ALPHABETICAL LIST)
+Title	Range
+Accounting Clerk	7
+Assistant Equipment Manager - Athletics	12
+Assistant Instrument Maker/Repairer	18
+Assistant Lab Mechanic	7
+Assistant Museum Installer/Preparator	11
+Audio-Visual Technician	8
+Budget Clerk	9
+Business Aide	13
+Carpenter/Scenery Painter	14
+Classroom Assistant I	10
+Classroom Assistant II	9
+Clerk Bookkeeper	8
+Clerk Stenographer	7
+Clerk Transcriber	7
+Clerk Transcriber - Languages	8
+Clerk Typist	8
+Clerk Typist - Languages	9
+Clinic Assistant	12
+Computer Aided Design Technician	18
+Computer Design Technician	19
+Computer Operator I	17
+Computer Operator II	14
+Computer Operator III	11
+Computer Operator/Librarian	13
+Contract Post Office Clerk	13
+Contract Post Office Head Clerk	15
+Copier Operator I	13
+Copier Operator II	9
+Courier	10
+Crew Rigger	16
+Crime Analysis Technician	15
+Curatori al As si stant	13
+Customer Services Representative	15
+Data Control Coordinator I	17
+Data Control Coordinator II	15
+Data Entry Machine Operator	8
+Data Processing Machine Operator I	13
+Data Processing Machine Operator II	9
+Data Processing Machine Operator III	7
+Title	Range
+35
+Digital Electronics Service Technician	19
+Dispatcher (Buses)	11
+Dispatcher	14
+Dispatcher 9-1-1	15
+Drafting Technician	10
+Drafting Technician - Electronics	13
+EDC Assistant - PBP	14
+Electronics Technician	14
+Engineering Aide	9
+Equipment Manager Athletics	16
+Equipment Manager (N)	14
+Events Coordinator	15
+Financial Aid Clerk	9
+Financial Aid Technician	17
+Finishing Clerk I	11
+Finishing Clerk II	8
+General Clerk	8
+Graphics Coordinator	15
+Graphics Technician	13
+Head Accounting Clerk	15
+Head Audio Visual Technician	16
+Head Clerk	15
+Head Clerk Bookkeeper	15
+Head Data Entry Machine Operator	15
+Head Dispatcher (Buses)	14
+Head Drafting Technician	18
+Head Offset Machine Operator	17
+Head PBP Clerk	15
+Head Photocopy/Repro Tech	15
+Head Postal Clerk	12
+Head Registrations Clerk	17
+Head Stock Clerk	15
+Head Telephone Operator	12
+Health & Safety Technician	16
+Health Technician I	18
+Health Technician II	15
+Health Technician III	13
+Housing Access Coordinator	15
+Instrument Maker/Repairer	20
+Insurance Clerk	12
+Keypunch Operator	7
+Laboratory Animal Care Tech	10
+Laboratory Animal Care Tech - Nwk	12
+Laboratory Assistant	8
+Laboratory Mechanic	14
+Laboratory Services Assistant (RC)	13
+Title	Range
+Laboratory Technician	13
+36
+Language Laboratory Assistant	13
+Lead Copier Operator	18
+Lead Finishing Clerk	15
+Lead Library Utility Worker	13
+Lead Offset Print Operator	20
+Library Assistant II	13
+Library Assistant III	10
+Library Assistant IV	8
+Library Utility Worker	9
+Lighting Specialist	14
+Machinist	16
+Marketing Assistant	15
+Medical Technician	15
+Museum Installer/Preparator	14
+Network Installation Assistant	14
+Network Installation Technician	19
+Office Machine Clerk	7
+Offset Press Operator I	14
+Offset Press Operator II	11
+Operations Coordinator	13
+PBP Clerk	8
+Pharmacy Technician	13
+Photocopy/Reprographi c T echni ci an	13
+Photographer	14
+Photographic Communications Coordinator	17
+Photographic Technician - Publications	11
+Postal Clerk	10
+Postal Clerk/Tel ephone Operator	(C)	9
+Principal Accounting Clerk	13
+Principal Audio-Visual Technician	13
+Principal Clerk	11
+Principal Clerk Bookkeeper	12
+Principal Clerk Typist	12
+Principal Data Entry Machine Operator	13
+Principal Drafting Technician	14
+Principal Engineering Aide	16
+Principal Keypunch Operator	13
+Principal Laboratory Animal Care Tech - Nwk	17
+Principal Laboratory Animal Care Tech	15
+Principal Laboratory Assistant	11
+Principal Laboratory Technician	18
+Principal Office Machine Clerk	11
+Principal Offset Machine Operator	13
+Principal PBP Clerk	13
+Principal Secretary	13
+Title	Range
+Principal Secretary - Languages	14
+Principal Secretary - Technician	14
+37
+Principal Statistical Clerk	11
+Principal Stock Clerk	13
+Printing Operations Clerk	8
+Printing Operator I	15
+Printing Operator II	13
+Printing Operator III	11
+Production Assistant (SCPA)	13
+Production Control Clerk	8
+Program Assi stant	13
+Promotional Assistant (University Press)	7
+Property & Supply Worker	12
+Publications Assistant	15
+Publications Clerk	11
+Publications Compositor	11
+Radi ol ogi c Techni ci an	19
+Receptionist	8
+Registration/Records Clerk	11
+Research Aide	13
+Sales Clerk	8
+Scanner/Measurer - Physics	8
+Secretarial Assistant I	19
+Secretarial Assistant II	17
+Secretarial Assistant III	15
+Secretarial Assistant - Languages	16
+S ecretari al As si stant - T echni cal	16
+Secretary	10
+Secretary - Languages	11
+Secretary - Technical	11
+Secretary - Word Processing	11
+Senior Accounting Clerk	10
+Senior Architectural Drafting Technician	12
+Senior Audio-Visual Technician	10
+Senior Classroom Assistant	11
+Senior Clerk	8
+Senior Clerk Bookkeeper	9
+Senior Clerk Typist	9
+Senior Clerk Typist - Languages	10
+Senior Data Entry Machine Operator	10
+Senior Drafting Technician	12
+Senior Electronics Technician	16
+Senior Engineering Aide	14
+Senior Financial Aid Clerk	13
+Senior Keypunch Operator	9
+Senior Laboratory Animal Care Tech - Nwk	15
+Title	Range
+Senior Laboratory Animal Care Tech	13
+Senior Laboratory Assistant	8
+Senior Laboratory Mechanic	16
+38
+S eni or Lab oratory Techni ci an	16
+Senior Office Machine Clerk	8
+Senior Office Machine Operator	10
+S eni or PBP Cl erk	10
+Senior Registration/Records Clerk	13
+Senior Sales Clerk	9
+Senior Scanner/Measurer (Physics)	11
+Senior Statistical Clerk	7
+Senior Stock Clerk	10
+Senior Tandem Accelerator Technician	19
+S eni or Tel evi si on T echni ci an	16
+Senior Teller	9
+Senior Teller (SAR)	11
+Stage Hand/Electrician	14
+Stage Manager	12
+Statistical Assistant (Institutional Research)	13
+Statistical Clerk	5
+Stock Clerk	8
+Studio Technician	14
+Surplus Property Clerk	11
+Tandem Accel erator Techni ci an	15
+Telephone Operator	11
+Television Technician	14
+Teller	7
+Teller (SAR)	9
+Theater Technician	14
+Ticket Sales Assistant - Athletics	13
+Typist - Technical	10
+Unit Coordinator	13
+Word Processing Machine Operator I	14
+Word Processing Machine Operator II	11
+Word Processing Machine Operator III	9
+39
+APPENDIX B EXPANDED COLT JOB FAMILIES
+Secretarial	Range
+Sec Asst I	19
+Health Tech I	18
+Sec Asst II	17
+Sec Asst-Lang	16
+Sec Asst-Tech	16
+Sec Asst-III	15
+Health Tech II	15
+Prin Secretary-Lang	14
+Prin Secretary-Tech	14
+Word Process Mach Oper I	14
+Prin Secretary	13
+Health Tech III	13
+Prin Clk Typist	12
+Secretary-Lang	11
+Secretary-Tech	11
+Sec-Word Processing	11
+Word Process Mach Oper II	11
+Secretary	10
+Sr Clk Typist-Lang	10
+Typist-Technical	10
+Clerk Typist-Lang	9
+Sr Clk Typist	9
+Word Process Mach Oper III	9
+Clk Trans-Lang	8
+Clk Typist	8
+Clk Steno	7
+Clk Transcriber	7
+Laboratory	Range
+Inst Maker/Repairer	20
+Radiologic Tech	19
+Sr Tandem Acc Tech	19
+Asst Inst Maker/Repairer	18
+Prin Lab Tech	18
+Prin Animal Care Tech-Nwk	17
+Crew Rigger	16
+Electro/Mechanical Tech	16
+Health & Safety Tech	16
+Machinist	16
+Sr Electronics Tech	16
+Sr Lab Mechanic	16
+Sr Lab Tech	16
+Medical Tech	15
+Sr Lab Animal Care Tech-Nwk	15
+40
+Prin Lab Animal Care Tech	15
+Lab Mechanic	14
+Lab Services Asst (RC)	13
+Lab Technician	13
+Sr Lab Animal Care Tech	13
+Clinic Asst	12
+Prin Lab Asst	11
+Sr Scanner/Measurer	11
+Lab Animal Care Tech	10
+Lab Asst	8
+Scanner/Measurer	8
+Sr Lab Asst	8
+Asst Lab Mechanic	7
+Drafts/Engineering	Range
+Head Drafting Tech	18
+Prin Engineering Aide	16
+Prin Drafting Tech	14
+Sr Engineering Aide	14
+Drafting Tech-Electronics	13
+Sr Architect Draft Tech	12
+Sr Drafting Tech	12
+Drafting Tech	10
+Engineering Aide	9
+Office Clerks	Range
+Financial Aid Technician	17
+Head Regi strati on Cl erk	17
+Dispatcher 9-1-1	15
+Events Coordinator	15
+Head Accounting Clerk	15
+Head Clerk	15
+Head Clerk Bookkeeper	15
+Head PBP Clerk	15
+Housing Access Coord	15
+Marketing Asst	15
+Publications Asst	15
+Dispatcher	14
+Head Dispatcher (Buses)	14
+Business Aide	13
+Curatorial Asst	13
+Language Lab Asst	13
+Lead Lib Utility Worker	13
+Library Asst II	13
+Operations Coord	13
+Pharmacy Technician	13
+Photocopy/Reprographic Tech	13
+41
+Prin Accounting Clerk	13
+Prin PBP Clerk	13
+Production Asst (SCPA)	13
+Program Asst	13
+Research Aide	13
+Sr Financial Aid Clerk	13
+Sr Registration/Records Clerk	13
+Statistical Asst (Inst Res)	13
+Ticket Sales Asst	13
+Unit Coord	13
+Head Telephone Oper	12
+Insurance Clerk	12
+Prin Clerk Bookkeeper	12
+Dispatcher (Buses)	11
+Prin Clerk	11
+Prin Statistical Clerk	11
+Publications Clerk	11
+Registration/Records Clerk	11
+Sr Teller (SAR)	11
+Senior Classroom Assistant	11
+Telephone Operator	11
+Library Asst III	10
+Sr Accounting Clerk	10
+Sr PBP Clerk	10
+Budget Clerk	9
+Financial Aid Clerk	9
+Library Utility Worker	9
+Sr Clerk Bookkeeper	9
+Sr Sales Clerk	9
+Sr Teller	9
+Teller (SAR)	9
+Classroom Assistant	9
+Clerk Bookkeeper	8
+General Clerk	8
+Library Asst IV	8
+PBP Clerk	8
+Production Control Clerk	8
+Receptionist	8
+Sales Clerk	8
+Sr Clerk	8
+Accounting Clerk	7
+Promotional Asst (UP)	7
+Sr Statistical Clerk	7
+Teller	7
+42
+Stores & Mail Clerk	Range
+Equipment Manager Athletics	16
+Contract Post Office Hd Clk	15
+Crime Analysis Technician	15
+Head Stock Clerk	15
+Equipment Manager (N)	14
+Prin Stock Clerk	13
+Contract Post Office Clk	13
+Property & Supply Worker	12
+Asst Equip Mgr - Athletics	12
+Head Postal Clerk	12
+Surplus Property Clerk	11
+Sr Stock Clerk	10
+Courier	9
+Postal Clerk	9
+Postal Clerk/Tele Oper (C)	9
+Stock Clerk	8
+Machine Operators	Range
+Lead Offset Press Operator	20
+Lead Copier Operator	18
+Head Offset Machine Oper	17
+Customer Services Rep	15
+Head Photo/Repro Tech	15
+Lead Finishing Clerk	15
+Printing Operator I	15
+Offset Press Operator I	14
+Copier Operator I	13
+Prin Offset Mach Oper	13
+Printing Operator II	13
+Finishing Clerk I	11
+Offset Press Operator II	11
+Prin Office Machine Clerk	11
+Printing Operator III	11
+Publications Compositor	11
+Photocopy/Reprographic Tech	10
+Sr Offset Mach Oper	10
+Copier Operator II	9
+Finishing Clerk II	8
+Printing Operations Clerk	8
+Sr Office Machine Clerk	8
+Office Machine Clerk	7
+43
+Comp-DP Keypunch Computer Design Tech Digital Electronics Svc Tech Network Installation Tech Computer Aided Design Tech Computer Operator I Data Control Coordinator I Data Control Coordinator II Head Data Entry Mach Oper Computer Operator II Network Installation Asst Computer Operator/Librarian Data Processing Mach Oper I Prin Data Entry Mach Oper Prin Keypunch Operator Computer Operator III Sr Data Entry Mach Oper Data Processing Mach Oper II Sr Keypunch Oper Data Entry Mach Oper Keypunch Operator Data Processing Mach Oper III	Range 19 19 19 18 17 17 15 15 14 14 13 13 13 13 11 10 9 9 8 7 7
+Audio-Visual Photo Communications Coord Head Audio-Visual Tech Sr Television Tech Graphics Coord Carpenter/Scenery Painter Lighting Specialist Museum Installer/Preparator Photographer Stage HandZElectrician Studio Technician Television Technician Theater Technician Graphics Technician Prin Audio-Visual Tech Stage Manager Asst Museum Install/Preparator Photographic Tech - Pub Sr Audio-Visual Tech Audio Visual Tech	Range 17 16 16 15 14 14 14 14 14 14 14 13 13 13 12 11 11 10 8
+44
+APPENDIX C COLT JOB TITLES BY FAMILY
+Account Clerk
+Head Accounting Clerk
+Principal Accounting Clerk Senior Account Clerk
+Accounting Clerk
+Animal Caretaker - IAB Laboratory
+Prin Lab Animal Care Tech - Nwk Sr Lab Animal Care Tech - Nwk Lab Animal Care Tech - Nwk
+Animal Caretaker - Laboratory
+Prin Lab Animal Care Tech Sr Lab Animal Care Tech Lab Animal Care Tech
+Audio Visual-Technician
+Head Audio-Visual Technician Principal Audio-Visual Technician Senior Audio-Visual Technician Audio-visual Technician
+Clerk
+Head Clerk
+Principal Clerk Senior Clerk General Clerk
+Clerk Bookkeeper
+Head Clerk Bookkeeper Principal Clerk Bookkeeper Senior Clerk Bookkeeper Clerk Bookkeeper
+Clerk Typist
+Principal Clerk Typist Senior Clerk Typist - Lang Senior Clerk Typist Typist - Technical Clerk Typist - Lang Clerk Typist
+Drafting Technician
+Compositor
+Publications Compositor
+Computer Operator
+Computer Operator I
+Computer Operator II
+Computer Operator/Librarian
+Computer Operator III
+Computer Technician
+Computer Design Tech
+Computer Aided Design Tech
+Digital Electronics Service Tech
+Copier Operator
+Lead Copier Operator Copier Operator I Copier Operator II
+Data Control Coordinator
+Data Control Coordinator I
+Data Control Coordinator II
+Data Entry Machine Operator
+Head Data Entry Machine Oper Principal Data Entry Machine Oper Senior Data Entry Machine Oper Data Entry Machine Oper
+Data Processing Machine Operator
+Data Processing Machine Oper I Data Processing Machine Oper II Data Processing Machine Oper III
+Dispatcher - Buses
+Head Dispatcher - Buses
+Dispatcher - Buses
+Laboratory Assistant
+45
+Head Drafting Technician Principal Drafting Technician Drafting Technician - Electronics Senior Architectural Drafting Tech Senior Drafting Technician Drafting Technician	Principal Lab Assistant Senior Lab Assistant Lab Assistant Laboratory Mechanic Instrument Maker Repairer Asst Instrument Maker/Repairer
+Electronics Technician Senior Electronics Technician Electronics Technician	Senior Lab Mechanic Lab Mechanic Assistant Lab Mechanic
+Engineering Aide Principal Engineering Aide Senior Engineering Aide Engineering Aide	Laboratory Technician Principal Lab Technician Senior Lab Technician Lab Technician
+Equipment Manager Equipment Manager Athletics Equipment Manager (N) Assistant Equip Mgr Athletics	Library Assistant Library Assistant II Library Assistant III Library Assistant IV
+Financial Aid Financial Aid Technician Senior Financial Aid Clerk Financial Aid Clerk	Library Utility Worker Lead Library Utility Worker Library Utility Worker Miscellaneous
+Finishing Clerk Lead Finishing Clerk Finishing Clerk I Finishing Clerk II	Budget Clerk Business Aide Carpenter/Scenery Painter Classroom Assistant Clinic Assistant
+Graphics Graphics Coordinator Graphics Technician	Crime Analysis Technician Crew Rigger Customer Services Representative Dispatcher (University Police)
+Health Technicians Health Technician I Health Technician II Health Technician III	Electro/Mechanical Technician Events Coordinator Health & Safety Technician Housing Access Coordinator Insurance Clerk
+Keypunch Operator Principal Keypunch Operator Senior Keypunch Operator Keypunch Operator	Lab Services Assistant (RC) Language Lab Assistant Lighting Specialist Machinist Marketing Assistant Medical Technician
+Miscellaneous (cont’d) Operations Coordinator	PBP Clerk Head PBP Clerk
+46
+Pharmacy Technician Production Assistant (SCPA) Production Control Clerk Program Assistant Promotional Assistant (UP) Publications Assistant Publications Clerk Radiologic Technician Receptionist Research Aide
+Senior Classroom Assistant
+Stage Hand/Electrician
+Stage Manager Studio Technician Theater Technician Ticket Sales Assistant Unit Coordinator
+Museum
+Curatorial Assistant Museum Installer/Preparator Asst Museum Installer/Preparator
+Network Installation
+Network Installation Technician Network Installation Assistant
+Office Machine Clerk
+Principal Office Machine Clerk Senior Office Machine Clerk Office Machine Clerk
+Office Machine Operator
+Head Offset Machine Operator Principal Offset Machine Operator Senior Offset Machine Operator
+Offset Press Operator
+Lead Offset Press Operator Offset Press Operator I Offset Press Operator II
+Principal PBP Clerk
+Senior PBP Clerk
+PBP Clerk
+Photocopy/Reprographics
+Head Photocopy/Reprographics Tech
+Photocopy/Reprographics Tech
+Photography
+Photographic Communications Coord
+Photographer
+Photographer Technician
+Postal Clerk
+Contract Post Office Head Clerk
+Contract Post Office Clerk
+Head Postal Clerk
+Postal Clerk
+Postal Clerk/Tel ephone Operator
+Printing Operator
+Printing Operator I
+Printing Operator II
+Printing Operator III
+Printing Operations Clerk
+Registration Clerk
+Head Registration Clerk
+Senior Registration/Records Clerk
+Registration/Records Clerk
+Sales Clerk
+Senior Sales Clerk
+Sales Clerk
+Scanner/Measurer
+Senior Scanner/Measurer - Physics
+Scanner Measurer - Physics
+Secretarial
+Secretarial Assistant I
+Secretarial Assistant II
+TV Technician
+Senior Television Technician
+Television Technician
+47
+Secretarial Assistant - Tech Secretarial Assistant - Lang Secretarial Assistant III Principal Secretary - Lang Principal Secretary - Tech
+Principal Secretary
+Secretary - Lang
+Secretary - Tech
+Secretary - Word Processing
+Secretary
+Clerk Transcriber - Lang
+Clerk Transcriber
+Clerk Stenographer
+Statistical Clerk
+Statistical Assistant
+Principal Statistical Clerk Senior Statistical Clerk Statistical Clerk
+Stock Clerk
+Head Stock Clerk
+Property & Supply Worker
+Surplus Property Clerk
+Senior Stock Clerk
+Courier
+Stock Clerk
+Tandem Accelerator Technician
+Senior Tandem Accelerator Technician Tandem Accelerator Technician
+Telephone Operator
+Head Telephone Operator
+Telephone Operator
+Word Processing
+Word Processing Machine Oper I
+Word Processing Machine Oper II
+Word Processing Machine Oper III
+Teller
+Senior Teller (SAR)
+Teller (SAR)
+Senior Teller
+Teller
+48
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY
+THE OFFICE OF THE EXECUTIVE VICE PRESIDENT FOR ADMINISTRATIVE AFFAIRS
+COMPENSATION SCHEDULE - ANNUAL SALARIES
+APPENDIX D
+EFFECTIVE JULY 1, 2003
+SALARY TABLE: AFSCME LOCAL 1761
+FISCAL DAYS: 262
+RANGE	STEP:	01	02	03	04	05	06	07	08
+05	ANNL 20137	20967	21795	22612	23440	24265	25086	26051
+	BIWK 768.59	800.27	831.88	863.06	894.66	926.15	957.49	994.32
+06	ANNL 20975	21844	22713	23577	24445	25310	26179	27193
+	BIWK 800.58	833.75	866.91	899.89	933.02	966.04	999.20	1037.91
+07	ANNL 21860	22769	23676	24591	25495	26408	27319	28385
+	BIWK 834.36	869.05	903.67	938.59	973.10	1007.94	1042.71	1083.40
+08	ANNL 22785	23741	24700	25653	26614	27568	28526	29643
+	BIWK 869.66	906.15	942.75	979.13	1015.81	1052.22	1088.78	1131.42
+09	ANNL 23755	24761	25760	26768	27769	28770	29777	30939
+	BIWK 906.68	945.08	983.21	1021.68	1059.89	1098.10	1136.53	1180.88
+10	ANNL 24774	25825	26879	27934	28986	30035	31083	32319
+	BIWK 945.58	985.69	1025.92	1066.19	1106.34	1146.38	1186.38	1233.55
+11	ANNL 25847	26949	28054	29157	30261	31365	32463	33754
+	BIWK 986.53	1028.59	1070.77	1112.87	1155.00	1197.14	1239.05	1288.33
+12	ANNL 26967	28126	29282	30444	31600	32758	33909	35262
+	BIWK 1029.28	1073.52	1117.64	1161.99	1206.11	1250.31	1294.24	1345.88
+13	ANNL 28145	29359	30579	31798	33017	34233	35454	36878
+	BIWK 1074.24	1120.58	1167.14	1213.67	1260.20	1306.61	1353.21	1407.56
+14	ANNL 29382	30659	31939	33216	34496	35774	37056	38541
+	BIWK 1121.46	1170.20	1219.05	1267.79	1316.65	1365.42	1414.36	1471.04
+15	ANNL 30680	32019	33359	34707	36043	37388	38735	40291
+	BIWK 1171.00	1222.10	1273.25	1324.70	1375.69	1427.03	1478.44	1537.83
+16	ANNL 32044	33457	34873	36281	37696	39108	40515	42167
+	BIWK 1223.06	1276.99	1331.04	1384.78	1438.78	1492.68	1546.38	1609.43
+17	ANNL 33478	34964	36448	37928	39410	40893	42378	44108
+	BIWK 1277.79	1334.51	1391.15	1447.64	1504.20	1560.81	1617.49	1683.52
+18	ANNL 34988	36540	38095	39655	41205	42758	44317	46125
+	BIWK 1335.42	1394.66	1454.01	1513.55	1572.71	1631.99	1691.49	1760.50
+19	ANNL 36569	38197	39831	41467	43099	44726	46359	48265
+	BIWK 1395.77	1457.91	1520.27	1582.71	1645.00	1707.10	1769.43	1842.18
+20	ANNL 38225	39944	41659	43375	45089	46802	48522	50521
+	BIWK 1458.97	1524.59	1590.04	1655.54	1720.96	1786.34	1851.99	1928.29
+49
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY
+THE OFFICE OF THE EXECUTIVE VICE PRESIDENT FOR ADMINISTRATIVE AFFAIRS
+COMPENSATION SCHEDULE - ANNUAL SALARIES
+EFFECTIVE JULY 1, 2004
+SALARY TABLE: AFSCME LOCAL 1761
+FISCAL DAYS: 261
+RANGE	STEP:	01		02	03	04	05	06	07	08
+05	ANNL BIWK	20721 793.91	21575 826.63	22427 859.28	23268 891.50	24120 924.14	24969 956.67	25813 989.01	26806 1027.05
+06	ANNL BIWK	21583 826.94	22477 861.19	23372 895.48	24261 929.55	25154 963.76	26044 997.86	26938 1032.11	27982 1072.11
+07	ANNL BIWK	22494 861.84	23429 897.67	24363 933.45	25304 969.51	26234 1005.14	27174 1041.15	28111 1077.05	29208 1119.09
+08	ANNL BIWK	23446 898.32	24429 935.98	25416 973.80	26397 1011.38	27386 1049.28	28367 1086.86	29353 1124.64	30503 1168.70
+09	ANNL BIWK	24444 936.56	25479 976.21	26507 1015.60	27544 1055.33	28574 1094.79	29604 1134.26	30641 1173.99	31836 1219.78
+10	ANNL BIWK	25492 976.71	26574 1018.17	27658 1059.70	28744 1101.31	29827 1142.80	30906 1184.14	31984 1225.45	33256 1274.18
+11	ANNL BIWK	26597 1019.05	27731 1062.50	28868 1106.06	30003 1149.55	31139 1193.07	32275 1236.60	33404 1279.85	34733 1330.77
+12	ANNL BIWK	27749 1063.19	28942 1108.89	30131 1154.45	31327 1200.27	32516 1245.83	33708 1291.50	34892 1336.86	36285 1390.23
+13	ANNL BIWK	28961 1109.62	30210 1157.48	31466 1205.60	32720 1253.64	33974 1301.69	35226 1349.66	36482 1397.78	37947 1453.91
+14	ANNL BIWK	30234 1158.40	31548 1208.74	32865 1259.20	34179 1309.55	35496 1360.00	36811 1410.39	38131 1460.96	39659 1519.51
+15	ANNL BIWK	31570 1209.58	32948 1262.38	34326 1315.18	35714 1368.36	37088 1421.00	38472 1474.03	39858 1527.13	41459 1588.47
+16	ANNL BIWK	32973 1263.34	34427 1319.05	35884 1374.87	37333 1430.39	38789 1486.17	40242 1541.84	41690 1597.32	43390 1662.46
+17	ANNL BIWK	34449 1319.89	35978 1378.47	37505 1436.98	39028 1495.33	40553 1553.76	42079 1612.23	43607 1670.77	45387 1738.97
+18	ANNL BIWK	36003 1379.43	37600 1440.62	39200 1501.92	40805 1563.41	42400 1624.53	43998 1685.75	45602 1747.21	47463 1818.51
+19	ANNL BIWK	37630 1441.77	39305 1505.94	40986 1570.35	42670 1634.87	44349 1699.20	46023 1763.34	47703 1827.71	49665 1902.88
+20	ANNL BIWK	39334 1507.05	41102 1574.79	42867 1642.42	44633 1710.08	46397 1777.67	48159 1845.18	49929 1912.99	51986 1991.81
+50
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY
+THE OFFICE OF THE EXECUTIVE VICE PRESIDENT FOR ADMINISTRATIVE AFFAIRS
+COMPENSATION SCHEDULE - ANNUAL SALARIES
+EFFECTIVE JULY 1, 2005
+SALARY TABLE: AFSCME LOCAL 1761
+FISCAL DAYS: 261
+RANGE	STEP:	01		02	03	04	05	06	07	08
+05	ANNL BIWK	21135 809.78	22007 843.19	22876 876.48	23733 909.32	24602 942.61	25468 975.79	26329 1008.78	27342 1047.59
+06	ANNL BIWK	22015 843.49	22927 878.43	23839 913.38	24746 948.13	25657 983.03	26565 1017.82	27477 1052.76	28542 1093.57
+07	ANNL BIWK	22944 879.09	23898 915.64	24850 952.11	25810 988.89	26759 1025.25	27717 1061.96	28673 1098.59	29792 1141.46
+08	ANNL BIWK	23915 916.29	24918 954.72	25924 993.26	26925 1031.61	27934 1070.27	28934 1108.59	29940 1147.13	31113 1192.07
+09	ANNL BIWK	24933 955.29	25989 995.75	27037 1035.91	28095 1076.44	29145 1116.67	30196 1156.94	31254 1197.48	32473 1244.18
+10	ANNL BIWK	26002 996.25	27105 1038.51	28211 1080.89	29319 1123.34	30424 1165.68	31524 1207.82	32624 1249.97	33921 1299.66
+11	ANNL BIWK	27129 1039.43	28286 1083.76	29445 1128.17	30603 1172.53	31762 1216.94	32921 1261.35	34072 1305.45	35428 1357.40
+12	ANNL BIWK	28304 1084.45	29521 1131.08	30734 1177.55	31954 1224.30	33166 1270.73	34382 1317.32	35590 1363.61	37011 1418.05
+13	ANNL BIWK	29540 1131.81	30814 1180.62	32095 1229.70	33374 1278.70	34653 1327.71	35931 1376.67	37212 1425.75	38706 1482.99
+14	ANNL BIWK	30839 1181.58	32179 1232.92	33522 1284.37	34863 1335.75	36206 1387.21	37547 1438.59	38894 1490.20	40452 1549.89
+15	ANNL BIWK	32201 1233.76	33607 1287.63	35013 1341.50	36428 1395.71	37830 1449.43	39241 1503.49	40655 1557.67	42288 1620.23
+16	ANNL BIWK	33632 1288.59	35116 1345.45	36602 1402.38	38080 1459.01	39565 1515.91	41047 1572.69	42524 1629.28	44258 1695.71
+17	ANNL BIWK	35138 1346.29	36698 1406.06	38255 1465.71	39809 1525.25	41364 1584.83	42921 1644.49	44479 1704.18	46295 1773.76
+18	ANNL BIWK	36723 1407.02	38352 1469.43	39984 1531.96	41621 1594.68	43248 1657.02	44878 1719.47	46514 1782.15	48412 1854.87
+19	ANNL BIWK	38383 1470.62	40091 1536.06	41806 1601.77	43523 1667.55	45236 1733.19	46943 1798.59	48657 1864.26	50658 1940.92
+20	ANNL BIWK	40121 1537.21	41924 1606.29	43724 1675.25	45526 1744.30	47325 1813.22	49122 1882.07	50928 1951.27	53026 2031.65
+51
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY
+THE OFFICE OF THE EXECUTIVE VICE PRESIDENT FOR ADMINISTRATIVE AFFAIRS
+COMPENSATION SCHEDULE - ANNUAL SALARIES
+EFFECTIVE JANUARY 1, 2006
+SALARY TABLE: AFSCME LOCAL 1761
+FISCAL DAYS: 261
+RANGE	STEP:	01		02	03	04	05	06	07	08
+05	ANNL BIWK	21558 825.98	22447 860.04	23334 894.03	24208 927.51	25094 961.46	25977 995.29	26856 1028.97	27889 1068.55
+06	ANNL BIWK	22455 860.35	23386 896.02	24316 931.65	25241 967.09	26170 1002.69	27096 1038.17	28027 1073.84	29113 1115.45
+07	ANNL BIWK	23403 896.67	24376 933.95	25347 971.15	26326 1008.66	27294 1045.75	28271 1083.19	29246 1120.54	30388 1164.30
+08	ANNL BIWK	24393 934.60	25416 973.80	26442 1013.11	27464 1052.27	28493 1091.69	29513 1130.77	30539 1170.08	31735 1215.91
+09	ANNL BIWK	25432 974.41	26509 1015.68	27578 1056.63	28657 1097.97	29728 1139.01	30800 1180.08	31879 1221.42	33122 1269.05
+10	ANNL BIWK	26522 1016.17	27647 1059.28	28775 1102.50	29905 1145.79	31032 1188.97	32154 1231.96	33276 1274.95	34599 1325.64
+11	ANNL BIWK	27672 1060.23	28852 1105.45	30034 1150.73	31215 1195.98	32397 1241.27	33579 1286.56	34753 1331.54	36137 1384.56
+12	ANNL BIWK	28870 1106.14	30111 1153.68	31349 1201.12	32593 1248.78	33829 1296.14	35070 1343.68	36302 1390.89	37751 1446.40
+13	ANNL BIWK	30131 1154.45	31430 1204.22	32737 1254.30	34041 1304.26	35346 1354.26	36650 1404.22	37956 1454.26	39480 1512.65
+14	ANNL BIWK	31456 1205.22	32823 1257.59	34192 1310.04	35560 1362.46	36930 1414.95	38298 1467.36	39672 1520.00	41261 1580.89
+15	ANNL BIWK	32845 1258.43	34279 1313.38	35713 1368.32	37157 1423.64	38587 1478.43	40026 1533.57	41468 1588.82	43134 1652.65
+16	ANNL BIWK	34305 1314.37	35818 1372.34	37334 1430.43	38842 1488.20	40356 1546.21	41868 1604.14	43374 1661.84	45143 1729.62
+17	ANNL BIWK	35841 1373.22	37432 1434.18	39020 1495.02	40605 1555.75	42191 1616.52	43779 1677.36	45369 1738.28	47221 1809.24
+18	ANNL BIWK	37457 1435.14	39119 1498.82	40784 1562.61	42453 1626.56	44113 1690.16	45776 1753.87	47444 1817.78	49380 1891.96
+19	ANNL BIWK	39151 1500.04	40893 1566.79	42642 1633.80	44393 1700.89	46141 1767.86	47882 1834.56	49630 1901.54	51671 1979.74
+20	ANNL BIWK	40923 1567.94	42762 1638.40	44598 1708.74	46437 1779.20	48272 1849.51	50104 1919.70	51947 1990.31	54087 2072.30
+52
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY
+THE OFFICE OF THE EXECUTIVE VICE PRESIDENT FOR ADMINISTRATIVE AFFAIRS
+COMPENSATION SCHEDULE - ANNUAL SALARIES
+EFFECTIVE JULY 1, 2006
+SALARY TABLE: AFSCME LOCAL 1761
+FISCAL DAYS: 260
+RANGE	STEP:	01		02	03	04	05	06	07	08	09
+05	ANNL BIWK	22043 847.81	22952 882.77	23859 917.66	24753 952.04	25659 986.89	26561 1021.58	27460 1056.16	28517 1096.81	29429 1131.89
+06	ANNL BIWK	22960 883.08	23912 919.70	24863 956.27	25809 992.66	26759 1029.20	27706 1065.62	28658 1102.24	29768 1144.93	30713 1181.27
+07	ANNL BIWK	23930 920.39	24924 958.62	25917 996.81	26918 1035.31	27908 1073.39	28907 1111.81	29904 1150.16	31072 1195.08	32069 1233.43
+08	ANNL BIWK	24942 959.31	25988 999.54	27037 1039.89	28082 1080.08	29134 1120.54	30177 1160.66	31226 1201.00	32449 1248.04	33496 1288.31
+09	ANNL BIWK	26004 1000.16	27105 1042.50	28199 1084.58	29302 1127.00	30397 1169.12	31493 1211.27	32596 1253.70	33867 1302.58	34967 1344.89
+10	ANNL BIWK	27119 1043.04	28269 1087.27	29422 1131.62	30578 1176.08	31730 1220.39	32877 1264.50	34025 1308.66	35377 1360.66	36528 1404.93
+11	ANNL BIWK	28295 1088.27	29501 1134.66	30710 1181.16	31917 1227.58	33126 1274.08	34335 1320.58	35535 1366.74	36950 1421.16	38156 1467.54
+12	ANNL BIWK	29520 1135.39	30788 1184.16	32054 1232.85	33326 1281.77	34590 1330.39	35859 1379.20	37119 1427.66	38600 1484.62	39867 1533.35
+13	ANNL BIWK	30809 1184.97	32137 1236.04	33474 1287.47	34807 1338.74	36141 1390.04	37475 1441.35	38810 1492.70	40368 1552.62	41699 1603.81
+14	ANNL BIWK	32164 1237.08	33562 1290.85	34961 1344.66	36360 1398.47	37761 1452.35	39160 1506.16	40565 1560.20	42189 1622.66	43596 1676.77
+15	ANNL BIWK	33584 1291.70	35050 1348.08	36517 1404.50	37993 1461.27	39455 1517.50	40927 1574.12	42401 1630.81	44105 1696.35	45573 1752.81
+16	ANNL BIWK	35077 1349.12	36624 1408.62	38174 1468.24	39716 1527.54	41264 1587.08	42810 1646.54	44350 1705.77	46159 1775.35	47706 1834.85
+17	ANNL BIWK	36647 1409.50	38274 1472.08	39898 1534.54	41519 1596.89	43140 1659.24	44764 1721.70	46390 1784.24	48283 1857.04	49908 1919.54
+18	ANNL BIWK	38300 1473.08	39999 1538.43	41702 1603.93	43408 1669.54	45106 1734.85	46806 1800.24	48511 1865.81	50491 1941.97	52194 2007.47
+19	ANNL BIWK	40032 1539.70	41813 1608.20	43601 1676.97	45392 1745.85	47179 1814.58	48959 1883.04	50747 1951.81	52834 2032.08	54617 2100.66
+20	ANNL BIWK	41844 1609.39	43724 1681.70	45601 1753.89	47482 1826.24	49358 1898.39	51231 1970.43	53116 2042.93	55304 2127.08	57180 2199.24
+53
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY
+THE OFFICE OF THE EXECUTIVE VICE PRESIDENT FOR ADMINISTRATIVE AFFAIRS
+COMPENSATION SCHEDULE - ANNUAL SALARIES
+EFFECTIVE JANUARY 1, 2007
+SALARY TABLE: AFSCME LOCAL 1761
+FISCAL DAYS: 260
+RANGE	STEP:	01		02	03	04	05	06	07	08	09
+05	ANNL BIWK	22561 867.74	23491 903.50	24420 939.24	25335 974.43	26262 1010.08	27185 1045.58	28105 1080.97	29187 1122.58	30121 1158.50
+06	ANNL BIWK	23500 903.85	24474 941.31	25447 978.74	26416 1016.00	27388 1053.39	28357 1090.66	29331 1128.12	30468 1171.85	31435 1209.04
+07	ANNL BIWK	24492 942.00	25510 981.16	26526 1020.24	27551 1059.66	28564 1098.62	29586 1137.93	30607 1177.20	31802 1223.16	32823 1262.43
+08	ANNL BIWK	25528 981.85	26599 1023.04	27672 1064.31	28742 1105.47	29819 1146.89	30886 1187.93	31960 1229.24	33212 1277.39	34283 1318.58
+09	ANNL BIWK	26615 1023.66	27742 1067.00	28862 1110.08	29991 1153.50	31111 1196.58	32233 1239.74	33362 1283.16	34663 1333.20	35789 1376.50
+10	ANNL BIWK	27756 1067.54	28933 1112.81	30113 1158.20	31297 1203.74	32476 1249.08	33650 1294.24	34825 1339.43	36208 1392.62	37386 1437.93
+11	ANNL BIWK	28960 1113.85	30194 1161.31	31432 1208.93	32667 1256.43	33904 1304.00	35142 1351.62	36370 1398.85	37818 1454.54	39053 1502.04
+12	ANNL BIWK	30214 1162.08	31512 1212.00	32807 1261.81	34109 1311.89	35403 1361.66	36702 1411.62	37991 1461.20	39507 1519.50	40804 1569.39
+13	ANNL BIWK	31533 1212.81	32892 1265.08	34261 1317.74	35625 1370.20	36990 1422.70	38356 1475.24	39722 1527.77	41317 1589.12	42679 1641.50
+14	ANNL BIWK	32920 1266.16	34351 1321.20	35783 1376.27	37214 1431.31	38648 1486.47	40080 1541.54	41518 1596.85	43180 1660.77	44621 1716.20
+15	ANNL BIWK	34373 1322.04	35874 1379.77	37375 1437.50	38886 1495.62	40382 1553.16	41889 1611.12	43397 1669.12	45141 1736.20	46644 1794.00
+16	ANNL BIWK	35901 1380.81	37485 1441.74	39071 1502.74	40649 1563.43	42234 1624.39	43816 1685.24	45392 1745.85	47244 1817.08	48827 1877.97
+17	ANNL BIWK	37508 1442.62	39173 1506.66	40836 1570.62	42495 1634.43	44154 1698.24	45816 1762.16	47480 1826.16	49418 1900.70	51081 1964.66
+18	ANNL BIWK	39200 1507.70	40939 1574.58	42682 1641.62	44428 1708.77	46166 1775.62	47906 1842.54	49651 1909.66	51678 1987.62	53421 2054.66
+19	ANNL BIWK	40973 1575.89	42796 1646.00	44626 1716.39	46459 1786.89	48288 1857.24	50110 1927.31	51940 1997.70	54076 2079.85	55900 2150.00
+20	ANNL BIWK	42827 1647.20	44752 1721.24	46673 1795.12	48598 1869.16	50518 1943.00	52435 2016.74	54364 2090.93	56604 2177.08	58524 2250.93
+54
+_______________APPENDIX E - page 1 of 2_____________
+RUTGERS, The State University of New Jersey CERTIFICATIONS REQUIRED FOR USE OF SICK LEAVE TO CARE FOR A SERIOUSLY ILL FAMILY MEMBER
+This form must be submitted to your supervisor for approval in advance of your absence to provide care for a seriously ill family member whenever possible. In cases when it is not possible to submit the form in advance, it must be submitted not later than 30 days after your absence to provide care for a seriously HI family member. Without proper and complete certification Sick Leave use will not be permitted for the employee.
+CERTIFICATION BY THE EMPLOYEE (please print clearly):
+I have read the DEFINITIONS on the reverse side and I certify that on the following DATE(S):
+; ;; ; ; I will/did provide the following CARE
+(please specify)______________________________________________________________
+to my SERIOUSLY ILL FAMILY MEMBER_____________________________________________
+(Name of seriously ill family member)
+who is my (check one): □ Spouse	□ Parent □ Child under 18 □ Child 18 or over
+incapable of self care
+Print Employee Name	Employee Signature	Date
+CERTIFICATION BY HEALTH CARE PROVIDER:
+I have read the DEFINITIONS on the reverse side and I certify that the individual named above as the SERIOUSLY ILL FAMILY MEMBER is my patient who suffers from a SERIOUS HEALTH CONDITION as defined. I also certify that the above named employee of Rutgers University needs/needed to provide CARE for the seriously ill family member identified above on the following dates:
+Please print or type Name of Health Care Provider	Type of Practice
+Street Address	Telephone Number
+City, State, Zip Code	Date of certification
+Signature of Health Care Provider	License No. or SSN:
+APPENDIX E - page 2 of 2 DEFINITIONS FOR USE OF SICK LEAVE TO CARE FOR A SERIOUSLY ILL FAMILY MEMBER
+Definition of Serious Health Condition
+A. Illness, injury, impairment, physical or mental condition that involves one or more of the following:
+1.	Inpatient care in a hospital, hospice, residential medical care facility for treatment, recovery, subsequent treatment in connection with the inpatient care.
+2.	Continuing treatment for
+a.	a period of incapacity (inability to work, attend school, perform regular daily activities) for more than 3 consecutive calendar days if the period of incapacity also involves treatment two or more times by a health care provider followed by a regimen of continuing treatment under the supervision of a health care provider. Regimen includes a course of prescription medication or therapy requiring special equipment to resolve or alleviate the serious health condition, e.g., oxygen.
+b.	a period of incapacity due to chronic serious health condition. A chronic condition is one which (1) requires periodic visits for treatment by a health care provider; (2) continues over an extended period of time; and (3) may cause episodic rather than a continuing period of incapacity, e.g., asthma, diabetes, epilepsy, etc.
+c.	a period of incapacity which is permanent or long-term due to a condition for which treatment ay not be effective such as Alzheimer’s, a severe stroke, terminal stages of a disease.
+d.	medical intervention, such as chemotherapy, dialysis, etc.
+Not Included in Definition of Serious Health Condition
+A.	Ordinary cosmetic treatments, the common cold, flu, ear aches, upset stomach, minor ulcers, headaches, routine dental problems are not serious health conditions. Mental illness, stress or allergies are not a serious health condition unless all other conditions are met.
+B.	Substance abuse is not a serious health condition unless treatment by a health care provider is involved.
+C.	Over the counter medication, bed rest, exercise, and other similar activities that can be initiated without a visit to a health care provider are not, by themselves, a regimen or treatment.
+D.	Treatment does not include routine medical, physical, eye, or dental exams..
+Definition of Care of A Seriously III Family Member
+Care of a Seriously III Family Member is the employee’s attendance at a hospital, health care facility, or at home, or transport to medical treatment, when certified by a health care provider. It does not cover matters unrelated to medical needs such as baby-sitting, running errands, and/or running a business for the family member while he/she is ill; for these purposes, the appropriate charge is vacation, administrative leave, personal holiday, of leave without pay.
+Covered Family Members
+Spouse is a husband or wife as recognized under New Jersey state law for purposes of marriage.
+Child is a son/daughter of the employee under age 18 who is the biological, adopted, or foster child, stepchild, or legal ward; or over age 18 who is incapable of self care because of a mental or physical impairment.
+Parent is a biological, adoptive, or step-parent, or legal guardian.
+ADDENDA
+The following Side Bar Agreements are included as addenda, but are not part of, the July 1, 2003 to June 30, 2007 collective agreement.
+SIDE BAR AGREEMENT BETWEEN RUTGERS AND LOCAL 1761 FOR THE JULY 1,1999 THROUGH JUNE 30, 2003 AGREEMENT REGARDING THE RUTGERS/LOCAL 1761 JOINT COMPENSATION COMMITTEE
+1.	Rutgers, The State University of New Jersey, and AFSCME Local #1761 hereby establish a Joint Committee on Compensation (JCC).
+2.	The JCC shall be composed of three (3) representatives from AFSCME Local #1761 and three (3) representatives from Rutgers.
+3.	The JCC shall meet no less than once per semester beginning in Fall 2000. The JCC agrees to jointly collect data/information which may be accomplished through the establishment of subgroups.
+4.	The JCC shall discuss various/alternate forms of compensation systems possible for different job titles in the unit with a view towards better informing the parties. For example, parties may gather information regarding:
+___Job rate systems
+___Seniority based compensation systems
+___Performance based compensation systems
+___Variable based compensation systems
+___Peer based evaluation systems
+___Incentive compensation systems
+5.	The information may be used by the parties to formulate positions on salary and compensation during the next round of negotiations but shall, in no way, be binding on either party.
+6.	Both parties agree that these discussions shall not be construed as tacit approval of any matter discussed.
+1
+SIDE BAR AGREEMENT FOR THE DISPLAY OF A BROCHURE AT NEW EMPLOYEE
+ORIENATATION SESSIONS
+THE STATE UNIVERSITY OF NEW JERSEY
+RUTGERS
+Office of Labor Relations • Rutgers, The State University of New Jersey 60 College Avenue • New Brunswick • New Jersey 08901-8541 (732)932-7162 • FAX: (732) 932-0018
+April 20, 2004
+Rich Gollin
+AFSCME Council 52, Director 516 Johnston Avenue
+Jersey City, NJ 07304
+Re:
+AFSCME Local 1761 Brochure and New Employee Orientation
+Dear Mr. Gollin:
+Pursuant to an agreement reached on March 3, 2004, the University agrees to display a brochure, prepared and provided by, and relevant to, membership in Local 1761 at New Employee Orientation sessions.
+Very truly yours,
+Harry M. Agnostak
+Director, Office of Labor Relations
+Cc: S. Russell
+T. Torok
+2
+SIDE BAR AGREEMENT FOR ONE-RANGE UPGRADE TO POSITIONS OF POSTAL CLERK AND COURIER
+THE STATE UNIVERSITY OF NEW JERSEY
+RUTGERS
+Office of Labor Relations • Rutgers, The State University of New Jersey 60 College Avenue • New Brunswick • New Jersey 08901-8541 (732)932-7162 • FAX: (732) 932-0018
+April 20, 2004
+Rich Gollin
+AFSCME Council 52, Director 516 Johnston Avenue
+Jersey City, NJ 07304
+Re: One Range Upgrade for the Position of Postal Clerk and Courier
+Dear Mr. Gollin:
+Pursuant to an agreement reached on March 3, 2004, effective July 1, 2004, the positions of Postal Clerk and Courier will each be upgraded one salary range from range 9 to range 10. Revised job descriptions will be issued to reflect these changes.
+Very truly yours,
+Harry M. Agnostak
+Director, Office of Labor Relations
+Cc: S. Russell
+P. Kelly
+3
+SIDE BAR AGREEMENT FOR RELEASE TIME FOR LOCAL 1761 PRESIDENT CHARLESETTA BYNES
+THE STATE UNIVERSITY OF NEW JERSEY
+RUTGERS
+Office of Labor Relations • Rutgers, The State University of New Jersey 60 College Avenue • New Brunswick • New Jersey 08901-8541 (732)932-7162 • FAX: (732) 932-0018
+April 20, 2004
+Rich Gollin
+AFSCME Council 52, Director
+516 Johnston Avenue
+Jersey City, NJ 07304
+Re: Release time for Local 1761 President
+Charlesetta Bynes
+Dear Mr. Gollin:
+This correspondence reflects an agreement reached on March 3, 2004, regarding union release time for Local 1761 President Charlesetta Bynes. Pursuant to our discussions, Ms. Bynes shall be released from work twice per week, from 1:00 to 4:30pm with the days being mutually agreed upon. Ms. Bynes will continue to work in her position as a Senior Laboratory Technician for her other regularly scheduled hours.
+Should any matter, such as an arbitration hearings or meetings, which Ms. Bynes attends or participates in extend beyond 4:30pm on any day of the week, Ms Bynes will not make any claim for benefits or compensation under any provision of the collective negotiations agreement based on additional time spent beyond 4:30pm. In addition, Ms. Bynes shall receive such release time only as long as she remains in the title of AFSCME Local 1761 President.
+Very truly yours,
+Harry M. Agnostak
+Director, Office of Labor Relations
+Cc: Dr. D. Fugman
+J. Schrum
+4
+A
+alternate day off, 12
+automobile liability insurance, 23
+acting capacity, 21
+administrative leave, 12, 14, 15, 17, 22, 32
+adoption, 15
+anniversary date, 18, 19, 20, 21
+arbitration, 6
+auto allowance, 23
+B
+bereavement leave, 14
+bi-weekly pay, 21
+bulletin board, 28
+bumping, 9, 28
+C
+call back pay, 22
+casual employee, 1, 10
+council representatives, 4
+change in workshift, 23
+childbirth, 15
+child care leave, 15
+class attendance, 30
+classification review officer, 27
+D
+definitions, 1
+demotion, 28
+discharge, 6, 7
+discipline, 7
+dues deduction, 3
+F
+family leave, 15
+G
+general provisions, 30
+grievance procedure, 4
+H
+harassment, 4
+health benefits, 29
+holidays, 12, 17, 30
+J
+job descriptions, 28
+job evaluation manual, 28 job posting procedure, 24 jury duty, 17
+L
+layoff, 24
+leave of absence, 9, 15, 16
+life insurance benefits, 29 labor/management conference, 4, 18
+M
+meal allowance, 31 medical records, 31 military leave, 15 motor vehicle registration, 30
+N nondiscrimination, 4
+O overtime, 12, 18, 22
+P
+parking, 30, 31 personnel files, 30 position classification review, 27 posting procedure, 24 part-time employees, 13 pregnancy, 15
+printing of agreement, 33 probationary employees, 1, 8, 24 procedures manual, 29 promotion compensation, 21 promotional opportunity, 24 purpose, 1
+R raingear, 31 recognition, 1 recruitment, 25 regular employee, 1 representation fee, 2 reprimand, 7 resignation, 24 rest periods, 13 retirement, 11, 29 reclassification, 25
+1V
+s
+safety committee, 29
+salary, 18
+selection, 26
+seniority, 8, 12, 16, 17, 23, 25, 26
+severability, 32
+shift preference, 23
+sick leave, 13
+sick time, 14
+stewards, 3, 8
+student employees, 30
+super seniority, 10
+I
+technological change, 24
+temporary employees, 1, 16, 25
+ten month employee, 1, 2, 17, 30
+term of contract, 34
+U
+uniform maintenance allowance, 31
+union representative, 3
+union security, 2
+university procedures, 29
+V
+vacant position, 10, 24
+vacation, 11
+VDT operator, 32
+W
+withdrawal from union, 3
+work shifts, 23
+workday, 32
+workweek, 22
+V

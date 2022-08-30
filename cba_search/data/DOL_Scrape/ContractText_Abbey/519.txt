@@ -1,0 +1,990 @@
+﻿AGREEMENT
+BETWEEN
+WISCONSIN PUBLIC SERVICE CORPORATION
+AND
+LOCAL NO. 310
+OF THE
+INTERNATIONAL UNION OF OPERATING ENGINEERS
+AFL-CIO
+Effective October 18, 2009 - October 13, 2012
+Contract language in the masculine gender shall be interpreted to mean either masculine or feminine.
+CONTENTS
+AGREEMENT -------------------------------------------------------------------------- 4
+ARTICLE I	RECOGNITION------------------------------------------------------------ 4
+Section 1.	Bargaining Unit. -------------------------------------------------4
+Section 2.	Union Membership. ------------------------------------------------4
+Section 3.	Union Business.---------------------------------------------------5
+Section 4.	Payroll Deduction	for Union Dues.---------------------------------5
+ARTICLE II	GRIEVANCES AND	ARBITRATION ---------------------------------------- 6
+Section 1.	Grievances. ------------------------------------------------------6
+Section 2.	Arbitration. -----------------------------------------------------6
+ARTICLE III	COOPERATION--------------------------------------------------------- 7
+ARTICLE IV	EXCLUSIVE FUNCTIONS OF MANAGEMENT ----------------------------------- 8
+ARTICLE V	HIRING AND PROMOTION ------------------------------------------------ 8
+Section 1.	Union Preference.-------------------------------------------------8
+Section 2.	Qualifications.---------------------------------------------------8
+Section 3.	Posting and Bidding for Job.--------------------------------------8
+Section 4.	Reposting Job Notice.---------------------------------------------9
+Section 5.	Temporary Employees. ---------------------------------------------9
+Section 6.	Promotion, Transfer, and Demotion. -------------------------------9
+Section 7.	Employees with Technical Training. ----------------------------- 10
+Section 8.	Probation Period for New Employees. ---------------------------- 10
+ARTICLE VI	DISCIPLINE AND DISCHARGE ---------------------------------------------10
+Section 1.	Employee Rights. ------------------------------------------------- 10
+Section 2.	Union Rights.----------------------------------------------------- 10
+Section 3.	Management Rights. ----------------------------------------------- 11
+ARTICLE VII	NO STRIKE OR LOCKOUT-------------------------------------------------11
+Section 1.	No Strike. ------------------------------------------------------- 11
+Section 2.	No Lockout. ------------------------------------------------------ 11
+Section 3.	Pickets. --------------------------------------------------------- 11
+Section 4.	Secondary Boycotts and Coercion. --------------------------------- 11
+ARTICLE VIII	WORKING HOURS AND RATES OF PAY -------------------------------------11
+Section 1.	Working Hours. --------------------------------------------------- 11
+Section 2.	Wage Schedule. --------------------------------------------------- 12
+Section 3.	Wage Rates for New Jobs. ----------------------------------------- 12
+Section 4.	Wage Payment. ---------------------------------------------------- 12
+Section 5.	Necessary Time Off. ---------------------------------------------- 12
+Section 6.	Funerals.--------------------------------------------------------- 13
+Section 7.	Personal Time Off. ----------------------------------------------- 13
+Section 8.	Overtime --------------------------------------------------------- 13
+Section 9.	Call Out and Minimum Allowances. --------------------------------- 14
+Section 10.	Rest Period. ---------------------------------------------------- 15
+Section 11.	Shift Premium Pay. ---------------------------------------------- 16
+Section 12.	Temporary Transfers.--------------------------------------------- 17
+Section 13.	Meals and Breaks.------------------------------------------------ 18
+Section 14.	Relocation. ----------------------------------------------------- 19
+October 18, 2009
+i
+Section 15.	Work Away From Headquarters. ------------------------------------ 19
+ARTICLE IX	CLASSIFICATION	OF	EMPLOYEES------------------------------------22
+ARTICLE X	WORKFORCE FLEXIBILITY -----------------------------------------------23
+ARTICLE XI	VACATIONS-----------------------------------------------------------23
+Section 1.	Employees Who Qualify.-------------------------------------------- 23
+Section 2.	Maximum Vacation.	---------------------------------------------- 23
+Section 3.	Weeks Defined. --------------------------------------------------- 24
+Section 4.	Vacation Time. ------------------------------------------------- 25
+Section 5.	Arranging Vacation Periods.--------------------------------------- 25
+Section 6.	Vacation Relief. ------------------------------------------------- 26
+Section 7.	Temporary Relinquishment of Vacations. --------------------------- 26
+Section 8.	Holiday Within Vacation Period. ---------------------------------- 27
+Section 9.	Leaving the Company. --------------------------------------------- 27
+ARTICLE XII	HOLIDAYS -----------------------------------------------------------27
+Section 1.	Employees Who Qualify.-------------------------------------------- 27
+Section 2.	Recognized Holidays. --------------------------------------------- 27
+Section 3.	Deferred Holidays. ----------------------------------------------- 28
+Section 4.	Work On a Holiday. ----------------------------------------------- 29
+ARTICLE XIII	SICK LEAVE --------------------------------------------------------29
+Section 1.	Employees Who Qualify.-------------------------------------------- 29
+Section 2.	Period of Allowance.---------------------------------------------- 29
+Section 3.	Sick Leave Make Up Hours. ---------------------------------------- 29
+Section 4.	Extended Illness. ------------------------------------------------ 30
+Section 5.	Returning to Work. ----------------------------------------------- 30
+ARTICLE XIV	CANCELLATION OF PREPAID UNDERTIME ---------------------------------30
+Section 1.	Applying Overtime Hours. ----------------------------------------- 30
+Section 2.	Applying Vacation Hours. ----------------------------------------- 30
+Section 3.	Partial Cancellation at End of Year. ----------------------------- 31
+ARTICLE XV	LEAVES AND LAY OFFS ------------------------------------------------31
+Section 1.	Leave of Absence. ------------------------------------------------ 31
+Section 2.	Lay Off, Severance and Recall. ----------------------------------- 31
+Section 3.	Military Leave. ------------------------------------------------ 33
+ARTICLE XVI	BENEFIT PLANS-----------------------------------------------------34
+Section 1.	Plan Changes. -------------------------------------------------- 34
+Section 2.	Eligibility.---------------------------------------------------- 34
+Section 3.	Designated Providers. ------------------------------------------ 34
+ARTICLE XVII	PRACTICES -------------------------------------------------------34
+Section 1.	Existing Practices. -------------------------------------------- 34
+Section 2.	Study of Practices. ---------------------------------------------- 34
+Section 3.	Wage Review. ----------------------------------------------------- 34
+ARTICLE XVIII	MISCELLANEOUS ---------------------------------------------------35
+Section 1.	Injuries. ------------------------------------------------------ 35
+Section 2.	Contracting of Work. --------------------------------------------- 35
+Section 3.	Company Meetings. ---------------------------------------------- 38
+Section 4.	Company-Union Meetings. ---------------------------------------- 39
+October 18, 2009	ii
+Section 5.	Bulletin Boards.--------------------------------------------------------------- 39
+Section 6.	Provisions in Conflict with the Law. ------------------------------------------ 39
+Section 7.	Employees Temporarily Loaned. ------------------------------------------------- 39
+ARTICLE XIX	DURATION OF AGREEMENT ------------------40
+Section 1.	Duration. ------------------------------------------- 40
+Section 2.	Mediation, Arbitration, and Termination. ------------ 40
+Section 3.	Reopeners. ------------------------------------------ 40
+Section 4.	Bargaining Agent. ----------------------------------- 40
+Attachment A	- Commute Daily to Job Site ----------------------------42
+Attachment B	- Overnight Stay Options -------------------------------43
+Attachment C	- Commute to Job Site with	Overnight Stay --------------44
+Attachment D	- Union Preference--------------------------------------45
+Attachment E	- Successor Language------------------------------------48
+Attachment F	- On Call Process---------------------------------------49
+WAGE scHEDuLEs INTRoDucTIoN --------------------------------------------57
+October 18, 2009
+iii
+AGREEMENT
+THIS AGREEMENT is effective as of the eighteenth day of October 2009, by and between the WISCONSIN PUBLIC SERVICE CORPORATION, hereinafter called the Company, and LOCAL UNION NUMBER 310, acting as the authority and affiliated with the INTERNATIONAL UNION OF OPERATING ENGINEERS (AFL-CIO), party of the second part and hereinafter called the Union. This contract shall be binding on the successors of the said Company as presently constituted, see Attachment (E).
+WITNESSETH: That for the purpose of facilitating the peaceful adjustment of differences that may arise from time to time and promoting the harmony and efficiency to the end that the employees, the Company, and the general public may be mutually benefited, the parties hereto contract and agree with each other as follows, to wit:
+Article I.	RECOGNITION
+Section 1.	Bargaining Unit.
+(a)	The Union shall be the sole representative for collective bargaining for employees of operating departments of the Company through the level of working crew leaders and shall include those positions listed in the wage schedule of this Agreement, excluding Janitors who work an average of less than 20 hours per week, and excluding Laborers that perform such duties as yard work and washing and gassing of vehicles and who work an average of less than 20 hours per week.
+(b)	The Company agrees to meet and treat with the duly accredited officers, committees, or representatives of the Union upon all matters pertaining to wages, hours, or working conditions.
+Section 2.	Union Membership.
+(a)	All employees who are now in the bargaining unit and all new employees after 30 days of employment shall be members of the Union and remain in good financial standing for the duration of this Agreement as a condition of continuous employment. For the purpose of this Section, anyone who had previously worked for the Company subject to jurisdiction of this Agreement for more than 30 days shall not be considered as a new employee.
+(b)	An employee who has been transferred or promoted to a position or department not in the jurisdiction of the Union shall be granted a withdrawal card upon request to the Union, provided the employee is in good financial standing with the Union at the time of the request.
+(c)	Each new employee subject to the provisions of this Agreement will apply to the Union to pay service dues within 30 days from the date of employment. An employee may be required to pay the Union initiation fees after 12 months of continuous service. Employees who do not meet their financial obligation to the Union are reported to the Human Resources Department by the Union. The leader of the Union employee then encourages the employee to make a satisfactory settlement with the Union within 10 days. If a satisfactory settlement is not made, discharge may result.
+October 18, 2009
+4
+Section 3.	Union Business.
+(a)	Employees of the Company who may be called upon to transact business for the Union which requires their absence from duty with the Company shall, upon application and 24 hours notice to the proper representative of the Company, be allowed to absent themselves for sufficient time to transact such business, provided they can be spared from duty.
+(b)	It is further agreed that an employee of the Company who may be elected or appointed to an office of the Union which requires their absence from duty with the Company, shall be reinstated to their former job classification at the expiration of such term of office, provided they are qualified to perform that work. If such job classification does not exist, the employee will be placed into a position of comparable wage rate for which they are qualified. Such employee shall retain Company and group seniority rights acquired at the time of going on leave, plus credit for the time spent on leave. If such employee left a job classification while in pay and/or title progression, upon return to the group such employee shall complete the remaining required time and merit requirements prior to reaching a higher level. For groups having a vacancy requirement, promotion to a higher level is contingent upon a vacancy existing at the time of return. It is understood that in the case of the return of such employee, other employees will consent to such demotions or lay offs as are necessary.
+Section 4.	Payroll Deduction for Union Dues.
+(a)	Members of the Union who sign a Check-Off Authorization and Assignment shall have their regular current monthly union dues deducted from their paychecks only after receipt of properly executed authorizations by the Company. The payment of Union dues or service dues is applicable to employees who work more than 32 hours per month in traditional union positions. The Union has the responsibility of obtaining check-off authorizations from its members and delivering them to the Company.
+(b)	The Check-Off Authorization and Assignment signed by the Union member shall be irrevocable for the term of this Agreement, or for one year, whichever is the lesser. It shall automatically renew itself for successive yearly or applicable contract periods thereafter, whichever is the lesser, unless the Union member gives written notice to the Company at least 60 days and not more than 75 days before any periodic renewal date of this Agreement of their desire to revoke the check-off authorization.
+October 18, 2009
+5
+Article II.	GRIEVANCES AND ARBITRATION
+Section 1.	Grievances.
+(a)	Should any dispute arise between any employee or group of employees under this Agreement and a representative of the Company involving the application and interpretation of the Agreement, such dispute should normally be adjusted informally at the local department level. If the dispute is not settled, it shall be placed in writing on a standard form and shall become a grievance and be handled as follows:
+Step 1. The grievance shall be presented, within fifteen (15) working days after the event giving rise to the grievance, to the local supervisor who shall arrange for a meeting with the grievant and their properly designated Union representative(s) to discuss the issue(s) which gave rise to the grievance. The meeting shall be held within five (5) working days after the receipt of the written grievance. If after the meeting with the local supervisor the grievance is not settled, the local supervisor shall designate the management representative for Step 2 and specify the mode of delivery and receipt, then:
+Step 2. The grievance shall be submitted within five (5) working days to the designated management representative, who shall within fifteen (15) working days meet with the grievant and their properly designated Union representative(s) to discuss the grievance. In the event of failure to satisfactorily adjust and settle the grievance, the management representative shall designate the management representative for Step 3 and specify the mode of delivery and receipt, then:
+Step 3. The grievance shall be submitted within five (5) working days to the designated management representative. Within fifteen (15) working days from receipt of the grievance, the designated management representative shall arrange a meeting with the Union Business Manager and/or the Union President to discuss the grievance. In the event of failure to satisfactorily adjust and settle the grievance, then:
+Step 4. The Union Business Manager may submit the grievance to arbitration within thirty (30) working days.
+(b)	If a grievance is not submitted to the management representative designated above within the time limit prescribed in each step, the grievance shall be considered withdrawn. The time limits prescribed in each step may be extended by mutual agreement. If the Company does not adhere to their time limits specified in Step 1, 2, or 3, the Union can advance the grievance to the next step.
+Section 2.	Arbitration.
+(a)	All disputes involving the application and interpretation of this Agreement which cannot be agreed to by the parties shall be submitted at the request of either party to binding arbitration in the manner herein provided for.
+(b)	Either party desiring to arbitrate any matter in dispute involving the application and interpretation of this Agreement shall notify the other party in writing, and both parties will submit the matter to a mutually agreed to arbitrator. The Company and the Union will use the agreed upon process for selecting an arbitrator outlined in the Letter of Agreement dated November 17, 1998. To summarize:
+October 18, 2009
+6
+(1)	A list of five (5) arbitrators will be mutually agreed to between the Company and the Union for use during the life of the Contract. This list will be agreed to no later than ninety (90) days following ratification of a new Contract. However, through mutual agreement, both parties can agree to use the prior Contract’s arbitrator list for a time period agreed to by both parties.
+(2)	The arbitrator will be selected by a process of random selection.
+(3)	The same random selection will be used in each arbitration case, including discharges.
+(4)	No arbitrator from this pool will be allowed to conduct more than two (2) arbitration hearings in any twelve month period.
+(c)	The arbitrator shall be notified of the selection by a joint letter from the Company and the Union, requesting that the arbitrator set a time and place for the hearing subject to the availability of Company and Union representatives; the letter shall specify the issue(s) to the arbitrator. The arbitrator shall have no right to add to, subtract from, ignore or modify any of the terms of this Agreement. The arbitrator shall consider and decide only the particular issue presented in writing by the Company and the Union, and shall arrive at a decision and award based solely upon interpretation or application of the terms of this Agreement.
+(d)	The decisions of the arbitrator concerning any matter referred to him pursuant to the provisions hereof shall be final and conclusive upon the employees, the Union, and the Company.
+(e)	Both parties will share equally the expense of the mutually agreed to arbitrator. Incidental expenses mutually agreed to in advance shall be borne equally by the parties hereto.
+Article III.	COOPERATION
+(a)	The Company and the Union agree to cooperate in promoting harmony and efficiency among all the Company’s employees.
+(b)	The Union agrees that its members who are employees of the Company will individually and collectively perform loyal and efficient work and service, that they will use their influence and best efforts to protect the property of the Company and its interest, and they will cooperate with the Company and the employees of their own and other groups or departments in promoting and advancing the welfare of the Company and service at all times.
+October 18, 2009
+7
+Article IV.	EXCLUSIVE FUNCTIONS OF MANAGEMENT
+(a)	The right to employ, promote, discipline, and discharge employees and the management of the property are reserved by and shall be vested exclusively in the Company. It is understood, however, that the method of employing, promoting, and discharging employees shall be in accordance with the provisions of this Agreement as hereinafter stated.
+(b)	The Company shall have the right to determine how many employees it will employ or retain, together with the right to exercise full control and discipline of its employees in the interest of good service and the proper conduct of its business.
+Article V.	HIRING AND PROMOTION
+Section 1.	Union Preference.
+The Company agrees that when there is a job vacancy subject to this Agreement, qualifications being sufficient, Union members will be given first consideration as described elsewhere in this Article.
+Section 2.	Qualifications.
+(a)	There will be no discrimination by the Company, the Union, or the employees against any applicant or employee because of age, sex, religion, creed, color, race, national origin, ancestry, or handicap. Employment in the Company’s service will be determined by such factors as ability, education, experience, intelligence, personality, physical condition, skill, and training.
+(b)	When qualifications posed are deemed unreasonable by the Union, the grievance shall be handled as provided for in Article II, Grievances and Arbitration.
+Section 3.	Posting and Bidding for Job.
+(a)	A job notice shall be posted on the department bulletin board for a period of 15 calendar days under the following conditions: (1) When a new employee is to be added to the present force, and (2) when an existing employee is to fill a vacancy in a plant or local department which is outside of the place they are employed. Copies of this job notice with all changes noted shall be sent to designated officials of the Union. The local supervisor shall notify the applicant of the receipt and acceptability of the bid.
+(b)	Employees with one or more years of service in their current position will be given the opportunity to bid on posted job vacancies in the following order: (1) regular full-time employees and those regular part-time employees that were previously regular full-time; (2) regular part-time employees; (3) previous Union member employees. Temporary (excluding seasonal/limited term) employees in regular Union positions have bidding rights over individuals who have never been members of the Union only for the job they are currently filling. Except as previously stated, temporary employees do not have a preference over outside applicants. When the Company and the Union Business Manager mutually agree, employees with less than one year of service in their current position will be allowed to bid on posted job vacancies.
+(c)	The Branch Chairman of the Union for the department in which a job vacancy exists may personally inquire of the respective local supervisor the names of the applicants who bid on a job posted for a vacancy in that department. Unsuccessful bidders among Company employees for jobs posted shall be so advised by the local supervisor after a selection has been made.
+October 18, 2009
+8
+(d)	The job notice required by Section 3 (a) of this Article shall not be posted when: (1) promoting an employee through a normal sequence of jobs, or (2) promoting or reclassifying an employee when the employee in question is the only logical choice, or (3) transferring a regular employee into another job because of job abandonment or location abandonment, or (4) placing an employee in another job because of the employee’s physical condition, health, or other inabilities to continue in the existing job, or (5) when recalling an employee.
+(e)	If a job vacancy has been posted for which in the judgement of management the employee to be relocated because of job abandonment or for health reasons may be qualified, management shall have the right to consider this employee as an applicant for the job. Selection will be made in accordance with the provisions of Section 6 of this Article.
+Section 4.	Reposting Job Notice.
+If a job for which a notice is posted has not been filled within four months from date of posting, it shall be necessary to post a notice again before the job is filled.
+Section 5.	Temporary Employees.
+(a)	Temporary or seasonal employees will not be employed in regular full time Union positions unless agreed to by the Union.
+(b)	Temporary or seasonal employees may be employed without posting a job notice. Those who are continuously employed for more than five (5) working days shall be reported in writing to the Union.
+Section 6.	Promotion, Transfer, and Demotion.
+(a)	Promotion, transfer, and demotion shall be based on such factors as ability, education, efficiency, experience, intelligence, personality, seniority, and training.
+(b)	Promotion and transfer will be based on the following order unless documentation substantiates less than acceptable performance:
+(1)	Local occupational work group minimum qualifications per job posting, senior candidate.
+(2)	Company occupational work group minimum qualifications per job posting, senior candidate.
+(3)	Like work outside the occupational work group minimum qualifications per job posting, senior candidate.
+(4)	Where there are no applicants within the group having minimum qualifications, applicants from other groups having minimum qualifications will be considered, senior candidate.
+(c)	Selection of Crew Leaders, Lead employees, System Operating Supervisor, Fleet Mechanic, Regional Meter Electrician, Regional Design Specialist - Electric, Distribution Mechanic, Distribution Dispatcher, Protective Equipment Tester/Coordinator, and Pulliam Senior Plant Operator will be determined by the results of test scores, Reality Based Interview, work record supervisory input, work record peer group input, and seniority, all equally weighted. Ties will be resolved with the senior individual selected.
+(d)	The Company agrees that whenever possible, it will train employees through practical experience and instruction to fill higher positions as they may become available. This includes
+October 18, 2009
+9
+senior employees whose performance and experience indicate they may have the necessary qualification for promotion. Union members when qualified will be given opportunity for promotion to those higher positions which become vacant from time to time.
+(e)	No wage reduction shall occur when accepting a job with a final rate of pay equal to or higher than the final rate of pay of the employee’s current job progression. In situations involving lead or crew leader positions, determination for pay protection eligibility is made by comparing the top rate of the progression for the non-lead position in the occupational work group that the employee is currently in to the top rate of the non-lead position in the occupational work group to which the employee would be transferring. If the employee is eligible for pay protection, the employee is protected at the top rate of the non-lead position. Such wage shall not be subject to escalation by any general wage increases until the employee’s wage rate is at or below the wage rate of the new job.
+Section 7.	Employees with Technical Training.
+Whenever it is desirable to give practical experience to employees with technical training, it is agreed that such employees will not fill regularly established jobs to the detriment of the regular employees. This does not mean that such employees may not temporarily assume the duties of established jobs during their period of training.
+Section 8.	Probation Period for New Employees.
+(a)	The probation period for a newly hired, regular employee shall be their first six months of Company employment. During this period, continued employment is at the sole discretion of the Company. Probationary periods may be extended for thirty (30) day increments only with written confirmation of mutual agreement between the Company and the Union.
+(b)	Individuals that become Company employees through mergers, acquisitions, or other such business/financial actions, are not considered newly hired employees if they have completed the probationary period (if any) with their former employer.
+Article VI.	DISCIPLINE AND DISCHARGE
+Section 1.	Employee Rights.
+In cases of suspension or discharge, the charges shall be specified and called to the employee’s attention by the Company within one week (seven calendar days) from the time the stated offense was reported. Any employee who has been either suspended or discharged and who is subsequently exonerated will have their record cleared of the charges and will be reimbursed for any loss in wages. No discipline by suspension will permanently impair the employee’s seniority rights. Provided there is no recurrence of discipline, written letters of discipline will remain in an employee’s personnel file for no more than three (3) years. In cases involving disciplinary time off, the three (3) year limit is extended to five (5) years. Last chance agreements will remain in the employee’s personnel file indefinitely and removal is at the sole discretion of the Company. Employees should be active to correct the behavior that led to the discipline. The Company will be receptive but not obligated to removing letters before the time limits when warranted.
+Section 2.	Union Rights.
+October 18, 2009
+10
+(a)	Upon request of the Union within fifteen (15) working days from the date upon which an employee has been disciplined or discharged, the Company will promptly submit to the Union the reasons for the discipline or discharge actions.
+(b)	The Union reserves the right to question the propriety of any suspension, disciplinary action or discharge through the grievance and arbitration procedures of this Agreement. Any such grievance will be filed within fifteen (15) working days after receipt of the Company’s reply or be deemed waived.
+Section 3.	Management Rights.
+The rights reserved by and vested in the Company under Article IV of this Agreement, Exclusive Functions of Management, will not be impaired or affected by the rights of this Article.
+Article VII.	NO STRIKE OR LOCKOUT
+Section 1.	No Strike.
+Because of the vital nature of the services rendered by the Company and its employees, the serious effect of any interruptions of these services on the safety, health, and welfare of individual customers as well as the communities it serves, it is agreed that during the life of this Agreement the Union will not cause a strike, nor will any employee take part in a strike or interfere with or stop the Company’s service. Any employee who so violates this clause shall be subject to discharge. Should any employee or individual groups of employees violate this clause without authorization or tolerance by the Union, the Company will not bring suit against the Union.
+Section 2.	No Lockout.
+The Company recognizes its responsibility to maintain continuous service to its customers, as well as its obligation to assure its employees of constant employment, and to this end agrees that it will not conduct a lockout or shutdown for any anti-Union purpose during the life of this Agreement.
+Section 3.	Pickets.
+Employees shall perform all work as assigned or directed, including work on facilities jointly maintained with telephone or other companies, not withstanding the presence of a picket line or the existence of a labor dispute involving employees of any other employer, unless there is an imminent danger of physical harm.
+Section 4.	Secondary Boycotts and Coercion.
+There is no obligation on the part of the Company to comply with requests from the Union to stop using the services of or dealing with another company except as specifically provided elsewhere in this Agreement.
+Article VIII.	WORKING HOURS AND RATES OF PAY
+Section 1.	Working Hours.
+(a)	The regular workweek shall consist of 40 hours. The work week shall consist of five eight-hour days, except where operations requires or allows a variation in hours. Employees shall be limited to working no more than 16 hours in any 24-hour period, although it is permissible to
+October 18, 2009
+11
+exceed this limitation for storm and trouble restoration, or other emergencies as determined by the Company, provided the employee works no more than 32 hours in any 48-hour period without exception. These provisions will not be changed except after agreement between the Company and the Union.
+(b)	The starting or quitting time of the workday may be changed or the workdays of the week may be changed after a meeting with the affected department. Final decision rests with the Company. The Union Business Manager will be advised by the Company.
+(c)	Working hours of Customer Service employees will be scheduled at the straight time rate between the core operating hours of 7:00 a.m. and 5:00 p.m. Monday through Friday with the actual schedules established by the local work groups (employees including leaders) considering both customer and employee needs. Temporary Change of Schedule within the core operating hours is mandatory at the straight time rate if the affected employees are given due advance notice no later than the end of the work day two calendar days prior to the Change of Schedule. If the Company fails to give due advance notice, Change of Schedule is not mandatory and the overtime provisions of this Article apply.
+(d)	Working hours of employees at isolated stations and locations, and at automatic stations will be established by the local work groups (employees including leaders).
+(e)	When no outside relief is supplied, employees at two-operator stations, such as automatic hydro plants and substations, shall be paid additional compensation at their regular rate of pay for relief while taking charge of the plant during the time the second employee of the plant is absent. After the first 14 days of such absence and each succeeding week thereafter, the relieving employee shall be furnished one 24-hour relief period. Relief shall also be furnished for emergencies.
+Section 2.	Wage Schedule.
+The Wage Schedule of job classifications and wage rates as mutually agreed to are made a part of this Agreement.
+Section 3.	Wage Rates for New Jobs.
+When new jobs are created or marked changes are made in existing jobs, the wage rates will be negotiated between the Company and the Union.
+Section 4.	Wage Payment.
+(a)	All employees will be compensated on an hourly basis of pay every two weeks.
+(b)	Payment for overtime hours, call hours, or other extra hours, except those for which prepayment has already been made, will be made in addition to the established hourly wage payment.
+Section 5.	Necessary Time Off.
+(a)	Only regular full-time Class A and Class B employees as defined in Article IX, Classification of Employees, of this Agreement are entitled to necessary-time-off benefits as hereinafter provided for.
+(b)	No deduction from the fixed wage payment will be made for time off, not to exceed one week for any single absence because of necessary reasons. Such time off will be made up as
+October 18, 2009
+12
+provided for in this Agreement under Article XIV, Cancellation of Prepaid Undertime. For sick leave benefits, see Article XIII, Sick Leave.
+Section 6.	Funerals.
+Only Class A and Class B employees as defined in Article IX, Classification of Employees, of this Agreement are eligible for funeral benefits as hereinafter provided for.
+(1)	Employees may be absent from work for events related to a funeral. Events related to a funeral may include, but are not limited to: travel time; arrangements for the services when the employee is responsible; wake, funeral and/or burial services; and immediate duties as the executor of the estate.
+(2)	It will be the employees’ responsibility to communicate to the leader the relationship of the deceased person and the amount of time the employee estimates they need to tend to the events related to the funeral. The preceding paragraph shall be used to determine the amount of time required to be away from work using funeral benefits.
+(3)	Employees can supplement paid funeral leave with other time away from work to address additional activities outside of events related to a funeral.
+(4)	It is the employees’ responsibility to inform the work group (including the leader) of duties and responsibilities that need to be addressed during their absence.
+(5)	Regularly scheduled, straight-time hours during the time away from work will be paid with no make-up required for events related to a funeral.
+Section 7.	Personal Time Off.
+Deductions will be made from the regular compensation wage payments for regular fulltime employees only for personal or avoidable time off.
+Section 8.	Overtime
+(a)	All hours worked beyond eight per day, or beyond the scheduled hours of the work group if greater than eight per day, or in excess of 40 hours in a week shall be paid at one and one-half the straight-time rate except as provided in Section 8 (b) of this Article.
+(b)	Exceptions to Section 8 (a) of this Article are:
+(1)	Day workers who are not scheduled to work on Sundays as part of their regularly scheduled 40-hour work week will be paid double time for hours so worked on Sundays. Regular part-time or temporary employees with less than 40 hours in the week and who are required to work on Sundays shall be paid straight-time plus the Sunday premium of $6.50 per hour. Sunday work beyond 40 hours for the week shall be paid at double time rate with no Sunday premium.
+(2)	The first scheduled day off in the work week for shift workers is considered as Sunday for purposes of double time pay for overtime hours worked on that day. Such premium pay shall satisfy the requirement of overtime pay in excess of 40 straight-time hours per week.
+(3)	Shift workers that normally have Sunday as a regular day off will be paid double time for overtime hours worked on Sunday instead of on their first day off.
+October 18, 2009
+13
+(4)	Employees working under a voluntary change of schedule will be paid at the appropriate overtime rate for hours worked beyond the voluntary change of schedule in a day, or for hours worked in excess of 40 hours per week.
+(5)	Employees who have taken personal time off, may only work in the same work week, with the supervisor’s approval, at the straight-time rate of pay to make up such time.
+(6)	Training travel hours for training requiring overnight stays and travel on a day off are not eligible for double time pay (except for travel on a recognized holiday), but will be paid at the time and one-half rate for any overtime hours. Employees may utilize voluntary change of schedule to include the maximum number of training and travel hours as possible in the basic 40 hour work week.
+(7)	Employees who have qualified for Rest Period and are required to work beyond the regularly scheduled quitting time will be paid at the double time rate until released.
+(c)	Employees who move from one job to another temporarily or otherwise are paid overtime according to the character (shift or day) and regular hours of the job into which they move.
+(d)	Employees who have worked overtime hours will not be required to take off compensating regular hours in order to hold the total hours of the week to 40 unless the employee’s physical condition is such that additional rest hours are required.
+(e)	Overtime is considered planned/scheduled if an employee is notified at least twelve (12) hours before the need to report to work. Unplanned/unscheduled overtime is notification to report to work with less than twelve (12) hours. Whenever scheduled overtime is canceled with less than twelve (12) hours notice, the employee shall receive overtime cancellation pay of two hours of straight-time pay, except when the canceled overtime immediately follows the regular work day. In the event that scheduled overtime is canceled with twelve (12) or more hours of notice, no overtime cancellation pay is paid.
+(f)	Employees will accept the obligation to perform overtime work when required by the Company. Each time an employee is required to report to work for overtime, a minimum payment equivalent to two (2) hours pay, or the actual hours worked, will be paid at the appropriate overtime pay rate. This minimum two (2) hour payment does not apply for overtime that immediately precedes or directly follows the regular work day. For planned overtime, the Company reserves the right to schedule two (2) hours of work at its discretion.
+(g)	Department heads will endeavor to equalize scheduled overtime hours for similar work within an occupational group. Serious unequal distribution of scheduled overtime hours will be a basis for grievance. On Union request, a list of the employees and their overtime hours will be posted monthly.
+(h)	An employee’s pay will be kept whole when the change to Wisconsin Daylight Savings Time is made during the regular shift. Overtime will be paid for the extra hour worked when the change is made back to Standard Time.
+Section 9.	Call Out and Minimum Allowances.
+(a)	Each time an employee is called out for duty between quitting time and one-half hour before starting time, a minimum of two (2) hours, or actual hours worked, will be paid at the
+October 18, 2009
+14
+appropriate overtime pay rate. When the call out is two (2) hours and fifteen (15) minutes or longer, the employee will receive the appropriate overtime pay, plus a payment of $25.00.
+(b)	When an employee is: (1) held on the job after quitting time, (2) is called out within one-half hour of the starting time, or (3) is working planned/scheduled overtime, the overtime provisions of Section 8 of this Article apply and not the provisions of this Section.
+(c)	When employees are called outside of regular hours and are required to report to headquarters before going to the location where they are to work, their time will start when they reach headquarters and will continue until released from duty. Where employees are required to go directly to the job in emergencies, time will be calculated until the employee is released from duty.
+(d)	Class C and Class D employees who report to work on a scheduled work day and are sent home because of inclement weather or for other reasons before the regular day is completed shall be paid a minimum of two hours or the hours worked, whichever is greater.
+Section 10.	Rest Period.
+(a)	Rest Period is intended to provide the employee with uninterrupted and adequate time away from work for rest at no loss of pay for those regularly scheduled hours that coincide with the Rest Period.
+(b)	Paragraphs (c) and (d) below describe how rest period is accumulated or earned, paragraphs (e) and (f) below describe when the rest period is taken. The total amount of Rest Period will stop accumulating at 8 hours.
+(c)	An employee qualifies for 8 hours of Rest Period after working 16 hours in any 24-hour period. See Section 1 of this Article for work hour limits.
+(d)	An employee also qualifies for Rest Period when required to work during the qualifying time period beginning eight hours prior to their regularly scheduled start time and ending one hour prior to their regularly scheduled start time. The amount of Rest Period earned is equal to the cumulative amount of time worked during the qualifying time period if less than 5^ hours. The lone exception to this is if an employee’s first call happens to occur during the last hour of the qualifying period, no rest period is earned. When 5^ or more cumulative hours are worked during the qualifying time period, the employee earns 8 hours of Rest Period. In conjunction with the Rest Period earned for time worked, one additional hour of Rest Period is also earned for each subsequent call out following the first call out that infringes on the qualifying time period in any way.
+(e)	When the amount of earned Rest Period is 8 hours the Rest Period will be taken when released from work.
+(f)	When an employee qualifies for less than eight hours the Rest Period will normally be taken during the latter part of the workday such that the Rest Period will complete the employee’s regularly scheduled workday. In situations allowed by the work schedule, the employee may shift the start of the Rest Period to the beginning of the regularly scheduled workday. The work group Leader should be notified when exercising this option. When an employee is responding to a major storm or other emergency and is expected to work beyond their normal quitting time, any earned Rest Period will be taken at the latter part of the day unless mutual agreement between the Leader/Dispatcher and the employee is reached to allow
+October 18, 2009
+15
+the Rest Period to be taken at the start of the day. In crew operations of two or more employees, mutual agreement is required on the period of rest. Without mutual agreement, the Rest Period will be taken at the latter part of the day.
+(g)	When an employee is released, the Rest Period that falls within the employee’s regularly scheduled straight-time hours shall be paid at the straight-time wage rate. When any portion of a Rest Period coincides with an unpaid meal break, the employee’s regularly scheduled work hours are changed to straight-hours with no unpaid lunch break. For example, an employee normally working an 8^ hour day with a ^ hour unpaid lunch break would change their hours to a straight 8 hour day with no lunch break for that day.
+(h)	When an employee qualifies for Rest Period and is required by the Leader/Dispatcher to work within the regularly scheduled work hours, in addition to the straight-time wage rate, they shall be paid Rest Period Allowance. Rest Period Allowance is equivalent to the straight-time wage rate. Continuous work beyond the regularly scheduled quitting time will be paid at the double time rate until released.
+(i)	When an employee qualifies for Rest Period and is scheduled to return to work or is called back to work by the Leader/Dispatcher during the Rest Period, they shall be paid at the straighttime wage rate plus Rest Period Allowance for all hours worked until they have been released from work for an uninterrupted and continuous period of time equal to the amount of Rest Period earned.
+(j)	An employee called back to work while on qualified Rest Period must advise the person dispatching they are on Rest Period or forfeit the Rest Period Allowance as described in this Section.
+(k)	When an employee qualifies for Rest Period and the work schedule allows, the employee may take any amount of Personal Time Off-Rest Period to complete the regularly scheduled workday. Such time will be considered as regularly scheduled hours worked only for the purpose of determining the Rest Period qualification. Call back from PTO-Rest Period will be paid at the straight-time rate and will not be eligible for Call Out Allowance as described in Section 9 of this Article.
+Section 11.	Shift Premium Pay.
+(a)	In addition to the employee’s regular wage rate, a shift premium shall be paid for work performed in the job classifications agreed to. The shift premium rates shall be:
+Day Shift ------------ no shift premium
+Evening Shift -------- 75 cents per hour
+Night Shift----------- $1.00 per hour
+12 hour Night Shift -- $1.17 per hour
+(b)	The day shift is that shift in which 50 percent or more of the regularly scheduled work hours fall between 7:00 a.m. and 3:00 p.m.
+(c)	The evening shift is that shift in which 50 percent or more of the regularly scheduled work hours fall between 3:00 p.m. and 11:00 p.m.
+October 18, 2009
+16
+(d)	The night shift is that shift in which 50 percent or more of the regularly scheduled work hours fall between 11:00 p.m. and 7:00 a.m. The 12 hour night shift is the shift in which 50 percent or more of the regularly scheduled hours fall between 6:00 p.m. and 6:00 a.m.
+(e)	Employees classified as shift workers will receive the added shift premium for the scheduled hours worked in the evening or night shift. Employees classified as day workers and who receive overtime pay for hours worked before, after, or outside of their regular day schedule, even though the hours fall into evening or night shifts as defined in paragraphs (b), (c), and (d) above, are not eligible for shift premium additives.
+(f)	Shift workers who work overtime outside of their regularly scheduled shift shall receive the applicable shift premium in addition to any applicable overtime premium pay on the base rate and shift premium rate.
+(g)	Day workers on a variable schedule in certain job classifications agreed to will routinely, or upon request with due advance notice, work outside of the day shift at straight-time pay and be paid the applicable premium as herein provided.
+(1)	For the purpose of this Section, due advance notice shall be 24 hours prior to the start of the revised work schedule. Shift schedules will be for a minimum of 8-1/2 continuous hours and, where practical, will conform with the framework of an existing shift, including a one-half hour unpaid meal break as permitted by production and operational or personnel requirements at the time. Employees will normally not be required to remain on the revised shift when the work which gave rise to the change is completed.
+(2)	A day worker on a variable schedule shall be paid time and one-half for the hours worked up to 8 hours on the first day required to work on a revised schedule when due advance notice is given, and double time for hours worked up to 8 hours on the first day if the Company fails to give due advance notice. On subsequent days of revised schedule the employee shall be paid at the regular straight-time rate, plus applicable shift premium as defined in paragraphs (b), (c), and (d) above.
+(h)	Shift premium will be paid only for the time worked.
+(i)	For overtime hours worked, the shift premium rate shall be one and one-half times or double the normal rate, whichever applies.
+(j)	A premium of $6.80 per hour will be paid for all regularly scheduled Sunday straight-time hours worked. Double time pay for working on a holiday that occurs on a regularly scheduled Sunday will have no effect on eligibility for this premium and will not double the Sunday premium.
+Section 12.	Temporary Transfers.
+(a)	An employee shall be paid a temporary transfer rate for the time worked in a job having a higher wage than the employee’s present wage, whenever the time is one or more hours in duration.
+(b)	The temporary transfer rate is established and applies to specific jobs as agreed to by the Company and the Union. Eligibility for temporary transfer is determined by the Company.
+(c)	The temporary transfer rate is determined as:
+October 18, 2009
+17
+(1)	Employee at “Class 1" rate temporarily transferred to a “lead” position receives payment of “lead” wage rate.
+(2)	Employee at wage rate below “Class 1" rate and temporarily transferred to a “lead” position receives payment of full “Class 1" maximum wage rate.
+(d)	Operating - Pulliam and Weston
+(1)	Employee at maximum wage rate of job classification and temporarily transferred to the next higher job classification receives payment of full maximum wage rate in the new classification.
+(2)	Employee at maximum wage rate of job classification and temporarily transferred two job classifications higher receives payment of full maximum wage rate of the job classification bypassed.
+(3)	Employee at a wage rate below the maximum rate for their job classification and temporarily transferred to the next higher job classification receives payment of full maximum wage rate for their existing job classification.
+(e)	The higher rate is not paid for nonproductive time such as sick time, necessary time off, inclement weather, meetings, holiday allowance, rest period taken, jury duty, or when the crew size is below the level required for temporary transfer pay.
+(Note: The wage schedule included as part of this Agreement identifies job classifications eligible for the provisions of this Section.)
+Section 13.	Meals and Breaks.
+(a)	Employees shall provide and carry their own mid-shift meal. Local work groups (employees including leaders) will determine the feasibility of allowing job classifications to eliminate or take a minimum one-half hour unpaid lunch period. Employees will follow the same lunch period practice as the job classification to which they are assigned. Crews away from headquarters during the lunch period have the option of straight shifts or a minimum one-half hour unpaid lunch period by consensus. Non consensus results in default to previously established noon policy.
+(b)	The overtime provisions of Section 8 of this Article will apply if employees are required to respond during any unpaid lunch period.
+(c)	Employees working 8, 9, or 10 hour shifts, shall have two paid breaks (rest and/or lunch) per shift, but not more than one 10 minute and one 15 minute break for 8 and 9 hour shifts or two 15 minute breaks for a 10 hour shift.
+(d)	Employees out of town overnight within the WPSC service territory are eligible for a $31.00 daily meal allowance payment. Employees out-of-town overnight outside of the service territory are eligible for a $40.00 daily meal allowance payment. When attending training or other meetings, the workday may include an unpaid lunch break. When this occurs, all attendees shall be provided a meal by the Company. When training or other meetings require a reimbursement of overnight costs, the meal allowance shall be adjusted by the value of any meal furnished by the Company.
+(e)	Employees working two (2) or more hours of overtime immediately prior to their scheduled starting time, and those employees called out for work during the two (2) hours prior
+October 18, 2009
+18
+to work who work into the scheduled day and were unable to prepare a breakfast, are eligible for a pre shift meal payment of $11.00.
+(f)	Employees continuing work one and one-half (1-1/2) or more hours after their scheduled stopping time, and those employees called out for work during the one and one-half (1-1/2) hours after work, are eligible for a post shift meal payment of $11.00.
+(g)	Employees continuing to work overtime after qualifying for a post shift meal, or called out later than one and one-half (1-1/2) hours after the scheduled stopping time, are eligible for a subsequent meal payment of $11.00 for each consecutive five (5) hours worked. For employees continuing to work overtime after qualifying for a post shift meal payment, the first consecutive five (5) hours begins after the qualification for the post shift meal payment.
+(h)	Power plant shift workers working more than ten and one-half (10-1/2) hours of overtime on a non-scheduled day are eligible for a post shift meal payment of $11.00.
+(i)	Employees whose normal noon meal is interrupted or missed due to unplanned overtime on a non-scheduled work day other than Sunday, are eligible for a noon meal payment of $8.12 to be adjusted annually on the anniversary date of the Agreement by the September Consumer Price Index (CPI-W).
+(j)	Refer to the Meal Purchase guidelines for specific applications of taxable and non-taxable meals. Requests for meal payments should be made through the Corporate Labor time reporting system.
+(k)	Meals related to major storm damage and other emergencies are handled at the discretion of the local work group leader, but not to be less than described elsewhere in this Agreement.
+Section 14.	Relocation.
+(a)	Any employee relocated to a lower-paying job due to health reasons (occupational or non-occupational illness or injury), or job abandonment, or location abandonment, or bumping shall transfer with no reduction in wage rate. Such wage shall not be subject to escalation by any general wage increases until the employee’s wage rate is at or below the wage rate of the new job.
+(b)	Any employee with a protected wage under the relocation policy described in Section 14 of this Article, may make subsequent job moves without effect to paragraph (a) of this Section only if the subsequent move is to a job with a maximum wage rate equal to or greater than the employee’s current job wage rate maximum.
+(c)	The protected wage described in Section 14 of this Article ceases when any of the following occurs: the employee accepts a transfer to a job with a maximum wage rate less than the current job maximum wage rate, after the employee transfers to a job with a maximum wage rate greater than the protected wage rate, or the employee’s protected wage rate is exceeded by the current job wage rate.
+Section 15.	Work Away From Headquarters.
+(a)	Any changes or amendments to the Travel Reimbursement Plan (TRIP)or the Meal Purchase Guideline affecting employees covered by this Agreement will be negotiated with the Union before being placed into effect. The TRIP flow charts as mutually agreed to are made part of this Agreement.
+October 18, 2009
+19
+(b)	TRIP is designed to compensate employees’ efforts to report to a job site at the normal starting time and remain until the normal stopping time and to use personal vehicles so that Company equipment can remain at the job site. TRIP may be used for projects more than one day in length when an employee is needed to report to a job site other than the employee’s own headquarters. The Company shall designate the job site(s) and duration of each project. The Company shall make all determinations for TRIP job interruptions or cancellations due to such reasons as Company meetings, job priorities, and emergencies. TRIP shall not be used for training or meetings.
+(c)	For Power Supply & Engineering employees, job site reporting over 40 miles from headquarters is mandatory if posted by 3:00 p.m., three (3) working days prior to the start of the job. For Customer Service Organization employees, job site reporting outside the site boundaries is mandatory if posted by 3:00 p.m., three (3) working days prior to the start of the job. (For example, a Monday TRIP must be posted by 3:00 p.m. the preceding Wednesday to be considered mandatory.)
+(d)	The Company may authorize the use of a Company vehicle for TRIP projects. The guidelines for the number of authorized personal vehicles is as follows:
+1 to 3 persons
+7 to 9 persons
+4 to 6 persons
+one vehicle
+three vehicles
+two vehicles
+10 to 12 persons four vehicles
+(e)	Employees in a crew may use different options, but must all work the same hours at the TRIP job site. Employees will report to the TRIP job site at normal starting times and remain until normal stopping times unless traveling on Company time. The normal starting time of those employees on TRIP assignments shall normally conform to the starting time of the host site where the TRIP job is located unless mutually agreed otherwise. When outside site boundaries and over 60 miles from headquarters, crews may adopt other options as follows:
+(1)	Employees may leave on Company time in the morning on the first day of the TRIP job and on Mondays and return in the afternoon on the last day of the TRIP job and on Fridays, unless mutually agreed upon otherwise. The driver(s) receives the standard mileage payment when authorized to drive a personal vehicle on Company time.
+(2)	When mutually agreed, crews may work four 10-hour days at straight time, but are expected to stay out of town overnight when working beyond 60 miles from headquarters. The mandatory or voluntary nature of the TRIP job, and whether or not the crew volunteered for the TRIP job will have no bearing on the option to work four 10-hour days.
+(f)	When out of town overnight, time spent consuming breakfast and evening meals and traveling from the TRIP job site to the restaurant and return shall not be considered work hours. Travel to and from the designated motel in excess of 15 miles or 20 minutes shall be allowed on Company time and may be accumulated for travel either way in each day. Excess travel time may not be accumulated for two or more days.
+October 18, 2009
+20
+(g)	Mileage payments are based on the shortest distance road miles from the regular headquarters to the TRIP job site. Power Supply and Engineering employees will utilize a posted job site list to determine mileage. The mileage payment for driving a personal vehicle minus the amount allowed by the Internal Revenue Service shall be considered taxable income and subject to withholding. The entire mileage payment for driving or riding in a Company vehicle, or riding in a personal vehicle, shall be considered taxable income and subject to withholding. All monetary amounts shall be adjusted annually on the anniversary date of the Agreement using the September Consumer Price Index (CPI-W) or the general wage increase, whichever is greater.
+(h)	The Company will normally not schedule TRIP projects that require travel on the sixth and seventh days of the week. If this becomes necessary, the rates for travel will be increased by one and one-half times for the sixth day and two times for the seventh day.
+(i)	The provisions of TRIP may be amended upon mutual agreement between the Company and the Union Business Manager to accommodate such things as industry and market changes. Mileage and designated motel disputes not resolved will involve the Union Business Manager.
+(j)	Refer to Attachments A, B, and C of this Agreement to determine the applicable TRIP compensation.
+October 18, 2009
+21
+Article IX.	CLASSIFICATION OF EMPLOYEES
+Employees subject to the provisions of this Agreement shall be classified into four groups as hereinafter set forth:
+(a)	Class A employees are those who are filling regular jobs (budgeted for 20 or more hours per week) and who have completed five years of adjusted service. They are eligible for provisions of:
+v Vacation
+•	Holiday
+•	Sick Leave
+•	Funerals
+•	Cancellation of Prepaid Undertime (regular full time only)
+(b)	Class B employees are those who are filling regular or temporary jobs (except seasonal), budgeted for 20 or more hours per week, and have not completed five years of adjusted service. They are eligible for provisions of:
+•	Vacation
+•	Holiday
+•	Sick Leave
+•	Funerals
+•	Cancellation of Prepaid Undertime (regular full time only)
+(c)	Class C employees are those who are filling regular or temporary jobs (except seasonal), budgeted for less than 20 hours per week. They are not eligible for provisions of:
+•	Vacation
+•	Holiday (except will receive double time pay for all hours worked on a recognized holiday as listed elsewhere in this Agreement)
+•	Sick Leave
+•	Funerals
+•	Cancellation of Prepaid Undertime
+(d)	Class D employees are those who are filling seasonal/limited term jobs. They are not eligible for provisions of:
+•	Vacation
+•	Holiday (except will receive double time pay for all hours worked on a recognized holiday as listed elsewhere in this Agreement)
+•	Sick Leave
+•	Funerals
+•	Cancellation of Prepaid Undertime
+October 18, 2009
+22
+Article X.	WORKFORCE FLEXIBILITY
+To facilitate workforce flexibility the Company agrees that jurisdictional work lines are not dissolved and the Union agrees that jurisdictional work lines will not be an issue or cause for a grievance provided the following conditions are followed:
+(1)	Union members are performing traditional work across Union craft lines, Union members are performing traditional non-union work, or Union members are performing work traditionally let to contractors.
+(2)	Local work groups (employees including leaders) will determine what work can be done by employees crossing jurisdictional lines.
+(3)	Local work groups (employees including leaders) will establish minimum
+qualifications for work in their group.
+(4)	Employees crossing jurisdictional lines must successfully demonstrate the
+established minimum qualifications to a qualified employee of the receiving work group before performing the work.
+(5)	Non-union employees may do traditional Union work provided that if more than 32 hours are worked in a given month in a traditional Union position, Union service dues will be paid, but the individual(s) will not be required to become initiated member(s) of the Union. Union work performed by non-union employees is intended to be for short-term work assignments of less than six months.
+Article XI.	VACATIONS
+Section 1.	Employees Who Qualify.
+Only Class A and Class B employees as defined in Article IX, Classification of Employees, of this Agreement, are eligible for the vacation allowance provisions hereinafter provided for.
+Section 2.	Maximum Vacation.
+Employees are eligible for vacation with pay, or in the calendar year of their retirement take pay in lieu of vacation at the time of retirement. Employees may also elect to use vacation to cancel undertime. Eligible employees earn vacation time off with pay according to the following schedule:
+(1)	Regular full-time employees starting work between January 2 and September 1 earn one day (8 hours) of vacation for each full month of employment between February 1 and July 1 of that year plus two personal days of vacation (16 hours). If the employee starts after September 1, only one personal day of vacation (8 hours) allowance is earned.
+Exception: Rotating shift workers starting work prior to September 1 receive December 31 as a “fixed” holiday and one personal day of vacation. Rotating shift workers starting work on or after September 1 have December 31 as a “fixed” holiday and no personal day of vacation.
+(2)	Second-year vacation is accrued at the rate of one day (8 hours) of vacation for each calendar month of employment starting September 1 of the first year of employment
+October 18, 2009
+23
+through June of the second year of employment to a maximum of 10 days (80 hours).
+(3)	The following vacation shall be granted if employees have completed the required years of service prior to September 1 of that year:
+2	weeks (80 hours) in the year following employment if this date is before September 1.
+3	weeks (120 hours) when 7 years of continuous employment are completed before September 1.
+4	weeks (160 hours) when 14 years of continuous employment are completed before September 1.
+5	weeks (200 hours) when 21 years of continuous employment are completed before September 1.
+6	weeks (240 hours) when 28 years of continuous employment are completed before September 1.
+(4)	Employees, except part-time or temporary, shall be paid eight hours per day/40 hours per week at their straight-time rate for each day/week of vacation. Part-time or temporary employees shall be paid at their straight-time rate for the average daily/weekly number of hours worked during the previous year for each day/week of vacation and personal days of vacation. For new part-time or temporary employees, the amount of vacation will be prorated on the basis of regular scheduled hours, until the employee has completed one full payroll year in the part-time or temporary status. For employees transferring into the part-time or temporary classifications, the amount of vacation will be prorated by the number of months worked on a full-time basis and the number of months worked on a part-time basis during the time period from September 1st through June 30th. For months worked on a full-time basis, the employee will receive full-time vacation benefits. For months worked on a part-time basis, the employee will receive vacation benefits based on regular scheduled hours, until the employee has completed one full payroll year in the part-time or temporary classification.
+(5)	Vacation scheduled for the last week of the current year which extends into the following calendar year will be considered as a “full week” of vacation provided all vacation is from the current year. Such employee will have precedence in scheduling over employees using the “new” year’s vacation if scheduled by May 1.
+Section 3.	Weeks Defined.
+A week of vacation consists of 40 work hours or five work days. Two weeks of vacation consist of 80 work hours or ten work days. Three weeks of vacation consist of 120 work hours or fifteen work days. Four weeks of vacation consist of 160 work hours or twenty work days. Five weeks of vacation consist of 200 work hours or twenty-five work days. Six weeks of vacation consist of 240 work hours or thirty work days. A week of vacation for part-time or temporary employees consists of the average weekly hours worked in the previous year.
+October 18, 2009
+24
+Section 4.	Vacation Time.
+(a)	Annual vacation shall be started with the first pay period of the payroll year, and will be completed with the pay period that includes December 31.
+(b)	A maximum of 96 hours of vacation can be carried over to the following year for any reason except for rotating shift workers, who have a maximum of 88 hours. Vacation carried over to the following year must be used for vacation time off or to cancel undertime in that payroll year, or it will be forfeited.
+(c)	Except as otherwise provided for elsewhere in this Article, vacation time is not eligible for pay in lieu of time off. Vacation not eligible for carry over or payment will be forfeited if not used.
+Section 5.	Arranging Vacation Periods.
+(a)	All employees eligible for a vacation within a plant or department shall be given a choice of vacation periods up to a maximum of two weeks on the basis of seniority within the group. Following this, employees within the group who are eligible for three weeks of vacation shall be given a choice for the third week of their vacation on the basis of seniority. Following this, employees within the group who are eligible for four weeks of vacation shall be given a choice for the fourth week of their vacation on the basis of seniority. Following this, employees within the group who are eligible for five weeks of vacation shall be given a choice for the fifth week of their vacation on the basis of seniority. Following this, employees within the group who are eligible for six weeks of vacation shall be given a choice for the sixth week of their vacation on the basis of seniority.
+(b)	Employees must sign up for vacations no later than December 15 of the prior year or May 1 of each year to cover the periods of January 1 through May 12 and May 13 through the end of the pay period that includes December 31 respectively, or otherwise accept vacation periods as may be available after other employees have made their choices.
+(c)	Employees may take all of their annual vacation anytime during the first pay period of the payroll year to the end of the pay period which includes the following December 31 in any increments equal to or greater than one-quarter hour. Shift workers may split vacations on night shifts, Sundays, and holidays only when no relief is needed or if the employee finds their own relief. In such cases, overtime may be paid for the relief. When a shift worker adds a split week of vacation to a full week of vacation to complete a work cycle, the entire vacation is treated as a full week of vacation. A split week of vacation is defined as a unit(s) of less than a week at a time, but not less than eight hours or a day at a time.
+(d)	Granting of vacation in units of less than a week is on a first-come basis without recognition of seniority. Such vacations are not to be signed up on the December 15 or the May 1 vacation boards. Employees who have selected full weeks of vacation shall take precedence over those who have selected a split week. The span of time between the supervisor allowing a piecemeal vacation and the time it is taken must normally be limited to two months or less and at least 24 hours to allow for proper arrangements.
+(e)	The Company will make a determined effort to avoid canceling approved vacations that have been signed up by December 15 or May 1. Vacations scheduled for the month of December and not taken for valid reasons shall be taken at the earliest practical date permitted by work schedules, preferably in January, unless prevented by illness of the employee, or be forfeited.
+October 18, 2009
+25
+(f)	Each local work group shall agree on any additional site specific vacation and change of shift guidelines. Factors such as additional cost, customer needs, and adequate staffing levels to work safely and efficiently shall be considered when establishing vacation guidelines, procedures and restrictions. In no case shall vacations be permitted to interfere with required operations or continuity of service. Where practical, there is no objection to arranging vacations to immediately follow or precede regular days off.
+Section 6.	Vacation Relief.
+The Company will make every reasonable effort to provide vacation relief. When it is not practical to provide relief for vacation periods in certain jobs, an employee may be required to work additional hours and shall receive overtime pay for hours so worked in accordance with Article VIII, Section 8, Overtime.
+Section 7.	Temporary Relinquishment of Vacations.
+(a)	If employees are called back to work by the Company while on a split or full week of vacation, they shall be paid either time and one-half the straight-time rate or double time, whichever applies, according to the Overtime provisions of Article VIII, Section 8, for hours so worked in addition to being paid their regular compensation. Such employees shall also be given a full day off at a later date to compensate for vacation time lost for each of the vacation days on which the employee was called back to work. Employees who work on a 12 hour rotating schedule will receive 12 hours of replacement vacation if they are called back on a day they were scheduled to work. If employees on a 12 hour schedule are called back on a non-scheduled day, they will receive 8 hours of replacement vacation.
+(b)	If an employee is called back to work by the Company during the hours of a partial day of vacation, they shall be paid either time and one-half the straight-time rate or double time, whichever applies, according to the Overtime provisions of Article VIII, Section 8, for hours so worked in addition to being paid their regular compensation. Such employees shall also be given replacement vacation hours equivalent to the scheduled amount of vacation interrupted by the call back, but will not receive an additional full day off as outlined previously in this Section. When an employee is called out just prior to a scheduled split or full week, or partial day of vacation, they shall advise the person dispatching when their scheduled vacation will start. Failure to notify will result in loss of the “full day” off at a later date or the replacement hours as provided for in this Section. When referenced in conjunction with partial days of vacation, the term call back will only be applied after the employee has actually started their scheduled vacation hours.
+(c)	The vacation period for purposes of this Section shall be considered as follows: When a week of vacation is taken at one time, it shall consist of seven consecutive days and conform with the established work week (12:00am Monday to 11:59pm the following Sunday). In other words, the weekend prior to a full week of vacation would be treated as a normal call-out while the weekend subsequent to a full work week (Monday-Friday) will be treated as a vacation call back. When an employee takes a vacation of less than one week, the vacation period of each work day shall be from midnight on the quitting day to the following midnight or whatever other hour has been established in the department as the starting time of a new 24-hour day.
+(d)	When an employee takes a vacation of a week or longer at one time, the Company will make every effort not to call back the employee to work from the quitting time on the last day of work to the starting time of the first day back to work.
+October 18, 2009
+26
+Section 8.	Holiday Within Vacation Period.
+(a)	In addition to vacation allowance, employees may defer or shall be paid the applicable holiday allowance for the recognized holidays named in Article XII, Holidays, Section 2, of this Agreement which are observed during vacations of a week or longer. No extra day of vacation shall be given in place of the holiday allowance.
+(b)	When one of the recognized holidays falls on one of the employee’s work days while on vacation of less than one week, such work day shall not be considered a day of vacation and the employee shall only be paid the holiday allowance for that day.
+Section 9.	Leaving the Company.
+Employees leaving the company are eligible to receive any earned and unused vacation time, excluding vacation carried over from the prior year, to be paid on the final paycheck. The amount of vacation paid will be calculated based on the number of months the employee has completed in the 10-month accrual period, which runs from September 1st through June 30th. If an employee has used more vacation than has been earned, the employee is required to repay the vacation that has not yet been earned. The amount owed to the company will be deducted from the final paycheck.
+Article XII.	HOLIDAYS
+Section 1.	Employees Who Qualify.
+Only Class A and Class B employees as defined in Article IX, Classification of Employees, of this Agreement, are eligible for holiday allowance as hereinafter provided for.
+Section 2.	Recognized Holidays.
+(a)	Employees, except part-time or temporary, shall be paid for eight hours at their straighttime rate for each recognized holiday. Part-time or temporary employees shall be paid for each recognized holiday (excluding personal days of vacation) at their straight-time rate for the average daily hours worked during the applicable prior 13-week review period. New employees and employees transferring into the part-time or temporary classification will receive holiday allowance based on their regular scheduled hours until a full 13-week review period has elapsed. The recognized holidays are:
+(1)	New Year’s Day
+(2)	Good Friday
+(3)	Memorial Day
+(4)	July 4
+(5)	Labor Day
+(6)	Thanksgiving
+(7)	Friday after Thanksgiving
+(8)	December 24
+(9)	Christmas
+(10)	Personal day of vacation
+October 18, 2009
+27
+(11)	Personal day of vacation
+Exception for rotating shift workers:
+(10)	December 31
+(11)	Personal day of vacation
+Rotating shift workers are:
+Distribution Dispatcher
+Operations-Pulliam
+Operations-Weston
+Operator Maintenance Mechanic - DePere Energy Center
+For the purpose of this Section, the following job classifications will be handled in the same manner as rotating shift workers:
+System Operating Supervisor
+Coal and Yard-Pulliam
+Coal and Yard-Weston
+Operations-Hydro
+Plant Helper-Weston
+(b)	When New Year’s Day, July 4, and Christmas Day fall on a Sunday, they will be observed on the following Monday, except for rotating shift workers.
+(c)	This holiday pay applies whether it is the employee’s regular day to work or regular day off.
+Section 3.	Deferred Holidays.
+(a)	Within a payroll year, (the first pay period through the last pay period of the following year), employees may elect holiday allowance or time off at a later date for their corresponding holidays. When the Company determines there is not enough work, employees working four 10 hour days will revert to five 8 hour days for the weeks when a holiday occurs and take the holiday off. An employee cannot elect to work the holiday if the work group is off.
+(b)	Granting of holiday replacement days is on a first come basis without recognition of seniority. Holiday replacement days may be taken in increments equal to or greater than one quarter hour, Employees with an undertime balance greater than $382.50 (adjusted annually by the general wage increase) will not be permitted to take holiday replacement days. Shift workers who are scheduled and work a holiday will be permitted to take holiday replacement days regardless of their undertime status. Holiday replacement days shall not be permitted to interfere with required operations or continuity of service. There is no objection to arranging holiday replacement days immediately following or preceding regular days off.
+(c)	For rotating shift workers as previously defined in this Article, holiday replacement days shall exclude night shifts, Sundays, holidays, and when relief employees are available only at overtime rates.
+October 18, 2009
+28
+(d)	Holiday replacement days not taken prior to the close of the last pay period of the payroll year will be paid on the last paycheck issued for that payroll period, except for employees who have a prepaid undertime balance greater than the amount identified in (b) above, those unused holiday replacement days will be used to cancel prepaid undertime down to the balance identified above.
+(e)	Holiday replacement days are not subject to the temporary relinquishment of vacation provisions in Article XI, Section 7, paragraph (a) of this Agreement.
+Section 4.	Work On a Holiday.
+In addition to the allowed holiday pay as provided for in Section 2 (a) of this Article, double time shall be paid for all hours worked on a recognized holiday. The recognized holiday shall be from midnight to the following midnight, or whatever other hour has been established in the department as the starting time of a new 24 hour day.
+Article XIII.	SICK LEAVE
+Section 1.	Employees Who Qualify.
+Only Class A and Class B employees as defined in Article IX, Classification of Employees, of this Agreement, are eligible for the sick leave benefits as hereinafter provided for.
+Section 2.	Period of Allowance.
+Compensation to regular full-time employees in any single absence due to illness will be continued for at least the first two weeks, plus one additional week for each full year of employment. Regular part-time or temporary employees (excluding Seasonal), and budgeted for 20 or more hours per week, receive no compensation for the first week of any single illness.
+Section 3.	Sick Leave Make Up Hours.
+(a)	Regular full-time employees, except as provided in part (b) of this Section, shall make up, according to the method provided for in this Agreement under Article XIV, Cancellation of Prepaid Undertime, the first 52 hours lost from work in any single illness due to illness. As an illustration, in the case of a two weeks’ illness involving 80 hours lost from work, 28 hours are forgiven and 52 hours shall be made up. Hours which must be made up and for which the employees were compensated are defined as prepaid undertime hours.
+(b)	Employees shall be required to make up time lost from regular work schedule for each individual illness according to the following table:
+0 months through 9 years of adjusted service	First 52	hours
+10 years through 19 years of adjusted service	First 40	hours
+20 years through 24 years of adjusted service	First 24	hours
+25 or more years of adjusted service First 8 hours
+Necessary time off for reasons other than illness shall be made up by these employees the same as by other regular full-time employees.
+(c)	A single absence due to illness shall be considered to be the entire time lost when an employee after returning to work must within thirty days lay off again due to the original illness. Each absence will be considered a separate lay off and accumulated prepaid undertime hours when an employee returns to work after more than thirty days between each absence. The
+October 18, 2009
+29
+Company will consider carefully the merits of the case in the application of this provision for those employees who are absent again for subsequent surgery related to the same illness if there is less than 60 days duration between each absence. A different illness, or if the employee’s absence is due to a common cold or hay fever or similar chronic illness, will be considered a separate lay off and accumulate prepaid undertime hours.
+(d)	Absences for intermittent treatment (30 or more days between each absence, but at less than six-month intervals) for allergies, blood treatments, cancers, diabetes, heart conditions, pregnancy, or multiple sclerosis will be considered as a single illness and not subject to additional undertime hours.
+Section 4.	Extended Illness.
+In case of extended illness, where disability extends beyond the employee’s accrued sick leave, employees may choose to utilize their vacation to continue payment of wages at 100%. When the employee has exhausted all of their accrued sick leave and vacation, if the employee chooses to utilize vacation, they will be transferred to Short Term Disability (STD). When on STD, the employee will receive wages equivalent to 70% of their base wage rate for a period not to exceed six (6) months from the date of the illness. Following the expiration of STD, the employee will be placed on Long Term Disability benefits if they qualify, and the pay rate will be adjusted to 60% of their base wage rate.
+Section 5.	Returning to Work.
+Employees who are off duty because of sickness and recuperation therefrom will return to work only if they are qualified to do so.
+Article XIV.	CANCELLATION OF PREPAID UNDERTIME
+Section 1.	Applying Overtime Hours.
+(a)	Prepaid undertime resulting from sick leave and other necessary time off shall be made up by applying against such prepaid undertime any overtime hours worked by the employee. This also includes hours worked while on vacation relief and while on call outs. Regularly scheduled hours worked on a holiday, the regular holiday allowance, rest period, and overtime cancellation pay shall not be applied against prepaid undertime.
+(b)	Those hours worked which are offset against prepaid undertime shall be applied on a basis of every two hours worked canceling three hours of undertime. As an example, 60 hours of prepaid undertime are canceled by 40 hours of actual work put in outside of regular schedule. This applies to shift workers as well as well as day workers. When overtime hours are worked at double time, they shall be applied against prepaid undertime hours on a basis of every one hour worked canceling two hours of prepaid undertime.
+Section 2.	Applying Vacation Hours.
+Employees may, instead of working make up hours, use vacation hours to make up the required time, at the ratio of two vacation hours for three prepaid undertime hours, in any increments equal to or greater than one-quarter hour. To be compatible with Article XI, Vacations, Section 5, Arranging Vacation Periods, cancellation of undertime shall be in increments equal to or greater than one-quarter hour.
+October 18, 2009
+30
+Section 3.	Partial Cancellation at End of Year.
+A maximum of 60 hours prepaid undertime which was accumulated one year or more prior to the close of the last pay period of that payroll year and which the employee did not have an opportunity to make up will be canceled on the close of the last pay period of that payroll year of each year, if no sick leave was incurred during the last 12 months. If less than 60 hours of sick time are accumulated in the current year, the difference between 60 hours and the actual amount of sick leave for that year will be canceled from any undertime hours incurred in the previous contract year. Provided all other provisions of the Agreement are followed, (i.e. Article X, Article VIII, Section 8 (g)), an employee will not be required, but may be offered the opportunity to make up prepaid undertime by performing duties which existing practice has indicated are not related to the existing job or department.
+Article XV.	LEAVES AND LAY OFFS
+Section 1.	Leave of Absence.
+(a)	A maximum of 60 days leave of absence may be granted to an employee for reasons other than either accepting employment elsewhere or illness, with the written approval of the department head, provided they can be reasonably spared from duty. Whether an employee can be reasonably spared from duty is determined by the cost and convenience to the Company, the length of service of the employee, and the individual merits of the case.
+(b)	Such leave of absence may be extended to six months or longer with the written approval of the President. While on leave of absence, the employee shall not be deemed to have forfeited their seniority rights. When the leave of absence is more than 60 days, the employee shall be permitted to return to work only if they are physically qualified to do so. If the employee remains away from work for a period longer than authorized, or if they accept employment elsewhere, their employment with the Company shall be deemed to have terminated.
+Section 2.	Lay Off, Severance and Recall.
+(a)	The Company and the Union share a common interest in continued employment and will make reasonable efforts to avoid a layoff. In an effort to avoid layoffs, the Company will consider options including but not limited to job abandonments, voluntary separations and retirements by seniority for an occupational group at a location where a workforce reduction is necessary. The Company will also consider normal attrition and elimination of contractors doing work that can be performed by bargaining unit employees. Layoff is considered the least desirable option.
+(b)	When the Company determines that other options are not sufficient, it will give the Union a 12-month written notice of layoff. This layoff notice will identify the initial occupational group(s) and location(s) and the number of employees affected. It is recognized that as circumstances change within an occupational group at that location, this layoff date may be extended and the numbers may be reduced without issuing a new 12-month notice. Layoffs pursuant to this Subsection (b) will be by Company seniority within an occupational group at a location. (An employee’s Company seniority is determined by their service date as shown within Human Resources’ PeopleSoft System.)
+(c)	Within that 12 months, but at least two months in advance of the date designated for layoff pursuant to Subsection (a) above, the Company and the Union will meet with the most
+October 18, 2009
+31
+junior affected employees in the occupational group at that location to explain the following options:
+(1)	Bumping
+(2)	Layoff
+(3)	Severance
+Within three (3) working days of being notified of their options, the employee must elect one of these options. If the employee does not elect or is not eligible for an option, they will be laid off on the date designated.
+(d)	An employee electing to bump may select one of the following three alternatives based on Company seniority:
+(1)	Bump the most junior employee at the location at which the reduction is taking place if they are qualified to do such work.
+(2)	Bump the most junior employee in the employee’s Company occupational work group.
+(3)	Bump the most junior employee in the Company if they are qualified to do such work.
+(e)	In this Section the term qualified means an employee whom the Company has determined to currently possess the necessary basic aptitudes, attitude, physical ability, education, work record and experience to satisfy the established requirements for selection or placement in an occupation. All prerequisite training will be accomplished in a reasonable amount of time.
+(f)	If the employee bumps, and their current pay is above the new job progression, the employee’s pay will follow Article VIII Section 14 of this Agreement.
+(g)	An employee bumping to a different job will have bidding priority to return to their original job and location according to their Company seniority if they are competent to perform the work. Such employees will relocate at their own expense.
+(h)	An employee who elects layoff or who was not eligible for another option will be laid off as of the designated layoff date. Employees will retain recall rights for five (5) years or until recalled, whichever occurs first. The Company will maintain the recall list. Seniority is restored after recall but is not accrued during layoff.
+(i)	Job openings will be posted within the company first with active employees having bidding rights. Employees on recall will be recalled by Company seniority when an opening occurs if they are qualified to perform the duties. Recalled employees returning to the same job will return at the same classification and progression step that corresponds with their status when laid off.
+(j)	If an employee on layoff does not report for work within fifteen (15) calendar days of the date of the Company’s notice of recall, their seniority and employment will be considered terminated. It shall be the responsibility of each employee on layoff to keep the Company apprised of their current address. An employee electing layoff or laid off shall not be entitled to severance pay.
+October 18, 2009
+32
+(k)	If an employee elects severance, they will be terminated and paid severance pay in accordance with the following schedule:
+Years of Service	Amount
+Less than 2 years 2	but less than 4 years 4	but less than 5 years 5	years or more	2	weeks 3	weeks 1	month 2	weeks for each full year of service
+An employee who elects severance pay has their seniority and employment terminated and is not eligible for recall.
+(l)	Severance pay amount is the basic straight-time wage paid at the time of termination, excluding pay additives and premium pay amount, times the number of hours worked in a normal workweek (to a maximum of 40 hours). It shall be paid in a lump sum. An employee who elects severance shall not be eligible for recall. A severance payment shall be paid to the surviving spouse or dependent children in the event the employee dies.
+(m)	When bumping and recalling employees, it is recognized that an exception may be made for specialized skills and abilities. In that event, the Company will notify the Union before deviating from seniority rules and if the Union so desires, the matter will be negotiated.
+Section 3.	Military Leave.
+(a)	The re-employment rights of employees are provided for under the Federal 1951 Universal Military Training and Service Act and the Uniformed Services Employment and Reemployment Rights Act (USERRA). Any amendments to these Acts shall govern the rehiring of employees who left the Company to enter military service.
+(b)	Employees who return to work from military service within the required 90 days of the Act will have the full amount of their insurance reinstated as of the time they entered service.
+(c)	Employees who become physically unfit to assume the duties of their former jobs as a result of active service with the armed forces will be given employment, if possible, within their capacity upon their return to the Company.
+(d)	Special consideration for an extended leave of absence will be given those employees who volunteer their services to the armed forces during any national military emergency.
+(e)	When employees make application for re-employment as provided for under the Federal Act, those of less seniority will be required to accept such demotions as are necessary. Seniority of employees serving with the military forces continues during the period of such service, just as though the employees were still employed by the Company.
+(f)	Changes of jobs either into or through jobs vacated by employees going into military services will be considered temporary, with the rights of employees of greatest seniority recognized in bidding for those jobs when the employees in service have returned.
+(g)	New employees hired to replace employees entering the armed forces are temporary employees and may be released upon return from military service of the regular occupants of the jobs without any guarantee of their wage.
+October 18, 2009
+33
+(h)	Employees with reserve or National Guard obligation as part of an initial enlistment and who are eligible for a maximum of two weeks vacation which is taken during the annual two-week military training duty will be granted an additional week of vacation (40 hours at straight-time hourly rate).
+(i)	In extreme military situations such as war, the Company will pay the employee’s and dependent’s COBRA and group life insurance premiums for a period of twelve (12) months. The Company will also reimburse the employee the difference between their military pay and their base wage rate for a period of six (6) months. This paragraph may be deactivated, modified, or terminated at any time at the Company’s discretion provided the Union Business Manager is notified prior to the change.
+Article XVI.	BENEFIT PLANS
+Section 1.	Plan Changes.
+Any changes or amendments to the Wisconsin Public Service Corporation Retirement Plan, Post Retirement Medical, Post Retirement Dental, Medical, Dental, Life Insurance, Health and Dependant Care Spending Account, Long-Term Disability, Severance Pay, or the Employees’ Stock Ownership Plan and Trust plans affecting employees covered by this Agreement will be negotiated with the Union before being placed into effect.
+Section 2.	Eligibility.
+Employees of the Company covered by this Agreement and the IUOE Local 310 Business Manager, when a WPSC employee on a leave of absence, receive various Plan benefits. Refer to the individual Summary Plan Descriptions and the letter of agreement dated September 15, 2005, for specific benefits and eligibility requirements.
+Section 3.	Designated Providers.
+The Medical Plan provides coverage for counseling in areas such as mental illness, alcohol and other drug abuse, marriage, debt (financial), and family support. To be eligible for coverage, counseling must be provided within the designated network. Refer to the Medical Summary Plan Description for specific benefits and eligibility requirements.
+Article XVII.	PRACTICES
+Section 1.	Existing Practices.
+All existing practices pertaining to hours, working conditions, rules, and regulations not specifically mentioned in this Agreement shall continue in force as at present until they are adjusted by mutual agreement between the Company and the Union.
+Section 2.	Study of Practices.
+The duly appointed representatives of the Union and the Company shall study and investigate practices relating to wages, hours, and working conditions for the purpose of suggesting improvements which may be agreed upon from time to time without disadvantage to either party.
+Section 3.	Wage Review.
+(a)	Representatives of the Company shall meet with duly appointed members of the Union Wage Review Team to negotiate wage rates of job classifications that either party believes to be
+October 18, 2009
+34
+“out of market.” Either party may submit requests for changes and where necessary the adjustments will be negotiated either upward or downward. Appropriate wage offer proposals will be determined predominately based on the market for each position comparing job responsibilities and qualifications, and other factors such as knowledge, experience, and working conditions. Wage adjustments offered can be accepted or rejected by either party. Negotiated wage rate revisions become effective as mutually agreed. This process is not subject to the grievance or arbitration provisions of the Labor Agreement, or by review from outside agencies. The only recourse for either party, if in their opinion they do not receive a satisfactory wage adjustment proposal resulting from this process, is through general contract negotiations.
+(b)	The wages for employees for time lost from regular work hours spent in negotiations within this process will be paid by the Company for the first three meetings of each wage review (including the kick off meeting). A maximum of three (3) employees (including the Wage Review Chair) will be part of the Union Wage Review Team. On average, no more than three wage review requests per year will be submitted. The Company and the Union agree to meet within sixty (60) calendar days of the wage review request or accept the proposal requested by the Union or the Company.
+(c)	For marked changes in existing jobs, see ARTICLE VIII WORKING HOURS AND RATES OF PAY, Section 3 Wage Rates for New Jobs of this Agreement.
+Article XVIII.	MISCELLANEOUS
+Section 1.	Injuries.
+Any employee of the Company covered by this Agreement who is injured while on duty, shall be entitled, upon recovery, to their former position with full seniority rights, provided they are physically qualified to return to work.
+Section 2.	Contracting of Work.
+(a)	It is agreed that whenever work is let to contractors, preference will be given to contractors employing union labor. Refer to Attachment D.
+(b)	Electric and gas operating and maintenance work normally performed by regular crews shall not be contracted except when conditions are such that regular crews cannot perform the work or when the work requires the use of special construction equipment the Company does not possess. In such cases, the Company will provide written notice to the Union Business Manager and the agreed to designated local Union official for each instance.
+(c)	The following practices apply to letting overhead line work to contractors:
+(1)	A contractor will not build an overhead distribution line of less than 1,000 feet in length. An overhead distribution line is defined as temporary or permanent primary, secondary, or service facilities. For the purpose of this Section, services, and temporary facilities of less than 1,000 feet in length, will not be used to establish the 1,000-foot measurement. In determining the length of the line:
+a.	Overlapping primary and secondary conductors will be counted as single line footage.
+b.	The length of the primary and secondary will be included in aggregate.
+c.	The measurement shall not have a gap of one or more spans.
+October 18, 2009
+35
+(2)	A contractor will not build an overhead distribution line to an existing line, but may temporarily dead-end the line to an existing pole with sufficient safe clearance below the energized circuits.
+(3)	The physical moving of an existing pole line will not be let to a contractor.
+(4)	A contractor may cover energized lines and place other protective equipment as required for the performance of their work.
+(5)	Overhead line work as covered by items (1), (2), and (3) of this paragraph may be let to a contractor when either (a) an emergency exists jeopardizing life, public safety, property and service to customers, or (b) a public authority requires work to be completed at a certain time and it cannot be done with the regular crews of the Company without materially adversely affecting Company operations. When it is necessary to so employ a contractor, the Union Branch Chairman and Steward will be advised of the Company’s plans prior to starting the job.
+(6)	The conditions under items (1), (2), and (3) above may be waived at any time at the discretion of the local Branch Chairman and the Business Manager. If the local Branch Chairman cannot obtain a decision from the Business Manager, within three working days from time of inquiry by the supervisor, then the decision is made by the local Branch Chairman.
+(7)	When contractors are performing work allowed under items (1), (2) and (4) above, Company employees are not entitled to compensating employee-hours of overtime.
+(8)	When contractors are performing work defined as non-contractor work covered under items (1), (2) and (3), Company employees will be entitled to compensating employee-hours of overtime for any overtime worked by a contractor during the first five regular workdays of the week or on the sixth workday of the week. The exceptions to employees receiving this overtime are as follows:
+a.	Company employees will not be entitled to compensating employee-hours of overtime in excess of the first five crew-hours of overtime worked by the contractor when this excess overtime is spent setting up and maintaining barricades or doing general clean up.
+b.	When contractors are working overtime as a result of a bid job where the choice to work overtime is made by the contractor.
+c.	When contractors are performing non-contractor work under Article XVIII, Section 2, par (b) and contractible work per Article X is being performed by Local 310 members.
+(d)	The following practices apply to letting gas street work to contractors:
+(1)	All tapping of and making connections to live mains will be done by Company employees.
+(2)	The installation of steel pipe, 2" and smaller, including the excavation and backfilling of trenches for both services and mains, will be done by Company employees.
+October 18, 2009
+36
+(3)	The installation of steel pipe larger than 2", and plastic pipe, including the excavation and backfilling of trenches for both services and mains, may be let to contractors.
+(4)	Gas street work covered in items (1) and (2) may be let a contractor when either (a) an emergency exists jeopardizing life, public safety, property and service to customers, or (b) public authority requires work to be completed at a certain time and it cannot be done with the regular crews of the Company without materially adversely affecting Company operations. When it is necessary to so employ a contractor, the local Branch Chairman and Steward will be advised of the Company's plans prior to starting the job.
+(5)	The conditions described under items (1) and (2) above may be waived, at any time, at the discretion of the local Branch Chairman and the Business Manager. If the local Branch Chairman cannot obtain a decision from the Business Manager within three working days from time of inquiry by the supervisor, the decision can then be made by the local Branch Chairman.
+(6)	When contractors are performing work covered under item (3), Company employees are not entitled to compensating employee-hours of overtime.
+(7)	When contractors are performing work covered under items (1) and (2), Company employees are entitled to compensating employee-hours of overtime for any overtime worked by a contractor during the first five regular workdays of the week or on the sixth workday of the week, with the following exceptions:
+a.	When the contractor does the complete job covered under items (1) and (2), Company employees will not be entitled to compensating employee-hours of overtime for the first five crew-hours of overtime worked per week (Monday through Friday) by the contractor on backfilling or trenching operations.
+b.	When the contractor is only performing the trenching, backfilling and related work in support of a job covered under items (1) and (2). Company employees will not be entitled to compensating employee-hours of overtime for the hours worked by a contractor (Monday through Friday) performing trenching and related work before Company employees arrive on the job in the morning or after the Company employees have left the job at the end of the day.
+c.	Company employees will not be entitled to compensating employee-hours of overtime in excess of the first five crew-hours of overtime worked by the contractor on backfilling or trenching operations during the first five regular workdays of the week or for any time worked on the sixth workday of the week when this excess time is spent filling depressed ditches, setting up and maintaining barricades, or doing general clean up work.
+(8)	If a contractor transfers their work crew at the regular closing hour of the day to a job that is normally performed by contractors for the purpose of avoiding compensating overtime to Company employees, such overtime by the contractor shall be considered compensating for Company employees. If the contractor finishes a job which is normally Company work by the close of the regular day and then transfers in good faith to a job normally done by contractors and puts in a longer workday, no compensating overtime is due to Company employees.
+October 18, 2009
+37
+(9)	When compensating overtime is incurred by the contractor, Company employees will be given overtime as follows:
+a.	Compensating overtime by the contractor is converted to employee-hours by multiplying the number of overtime hours worked by the crew by the number of employees who were in that crew to determine the total compensating employee-hours of overtime.
+b.	Total compensating employee-hours of overtime will be worked by the Company employees simultaneously with the contractor, or as soon thereafter as is practicable and will be distributed among the Gas Street department employees as equitably as is practicable during the course of the year. This overtime worked by Company employees will be identified as being compensation for contractors’ overtime.
+c.	The type of work performed by Company employees will consist of any typical work done by the Gas Street department. The overtime will be of a scheduled nature, not emergency overtime. Scheduled overtime is that overtime for which employees were notified prior to 6:00 p.m. of the previous day.
+(10)	Inspection of contractors’ work as to type, amount, and time is strictly a management function. There is no bar to inspectors remaining on the job after hours if the work is of such a nature that the inspection should be continued. The inspector is under full obligation to follow the decision of the supervisor in this respect.
+(11)	Any complaints by the Union membership with respect to contractors will be promptly reported by the Union officials to the Company supervisors. If there is failure to reach an adjustment of the complaint within five (5) days, the matter shall be handled in accordance with the appropriate provisions of this Agreement.
+(e)	When it is necessary to employ a contractor, the local Branch Chairman and Steward will be advised of the Company’s plans prior to starting the job.
+(1)	For electric distribution line contracting, a form or letter may be used.
+(2)	For electrical transmission line contracting, a Notification of Electrical Transmission Line Contracting Form is used.
+(3)	For gas street work, a form or letter may be used.
+(4)	Annual blanket notification letters advising the Union of Company’s intention to use contractors for work that is described in this Section is permitted with the consent of the local Branch Chairman or Steward. To avoid misunderstandings, when it becomes necessary to let work to contractor that is not described in this Section, the local Company Leader will advise the local Branch Chairman and Steward of the Company’s intention to let the work to a contractor. A form or letter as described in (1) and (3) above should be used.
+Section 3.	Company Meetings.
+Employees while off duty may be required to attend meetings sponsored by the Company. Time spent at the Company meeting which the employees are required to attend will be considered as work hours.
+October 18, 2009
+38
+Section 4.	Company-Union Meetings.
+(a)	Every effort will be made by the Company and the Union to negotiate matters pertaining to this Agreement and grievances so as not to interfere with the normal work hours of the employees attending such meetings. When it becomes necessary for an employee to lose time from their work because of such meetings, there shall be no deduction in pay for loss of time for their normal regular hours.
+(b)	Employees are paid for regular hours lost from work up to a maximum of eight hours per day for attendance at contract negotiations. The Union President is paid straight time for a maximum of four hours for time lost from work to attend a third step grievance meeting. Transportation and meal expenses of Union members will not be paid by the Company for their attendance at contract or grievance meetings. Meetings of Union nature are not compensable, i.e. preparation meetings for contract negotiations and grievances.
+Section 5.	Bulletin Boards.
+The Union shall have reasonable use of the Company bulletin boards for the purpose of posting notices pertaining to the Union and its members. The Union notices shall contain nothing which is political, controversial, or reflecting in a derogatory manner upon the Company, any of its employees, or any labor organization among its employees. All Union notices shall be signed by an official of the Union. Either the Union or the Company may remove from the bulletin boards any Union notice which does not comply with this provision.
+Section 6.	Provisions in Conflict with the Law.
+In the event that any provision of this Agreement shall conflict with any Federal or State law, order, directive, or regulation now or hereafter enacted or issued, such provision shall not remain operative or binding upon the parties, but the remaining portions of this Agreement shall remain in full force and effect.
+Section 7.	Employees Temporarily Loaned.
+Employees temporarily loaned by the Company to another company as employees of Wisconsin Public Service Corporation will be governed by the terms of this Agreement while on loan.
+October 18, 2009
+39
+Article XIX.	DURATION OF AGREEMENT
+Section 1.	Duration.
+The provisions of this Agreement supersede all previous Agreements by the parties hereto and shall be in effect through October 13, 2012, and from year to year thereafter unless written notice of termination or amendment or change in the terms thereof is given by either party to the other at least 60 days prior to any anniversary date of this Agreement. If at such time any changes or amendments are desired, such written notice shall contain a list of the changes or amendments proposed. Negotiations shall begin within ten days of receipt of notice unless otherwise agreed upon.
+Section 2.	Mediation, Arbitration, and Termination.
+(a)	If agreement cannot be reached on amendments to this Agreement, the parties are directed to promptly submit disputed amendment or amendments to a mediator of the Federal Mediation and Conciliation Service.
+(b)	If the mediator cannot secure agreement, the parties may by mutual consent submit the disputed amendments to arbitration in accordance with Article II, Section 2, of this Agreement. The matters which may be submitted to arbitration shall be limited to issues not settled at the time of arbitration and which were brought up in the original contract demands.
+(c)	If agreement cannot be reached on disputed amendments pursuant to action taken under paragraph (a), and if arbitration has not been had under paragraph (b), either party may, upon 60 days’ written notice to the other, terminate this Agreement.
+Section 3.	Reopeners.
+Should economic conditions warrant, either party may reopen this Agreement for negotiations by giving written notice to the other party. Negotiations shall begin within ten days of receipt of such notice unless otherwise mutually agreed upon. In cases of reopenings, all other provisions of this Agreement shall remain in effect as provided for in Section 1 of this Article.
+Section 4.	Bargaining Agent.
+If the Union at any time while this Agreement is in force ceases to be the certified and exclusive bargaining representative of all the employees covered by this Agreement, this Agreement shall automatically terminate at the next expiration date.
+October 18, 2009
+40
+In witness whereof the respective parties hereto have affixed their hands and seal by their fully authorized representatives.
+Signed this H day of, DcCCfYlbcK" 2009
+WISCONSIN PUBLIC SERVICE CORPORATION
+INTERNATIONAL UNION OF OPERATING ENGINEERS OF AFL-CIO LOCAL NO. 310
+Assistant Vice President - Client & Workfo Relations
+Steve McFarlane
+Business .Manager - Local 310
+BARGAINING COMMITTEE:
+Paul Beimborn - Local 310 Gary De Wolfe - WPSC Howard Giesler - WPSC Terry Jensky - WPSC Pat Kelly - Local 310 Mark Kopetzky - Local 310 Rick Krawze - Local 310
+Steve McFarlane - Local 310
+Barb Nick - WPSC
+Vern Peterson - WPSC
+Greg Smith - WSPC
+Greg Veith - Local 310
+Lori Wunsch - Local 310
+Roger Zimmerman - Local 310
+October 18, 2009
+41
+Attachment A - Commute Daily to Job Site
+Note: Daily commuting over 60 miles is not encouraged for health and safety reasons. Other than the first and last day of the job or workweek, commuting must be on personal time unless mutually agreed otherwise. When working beyond 60 miles from headquarters, if crews mutually agree to work four 10-hour days, overnight stay is required. Mileage is based on headquarters to job site.
+October 18, 2009
+42
+Attachment B - Overnight Stay Options
+October 18, 2009
+43
+Attachment C - Commute to Job Site with Overnight Stay
+Note: Daily commuting over 60 miles is not encouraged for health and safety reasons. Other than the first and last day of the job or workweek, commuting must be on personal time. When working beyond 60 miles from headquarters, if employees mutually agree to work four 10-hour days, expectations are that crews will stay overnight due to safety reasons. Mileage is based on headquarters to job site.
+October 18, 2009
+44
+Attachment D - Union Preference
+(Page 1 of 3)
+energizeywisconsin
+
+August 3, 1999
+Ms. Maureen Hoverson
+Chairperson
+Utility Workers Coalition
+1602 South Park Street, Room 226
+Madison, WI 53715
+Dear Ms. Hoverson:
+We have reviewed your July 22nd letter that summarizes the cooperative legislative effort of our companies and your organizations with regard to Reliability 2000. We also understand the clarification you are seeking to our tetter of April 8, which responded to your letter of March 17. Before addressing the specific requests in your lener, we wish to indicate our strong agreement that the cooperation and coordination between our companies and your organizations has been a model for approaching legislative issues in a manner that is most effective in reaching mutually agreed upon objectives. We would not have gotten as far as we have with this legislation - very close to success - were it not for our commitment to work together to focus upon common areas of agreement and to find constructive solutions for issues that may otherwise have been divisive. We also agree with your view on the importance of building on the basis of confidence and trust developed in this process to meet the legislative challenges that will likely occur in the future concerning our industry.
+With regard to your specific requests, we have restated the responses in our April S, 1999 letter to indicate clearly that organized labor will be given a preference for maintaining and operating energy asset facilities in Wisconsin for which our companies have a controlling interest. This revised response is attached.
+With regard to the successor language, our companies successfully supported incorporation of acceptable contract successor language in the Governor's bill. Further, upon enactment, we commit to formalizing these successor rights into contract provisions. We believe it appropriate, however, to leave to the individual unions and companies exactly how and when the contract language is incorporated into the various agreements, according to the specific contract amendment procedures in the individual labor agreements. Again, we wish to stress, however, that we are committed to this process.
+U	WISCONSINCgg —— — BEsSXT'7’'
+AUtANT (Ntacv.	—-----Ui.
+22 N. Carol! St.. Suite 200 -Madison. W 53701 • 603-258-8411 - FAX 608-258-1578
+October 18, 2009
+45
+Attachment D
+(Page 2 of 3)
+Ms. Maureen Hoverson
+Page 2
+August 3, 1999
+We hope this addresses your requests and removes any doubt concerning our honoring the commitments we made. We look forward to continuing to work together in this legislative effort, and to the greatest extent possible, in the future.
+Sincerely,
+Larry L. Weyers
+Chairman & CEO
+Wisconsin Public Service Corporation
+Richard A. Abdoo Chairman & CEO Wisconsin Energy
+President & CEO Alliant Energy
+October 18, 2009
+46
+Attachment D
+(Page 3 of 3)
+RESPONSE TO APRIL 22,1999 LETTER
+<Rcvised>
+1.	We maintain the position that elimination of the asset cap is critical to the long-term success of our companies, and we will work with our unions to assure that asset cap elimination does not negatively impact your members.
+2.	This proposal will not change the foreign corporation section of the law.
+3.	We will support adding the following language to the legislation:
+“The Public Service Commission of Wisconsin shall not approve a voluntary sale or transfer of energy asset facilities* unless the buyer assumes the existing labor agreement relating to operation of those facilities."
+4,	We accept removal of the study provisions.
+5.	Wc commit that when a company in which we have a controlling interest engages in a major energy asset facility construction project in Wisconsin, we will give preference in awarding project bids to union contractors.
+6.	A commitment that when a company for which we have a controlling interest is responsible for operating and maintaining a large energy asset facility in Wisconsin, we will give preference to union labor for the operation and maintenance.
+7.	We will work vigorously to comply with the requirements of Act 204.
+* “Energy asset facilities” are Wisconsin facilities owned by a Wisconsin investor-owned utility used in production, generation, transmission, or distribution of gas, electric, or steam energy.
+October 18, 2009
+47
+Attachment E - Successor Language
+“In the event of a sale, purchase, or any other transfer of ownership (hereinafter “Transaction”) of one or more divisions, departments, or business units, or any other assets (hereinafter “Unit”) of a public utility, holding company, or public utility-affiliate (hereinafter “Selling Entity”), the terms of the Transaction with the acquiring entity or person(s) shall require the entity or persons to offer employment to operate and maintain the Unit to all of the Selling Entity’s non-supervisory employees covered by this collective bargaining agreement employed at the time of the Transaction. The acquiring entity or person(s) must offer employment to the Unit’s non-supervisory employees covered by this collective bargaining agreement at no less than the wage rates and substantially equivalent fringe benefits and terms and conditions of employment (hereinafter “Employment Terms”) that are in effect at the time of the Transaction. The acquiring entity or person(s) shall maintain the Employment Terms during the 30 months following the Transaction (hereinafter “Transaction Period”) unless different terms and conditions of employment are collectively bargained.
+October 18, 2009
+48
+Attachment F - On Call Process
+(Page 1 of 4)
+Introduction
+This procedure incorporates the use of an “On Call” person. This procedure applies to the Electric Line, Gas Service, Gas Street and Gas Maintenance workgroups. Covered workgroups will incorporate the use of a pager/cell phone with a truck at home. The people in the work group would rotate to be the “On Call” person and all employees will participate. The “On Call” person must be available, accept the after hours calls, and have a truck at home for quick response. The other workgroup members on the call list have expectations of their acceptance of after hour’s calls as covered below. If workload dictates, there could be more than one “On Call” person at a location.
+Process Design
+1.	Method of Contact
+•	Each Site maintains their call list, including call list order. If the call list incorporates an “On Call” person, the “On Call” person is the top person on their workgroup’s call list.
+•	Grouped Sites have the option of which site is called first. Response Time data should be considered when making this choice.
+•	Pager/cell phone	means both devices	will be used. Employee call list	profiles should
+include all three	devices (cell phone,	pager, home phone). Employees	should arrange
+these devices in	the order that helps	facilitate reaching the employee	in the shortest
+amount of time.
+2.	Measurements
+•	Current measurement systems and future measurement systems will be utilized to collect response data.
+•	Data shall be collected on all calls (during regular hours as well as after-hours). All employees, no matter what position they are on the call list, shall collect the response data.
+•	Only data points in which an individual is called from home will be used to create the corporate average.
+3.	Response Expectations
+For reasons of public safety and customer service, WPS employees need to respond to afterhours calls within a reasonable amount of time. In order to meet these expectations of reasonable response, the “On Call” employees need to be able to respond to the local WPSC office or the center of customer base within 30 minutes from the location in which they are called or paged. Existing employees (as of the date of contract ratification) within the workgroups who presently cannot respond within 30 minutes because of the location of their residence will be exempt but can not increase their existing response time.
+October 18, 2009
+49
+Attachment F - On Call Process
+(Page 2 of 4)
+4.	Acceptance Expectations
+“ “On Call” Employee:
+-	Availability and acceptance of after hour calls is mandatory, except in extenuating circumstances.
+-	While on call, the employee is allowed the freedom to pursue their personal interest and business as long as they can meet reasonable expectations on response time and are fit for duty (see number 3 above).
+-	Trading or substituting of the employee’s position on call is acceptable if agreeable with the local work group (employees including leader). Working out trading is the responsibility of the employee and local management should be informed in advance of the trading. An employee can fulfill their responsibility for being on call if they can arrange an acceptable trade.
+• Other employees on the call list should accept a reasonable amount of after hour calls to be determined and addressed by the local work group (employees including leader). Factors that will be considered to evaluate reasonable acceptance are:
+-	at all times of the year (season)
+-	at all times of the day and days of the week (accepting calls only on Sunday or not taking them after 10 PM would be examples that are not reasonable)
+-	during all weather conditions (accepting calls only in good weather is not reasonable)
+-	for holidays or other special days (accepting only holiday calls or never accepting
+holiday calls is not reasonable)
+-	during varying times of the work day (taking calls only if they result in rest period is not reasonable)
+-	of all types of calls (cherry picking is not reasonable)
+•	Local work groups (employees including leader) pre-determine back filling processes for vacation, sick time, worked too many hours, etc.
+•	Local work groups (employees including leader) are responsible for managing the call list per a pre-determined process at that site.
+5. Tools Needed
+•	The local work group (employees including leader) should determine which truck meets the need to handle after hour trouble calls.
+•	Communication
+-	Cellular phones
+-	Pagers
+-	Local phone
+6.	Compensation - For compensation see Wage Schedule.
+October 18, 2009
+50
+Attachment F - On Call Process
+(Page 3 of 4)
+7.	Time Reporting
+•	Time reporting for the call out will begin when the employee K-8's from the truck or reports to the office.
+•	For the purpose of this agreement driving the Company vehicle from office to home and from home to office is not considered hours worked.
+•	Travel from home to a job site and travel from a job site to home is paid time.
+•	The hours “On Call” are those hours outside the forty hours of work scheduled for the
+individual employee.
+•	All payments will be considered as ordinary payments.
+•	All monetary amounts shall be adjusted annually by the agreed upon General Wage Increase (GWI) as per the provisions of Article VIII Section 2 of the Labor Agreement.
+•	The average of all data points in which an employee responds from home (combined Gas and Electric) in the DisCo will be used to determine if bonus payments should be paid.
+•	The data will be looked at on a contract year basis to determine the average corporate response time.
+8.	Personal use of Company Equipment
+Refer to Corporate procedure on WPSC PowerNet.
+Refer to draft policy dated 9/24/99 (Personal use of Company Vehicles or Motorized Equipment)
+9.	Other
+•	Employees will only be on one list as the “On Call” employee.
+•	As conditions change and data is gathered, there may be reason to change when and where this process is used. It may be necessary to make changes as the process is used and more is learned about the performance of the process, customer input, etc.
+•	If the workgroups cannot agree on solutions for issues within this process, management has the responsibility to move the process forward by contacting the process owner.
+•	Normally it is preferred that the “On Call” individuals not participate in planned overtime activities. However, the “On Call” individual may participate if they are readily available to respond to emergency calls and are working within 30 minutes of headquarters or the customer center of the site in which they are on call. Employees “On Call” working voluntary planned overtime are not eligible for Rest Period as outlined under the provisions of Article VIII, Section 10. Situations should be reviewed on a case by case basis.
+October 18, 2009
+51
+Attachment F - On Call Process
+(Page 4 of 4)
+TRUCK AT HOME
+October 18, 2009
+52
+A		Discipline	10
+		Double Time	16, 22
+Absence		Duration of Agreement	40
+Company Meetings	38		
+Company-Union Meetings	38	E	
+Funerals Injury Leave for Union Officers	13 35 5	Employment Management Functions Non-discrimination	8 8
+Leave of Absence Military Leave	31 33	Posting and Bidding for Job	8 Promotion Transfer and Demotion	9	
+Necessary Time Off Personal Time Off Return to Work Sickness	12 13 30 29	Qualifications Reposting Job Notice Temporary Employees Union Preference	8 9 9 8
+Union Business	5	Unsuccessful Bidders	8
+Applicants for Vacancies	8	Evening Shift	16
+Arbitration Procedure	6, 40	Existing Practices	34
+B		F	
+Bargaining Agent Benefit Plans	40 34	Functions of Management Funeral Leave	8 13
+Bidding for Jobs	8		
+Breaks	18	G	
+Bulletin Boards	39		
+Bumping	31	Grievance Procedure	6
+C		H	
+Call Outs		Harmony and Loyalty	7
+During Vacation	26	Hiring and Promotion	8
+Minimum Allowance	14	Holidays	
+On Call Process	49, 50	, 51, 52	Call Out on	29
+On Holiday	29	Employees Who Qualify	27
+Cancellation of Prepaid Undertime	30	Falling on Sunday	28
+Check-Off	5	Recognized Holidays	27
+Classification of Employees	22	Rotating Shift Workers	28
+Company Meetings	38	Work On	29
+Company-Union Meetings	38	Hours of Work	11
+Compliance with Law	39	I	
+Contracting of Work	35		
+Cooperation	7	Inclement Weather	15
+		Injuries	35
+D			
+Deferred Holidays	28	J	
+Demotion	9	Job Abandonment	9, 19, 31
+Dental Plan	34	Job Notices	8
+Discharge	10	No Notices	9
+October 18, 2009
+53
+Reposting	9	P	
+L		Personal Time Off - Wages During	13
+		Pickets	11
+Leaves		Posting and Bidding for Job	8
+Funeral	13	Practices	
+Leave of Absence	31	Existing	34
+Military	33	Study of	34
+Sickness	29	Probationary Period	10
+Union Offices Leaves & Lay Offs	5	Promotion	9
+Bumping	31	Q	
+Layoff, Severance & Recall Leave of Absence	31 31	Qualifications Hiring & Promotion	8
+Military Leave	33		
+Severance Pay	32	R	
+Loaned Employees	39		
+Lockout	11	Recognition of Union Relief	4
+M		Two-man Stations	12
+Management, Functions		Vacation	26
+		Relocation Wage	19
+Responsibilities Meals Mediation Medical Plan	8 18 40 34	Report No Work (Class C&D) Reposting Job Notice Rest Period	15 9 15
+Designated Providers Meetings	34	Retirement Plan	34
+Company	38	S	
+Company-Union	38		
+Military Leave	33	Selection for Promotion	9
+Minimum Allowance for Call Out	14	Seniority	
+		Arranging Vacation	25
+N		Leaves & Lay Offs	31
+Necessary Time Off		Promotion Shift Premium Pay	9 16
+Cancellation of Prepaid Undertime	30	Sick Leave	
+Wages During New Jobs - Wage Rates	12 12	Employees Who Qualify Extended Illness	29 30
+Night Shift	16	Make Up Hours	29
+O		Period Of Allowance	29
+		Returning to Work	30
+On Call Process	49, 50, 51, 52		Strike	11
+Overtime		Study of Practices	34
+Cancellation Pay	30	Successor Language	48
+Equalization of Scheduled	14	Sunday Premium Pay	13
+Obligation	14	Sunday Work	13
+Overtime	13	Suspension From Work	10
+October 18, 2009
+54
+T
+V
+Technical Trainees	10	Vacations	
+Temporary Employees		Arranging Vacation Period	25
+Classification of	22	Called Back to Work	26
+Not in Regular Full Time Union Positions		Cancellation of Prepaid Undertime	30
+	9	Employees Who Qualify	23
+Posting and Bidding for Jobs	8	Holiday Within	27
+Temporary Transfers	17	Leaving the Company	27
+Term of Agreement	4, 40	Maximum Vacation	23
+Termination	10	Not Taken	24
+Training	10	Relief	26
+Transferring Jobs	9	Scheduling	25
+TRIP		Sign Up	See
+Commute Daily to Job Site	42	Split Weeks or Days	25
+Commute to Job Site with Overnight Stay		Vacation Time	24
+	44	Weeks Defined	24
+Overnight Stay Options	43		
+Truck At Home	52	W	
+TT		Wages	
+U		Call Out and Minimum Allowances	14
+Undertime Cancellation	30	Necessary Time Off	12
+Union Business	5	Overtime	13
+Union Dues - Payroll Deductions	5	Personal Time Off	13
+Union Membership		Rates for New Jobs	12
+Condition of Employment	4	Reopener	40
+Initiation Fee	4	Shift Premium Pay	16
+Jurisdiction	4	Wage Schedule	12
+Withdrawal Card	4	Withdrawal Card	4
+Union Preference	8	Work Away From Headquarters	19
+Union Recognition	4	Work Schedule	11
+Union-Company Meetings	38	Working Hours	11
+October 18, 2009
+55
+WAGE SCHEDULES
+PART OF LABOR AGREEMENT
+BETWEEN
+WISCONSIN PUBLIC SERVICE CORPORATION
+AND
+LOCAL NO. 310
+INTERNATIONAL UNION OF OPERATING ENGINEERS
+AFL-CIO
+(See Article VIII, Section 2)
+Effective October 18, 2009 - October 13, 2012
+General wage increase of 2.0% effective October 18, 2009
+General wage increase of 2.5% effective October 17, 2010
+General wage increase of 3.0% effective October 16, 2011
+Employee Stock Ownership Plan (ESOP) Contribution - effective October 26, 2003
+All employees are eligible for the Quarterly ESOP Company contribution equivalent to 2% of gross earnings.
+Employee Stock Ownership (ESOP) Contribution - effective January 1, 2004
+Quarterly ESOP Company contribution equivalent to 1.7% of base earnings. As of October 17, 2010 the ESOP Company contribution of base earnings is increased .5%. As of October 16, 2011 the ESOP Company contribution of base earnings is increased an additional .5%. Employees hired after October 18, 2009 are not eligible for the original 1.7% ESOP Company contribution of base earnings, but are eligible for the October 17, 2010 and October 16, 2011 increases.
+Refer to the Wisconsin Public Service Corporation Employee Stock Owenship Plan and Trust Summary Plan Description for further details and explanations.
+October 18, 2009
+56
+WAGE SCHEDULES INTRODUCTION
+Occupational Groups (reference Article V, section 6)
+Occupational groups are separated by plant and/or site location. The numbering sequence used is for payroll purposes only and does not infer they are a single group for job bidding, lay-off, or the bumping provisions.
+Temporary Transfers (reference Article VIII, section 12)
+Job classifications for which temporary transfer payments can be made are identified in the Wage Schedule by an asterisk (*) following the title, with any conditions that are applicable for eligibility to the higher rated job shown as a footnote.
+The temporary transfer rate is established and applies to specific jobs as agreed to by the Company and the Union.
+The higher rate is not paid for non-productive time such as sick time, necessary time off, inclement weather, meetings, holiday allowance, rest period taken, jury duty, etc. - - or when the crew size is below the level required for temporary transfer pay.
+Pay Rate Calculations
+General increase percentages are applied to an hourly rate and rounded to two (2) places in the Payroll system and in the following Wage Schedules.
+Combination Jobs
+Wage rates for combination titled employees to be determined by:
+Actual time split will be used while employee is in progression and below the maximum wage rates of either title.
+Upon reaching the maximum wage levels, the composite rate will be determined using the following percentages of time in the higher-rated job:
+0-24% goes to 25% of the higher rate.
+25-49% goes to 50% of the higher rate.
+50-74% goes to 75% of the higher rate.
+75-100% goes to 100% of the higher rate.
+Primary job title reflects greatest percentage of time split for a combination job and is the determining factor for the occupational work group.
+Job bidding will be allowed into all work groups reflected in job title.
+*** Pay Rates listed are hourly rates, unless otherwise indicated.
+October 18, 2009
+57

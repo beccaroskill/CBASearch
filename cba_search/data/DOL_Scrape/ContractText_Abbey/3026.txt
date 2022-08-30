@@ -1,0 +1,854 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection
+Title: Kent County and International Union of United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), AFL-CIO, Local 2600 (2001)
+K#: 820256
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+The complete metadata for each collective bargaining agreement can be found at -
+http://digitalcommons.ilr.comell.edU/blscontracts/1/
+For a glossary of the elements see - http://digitalcommons.ilr.cornell.edU/blscontracts/2/
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+For more information aboUt the BLS Contract Collection, see http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+AGREEMENT
+between
+I 0//.1 /S'
+COUNTY OF KENT
+and
+UNITED AUTO WORKERS LOCAL 2600
+GENERAL UNIT
+Effective: January 1, 2001 - December 31, 2003
+
+INDEX
+Title	Section	Page
+Alternates	4.5	6
+ARBITRATION		9
+Arbitration Request	6.1	9
+Arbitrator’s Jurisdiction	6.4	9
+Bargaining Committee	4.2	4
+Bargaining Committee Lost Time	4.8	6
+Bargaining Unit Seniority	10.2	13
+Call Back Pay	9.4	12
+Captions	19.14	32
+Checkoff	2.2	3
+Chief Steward Consultation	5.4	7
+Chief Stewards	4.3	5
+Classification and Rates	16.1	25
+Collective Bargaining Unit	1.1	1
+Continuous Service	19.5	30
+Coordination of Benefits	14.5	23
+Counseling Memoranda	7.2	11
+Deferred Compensation	15.2	25
+Definition of Grievances	5.1	6
+Definitions	1.2	1
+Dental Benefit Plan	14.2	22
+Differentials	19.2	29
+DISCIPLINE AND DISCHARGE		10
+Discipline and Discharge	7.1	10
+Dual Employment	19.4	30
+DURATION		33
+Excluded Classifications	1.3	2
+Expedited Grievances	5.10	8
+Family and Medical Leave	11.9	18
+Funeral Leave	11,5	16
+Gender	19.16	32
+Grievance Form	5.8	8
+GRIEVANCE PROCEDURE		6
+Grievance Procedure	5.2	6
+Grievance Resolution	5.3	7
+Health Insurance	14.1	22
+Holiday During Vacation	13.5	21
+Holiday Eligibility	13.3	20
+Holiday Observance	13.4	21
+Holiday Work	13.6	21
+HOLIDAYS		20
+Holidays for Regular Part-Time Employees	13.2	20
+Hospitalized during Vacation	12.5	20
+HOURS OF WORK AND OVERTIME
+11
+INSURANCE
+22
+Joint Safety Committee	. _	19.10	31
+Jury Leave	11.7	17
+Labor-Management Meetings	19.17	32
+Last Chance Policy	19.9	30
+LAYOFF AND RECALL		27
+Layoff Procedure	18.1	27
+LEAVES OF ABSENCE		14
+Letters of Understanding	19.18	32
+Life Insurance	14.4	23
+Longevity Compensation	19.13	31
+Loss of Seniority	10.5	14
+Lost Time	5.9	8
+Medical Evidence	19.8	30
+Mileage	19.3	30
+Military Leave	11,6	17
+MISCELLANEOUS		29
+Modified Security	2.1	2
+Multi-Forum Waiver	6.5	10
+New or Reclassified Positions	16.2	26
+No Strike	8.1	11
+Notice of Representatives	4.6	6
+Overtime	9.2	12
+Overtime Premium Pay	9.3	12
+Parking	19.1	29
+Part-Time Employee Health Insurance	14.3	22
+Payment in Lieu of Hospitalization Insurance	14.8	23
+Payment of Compensatory Time	19.12	31
+Penalty	8.2	11
+Pension Plan	15.1	25
+Personal Leave	11.1	14
+Personal Time	13.7	21
+Pre-Arbitration Conference	6.2	9
+Premium Payments	14.6	23
+Probationary Employees	10.3	13
+Procedure for Requesting Leaves	11.2	15
+PROMOTIONS		27
+Promotions	17.1	27
+Purpose of Leaves	11.3	15
+Pyramiding	9.6	12
+RECOGNITION		1
+Recognized Holidays	13.1	20
+Retirees* Health Insurance	14.10	24
+RETIREMENT		25
+Retirement Bonus	19.7	30
+Review Committee	4.1	4
+Rights	3.1	3
+RIGHTS OF COUNTY
+3
+Rules and Regulations	19.11	31
+Savings Clause	19.15	32
+Scheduled Weekend Overtime	9.5	12
+Section 125 Plan	14.7	23
+Selection of Arbitrator	6.3	9
+SENIORITY		13
+Seniority Definition	10.1	13
+Seniority List	10.4	14
+Sick Leave	11.4	15
+Steward Reporting	5.7	8
+Stewards	4.4	5
+STRIKES AND ILLEGAL ACTIVITY		11
+Subcontracting	19.19	32
+Temporary Employees	19.6	30
+Termination	20.1	33
+Time Computation	5.6	8
+Time Limitation	5.5	7
+Transfer to a Non-Bargaining Unit Position	10.6	14
+UNION REPRESENTATION		4
+Union Representatives	4.7	6
+UNION SECURITY AND CHECKOFF		2
+Vacation Accrual	12.1	19
+Vacation Accumulation	12.6	20
+Vacation Pay	12.3	20
+Vacation Pay on Termination	12.4	20
+Vacation Schedule	12.2	19
+VACATIONS		19
+Vision Plan	14.9	24
+WAGES		25
+Waiver Clause	19.20	32
+Witness Leave	11.8	18
+Workers Compensation Supplement	11.10	18
+Workweek	9.1	11
+J
+AGREEMENT
+THIS AGREEMENT, made and entered this 1st day of January, 2001, at Kent County, Michigan by and between the COUNTY OF KENT, hereinafter called the “County” or “Employer” and LOCAL 2600 UAW and INTERNATIONAL UNION, UNITED AUTOMOBILE, AEROSPACE, AGRICULTURAL IMPLEMENT WORKERS OF AMERICA (UAW) together hereinafter called the “Union”.
+PREAMBLE
+The County and the Union recognize that the efficient administration of the County Government and the well-being of the employees require that orderly and constructive relationships be maintained between the parties hereto; and
+Subject to law, and the paramount requirements of public service, employeremployee relationships should be improved by providing employees an opportunity for greater participation in the formulation and implementation of policies affecting the conditions of their employment; and
+Effective employer-employee cooperation in serving the public requires a clear statement of the respective rights and obligations of the County and the Union.
+The parties agree to the following:
+RECOGNITION
+Section 1.1.	Collective Bargaining Unit. The County hereby agrees to recognize the Union as the exclusive collective bargaining representative, as defined in Act No. 336, State of Michigan Public Acts of 1947, as amended, for all employees employed by the County in the following-described unit for the purposes of collective bargaining with respect to rates of pay, wages, hours of employment and other conditions of employment:
+Unit I
+All full-time and regular part-time employees employed by the County of Kent, but excluding: (a) any person who is an elected official directly responsible to the electorate of the County; (b) all Management Pay Plan employees; (c) all employees who are part of a collective bargaining unit represented by another collective bargaining agent; (d) all employees in the UAW Units II, III and IV; and (e) all temporary and irregular part-time employees.
+Section 1.2.	Definitions. The terms “employee” and “employees” when used in this Agreement shall refer to and include only those full-time employees and regular part-time employees who are employed by the County in the collective bargaining unit described herein. For purposes of this Agreement, the following definitions shall be applicable:
+1
+(a)	Full-Time Employee: A full-time employee is an employee who is working the official workweek on a regular schedule in a position classified by the County.
+(b)	Regular Part-Time Employee: A regular part-time employee is an employee who
+is working on a regular schedule but who is working less than the full-time requirements of the position. In order to be eligible for benefits provided for regular part-time employees by this Agreement, other than accrual of sick leave and vacation, a regular part-time employee must be regularly scheduled to work	.
+forty (40) or more hours in a pay period.
+■ • '1
+(c)	Irregular Employee: An irregular employee is an employee who is working on any other basis, including seasonal or temporary; or an individual working under contract and who is not included within the above definitions of full-time employee or regular part-time employee.
+(d)	Supervisor: A supervisory employee is any person with the authority to hire, transfer, layoff, discharge, promote or effectively discipline other employees, or who has the responsibility to direct other employees or effectively recommend any such action if, in connection with the foregoing, the exercise of such authority or responsibility is not a mere routine or clerical act but requires the use of independent judgment and skill.
+Section 1.3. Excluded Classifications. Attached to and made part of this Agreement is Appendix C, a schedule of the MPP classifications excluded from the collective bargaining agreement as of the date this Agreement is executed.
+UNION SECURITY AND CHECKOFF
+Section 2.1.	Modified Security.
+(a)	All employees who are subject to this Agreement and who are members of the Union shall, as a condition of continued employment, either (1) remain members in good standing for the duration of this Agreement, or (2) pay to the Union a service fee in an amount determined by the Union to reflect its costs in negotiation and administration of the Collective Bargaining Agreement. Such service fee shall not exceed the membership dues and assessments uniformly levied upon all union members in good standing.
+(b)	All new employees, commencing the month following the completion of one (1) full month of employment, shall, as a condition of continued employment, either	i
+(1)	become and remain a member in good standing in the Union for the duration of this Agreement, or (2) pay to the Union a service fee as provided in subsection (a) of this	„
+Section.
+2
+Section 2.2.	Checkoff.
+(a)	During the life of this Agreement and to the extent permitted by the law of the applicable jurisdiction, the County agrees to deduct initiation fees and on a monthly basis Union membership dues and assessments uniformly levied in accordance with the Constitution and Bylaws of the Union from the pay of each employee within the bargaining unit who is required under this Agreement to maintain membership in or to pay a service fee to the Union.
+(b)	Union membership dues shall not be deducted when an employee’s net earnings are not sufficient to cover the amount required. Union dues and assessments shall be remitted directly to the Union by an employee for any monthly period that the employee’s net earnings are insufficient to cover the amounts required.
+(c)	The County shall forward to the Treasurer of the Union, within ten (10) days following deduction, a sum equal to the total deductions for the Union membership dues.
+(d)	The Union shall notify the County, in writing, of the proper amount of Union membership dues and any subsequent changes in such amounts.
+(e)	In cases where a deduction is made which duplicates a payment already made to the Union by an employee, or where a deduction is not in conformity with the provisions of the Union Constitution and Bylaws, refunds to the employee will be made by the Union.
+(f)	The County shall not be liable to the Union by reason of the requirements of this Section of the Agreement for the remittance or payment of any sum other than that constituting actual deductions made from employee’s wages. The Union agrees to indemnify and hold the Employer harmless for all claims against the Employer in connection with the checkoff of Union initiation fees, membership dues, service fees and assessments.
+RIGHTS OF COUNTY
+Section 3.1. Rights. It is understood and hereby agreed that the County reserves and reta;ru, solely and exclusively, all of its inherent and customary rights, powers, functions and authority of management to manage the County’s operations, and its judgment in these respects shall not be subject to challenge. These rights vested in the County include, but are not limited to, those provided by statute or law along with the right to direct, hire, promote, transfer, assign and retain employees in positions within the County. Further, to suspend, demote, discharge for just cause, or take such other disciplinary action which is necessary to maintain the efficient administration of the County. It is also agreed that the County has the right to determine the method, means and personnel, employees or otherwise (subcontracting subject to the provisions of Section 19.19), by which the business of the County shall be conducted and to take whatever action is necessary to carry out the duty and obligations of the County to the
+3
+taxpayers thereof. The County shall also have the power to make rules and regulations relating to personnel policies, procedures and working conditions not inconsistent with the express terms of this Agreement.
+UNION REPRESENTATION
+Section 4.1.	Review Committee
+(a)	The County and the Union agree to recognize a Review Committee composed of the Human Resources Director and/or his duly recognized representatives and the Unit Chairpersons from the general unit and the court units.
+(b)	The Review Committee shall have the following duties and responsibilities:
+(1)	To meet on a scheduled bi-weekly basis or at such other times as are mutually agreed upon between the parties for the purpose of resolving grievances or to discuss other matters of mutual concern.
+(2)	The Chairmanship of the Committee will alternate between the parties at every other meeting.
+(3)	The Committee or its representatives will be responsible for notification of appropriate Department Directors and/or Supervisors relative to the attendance of employee members of the Committee and any other employee upon whom the parties hereto mutually agree that his presence is necessary to their deliberations.
+_ (4) The Committee shall keep accurate summary minutes of its meetings.
+Section 4.2.	Bargaining Committee. The Employer hereby recognizes a Bargaining Committee whose duty and function is to meet with Employer representatives for the purpose of collective bargaining negotiations as follows:
+(a)	Consolidated Units I - IV Negotiations. The Employer agrees to recognize a combined bargaining committee when consolidated negotiations of all Union units are conducted, composed of ten (10) employees. Such committee shall include the President of the Local Union (but only if an employee), the Unit Chairpersons, all chief stewards, and three (3) other employees all of whom shall have been a full-time employee for at least one year.
+(b)	Separate Courts & County Unit Negotiations. All Chief Stewards from the units concerned. When all of the Court units are combined for negotiations, the Union may elect or appoint one additional employee from each of the units. When each Court unit negotiates with the Employer individually, the unit may elect or appoint two additional employees from that unit. All employees elected or appointed shall be full-time employees with a minimum of one year of seniority.
+4
+Section 4.3.	Chief Stewards. The County agrees to recognize the following chief stewards for each of the areas listed below. The unit chairperson shall be selected by the Union from among the chief stewards.
+Number of Stewards
+I steward
+1 steward
+3 stewards
+2 stewards
+1 steward
+1 steward
+1 steward
+1 steward
+1)	Health Department - Animal Shelter
+2)	Community Mental Health, Community Development, Cooperative Extension
+3)	Sheriff’s Department, Fleet Services, Department of Public Works, Drain Commission, and Zoo
+4)	Airport
+5)	County Administration Building, Hall of Justice (Prosecutor’s Office), and Family Independence Agency Building
+6)	17th Judicial Circuit Court, Family Court (Juvenile Court, Juvenile Detention, Friend of the Court, Probate Court), and 63rd District Court
+Section 4.4.	Stewards. The Employer agrees to recognize the following stewards as indicated for each of the grotips listed below. Each steward shall be a full-time employee with a minimum of one year of seniority. A steward shall act in a representative capacity for the purpose of processing and investigating grievances for the employees in his group and shall have no authority to act in such capacity outside of his designated area:
+STEWARDS
+(a)	Area of Responsibility
+Community Mental Health, Cornerstone, Cooperative
+Extension Service, Housing and Community Development
+Airport
+Health Department & Animal Shelter
+(2 from Health Department and 1 from the Animal Shelter)
+Sheriff’s Department - Fleet Services
+Department of Public Works & Drain Commission
+County Administration Building, Hall of Justice, Family Independence Agency, 82 Ionia (Non-Courts)
+Zoo
+Courts:
+Circuit Court, Court Clerks, Court Services - Downtown
+5
+Friend of the Court	1 steward
+Family Court (Cedar Street), Probate Court	1 steward
+Juvenile Detention	2 stewards
+(I steward 1st shift and 1 steward 2nd & 3rd shift combined)
+63rd District Court lsl Division	1 steward
+63rd District Court 2nd Division	1 steward
+(b)	During the term of this Agreement, if the Union can demonstrate the need for additional representation, the County agrees to negotiate additional stewards. During the term of this Agreement, if the County can demonstrate the need for a reduction in representation, the Union agrees to negotiate a reduction of stewards.
+Section 4.5.	Alternates. The Union shall select alternate committee members and stewards who shall function solely in the absence of their regular Union representative.
+Section 4.6.	Notice of Representatives. The Union agrees to furnish the County a current roster listing the names of its officers, committee members, stewards and alternates.
+Such representatives shall not be recognized under the terms of this Agreement until such written notice is received by the County.
+Section 4.7.	Union Representatives. Any representative of the International UAW Union may be present at any meetings between the parties.
+Section 4.8.	Bargaining Committee Lost Time. Employee members of the bargaining committee shall be paid by the Employer for time spent in negotiations but only for the straight-time hours they would have otherwise worked on their regular work schedule.
+GRIEVANCE PROCEDURE
+Section 5.1.	Definition of Grievances. A grievance shall be a written complaint by an employee or the Union concerning the application and interpretation of this Agreement.
+Section 5.2.	Grievance Procedure. All grievances shall be processed in the following manner:
+Step 1. Verbal Procedure.
+An employee with a complaint shall discuss the matter with his immediate supervisor or appropriate management personnel within five (5) days after the occurrence or knowledge of the occurrence of the events giving rise to the
+6
+complaint. At the request of the employee, the employee may have his steward present in order to participate in the informal discussion. Every effort shall be made to settle the grievance in this manner.
+Step 2. Written Procedure.
+If the complaint is not satisfactorily resolved in the Verbal Procedure, the complaint shall be reduced to a written grievance and presented to the Department Director or the highest ranking supervisor in charge of the employee within ten (10) days following the Step 1 discussion. The written grievance shall set forth the facts, the specific provision or provisions of this Agreement which are alleged to have been violated, and the relief requested. The written grievance shall be signed by the aggrieved employee and his steward or the Chief Steward for the appropriate area. The Department Director or supervisor, steward and grievant shall discuss the grievance within ten (10) days following receipt of grievance. A representative from Human Resources and the Chief Steward may be present. The Department Director or supervisor shall give a written answer to the grievance to the grievant within ten (10) days after the Step 2 meeting. A copy of the written grievance and answer shall be mailed or delivered to the grievance chairperson and the Human Resources Director for informational purposes.
+Step 3. Review Committee Appeal.
+If the grievance is not satisfactorily settled in Step 2, the steward may appeal the Step 2 decision by submitting the grievance together with the reason for the appeal to the Human Resources Director within five (5) days following receipt of the Employer representative’s answer in Step 2. The grievance shall be placed on the agenda for discussion between the Review Committee and County representatives at its next scheduled meeting. The County shall submit its final written answer to the grievance to the Unit Chairperson within fourteen (14) days following the meeting where the grievance was discussed.
+Section 5.3.	Grievance Resolution. If the Human Resources Director disagrees with the settlement reached at Step 1 or 2, he shall notify the appropriate Unit Chairperson and place that grievance on the agenda for the next Review Committee Meeting.
+Section 5.4.	Chief Steward Consultation. A steward has the right to confer with his Chief Steward prior to his meeting with management personnel in Step 2. Such consultation that occurs during the normal business day shall be conducted so that unreasonable interference of the normal duties of the employee involved will not occur. A Chief Steward shall act as a steward for all personal grievances of the stewards in his designated area. A Chief Steward shall act as a steward in the absence of both the regular department stewards and alternates.
+Section 5.5.	Time Limitation. The time limits established in the Grievance Procedure shall be followed by the parties hereto. If the time procedure is not followed by the
+7
+Union, the grievance shall be considered settled in accordance with the last disposition. If the time procedure is not followed by the County, the grievance shall automatically advance to the next step, but excluding arbitration. The time limits established in the Grievance Procedure may be extended by mutual agreement, provided it is reduced to writing and the period of extension is specified.
+Section 5.6.	Time Computation. Saturday, Sunday and holidays recognized by this Agreement shall not be counted under the time procedure established in the Grievance Procedure.
+Section 5.7.	Steward Reporting. When it is necessary for a Union Chief Steward/ steward to leave his work to handle a grievance in accordance with the Grievance Procedure established in this Agreement, such Chief Steward/steward shall notify his immediate supervisor and/or designee. He shall return to his job as promptly as possible and upon returning, he shall immediately report to his supervisor and/or designee. If it is impossible for a Chief Steward/steward to be relieved of his duty upon request, he shall be excused at the earliest possible time after proper arrangements have been made. When it is necessary for a Chief Steward/steward to go into a department to process a grievance, the Chief Steward/steward shall advise the Department Director and/or designee of his appearance in the department.
+Section 5.8.	Grievance Form. The grievance form shall be mutually agreed upon.
+Section 5.9.	Lost Time. The County agrees to pay for all reasonable time lost by an employee, including Union officers and stewards, during regular scheduled working hours while processing a grievance or in attendance at an arbitration hearing, provided, however, this benefit may be revoked if it is being abused. Revocation shall not occur, however, until after the County has notified the Union of the abuse and, after discussion between the Union and the County, the abuse has not been corrected within a designated period of time.
+Section 5.10.	Expedited Grievances.
+(a)	Class Action Grievances. The Unit Chairperson or President may file a class action grievance if the matter concerns the entire bargaining unit. Any class action grievance must be filed with the Human Resources Director (with a copy to the Department Director) at Step 3 of the Grievance Procedure within fifteen (15) days after the occurrence or the Union’s knowledge of the occurrence of the events giving rise to the grievance.
+(b)	Policy Grievances. A policy grievance is a grievance which concerns the employees of a particular department or division of a department. A policy grievance must be filed by the Unit Chairperson with the Department Director or designee (with a copy to the Human Resources Director) at Step 2 of the Grievance Procedure within fifteen (15) days after the occurrence of the Union’s knowledge of the occurrence of the events giving rise to the grievance.
+8
+(c)	Discharge Grievances. Should an employee who has been discharged consider such discharge to be improper, any grievance must be processed initially at Step 3 of the Grievance Procedure within ten (10) days of the date of the discharge by filing a written grievance with the Human Resources Director with a copy to the Department Director.
+ARBITRATION
+Section 6.1.	Arbitration Request. The Union may request arbitration only during the tenn of this Agreement, or any extensions thereof, of any unresolved grievance, which is arbitrable, by filing an Arbitration Request Form with the Federal Mediation and Conciliation Service and delivering a copy to the Human Resources Director within thirty (30) calendar days following receipt of the Employer’s answer in Step 3 of the grievance procedure. If the Employer fails to answer the grievance within the time limits set forth in Step 3, the Union, if it desires to seek arbitration, may file an Arbitration Request Form with the Federal Mediation and Conciliation Service, with a copy to the Human Resources Director, at any time after the Step 3 answer would have otherwise been due. By mutual agreement, the thirty (30) day time limit may be extended in writing, provided the length of the extension period is specified. If arbitration is not sought within the thirty (30) day period specified in this Section, or any extension thereof, the grievance shall be considered settled on the basis of the Employer’s Step 3 answer.
+Section 6.2.	Pre-Arbitration Conference. After receipt of the arbitration notice, the grievance shall be docketed for review at a pre-arbitration conference, which shall be . scheduled by mutual agreement within thirty (30) days. The pre-arbitration conference shall be attended by the Human Resources Director, the President or Grievance
+' Chairperson of the Union and the parties’ respective counsels and such other persons as the parties may agree are necessary.
+Section 6.3.	Selection of Arbitrator. Upon the filing of a timely request for arbitration with the Employer and after the pre-arbitration conference, the parties shall mutually agree upon an arbitrator. If no agreement is reached within ten (10) days, the arbitrator shall be selected from a panel of arbitrators submitted by the Federal Mediation and Conciliation Service. Each party will alternately strike a name from the panel and the remaining name shall serve as the arbitrator. The Union shall strike the first name from the list.
+Section 6.4.	Arbitrator’s Jurisdiction. The arbitrator’s powers shall be limited to the application and interpretation of this Agreement as written. He shall be at all times wholly governed by the terms of this Agreement, and he shall have no power or authority to amend, alter or modify this Agreement in any respect. The Union acknowledges that the Employer retains all rights not otherwise abrogated under the express terms of this Agreement, as generalized in Section 3.1 hereof. The arbitrator shall have no authority to rule upon job descriptions, work assignments (not reclassification), work standards or personnel requirements. If the issue of arbitrability is raised, the arbitrator shall only decide the merits of the grievance if arbitrability is affirmatively decided. Any reward of
+9
+the arbitrator shall not be retroactive more than fifteen (15) days prior to the time that the grievance was first submitted in writing; provided, however, that in situations where the events causing the grievance were unknown to the grievant, if appropriate, the award may be retroactive not more than sixty (60) days prior to the time the grievance was first submitted in writing. The arbitrator shall have no authority to award interest on monetary awards. The arbitrator’s decision shall be final and binding on the Union, the County and its employees, provided, however, either party retains all legal rights to challenge arbitration and decisions thereof where the award was procured by fraud or undue means, or where the arbitrator was guilty of misconduct or exceeded his powers or jurisdiction. Nothing herein shall be construed as limiting either party from challenging the decision of the arbitrator as to arbitrability of an issue. The fees and expenses of the arbitrator shall be shared equally by the Union and the County.
+Section 6.5.	Multi-Forum Waiver. The Union and the employee involved hereby waive the right to arbitration in this Agreement if the employee challenges the Employer’s action under the provisions of any Veteran’s Preference legislation. If arbitration is elected, the employee hereby waives any statutory right that may be provided under such legislation.
+DISCIPLINE AND DISCHARGE
+Section 7.1.	Discipline and Discharge.
+(a)	The parties agree that the standards of just cause for imposition of discharge or disciplinary suspension are not the same as the standards required by law arising out of the alleged commission of crimes. Therefore, any discharge or disciplinary suspension shall be based upon the standards of just cause, independent of the issuance of or the lack thereof of a criminal complaint. The Union acknowledges that the Employer may temporarily transfer an employee or change his work duties, without loss of pay or benefits, pending investigation of alleged misconduct, whether there are criminal allegations or not, if in the Employer's opinion, such action is warranted due to the public duties or interest involved. Furthermore, the Union acknowledges that the Employer has the right to suspend an employee, with or without pay, pending an investigation. If the investigation reveals no misconduct resulting in disciplinary action, the employee shall be made whole.
+(b)	For informational purposes, the Employer agrees to mail during the normal course of business to the Union’s Unit Chairperson and Union office notice of all discharges or disciplinary suspensions.
+(c)	Discipline will be of a corrective nature except nothing shall prevent the Employer from taking immediate and appropriate disciplinary action including discharge should it be required by the circumstances.
+(d)	Disciplinary action will be taken for just cause. In the event that disciplinary action results in loss of pay or discharge, the employee will be informed of his right to be
+10
+represented by his steward at the time the disciplinary action is imposed. All disciplinary action, other than oral reprimands, are to be in writing stating the reasons for such action and provided to the employee.
+(e)	If an employee’s work record is free of discipline for a period of two (2) years, the Employer will not take into account any prior infractions more than two (2) years old in imposing discipline. In the event an employee is free of discipline for a period of two (2) years, the employee may request in writing of the Human Resources Director that all prior disciplinary action be removed from his/her personnel file and placed into the employee’s confidential file.
+Section 7.2.	Counseling Memoranda. Counseling memoranda may be utilized by the Employer to communicate performance deficiencies to employees. Counseling memoranda shall not be construed as disciplinary action and shall not be subject to the arbitration procedure set forth in this Agreement. An employee may, however, request that the counseling memoranda be processed through Step 2 of the Grievance Procedure.
+STRIKES AND ILLEGAL ACTIVITY
+Section 8.1.	No Strike. During the term of this Agreement or any extensions thereof, neither the Union nor any employee shall, either directly or indirectly, cause, attempt to cause, or participate in any strike of any sort whatsoever, either complete or partial, against the County; or engage in, either directly or indirectly, any complete or partial stoppage of work, walkout, slowdown, or refusal to do reasonably assigned work or interfere in any manner with any of the normal operations of the County or in any conduct which causes or results in such interference.
+Section 8.2.	Penalty. Any employee who engages in any activity prohibited by Section 8.1 shall be subject to such disciplinary action as the County deems appropriate, up to and including discharge. The Union acknowledges that discharge is an appropriate penalty for the violation of Section 8.1.
+HOURS OF WORK AND OVERTIME
+Section 9,1.	Workweek. The normal workweek of County employees shall be forty (40) hours per week, not including meal periods, unless regularly scheduled otherwise.
+Definition: Normal work week. A normal work week for regular full-time employees shall consist of forty (40) hours, not including meal periods.
+Normal work day. A normal work day for such employees shall be eight (8) hours, not including meal periods, unless regularly scheduled otherwise.
+11
+Section 9.2.	Overtime.
+(a)	All employees shall be expected to work reasonable amounts of overtime upon request. Overtime, other than of an emergency nature, must have the prior approval of an employer management representative.
+(b)	Whenever possible, an employee shall be notified at least one (1) hour before the end of his shift of the necessity to work beyond the end of his regularly scheduled shift.
+(c)	Absent an emergency situation or act of God, no employee shall be required to work more than sixteen (16) hours in a twenty-four hour period or more than thirty two (32) hours of overtime in any one workweek.
+(d)	The parties agree with the principal of overtime rotation. The departments and department divisions where overtime rotation is applied are set forth in Letters of Understanding attached to this Agreement or as may be entered into during the term of this Agreement.
+Section 9.3.	Overtime Premium Pay.
+(a)	Time and one-half (1 ‘A) the employee’s regular straight time rate shall be paid for all hours worked in excess of forty (40) hours in any one workweek.
+(b)	Paid time off for the following reasons shall be counted as hours worked for the purpose of computing an employee’s overtime work: holidays, vacation days, personal leave days, funeral leave, witness leave,jury duty leave, doctor/dental time and compensatory time.
+Section 9.4.	Call Back Pay. A full-time employee who is called back to work at hours between the end and start of his scheduled shift shall be guaranteed two (2) hours of work or equivalent pay at time and one-half (1 ¥z) and additional time beyond the two hours will be paid at time and one-half. It is understood that in such event the Employer is not obligated to provide more than eight (8) hours of work. Overtime that is scheduled contiguous with the beginning or ending of the employee’s regular shift or on days off shall be paid at time and one-half (1 !4) for such hours worked provided the employee has worked forty (40) hours within the workweek. Overtime is scheduled if the employee has notice of such overtime prior to the end of the employee’s shift.
+Section 9.5.	Scheduled Weekend Overtime. A full-time employee who is scheduled to work overtime on the weekend shall be guaranteed four (4) hours of work or equivalent pay at time and one-half (1 '/J his regular straight time rate of pay.
+Section 9.6.	Pyramiding. There shall be no pyramiding of overtime premium payment for weekly overtime hours, holidays, weekend overtime and call-back pay.
+12
+SENIORITY
+Section 10.1.	Seniority Definition. Seniority shall be defined to mean the length of the employee’s continuous service with the County commencing from his last date of hire. Continuous service is defined as that time actually spent on the active payroll of the County plus approved leaves of absence periods, unless otherwise provided in this Agreement. The application of seniority shall be limited to the preferences and benefits specifically recited in this Agreement. Employees who are hired on the same date shall be placed on the seniority list in alphabetical order of surnames. Continuous service at any facility or operation taken over by the County shall be considered as continuous service with the County as determined by this Agreement.
+Section 10.2.	Bargaining Unit Seniority. Bargaining unit seniority shall be defined as the length of continuous service within the bargaining units (Units I, II, III and IV). An employee who was a member of any of the recognized UAW bargaining units as of the date this Agreement is entered into shall be deemed to have bargaining unit seniority equal to their seniority as defined in Section 10.1.
+Section 10.3.	Probationary Employees.
+(a)	All employees shall be on probation until they have completed six (6) months of employment. During this probationary period an employee may be discharged or terminated without recourse and without regard to this Agreement. The parties may agree to extend the probationary period of any employee. Such extension must be in writing, specify the length of extension and be signed by both parties.
+In order to receive full or prorated benefits as specified throughout this Agreement, an employee must complete 1040 hours of work in order to qualify.
+(b)	Job Probation. An employee who is transferred or promoted to another classification within the same bargaining unit shall be on a job probation for the first six (6) months during which time an employee may disqualify himself/herself or be disqualified by the Employer, in which case he/she shall return to his/her former classification. Other affected employees shall also return to their previous classification. An employee who is transferred or promoted to another classification in one of the other units represented by UAW Local 2600 shall have benefits and seniority transferred but if disqualified shall not have return rights to his/her former classification. In the event an employee is transferred or promoted to a classification outside the bargaining units represented by UAW Local 2600, the employee’s seniority is subject to the provisions of Section 10.5 and if the employee is disqualified he/she shall not have any return rights to his/her former classification. For the purpose of benefits predicated on length of service, the employee’s continuous service date shall not change in the event of transfer or promotion to any position.
+13
+(c)	An employee on job probation may apply for vacant positions.
+Section 10.4.	Seniority List. The County shall prepare a position control/seniority list and submit said list to the Union quarterly not later than May 1, August 1, November 1, and February 1 respectively. The position control/seniority list shall include the employee's name, continuous service date, anniversary date, classification title, compensation range and step. The Employer may rely upon the seniority list as furnished to the Union unless the Union responds otherwise within five (5) days after its receipt.
+Section 10,5.	Loss of Seniority. Seniority shall be lost and the employment relationship shall end under the following conditions:
+(a)	By quit or discharge.
+(b)	Absence from work for three (3) consecutive working days unless otherwise excused.
+(c)	Failure to return to work upon recall from a layoff.
+(d)	Failure to return to work at the expiration of a leave of absence, unless otherwise excused.
+(e)	Lay-off for more than twenty-four (24) months or length of the employee’s seniority, whichever is less.
+(f)	Retirement under the Employer’s retirement plan.
+Section 10.6.	Transfer to a Non-Bargaining Unit Position. An employee who is transferred or promoted to a position outside any of the bargaining units represented by the UAW (I, II, III, IV) shall not accumulate bargaining unit seniority. After the employee has spent six (6) months in the new position, the employee shall lose all bargaining unit seniority.
+LEAVES OF ABSENCE
+Section 11.1. Personal Leave.
+(a)	Personal Leave Without Pay. Employees may be granted a personal leave of absence without pay upon approval. Requests for personal leave of absence shall be in writing and shall be signed by the employee and given to the Department Director. Such request shall state the reasons for the leave. Approval shall be in writing by the employee’s Department Director and the Human Resources Director.
+(b)	Personal Leave With Pay. Personal leaves of absence may be granted with pay upon approval of the Finance and Physical Resources Committee.
+14
+(c)	Union Leave Without Pay. The County may grant up to five (5) consecutive days’ leave of absence without pay to any member of the Executive Board, Chief Stewards, Stewards and Committee persons, to attend Union functions or seminars, provided, however, that reasonable advance notice is given and that such leave does not interfere with the personnel requirements of the department. Seniority and all fringe benefits shall continue during such leave.
+Section 11.2. Procedure for Requesting Leaves. Requests for a leave must be submitted in writing by the employee to his Department Director at least twenty (20) days in advance of the date the leave is to commence, except in emergency situations. The request for the leave shall state the reason for the leave and the exact dates on which the leave is to begin and end. Approval or denial of the leave of absence shall be furnished in writing to the employee by the Department Director within ten (10) days after the request for a leave of absence is received by the Department Director. Any request for an extension of a leave of absence must be submitted in writing to the Department Director at least ten (10) days in advance of the expiration date of the original leave, stating the reasons for the extension request and the exact revised date the employee is expected to return to work. Approval or denial of the extension request shall be furnished in writing to the employee.
+Section 11.3. Purpose of Leaves. It is understood by the parties that leaves of absence are to be used for the purpose intended, and employees shall make their intent known when applying for such leaves. There shall be no duplication or pyramiding of leave benefits or types of absence. Employees shall not accept employment while on a leave of absence unless agreed to by their Department Director. Acceptance of employment or working for another employer while on a leave of absence shall result in the immediate termination of employment with the Employer. All leaves of absence shall be without pay unless specifically provided to the contrary by a provision of the leave Section involved.
+Section 11.4. Sick Leave. It is agreed that employees shall earn and be granted sick leave in accordance with the following schedule:	'
+(a)	No sick leave payment will be made to a newly hired employee during the probationary period, nor to a terminating or retiring employee after the last day worked.
+(b)	Full-time and regular part-time employees shall earn and accrue sick leave at the rate of eight (8) hours sick leave for each one hundred seventy-three (173) straight time hours worked. For purposes of this Section, straight time hours worked shall include paid time but un worked holidays, vacations, paid sick leave and County paid leaves of absence.
+(c)	In no event shall accumulated earned sick leave exceed 1440 hours.
+15
+(d)	An employee may utilize paid sick leave when it is established to the Employer’s satisfaction that an employee is incapacitated for the safe performance of his duties because of illness or injury.
+(e)	An employee may use paid sick leave when there is a medical emergency in the employee’s immediate family (spouse, child or parent). The Human Resources Director must approve such usage.
+(f)	A full-time employee shall be allowed up to 10 hours each year, not charged against sick leave, for doctor and dental appointments. Time spent at doctor and dental appointments in excess of the 10 hours provided herein shall be deducted from the employee’s sick leave. The employee must submit a signed verification from the doctor/dentist substantiating the appointment.
+(g)	No sick leave shall be granted for minor ailments which would not affect the safety of the employee, or of other persons, or of property, while performing job duties.
+(h)	Medical certification will generally not be required to substantiate sick leave of absence of three (3) consecutive working days or less; however, medical certificates, or, in lieu thereof, a signed written statement from the employee setting forth the reasons for the sick leave, may be required at the discretion of the County for each absence regardless of duration if the County has reason to believe the employee is abusing his sick leave privileges. Falsification of the medical certificate or falsely setting forth the reasons for the absence shall constitute just cause for dismissal. For clarification purposes, this subsection is interpreted as giving the Employer discretion of medical or written statement, and that, in the event an employee is ready for work, he may not be prevented from working until he obtains the medical statement verifying his illness.
+(i)	Before an employee absent from his duties for twelve (12) consecutive days returns, he shall satisfy the County that he is fit to again perform his duties.
+(j)	Any unused and accumulated sick leave earned during full time employment shall be available for use by the employee if the employee transfers to a regular part time position.
+Section 11.5. Funeral Leave. An employee shall be granted a leave of absence to attend the funeral when a death occurs in the employee’s immediate family according to the following schedule:
+(a)	Spouse, children, father, mother, sister, brother: five (5) consecutive days.
+(b)	Father-in-law, mother-in-law, sister-in-law, brother-in-law, step-parent, step-child, grandparents, grandchildren: three (3) consecutive days.
+(c)	Aunts, uncles, step-brother, step-sister: one (1) day.
+16
+Leaves granted under this Section shall include the date of the funeral.
+An employee who loses work from his regularly scheduled hours shall receive his regular straight time rate of pay, exclusive of all premiums, for such lost time. The Employer may require evidence of death and relationship of the deceased to the employee.
+Section 11.6. Military Leave.
+(a)	Any employee who enters active service of the Armed Forces of the United States or in the United States National Guard or Reserve shall receive a leave of absence for the period of such duty. An employee returning from military service shall be reemployed in accordance with the applicable federal and state statutes and shall be entitled to any other benefits set forth in this Agreement, providing he satisfies the eligibility requirements established under this Agreement.
+(b)	Any employee participating in a branch of the Armed Forces Reserve Training Program shall be granted a leave of absence not to exceed ten (10) working days upon presentation of proper documentation by the Commanding Officer. Such employee shall be paid by the County the difference between the amount received for such training and the employee’s regular salary or wage.
+(c)	Any employee who is called out on emergency duty by any of the established Armed Forces Reserve Training Units or by the Michigan National Guard in order to protect the rights of the citizens of the State of Michigan and the citizens of the United States, shall be paid by the County the difference between the amount the employee receives for such duty and his regular salary or wage for a period not to exceed five (5) working days.
+Section 11.7. Jury Leave. Employees summoned by the Court to serve as jurors shall be given a jury leave of absence for the period of their jury duty. For each day that an employee serves as juror when the employee otherwise would have worked, the employee shall receive the difference between the employee's straight time regular rate of pay for eight (8) hours and the amount the employee receives from the Court, up to a maximum of forty-five (45) days per year. In order to receive jury duty pay from the Employer, an employee must:
+(a)	Give the Department Director reasonable advance notice of the time that the employee is required to report for jury duty;
+(b)	Give satisfactory evidence that the employee served as a juror at the summons of the Court on the day that the employee claims to be entitled to jury duty pay; and
+(c)	Return to work promptly if, after he is summoned by the Court, he is excused from jury duty service.
+17
+Section 11.8. Witness Leave. An employee legally subpoenaed as a witness in any criminal case to which the employee is not a party, directly or indirectly, or as a member of a class, shall be given a witness leave of absence. For each day that an employee serves as a witness when the employee otherwise would have worked, the employee shall receive his straight time regular rate of pay for scheduled work hours, up to a maximum of five (5) days, forty (40 hours) per calendar year. In order to receive the regular rate of pay under the terms of this Section, an employee must:
+(a)	Turn over to the Employer all compensation, fees, or moneys received by the employee in return for the employee's service as witness (excluding mileage);
+(b)	Give the Department Director reasonable advance notice of the time that the employee is required to report to court as a witness;
+(c)	Give satisfactory evidence that the employee served as a witness pursuant to the legal subpoena of the court on the date that the employee claims to be entitled to pay under the provisions of this Section; and
+(d)	Return to work promptly if, after the employee is subpoenaed by the court to serve as a witness, the employee is released by the court during the employee's regularly scheduled shift.
+Section 11.9. Family and Medical Leave. An employee on a Family and Medical Leave will be required to utilize his paid leave time, vacation and holiday time. The employee may request to retain one-half of his accrued vacation time. Such request must be made in writing when he is placed on a Family and Medical Leave.
+Section 11.10. Workers Compensation Supplement.
+(a)	In case of work-incapacitating injury or illness for which the employee is, or may be, eligible for work disability benefits under Worker’s Compensation Law of the State of Michigan, such employee, with the approval of the Human Resources Director, shall be allowed salary payments, which with his compensation benefit, equal his regular salary or wage. The period covered by the above shall be a once in a lifetime benefit period not to exceed six (6) consecutive weeks. Thereafter, an employee may supplement worker’s compensation benefits by utilization of accrued sick leave bank up to the employee’s normal earnings. Upon exhaustion of the sick leave bank, the employee shall draw only those benefits as are allowable under the Worker’s Compensation Law of the State of Michigan. An employee who is receiving only worker’s compensation benefits shall be placed on an unpaid leave of absence and benefits provided by this Agreement will be treated accordingly.
+(b)	Salary supplements or accrued sick leave paid to any employee on a worker’s compensation leave as set forth above, shall not reduce or be coordinated with
+18
+disability benefits received under the Worker’s Compensation Law Section 354(1) not withstanding.
+VACATIONS
+Section 12.1. Vacation Accrual
+(a) All full time and regular part time employees shall earn vacation according to the following schedule:
+SENIORITY
+6 mos. to less than 6 years 6 years to less than 10 10 years
+11	years
+12	years
+13	years
+14	years
+15	years
+16	years
+17	years
+18	years
+19+ years
+VACATION HOURS PER HOUR WORKED .038462 vacation hours .057692 vacation hours .061538 vacation hours .065384 vacation hours ,069231 vacation hours .073077 vacation hours .076923 vacation hours .080769 vacation hours .084615 vacation hours .088461 vacation hours .092307 vacation hours .096154 vacation hours
+2080 HOURS EQUAL
+80 Hours
+120 Hours
+128 Hours
+136 Hours
+144 Hours
+152 Hours
+160 Hours
+168 Hours
+176 Hours
+184 Hours
+192 Hours
+200 Hours
+For purposes of this Section “hours worked” is defined as straight time hours paid, including all Employer paid leaves. For purposes of this Section “years of service” is determined from the employee’s date of hire unless otherwise specified.
+(b) Upon completion of his/her probationary period an employee will be credited with forty (40) hours of vacation. Thereafter, the employee will earn and accrue vacation time according to the vacation schedule set forth above.
+Section 12.2.	Vacation Schedule. Although the Employer reserves the right to allocate vacation leaves, it is agreed that an effort shall be made to schedule vacation leave consistent with the manpower and workload requirements as determined by the Employer. Vacation leave request shall be submitted to the Department Director prior to February 15. Conflicts among employees for desired vacation leave shall be resolved by giving preference to the employee with the greatest seniority, provided that the senior employee’s preferred date for vacation leave has been submitted to the Department Director prior to February 15 or if the vacation leave is desired between January 1 and February 15. All vacation requests submitted after February 15 shall be resolved on a “first come, first serve” basis. Once an employee has made his selection, he shall not be permitted to change his selection if it disturbs another employee’s choice of vacation leave. Where the change in selection does not affect another employee’s choice, the Department Director may grant a change in the vacation schedule. Under most circumstances, the Employer will give the employee a response to his vacation request as
+19
+soon as possible and within two (2) weeks shall be used as a guideline. An employee will be permitted to take his vacation leave one (1) day at a time upon advance mutual approval of the Department Director and the employee.
+Section 12.3.	Vacation Pay,
+(a)	Vacation pay will be computed at the straight time hourly rate, exclusive of all premiums, an employee is earning at the time he takes his vacation leave.
+(b)	An employee wishing to receive his vacation payment on the payday preceding his vacation may apply to the Fiscal Services Director no later than three (3) weeks prior to that pay period.
+Section 12.4.	Vacation Pay on Termination. Employees shall receive payment for accrued, but unused, vacation upon termination of their employment with the County.
+Section 12.5.	Hospitalized during Vacation. If an employee is hospitalized during his vacation period and presents a physician's statement specifying the hospitalization date(s), the time involved in the hospital may be charged to the employee's accumulated sick leave and not to vacation.
+Section 12.6.	Vacation Accumulation. An employee shall not accumulate vacation at any one time in excess of two hundred eighty (280) hours.
+HOLIDAYS
+Section 13.1.	Recognized Holidays. All full time employees covered by this Agreement shall receive eight (8) hours pay at their regular straight time rate, exclusive of all premiums, for each of the following recognized holidays:
+New Year’s Day Martin Luther King Jr. Day Memorial Day Independence Day Labor Day
+Veteran’s Day Thanksgiving Day Day After Thanksgiving December 24 Christmas Day
+Section 13.2.	Holidays for Regular Part-Time Employees. Regular part-time employees shall receive four (4) hours pay at their regular straight rate for each of the recognized holidays for which they are eligible. Such pay will be made in the pay period in which the holiday occurs.
+Section 13.3.	Holiday Eligibility. An employee’s eligibility for holiday pay is subject to the following conditions and qualifications:
+(a)	The employee must have been a full-time or regular part-time employee on the date of the holiday.
+20
+(b)	The employee must work his hours on his last regularly scheduled day before and his first regularly scheduled day after the holiday. Exceptions will be made for an employee who is prevented from working the day before and/or after a holiday due to hospitalization or is absent from work with the Department Head’s approval.
+(c)	The employee must not be on layoff.
+(d)	The employee must not be suspended for disciplinary reasons, provided, however, if such suspension is reversed the employee will receive the applicable holiday pay.
+(e)	An employee who is scheduled to work on a holiday but fails to report for work shall not be entitled to holiday pay.
+Section 13.4 , Holiday Observance. When one of the recognized holidays falls on a Sunday, the following Monday shall be observed as a holiday. When a recognized holiday falls on a Saturday, the preceding Friday shall be observed as a holiday.
+Section 13.5. Holiday During Vacation. Should a holiday fall during an otherwise eligible employee’s vacation period, the employee shall be paid for the holiday and shall not be charged for a vacation day on the date the holiday is recognized.
+Section 13.6 . Holiday Work. Full-time employees who are required to work on any recognized holiday shall receive their regular straight time rate for all hours worked on the holiday and, at the employee’s option, receive holiday pay or a day off with pay. Effective January 1, 2002, full-time employees who are required to work on any recognized holiday shall receive time and one half (1 'A) their regular straight time rate of pay for all hours actually worked on the holiday and, at the employee’s option, receive holiday pay or a day off with pay. Days off with pay shall be treated as personal time.
+Section 13.7 . Personal Time.
+(a)	All full-time employees covered by this Agreement who have completed their probationary period shall be credited with sixteen (16) hours of personal time in January of each year.
+(b)	Full-time employees who are at the G step of their respective classification shall be credited with an additional eight (8) hours of personal time in January of each year. Regular part-time employees who are at the G step of their respective classification shall be credited with four (4) hours of personal time in January of each year.
+(c)	Personal time has no monetary value and must be taken during the calendar year or lost.
+21
+INSURANCE
+Section 14.1.. Health Insurance. All full-time employees and eligible dependents shall be provided with Blue Cross/Blue Shield, semi-private hospitalization insurance with Master Medical Option I, FAE-RC rider, AP-2, MMC-PC, ML, mammogram and pap smear riders and a $5 generic and $ 10 prescribed as written drug rider.
+(a)	Effective on the dates indicated, each employee who selects the PPO health insurance program shall contribute the following amounts towards health insurance premiums through payroll deduction:
+DATE
+January 1, 2001
+January 1, 2002
+January 1,2003
+PREMIUM CO-PAY
+10% of premium - $30/month maximum 10% of premium - $32/month maximum 10% of premium - $34/month maximum
+(b)	Effective on the dates indicated, each employee who selects a health insurance program other than the PPO program shall contribute the following amounts towards health insurance premiums through payroll deduction:
+DATE
+January 1, 2001
+January 1, 2002
+January 1, 2003
+PREMIUM CO-PAY
+10% of premium - $40/month maximum
+10% of premium - $42/month maximum
+10% of premium - $44/month maximum
+(c)	Annually during the open enrollment period, employees may choose between health coverage offered. This coverage will remain in effect for one year beginning January 1.
+(d)	The Employer reserves the right to establish a self-insurance hospitalization program or to select another insurance carrier which will provide substantially the same or equivalent benefits insofar as it possible. Administration of the health care program shall be excluded from this condition and administration shall not be considered a benefit.
+Section 14.2, Dental Benefit Plan. All full-time employees shall be provided with a dental program, paid by the Employer, with benefits which pay fifty percent (50%) of dental fees (up to a maximum of $ 1600) with the remaining fifty percent (50%) of the dental fees paid by the employee. Orthodontics are included in the dental program under the same terms and conditions.
+Section 14.3.	Part-Time Employee Health Insurance. Regular part-time employees who are -not covered by any other hospitalization insurance plan shall be eligible for a thirty-five dollar ($35.00) per pay period credit towards the County hospitalization insurance program.
+22
+Section 14.4.	Life Insurance. The County shall pay the required premiums to provide each full-time employee with a Twenty Thousand Dollar ($20,000) Term Life Insurance policy with double indemnity for accidental death.
+Section 14.5.	Coordination of Benefits. All medical and dental programs shall provide for coordination of benefits among members of the same family employed by the Employer.
+Section 14.6.	Premium Payments. Hospitalization and life insurance premiums shall be paid by the Employer commencing at the time of the next regular payment made in accordance with the Employer’s procedures, following the month of employment. Employees who are laid off or go on a leave of absence shall assume full cost of such premiums commencing the first full month following their layoff or commencing their leave of absence.
+Section 14.7.	Section 125 Plan. All premiums for health insurance shall be pre-taxed. Employees may elect to participate in the County’s Section 125 plan.
+Section 14.8.	Payment in Lieu of Hospitalization Insurance. Notwithstanding the provisions of Section 14.1, effective with the execution of this Agreement, a full-time employee may voluntarily elect to waive in writing all health insurance coverage outlined in Section 14.1 and in lieu thereof, shall receive thirty-five dollars ($35.00) per pay period subject to the following:
+(a)	The employee must provide proof of insurance coverage from some other source.
+(b)	Notice of the intent to waive insurance must be sent to Human Resources after thirty (30) days of the execution of this Agreement, and annually thereafter during the open enrollment period.
+(c)	All insurance waived employees who wish to return to provided insurance may do so during the open enrollment period.
+(d)	Employees who have a change in coverage status such as death of a spouse, divorce, or the loss of coverage (not by selection) may return to provided hospitalization insurance at any time throughout the year as long as written evidence is provided which substantiates one of these special conditions.
+(e)	Restoration of insurance coverage shall be reinstated as soon as possible subject, however, to any regulations or restrictions, including waiting periods, which may be prescribed by the appropriate insurance carriers.
+(f)	Waiver of coverage procedures must be acceptable to the applicable insurance carrier.
+23
+Section 14.9.	Vision Plan. The Employer will continue the vision plan currently in effect for full-time employees. Effective January 1 „ 2002, the plan will be amended to provide for glasses each year if there has been a prescription change.
+Section 14.10. Retirees’ Health Insurance. In lieu of any payout for accumulated sick leave under Section 11.4 and notwithstanding Section 19.7, Ute Employer will provide health care insurance for employees who retire under the Employer’s retirement plan on January 1, 1991, or thereafter, in accordance with the following:
+(a)	Employees who retire on or after January 1, 2001, who have a minimum of twenty-Eve (25) years of service, and employees who receive a duty disability retirement on or after January 1, 2001, shall receive, at the Employer’s expense, the lowest single subscriber health insurance currently available to bargaining unit members, up to a maximum of two hundred dollars ($200.00) per month.
+(b)	Retirees with less than twenty-five (25) years of continuous service at the time of retirement shall receive a monthly pro-rata health care credit based on years of credited service in relation to 25 years, not to exceed the lowest single subscriber rate.
+(c)	Insurance premiums shall be paid commencing the first full month following retirement, including disability but excluding deferred retirement, and ending upon the death of the employee.
+(d)	Dependent health insurance coverage may be purchased by the retiree at the retiree’s expense. A retiree’s surviving spouse may continue to purchase health insurance provided by the Employer at the Employer’s group rates, subject to the carrier’s rules.
+(e)	No payments shall be made by the Employer if:
+i.	the employee receives a deferred pension;
+ii.	the employee, after retirement, is employed by another employer who provides a health care program or insurance for its employees;
+iii,	the retiree is covered by a health care program or insurance under his/her spouse’s employment;
+iv.	the balance of the required premiums required by the carrier in excess of those paid by the employer, are not paid by the employee
+(g) Employer contributions toward health care premiums for retirees is conditioned upon the retiree participating in the County’s health care program that is provided to members of the bargaining unit and such benefits are subject to negotiations between the parties and the provisions of Section 14.1.
+24
+RETIREMENT
+Section 15.1,	Pension Plan,
+(a)	The Kent County Employee’s Retirement Plan first effective on January 1,1949, shall be continued and shall, for employees who retire on or after January 1, 2001, provide retirement benefits at 2.50% of the employee’s final average compensation as defined in the plan after five (5) years of continuous service. Final average compensation shall be the best three (3) of the last five (5) years of service.
+(b)	The employee’s pension contribution shall be one-half (1/2) of the annual amortized actuarial valuation. The annual amortized actuarial valuation shall be based on the actuarial assumptions and amortization periods established by the Board of Trustees of the Kent County Employees’ Retirement Plan and the Kent County Board of Commissioners in their sole discretion. During the term of this Agreement the maximum employee contribution shall not exceed 6.5% of the employee’s annual compensation
+Section 15.2.	Deferred Compensation. Employees may elect to participate in the Employee’s Deferred Compensation Plan. The minimum contribution to the Deferred Compensation Plan is twenty-five dollars ($25.00) per pay period.
+WAGES
+Section 16.1.	Classification and Rates.
+(a)	The classification pay plan adopted by the County and the rate schedule , attached as Appendix “A” is incorporated herein and made a part of this Agreement. Effective the first full pay period beginning on the dates indicated, increase all pay grades and steps according to the schedule in Appendix A.
+(b)	The Union acknowledges that salary step increases shall be on a merit basis upon written authorization of the Department Director to the Human Resources Director. A Department Director shall be permitted to withhold an authorization for a step increase for a period not to exceed six (6) months. The employee will be advised in writing of this action prior to his anniversary date of the reasons for withholding the merit increase. However, it is agreed that if no written disciplinary action is given to an employee during the first six (6) months of his employment, the Step B or next step increase shall be automatic upon completion of six (6) months of service. Other step increases shall be given after an additional one (1) year of service after each step, provided that the Department Director does not withhold in writing such step increase prior to the employee’s anniversary date.
+(c)	Anniversary date shall mean: The date on which an employee has completed six (6) months of satisfactory service, and the corresponding date in each year thereafter, unless changed due to promotion, reclassification, demotion, separation or rehire.
+25
+(d)	When an employee is reclassified to a classification in a higher salary range, his salary shall be adjusted to the minimum of the range for the new classification or to that salary step next above his present rate, whichever is higher. The anniversary date shall not change. When an employee is reclassified for any reason other than disciplinary demotion to a classification in a lower salary range, he shall be paid the same salary he was receiving prior to such reclassification or the maximum of the rate range, whichever is lower. The employee in any classification for which the salary rate range is reallocated shall remain at the same step within the new range.
+(e)	An employee who is demoted as a disciplinary measure shall receive the minimum rate of the pay of the rate range for his new classification.
+(f)	The wage rate of an employee who is promoted to a higher classification within the bargaining unit shall be adjusted to the minimum of the rate range of the employee’s new classification or to the next step above his present rate, whichever is higher. An employee who is promoted shall be considered on job probation for six (6) months for his new position only. At the completion of this job probation, he shall be eligible for a pay increase and retained in this new position or he shall be returned to his former position without loss of seniority and any pay increases due him in his former position.
+(g)	All pay increases shall commence on the date the employee is eligible for the pay increase.
+(h)	A part-time employee’s step increase shall be treated the same as a full-time employee’s. However, hours of straight-time work completed shall be used whereby 2080 hours equal one (I) year.
+Section 16,2.	New or Reclassified Positions.
+(a)	The Employer reserves the right to establish new or change or discontinue job classifications within the bargaining unit. The Employer shall notify the Union of any new, changed or discontinued job classification. Within ten (10) working days after the new classification and its proposed rate is announced, the Union may file with the Employer a notice of disagreement with the rate of pay and in that event the parties agree to negotiate the rate of pay for the new classification.
+(b)	It is the function of the Human Resources Department of the Employer to conduct a reclassification study to determine the appropriate title and rate of pay for a classification whose duties have substantially changed. Within ten (10) working days after the reclassification study is announced, the Union may file a notice of disagreement with the proposed wage rate with the Human Resources Department. In that event, the parties agree to negotiate the rate of pay for the position studied.
+26
+(c)	In the event a reclassification results in the elimination of a bargaining unit position, the Employer will notify the Union of such proposed action in writing. The notice will set forth the reasons-for the reclassification along with a brief description of the job affected. If the Union objects to the proposed action it must notify the Human Resources Director of its objection within fifteen (15) days of the date the notice was sent. If the Union responds in writing within the fifteen (15) day period, the proposed reclassification will be discussed at the next regularly scheduled Review Committee meeting. If the parties cannot resolve the issue within the fifteen (15) days of the Review Committee meeting, each party will be free to pursue their appropriate remedies.
+PROMOTIONS
+Section 17.1. Promotions.
+(a)	In order to provide advancement opportunity when vacancies exist, the County will endeavor to supply the Union with a list of such vacancies indicating the title, description of duties, basic personnel requirements, work schedule and rate of pay. The Employer, at its discretion, may make a seven (7) day internal posting of a vacancy within the Department in which a vacancy exists.
+(b)	Interested full time and regular part time employees may make application for any vacancy within the bargaining units by filing with the Human Resources Department an employment application. Internal applicants will be considered for the positions for which they apply, however, placement and/or advancement shall be at the County's discretion. The County shall consider the employee's experience, work history, qualifications and seniority in filling vacancies. The County reserves the right to fill vacancies from outside sources when, in the County's judgment, it is in the best interests of the County to do so.
+LAYOFF AND RECALL
+Section 18.1. Layoff Procedure. Personnel layoffs shall be accomplished in the following manner:
+(a)	Definitions. A temporary layoff shall be a layoff from work for a period not to exceed five (5) working days. An indefinite layoff shall be a layoff from work for an indeterminate period of time in excess of five (5) working days. An employee's status shall be as defined in Section 1.2.
+(b)	Notice. Employees who are to be indefinitely laid off shall receive fourteen (14) calendar days' advance notice unless such layoff is necessitated by an emergency situation where such advance notice is
+27
+(C)
+(d)
+(e)
+not possible. An employee recalled to work shall have a minimum of five (5) workdays’ advance notice before the employee has to report to work. Recall notice shall be sent by Certified Mail, return receipt requested. It shall be the employee's responsibility to keep his current address and telephone number on file with the Human Resources Department. If the employee fails to report for work as required, he shall be considered as a voluntary quit.
+Temporary Layoff. Employees may be placed on a temporary layoff notwithstanding seniority or status. The Employer agrees not to abuse the temporary layoff provision.
+Indefinite Layoff. In the event of a reduction of personnel for an indeterminate period of time, the Employer agrees to lay off the employee with the least seniority in the classification and department affected first and further layoffs shall follow the inverse order of seniority provided that the employee with the greater seniority has the present skill and ability to efficiently perform the required work. It is understood that if, in the opinion of the Employer, it is necessary for the efficient operation of the Employer's business, where particular skill and experience is required, seniority need not be followed. Where shifts are involved, employees may be reassigned to other shifts following a layoff to balance the work force.
+Recall. Employees with recall rights shall be recalled to work in order of seniority beginning first with the employee with the greatest seniority within the classification and department affected and thereafter following the order of seniority provided that the employee recalled has the present skill and ability to efficiently perform the required work. An employee recalled to work must accept such unless the employee has accepted a transfer to a new position with the Employer, and, in which case, he shall not have recall rights to his former classification. An employee who is transferred to a lower paying classification in lieu of layoff shall have recall rights to his former classification if that position reopens.
+(1)	No position shall be posted nor a new employee hired for a position from which employees with recall rights are laid off until all employees in that position are recalled to work. Position shall mean the identical classification, same department and identical employee status.
+Superseniority. For purposes of layoff and recall only, seven (7) members of the Union’s Executive Board and Stewards shall head the seniority list of their respective classifications during their term of office. The Union recognizes that the Employer is not obligated to
+28
+make work for Stewards and that such representatives must have the necessary skill and experience to perform die required work..
+(g) Interviews. An employee on layoff status within any unit who desires an interview, shall be scheduled by the Human Resources Department for an interview in a department within the unit that has an open position of the same classification of the laid-off employee for which the employee may be qualified to perform. This shall not preclude any laid-off employee from applying for an open position that the employee may be qualified to perform.
+MISCELLANEOUS
+Section 19.1.	Parking.
+(a)	The County accepts the responsibility to provide parking for employees to the extent that such is practicai under the circumstance and within reasonable cost parameters. In this regard the County cannot guarantee parking for employees as a benefit of employment either by contract or as a binding practice but it will use its best efforts to provide employee parking.
+(b)	Parking Permits - The County will issue parking permits for certain employee parking lots. These parking lots are available to County employees, or other eligible employees, on a first come, first served basis. The County does not guarantee the availability of parking to all employees at all times. The use of the parking permit is restricted to County or other eligible employees only. If anyone other than the eligible employee is using the parking permit, parking privileges will be suspended. There is a $10 refundable security deposit for the parking cards. Lost or stolen cards are also subject to a replacement fee.
+(c)	The County is not responsible for damage to or theft from any motor vehicle in the County parking lot. Motor vehicles left in a County parking lot for more than 48 consecutive hours, without approval, will be towed and impounded at the owner’s expense.
+Section 19.2.	Differentials.
+(a)	Shift Differential. An employee whose regularly scheduled shift begins at 2:00 P.M. or later shall receive a shift differential of fifty cents ($0.50) per hour for each hour worked during the shift.
+(b)	Weekend Differential. All employees who work a regularly scheduled weekend shift which commences on or after 11:00 P.M. Friday and ending at 7:00 A.M. Monday, shall receive a weekend differential of fifty cents ($0.50) per hour for all hours worked during such weekend period.
+29
+(c)	Holiday Differential. All employees who are scheduled and who work on a recognized holiday shall receive a holiday differential of fifty cents ($0.50) per hour for all hours worked on such holiday. Holiday differential will not be paid after December 31,2001.
+Section 19.3.	Mileage. Reimbursable mileage shall be at the published IRS rate.
+Section 19,4.	Dual Employment. No employee shall hold dual employment where such additional employment shall:
+(a)	Create a conflict of interest between the County job and the proposed outside work.
+(b)	Work an interference with the employee’s regular County work.
+(c)	Interfere with the quality or quantity of the employee’s regular County work.
+Section 19.5.	Continuous Service. Continuous service shall mean uninterrupted service from date of employment or adjusted forward in accordance herewith. Continuous sendee is not recognized until the employee completes his probationary period. Time spent on a disability leave for the first continuous twelve (12) months and for the entire period of a military leave shall be included in the employee’s continuous service. No credit shall be given for any other leave of absence. Continuous length of service shall be broken in the same manner as loss of seniority. Temporary or part-time service which immediately precedes the transfer of an employee to a regular full-time position shall be given full credit in figuring probationary time and continuous service.
+Section 19.6.	Temporary Employees. The County reserves the right to hire temporary or irregular employees. Such employees shall not be subject to the terms of this Agreement.
+Section 19.7.	Retirement Bonus. An employee who retires under the Kent County Retirement Plan on or after January 1, 1987, and who has on the date of his retirement an accumulated and unused sick leave balance of thirty (30) days or more, shall receive One Thousand Dollars ($ 1,000) upon his retirement.
+Section 19.8.	Medical Evidence, Upon request by the Employer, an employee who applies for or is on a medical leave of absence has the responsibility of establishing by competent and credible evidence that the employee is incapable of performing his work and that such leave is warranted. Failure to satisfy this requirement shall be grounds for denying or terminating such leave.
+Section 19.9.	Last Chance Policy. An employee who voluntarily discloses a dependency on drugs/alcohol to the Employer and voluntarily undergoes an employer-approved, supervised detoxification treatment program will be given a leave of absence for such purposes of up to ninety (90) days and the Employer will refrain from taking any
+30
+disciplinary action against the employee provided that: (1) such disclosure is the first and only involvement with drugs/alcohol for the employee, and (2) the employee satisfactorily completes the detoxification treatment program as prescribed, and (3) the employee remains free of drugs/alcohol use and strictly complies with the Employer’s drug free program.
+Section 19.10.	Joint Safety Committee.
+(a)	In recognition of the joint obligation to provide a safe, healthful and secure working environment, the County and the Union agree to the establishment of a Joint Safety Committee consisting of four (4) members of the County staff and four (4) members of the UAW Local 2600 as follows: one member each from Unit I, Unit II, Unit III, and Unit IV.
+(b)	The committee shall have authority to investigate hazardous or unsafe working conditions and make joint recommendations for remedial action.
+(c)	The committee shall meet on a minimum quarterly basis. Union members of said committee shall be compensated at their regular rate of pay for time required for meetings and/or investigations.
+Section 19.11.	Rules and Regulations. The Employer reserves the right to establish rules and regulations and personnel policies not inconsistent with this Agreement. The Union may grieve the reasonableness of any rule or regulation by filing a grievance within ten (10) working days following receipt of notice of the rule or regulation. An employee may file a grievance in accordance with the grievance procedure regarding the application of the rule to him.
+Section 19.12.	Payment of Compensatory Time. If an employee terminates his employment or retires during the term of the Agreement, all accumulated compensatory time recorded in Fiscal Services will be paid to the employee.
+Section 19.13.	Longevity Compensation. There is established, for all classes of classified positions in the County service, a schedule of Longevity Compensation Rates, separate from the regular compensation schedule, as follows and which longevity payment is made on December 15.
+Step	Yrs. Service on or Before Oct. 1 Ea. Yr.	% Used But Not on Base in Excess of $6,000
+		
+1	6	2%
+2	11	4%
+31
+3	16	6%
+4	21	8%
+5	26	10%
+This longevity benefit shall be frozen at the level established on October 1, 1988. All employees who were not eligible for longevity on October 1, 1988 and all newly hired employees shall not receive longevity benefits.
+Section 19.14.	Captions. The captions used in each Section of this Agreement are for purposes of identification and are not a substantive part of this Agreement.
+Section 19.15.	Savings Clause. Should any part of this Agreement be rendered or decreed invalid by reason of any existing or new legislation, or by decree of a Court of competent jurisdiction, such invalidation of any part or portion of this Agreement shall not invalidate the remaining portions thereof, and they shall remain in full force and effect.
+Section 19.16.	Gender. Wherever the masculine gender is used in this Agreement, it shall be deemed to include the feminine gender and vice versa.
+Section 19.17.	Labor-Management Meetings. In every six (6) week period a meeting shall be held to discuss labor relations problems. Both parties acknowledge that this provision shall not require either party to negotiate or engage in collective bargaining without specific consent of the other party. Each party may have up to four (4) representatives at the meeting.
+Section 19.18.	Letters of Understanding. Attached as Appendix B and incorporated herein, are certain supplemental agreements, called "Letters of Understanding" between the parties which are to remain in effect for the duration of this Agreement.
+Section 19.19.	Subcontracting. While it is not the intent of the County to erode the current Union membership, Section 3.1 of this Agreement affirms the right of the Employer to subcontract work normally performed by bargaining unit employees. Prior to subcontracting work normally performed by bargaining unit employees, the Employer will provide the Union ten (10) days written notice of the intent to subcontract and an opportunity for the Union to present the County with alternatives to subcontracting.
+Section 19.20.	Waiver Clause. It is the intent of the parties hereto that the provisions of this Agreement, which supersedes all prior agreements and understandings, oral or written, express or implied, between such parties, shall govern their entire relationship and shall be the sole source of any and all rights or claims which may be asserted in arbitration hereunder, or otherwise. The parties acknowledge that during the negotiations which resulted in this Agreement, each had the unlimited right and opportunity to make demands and proposals with respect to any subject or matter not removed by law from the area of collective bargaining, and that the understandings and agreements arrived at
+32
+by the parties after the exercise of that right and opportunity are set forth in this Agreement. Therefore, the County and the Union, for the life of this Agreement, each voluntarily and unqualifiedly waives the right, and each agrees that the other shall not be obligated, to bargain collectively with respect to any subject or matter referred to, or covered in this Agreement, or with respect to any subject or matter not specifically referred to or covered in this Agreement, even though such subject or matter may not have been within the knowledge or contemplation of either or both of the parties at the time that they negotiated or signed this Agreement.
+DURATION
+Section 20.1. Termination. This Agreement shall remain in force until midnight, December 31, 2003 and thereafter for successive periods of one (1) year unless either party shall, on or before the 60th day prior to expiration, serve written notice on the other party of a desire to terminate, modify, alter, negotiate, change or amend this Agreement. A notice of desire to modify, alter, amend, negotiate or change, or any combination thereof, shall have the effect of terminating the entire Agreement on the expiration date in the same manner as a notice of desire to terminate unless before that date all subjects of amendment proposed by either party have been disposed of by agreement or by the party proposing amendment, modification, negotiation, change or any combination thereof.
+COUNTY OF KENT
+LOCAL 2600 UAW and the INTERNATIONAL UNION, UNITED AUTOMOBILE, AEROSPACE, AGRICULTURAL, IMPLEMENT WORKERS OF AMERICA
+I'M
+G:\Labor RelationsWAW 2000\Agreement I l-14-00.doc
+33
+General Unit
+01/01/01
+	Hourly	Bi-weekly	Annua!		Hourly	Bi-weekly	Annual
+7A	$7.77	$621.60	$16,161.60	7G	$9.91	$792.80	$20,612.80
+7B/ 8A	$8.07	$645.60	$16,785.60	8G	$10.34	$827.20	$21,507.20
+7C/ 8B/9A	$8.39	$671.20	$17,451.20	9G	$10.77	$861.60	$22,401.60
+7D/8C/9B/10A	$8.69	$695.20	$18,075.20	10G	$11.24	$899.20	$23,379.20
+7E/ 8D/9C/10B/11A	$9.04	$723.20	$18,803.20	11G	$11.80	$944.00	$24,544.00
+7F/ 8E/9D/10C/11B/12A	$9.35	$748.00	$19,448.00	12G	$12.26	$980.80	$25,500.80
+8F/9E/10D/11C/12B/13	$9.74	$779.20	$20,259.20	13G	$12.74	$1,019.20	$26,499.20
+9F/10E/11D/12C/13B/14A	$10.17	$813.60	$21,153.60	14G	$13.43	$1,074.40	$27,934.40
+10F/11E/12D/13C/14B/15A	$10.59	$847.20	$22,027.20	15G	$14.00	$1,120.00	$29,120.00
+11F/12E/13D/14C/15B/16A	$11.05	$884.00	$22,984.00	16G	$14.65	$1,172.00	$30,472.00
+12F/13E/14D/15C/16B/17A	$11.58	$926.40	$24,086.40	17G	$15.34	$1,227.20	$31,907.20
+13F/14E/15D/I6C/17B/18A	$12.03	$962.40	$25,022.40	18G	$16.08	$1,286.40	$33,446.40
+14F/15E/16D/17C/18B/19A	$12.50	$1,000.00	$26,000.00	19G	$16.88	$1,350.40	$35,110.40
+15F/16E/17D/18C/19B/20A	$13.17	$1,053.60	$27,393.60	20G	$17.65	$1,412.00	$36,712.00
+16F/17E/18D/19C/20B/21A	$13.78	$1,102.40	$28,662.40	21G	$18.57	$1,485.60	$38,625.60
+17F/18E/19D/20C/21B/22A	$14.36	$1,148.80	$29,868.80	22G	$19.48	$1,558.40	$40,518.40
+18F/19E/20D/21C/22B/23A	$15.08	$1,206.40	$31,366.40	23G	$20.38	$1,630.40	$42,390.40
+19F/20E/21D/22C/23B/24 A	$15.77	$1,261.60	$32,801.60	24G	$21.27	$1,701.60	$44,241.60
+20F/21E/22D/23C/24B/25 A	$16.54	$1,323.20	$34,403.20	25G	$22.32	$1,785.60	$46,425,60
+21F/22E/23D/24C/25B/26A	$17.32	$1,385.60	$36,025.60	26G	$23.38	$1,870.40	$48,630.40
+22F/23 E/24D/25C/26B/27A	$18.21	$1,456.80	$37,876.80	27G	$24.48	$1,958.40	$50,918.40
+23F/24E/25D/26C/27B/28A	$19.11	$1,528.80	$39,748.80	28G	$25.57	$2,045.60	$53,185.60
+24F/25E/26D/27C/28B/29A	$20.00	$1,600.00	$41,600.00	29G	$26.79	$2,143.20	$55,723.20
+25F/26E/27D/28C/29B/30A	$20.88	$1,670.40	$43,430.40	30G	$27.96	$2,236.80	$58,156.80
+26F/27E/28D/29C/30B	$21.92	$1,753.60	$45,593.60				
+27F/28E/29D/30C	$22.93	$1,834.40	$47,694.40				
+28F/29E/30D	$24.02	$1,921.60	$49,961.60				
+29F/30E	$25.09	$2,007.20	$52,187.20				
+30F	$26.26	$2,100.80	$54,620.80				
+General Unit
+07/01/01
+	Hourly	Bi-weekly Annual		Hourly	Bi-weekly Annual
+7A	$8.04	$643.20 $16,723.20	7G	$10.26	$820.80 $21,340.80
+7B/8A	$8.35	$668.00 $17,368.00	8G	$10.70	$856.00 $22,256.00
+7C/ 8B/ 9 A	$8.68	$694.40 $18,054.40	9G	$11.15	$892.00 $23,192.00
+7D/8C/9B/10A	$8.99	$719.20 $18,699.20	10G	$11.63	$930.40 $24,190.40
+7E/ 8D/9C/10B/11A	$9.36	$748.80 $19,468.80	1IG	$12.21	$976.80 $25,396.80
+7F/8E/ 9D/10C/11B/12A	$9.68	$774.40 $20,134.40	12G	$12.69	$1,015.20 $26,395.20
+8F/9E/10D/11C/I2B/13	$10.08	$806.40 $20,966.40	13G	$13.19	$1,055.20 $27,435.20
+9F/10E/11D/12C/13B/14A	$10.53	$842.40 $21,902.40	14G	$13.90	$1,112.00 $28,912.00
+10F/11E/12D/13C/14B/15A	$10.96	$876.80 $22,796.80	15G	$14.49	$1,159.20 $30,139.20
+11F/12E/13D/14C/15B/16A	$11.44	$915.20 $23,795.20	16G	$15.16	$1,212.80 $31,532.80
+12F/13E/14D/15C/16B/17A	$11.99	$959.20 $24,939.20	17G	$15.88	$1,270.40 $33,030.40
+13F/14E/I5D/16C/17B/18A	$12.45	$996.00 $25,896.00	18G	$16.64	$1,331.20 $34,611.20
+14F/15E/16D/17C/18B/19A	$12.94	$1,035.20 $26,915.20	19G	$17.47	$1,397.60 $36,337.60
+15F/16E/17D/18C/19B/20A	$13.63	$1,090.40 $28,350.40	20G	$18.27	$1,461.60 $38,001.60
+16F/17E/18D/19C/20B/21A	$14.26	$1,140.80 $29,660.80	21G	$19.22	$1,537.60 $39,977.60
+17F/18E/19D/20C/21B/22 A	$14.86	$1,188.80 $30,908.80	22G	$20.16	$1,612.80 $41,932.80
+18F/19E/20D/21C/22B/23A	$15.61	$1,248.80 $32,468.80	23G	$21.09	$1,687.20 $43,867.20
+19F/20E/21D/22C/23B/24A	$16.32	$1,305.60 $33,945.60	24G	$22.01	$1,760.80 $45,780.80
+20F/21E/22D/23C/24B/25 A	$17.12	$1,369.60 $35,609.60	25G	$23.10	$1,848.00 $48,048.00
+21F/22E/23D/24C/25B/26A	$17.93	$1,434.40 $37,294.40	26G	$24.20	$1,936.00 $50336.00
+22F/23E/24D/25C/26B/27A	$18.85	$1,508.00 $39,208.00	27G	$25.34	$2,027.20 $52,707.20
+23F/24E/25D/26C/27B/28A	$19.78	$1,582.40 $41,142.40	28G	$26.46	$2,116.80 $55,036.80
+24F/25E/26D/27C/28B/29A	$20.70	$1,656.00 $43,056.00	29G	$27.73	$2,218.40 $57,678.40
+25F/26E/27D/28C/29B/30A	$21.61	$1,728.80 $44,948.80	30G	$28.94	$2,315.20 $60,195.20
+26F/27E/28D/29C/30B	$22.69	$1,815.20 $47,195.20			
+27F/28E/29D/30C	$23.73	$1,898.40 $49,358.40			
+28F/29E/30D	$24.86	$1,988.80 $51,708.80			
+29F/30E	$25.97	$2,077.60 $54,017.60			
+30F	$27.18	$2,174.40 $56,534.40			
+General Unit
+01/01/02
+	Hourly	Bi-weekly	Annual		Hourly	Bi-weekly	Annual
+7A	$8.30	$664.00	$17,264.00	7G	$10.59	$847.20	$22,027.20
+78/ 8A	$8.62	$689.60	$17,929.60	8G	$11.05	$884.00	$22,984.00
+7CZ8B/9A	$8.96	$716.80	$18,636.80	9G	$11.51	$920.80	$23,940.80
+7D/ 8C/9B/10A	$9.28	$742.40	$19,302.40	I0G	$12.01	$960.80	$24,980.80
+7E/ 8D/9C/10B/11A	$9.66	$772.80	$20,092.80	11G	$12.61	$1,008.80	$26,228.80
+7F/8E/ 9D/1OC/I1B/12A	$9.99	$799.20	$20,779.20	12G	$13.10	$1,048.00	$27,248.00
+8F/9E/1OD/11C/12B/13	$10.41	$832.80	$21,652.80	I3G	$13.62	$1,089.60	$28,329.60
+9F/10E/11D/12C/13B/14A	$10.87	$869.60	$22,609.60	14G	$14.35	$1,148.00	$29,848.00
+10F/11E/12D/13C/14B/15A	$11.32	$905.60	$23,545.60	15G	$14.96	$1,196.80	$31,116.80
+11F/12E/13D/14C/15B/I6A	$11.81	$944.80	$24,564.80	16G	$15.65	$1,252.00	$32,552.00
+12F/I3E/14D/15C/16B/17A	$12.38	$990.40	$25,750.40	17G	$16.40	$1,312.00	$34,112.00
+13F/14E/15D/16C/17B/18A	$12.85	$1,028.00	$26,728.00	18G	$17.18	$1,374.40	$35,734.40
+14F/15E/16D/17C/18B/19A	$13.36	$1,068.80	$27,788.80	19G	$18.04	$1,443.20	$37,523.20
+15F/16E/17D/18C/19B/20A	$14.07	$1,125.60	$29,265.60	20G	$18.86	$1,508.80	$39,228.80
+16F/17E/18D/19C/20B/21A	$14.72	$1,177.60	$30,617.60	21G	$19.84	$1,587.20	$41,267.20
+17F/18E/19D/20C/21B/22A	$15.34	$1,227.20	$31,907.20	22G	$20.82	$1,665.60	$43,305.60
+18F/19E/2OD/21C/22B/23A	$16.12	$1,289.60	$33,529.60	23G	$21.78	$1,742.40	$45,302.40
+19F/20E/21D/22C/23B/24A	$16.85	$1,348.00	$35,048.00	24G	$22.73	$1,818.40	$47,278.40
+20F/21E/22D/23C/24B/25 A	$17.68	$1,414.40	$36,774.40	25G	$23.85	$1,908.00	$49,608.00
+21F/22E/23D/24C/25B/26A	$18,51	$1,480.80	$38,500.80	26G	$24.99	$1,999.20	$51,979.20
+22F/23E/24D/25C/26B/27A	$19.46	$1,556.80	$40,476.80	27G	$26.16	$2,092.80	$54,412.80
+23F/24E/25D/26C/27B/28A	$20.42	$1,633.60	$42,473.60	28G	$27.32	$2,185.60	$56,825.60
+24F/25E/26D/27C/28B/29A	$21.37	$1,709.60	$44,449.60	29G	$28.63	$2,290.40	$59,550.40
+25F/26E/27D/28C/29B/3OA	$22.31	$1,784.80	$46,404.80	30G	$29.88	$2,390.40	$62,150.40
+26F/27E/28D/29C/3OB	$23.43	$1,874.40	$48,734.40				
+27F/28E/29D/3OC	$24.50	$1,960.00	$50,960.00				
+28F/29E/3OD	$25.67	$2,053.60	$53,393.60				
+29F/30E	$26.81	$2,144.80	$55,764.80				
+30F	$28.06	$2,244.80	$58,364.80				
+General Unit
+07/01/02
+	Hourly	Bi-weekly Annual		Hourly	Bi-weekly Annual
+7A	$8.42	$673.60 $17,513.60	7G	$10.75	$860.00 $22,360.00
+7B/ 8A	$8.75	$700.00 $18,200.00	8G	$11.22	$897.60 $23,337.60
+7C/ 8B/ 9A	$9.09	$727.20 $18,907.20	9G	$11.68	$934.40 $24,294.40
+7D/8C/9B/10A	$9.42	$753.60 $19,593.60	10G	$12.19	$975.20 $25,355.20
+7E/ 8D/9C/1OB/UA	$9.80	$784.00 $20,384.00	11G	$12.80	$1,024.00 $26,624.00
+7F/ 8E/9D/10C/11B/12A	$10.14	$811.20 $21,091.20	12G	$13.30	$1,064.00 $27,664.00
+8F/9E/1OD/11C/12B/13	$10.57	$845.60 $21,985.60	13G	$13.82	$1,105.60 $28,745.60
+9F/10E/11D/12C/13B/14A	$11.03	$882.40 $22,942.40	14G	$14.57	$1,165.60 $30,305.60
+10F/11E/12D/13C/14B/15A	$11.49	$919.20 $23,899.20	15G	$15.18	$1,214.40 $31,574.40
+11F/12E/13D/14C/15B/16A	$11.99	$959.20 $24,939.20	16G	$15.88	$1,270.40 $33,030.40
+12F/13E/14D/15C/16B/17A	$12.57	$1,005.60 $26,145.60	17G	$16.65	$1,332.00 $34,632.00
+13F/14E/15D/16C/17B/18A	$13.04	$1,043.20 $27,123.20	18G	$17.44	$1,395.20 $36,275.20
+14F/15E/16D/17C/18B/19A	$13.56	$1,084.80 $28,204.80	19G	$18.31	$1,464.80 $38,084.80
+15F/16E/17D/18C/19B/20A	$14.28	$1,142.40 $29,702.40	20G	$19.14	$1,531.20 $39,811.20
+16F/17E/18D/19C/20B/21A	$14.94	$1,195.20 $31,075.20	21G	$20.14	$1,611.20 $41,891.20
+17F/18E/19D/20C/21B/22A	$15.57	$1,245.60 $32,385.60	22G	$21.13	$1,690.40 $43,950.40
+18F/19E/2OD/21C/22B/23A	$16.36	$1,308.80 $34,028.80	23G	$22.11	$1,768.80 $45,988.80
+19F/20E/21D/22C/23B/24A	$17.10	$1,368.00 $35,568.00	24G	$23.07	$1,845.60 $47,985.60
+20F/21E/22D/23C/24B/25A	$17.95	$1,436.00 $37,336.00	25G	$24.21	$1,936.80 $50,356.80
+21F/22E/23D/24C/25B/26A	$18.79	$1,503.20 $39,083.20	26G	$25.36	$2,028.80 $52,748.80
+22F/23E/24D/25C/26B/27A	$19.75	$1,580.00 $41,080.00	27G	$26.55	$2,124.00 $55,224.00
+23F/24E/25D/26C/27B/28A	$20.73	$1,658.40 $43,118.40	28G	$27.73	$2,218.40 $57,678.40
+24F/25E/26D/27C/28B/29A	$21.69	$1,735.20 $45,115.20	29G	$29.06	$2,324.80 $60,444.80
+25F/26E/27D/28C/29B/30A	$22.64	$1,811.20 $47,091.20	30G	$30.33	$2,426.40 $63,086.40
+26F/27E/28D/29C/30B	$23.78	$1,902.40 $49,462.40			
+27F/28E/29D/30C	$24.87	$1,989.60 $51,729.60			
+28F/29E/30D	$26.06	$2,084.80 $54,204.80			
+29F/3OE	$27.21	$2,176.80 $56,596.80			
+3OF	$28.48	$2,278.40 $59,238.40			
+ri '■
+General Unit
+01/01/03
+	Hourly	Bi-weekly Annual		Hourly	Bi-weekly Annual
+7A	$8,69	$695.20 $18,075.20	7G	$11.10	$888.00 $23,088.00
+7B/ 8A	$9.03	$722.40 $18,782.40	8G	$11.58	$926.40 $24,086.40
+7C/ 8B/ 9 A	$9.39	$751.20 $19,531.20	9G	$12.06	$964.80 $25,084.80
+7D/8C/9B/10A	$9,73	$778.40 $20,238.40	10G	$12.59	$1,007.20 $26,187.20
+7EZ 8D/9C/10B/11A	$10.12	$809.60 $21,049.60	11G	$13.22	$1,057.60 $27,497.60
+7F/8E/9D/I0C/11B/12A	$10.47	$837.60 $21,777.60	12G	$13.73	$1,098.40 $28,558.40
+8F/9E/10D/11C/12B/13	$10.91	$872.80 $22,692.80	13G	$14.27	$1,141.60 $29,681.60
+9F/10E/11D/12C/13B/14A	$11.39	$911.20 $23,691.20	14G	$15.04	$1,203.20 $31,283.20
+10F/UE/12D/13C/14B/15A	$11.86	$948.80 $24,668.80	15G	$15.67	$1,253.60 $32,593.60
+11F/12E/13D/14C/15B/16A	$12.38	$990.40 $25,750.40	16G	$16.40	$1,312.00 $34,112.00
+12F/13E/14D/15C/16B/17A	$12.98	$1,038.40 $26,998.40	17G	$17.19	$1,375.20 $35,755.20
+I3F/14E/15D/16C/17B/18A	$13.46	$1,076.80 $27,996.80	18G	$18.01	$1,440.80 $37,460.80
+14F/15E/16D/17C/18B/19A	$14.00	$1,120.00 $29,120.00	19G	$18.91	$1,512.80 $39,332.80
+15F/16E/17D/18C/19B/20A	$14.74	$1,179.20 $30,659.20	20G	$19.76	$1,580.80 $41,100.80
+16F/17E/18D/19C/20B/21A	$15.43	$1,234.40 $32,094.40	21G	$20.79	$1,663.20 $43,243.20
+17F/18E/19D/20C/21B/22A	$16.08	$1,286.40 $33,446.40	22G	$21.82	$1,745.60 $45,385.60
+18F/19E/20D/21C/22B/23A	$16.89	$1,351.20 $35,131.20	23G	$22.83	$1,826.40 $47,486.40
+19F/20E/21D/22C/23B/24A	$17.66	$1,412.80 $36,732.80	24G	$23.82	$1,905.60 $49,545.60
+20F/21E/22D/23C/24B/25 A	$18.53	$1,482.40 $38,542.40	25G	$25.00	$2,000.00 $52,000.00
+21F/22E/23D/24C/25B/26A	$19.40	$1,552.00 $40,352.00	26G	$26.18	$2,094.40 $54,454.40
+22F/23E/24D/25C/26B/27A	$20.39	$1,631.20 $42,411.20	27G	$27.41	$2,192.80 $57,012.80
+23F/24E/25D/26C/27B/28A	$21.40	$1,712.00 $44,512.00	28G	$28.63	$2,290.40 $59,550.40
+24F/25E/26D/27C/28B/29A	$22.39	$1,791.20 $46,571.20	29G	$30.00	$2,400.00 $62,400.00
+25F/26E/27D/28C/29B/30A	$23.38	$1,870.40 $48,630.40	30G	$31.32	$2,505.60 $65,145.60
+26F/27E/28D/29C/30B	$24.55	$1,964.00 $51,064.00			
+27F/28E/29D/30C	$25.68	$2,054.40 $53,414,40			
+28F/29E/30D	$26.91	$2,152.80 $55,972.80			
+29F/30E	$28.09	$2,247.20 $58,427.20			
+30F	$29.41	$2,352.80 $61,172.80			
+General Unit
+07/01/03
+	Hourly	Bi-weekly Annual		Hourly	Bi-weekly Annual
+7A	$8.82	$705.63 $18,346.33	7G	$11.32	$905.76 $23,549.76
+7B/8A	$9.17	$733.24 $19,064.14	8G	$11.81	$944.93 $24,568.13
+7C/ 8B/ 9 A	$9.47	$757.60 $19,697.60	9G	$12.19	$975.20 $25,355.20
+7D/8C/ 9B/10A	$9.83	$786.40 $20,446.40	10G	$12.73	$1,018.40 $26,478.40
+7E/ 8D/9C/10B/11A	$10.25	$820.00 $21,320.00	11G	. $13.26	$1,060.80 $27,580.80
+7F/8E/ 9D/10C/11B/12A	$10.62	$849.60 $22,089.60	12G	$13.91	$1,112.80 $28,932.80
+8F/9E/1OD/11C/12B/13	$11.07	$885.60 $23,025.60	13G	$14.50	$1,160.00 $30,160.00
+9F/10E/UD/12C/13B/I4A	$11.53	$922.40 $23,982.40	14G	$15.24	$1,219.20 $31,699.20
+10F/11E/12D/13C/14B/15A	$11.96	$956.80 $24,876.80	15G	$15.92	$1,273.60 $33,113.60
+11F/12E/13D/14C/15B/16A	$12.50	$1,000.00 $26,000.00	16G	$16.64	$1,331.20 $34,611.20
+12F/13E/14D/15C/16B/17A	$13.06	$1,044.80 $27,164.80	17G	$17.45	$1,396.00 $36,296.00
+13F/14E/15D/16C/17B/18A	$13.65	$1,092.00 $28,392.00	18G	$18.30	$1,464.00 $38,064.00
+14F/15E/16D/17C/18B/19A	$14.20	$1,136.00 $29,536.00	19G	$19.16	$1,532.80 $39,852.80
+15F/16E/17D/18C/19B/20A	$14.93	$1,194.40 $31,054.40	20G	$20.10	$1,608.00 $41,808.00
+16F/17E/18D/19C/20B/21A	$15.65	$1,252.00 $32,552.00	21G	$21.10	$1,688.00 $43,888.00
+17F/18E/19D/20C/21B/22 A	$16.31	$1,304.80 $33,924.80	22G	$22.09	$1,767.20 $45,947.20
+18F/19E/20D/21C/22B/23A	$17.12	$1,369.60 $35,609.60	23G	$23.15	$1,852.00 $48,152.00
+19F/20E/21D/22C/23B/24A	$17.99	$1,439.20 $37,419.20	24G	$24.24	$1,939.20 $50,419.20
+20F/21E/22D/23C/24B/25 A	$18.81	$1,504.80 $39,124.80	25G	$25.34	$2,027.20 $52,707.20
+21F/22E/23D/24C/25B/26A	$19.73	$1,578.40 $41,038.40	26G	$26.61	$2,128.80 $55,348.80
+22F/23E/24D/25C/26B/27A	$20.71	$1,656.80 $43,076.80	27G	$27.83	$2,226.40 $57,886.40
+23F/24E/25D/26C/27B/28A	$21.68	$1,734.40 $45,094.40	28G	$28.99	$2,319.20 $60,299.20
+24F/25E/26D/27C/28B/29A	$22.72	$1,817.60 $47,257.60	29G	$30.39	$2,431.20 $63,211.20
+25F/26E/27D/28C/29B/30A	$23.80	$1,904.00 $49,504.00	30G	$31.76	$2,540.80 $66,060.80
+26F/27E/28D/29C/30B	$24.92	$1,993.60 $51,833.60			
+27F/28E/29D/30C	$26.13	$2,090.40 $54,350.40			
+28F/29E/30D	$27,28	$2,182.40 $56,742.40			
+29F/30E	$28.46	$2,276.80 $59,196.80			
+30F	$29.84	$2,387.20 $62,067.20			
+LETTER OF UNDERSTANDING
+Subject:	Airport Maintenance On-Call
+In order to continue to provide a high degree of safety and service to airport users, the parties agree to the establishment of the following on-call policy:
+1.	Employees who are on-call will be paid at the rate of $12.50 for each twenty-four (24) hour period that they are on-call.
+2.	Employees who are called in to work shall receive a minimum of four (4) hours pay at time and one-half. Paid time begins when the employee reports for work at the airport.
+3.	The airport will furnish pagers and batteries to on-call employees. The Employer will replace the first pager lost by the employee at its expense. In the event the employee loses additional pagers, the employee shall pay for the replacement of the pagers through payroll deductions.
+4.	On-call employees are to respond to the airport within one hour from the time of receiving the page and shall notify airport dispatch within fifteen (15) minutes of receiving the page. Collect calls will be accepted. Exceptions to the above requirements will be made upon the employee providing an acceptable reason of his/her inability to respond within the time requirements.
+5.	Employees shall not be entitled to mileage while performing on-call duty.
+6.	Airport maintenance employees will be scheduled for on-call duty on a rotating basis.
+7.	If the employee is not available for on-call duty because of illness or emergency, he/she shall inform the airport of this fact. If the employee is not available for on-call duty he/she shall not be eligible for on-call pay.
+8.	The parties agree to meet and review the on-call policy annually.
+IJ'i
+LETTER OF UNDERSTANDING
+Re: Airport Maintenance Worker - Minimum Four Hour Call-Back Pay
+A full-time Airport Maintenance Worker who is called back to work at hours between the end and start of his scheduled shift shall receive a minimum of four (4) hours at time and one half (1 A). Overtime which is scheduled contiguous with the beginning or ending of the employee’s regular shift or on days off shall be paid at time and one half (1 A) for such hours worked provided that the employee has worked forty (40) hours within the workweek. Overtime is scheduled if the employee has notice of such overtime prior to the end of the employee’s shift.
+LETTER OF UNDERSTANDING
+Re: Animal Shelter After Hours Service and Compensatory Time Policies
+AFTER HOURS SERVICE POLICY:
+The intent of this program is to provide 24 hour emergency animal control service for the people of Kent County. The service will be provided by designating one animal control employee as “on-call” during the hours the animal shelter is not normally operating.
+The “on-call” status will be mandatory for Animal Control Officers and shall continue so long as the County, in its sole discretion, determines it to be an appropriate service. Acceptance of the rotation “on-call” is a condition of continued employment.
+The standard “on-call” period shall be from Monday at 8:00 a.m. until the following Monday at 8:00 a.m. unless otherwise assigned. This duty will be rotated among the above-identified personnel according to a schedule designed by the Animal Shelter Director. All schedule conflicts will be resolved by the Director or his designee. Changes in the rotation schedule may be made with the consent of all affected staff. The change must be transmitted to the Director or his designee, in writing, signed by the affected staff
+The staff person designated “on-call” will be contacted in accordance with department policy. The staff person “on-call” must respond to all calls in accordance with departmental policy.
+Payment for “on-call” service shall consist of four hours Saturday and four hours Sunday at time-and-one-half (1 ‘/j) the employee’s regular hourly rate. The stand-by person shall receive an additional four hours pay at time-and-one-half (1 ’/i) for all recognized holidays that occur during the time they are on call. This payment is for serving a full week’s schedule of “after hours service.” The hourly payment for time actually spent working shall be time-and-one-half (1 ‘/i) the employee’s normal hourly rate to which appropriate differentials are added for all actual time spent working. Time is to be computed from portal to portal when a visit is necessary. When situations can be handled via the telephone, no payment will be made unless a period greater than 15 minutes is required to handle the situation. Portal is defined as where the employee is located when the call is received. The Animal Shelter Director agrees that there shall be no reduction of employee hours solely for the purposes of reducing “on-call” or “overtime” expense during the period an employee serves in an “on-call” status.
+Gasoline mileage will be paid from portal to portal when employee uses other than County-provided transportation in accordance with the UAW Bargaining Agreement and departmental procedures.
+When an employee reports to work pursuant to the provisions of this letter prior to the start of a normal shift, the payment provisions of “on-call” duty will cease with the start of the normal shift.
+The County may make changes to the after hours emergency service which are not inconsistent with this Letter of Understanding and/or end of the after hours emergency service whenever, in its sole discretion, the County determines it is appropriate to do so. All such changes will be reduced to writing and distributed to all concerned.
+The provisions of Section 8.3 will not apply to time worked under this Letter of Understanding.
+UAW LOCAL 2600
+0
+
+LETTER OF UNDERSTANDING
+''	■	83-
+Re: Department of Public Works Maintenance Department After Hours Service and Compensatory Time Policies
+AFTER HOURS SERVICE POLICY:
+The intent of this program is to provide 24 hour emergency maintenance service for the people of Kent County. The service will be provided by designating one maintenance department employee as “on-call” during the hours the maintenance department is not normally operating.
+The “on-call” status will be mandatory for Utilities Operations Workers and shall continue so long as the County, in its sole discretion, determines it to be an appropriate service. Acceptance of the rotation “on-call” is a condition of continued employment.
+The standard “on-call” period shall be from Thursday at 8:00 a.m. until the following Thursday at 8:00 a.m. unless otherwise assigned. This duty will be rotated among the above-identified personnel according to a schedule designed by the Public Works Director. All schedule conflicts will be resolved by the Director or his designee. Changes in the rotation schedule may be made with the consent of all affected staff. The change must be transmitted to the Director or his designee, in writing, signed by the affected staff.
+The staff person designated “on-call” will be contacted in accordance with department policy. The staff person “on-call” must respond to all calls in accordance with departmental policy.	*
+Payment for “on-call” service shall consist of four hours Saturday and four hours Sunday at time-and-one-half (1 *4) the employee’s regular hourly rate. The stand-by person shall receive an additional four hours pay at time-and-one-half (1 ’/i) for all recognized holidays that occur during the time they are on call. This payment is for serving a full week’s schedule of “after hours service.” The hourly payment for time actually spent working shall be time-and-one-half (1 l/i) the employee’s normal hourly rate to which appropriate differentials are added for all actual time spent working. Time is to be computed from portal to portal when a visit is necessary. When situations can be handled via the telephone, no payment will be made unless a period greater than 15 minutes is required to handle the situation. Portal is defined as where the employee is located when the call is received. The Department of Public Works Director agrees that there shall be no reduction of employee hours solely for the purposes of reducing “on-call” or “overtime” expense during the period an employee serves in an “on-call” status.
+Gasoline mileage will be paid from portal to portal when employee uses other than County-provided transportation in accordance with the UAW Bargaining Agreement and departmental procedures. ’ J
+When an employee reports to work pursuant to the provisions of this letter prior to the start of a normal shift, the payment provisions of “on-call” duty will cease with the start of the normal shift.
+The County may make changes to the after hours emergency service which are not inconsistent with this Letter of Understanding and/or end of the after hours emergency service whenever, in its sole discretion, the County determines it is appropriate to do so. All such changes will be reduced to writing and distributed to all concerned.
+The provisions of Section 8.3 will not apply to time worked under this Letter of Understanding.
+LETTER OF UNDERSTANDING
+Re: Sick Leave Donation Bank
+Employees covered by this Agreement may participate in a sick leave donation bank pursuant to a policy and procedure that has been established. A copy of the sick leave donation bank policy and procedure may be obtained from the Human Resources Department.
+COUNTY OF KENT
+UAW LOCAL 2600
+LETTER OF UNDERSTANDING
+..... NO. 
+Re: After Hours Service Policy
+The intent of this program is to provide 24-hour service for the people of Kent County. The service will be provided by designating employees as “on-call” during the hours the department is not normally operating.
+The “on-call” status will be mandatory and shall continue so long as the County, in its sole discretion, determines it to be an appropriate service. Acceptance of the rotation “on-call” is a condition of continued employment.
+This duty will be rotated among the identified personnel according to a schedule designed by the director of the department. All schedule conflicts will be resolved by the director or his designee. Changes in the rotation schedule may be made with the consent of all affected staff. The change must be transmitted to the director or his designee, in writing, signed by the affected staff.
+The staff person designated “on-call” will be contacted in accordance with departmental policy. The staff person “on-call” must respond to all calls in accordance with departmental policy.
+Payment for “on-call” service shall consist of $12.50 per 24-hour period. The hourly payment for time actually spent working shall be time and one-half (1 ‘/i) the employee’s normal hourly rate to which appropriate differentials are added for all actual time spent working. Time is to be computed from portal to portal when a visit is necessary. When situations can be handled via the telephone, no payment will be made. Portal is defined as where the employee is located when the call is received.
+Gasoline mileage will be paid from portal to portal when employees use other than County-provided transportation in accordance with the UAW Local 2600 Collective Bargaining Agreement and departmental procedures.
+When an employee reports to work pursuant to the provisions of this Letter of Understanding prior to the start of a normal shift, the payment provisions of “on-call” duty will cease with the start of the normal shift.
+The County may make changes to the after-hours emergency service which are not inconsistent with the Letter of Understanding and/or end the after-hours emergency service whenever, in its sole discretion, the County determines it is appropriate to do so. All such changes will be reduced to writing and distributed to all concerned.
+The provisions of Section 8.3 will not apply to time worked under this Letter of Understanding. The above provisions shall not be applicable to the DPW,
+COUNTY OF KENT
+UAW LOCAL 2600
+LETTER OF UNDERSTANDING
+Subject:	Utilities Operation Worker Tool Allowance
+During the first year of employment of a Utilities Operation Worker the Employer will furnish a set of hand tools to be used by the employee in the performance of his work. During a utilities operations worker second calendar year of employment, and each calendar year thereafter, the Employer shall pay a tool allowance of $ 150 per year. The employee shall file with the Department each December a tool inventory demonstrating possession and availability of his assigned tools. Such payment is to be made in December of each year. The original supplied tools and any replacements purchased by the employee shall remain the property of the Employer. Any replacement tools purchased shall be of equal quality and functional capability. Upon leaving the employ of the Employer, the employee is responsible for returning the tools to the Employer or paying for the cost of replacement through payroll deduction.
+UAW LOCAL 2600
+G:\Labor Relations\Lettere of UnderstandingVTool Allowance.doc
+LETTER OF UNDERSTANDING
+No. 97
+I.	Shift Bidding
+Once each year employees, by classification, may bid the shift or work schedule (if other than the normal Monday through Friday schedule) of their choice utilizing their seniority provided the employee has the necessary qualifications and bargaining unit experience to effectively perform the required work. All such bids shall be completed by the third Monday of September each year with the transfer to the preferred shift to occur on the first Monday in January. Notwithstanding this Letter of Understanding or any provision of the Collective Bargaining Agreement, nothing shall prevent the Employer from assigning an employee to a particular shift or work schedule if in the opinion of the Employer such assignment is necessary.
+II.	Vacation Bidding
+(a)	Notwithstanding the provisions of Section 11.2 of the Collective Bargaining Agreement, members of UAW Local 2600 employed at the Sheriff’s Department shall make their vacation requests after the shift bids are known but before the third (3rd) Monday in October. Vacation requests must be made by the third Monday in October in the year preceding the vacation period requested.
+(b)	Vacation requests submitted prior to the third Monday in October for forty (40) or more consecutive vacation hours will be granted, subject to the following conditions, in accordance with bargaining unit seniority:
+(1)	In the event all of the requested forty (40) or more hours cannot be granted due to staffing requirements or the needs of the Department, the employee will be given the option of any day that is available within the requested period or alternate forty-plus hour blocks.
+(2)	After all employees have scheduled their forty-plus consecutive hours, any request submitted by the third Monday in October for two, three, or four consecutive days will be granted by seniority. In the event all of the requested days cannot be granted due to the needs of the Department, the employee will be given the option of any day that is available within the requested period of alternate days equal to the original requested time off.
+G:\Labor RelationsVLetteis ofUnderstandiog\UAW\Bidding.doc
+(3)	Any vacation requests outside of the seniority bid period shall be granted on a first-come, first-served basis for any time period that has not been committed to vacation use by seniority bidding. Requests submitted on the same day for identical days off shall be granted on the basis of seniority. Any vacation granted on a first-come, first-served basis will conform to the manpower needs of the Department.
+County of Kent County
+G:\Labor Relations\Lette!s of UnderatandingVUA W\Bidding.doc

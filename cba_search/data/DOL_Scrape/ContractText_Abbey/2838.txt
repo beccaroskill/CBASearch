@@ -1,0 +1,88 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Indiana, University of and Communications Workers of America (CWA), AFL-CIO, Local 4730 (2002)
+K#: 810193
+Location: IN Bloomington
+Employer Name: Indiana, University of
+Union: Communications Workers of America (CWA), AFL-CIO
+Local: 4730
+SIC: 8221	NAICS: 611310
+Sector: S	Number of Workers: 1600
+Effective Date: 07/01/02	Expiration Date: 06/30/04
+Number of Pages: 4	Other Years Available: N
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+<?i 01^3
+AGREEMENT
+Indiana University and CWA, Local 4730 2002-03 and 2003-04
+
+Subject to the approval of the Board of Trustees of Indiana University and a vote of the membership of CWA, Local 4730 at the Bloomington campus, Indiana University Administration and the Officers of CWA, Local 4730 arc agreeable to the following provisions effective July 1, 2002 for the employees represented by Local 4730 for the fiscal years 2002-03 and 2003-04
+1.	Wage adjustment:
+A.	Effective July 1, 2002, the 2.5% budgeted wage allocation will be distributed across the board.
+B.	Effective July I, 2003, the budgeted wage increase allocation will be distributed using the following wage plan: the first part of the plan is an across-the-board distribution based on the CPI. The distribution of any funds remaining will be negotiated. Should the parties not agree on distribution of remaining funds, the funds will be distributed on an across-the-board basis.
+This wage plan replaced the Wage Progression Plan as previously provided in Policy 8.2. The parties agreed to establish a committee comprised of members from both CWA 4730 and the university to attempt to reach an agreement on the distribution of any funds remaining after the CPI based distribution.
+2.	Performance Appraisal, Policy 6.1 - Removed all language pertaining to “Merit Pay Plan” and “merit justification”. Supervisors continue to be required to conduct annual performance appraisals of Support Staff employees using steps 1, 2, and 3 of Procedure 6.1.
+3.	Statement on Fair Treatment in the Workplace, Policy 2.4 - Clarification that any settlements including settlement offers to resolve a dispute under this policy cannot be used in any subsequent grievance. Added a provision currently in Policy 2.3, Problem - Grievance Resolution Procedure, to Policy 2.4, allowing a waiver of grievance time limits pending completion of the Fair Treatment complaint process.
+4.	Policy Against Sexual Harassment, Policy 3.3 - Language added emphasizing that examples included in Appendix A are not exhaustive.
+5.	Overtime, Policy 5,3 - Revised Paragraph A.l to emphasize that employees will not be expected to work overtime except when absolutely necessary as determined by supervisor and that supervisors are to plan and schedule the work so it can be performed within regularly scheduled work hours.
+6.	Corrective Action, Policy 6.3 - Added provision in Procedure, paragraph 1, that it is the responsibility of the supervisor to notify an employee when a meeting may lead to discipline.
+7.	Health and Safety, Policy 7.1:
+A.	Under paragraph B. 1, added new paragraph d.: A supervisor of a Safety Committee member is encouraged, when work requirements permit, to release the Safety Committee member to investigate a safety complaint. The Safety Committee member is expected to conduct such an investigation in an expeditious manner and return to work as soon as possible.
+B.	Under Procedure, revised paragraph 3 to permit filing of an Unsafe Working Conditions Report or a Safety Suggestion Report with the Environmental Health and Safety Department and the IU/CWA Safety Committee, and reversed the order of paragraphs 2 and 3.
+8.	Injury on-the-Job, Policy 7.2 - Revised paragraph B. I. to state that for the first 40 regularly scheduled work hours of disability in a calendar year in which an employee is unable to work as the result of an on-the-job injury, the university will provide the employee’s full salary at the regular pay rate.
+9.	Salary Decisions, Policy 9.4:
+A.	Added a provision to paragraph B.2.c, to provide that departments will provide justification upon request to University Human Resources to start a new hire’s salary above the first quartile.
+B.	Under Procedure, revised paragraph 2, to state that a request for an equity adjustment should be based on one or more of the listed criteria.
+10.	Fee Courtesy, Policy 1 1.4 - Under Paragraph C, added new paragraph 7, to inform employees that if an Incomplete (I) is received that the employee may file an extension in accordance with rules of the Registrar’s Office.
+11.	Vacation, Policy 12.7:
+A.	Under Paragraph D, revised paragraph 5 and moved up as paragraph 2, to provide that supervisors will honor vacation time requested six or more months in advance unless the supervisor has received excessive numbers of requests for the same time period or the requested time off is for a known peak work period. Renumbered subsequent paragraphs.
+B.	Eliminate Paragraph E, which required the university to notify each Support Staff annually of the total vacation accumulation and the number of hours available for use during the calendar year. The information is now contained on the employees’ biweekly pay stubs.
+12.	Time Off for Funeral/Bereavement, Policy 12.10 - Revised paragraph A.l to provide that an appointed employee will be granted up to three working days with pay within one week from date of death of the following relatives; however, if the funeral is held outside of the one week period, any remaining unused time may be used to attend the funeral service.
+For Indiana University: J. Terry Ciapacs Vice Presided! & Chief Administrative Officer •Daniel Rives Associate Vice President for University Human Resource Services Suzanne Ryan Director, Bloomington Location, Human Resource Services Date:		For CWA, Local 4730: 	 Liz Feitl President, CWA, Local 4730
+AGREEMENT
+Indiana University and AFSCME, Local 832 2002-03 and 2003-04
+Subject to the approval of the Board of Trustees of Indiana University and a vote of the membership of AFSCME, Local 832 at the Bloomington campus, Indiana University Administration and the Officers of Local 832 are agreeable to the following provisions effective July 1,2002 for the employees represented by Local 832 for the fiscal years 2002-03 and 2003-04
+1.	Wage Distribution - 2.5% across the board rounded to the nearest cent per hour on the employee’s current hourly rate of pay.
+2.	Policy 2.7 Process Paragraph 12 - Add a provision providing that the listing department will inform Local 832 leadership of any listed position which is subsequently not filled. (Note: this change may go in Policy 2.6)
+3.	Policy 2.10, Probationary Period - Amend policy to state that no matter concerning the discipline, layoff, or termination of employees during the probationary period is eligible for the grievance procedure.
+4.	Policy 2.16 Overtime - Amend paragraph C.8 on the 16 hour rule as follows:
+A.	Amend paragraph e to lower the maximum number of Emergency Rest Time hours (ERT) that an employee can receive up to 8 hours
+B.	Add to paragraph f- to require the employee to obtain supervisory approval to continue working beyond this point
+C.	Amend paragraph g to provide double time for hours worked beyond 24 hours without at least 8 hours off the clock.
+5.	Policy 3.1, Job Evaluation - Add the following provisions:
+A.	Add as Paragraph A. 4
+1.	When an employee’s position is reclassified to a position in a lower pay classification, the employee’s pay rate will be frozen until it matches the salary rate for the new classification. Until this occurs, any annual wage increase will be provided in the form of a lump sum amount.
+2.	The current policy of reducing the pay rates of employees who voluntarily choose a position in a lower pay classification, who choose a position in a lower pay classification due to a reduction-in-force, or who are placed in a lower pay classification due to lack of performance or qualifications, will continue.
+3.	Employees whose pay rates were not frozen (red-circled) prior to July 1, 2002, will continue to receive their salary increases in the same manner.
+Renumber subsequent paragraphs
+B.	Incorporate into the policy current practice that UHRS will inform the union whenever it appears that a SM/FS position is going to be reclassified to another functional group. The union will have an opportunity to provide input before a final decision is made.
+6.	Policy 4.5, Injury on-the-Job - Revised paragraph B.l. to state that for the first 40 regularly scheduled work hours of disability in a calendar year in which an employee is unable to work as the result of an on-the-job injury, the university will provide the employee’s full salary at the regular pay rate.
+Should an absence due to an injury last beyond 21-days, the supplemental benefit will be restored.
+7.	Policy 6.3 Drug-Free Workplace - Add provision under paragraph 3, to provide that an employee accused of being under the influence of alcohol or drugs may be required or may request an alcohol or drug test at the department’s expense. The employee may be removed from duty pending test results. If the results of the test are not positive, the employee will receive pay for any lost time.
+8.	Policy 6.1 1 Computer Usage - Add paragraph B to policy to provide that on a trial basis, RPS, IMU, and the Service Building in Physical Plant, computers will be placed in break rooms for SM/FS staff to use subject to all of the conditions contained in paragraph A of this policy.
+9.	Position Openings in RPS - Agreed for a one year trial period to a procedure that when a Monday-Friday assignment occurs the department will post the assignment and consider requests from other RPS employees on a same Monday-Friday assignments. At this time, Monday-Friday assignments will also be made available to weekend and night shift RPS employees. The department will make the selection based upon seniority if more than one person expresses interest. After the assignment process is complete, RPS will then list the position campus-wide.
+10.	Uniforms - Physical Plant will provide its SM employees the following three options regarding uniforms:
+C.	T-shirts only (6) and employee does laundry
+D.	A set of uniform shirts (11) and the department is responsible for the laundry, and
+E.	T-shirts (6) and set of pants (11). The department will launder the pants.
+In specifically identified jobs the full uniform of shirts and pants will continue to be provided
+For Indiana University:
+J. Terry Clapacs
+Vice President & Chief Administrative
+Officer
+For AFSCME, Local 832:
+Michael Donovan
+President, AFSCME, Local 832
+Daniel Rives
+Associate Vice President for University Human Resource Services
+Director, Bloomington Location, Human Resource Services
+Date:____________

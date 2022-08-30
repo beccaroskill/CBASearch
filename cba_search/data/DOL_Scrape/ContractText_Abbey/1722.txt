@@ -1,0 +1,615 @@
+﻿
+INDEX Article	Page
+Preamble..................................... 1
+I	Scope and Purpose of Agreement............	2
+II	Function of Management........................ 4
+III	Non-Discrimination............................ 7
+IV	Joint Referral Rules.......................... 7
+V	Work Classification.......................... 48
+VI	Hours of Work................................ 49
+VII	Overtime and Holidays.......................... 53
+VIII	High Work..................................... 54
+IX	Minimum Pay and Reporting Time............	55
+X	Transportation and Travel	Allowance.......	56
+XI	Pay Day...................................... 58
+XII	Union Representatives.......................... 59
+XIII	Supervision................................... 60
+XIV	Piece Work, Limitation and
+Curtailment of Production................... 62
+XV	Subletting of Work............................. 62
+XVI	Work Classification and
+Jurisdiction................................ 63
+XVII	Declaration of Principles.................... 64
+XVIII	Grievance and Arbitration
+Procedure................................... 65
+INDEX
+Article	Page
+XIX	Wage Scale................................... 67
+XX	Welfare Fund................................. 72
+XXI	Pension...................................... 74
+XXII	Retirement Security Fund.................... 75
+XXIII	Payroll Savings Fund and
+Other Deductions........................... 76
+XXIV	Apprenticeship Training.................... 78
+XXV	Union Security and
+Check-off.................................. 79
+XXVI	MOST....................................... 81
+XXVII	Safety Measures............................. 82
+XXVIII	Medical Treatment and
+Examination................................ 86
+XXIX	Agreement Qualifications................... 86
+XXX	Security Bond.............................. 87
+XXXI	Duration of Agreement...................... 88
+Agreement.................................. 92
+Signatures................................. 93
+Contract Stipulation....................... 94
+PREAMBLE
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+WHEREAS, the parties hereto have maintained a mutually satisfactory bargaining relationship in the work area covered by collective bargaining agreements between them which have been in effect over a substantial period of years; and
+WHEREAS, the International Brotherhood of Boilermakers, Iron Shipbuilders, Blacksmiths, Forgers and Helpers and/or subordinate subdivisions thereof embrace within their membership large numbers of qualified Journeymen who have constituted in the past, and continue to do so, a majority of such employees employed by the Employer herein:
+NOW, THEREFORE, the undersigned Employer and Union in consideration of the mutual promises and covenants contained herein agree as follows:
+—1—
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+SCOPE AND PURPOSE OF AGREEMENT Article I
+(a)	The Employer recognizes the Union as the sole bargaining agent for all of its Construction Employees in the performance of all work coming within the terms of this Agreement, subject to provisions of existing laws. The Employer agrees that, upon the Union’s presentation of appropriate evidence of majority status among its employees in the bargaining unit of the Employer covered by this collective bargaining agreement, the Union shall be voluntarily recognized as the exclusive collective bargaining agent under Section 9(a) of the NLRA for all employees within the bargaining unit of the Employer on all job sites within the jurisdiction of this Agreement.
+In the event of such a showing, the Employer expressly waives any right to condition voluntary recognition on the Union’s certification by the NLRB following an NLRB election, unless a representation petition has been filed by a Petitioner other than the Employer prior to the Employer’s voluntary Section 9(a) recognition. The Employer expressly waives the right to seek an NLRB election during the term of this contract, or any right to abrogate or repudiate this contract, during its effective term.
+—2—
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+(b)	This Agreement shall apply exclusively to the territory herein referred to as the Western Pennsylvania Area, composed of the following counties:
+Allegheny, Armstrong, Beaver, Bedford, Blair, Butler, Cambria, Cameron, Clarion, Clearfield, Elk, Fayette, Forest, Greene, Indiana, Jefferson, Lawrence, McKean, Mercer, Somerset, Venango, Warren, Washington and Westmoreland, in the State of Pennsylvania; Columbiana and Jefferson, in the State of Ohio; Brooke and Hancock, in the State of West Virginia.
+This Agreement shall apply exclusively to all of the Employer’s field construction work including but not limited to construction, erection, rigging, field fabrication, assembling, dismantling, unloading and repairing performed in the field coming under the jurisdiction of the Union.
+(c)	The parties to this Agreement recognize that stability in wages and working conditions and competency of workers are essential to the best interest of the industry and the public, and they agree to strive to eliminate all factors which tend toward unstabilizing these conditions. The parties further agree to cooperate fully in carrying out the intent of this paragraph.
+—3—
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+The Union, as exclusive agent must ensure only fully qualified Boilermakers are assigned to jobs. The Union shall not refer a Boilermaker who is receiving temporary disability payments because of a compensable injury, except to the Employer from whom they are receiving disability benefits, if requested by that Employer.
+(d)	It is the intent of the Employer and the Union, in establishing working rules herein to carry out the Policies and Principles of the Work Rules Agreement as signed by International President, Harold J. Buoy on the 14th day of February, 1971, exclusive of Article II, Paragraph C, therein.
+FUNCTION OF MANAGEMENT
+Article II
+(a)	The Employer shall have the right to determine the extent of his operations at all job sites including, but not limited to, the selection of the kind of materials, supplies, or equipment used in the prosecution of the work, the right to plan, direct, and control job site operations; to hire, promote, lay off, discipline or discharge for proper cause.
+The Employer shall have the right to transfer qualified Foremen, Area Foremen,
+4
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+and Journeyman Boilermakers from one job assignment to another, within the Plant location, where they are working. The Employer may transfer Boilermaker employees from one construction or maintenance project to another, within the jurisdiction of Lodge 154, provided, however, the number of Boilermakers transferred shall not exceed eight (8) in number.
+The eight (8) persons, if selected by the Employer for transfer, shall consist of one (1) Foreman and seven (7) Journeymen Boilermakers. All Boilermakers in excess of eight (8) in number which are needed for work on another job or project of the Employer within the jurisdiction of Lodge 154 shall be referred from the hiring hall list of available and qualified Boilermakers. The Steward shall be selected by the Business Manager of Local Lodge 154 from the hiring list or he may elect to appoint as Steward one (1) of the eight (8) persons which are employed.
+(b)	The Employer with mutual consent of the Business Manager may request, at his discretion, not by name, all of their Supervision: General Foreman, Foreman and Safety Personnel: Steward, MOST Safety Person, Tool room personnel and Toolrunners, at the start of any given job or project for improved job and safety planning. All applicable rates
+—5—
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+K3
+must be paid during the planning stages of said job or project.
+It is understood that any toolrunners and the MOST Safety Person assigned to a job will work with the tools. If such request is not made, except for the safety personnel, these positions will not be assigned to the job.
+When requested by the Employer, the Union shall refer a former employee back to the Employer at the same job site, provided the employee was laid off because of weather, lack of supplies, strike, or other circumstances beyond the control of the Employer. Such former employees may be requested for return to the Employer from which the employee was laid off within thirty (30) days after layoff, provided the employee is unemployed.
+(c)	Termination Notice. Employees may be terminated or discharged from employment for good cause only. Notice of discharge must be given directly to the employee and a written notice must be given to the Local Union Business Manager within forty-eight (48) hours of the discharge, setting forth the reason or reasons for the action taken.
+—6—
+E3I BBMB
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+1
+2
+3
+4
+5
+1
+2
+Employees have a right, if they so desire, to file grievances, objecting to the action taken by their Employer. Such grievance must be filed within seventy-two (72) hours of their discharge notice.
+(d)	Where customers require brass pick up, it shall be complied with.
+(e)	The above statement of management rights shall not waiver any of management’s prerogatives not herein expressed, nor shall it limit rights of the Union either, in law or by contract.
+NON-DISCRIMINATION
+Article III
+The Union and the Employer agree to abide by all Executive Orders and subsequent amendments, thereto, regarding the Civil Rights Act of 1964, pertaining to non-discrimination in employment, in every respect.
+UNIFORM REFERRAL STANDARDS AND JOINT REFERRAL RULES
+Article IV	- Preamble
+WHEREAS, collectively bargained standards for operation of locally administered
+—7—
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+1
+2
+3
+4
+referral rules are required by federal law and considered of utmost importance for effective, fair and equitable referral of workers for performance of work in the Boilermaking Industry; and
+WHEREAS, the International President and the respective employer chairmen of each Boilermaker National Agreement Negotiating Committee have reactivated and appointed the National Joint Rules and Standards Committee for the purpose of reviewing and revising, where necessary, the Minimum Standards dated September 15, 1959; and
+WHEREAS, it is the desire of those employers who by agreement establish the Local as their exclusive referral agent to retain some means of effective control of the work force, which is casual and transient by nature of the industry, by negotiated, employment-related discipline implemented ministerially through the offices of the Local,
+NOW, THEREFORE, the following exclusive referral rules are hereby established:
+Section 1	— Scope
+1.1	In accordance with the non-discriminatory Uniform Referral Standards established by the National Joint Rules and Standards Committee and the Local No. 154
+—8—
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Collective Bargaining Agreement, the below-signed duly established Joint Referral Rules Committee has adopted the following rules and standards which shall govern the exclusive referral procedure in the geographical area under the jurisdiction of Local No. 154.
+1.2	Normal Labor Market
+The normal labor market shall be the area of geographical jurisdiction of the Local as allocated or reallocated by the International Brotherhood of Boilermakers.
+Section 2	— Local Joint Referral Rules Committee
+In accordance with the Collective Bargaining Agreement and the Uniform Referral Standards established by the National Joint Rules and Standards Committee, the Local Joint Referral Rules Committee shall be selected and empowered as follows:
+2.1	Selection: The Local Joint Referral Rules Committee shall be composed of a minimum of two (2) employer representatives and two (2) union representatives. The employer representatives shall be appointed by the chairman of the Local or area Employers’ negotiating committee. The union representatives shall be appointed by the Local Business Manager.
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+2.2	Duties: The Local Joint Referral Rules Committee shall be empowered to establish, interpret or modify from time to time, as deemed advisable for the operation of the exclusive referral procedure, any and all rules and regulations, consistent with the Uniform Referral Standards, including the establishment of appropriate out-of-work lists. Such proposed rules or modifications shall be submitted to the National Joint Rules and Standards Committee for approval as to conformance with the Uniform Referral Standards prior to implementation.
+2.3	The Local Joint Referral Rules Committee shall require the posting of these exclusive referral procedures and rules at the appropriate registration facility and the actual places of hire at the Employers’ job sites. Upon request, the Local shall make available copies of these rules to applicants qualified for referral.
+Section 3	— Local Joint Referral Disputes Committee
+In accordance with the Collective Bargaining Agreement and the Uniform Referral Standards established by the National Joint Rules and Standards Committee, the Local Joint Referral Disputes Committee shall be selected and empowered as follows:
+—10—
+1	3.1 Selection: The Union represen-
+2	tatives shall be appointed by the International
+3	Vice President of the area and the Employer
+4	representatives shall be appointed by the
+5	chairman of the employers’ negotiating com-
+6	mittee as specified in Article 9.2 below. A
+7	Local Joint Referral Disputes Committee
+8	shall consist of equal numbers of Union
+9	and Employer representatives. In no event,
+10	however, will an agent of any party involved
+11	in a dispute be allowed to participate as a
+12	member of a Local Joint Referral Disputes
+13	Committee.
+3.2 Duties:
+1	3.2.1 The Local Joint Referral Dis-
+2	putes Committee shall investigate, hear and 3 decide disputes arising out of the exclusive 4 referral procedures, including but not limited 5 to, disputes arising out of work registration, 6 qualifications and competency of applicants, 7 work referrals, preparation of the referral reg-8 istration list and application of referral suspen-9 sions as specified in Article 8 below.
+10	3.2.2 The Local Joint Referral Dis-
+11	putes Committee shall convene, as needed, 12 to consider any referral disputes of record 13 which have gone unresolved through the 14 preliminary steps of the Local Joint Referral 15 disputes procedure as specified in Article 9 16 below.
+—11 —
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+3.2.3	The Local Joint Referral Disputes Committee will have full authority to determine the merit of any dispute properly submitted to it and to fashion appropriate remedies. In cases where the dispute involves a claim of misapplication of exclusive referral procedures by the Local acting as referral agent, an appropriate remedy will include payment of lost wages to the disputant by the Local only where such misapplication is found to have been the result of arbitrary, discriminatory or capricious conduct in the administration of the exclusive referral procedures. Decisions of the Local Joint Referral Disputes Committee shall be rendered in writing, signed by the committee members, transmitted to all parties to the dispute and reported to the National Joint Rules and Standards Committee. Such decision shall be final and binding.
+3.2.4	In the event the Local Joint Referral Disputes Committee fails to render a decision, it shall submit the dispute to an impartial umpire to be appointed by the National Joint Rules and Standards Committee. The appointed umpire will have full authority to determine the merit of such dispute and to fashion an appropriate remedy. In cases where the dispute involves a claim of misapplication of referral procedures by the Local, an appropriate remedy will include payment of lost wages to the disputant by
+—12—
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+the Local only where such misapplication is found to have been the result of arbitrary, discriminatory or capricious conduct in the administration of the referral procedures. The fees and expenses of the umpire will be assessed among the participants at the discretion of the umpire absent prior agreement. Decisions of the impartial umpire will be final and binding.
+3.2.5	Prior to a request for a Local Joint Referral Disputes Committee hearing, the individual shall exhaust all available remedies with the administrator of the Local Joint Referral Rules as specified in Article 9 below.
+Section 4	— Out-Of-Work Lists
+4.1	The Local Union shall establish and maintain an out-of-work list for registration and referral of qualified Boilermaker Journeymen and other applicable classifications. Registrants shall be referred from the out-of-work list in a nondiscriminatory, fair and equitable manner. This may include provisions to alleviate inequities or problems that arise due to variations of job duration or job requirements. Additional out-of-work lists for registration of qualified Boilermaker Journeymen and other applicable classifications may, where circumstances warrant, be established only on the basis of residency
+—13—
+15
+16
+17
+18
+19
+20
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+and/or work experience in the area of primary labor supply, which shall be a geographical area defined in the terms of state, county, city, or zone boundaries, or a combination thereof as determined by the Local Joint Referral Rules Committee.
+4.2	A separate out-of-work list may where circumstances warrant be established for registration of applicants with less than the qualifications necessary to be classified as a Boilermaker Journeyman, Apprentice or other classification. Such lists shall be maintained and operated in a fair, equitable, and nondiscriminatory manner.
+Section 5	— Registration
+5.1	Local No. 154 shall establish and maintain an appropriate nondiscriminatory registry facility for qualified construction Boilermakers, Apprentices and other applicable classifications, as defined under the Agreement. Applicants available for employment and wishing to register for referral must be in possession of a current MOST drug screen certification, or a timely chain of custody receipt indicating that a MOST drug screen certification may be issued. Verification of current drug screen certification will be the responsibility of the Local through the offices of MOST.
+—14—
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+5.1.1	It is the intent of the parties that priority in job opportunities to the extent allowed by law is established to assure the Employers a reliable source of employees experienced at the work standards in the area and so as to assure employees that as they grow older their long service in the area will not go unrewarded.
+5.1.2	Effective January 1, 2006, qualified construction Boilermakers who have the minimum qualifications as required in Section 6.1.1 of these Rules and (1) who have further established at least eight thousand (8,000) hours of Boilermaker field construction experience within the geographical jurisdiction of the Local, or (2) who have satisfactorily served an apprenticeship in the trade of field construction Boilermaker (subject to Section 6.1.2 of the Rules) within the geographical jurisdiction of the Local or (3) who have successfully completed the welding and written tests described in Section 6.1.1.1 which were administered by this Local’s Joint Referral Rules Committee, shall register on the qualified construction Boilermaker Journeyman “A” out-of-work list and shall be given priority referral. Qualified construction Boilermakers previously registered on the Local’s Journeyman “A” out-of-work list shall continue to be registered on said list irrespective of the eight thousand
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+1
+2
+3
+4
+(8,000) hour requirement set forth above.
+5.1.3	Qualified construction Boilermakers who do not meet the established requirements as stated in Section 5.1.2 above shall register on the secondary qualified construction Boilermaker Journeyman “B” out-of-work list and shall be given referral when the primary out-of-work list becomes exhausted.
+5.1.4	Qualified construction Boilermaker Apprentices meeting the requirements of 6.1.2 of these Rules shall be requisitioned by Employers and referred according to the ratio in the applicable local or area agreement, and in compliance with all provisions of these Rules, and with the National and Area Apprenticeship Standards.
+5.1.5	Boilermaker sub-journeyman shall be qualified for registration on Local No. 154’s “C” out-of-work list who can satisfactorily establish that they have at least four thousand (4,000) but less than six thousand (6,000) hours of Boilermaker field construction experience and shall be given referral when Boilermaker Journeymen are not available.
+5.2	Place of Registration. The registry for referral shall be the office of Boilermaker Local No. 154 at 1221 Banksville Road, Pittsburgh, Pennsylvania 15216.
+—16—
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+5.3	Registrar-Dispatcher. The registrar and dispatcher for the exclusive referral system shall be the Business Manager of the Local or his designated representative.
+Section 6	— Applicants for Registration
+6.1	Boilermaker Classifications. All applicants for registration on out-of-work lists shall be required to complete a nondiscrimi-natory application form setting forth required personal statistics together with a detailed record of experience and qualifications in the trade in order to be properly registered in one of the following classifications:
+6.1.1	Qualified Construction Boilermaker
+6.1.1.1	Boilermakers shall be qualified for registration on a Boilermaker out-of-work list, (1) who can satisfactorily establish that they have had at least six thousand (6,000) hours of actual, practical working experience in the Boilermaking Trade in the Building and Construction Industry, or (2) who have satisfactorily served an apprenticeship in the trade of field construction Boilermaker under an apprenticeship program approved by the United States Bureau of Apprenticeship Training or State Division of Apprenticeship Standards, or (3) who are certified ASME
+—17—
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+pressure welders and pass an ASME, 6-G, GTAW-SMAW weld test to the satisfaction of a Local Joint Referral Rules Committee or its designee; and who successfully complete a written exam administered by a Local Joint Referral Rules Committee. The written exam will be developed by the Boilermakers National Apprenticeship Program/MO8T Optimization Committee.
+6.1.1.2	The number and manner of Boilermakers to be recruited under the provisions of 6.1.1.1 (3) shall be determined by the International Vice President of the area, when in his judgment, a Local does not have an adequate supply of certified welders. Boilermakers recruited under these provisions shall serve a probationary period of up to six thousand (6,000) hours, with periodic review by the Local Joint Referral Rules Committee. During and upon completion of the probationary period, the Local Joint Referral Rules Committee will decide if the individuals meet the requirements to continue as field construction Boilermakers.
+6.1.1.3	Irrespective of any other criteria for eligibility specified in these Rules, a Boilermaker welder with less than six thousand (6,000) hours of Boilermaker field construction experience shall be permitted to register and be referred to employment as a
+—18—

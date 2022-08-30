@@ -1,0 +1,163 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Rhode Island, State of and American Federation of State, County, & Municipal Employees (AFSCME), AFL-CIO, Council 94 (2000) (MOA)
+K#: 800272
+Location: RI
+Employer Name: Rhode Island, State of
+Union: American Federation of State, County, & Municipal Employees (AFSCME), AFL-CIO
+Local: Council 94
+SIC: 9199	NAICS: 921190
+Sector: S	Number of Workers: 6600
+Effective Date: 07/01/00	Expiration Date: 06/30/04
+Number of Pages: 24	Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+
+/Pit pf
+MASTER AGREEMENT
+BETWEEN STATE OF RHODE ISLAND AND
+RHODE ISLAND COUNCIL 94, A.F.S.C.M.E.
+AFL-CIO
+2000-2004
+TABLE OF CONTENTS
+ABELSLE	PA'
+MEMORANDUM OF AGREEMENT	1
+PURPOSE	1
+1	RECOGNITION	1
+2	NON-DISCRIMINATION CLAUSE	2
+3	UNION SECURITY & DUES DEDUCTION	3
+4	MANAGEMENT RIGHTS	5
+5	HOURS OF WORK:	6
+.Work Weeks .Other Work Schedules .Pro-rata Benefits .Coffee/Meal Breaks •Shift Hours » • ■ ' .Higher Classification Work
+6	SALARY SCHEDULE	8
+.Salary Increases .Step Increments .Longevity .Incentive Training .Paycheck Distribution
+7	SHIFT DIFFERENTIAL	11
+.Tour of Duty Definitions
+2
+ARTICLE
+PAGE
+	•Shift Differential Pay	
+8	OVERTIME -Definition -Holiday Work .Distribution .Seniority Rotation -Sixteen (16) Consecutive hours	12
+9	HOLIDAYS .Official Holiday .Holiday On Scheduled Work Day •Work on Holiday .Holiday on Scheduled Day Off .Holiday on Vacation Period -Legislative Action	15
+10	INCLEMENT WEATHER/EMERGENCY	17
+11	SENIORITY .Primary, Secondary, State-wide .Seniority Definitions .Primary Seniority Applications .Lateral Transfer .New & Vacant Position Posting .Vacancies with certified list .Vacancy without list .Non-competitive position .Certified List(s) supplied	17
+3
+ARTICLE
+PAGE
+.Seniority Lists .Career Field Work .Layoffs .Recalls .Re-employment Lists .Job Abolishment .Probationary Period .Seniority Broken - Reasons
+12	VACATIONS	30
+.Vacation Schedule	'
+.Termination of Service .Vacation Assignment .Seniority Preference ' .Vacation Carry-Over .Vacation Records
+13	SICK LEAVE	32
+.Definition .Accrual Formula .Total Accumulation .Payment of Accrued Leave .Bereavement Leave .Pregnancy/Maternity Leave .Worker’s Compensation .Special Sick Leave
+14	HEALTH & WELFARE	38
+4
+article
+.Medical Coverage
+.Dental/Prescription/Optical Plans
+.Major Medical
+.Coverage During Layoffs
+.Emergency Roon Rider
+.Chiropractic Rider
+15	RETIREMENT	39
+16	GROUP LIFE INSURANCE	40
+17	LEAVE WITHOUT PAY .Application for Leave .Return to Position .Union Conventions .Leave to Protect Status	41
+1 18	JURY LEAVE	42
+19	MILITARY LEAVE	42
+20	MILITARY TRAINING LEAVE	44
+21	CALL IN TIME	45
+22	BULLETIN BOARDS	46
+23	UNION COMMITTEE	46
+.Union Leave .Non-discrimination .List of Officers .Printing of Contract
+24	DISCIPLINE & DISCHARGE	47
+.Just Cause
+5
+ARTICLE		PAGE
+25	.Disciplinary Measures	' .Suspension/Discharge Appeals .Voluntary Demotion GRIEVANCE PROCEDURE	49
+26	.Definition .Procedure/Grievance Steps .Arbitration Appeals .Dismissal Appeals .Personnel Appeal Board .Review of Personnel Files ARBITRATION	52
+27	MEDIATION	54
+28	HEALTH & SAFETY	57
+29	.Definition .Safety Committee .Personal Tools TESTING	58
+30	NO STRIKES OR LOCKOUTS	59
+31	SEVERABILITY	59
+32	EDUCATION & TRAINING PROGRAM	60
+33	SUB-CONTRACTING PROCEDURE	61
+34	LABOR MANAGEMENT COMMITTEE	63
+35	LEGAL DEFENSE	63
+36	COMPENSATION PLAN/MALPRACTICE COMMITTEES	64
+37	P.E.O.P.L.E. DEDUCTIONS	65
+6
+ARTICLE
+38	NON-PERFORMANCE OF BARGAINING UNIT WORK	65
+39	CETA	65
+40	MILEAGE PROVISIONS	65
+41	PERSONAL BUSINESS LEAVE .Formula .Requests for Leave .Grievances on Leave Requests .Pro-rata Formula	66
+42	RECLASSIFICATION AND/OR UPGRADING	67
+43	TUITION REIMBURSEMENT	70
+44	DAY CARE	72
+45	RETIREE MEDICAL COVERAGE	73
+46	!	ALTERATION OF AGREEMENT -Clothing Allowance	74
+	.Entire Agreement -Written Alteration -Mini-Contracts -Flex Time	
+47	TRANSITIONAL EMPLOYMENT	76
+48	TEMPORARY SERVICES	77
+49	EMPLOYEE FEEDBACK PROGRAM	79
+50	TERMINATIONREOPENING OF AGREEMENT	80
+7
+MEMORANDUM OF AGREEMENT
+This Master Agreement is hereby entered into this day of February, 2001 by and between the State of Rhode Island, hereinafter referred to as the State, and Rhode Island Council 94, A.F.S.C.M.E., AFL-CIO, hereinafter referred to as the Union.
+PURPOSE
+It is the purpose of this Agreement to carry out the policy of the State of Rhode Island by encouraging a more harmonious and cooperative relationship between the State and its employees by providing for procedures which will facilitate free and frequent communication between the State and its employees. By means of this Agreement, therefore, the signatories hereto bind themselves to maintain and improve the present high standards of service to the people of the State of Rhode Island, and agree further that high morale and good personnel relations through a stabilised Union relationship are essential to carry out this end.
+ARTICLE 1
+RECOGNITION
+1.1	The State hereby recognizes the Union for the purposes of this Master Agreement as the sole and exclusive bargaining agent for all State employees with regard to wages, hours, and working conditions for whom Rhode Island Council 94, A.F.S.C.M.E., AFL-CIO are currently certified to represent by the decision of the State Labor Relations Board, and those State employees who are in bargaining units that are recognized by mutual agreement or upon
+1
+certification by the State Labor Relations Board.
+Upon such recognition, such new units shall automatically be covered by the terms of this Master Agreement and negotiations for mini-contracts shall begin immediately upon such recognition. Upon termination of the council 94 certification for any bargaining unit, the provisions of this Master Contract shall be automatically terminated. The terms of this Master Contract are non-transferable and non-assignable. The following is a list of the certificate
+numbers	currently	represented	by Council	94:	
+EE-1690	EE-1704	EE-1714	EE-1715	EE-1766	EE-1767
+EE-1778	EE-1789	EE-1794	EE-1804	EE-1805	EE-1825
+EE-1847	EE-1848	EE-1896	EE-1899	EE-1926	EE-1993
+EE-2048	EE-2057	EE-2060	EE-2069	EE-2089	EE-2098
+EE-3095	EE-3113	EE-3114	EE-3133	EE-3144	EE-3146
+EE-3149	EE-3152	EE-3157	EE-3163	EE-3221	EE-3260
+EE-3324	EE-3328	EE-3332	EE-3333	EE-3337	EE-3338
+EE-3342 EE-3418	EE-3373 EE-3446	EE-3402 EE-3504	EE-3403	EE-3406	EE-3417
+ARTICLE 2
+NON-DISCRIMINATION CLAUSE
+2.1	The State and the Union agree not to discriminate against any member of the bargaining units covered by this Agreement because of race, religion, creed, color, sex or sexual orientation, age, physical handicap, marital status, country of ancestral origin, political beliefs, or affiliations and/or membership in any
+2
+lawful organization.
+2.2	The State agrees that no employee shall be discriminated against, intimidated or coerced in the exercise of their right to bargain collectively through the Union, or on account of their membership in, or activities on behalf of the Union.
+2.3	The Union shall not discriminate against any employee in the administration of this agreement because of non-membership in the Union.
+2.4	The State and the Union agree to establish a committee consisting of representatives from both sides to continue to explore affirmative employment action and, if possible, to enter into a Letter of Understanding.
+2.5	Nothing in this Agreement shall be construed so as to prevent compliance with any obligation imposed by the Americans With Disabilities Act of 1990.
+ARTICLE 3
+UNION SECURITY & DUES DEDUCTION
+3.1	The State Controller shall deduct Union dues from the wages of all members within the respective bargaining units.
+3.2	In those bargaining units in which the Union has been certified as the exclusive bargaining agent, only the dues for the sole and exclusive bargaining agent shall be deducted. Membership in the Union may be determined by each individual employee.
+3.3	All non-members of the exclusive bargaining organization shall pay to the exclusive organization a service charge as a
+3
+contribution toward the negotiation and administration of the collective bargaining agreement in an amount equal to the regular bi-weekly membership dues of said organization.
+3.4	The State Controller shall forward all deductions covered by this agreement to Rhode Island Council 94, A.F.S.C.M.E., AFL-CIO on a bi-weekly basis.
+3.5	The State Controller shall deduct back dues from any arbitration award in the case of a suspension or discharge which has been overturned by an arbitrator, and shall remit the amount to Council 94, A.F.S.C.M.E.
+3.6	The State recognizes the Union's ability to increase dues lawfully and in accordance with its constitution and by-laws, and upon written representation by the Union that dues have been lawfully increased and in accordance with its constitution and by-laws, the State agrees to adjust the amount of dues deduction accordingly, provided that such an adjustment is consistent with the authorization of the employee as required by law.
+The Union shall indemnify and save the State harmless against any and all claims, demands, suits or other forms of liability that shall arise out of or by reason of action taken or not taken by the State in reliance upon the Union's representation that its dues have been lawfully increased and in accordance with the Union's constitution and by-laws or for the purpose of complying with any of the provisions of this Article.
+4
+3.7	The appointing authority shall give written notice to the Treasurer of the Union of all new employees within the respective bargaining units who become eligible for membership in the Union. Said notice shall be given monthly and shall include the employee's name, address, social security number, date of hire, classification, work assignment and location.
+ARTICLE 4
+MANAGEMENT RIGHTS
+4.	1 The Union recognizes that except as specifically limited, abridged or relinquished by the terms and provisions of this agreement, all rights to manage, direct or supervise the operations of the State and the employees are vested solely in the State.
+For example, but not limited thereto, the employer shall have , the exclusive rights subject to the provisions of this agreement and consistent with the applicable laws and regulations: A. To direct employees in the performance of the duties of their positions;
+B.	To hire, promote, transfer, assign, and retain employees in positions within the bargaining units and to suspend, demote, discharge, or take other disciplinary action against such employees;
+C.	To maintain the efficiency of the operations entrusted to it;
+D.	To determine the methods, means and personnel by which such operations are to be conducted;
+5

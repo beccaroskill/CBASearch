@@ -1,0 +1,864 @@
+﻿MICHIGAN STATE UNIVERSITY
+COLLECTIVE BARGAINING AGREEMENT
+Between
+MICHIGAN STATE UNIVERSITY
+and
+THE GRADUATE EMPLOYEES UNION, LOCAL 6196, AFT-MICHIGAN/AFL-CIO
+May 16, 2015 - May 15, 2019
+TABLE OF CONTENTS
+ARTICLE	TITLE	PAGE
+Article 1	Term of Agreement	2
+Article 2	Definitions	5
+Article 3	Purpose and Intent	5
+Article 4	Recognition	6
+Article 5	Employer Rights	7
+Article 6	Union Rights	9
+Article 7	Anti-Discrimination	11
+Article 8	Union Dues and Representation Fees	12
+Article 9	Employee Rights	13
+Article 10	Employment Period	15
+Article 11	Appointments	15
+Article 12	Job Security	17
+Article 13	Workload	19
+Article 14	Standard Performance Requirements	19
+Article 15	Training and Professional Development	21
+Article 16	Teaching Assistant Evaluation	22
+Article 17	Additional Employment	23
+Article 18	Employee Leave Time	23
+Article 19	Stipends	26
+Article 20	Tuition Waiver	28
+Article 21	Benefits	29
+Article 22	Personnel Records	31
+Article 23	Health and Safety	31
+Article 24	No Interference	32
+Article 25	Special Conferences and Consultations	32
+Article 26	Grievance Procedure	33
+Article 27	Information	38
+Article 28	Distribution of the Collective Bargaining Agreement	38
+Article 29	Scope of the Agreement	38
+Appendix A	Schedule of Minimum Biweekly Stipends	42
+Appendix B	Memoranda of Understanding and Letters of Agreement	43
+1
+ARTICLE 1
+TERM OF AGREEMENT
+I.	This Agreement is made by and between Michigan State University and the Graduate Employees Union Local 6196, and shall be effective from and after May 16, 2015 until and including May 15, 2019 with respect to all provisions of this Agreement except as specifically noted.
+II.	If either party desires to terminate this Agreement, it shall, one hundred twenty (120) days prior to the termination date, give written notice of termination. If neither party shall give notice of termination of this Agreement as provided in this paragraph or notice of amendment, as hereinafter provided, or if each party giving notice of termination withdraws the same prior to the termination date, this Agreement shall continue in effect from year to year thereafter subject to notice of termination by the other party on sixty (60) days written notice prior to the current year's termination date.
+III.	If either party desires to modify or change this Agreement, it shall, one hundred twenty (120) days prior to the termination date or any subsequent termination date, give written notice of amendment, in which event the notice of amendment shall set forth the nature of the amendment or amendments desired. If notice of amendment of this Agreement has been given in accordance with this paragraph, this Agreement may be terminated by either party on ten (10) days written notice of termination but not before the effective termination date of this Agreement. Any agreements that may be agreed upon shall become and be a part of this Agreement without modifying or changing any of the other terms of this Agreement.
+IV.	Notice of Termination and Modification. Notice shall be in writing and shall be sufficient if sent by certified mail, addressed to the Union and if to the Employer, addressed to the Director of Employee Relations or to any such address as the Union or the Employer may make available to each other.
+VI. IN WITNESS WHEREOF, the parties have set their hands this day of, 2015.
+Sylvia Marques, President History
+June Youatt
+Provost and Executive Vice President for
+Academic Affairs
+2
+Carolyn Pratt, Co-Chief Negotiator History	Dr. Satish Udpa Executive Vice President Administrative Services
+Kelly Stec, Co-Chief Negotiator Psychology	Theodore H. Curry II Associate Provost and Associate VP for Academic Human Resources
+Elle Gulotty Fisheries and Wildlife	Melanie Trowbridge Assistant Director Academic Human Resources
+Sam Lipschutz Physics	Sharon E. Butler Assistant Vice President Human Resources
+Melissa Wright Sociology	James D. Nash Director Office of Employee Relations
+Apryl Pooley Neuroscience	Katheryn L. Elliott Employee Relations Manager Office of Employee Relations
+Charles Loelius Physics	Amy B. Holda Employee Relations Manager Office of Employee Relations
+3
+Meredith Place, Lead Organizer Graduate Employees Union #6196, AFT, AFL-CIO
+Michelle Rutkowski
+Employee Relations Professional
+Office of Employee Relations
+Bill Hart-Davidson
+Associate Dean for Graduate Studies
+College of Arts & Letters
+Manoochehr Koochesfahani
+Associate Dean for Graduate Studies & Faculty
+Development
+College of Engineering
+Rich Schwartz
+Associate Dean for Graduate Academic and
+Student Affairs
+College of Natural Science
+4
+ARTICLE 2
+DEFINITIONS
+I.	Academic Matter - all of the activities related to the student’s program of study and progress in that program which specifically refer to the role as a student.
+II.	Day - Unless otherwise specified, the term “day” shall mean a calendar day.
+III.	Employee - A member of the bargaining unit.
+IV.	Employer and University - The terms “Employer” and “University” are used interchangeably.
+V.	Faculty - includes tenure system ranked faculty, fixed-term ranked faculty and instructional
+staff.
+VI.	Full Support Fellows - Fellows with a financial support package analogous to the package of a graduate assistant (stipend and benefits).
+VII.	GAANN - Graduate Assistantships in Areas of National Need.
+VIII.	In Good Standing - Meeting or exceeding the minimum standards officially defined in writing
+by the University; the relevant college, department, school and/or program; or defined by annual academic evaluation/progress reports; and guidance committee decisions.
+IX.	Stipend and Salary - The terms “Stipend” and “Salary” are used interchangeably and refer to the total monetary compensation for completing all required course responsibilities.
+X.	Teaching Assistant - A Teaching Assistant (TA) is a graduate student whose assistantship appointment consists of teaching, classroom instruction, preparing handouts, monitoring examinations or performing other instructional activities, except as excluded per the Michigan Employment Relations Commission case No. R01 B-020 of May 1, 2001.
+XI.	Union - Graduate Employees Union Local 6196/AFT-Michigan/AFT/AFL-CIO.
+ARTICLE 3
+PURPOSE AND INTENT
+I.	This Agreement has as its purpose the promotion of cooperative relations between the Employer and the Graduate Employees Union, the establishment of an equitable and peaceful procedure for the resolution of differences, the establishment of rates of pay, hours of work, and other conditions of employment.
+5
+II.	The parties recognize the interest of the Employer and job security of the Employees depend upon the Employer’s success in establishing a proper service to the public and especially to students of the University.
+III.	To these ends, the Employer and the Graduate Employees Union encourage, to the fullest degree, cooperative relations between their respective representatives at all levels and among all Employees. The parties are mutually committed to promoting respect, civility and teamwork.
+ARTICLE 4 RECOGNITION
+Michigan State University
+-and-
+Graduate Employees Union /AFT
+Pursuant to authority vested in the Michigan Employment Relations Commission, IT IS HEREBY CERTIFIED that
+Graduate Employees Union /AFT
+has been designated and selected by a majority of the Employees of the above-named employer, in the unit described below, as their representative for the purposes of collective bargaining, and that pursuant to Sections 26 and 27 of Act No. 176 of the Public Acts of 1939, as amended, or Sections 11 and 12 of Act 336 of the Public Acts of 1947, as amended, the said organization is the exclusive representative of all the Employees in such unit for the purposes of collective bargaining with respect to rates of pay, wages, hours of employment, and other conditions of employment.
+Unit:
+Included:
+All graduate assistants at MSU appointed as Teaching Assistants, except for those Teaching Assistants excluded below.
+Excluded:
+1.	All graduate assistants appointed as research assistants, as exemplified by the status quo appointment practices in use as of February 2, 2001.
+6
+2.	All graduate assistants appointed as Teaching Assistants:
+a.	Whose responsibilities are as Assistant Hall Directors (formerly known as residence hall advisors);
+b.	Who supervise other graduate Teaching Assistants where the supervision involves intervention as needed and the taking of action: (a) if a recitation section or class is off-track and/or (b) when course information is not delivered to the students; and/or (c) where it involves the evaluation of the performance of a Teaching Assistant on behalf of the faculty member of record;
+c.	Whose responsibilities are as graders who do not have direct classroom and/or laboratory instructional responsibilities and/or personal contact in pre-scheduled and posted office hours;
+d.	Whose responsibilities are to advise or consult and who (a) do not have direct classroom and/or laboratory instructional responsibilities or (b) do not have office hours for purposes other than advising or consulting;
+e.	Whose responsibilities are to tutor and who are not employed primarily to assist students enrolled in a specific course;
+f.	Who are GAANN fellows or others on similar state or federal training grants;
+g.	Who teach courses offered by the MSU Detroit College of Law and who are paid by
+reimbursement funds from MSU-DCL.
+3.	All other Employees.
+ARTICLE 5
+EMPLOYER RIGHTS
+I.	Except as specifically abridged by this Agreement, all powers, rights, and authority of the Employer are reserved by the Employer, and the Employer retains sole and exclusive control over any and all matters in the operation, management, and administration of the University, the control of its properties and the maintenance of order and efficiency of the workforce, and complete authority to exercise those rights and powers, including, by way of illustration but not by way of limitation, the exclusive right and authority:
+A.	to determine the type and kind of services to be rendered and the work to be performed by Employees;
+7
+B.	to make all financial decisions, including decisions concerning all accounting, bookkeeping, and other record-keeping methods and procedures;
+C.	to	determine the number, location, or relocation of facilities, buildings,	and rooms;
+D.	to	determine its organizational and business structure;
+E.	to	determine whether to transfer, contract, subcontract or discontinue	work and
+whether to purchase services from others;
+F.	to determine the necessity for work by Employees;
+G.	to discipline, suspend, or discharge Employees for just cause;
+H.	to determine the duration of employment upon appointment. Employees should not presume they will be re-appointed beyond the term of their appointment;
+I.	to lay off Employees from duty because of lack of work or for other business reasons;
+J.	to determine the amount and type of supervision;
+K.	to determine materials and equipment to be utilized by Employees and the methods and means by which work shall be performed and services provided;
+L.	to have any work performed at any other location; and,
+M.	to determine the appointment fraction and the schedule of Employees upon appointment; and to determine the schedule of Employees.
+II.	It is further agreed, except as abridged by the specific terms of this Agreement, that the Employer retains sole and exclusive control over all matters pertaining to the selection, direction, instruction, and control of Employees, including, by way of illustration but not by way of limitation, the right:
+A.	to hire, select, assign, reassign, reclassify, or promote Employees;
+B.	to determine the number and qualifications of Employees;
+C.	to adopt and enforce policies, rules and regulations, including rules and regulations
+covering health and safety matters on University premises, in the performance of University-related activities, and at University-sponsored activities;
+D.	to determine quality and equitable performance standards;
+8
+E.	to determine the job content, allocation and assignment of work to Employees;
+F.	to establish new job classifications and modify and eliminate existing classifications within the bargaining unit;
+G.	to determine the duration and requirements of all appointments;
+H.	to determine class size;
+I.	to determine all academic policies, procedures, rules and regulations in regard to Employees’ status as students, including, but not limited to, all questions of academic standing, intellectual integrity and any matter relating to academic progress in a University educational program;
+J.	within the academic sphere, to make academic evaluations and determinations as to the fulfillment of degree requirements, including the relationship between work performance and progress toward degree requirements;
+K.	to determine program or course curriculum and content and style and mode of instruction;
+L.	to determine, require and provide appropriate training; and,
+M.	to perform all other functions inherent in the administration, management, and control of the University.
+III.	The Employer and the Union agree that nothing contained in this description of Employer rights waives the Union’s right to collectively bargain mandatory subjects of bargaining.
+ARTICLE 6
+UNION RIGHTS
+I.
+Union -Employer Business
+The Union’s internally-designated representatives will be permitted to transact official business with appropriate representatives of the Employer at mutually agreeable times provided they follow regular Employer procedures.
+II.	Union Meetings on Campus
+The Union may request to schedule periodic meetings to conduct Union business on campus, subject to customary charges, if any. Requests for such space shall be processed through
+9
+regular Employer procedures. Other facilities or equipment, such as computing and audiovisual, may also be available at customary charges.
+III.	Employee Information
+A.	Current Bargaining Unit List
+Not more than fourteen (14) days after the start of each employment period, the Employer shall provide, at no cost to the Union, a list of all current Employees in the bargaining unit. This list shall be alphabetical, and contain:
+1.	Employee’s first name
+2.	Employee’s last name
+3.	Employing unit
+4.	Enrolled unit
+5.	Job title
+6.	Appointment	level
+7.	Appointment	percentage
+8.	Rate of pay
+9.	Local address	and phone number
+10.	Permanent address and phone	number
+11.	E-mail address
+12.	MSU-NET ID
+13.	Numbers of semesters as	a	graduate	assistant
+All information above will be provided as required or allowed by state or federal law. These lists will be provided by the Employer in an electronic format.
+B.	Current Bargaining Unit List Update
+On the fourth day of every month following the release of information stipulated in Article 6, section III, subsection A, the Employer shall provide, at no cost to the Union, an updated list of all current Employees in the bargaining unit. This list shall contain all elements of information as stipulated in Article 6, section III, subsection A.
+In addition, the Employer shall furnish a monthly Union group report showing any changes for the current bargaining unit Employees in the previous calendar month.
+IV.	Bulletin Boards
+A.	The Employer shall provide the Union with bulletin board space designated with the Union ’s name for its exclusive use in eleven (11) mutually agreed upon areas for the purpose of posting Union notices. Such space in each area will be large enough to
+10
+hold eight (8) 8-1/2-inch by 11-inch sheets. The Union may post information and notices on any of the enumerated topics below:
+1.	The date, time, location and description of Union events.
+2.	Notices of Union elections.
+3.	The results of Union elections.
+4.	Information pertaining to changes in constitutions and by-laws of the Union or its affiliate organizations.
+B.	In no case will the Union post on Union bulletin boards derogatory or defamatory material about the University, its units, or any Employee of the University.
+C.	In the event a dispute arises concerning the appropriateness of material posted on a Union bulletin board, the Union will be advised by a designated Employer official of the nature of the dispute and the material will be removed until the dispute is resolved.
+D.	The Employer and the Union shall attempt to resolve any dispute arising as a result of posted material at a Special Conference no more than seven (7) days following the dispute.
+V.	The Employer shall provide the Union with file space for a Union Web site, along with links to the Union Web site from the Human Resources and Graduate School Web pages.
+VI.	The Union shall be permitted to distribute materials in University mailboxes on the basis of an employing unit’s customary means and through electronic mail.
+VII.	The Employer agrees bargaining unit work will not be eliminated for the purpose of undermining the Union.
+ARTICLE 7
+ANTI-DISCRIMINATION
+I.	The Employer and the Union shall adhere to the anti-discrimination policies adopted by the Board of Trustees and to applicable federal, state, and local anti-discrimination laws and regulations. 1
+II.	If an Employee claiming a violation of this article elects to proceed to an administrative agency or to court during the pendency of the grievance or at any time prior to the issuance
+1 Please see the website of the Office for Inclusion and Intercultural Initiatives (www.inclusion.msu.edu) or the Graduate Employees Union website (www.geuatmsu.org)
+11
+of the written opinion and award of an arbitrator, the grievance will be considered to have been withdrawn.
+III.	Union Activities
+Neither the Employer nor the Union shall discriminate against, intimidate, restrain, coerce, or interfere with an Employee because of, or with respect to, her or his lawful Union activities, including participation in a grievance, or membership, or the right to refrain from such activities or membership. In addition, there shall be no discrimination against any Employee in the application of the terms of this Agreement because of membership or nonmembership in the Union.
+ARTICLE 8
+UNION DUES AND REPRESENTATION FEES
+I.	General Terms
+A.	During the term of this Agreement, the Employer will deduct current Union dues or representation fees from the salary of each Employee who voluntarily elects and authorizes such deduction by using a mutually agreed upon payroll deduction authorization form/membership card. New individual authorizations submitted to the Employer’s payroll office on or before the last calendar day of each month will be effective for deductions from the first paycheck in the following month.
+B.	The Employer (appointing unit) shall within fifteen (15) calendar days following the offer of an appointment, or the start of the employment period, whichever is later, inform each new Employee of his/her options under this article and will provide a payroll deduction authorization form/membership card. Such payroll deduction authorization form/membership card shall be provided to the Employer by the Union. The payroll deduction authorization form/membership card will be provided to all new Employees with their appointment forms, and thereafter will be available to all Employees through their department, unit, and/or from the Union .
+C.	The Employer will deduct Union dues or representation fees per pay period from the stipend of Employees who have authorized a deduction. An Employee may revoke his/her payroll deduction authorization at any time by submitting notice on the “Authorization to Discontinue Union Dues or Service Fee Deductions Form” and sending it to the Employer’s payroll office and the Union by U.S. certified mail. Such revocation will be processed within thirty (30) days of receipt.
+D.	The amount or rate of the deductions shall be certified to the Employer in writing by the Union’s financial officer. The Employer shall implement any changes in the
+12
+certified deduction amount as soon as possible, but in no case later than sixty (60) days after notification by the Union.
+E.	The Employer will remit all deductions to the Union for each month that dues or fees were deducted within twenty (20) days after the payday covering the pay period of the deduction. At the same time, the Employer will provide the Union with a list of all Employees from whose pay dues or fees have been deducted. This list shall be alphabetical and contain the name of the Employee, the MSU-Net ID of the Employee, and the amount deducted from each Employee’s pay and whether this amount represents dues or fees unless doing so violates law, in which case information shall be anonymous. This list will be provided by the Employer in a mutually agreed format. The Union shall provide the Employer with a Dues and Representation Fee Discrepancy Report listing under-deductions within twenty (20) working days following the receipt of the sums and the lists of names described above. The Employer shall review the Dues and Representation Fee Discrepancy Report and make all appropriate adjustments to payroll deductions as early as feasible, but no later than the second subsequent payday. In cases where a deduction is made that duplicates a payment already made to the Union by an Employee, or where a deduction is not in conformity with the dues and fee structure of the Union, refunds to the Employee shall be made by the Union .
+F.	Unless authorization is withdrawn, dues and fees shall be calculated over the entire employment period from Employees who have authorized a deduction on any applicable stipend received in the pay period.
+G.	When an Employee who has a payroll deduction authorization form/membership
+card on file with the Employer Payroll Office, or for whom automatic deduction has been authorized under Section III, ceases to be in the bargaining unit, the dues and fees deduction under this Agreement shall cease unless the Employee resumes employment in the bargaining unit.
+H.	The Union shall protect and save harmless the Employer from any and all claims, demands, suits and other forms of liability by reason of action taken or not taken by the Employer for the purpose of complying with this Article.
+II.	Union Membership Dues
+If the Employee desires to voluntarily join the GEU, the Employee shall complete the payroll deduction authorization/membership card, check the membership box and submit it to the Union office.
+13
+III.
+Representation Fees
+If the Employee does not desire to join the GEU, but voluntarily agrees to pay a representation fee, the Employee shall complete the payroll deduction authorization/membership card for representation fees, check the representation fee box and submit it to the Union office.
+ARTICLE 9
+EMPLOYEE RIGHTS
+The following will be accorded to Employees in order to contribute to a professional atmosphere in their classrooms/laboratories, employing units and the University:
+I.	Library borrowing privileges shall be provided to Employees for not less than 180 days, subject to library recall policies.
+II.	Appropriate technology, technological support and training that are necessary for the performance of an Employee’s duties, as determined by the employing unit, will be provided at no cost to the Employee.
+III.	Employees with University parking permits shall have access to campus parking in all Faculty/Staff lots south of the Red Cedar River.
+IV.	Employees shall have access, as permitted by the University parking authority, to building loading zones and, if available, handcarts for the purposes of loading and unloading materials related to the performance of employment duties.
+V.	Any materials required for the performance of an Employee’s duties, including materials required of students in the course to which the Employee is assigned, shall be provided to the Employee at no cost for the semester. Employing units may give such materials permanently to the Employee.
+VI.	Each employing unit or department shall make arrangements for Employees’ access to their
+assigned buildings, including work spaces. Such access shall not be unreasonably limited.
+VII.	Access to supplies, duplicating, collating and other office machinery (including but not limited to photocopiers, computers and computer printers) shall be available without charge to an Employee at least to the extent required by his/her employment obligations, as determined by the employing unit. In addition, each Employee shall be reimbursed for approved course materials made when supplies are otherwise unavailable.
+VIII.	Employees will be provided access to telephones, the internet and a desk or work surface for the performance of employment duties.
+14
+IX.	An Employee who teaches a discussion, lab or lecture course will be consulted by the chairperson/director or designee prior to any change in any grade that the Employee has assigned.
+X.	Each employing unit shall make appropriate arrangements for safe storage of final exams and grading records. The location and rules of access to these storage facilities will be communicated by the employing unit to all Employees.
+XI.	Employees shall have the right to take reasoned exception to information and views offered
+in courses in which they are employed and to make suggestions for improvement.
+XII.	Policies regarding Employee priority in the purchase of athletic tickets and passes shall apply to Employees.
+XIII.	Each employing unit shall make available a convenient receptacle at a designated location for Employees to receive University business correspondence and U.S. mail. Employing units that provide individual Employee mail receptacles on the execution date of this Agreement shall continue to provide such individual receptacles.
+XIV.	Employees will have access to an email account in the same manner as the faculty.
+ARTICLE 10 EMPLOYMENT PERIOD
+The periods of employment will be:
+A.	Fall Semester: August 16 to December 31
+B.	Spring Semester: January 1 to May 15
+C.	Summer Semester: May 16 to August 15
+The University agrees to extend Health Insurance coverage, including Spouse/OEI/Dependent Health Coverage where applicable, for the duration of the summer semester employment period as identified above.
+ARTICLE 11 APPOINTMENTS
+I.	Term of Appointment
+A.	Appointments of Employees shall be for a specific period up to one year. However, nothing within the terms of this Agreement precludes the Employer from making
+15
+appointments of Employees for periods longer than one year. Appointments and assignments shall be at the discretion of the employing unit.
+B.	All newly appointed and re-appointed Employees shall receive a letter of appointment that specifies the appointment title, level and the appointment time fraction. Such appointment letter shall also include the effective dates, salary and, if known, teaching or work schedule and the employing unit representative to contact for information regarding the appointment and applicable benefits.
+II.	Employment Information
+A.	The Employer will make relevant employment information available on the Graduate School Web Site, which shall include employing unit contact name, telephone number and e-mail addresses, or employing unit web sites that include B, 1 and 2, below.
+B.	Employing units employing or anticipating the employment of Teaching Assistants will make information about all available openings, qualifications, and application procedures, including application due dates, for Teaching Assistantships available to graduate students. (The term “available openings” does not include those set aside for recruitment purposes.) However, employing units retain the right to select Teaching Assistants who satisfy their own specific requirements. Employing units will maintain posted information as follows:
+1.	Information about procedures for applying for Teaching Assistantships including the name or location of an office where inquiries or applications may be made.
+2.	A listing of courses that typically have Teaching Assistants assigned or are expected to have Teaching Assistants assigned. This list will be updated to include other course opportunities that may become available. A separate list of Summer Semester course possibilities will be posted if applicable.
+3.	Employing units will allow applicants for Teaching Assistantships to submit in
+writing course placement preferences.
+III.	Re-Employment Notification
+The Employer, through its employing units, will notify an Employee of a decision to reemploy or not to re-employ as an Employee:
+A.	By March 31 (1) for those who will be employed for the following Summer Semester, (2) and as soon as practicable but no later than April 22 for those who will be employed for the following Fall and Spring Semesters, or (3) for those who will be employed for the following Fall Semester, and
+16
+B.	By December 1 for those who will be employed for the following Spring Semester.
+C.	The reappointment letter may contain language that qualifies the offer of employment to unusual circumstances, using the following sentence: “This appointment may be withdrawn only in unusual circumstances.”
+D.	In the event of unusual circumstances resulting in the withdrawal or reduction of any appointment, the Union shall be notified concurrently with the Employee and a Special Conference shall be held within seven (7) working days.
+E.	If notification letters are not issued within the specified time limits, and the Union notifies the employing unit, the Dean of the Graduate School and the Office of Employee Relations of failure to comply with III A., the employing unit shall issue the letter within three (3) working days. Employees who do not receive a letter within three (3) days of notice shall receive two weeks’ pay from the employing unit at the pay rate the Employee would have received had she or he been appointed. Acceptance of such payment will satisfy any grievance or claim pertaining to this matter.
+IV.	Employment Pool
+An employing unit that has employment opportunities after the dates in Section III, A, and III, B, above, will maintain a pool of applicants who meet employment qualifications and who may be employed at a later date. The employing unit will, upon request, advise applicants as to whether they are in the pool.
+ARTICLE 12 JOB SECURITY
+I.	Period of Employment and Termination
+An Employee shall be employed for a specific period of not less than one semester or for a special limited purpose. Employment for a “special limited purpose” is employment that covers unforeseen needs that arise during a semester that may be for less than one semester.
+In all cases, employment terminates at the end of the specific period as noted in the appointment letter (so long as all required course responsibilities are completed), or when the special limited purpose is completed.
+While employment will continue until the completion of course responsibilities, Employees will not be required to work more than three (3) days past the grade submission date unless an alternative arrangement has been made between faculty and the Teaching Assistant.
+17
+Employment may also terminate when the Employee fails to meet the following requirements at the University:
+A.	Fall and Spring Semesters:
+1.	Be in good standing according to University policy as a student in a master’s degree program and registered for not fewer than six (6) credit hours each semester, respectively, or
+2.	Be in good standing according to University policy as a student in a doctoral degree program and registered for not fewer than three (3) credit hours each semester, or not fewer than one (1) credit hour each semester after successful completion of all comprehensive examinations.
+B.	Summer Semester:
+Be in good standing according to University policy as a student in a graduate degree program and registered for not fewer than three (3) credit hours or not fewer than one (1) credit hour each semester after successful completion of all comprehensive examinations.
+II.	Notwithstanding the above, Employees in the last semester of their graduate degree program shall enroll for a minimum of one (1) credit hour.
+III.	No academic matter regarding an Employee’s role as a student provided for in Sections I, A, 1; I, A, 2; and I, B of this Article shall be subject to the Grievance and Arbitration Procedure.
+IV.	Procedure for Unsatisfactory Performance
+When employment performance is unsatisfactory, the employment duties may be reduced and employment fraction and pay may be reduced correspondingly, or employment may be terminated. In cases of unsatisfactory employment performance, the matter will first be discussed with the Employee prior to any action being taken. If the Employer determines that the existing situation can be corrected by the Employee and is of such a nature that correction is appropriate, the Employee will be given not less than one calendar week from date of discussion to make the correction. A written summary of such a discussion will be available at the written request of the Employee provided the request is received within forty-eight (48) hours of the discussion. When allowed by law, a copy of this summary will be provided to the Union.
+18
+V.
+Discipline
+The parties recognize the authority of the Employer to suspend, discharge, or take other appropriate disciplinary action against Employees for just cause. Discharge may result from an accumulation of minor infractions as well as for a single serious infraction. Whenever it is appropriate, the Employer shall give the Employee advance notice of its intent to hold an investigatory interview. An Employee shall be entitled to the presence of a Union Representative at an investigatory interview if he/she has reasonable grounds to believe that the interview may be used to support disciplinary action against him/her, and he/she requests representation. If any discipline is taken against an Employee, the Employee will receive a copy of the disciplinary action. In the event that an Employee is discharged, the Employee will receive a copy of the notice of discharge, including a summary of the reasons for the discharge. When allowed by law, the Union will be provided a copy of any notice of discharge. An Employee may appeal a suspension or discharge beginning at Step Two of the Grievance Procedure.
+VI.
+Appeals
+If a determination results in a discharge or a reduction in fraction of employment and pay during the term of employment, a grievance may be submitted beginning at Step Two of the Grievance Procedure, provided the grievance is submitted in writing within the fifteen (15) calendar day period following notice of the discharge or reduction. In the event of an arbitration, if the Arbitrator does not find for the Employer, the Arbitrator may only make a finding of fact and award pay but not reinstatement. Such pay shall not exceed an amount that the Employee would have earned from the date of discharge to the end of the term of employment.
+ARTICLE 13
+WORKLOAD
+I.	Employee appointments shall average ten (10) hours (1/4 time), twenty (20) hours (1/2 time) or thirty (30) hours (3/4 time) per week over the length of a semester appointment. The specific number of hours in any week may vary from the average according to the needs of the employing unit. However, over the course of the semester appointment, the average number of hours worked per week shall not unreasonably exceed the above.
+II.	At the outset of the appointment, and as questions arise during the appointment, supervisors shall discuss the work location(s), travel requirements, and scope and pattern of duties with the Employees. This discussion should also account for how the Employee is expected to spend his or her time in fulfilling specific duties, including authorized travel. During these consultations, the Employee and supervisor may use the worksheet provided by the Union as a communication aid. Should supervisors become aware of potential
+19
+workload fluctuations of a substantial nature, including changes to enrollment limits, they will notify affected Employees as soon as practicable.
+III.	Michigan State University designated holidays are as follows:
+New Years (2 days)	Labor Day
+Memorial Day	Thanksgiving (2 days)
+Independence Day	Christmas (2 days)
+IV.	If, during the course of an appointment, it is determined that an Employee is expected to
+work more than the average specified in Paragraph I, above, the employing unit will increase the appointment or reduce the workload appropriately.
+V.	Employees appointed for a special limited purpose may be appointed at a level less than ten (10) hours (1/4 time).
+ARTICLE 14
+STANDARD PERFORMANCE REQUIREMENTS
+I.	In the performance of their duties, all Employees will conduct themselves in a manner that is
+professional, courteous and conducive to a professional atmosphere in their class/laboratory, employing unit and the University.
+II.	Employee Responsibilities
+A.	Employees are responsible for following University policies and procedures regarding instruction.
+B.	Employees are responsible for carrying out their duties under the direction, and according to the requirements, of assigned faculty of record or supervisors.
+C.	Employees shall be responsible, under faculty of record or supervisor direction, for maintaining the integrity of scholarship, grades and professional standards in instruction.
+D.	Employees who are assigned responsibility for determining course/laboratory content will ensure that such content is consistent with course descriptions approved by the Academic Council.
+E.	Where applicable, Employees are responsible for clearly stating course objectives,
+methods of determining final course grades and any special attendance requirements that differ from the unit’s attendance requirements at the beginning of the semester, and for specifying the above in course syllabi.
+20
+F.	Assignments and examinations are expected to be returned to students with reasonable promptness. Final exams and grading records shall be retained for at least one semester to permit review by students.
+G.	Employees are expected to meet their classes at the regularly scheduled times and to notify the supervising faculty or employing unit in advance if they are to be absent. Employees are encouraged to assist the employing unit in finding appropriate coverage for the missed classes.
+H.	Employees are expected to schedule and keep a reasonable number of office hours or to make appointments available for individual student or small group conferences. These times should be convenient for both students and Employees. Employees shall make reasonable efforts to respond to work-related e-mail communications.
+I.	Grades shall be assigned based on the methods described in the course syllabus and turned in to meet employing unit deadlines. Under normal circumstances, employing unit deadlines for final grades will be communicated 30 days in advance.
+III.	Unit Policies
+A.	An employing unit shall communicate to Employees any new policies or changes in policy, the standards of Employee conduct, and the penalties, if any, for violating such policies.
+B.	Every employing unit shall provide to the Union or an Employee in the unit, upon request, a copy of its policies at no cost.
+ARTICLE 15
+TRAINING AND PROFESSIONAL DEVELOPMENT
+I.	The Employer is responsible for establishing orientation and in-service training programs for all Employees. Such programs shall, at a minimum, provide training in the teaching of subject matter, an introduction to course goals, grading criteria and practices, and classroom procedures, as well as periodic classroom visitations. Employees shall, as part of their regular duties, participate in such programs.
+II.	While such programs are important for all Employees, attendance will not be required for any Employee who is determined by the employing unit already to have the skills and experience equivalent to those provided in the program.
+III.	Employing units will provide training that is specific to the assigned course at the outset of the employment period, as well as throughout the semester as necessary. The Employing
+21
+unit shall determine responsibility for this training. Employing units shall consider Employee input and participation in developing training programs. Employing units will consider, when reasonable, Employee requests for additional training.
+IV.	To gain feedback and increase Employees’ effectiveness, employing units will be encouraged to provide avenues for professional development. Such avenues may include mentorship in pedagogy and class observation by faculty and/or peers.
+V.	Required training during the defined work period of an Employee’s employment, will be
+included as part of the hourly total in the Employee’s workload. If required training occurs before the defined work period of an Employee’s employment, the Employee will be compensated in salary at the hourly equivalent of the Employee’s rate. Given a timely request by the Employee, the Employer will provide housing, if available, at the customary rates, to be paid by the Employee for Employees who attend training prior to the first day of class.
+VI.	Upon request, but not more than twice a semester, unless mutually agreed, the Employer agrees to meet with representatives of the Union to receive input, comment and suggestions relating to the need for specific training programs, the content of programs offered or programs to be considered for development. In such meetings the Employer agrees to arrange for participation of members of the University Community with appropriate expertise.
+ARTICLE 16
+TEACHING ASSISTANT EVALUATION
+I.	Where applicable, Employees shall use instructional rating reports in each course that they teach. Such reports will be designed in a way that reflects the duties assigned. These reports shall be submitted to the employing unit. Wherever practical, instructional rating reports shall not be the sole means for evaluating an Employee’s performance.
+II.	The faculty supervisor of each course staffed by an Employee shall submit each semester to the unit administrator a formal written evaluation of each supervised Employee. After notifying the Employee, selected members of the employing unit may visit and observe the Employee teaching in the instructional setting. Additionally, upon Employee request in writing, the Employer may observe, when appropriate, the Employee teaching in the instructional setting. Information from these visits and observations shall be used in the evaluation.
+III.	Student evaluation of Employees (or summaries thereof), formal written evaluations, and any supplementary information shall be placed in the Employee’s personnel record for use by the employing unit and the Employee in accordance with Section IV. This material shall
+22
+remain on active file until the Employee’s teaching role ends after which a copy of the record shall be provided to the Employee upon written request.
+IV.	Evaluation material described in Sections I, II and III may be used in overall evaluations.
+V.	The faculty supervisor shall consider Employee requests to evaluate discussion sections
+separately from lecture sections.
+VI.	Employees shall have the opportunity to comment in writing upon the ratings received and
+such comments shall be placed in the Employee’s personnel record.
+VII.	Upon Employee request, the evaluator shall meet with the Teaching Assistant to discuss the completed formal evaluation.
+VIII.	The Employer shall provide the Employee with a copy of the formal written evaluation within thirty (30) days of the receipt of all relevant materials.
+ARTICLE 17 ADDITIONAL EMPLOYMENT
+I.	An Employee whose primary employment is with Michigan State University may appropriately maintain additional employment either within or outside of MSU.
+II.	Such Employees will ensure that additional employment does not interfere with their
+employment responsibilities at MSU.
+ARTICLE 18 EMPLOYEE LEAVE TIME
+I.	Medical Leave
+A.	In the event an Employee is unable to meet employment obligations because of illness, injury, pregnancy, or childbirth, the Employee will, when possible, notify the appropriate immediate supervisor (or employing unit designee) as promptly as possible so that arrangements for the absence can be made by the employing unit.
+B.	During a medical leave, the employing unit shall adjust (reduce, waive or reschedule) the Employee’s duties as those duties and his/her physical circumstances reasonably dictate. If total absence from duties becomes necessary and the Employee is still enrolled, the employing unit shall maintain the stipend of the appointment provided for a period of two (2) months or to the end of the appointment period, whichever occurs first. Additional unpaid leave may be arranged on an ad hoc basis.
+23
+C.
+The Employee shall have the right to return to employment, provided there is no medical dispute, within the dates of the current appointment, at such time as he/she is able to resume duties.
+II.	Medical Dispute
+A.	In the event an Employee is inadequately performing his or her employment responsibilities and the Employer has a reasonable belief an Employee is unable to perform his or her employment responsibilities because of a physical or mental health condition, the Employee will be required to submit to a medical examination, paid by the Employer, as determined by the Office of the University Physician. In the event the Employer requires such a medical examination, the Employee shall be given notice in writing of the reasons for requiring the examination.
+B.	If the Employee is satisfied with the results of the medical examination, the parties will adopt the recommendation of the physician.
+C.	If the Employee is not satisfied with the results of the medical examination, he/she may submit a report from a health care provider of his/her own choosing. The Employee may submit the charges of this examination to any and all insurances for which the examination may be covered. If a balance remains following the application of insurance, the remaining expenses of this examination shall be paid by the Employee.
+D.	If the Employee is not satisfied with the results of the second examination, at the request of the Union , the University Physician and the Employee's health care provider shall agree upon a third health care provider who will conduct a medical examination and submit a report to the Employer and the Employee. The decision of such third party will be binding. The expenses of this report shall be shared equally between the Employer and Employee. For purposes of this examination, charges to the Employee may be submitted to any and all Employee insurances for which the examination may be covered. If a balance remains following the application of the Employer’s one-half and the Employee’s insurance, the remaining expenses shall be the responsibility of the Employee.
+E.	As long as the Employee makes a reasonable effort to secure the cooperation of his or her health care provider in the selection of a third health care provider, the Employer will not seek to discipline or discharge the Employee for a delay in this process which is beyond his or her control.
+F.	The University, with reasonable belief, may place an Employee on a paid leave of absence pending the above review not to extend beyond the end of the appointment or 2 months, whichever comes first. If the Employee is determined to be unable to return to work in the same capacity, the leave will retroactively be charged against
+24
+the Employee’s paid leave available in Article 18 section I. If the Employee is returned to work in the same capacity within the timelines outlined in this paragraph, no charge will be made against their leave time.
+G.	The Employee will be made whole for the loss of stipend if the results of the third medical examination indicate the Employee should not have been placed on unpaid leave.
+H.	In order to complete their appointment or be eligible for future employment, Employees put on leave under this article are required to submit return-to-work documentation from the provider who initially documented the need for the leave to Human Resources.
+II.	Bereavement Leave
+Employees will receive up to three (3) days of bereavement leave with pay following the death of an immediate family member. Additional time may be granted upon request.
+III.	Adoption and Parental Leave
+An Employee who adopts a child shall be entitled to adoption leave of up to two (2) months, the first week of which will be paid by the Employer and the balance which will be unpaid, to commence on or before the date of adoption as determined by the Employee.
+An Employee who becomes a parent by birth and is not otherwise covered by section one of this article, shall be entitled to parental leave of up to two (2) months, the first week of which will be paid by the Employer and the balance which will be unpaid to commence on or before the date of birth as determined by the Employee. Additional unpaid leave may be arranged on an ad hoc basis.
+To be eligible for adoption leave or parental leave:
+A.	It must be completed within six (6) weeks of the birth or adoption of a child under the age of six (6); and
+B.	It may not extend beyond the Employee’s previously scheduled appointment end date; and
+C.	It must be requested in writing, where possible, no less than four (4) weeks prior to the scheduled start of the leave.
+25
+IV.
+Jury Duty
+A.	An Employee who loses time from work during his/her normal schedule of work because of jury duty, or is called to testify pursuant to a court-issued subpoena provided the Employee is not a party to the legal action or the subpoena does not require the Employee to testify against the University, shall be paid for such time lost at his/her base rate of pay. Jury duty fees shall be offset against such pay as follows:
+1.	Employees serving on jury duty, who are absent from work for two weeks or
+less, will receive their regular pay and will not be required to submit proof of jury duty payment to the University. They must, however, still submit proof of jury duty service to their supervisor.
+2.	Employees serving on jury duty who are absent from work for more than two
+weeks will be required to submit proof of jury duty payment to their supervisor to facilitate the offset and adjustment of their regular, straighttime base pay by jury duty payments or witness fees received from the court.
+B.	The Employee will report for available work as soon as reasonable following release from jury duty but no later than the start of the next work day.
+ARTICLE 19 STIPENDS
+It is expressly understood a stipend is compensation for completing course responsibilities regardless of the employment period dates.
+I.	By the execution date of this Agreement, all Employees shall be paid a minimum biweekly salary to complete the requirements for each particular appointment status over the period of employment.
+II.	Levels in all units are determined as follows:
+A.	Level 1: Employees with less than one year of experience as a graduate assistant or full support fellow.
+B.	Level 2: Employees with a master’s degree or equivalent and/or two semesters’ experience as a graduate assistant or full-support fellow in the employing unit.
+C.	Level 3: Employees shall be appointed at Level 3 when they have completed a minimum number of semesters as a graduate assistant, provided that they have also attained a master’s degree or equivalent. The graduate assistant experience must be in the employing unit or in a department considered relevant by the chairperson or
+26
+employing unit. The minimum number of semesters shall be four (4), five (5) or six (6) but in any case no greater than the practice stipulated in 2004. If by August 16, 2015 a department or hiring unit has not clearly stipulated the number of semesters for appointment level 3 in their graduate handbooks, the number of semesters shall be four (4).
+D.	Employees will be compensated for employment at the highest level for which they
+are eligible. Changes in levels will be instituted for the semester of employment following attainment of the qualifications for the new level.
+E.	Master’s “equivalency” shall be defined as the requirements set forth in the University Guide to Academic Programs for the department in which the Employee is enrolled. If no Master’s degree is offered by that department, then the MSU minimum requirement (30 credits) for the Master’s degree will apply.
+III.	Salary increases from Level 1 to Level 2 and from Level 2 to Level 3 shall continue according to current practice.
+IV.	Annual Raise
+Employing units shall increase salaries each year of the Agreement as defined below. Employees hired during the Agreement period shall be paid at appointment level rates consistent with continuing Employees in the same employing unit.
+A.	Effective August	16, 2015,	a	two	percent	(2.0 %)	increase to all Teaching Assistants.
+B.	Effective August	16, 2016,	a	two	percent	(2.0 %)	increase to all Teaching Assistants.
+C.	Effective August	16, 2017,	a	two	percent	(2.0%)	increase to all Teaching Assistants.
+D.	Effective August	16, 2018,	a	two	percent	(2.0 %)	increase to all Teaching Assistants.
+Minimum Stipend Rates
+For the schedule of minimum stipends, please refer to Appendix A.
+A.	Effective August 16, 2015, the minimum stipend levels will be increased by ten percent (10%).
+B.	Effective August 16, 2016, the minimum stipend levels will be increased by the
+amount of the general increase.
+C.	Effective August 16, 2017, the minimum stipend levels will be increased by five
+percent (5%).
+27
+D.	Effective August 16, 2018, the minimum stipend levels will be increased by the amount of the general increase.
+V. When employed within the same employing unit, Employees shall not be paid stipends less than they received in any prior year for the same employment period.
+ARTICLE 20
+TUITION WAIVER
+I.	A tuition waiver equivalent to the resident core college graduate tuition rate shall be provided during the period of employment.
+The tuition waiver shall be in the amount of nine (9) credits for Fall Semester, nine (9) credits for Spring Semester, and five (5) credits for Summer Semester.
+II.	Exemption from Out-of-state Tuition
+All Employees will be assessed tuition at in-state rates. This exemption also applies to Summer Semesters preceding and/or following a full academic year’s appointment.
+III.	Fees
+The Employer agrees to waive Matriculation Fees, Information Technology Fees and any other University fees equally applicable to Employees (fees that appear on the tuition bill), with the exception of taxes instituted by a vote of the student body.
+IV.	Tuition Pool
+The Employer will establish a pool of funds at the beginning of each academic year. Effective August 16, 2015, the pool will cover four hundred fifty (450) credits at the fall semester’s tuition rate. This pool will be created for the express purpose of supplementing the tuition waiver benefit of those Teaching Assistants whose program requirements for any given semester exceed the current applicable maximum tuition waiver.
+Applications must be completed and submitted to the Graduate School according to the procedures outlined on the Graduate School website. Procedures for application and selection shall be mutually agreed upon by representatives of the Employer and the Union. Teaching Assistants who receive funds under this provision may be subject to a revision of their financial aid package.
+28
+ARTICLE 21 BENEFITS
+I.	Health Insurance
+A.	Health Insurance shall continue at the current level of benefits, with the following changes to be effective August 15, 2015
+1.	Employees may be seen by any physician at Olin Health Center by appointment.
+2.	The per-illness or per-injury cap shall be unlimited.
+3.	Coverage for Medical Charges shall be 95% for Preferred Care Providers and 80% for Non-preferred Care Providers
+4.	Covered Preventative Services shall include one annual gynecological exam (including laboratory costs) and mammography when recommended, with no age limit.
+5.	One of the three physician office visits at Olin subsidized by MSU may be a general physical exam.
+6.	Preferred Care Physician’s office visits, including mental health care benefits shall include:
+a.	Unlimited visits per year;
+b.	The Employee will be responsible for a $15 co-pay per visit after satisfying annual deductible;
+c.	There is no lifetime maximum benefit for mental healthcare coverage.
+7.	The annual cap on prescription drug coverage shall be unlimited.
+8.	The annual deductible for Preferred Care Providers shall be $125 for an
+individual and $250 for a family.
+9.	The out-of-pocket maximum for individuals shall be $1,500 for Preferred Care
+Providers and $2,300 for Non-preferred Care Providers.
+10.	There will be no exclusions for pre-existing conditions.
+29
+11.	The Employer will notify Employees when they leave the bargaining unit of options for continuing healthcare coverage.
+B.	Prescription drug coverage shall continue at the current level of benefits:
+1.	Prescription Co-Pays shall be $7.50 for generic drugs and $15 for brand-name drugs.
+2.	The prescription drug benefit will include contraceptives, with no co-pay for generics.
+C.	Spouse/OEI/Dependent Health Coverage
+The Health Care plan offered shall include an MSU premium contribution toward health care coverage for spouses/dependents and other eligible individuals (OEI) beginning August 15, 2015 as outlined below.
+For each academic year, Employees enrolling only a spouse or OEI (not covered by his/her Employer’s health plan*) or child, MSU will contribute a total of $2,500 toward the cost of covering spouse, OEI or child, or a total of $2,200 toward the cost of covering a spouse or OEI and dependent(s), or multiple dependents, up to a maximum of 70% of the total premium cost.
+Employees are responsible for any remaining premium costs for dependents after the application of the dependent subsidy.
+* Spouses or OEIs employed by an (other than MSU) must enroll for their employer’s health plan if the annual premium cost to the spouse is $850 or less.
+II. Dental Option
+The Employer will assume fifty percent (50%) of the dental premium for single coverage. Any changes to the dental vendor and/or plan design during the term of this contract must be mutually agreed upon by the parties.
+III. Summer Coverage
+Employees employed in any consecutive Fall and Spring Semester shall be covered as Employees for the remainder of the full enrollment year.
+30
+IV. Health Issues Separate from Academic/Employment
+Except for outstanding health care payments owed the Employer, no disputes with an insurance carrier will be cause for registration holds, library holds, disenrollment or any other action that interferes with an Employee’s academic or employment status.
+ARTICLE 22
+PERSONNEL RECORDS
+I.	The Employer will maintain a personnel record for each Employee. Only documents that pertain to employment and/or job performance will be included in an Employee’s personnel record.
+II.	An Employee, with or without a Union Representative, upon written request, will have the right up to three (3) times annually to review her/his personnel record at a reasonable time and place as scheduled by the employing unit.
+III.	An Employee shall have the right to receive a copy of part or all of her/his personnel record. The Employee will be assessed the cost of duplicating the information.
+IV.	An Employee shall have the right to place a written response to any evaluation contained in her/his personnel record.
+V.	An Employee will be provided a copy of any written materials placed in her/his personnel file.
+VI.	If there is disagreement with information contained in a personnel record, removal or correction of that information may be mutually agreed upon by the Employer and the Employee. If an agreement is not reached, the Employee may submit a written statement explaining the Employee’s position. The statement shall not exceed 5 sheets of 8 % - inch by 11 inch paper and shall be included when the information is divulged to a third party as long as the original information is a part of the file.
+ARTICLE 23
+HEALTH AND SAFETY
+Adequate first aid equipment shall be provided at appropriate locations. The Employer shall furnish and maintain such equipment as is necessary for the safe completion of Employee duties. In the event that job duties require eye protection for the Employee(s), the Employer shall furnish appropriate equipment for this purpose. In the event that job duties require the use of respiratory equipment by the Employee(s), the Employer shall furnish appropriate equipment for this purpose. The Employer shall pay for medically required vaccines and/or other medications, as determined by
+31
+the Employer, in the performance of Employee duties in teaching assignments outside the United States.
+ARTICLE 24
+NO INTERFERENCE
+I.	The Union, through its officials, will not cause, instigate, support or encourage, nor shall any Employee take part in, any concerted action against or any concerted interference with the operations of the Employer, such as the failure to report for duty, the unexcused absence from work, the stoppage of work, or the failure, in whole or in part, to fully, faithfully and properly perform the duties of employment.
+II.	If the Union, through its officials, disavows in writing any such action, the Employer agrees
+that it will not file or initiate any action for damages against the Union or its officials.
+III.	The Employer agrees that during the life of this Agreement there will be no lockout.
+ARTICLE 25
+SPECIAL CONFERENCES AND CONSULTATIONS
+I.	Arrangement
+Special Conferences on issues of mutual interest to Employees and the Employer may be arranged between the Union designee and the designee of the Employer. Such conferences shall not be used as a replacement for, or circumvention of, the Grievance Procedure.
+II.	Scheduling
+Arrangements for such conferences shall be made in advance by the submission of a written agenda identifying matters to be discussed. The meeting shall be scheduled within fourteen (14) days of the submission of a written agenda unless both parties agree to delay the meeting.
+III.	Such conferences shall be between up to a maximum of five (5) representatives of each party. More may attend by mutual agreement of the parties.
+IV.	It is understood that any matter discussed, or any action taken pursuant to such conferences, shall in no way change or alter any of the provisions of this Agreement, or the rights of either the Employer or the Union under the terms of the Agreement.
+32
+V.
+Consultations
+A.	The Office of Employee Relations shall meet with the GEU representatives bimonthly to discuss enforcement of specific provisions of this Agreement or issues related to the administration of the Agreement.
+B.	The Dean of the Graduate School shall meet with the GEU representatives at least once per semester to discuss mutually agreeable matters.
+ARTICLE 26 GRIEVANCE PROCEDURE
+I.	Definition and Procedure
+A.	A grievance is defined as, and limited to, a written complaint involving an alleged violation of a specific provision(s) of the Agreement and remedy sought. Grievances may be filed by either an Employee(s) or the Union. The primary purpose of this procedure is to secure, at the lowest level possible, equitable solutions to the grievance(s). Grievances shall be processed as rapidly as practicable. The number of days indicated at each level shall be considered as maximum and substantive and every effort shall be made to expedite the grievance process. Time limits in the steps may be shortened or extended by mutual written agreement of both parties.
+B.	Only one (1) issue shall be the subject of any one (1) grievance. If there is a disagreement on whether the grievance involves more than one (1) issue, the parties will attempt to resolve the dispute. If the dispute is not resolved, expedited arbitration will be invoked. A grievance shall contain a clear and concise statement of the grievance and indicate the issue involved, the relief sought, the date the alleged incident(s) or violation(s) which is/are the basis for the grievance took place and the specific section or sections of the Agreement involved. The grievance must be signed and dated by the Employee(s) or Union representative, if any. Except as otherwise provided for in this Agreement, the grievance shall be presented at Step One to the employing unit designee. Any ambiguity in written grievances shall be clarified at the first grievance meeting.
+C.	An Employee(s) may choose to have a Union representative represent him/her at any step of the Grievance Procedure. If an Employee(s) brings a written grievance to the employing unit’s attention without first having notified the Union, the employing unit to which such grievance is brought shall promptly notify the Union and no further discussion shall be had on the matter until a Union representative has been given an opportunity to be present.
+33
+D.	Individual Employees or groups of Employees shall have the right to present grievances through Step Two of the Grievance Procedure, provided that a Union representative has been afforded the opportunity to be present at any discussions, and that any settlement reached is not inconsistent with the provisions of this Agreement.
+E.	If the grievance is filed with Union representation, the Employer will provide copies of written decisions to the Employee and the Union. If the grievance is filed without Union representation, the Employee will be given an opportunity either to release written decisions to the Union or to assert the confidentiality of the decision under the Family Educational Rights and Privacy Act (“FERPA”).
+F.	Step One of the Grievance Procedure may be waived by mutual written agreement. In addition, where the same employing unit representative hears more than one (1) step of a grievance, those steps shall be consolidated.
+G.	If the Employer requests that an aggrieved Employee be present in any step of the Grievance Procedure, he/she will be required to do so, except in extenuating circumstances.
+II.	Grievance Steps
+The following procedure shall be the sole and exclusive means for resolving grievances.
+A.	Informal Step
+An Employee or one designated member of a group of Employees, having a complaint as defined in Section I A, may take the complaint up with the immediate supervisor or designee. If the complaint is not resolved a grievance may be filed at Step One. At the Employee’s option, a Union representative may be present during any discussion with the supervisor or designee in an effort to resolve the complaint.
+B.	Step One
+Except as otherwise provided below, all grievances must be presented promptly but no later than thirty (30) days from the date the grievant first became aware of, or should have become aware of with the exercise of reasonable diligence, the cause of such grievance. Grievances filed over hours of work disputes must be presented no later than thirty (30) days following the end of the semester in which the alleged violation occurred. The employing unit designee will meet the Employee(s) and his/her representative, if any, within fifteen (15) days from receipt of the grievance and attempt to resolve the grievance. A written answer will be placed on the grievance by the employing unit designee not later than fifteen (15) days after the meeting.
+34
+C.
+Step Two
+1.	If the answer at Step One is unacceptable, to be considered further, the grievance must be appealed by the Union to the Provost or her/his designee within fifteen (15) days from receipt of the Step One answer. The Provost or her/his designee will meet with the Employee(s) and his/her Union representative, if any, within fifteen (15) days from receipt of the appeal of Step One.
+2.	Following the meeting, the written answer of the Provost or her/his designee will be placed on the grievance not later than fifteen (15) days after the meeting.
+D. Step Three
+1.	Grievances which have not been settled at Step Two of the Grievance Procedure may be appealed to arbitration within thirty (30) days from the date of the Step Two answer. If a grievance is not appealed to arbitration within thirty (30) days of the Step Two answer, it shall be considered settled on the basis of the Step Two answer without prejudice or precedent in the resolution of future grievances. The issue as stated in the grievance and any amendments made thereon, in writing, at the Step Two grievance meeting shall constitute the sole and entire subject matter to be heard by the Arbitrator, unless the parties agree to modify the scope of the hearing.
+2.	Following the written notice, the Employer and the Union shall attempt to select an arbitrator. If an arbitrator is not selected within five (5) days of the written notice, the Union, within the next ten (10) days, may request the Federal Mediation and Conciliation Service (FMCS) or the American Arbitration Association (AAA) to administer the process of selecting an arbitrator. The Arbitrator shall not be an Employee of the University or of the Union, nor be a member nor Employee of the Michigan Federation of Teachers and School Related Personnel or of the American Federation of Teachers.
+a.	Either the Employer or the Union or both shall notify the Arbitrator of selection and upon acceptance shall forward to the Arbitrator a copy of the grievance, the answer at Step Two, the notice of intent to arbitrate and a copy of the Agreement. A copy of the communication, without a copy of the Agreement, shall be sent to the other party. If the Arbitrator does not accept selection, the selection process shall be repeated until an arbitrator has accepted selection.
+35
+b.	The Arbitrator shall fix the time and place for hearing the issue or issues submitted for decision.
+c.	At the arbitration hearing, both the Employer and the Union shall have the right to examine and cross-examine witnesses.
+d.	Upon request of either the Employer or the Union or both, a transcript of the hearing shall be made and furnished to the Arbitrator with the Employer and the Union having an opportunity to purchase their own copy. The party requesting the transcript shall bear the cost of the Arbitrator’s copy, unless it is mutually requested. In such case, the cost shall be shared equally.
+e.	At the close of the hearing, the Arbitrator shall afford the Employer and the Union a reasonable time period to submit post-hearing briefs if either party requests the opportunity.
+f.	The jurisdictional authority of the Arbitrator is defined as, and limited to, the determination of the grievance submitted to him/her consistent with this Agreement after consideration by him/her in accordance with this Agreement.
+g.	The Arbitrator shall have no authority to add to, subtract from, or otherwise modify any of the terms, clauses or provisions of this Agreement. The Arbitrator shall not substitute her/his judgment for that of the Employer where the Employer’s judgment and actions are based upon reasonable cause and do not violate the written provisions of this Agreement. The Arbitrator shall have no authority in any circumstance to award back pay or any other monetary relief, which is greater than the grievant would have been entitled to if there had been no violation. The Arbitrator shall have no authority in academic matters regarding the grievant’s role as a student.
+h.	The fees and expenses of the Arbitrator shall be shared equally between the Employer and the Union. The expenses of, and the compensation for, each and every witness/representative for either the Employer or the Union shall be paid by the party producing the witness/representative or on whose behalf he/she appears.
+i.	The Arbitrator shall render the decision in writing within thirty (30) calendar days following the hearing or the receipt of post-hearing briefs, whichever is later.
+36
+j.
+k.
+The Arbitrator’s decision, when made in accordance with the Arbitrator’s jurisdiction and authority established by this Agreement, shall be final and binding upon the Employer, the Union , and the Employee or Employees involved.
+The provisions of this Section do not prohibit the Employer and the Union from mutually agreeing to expedited arbitration of a given grievance or grievances.
+III.	Time Limits on Appeal
+A.	If the Employer fails to answer a grievance within the specified time limits, the grievance may be processed to the next step of the Grievance Procedure. If such grievance is not appealed within specified time limits, it shall be considered withdrawn.
+B.	Any grievance not appealed within specified time limits shall be considered settled on the basis of the last answer and not subject to further review.
+C.	A grievance may be withdrawn and, if so withdrawn, may not be reinstated, and no financial liabilities shall result.
+D.	Where more than one grievance involves a similar issue, the additional grievances, by mutual agreement, may be held in abeyance without prejudice pending the disposition of an appeal to Step Three or arbitration of the representative grievance.
+E.	The specified time limits at each step of the procedure may be extended by mutual written agreement of the parties involved at that step.
+F.	Whenever time limits are used in this Article, they shall be understood to mean calendar days. The time limits shall be tolled during Winter break, Spring break, final exam weeks and University designated holidays. (This provision shall apply only to the Grievance Procedure.)
+IV.	Post-Grievance Employer-Employee Relationship
+When the Employer schedules a meeting in accordance with the provisions of this Article, attendance at such a meeting by the Employee and/or Union Representative shall not adversely affect their employment relationship.
+37
+ARTICLE 27
+INFORMATION
+I.	Upon written request from the Union, the Employer will provide the Union with any and all information required or allowed by state or federal law.
+II.	The cost of providing and reproducing such information shall be discussed and agreed upon by the parties.
+ARTICLE 28
+DISTRIBUTION OF THE COLLECTIVE BARGAINING AGREEMENT
+I.	Any material placed into the Agreement that is not proofed and initialed by the Employer and the Union shall not be considered a valid part of the Agreement.
+II.	The Employer will post the Agreement on the Employer’s website and will make an electronic version available to the Union.
+ARTICLE 29
+SCOPE OF THE AGREEMENT
+I.	This Agreement represents the entire agreement between the Employer and the Union. This Agreement shall supersede and cancel all previous agreements, whether written or oral, prior to the date of ratification either established by the Employer or between the Employer, the Union or Employees. Any agreement(s) that supplement this Agreement shall not be binding or effective unless reduced to writing and signed by the Employer and the Union. Such supplement(s) shall remain in effect for the term of the Agreement.
+II.	No past practice, course of conduct, or understanding prior to the date of ratification which varies, waives, or modifies any of the express terms and conditions contained herein shall be binding upon the parties hereto unless made and executed in writing by the Employer and the Union .
+III.	The Employer and the Union acknowledge that during the negotiations which resulted in this Agreement each had the unlimited right and opportunity to make demands and proposals with respect to any subject or matter not removed by law from the area of collective bargaining, and that the understandings and agreements arrived at by the parties after the exercise of that right and opportunity are set forth in this Agreement. No provision of this Agreement, or any supplement thereto, nor the right of either the Employer or the Union under the terms of the Agreement shall be changed or altered in any way unless such change or alteration is agreed to in writing between the Employer and the Union . Therefore, the Employer and the Union , for the life of this Agreement, each voluntarily waives the right,
+38
+and agrees that the other shall not be obligated to bargain collectively with respect to any subject or matter referred to or covered in this Agreement.
+IV.	Any agreement reached between the Employer and the Union is binding upon all Employees in the bargaining unit, the Employer and the Union, and may not be changed by any individual or group of Employees, or the Employer or the Union.
+V.	Should any part or provision of this Agreement be rendered or declared illegal or invalid by operation of law or by decision of any tribunal of competent jurisdiction or if compliance with or enforcement of any provision should be restrained by such tribunal pending a final determination as to its validity, the remaining part(s) or provision(s) of this Agreement shall not be affected thereby. In the event any provision herein contained is so rendered invalid, upon written request the Employer and the Union shall enter into collective bargaining for the purpose of negotiating a mutually satisfactory replacement for such provision.
+39
+INDEX
+Article	Topic	Page
+17	Additional Employment	23
+	Adoption and Parental Leave	25
+	Annual Raise	27
+7	Anti- Discrimination	11
+	Appointment Fraction	8, 16, 19
+	Appointment Levels	26
+	Appointment Term	15
+11	Appointments	15
+21	Benefits	29
+	Bereavement Leave	25
+	Building Access	14
+	Bulletin Boards	10
+2	Definitions	5
+	Dental Benefit Option	30
+	Discipline, Suspension or Discharge	8, 19
+28	Distribution of the Collective Bargaining Agreement	38
+	Employee Information	10
+18	Employee Leave Time	23
+	Employee Responsibilities	20
+9	Employee Rights	14
+5	Employer Rights	7
+10	Employment Period	15
+	Employment Period and Termination	17
+16	Evaluation; Teaching Assistant Evaluation	22
+	Fees, University Fees	28
+	Final Exams and Grading Records	15, 20
+	Grade Changes, Prior Consultation	15
+	Grievance Defined	33-34
+26	Grievance Procedure	33
+23	Health and Safety	31
+	Health Insurance	29-31
+	Holidays, University Designated	20
+	Illness, Injury and Pregnancy Leave	23
+	Index	40-41
+27	Information	38
+	Instructional Rating Reports	22
+12	Job Security	17
+	Jury Duty	26
+	Layoff	8
+40
+Article	Topic	Page
+	Library Borrowing Privileges	14
+	Mailboxes	15
+Apx B	Memoranda of Understanding and Letters of Agreement	43-54
+	Mental Health Care Benefits	29
+24	No Interference	32
+	Office Hours	21
+	Orientation and In-Service Programs	21
+	Out-of-State Tuition	28
+	Parking Permits	14
+22	Personnel Records	31
+	Prescription Drug Co-Pay	29
+3	Purpose and Intent	5
+	Reappointment, Re-Employment	16
+4	Recognition	6
+	Safe Working Environment	11, 44
+29	Scope of the Agreement	38
+25	Special Conferences and Consultations	32
+	Spouse/OEI/Dependent Health Coverage	30
+14	Standard Performance Requirements	20
+19	Stipends	26
+Apx A	Stipends: Schedule of Minimum Biweekly Stipends	42
+	Storage of Exam and Grading Records	15, 21
+1	Term of Agreement	2
+15	Training and Professional Development	21
+20	Tuition Waiver	28
+8	Union Dues and Representation Fees	12
+	Union Meetings on Campus	9
+	Union Representation	33
+6	Union Rights	9
+	Unit Policies	21
+	Unsatisfactory Performance Procedure	18
+13	Workload	19
+41
+APPENDIX A
+Schedule of Minimum Biweekly Stipends
+	2015-2016	2016-2017	2017-2018	2018-2019
+Level 1, % time	362	369	387	395
+Level 1, % time	724	738	774	790
+Level 1, % time	1086	1107	1161	1185
+				
+Level 2, % time	400	408	428	437
+Level 2, % time	800	816	856	874
+Level 2, % time	1200	1224	1284	1311
+				
+Level 3, % time	418	426	447	456
+Level 3, % time	836	852	894	912
+Level 3, % time	1254	1278	1341	1368
+•	These figures represent compensation for completing all required course responsibilities regardless of the employment period dates.
+•	The first and last paycheck of each semester may vary, based on when the employment period begins and ends.
+42
+APPENDIX B
+MEMORANDA OF UNDERSTANDING and
+LETTERS OF AGREEMENT
+43
+MEMORANDUM OF UNDERSTANDING
+Between
+Michigan State University And
+The Graduate Employees Union Local 6196, AFT-Michigan AFL-CIO
+To promote a shared responsibility for a safe working environment at Michigan State University, including one conducive to teaching and learning, free from disruption, the parties have agreed that further communication and training will occur regularly during the term of this Agreement.
+The Employer will augment the orientation sessions, held before fall and spring semesters, to include a review of the handouts of University policies, ordinances, and practices that Employees may use under guidance of faculty of record to foster a safe environment (e.g. strategies to deal with harassing and disruptive behavior).
+For the Employer
+For the Union
+James D. Nash, Director
+Office of Employee Relations
+Carolyn Pratt, Chief Negotiator
+Graduate Employees Union, AFT Local 6196
+Date _________________________________* Date _____________________________________
+Theodore H. Curry II, Associate Provost and Associate VP for Academic Human Resources
+Date
+*
+* Modified by signatories and date only
+44
+MEMORANDUM OF UNDERSTANDING Between
+Michigan State University And
+The Graduate Employees Union Local 6196, AFT-Michigan AFL-CIO
+The Employer will notify Employees when they leave the bargaining unit of options for continuing healthcare coverage.
+For the Employer
+For the Union
+James D. Nash, Director
+Office of Employee Relations
+Carolyn Pratt, Chief Negotiator
+Graduate Employees Union, AFT Local 6196
+Date
+*
+Date
+*
+Theodore H. Curry II, Associate Provost and Associate VP for Academic Human Resources
+Date ____________________________________*
+* Modified by signatories and date only
+45
+MEMORANDUM OF UNDERSTANDING Between
+Michigan State University And
+The Graduate Employees Union Local 6196, AFT-Michigan AFL-CIO
+Each semester, the Dean of the Graduate School will encourage all employing units to include the GEU payroll deduction authorization form/membership card in all offers of employment.
+For the Employer
+For the Union
+James D. Nash, Director
+Office of Employee Relations
+Carolyn Pratt, Chief Negotiator
+Graduate Employees Union, AFT Local 6196
+Date
+*
+Date
+*
+Theodore H. Curry II, Associate Provost and Associate VP for Academic Human Resources
+Date ____________________________________*
+* Modified by signatories and date only
+46
+MEMORANDUM OF UNDERSTANDING
+Between
+Michigan State University And
+The Graduate Employees Union Local 6196, AFT-Michigan AFL-CIO
+The Union shall be provided an opportunity to meet with the Employer to discuss Teaching Assistant Training pursuant to the Teaching Assistant Program and related workshops.
+Upon request of the Union, no later than December of each year, the Union will be invited to meet with the Director of the Teaching Assistant Program to provide input into TAP orientation. Upon request of the Union, no later than July of each year, the Union will be invited to meet with the Director of the Teaching Assistant Program to provide input into workshops.
+During these meetings, or scheduled meetings with the Dean of the Graduate School or the Office of Employee Relations, concerns related to training programs conducted by individual employing unit(s) shall be relayed through the Dean of the Graduate School to the individual employing unit(s).
+The purpose of these meetings will be to identify shared goals and to work toward implementation of these goals; both parties shall participate fully.
+This Letter of Agreement shall remain in effect until May 15, 2019.
+For the Employer
+James D. Nash, Director
+Office of Employee Relations
+Date ____________________________________
+For the Union
+Carolyn Pratt, Chief Negotiator
+Graduate Employees Union, AFT Local 6196
+Date ______________________________* *
+Theodore H. Curry II, Associate Provost and Associate VP for Academic Human Resources
+Date ___________________________________*
+* Modified by signatories and date only
+47
+MEMORANDUM OF UNDERSTANDING Between
+Michigan State University And
+The Graduate Employees Union Local 6196, AFT-Michigan AFL-CIO
+The Dean of the Graduate School will work annually, or as mutually agreed upon, with the designated representative(s) of the Graduate Employees Union to fashion language for the appointment letter template.
+For the Employer
+For the Union
+James D. Nash, Director
+Office of Employee Relations
+Carolyn Pratt, Chief Negotiator
+Graduate Employees Union, AFT Local 6196
+Date
+*
+Date
+*
+Theodore H. Curry II, Associate Provost and Associate VP for Academic Human Resources
+Date ____________________________________*
+* Modified by signatories and date only
+48
+MEMORANDUM OF UNDERSTANDING
+Between
+Michigan State University And
+The Graduate Employees Union Local 6196, AFT-Michigan AFL-CIO
+The Employer and the Union recognize the shared benefit of collaborating to ensure affordable, quality healthcare to Employees and encouraging subscribers to be wise consumers. To this end, the Union will be included in established advisory committee meetings in which benefits provided to represented Employees are discussed.
+At least once a semester representatives from the GEU and the Benefits Office will meet to discuss ways to effectively utilize health benefits, track and document complains about benefit providers and other issues as agreed.
+For the Employer
+For the Union
+James D. Nash, Director
+Office of Employee Relations
+Carolyn Pratt, Chief Negotiator
+Graduate Employees Union, AFT Local 6196
+Date
+Date
+Theodore H. Curry II, Associate Provost and Associate VP for Academic Human Resources
+Date ____________________________________*
+* Modified by signatories and date only
+49
+MEMORANDUM OF UNDERSTANDING
+Between
+Michigan State University And
+The Graduate Employees Union Local 6196, AFT-Michigan AFL-CIO
+The Union and the Employer share the goal of identifying ways in which MSU can promote diversity and inclusion across campus. Support of participation in Martin Luther King, Jr. celebration activities is one way to meet this goal.
+The Employer agrees to encourage flexibility for Employees who desire to participate in sponsored events to celebrate Martin Luther King, Jr. Day as well as other opportunities to increase sensitivity to diversity and inclusion.
+For the Employer
+For the Union
+James D. Nash, Director
+Office of Employee Relations
+Carolyn Pratt, Chief Negotiator
+Graduate Employees Union, AFT Local 6196
+Date
+Date
+*
+Theodore H. Curry II, Associate Provost and Associate VP for Academic Human Resources
+Date ____________________________________*
+* Modified by signatories and date only
+50
+MEMORANDUM OF UNDERSTANDING
+Between
+Michigan State University
+And
+The Graduate Employees Union Local 6196, AFT-Michigan AFL-CIO
+Timekeeping
+It is not the intent of the Employer to implement a formal timekeeping process, such as clocking in and clocking out, for Teaching Assistants. Should units decide to implement a new timekeeping process, the Union may exercise its rights to negotiate the impact of this process.
+For the Employer
+For the Union
+James D. Nash, Director
+Office of Employee Relations
+Carolyn Pratt, Chief Negotiator
+Graduate Employees Union, AFT Local 6196
+Date
+Date
+Theodore H. Curry II, Associate Provost and Associate VP for Academic Human Resources
+Date ____________________________________*
+* Modified by signatories and date only
+51
+MEMORANDUM OF UNDERSTANDING
+Between
+Michigan State University And
+The Graduate Employees Union Local 6196, AFT-Michigan, AFL-CIO
+College of Engineering Fees
+Teaching Assistants will be notified of applicable College of engineering program fees and their collection cycle prior to the start of the employment period. Teaching Assistants will not be required to pay the fee on the tuition due date. A temporary credit for said fees will be issued and re-paid according to the established University procedure. Such payments will not be due prior to the final due date for deferred tuition. If the Employee has other forms of financial aid (loans or grants) or other awards (scholarships or fellowships), then this aid will be applied to the fees prior to the application of the temporary credit) in advance of the payment due date. Fees paid according to the provisions of this Agreement will not be assessed special handling fees or interest. Should other colleges implement similar fees, the Union may exercise its right to bargain the impact of these fees.
+For the Employer	For the Union
+James D. Nash, Director	Carolyn Pratt, Chief Negotiator
+Office of Employee Relations	Graduate Employees Union, AFT Local 6196
+Date ___________________________________* * Date ______________________________________*
+Theodore H. Curry II, Associate Provost and Associate VP for Academic Human Resources
+Date ____________________________________*
+* Modified by signatories and date only
+52
+MEMORANDUM OF UNDERSTANDING
+Between
+Michigan State University And The Graduate Employees Union Local 6196, AFT-Michigan, AFL-CIO
+Re: Health Care Benefits Request for Proposal
+During the life of the parties’ Collective Bargaining Agreement, beginning May 16, 2015 and expiring May 15, 2019, when the University enters into a Request for Proposal (RFP) process for the purpose of reviewing the health care coverage available to Teaching Assistants, the parties agree that the GEU shall designate one (1) representative, or designee to serve on the committee.
+In the event of any changes in coverage, the Union will be notified no later than sixty (60) days prior to the effective date of change. Either party can request to bargain the impact and the parties will meet to negotiate.
+For the Employer	For the Union
+James D. Nash, Director
+Office of Employee Relations
+Carolyn Pratt, Chief Negotiator
+Graduate Employees Union, AFT Local 6196
+Date _________________________________
+Date _______________________________
+Theodore H. Curry II, Associate Provost and Associate VP for Academic Human Resources
+Date ___________________________________
+53
+MEMORANDUM OF UNDERSTANDING
+Between
+Michigan State University And
+The Graduate Employees Union Local 6196, AFT-Michigan AFL-CIO
+In the event the provisions of the Public Employment Relations Act prohibiting the mandatory payment of Union dues or a service fee are modified, repealed or otherwise amended, the parties agree to commence discussion relating to an orderly transition to implement the modifications and/or amendments to the act relating to Union Security and Union Dues provisions.
+For the Employer
+For the Union
+James D. Nash, Director
+Office of Employee Relations
+Date ____________________________________
+Carolyn Pratt, Chief Negotiator
+Graduate Employees Union, AFT Local 6196
+Date ______________________________
+Theodore H. Curry II, Associate Provost and Associate VP for Academic Human Resources
+Date ___________________________________
+54

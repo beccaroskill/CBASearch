@@ -1,0 +1,2445 @@
+﻿NATIONAL TRANSIENT LODGE (NTL)
+Articles of Agreement .-tie
+between the
+International Brotherhood of
+Boilermakers, Iron Ship Builders, Blacksmiths, Forgers & Helpers
+and the
+Signatory Employers Hereto
+Effective Nov. 1,2001 through Oct. 31,2004
+NATIONAL TRANSIENT LODGE (NTL)
+Articles of Agreement
+between the
+International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers & Helpers and the
+Signatory Employers Hereto
+Effective Nov. 1,2001 through Oct. 31,2004
+
+a is
+NATIONAL TRANSIENT LODGE
+Articles of Agreement Table of Contents
+Preamble .............................................3
+Article 1	Scope and Recognition...................4
+Article 2	Classification of Work and
+Manpower Ratios........................5
+Article 3	Boilermaker Classifications and
+Referral of Men........................9
+Article 4	Membership — National Transient Lodge . JO
+Article 5	Deduction Union Obligation ............12
+Article 6	Job Notices............................16
+Article 1	Pre-Job Conferences....................18
+Article 8	Supervision....................
+Article 9	Performance of Work ...........
+Article 10	Classifications and Qualifications
+of Employees..................
+Article 11	Functions of Management........
+Article 12	Wages..........................
+Article 13	Health and Welfare Plan .......
+Article 14	Pension Plan...................
+Article 15	Apprenticeship Training Program
+Article 16	National Annuity Trust ........
+Article 17	Other Fringe Contribution Funos
+Article 18	Bono Reouirements .............
+Article 19	Hours..........................
+Article 20	Shiftwork .....................
+Article 21	Overtime and Holidays..................37
+Article 22	Waiting Time and Travel Authorization ... .39
+Article 23	Minimum Pay and Reporting Time.........40
+Article 24	Travel Allowance or Subsistence........42
+Article 25	Transportation Pay ....................43
+Article 26	PayDay ................................45
+Article 27	Working Conditions.....................46
+Article 28	Union Steward & Representatives .......48
+Article 29	Wage Inducement Program................50
+Article 30	Accidents..............................51
+Article 31	Adjustment of Grievances...............52
+Article 32	Strikes or Lockouts....................54
+Article 33	Project Agreement......................55
+Article 34	Violation of Agreement,................55
+Article 35	Agreement Qualification ...............56
+Article 36	Termination or Renewal.................56
+Addendum "A"	.....................................61
+AddendumWB" .........................................63
+Addendum “C”	.....................................66
+Addendum “D”	.....................................69
+Addendum “E"	.....................................75
+Union Directory .......................79
+Contractor	Directory ..................83
+Index .................................93
+National Transient Lodge (NTL)
+Articles of Agreement
+between the
+International Brotherhood of
+Boilermakers, Iron Ship Builders, Blacksmiths, Forgers, and Helpers
+(Herein referred to as "Union") and the
+Signatory Employers Hereto
+(Herein referred to as "Contractor"}
+Governing Wages and Working Conditions on Construction and Tank Work
+Effective March 11,1946, and as amended March 11,1947, August 8.1947, April 5,1948, June 4,1948, August 21,1949, August 21,1950, August 21,1952, August 21.1953, August 21,1954, August 21,1955, August 21,1956, August 21,1957, August 21,1958, January 1,1960, January 1,1961, January 1, 1963, January 1, 1965, January 1, 1967, January 1, 1969, January 1,1971, January 1,1973, January 1,1975, January 1, 1977, January 1,1979, February 18,1981, October 20,1983, November 1, 1985, November 1, 1986, November 1, 1989, November 1,1992, November 1,1995, November 1,1998, and November 1,2001
+t
+1 2
+3 4
+5 6
+7 8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Preamble
+WHEREAS, The parties hereto have maintained a mutually satisfactory bargaining relationship in the work area covered by collective agreements between them which have been in effect over a substantial period of years; and
+WHEREAS, The International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers and/or subordinate subdivisions thereof embrace within their membership large numbers of qualified journeymen who have constituted in the past, and continue so to do, a majority of the employees employed by the Employer herein;
+WHEREAS, The Contractor and the Brotherhood recognize that this Agreement must take into consideration the transitory nature of the work done by the Contractor; and
+WHEREAS, The nature of many of the products of the Contractor is such that a sufficient proportion of skilled and trained workers is required to construct them safely, economically and well; and
+3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21 m
+23
+24
+25
+26
+27
+28
+29
+30
+31
+WHEREAS, The comparatively short duration of most field erection jobs compels the skilled and trained workers to live a migratory life, which makes it impossible to localize such construction; and
+WHEREAS, Local or area agreements, regulations and practices do not adequately provide for a strictly national approach to the problem;
+NOW, THEREFORE, the Contractor and the Brotherhood do hereinafter agree to the following articles applicable to field erection work:
+Article 1 Scope and Recognition
+Art 1(a) This Agreement embraces all construction work coming under the jurisdiction of the Brotherhood in the United States.
+Art 1(b) The Employer recognizes the Union as the sole and exclusive bargaining representative for all field construction, maintenance and repair boilermakers, helpers, learner helpers, mechanic trainees and apprentices employed by the Employer now or during the life of this Agreement with respect to wages, hours, and conditions of work.
+4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Art 1(c) Where membership is required under Article 4(a) employees in the following classifications need not be members of the Brotherhood: civil, electrical and mechanical engineers, field inspectors, timekeepers, watchmen, water boys, messenger boys and office workers, provided they do not perform any of the work covered by the terms of this Agreement.
+Art 1(d| It is further understood that the men on each job will not interfere in any way with the affiliation or non-affiliation of the employees of the Contractor's Customer or of the owner or with the employees of other contractors.
+Article 2 Classification of Work and Manpower Ratios
+Art 2(a) All work in the erection of containment vessels, process and surge tanks in industries other than the food, beverage and pharmaceutical industry, penstocks, pit liners, scroll cases, draft tubes, gates, stacks and stack liners and all other work in connection with dams and locks, water softeners, water filter plants of any type, material, shape or pressure including but not limited to tower tanks, swimming pools and other cylindri
+5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14 ■
+15
+16
+17
+18
+19
+20
+21
+23
+24
+25
+26
+27
+28
+29
+30
+31
+cal structures shall be performed under the provisions of this Agreement. The hire and assignment of men on the work as set forth above shall be as follows:
+Art 2(a)(1) The Foreman (Article 8) and the first five (5) men, including the Pusher (Assistant Foreman), shall be national transient boilermakers and the next five (5) shall be local boilermakers, if available and qualified.
+Art 2(a)(2) Provided local boilermakers are available, national transient boilermakers and local boilermakers shall be hired alternately to maintain this ratio.
+Art 2(a)(3) An exception to the above referenced ratio on multiple tank jobs built simultaneously, the first five (5) men including the pusher (assistant foreman) shall be national transient boilermakers and the next three (3) shall be local boilermakers if available and qualified. Provided local boilermakers are available and qualified, national transient boilermakers and local boilermakers shall be hired alternately one for one thereafter.
+Art 2(b) Tank Erection. Due to the hazards and skills required, tower tank, storage tank,
+6
+1 2
+3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+process and surge tank in the food, beverage and pharmaceutical industry, standpipe and reservoir erection work is excepted from the above provisions governing assignment of men and the Contractor shall determine for himself whether to erect such a structure with a crew composed entirely of national transient boilermakers or whether such crew shall consist of a partial crew of national transient boilermakers supplemented by local boilermakers.
+When the NTL Agreement is excluded in its entirety from Project Labor Agreements, except for tower tank erection, the above referenced work shall be performed under the provisions of Article 2(a) above.
+Art 2(c) All work on boilers and in connection with boilers (nuclear or fossil fired) including precipitators, uptakes, down comers, heat exchangers, condensers, condenser boxes, casing and breeching or duct regardless of configuration and other appurtenances (of a non-cylindrical configuration) shall be done by local boilermakers under the terms of applicable Local or Area Agreement.
+All work in connection with electrostatic precipitators, regardless of configuration,
+7
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+non-cylindrical scrubbers, non-cylindrical breeching, non-cylindrical duct shall be done by local boilermakers under the terms of applicable Local or Area Agreement.
+Art 2(d) The above classifications of work [Articles 2(a), 2(b), and 2(c)] and all other provisions of this Agreement shall apply to dismantling, conversion, repair, demolition, and maintenance work except as otherwise provided in Addendum D, made a part hereof.
+Art 2(e) The Contractor may use a higher ratio of local boilermakers, provided the men are available. A higher ratio of national transient boilermakers may be used if competent local boilermakers are not available. Other employees may be used if neither local nor national transient boilermakers are available. However, in these situations, the Contractor shall contact the NTD Representative and so advise. Men employed on a job as provided herein shall not be replaced for the purpose of establishing the applicable ratios set forth above.
+8
+1 2
+3 4
+5 6 7
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Article 3 Boilermaker Classifications ano Referral of Men
+Art 3(a) For the purpose of this Agreement, national transient boilermakers are boilermakers by trade who customarily work in different parts of the country and local boilermakers are boilermakers by trade who customarily work in a local area.
+Art 3(b) Local boilermakers shall be referred from the out-of-work list in accordance with the referral procedure of applicable local or area agreements. Local men when referred shall be qualified construction boilermakers on the primary out-of-work list of the local lodge. If the Contractor desires certain experienced and specially skilled men he may call for such men who, if available, shall be referred by the local business manager. Such requests shall be confirmed by wire or letter
+Art 3(c) Selection of applicants for referral by the Union or initial employment by the Contractor shall be on a non discriminatory basis and shall not be based on, or in any way affected by, union membership, bylaws, rules, regulations, constitutional provision, or any other aspect or obligation of union membership, policies or requirements.
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+There shall be no discrimination by the Contractor or the Union against any employee because of the employee's race, color, religion, sex, age or national origin.
+Art 3 (d) Employees shall not be withdrawn from the Contractor's employ without the consent of the Contractor's foreman. However, if it becomes necessary to withdraw any employee, the Contractor shall have the right to replace such employee from any source.
+Article 4
+Membership — National Transient Lodge (NTL)
+Art. 4(a) All employees of the Contractor covered by this Agreement shall, as a condition of employment, become and remain members of the Brotherhood. Application for membership must be made within the first thirty (30) days of employment, (This clause shall be effective only in those states permitting union security.)
+Art 4(b) All national transient boilermakers who are or become members of the Brotherhood in accordance with the provisions of Article 4(a) shall carry their membership in the National Transient Lodge and
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+shall be called "National Transient Lodge Members," also referred to as NTL.
+Art 4(c) The Brotherhood agrees to admit as National Transient Lodge Members employees of the Contractor who apply for admission according to the rules and regulations of the Brotherhood and not to expel or suspend any employee of the Contractor from membership except in accordance with such rules and regulations.
+Art 4(d) National Transient Lodge Members will not be required to deposit their traveling cards in or transfer their membership to any local union.
+Art 4(e) Members of a local lodge who leave the jurisdiction of their lodge to follow work covered by the provisions of this Agreement shall apply to their local lodge for a traveling card which shall be deposited in the NTL for the duration of their employment with an NTL Contractor while in the jurisdiction of another lodge.
+Art 4(f) It is understood and agreed that neither the Brotherhood nor any of its representatives will undertake to persuade National Transient Lodge Members to change their employment to another
+11
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Contractor or to become Local Resident Members rather than National Transient Lodge Members.
+Article 5 Deduction Union Obligation
+Art 5(a) The Employer agrees to deduct from the wages of each employee all deductions certified by the Union and authorized by the employee as set forth in Items 1, 2, 3 and 4 hereunder in uniform amounts therewith established by the Union on all work covered by Articles 2(a), 2(b), and Addendum D of this Agreement.
+Art 5(a)(1) Initiation or reinstatement fees of an applicant for membership in two (2) equal installments starting with the first full weekly pay period of the applicant. This payment arrangement is for the convenience of the applicant in order that at the end of two (2) weeks, the total amount of initiation or reinstatement fees will have been paid and upon receipt of same by the NTL, the applicant, in accordance with the established procedure, will then become a member.
+Aft 5(a)(2) Regular monthly dues of the National Transient Lodge Members will be paid from the first weekly payroll period of
+12
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+each calendar month. If deductions are not made by the Contractor, the member will be responsible for payment of monthly dues.
+Art 5(a)(3) Union service charge, or field dues, starting with the first weekly pay period of all employees covered by this Agreement will be paid on all hours for which the employee is paid at the rate established by the Union in accordance with the National Transient Lodge By- Laws and Constitution.
+Art 5(a)(4) Upon, presentation of a signed voluntary authorization card, furnished by the Union through the Contractor, the Contractor shall withhold five cents ($.05) per hour worked for the Boilermakers Campaign Assistance Fund. Said deductions shall be remitted to the NTL Office, Kansas City, Kansas no later than fifteen (15) days after the end of the month in which the deductions accrued. The Contractor shall provide the employee with a weekly payroll stub itemizing the amount of such deductions. The Union holds the Contractor harmless and agrees to defend the Contractor fully in any litigation resulting from this activity which is deemed to be a service to the Union by the Contractor.
+13
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Art 5(b) The foregoing deductions are subject to receipt of an authorization on a form furnished by the Brotherhood and signed by the employee. Such deductions shall continue until withdrawn by written notice of the employee to both the Contractor and the Brotherhood or the termination of this Agreement. In the event any provision of this Article is found to be or in the future becomes in violation of applicable laws, that provision shall become invalid, and the Chairmen of the respective negotiating committees shall take immediate steps to bring this Agreement into compliance with such laws.
+Art 5(c) Said authorization form shall be made out in triplicate: the original copy to be kept by the Contractor, the duplicate to be forwarded to the NTL Headquarters, New Brotherhood Building, Kansas City, Kansas 66101, and the triplicate copy to be retained by the employees.
+Art 5(d) Union obligation deductions as referred to above and deducted by the Contractor shall be forwarded monthly to the NTL Office Headquarters, Kansas City, Kansas, along with an itemized listing of such deductions.
+14
+1 2 3
+4 5
+6 7
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Art. 5(e) The itemized listing of the afore-said field dues deductions shall include, by Local Lodge, all employees employed (including local men), the number of hours worked and amounts deducted therewith. Said listing shall be on a weekly basis and shall be forwarded in duplicate along with the amounts covering same at intervals not to exceed the number of weekly payroll periods in any one calendar month.
+Art 5(f) Any prov ision of this Article prohibited by any Federal or State law shall be inoperative.
+Art 5(g) The responsibility of the Brotherhood with respect to deductions above authorized is set forth in the form of authorization quoted in Article 5.
+Art 5(h) Payment of back dues accruing during unemployment will be arranged between the employee, the Brotherhood, and the Contractor.
+Art 5(i) The financial obligation of Local Resident Members will be a matter between the individual and his local lodge, except as otherwise provided in Article 5.
+15
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Article 6 Joe Notices
+In order to insure the satisfactory progress of each job, the following procedure will be observed by the Contractor.
+Aft 6(a) Furnish to the Business Manager of the Local, the NTD Representative and the NTL Secretary, at least fifteen (15) days when possible before the start of a job, copies of job notices which must contain the following information: Name of Customer (owner and customer if different), complete description and exact location of job site, approximate starting date, approximate completion date, information regarding lining of tank or vessel, name of job foreman (if supplied by Contractor), the approximate number, names and social security numbers, if known at the time of submittal but in no rase later than the first ten (10) working days, of National Transient Boilermakers, and the approximate number, classification and qualifications of local boilermakers required and applicable wage rate (which shall include vacation, savings, health & welfare, pension, apprenticeship funds and annuity pay) to be paid to employees. Only in cases where the fifteen (15) or more days' notice has been given, at least seven (7) days
+16
+1 2
+3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+prior to the start of the job the Business Manager shall notify the Contractor on. a prepared form whether or not he will be able to supply the job requirements. If such notice is not received, the Contractor may assign National Transient Boilermakers up to the first ten (10) men on the job. If conditions subsequently require a change in starting date, all interested parties shall be notified immediately.
+Art 6(b) The Contractor shall prior to the foreman's arrival at the job location notify the local Business Manager by telephone and the NTD Representative by facsimile or electronic mail where equipment exists with a copy to the Business Manager. If appropriate, notice shall be included in such facsimile or electronic mail that additional boilermakers are needed. The Business Manager shall notify the Contractor by facsimile or electronic mail within twenty-four (24) hours whether or not he will be able to supply job requirements as provided herein.
+In the event he is unable to supply the job requirements within forty-eight (48) hours, from the time he was notified by the Contractor, the foreman may supply the job requirements from other sources consistent with the terms of this Agreement.
+17
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Article 7
+Pre-Job Conferences
+If requested by the Business Manager of a local area or by the Contractor, a pre-job conference shall be held. The Business Manager of the local union having jurisdiction over the area where the work is to be performed, the Contractor representatives and the NTD Representative in that particular area will be in attendance at the pre-job conference. The Contractor shall make arrangements for the meeting through the District NTD Representative.
+Article 8 Supervision
+Art 8(a) Foremen. On work under Articles 2(a), 2(b), and 2(c) the foreman on each shift shall be a regular employee of the Contractor and his selection shall be solely the responsibility of the Contractor. No other foreman shall be required on work covered by Articles 2(a) and 2(b) nor on work covered by Article 2(c) unless required by the local or area agreement. The foreman may give orders to as many men as he is capable of handling without additional supervisoiy help. Final determination, however, of the size of the force to be supervised
+18
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+lies exclusively with the Contractor. Likewise, a foreman who serves as an assistant to another foreman on a large job may give orders directly to the men on the job.
+Art 8(b) Pushers (Assistant Foremen). Pushers (Assistant Foremen) may be regular employees of the Contractor, or the Contractor may select them from among the available local boilermakers. The number of pushers will be determined by the Contractor. Pushers (assistant foremen) may work with the tools at the discretion of the Contractor. The Contractor is entitled to require that any pusher be capable of personally performing any of the work done by the men over whom he will have supervision, and he must have the ability and show a willingness for carrying out his orders in a manner satisfactory to the Contractor's foreman.
+Art 8(c) Where ten (10) or less are employed on a job, the foreman will be permitted to work with the tools, if required by the Employer. Where eleven (11) or more men are employed on a job, the foreman shall not work with the tools but shall act in a supervisory capacity. It is understood that in the performance of his function in a supervisory capacity the primary duty of a foreman is that of supervision and it is not
+19
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+intended that he take the place of a production worker on the job. Any work the foreman performs is for the purpose of instructing and demonstrating.
+Article 9 Performance of Work
+Art 9(a) Boilermakers, helpers, learner helpers, mechanic trainees and apprentices shall be assigned to and employed on work covered by this Agreement.
+Art 9(b) The field loading, unloading, setting or placing of all materials at the construction site, regardless of the type of transportation, to be erected by boilermakers shall be done by boilermakers, helpers, learner helpers, mechanic trainees or apprentices if available at the time the work is done.
+Art 9(c) No Employer shall subcontract or assign any of the work described herein, which is to be performed at a job site, to any contractor, subcontractor, or other persons or party who does not have or refuses to enter into an agreement or understanding which will comply with the conditions of employment including without limitation, those relating to Union security, rates of pay, assignment of work, working conditions,
+20
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+and other matters covered by this Agreement or a field construction Agreement in effect in the area where the work is erected which has been approved by the International Brotherhood.
+Art 9(d) When requested in writing by the International Brotherhood Vice-President, the Contractor will furnish a signed letter on Company letterhead stationery, stating verification that Boilermakers were assigned to and completed specific work on a specific job site.
+Art 9(e) It is understood that the Contractor will not be asked to act upon any questions regarding jurisdiction which may arise within the Brotherhood itself or between the Brotherhood and any other union affiliated with the AFL-CIO, and that during the period such disputes, questions or controversies continue, there shall be no cessation of work on account thereof.
+Article 10
+Classifications and Qualifications of Employees
+Art 10(a) Mechanic - Skilled. A boilermaker is one skilled in various phases of his trade including one or more of the following occupations: welder (who must pass currently
+21
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+recognized welders' qualification tests); equipment maintenance men (who dresses tools, operates the tool room, if any, and keeps the equipment in safe and good working condition); acetylene burner; chipper; fitter gang leader; top erector (who climbs and connects steel in the air); riveter; caulker; heater; bucker; and moocher (who inspects welding and riveting); operators of any kind of inspection or testing equipment who are employees of Contractor. However, full time operators of inspection or testing equipment are not counted in manpower ratios as referred to in Article 2,
+Art 10(b) Helper. A helper is one who helps at any of the above occupations. A helper not only helps a mechanic when such, help is required, but the following occupations are considered helper's work; power brush operator; bolter; reamer; fitter helper (who works under a fitter gang leader and who prepares joints and seams for welders or riveters); scaffold erector (who erects, moves and takes down scaffold); ground erector (who ties on and prepares steel for erecting); and similar items of work not requiring extensive experience or training. Helpers may be assigned to tack weld for the purpose of providing them with opportunities of advancement or to serve when mechanics are not available.
+22
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Art 10(c) Learner Helper. Learner helpers may be employed for a period of ninety (90) days at 65% of the mechanic's hourly rate. At the Contractor's discretion, after the ninety (90) days probationary period, the learner helper must enter the NTL Mechanic Training Program, be advanced, or be terminated. A learner helper assists at any of the occupations performed by mechanics or helpers.
+Art 10(d) Mechanic Trainee. Mechanic Trainees are learner helpers that the Contractor has selected and indentured into the NTL Mechanic Training Program. The Mechanic Trainee is required to sign the Mechanic Training Agreement and shall fulfill all requirements of the program. Recognizing the need to train skilled boilermakers, the Contractors will make every effort to indenture and work Mechanic Trainees on their projects in keeping with the established Mechanic Trainee Program.
+Art 10(e) A boilermaker will be paid the boilermaker's rate when hired to do boilermaker's work. He may do helper's work intermittently at his boilermaker's rate of pay and may be used at any of the occupations for which he may be fitted as is considered necessary by the Contractor.
+23
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21 r>'?
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Art 10(f) The number and classification of employees required for any job or operation shall be designated by the Contractor. The final determination of whether an employee is qualified to do work is the responsibility of the Contractor.
+Article 11
+Functions of Management
+Art 11(a) In the exercise of its functions of management the Contractor shall have the right to plan, direct and control the operation of all its work, hire employees, direct the working forces in the field, assign employees to their jobs, discharge, suspend, or discipline for proper cause (proper causes for discharge include but are not necessarily limited to drunkenness, incompetence, laziness, insubordination, habitual tardiness or absenteeism), transfer, promote or demote employees, lay off employees because of lack of work, or for other legitimate reasons, require employees to observe the Contractor's rules and regulations not inconsistent with this Agreement, regulate the use of all equipment and other property of the Contractor, decide the amount of equipment used, the number of men needed, and shall be free to contract work anywhere and shall decide the methods of erection and the source from which mate
+24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+rial and equipment arc obtained, provided, however, that the Contractor will not use these rights for the purpose of discrimination against any employee.
+Art 11(b) Unrestricted Output The Contractor and the Brotherhood recognize the necessity of eliminating restrictions and promoting efficiency and agree that no rules, customs or practices shall be permitted that limit production or increase the time required to do the work, and that no limitations shall be placed upon the amount of work which an employee shall perform during the working day, nor shall there be any restrictions against the use of any kind of machinery, tools or labor savings devices. The Brotherhood will cooperate with the Company in encouraging employees to observe the safety regulations which shall be prescribed by the Company and to work in a safe manner.
+Article 12 Wages
+Art 12(a) On all work performed by the Contractor, the hourly wage rates established in a local or area agreement, shall be paid. Where wage rates more favorable to other contractors employing boilermakers
+25
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21 no
+23
+24
+25
+26
+27
+28
+29
+30
+31
+have been established on a job site or in a specific area such wage rates shall be applicable to NTL Contractors employing boilermakers on such job sites or in such specific areas also.
+Art 12(b) Where helper's rate is not established in a local or area agreement, the rate for this classification will be 85% of the mechanic's hourly rate.
+Art 12(c) Learner helpers may be employed for a period of ninety (90) days at 65% of the mechanic's hourly rate. After ninety (90) days and at the Contractor's discretion, learner helpers must enter the NTL Mechanic Trainee Program, be advanced, or be terminated.
+Art 12(d) Mechanic Trainee wages will be determined by the Contractor. The Mechanic Trainee rate will be greater than the 65% learner helper rate. Pay advancements will be determined by the Contractor and the rate will not exceed 95% of the Mechanic's hourly rate until completion of the Mechanic Training Program.
+Art 12(e) Men working off the ground on tower tanks shall receive not less than the boilermaker helper's rate of pay. If retained
+26
+1 2 3 4 5
+6 7 8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+for sixty (60) days they shall be paid the boilermaker's rate.
+Art 12(f) Changes in local wage rates when agreed upon will become effective after the termination of the work contracted on the current wage rate basis but not later than sixty (60) days following the effective date established by the Brotherhood for such local rates.
+The Brotherhood agrees to notify the Chairman of the Negotiating Committee for the Contractors signatory to this Agreement of all proposed negotiations. If the Contractors receive advance notice of new local hourly wage rates or notice that negotiations are to be carried on not less than forty-five (45) days prior to the effective date thereof, the new wage rates will be put into effect on said effective date.
+Article 13 Health and Welfare Plan
+Art 13(a) The Contractor shall pay into the Boilermakers National Health and Welfare Fund the amount of hourly contributions required to be paid to said Fund in local or area Agreements for each hour worked for the Contractor by all of his employees who are covered by this Agreement (including
+27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+foremen). The Contractor agrees to and shall be bound by the provisions of Addendum "A" hereto attached relating to said Welfare Fund.
+Art 13(b) Where there is in effect a local Health and Welfare Plan, the Contractor will pay into the Boilermakers National Health and Welfare Fund the amounts of contributions required under the local agreements for all hours worked by National Transient employees, including foremen. However, on all local men, the Contractor will pay the required contributions to the local Fund for all hours worked by such local men. In no case will the Contractor be required to pay the full obligation to both Funds.
+Art 13(c) Plan "G" shall be the minimum plan for NTL employees.
+Where the locally negotiated contribution for the National Health and Welfare Fund is not sufficient to maintain coverage under the G Plan, the difference, when available, is to be deducted from savings, vacation, or other contributions normally put into employee's paycheck.
+28
+1 2
+3 4
+5 6
+7 8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Article 14 Pension Plan
+Art 14(a) The Contractor shall pay into the Boilermaker-Blacksmith National Pension Trust such amount as specified in applicable local or area agreements for the Contractor by all of his employees who are covered by this Agreement (including foremen). The Contractor agrees to and shall be bound by the provision of Addendum "B" attached here-to relating to said Pension Trust.
+Art 14(b) When there is in effect a local pension plan, the Contractor will pay into the Boilermaker-Blacksmith National Pension Trust the amount of contributions required under the local area agreements by National Transient employees (including foremen). However, on all local men, the Contractor will pay the required contribution to the local pension fund as required under the local area agreements by such local men. In no case will the Contractor be required to pay the full obligation to both funds.
+Art 14(c) No contribution will be paid into the Boilermaker-Blacksmith National Pension Trust for a learner helper during the first 30 days of their probationary period.
+29
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21 'Y)
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Article 15 Apprenticeship Training Program
+Art 15(a) The Contractor shall pay into the Boilermakers Area Apprenticeship Fund such amount per hour as specified in applicable local or area agreements for each hour worked for the Contractor by all his employees (including foremen) who are covered by this Agreement.
+Art 15(b) The Contractor agrees to and shall be bound by the provisions of Addendum "C" hereto and which relate to the said Boilermakers Area Apprenticeship Funds.
+Alt 15(c) The Trust Agreement for the Boilermakers Area Apprenticeship. Funds is hereby approved.
+Art 15(d) The Contractor agrees to employ properly indentured apprentices referred to him by the Local Lodge or mechanic trainees on all work except "elevated water tanks". Every effort shall be made to employ mechanic trainees and apprentices in keeping with the ratio set forth in local or area agreements. Such ratio shall be based on the total number of NTL and Local boilermaker journeymen on the job.
+30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Neither NTL mechanic trainees nor apprentices are to be included in the manning ratios outlined in Articles 2(a), 2(b), 2(c) or Addendum D.
+Art 15(e) The Contractors shall pay into the Manpower Optimization Stabilization & Training (MOST) Fund such amounts per hour as specified in the applicable local or area agreement for each hour worked for the Contractor by all his employees (including foremen) who are covered by this Agreement. This contribution shall be reported on the Apprenticeship forms and submitted to the National Funds office as is done for Apprenticeship funds.
+Article 16 National Annuity Trust
+Art 16(a) The Contractor shall pay into the Boilermakers National Annuity Trust such hourly contributions as specified in applicable local or area agreements for the Contractor by all of his employees who are covered by this Agreement (including foremen). The Contractor shall provide the employee with a weekly payroll stub itemizing the amount paid to his annuity. The Contractor agrees to and shall be bound by the provisions of Addendum
+31
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+"E" attached hereto relating to said National Annuity Trust.
+Art 16(b) Where there is in effect a local Annuity plan, the Contractor will pay into the Boilermakers National Annuity Trust the amount of contributions required under the local area agreements by National Transient employees (including foremen). However, on all local men, the Contractor will pay the required contribution to the local annuity fund as required under the local area agreements by such local men. In no case will the Contractor be required to pay the full obligation to both funds.
+Art 16(c) No contribution will be paid into the Boilermaker National Annuity Trust for a learner helper during the first 30 days of their probationary period.
+Article 17
+Other Fringe Contribution Funds
+Art 17(a) Where there is in effect a local or area agreement in the area covered by the NTL Agreement requiring contributions to any such other Funds, excluding Industry Advancement Funds, the Contractor agrees to make the required contributions to said Fund for all hours worked by local men and
+32
+1 2
+3
+4
+5 6
+7
+8 9 10
+11
+12 13
+14
+15
+16 17
+18 19 20
+21
+22
+23
+24
+25
+26
+27
+28
+29 30
+31
+to be governed by the provisions of the applicable Trust Agreement.
+Art 17(b) Insofar as National Transient Lodge Members are concerned, however, the required contributions to such Funds, other than for pension, health & welfare, apprenticeship, annuity and Industry Advancement Funds, shall be paid direct to the National Transient employees involved on an hourly basis and included in his weekly paycheck except as provided in Article 13(c).
+Article 18 Bond Requirements
+All Contractors employing employees under this Agreement shall cause to be posted a Surety Bond to assure proper and timely payment of the fringe benefit contributions and other deductions required by Articles 5, 13, 14, 15, 16, and 17 of this Agreement and its appendices.
+The minimum amount of the Surety Bond shall be fifty thousand dollars ($50,000.00) and is applicable for all new signatory Contractors and those signatory Contractors whose Boilermaker man hours total 100,000 or less as determined on a yearly basis. The amount of the Surety Bond shall be eighty
+33
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+thousand dollars ($80,000.00) for those Contractors who work over 100,000 Boilermaker man hours. The Union will consider a legally authorized bank letter of credit in the appropriate amounts in lieu of bond.
+Evidence, satisfactory to the International Union, of such bonding must be presented prior to the start of any construction project or job and such evidence shall be maintained in the office of the Director of the NTD. It is agreed that the Surety Bond may not be canceled without approval of the International Union.
+The International Union may refuse to refer men to and may withdraw men from any Contractor who has not posted a bond as required under this Article and such refusal or withdrawal will not constitute a violation of this Agreement.
+Article 19 Hours
+Art 19(a) Working hours shall be eight (8) hours per day, forty (40) hours per week Monday to Friday inclusive, unless otherwise provided for in local or area agreements that have been approved by the International President.
+34
+1 2 3 4 5 6
+7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Art 19(b) The regular starting time shall be eight (8) a.m. unless changed by mutual agreement between the Local Union Representative or NTD District Representative and the job foreman.
+Art 19(c) At the Contractor's option, a 4-10 hour work week, with a Friday make-up at straight time can be established. In the case of a four (4) day work week being instituted, the maximum five (5) day subsistence will be paid. Such jobs shall begin as a four (4) day work week and can be changed only in accordance with Article 19(d).
+Art 19(d) Work hours may be altered to meet local conditions by mutual, written agreement between the local Business Manager and/or the NTD Representative and the Contractor's representative.
+Article 20 Shift Work
+Art 20(a) Shift work will be paid in accordance with applicable local or area agreements, except where the applicable local or area agreement requires shift work to be paid on a premium overtime basis.
+Art 20(b) Where there is no shift work pro
+35
+1 2
+3 4
+5 6
+7 8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+vision in the Local or Area Agreement for the type of work involved, the following shall apply: Eight (8) hours of work will constitute a normal day's work on the day shift. Where a second shift is required, seven and one-half (7-1/2) hours work with eight (8) hours pay shall constitute a normal day's work on die second shift. When a third shift is required, seven (7) hours work with eight (8) hours pay shall constitute a normal day's work on the third shift. Overtime will be paid for the hours worked in excess of the shift hours indicated above. In the event of any variation of the normal work day, shift hours and pay will be on a comparable basis as provided for herein.
+Art 20(c) When so elected by the Contractor, men may be worked on a shift basis in accordance with appropriate local or area agreement having jurisdiction, provided the Business Manager of the Brotherhood is notified twenty-four (24) hours in advance of the effective date of the starting of such a shift.
+Art 20(d) When a job is to run for less than the number of consecutive days specified in the appropriate local or area agreement it will be considered a short or irregular shift work job and the second and/or third shift shall be
+36
+1 2
+3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+paid for at the appropriate overtime rate or an arrangement can be worked out between the Contractor and the Business Manager where two shifts can be worked with each shift working four (4) straight time hours and the balance of the hours at overtime.
+On all shift work, the regular straight time work week begins with the day shift on Monday and ends after each shift has worked five days. A holiday is the 24-hour period beginning at the regular starting time of the day shift.
+Article 21 Overtime and Holidays
+Art 21(a) On all work, other than shift work as provided in Article 20, the premium overtime rate shall be as set forth in the local and area agreement and shall be paid for all time worked on Saturdays, Sundays and the following holidays: New Year's Day, Decoration Day (May 30th or a day agreed upon in advance thereof between the Local Business Manager and Contractor), Independence Day, Labor Day, Thanksgiving, Christmas and/or any other holidays observed in the Boilermakers local or area agreement covering the location where the work is being performed provid-
+37
+
+1 ed however that there is other Boilermaker work on the project being performed under local or area rules.
+Art 21(b) No work shall be performed on Labor Day, except for the preservation of life and property.
+Art 21(c) When a holiday falls on Saturday or Sunday, the day observed by the Nation will be observed.
+Art 21(d) Any deviation from this Article will be by mutual agreement between the Contractor and the NTD Representative.
+Art 21(e) Overtime is not to be demanded of any Contractor by any workman covered by this Agreement as a condition for employment on a job.
+Art 21(f) No employee will he allowed to work more than sixteen (16) consecutive hours without an eight (8) hour break, except as mutually agreed to between the Contractor and the Business Manager.
+Art 21(g) Employees required to work unscheduled overtime in excess of two (2) hours past the regular quitting time of their shift shall be allowed thirty (30) minutes to
+38
+1 2
+3 4
+5 6
+7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+eat lunch without loss of pay and, if work is to continue an additional four (4) hours, they shall be allowed an additional thirty (30) minutes to eat without loss of pay.
+Article 22
+Waiting Time and Travel Authorization
+Art 22(a) Reporting and travel expense authorization shall be made by the authorized Company representative. On the completion of a job the Company's foreman or office must immediately either authorize each man to report to a new job for rehire or inform him that the Company has no work for him for the time being.
+Art 22(b) The reporting date shall not be later than five (5) regular working days after the date of authorization or waiting time and subsistence will be paid after the fifth regular working day.
+Art 22(c) When men are authorized by the Contractor to report to a job at another location on a certain day, but are not placed at work until a later date, they shall be paid two and one-half (2-1 /2) hours at the established local rate for each normal working day after so reporting until given work or released from the job, in which case the man
+39
+1 2
+3 4
+5 6
+7 8
+9
+10 11
+12 13
+14 15 16
+17 18
+19 20 21 22 23 24 25 26 27 28 29 30 31
+will be paid return transportation to his home or to the point from which he was hired, whichever is less.
+Art 22(d) No waiting allowance will be made for days lost on account of unworkable weather unless already on waiting time.
+Art 22(e) No waiting allowance shall be paid for days lost at any time on account of strikes.
+Article 23
+Minimum Pay and Reporting Time
+Art 23(a) All employees employed on work covered by Article 2(a) or 2(b) who report for work shall receive not less than two (2) hours pay. If the employee starts to work, he shall receive four (4) hours pay or be paid for the time required to remain on the job, whichever is greater The foreman on the job, shall determine whether or not such employees will start work, and when employees shall be released in keeping with the above.
+Art 23(b) If an employee is laid off after beginning the second half of his shift for any reason other than bad weather, breakdown in machinery or any cause beyond the direct
+40
+1 2
+3 4 5
+6 7
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+control of the Contractor, he shall receive a full day's pay at the applicable rate.
+Art 23(c) Any employee who is called to work at or after the starting time of the first half of a day, shall receive four (4) hours pay and if he continues on the second half of the day, he shall receive a full day's pay unless laid off because of bad weather, breakdown in machinery or any cause beyond the direct control of the Contractor.
+Art 23(d) Any employee who reports to work on his initial day of employment and is not given work shall receive four (4) hours pay.
+Art 23(e) In order to qualify for the pay provided for in this Article, the employee must remain on the job available for work during the period of time for which he receives pay unless released sooner by the Contractor's foreman.
+Art 23(f) On premium days, in the event an employee who is already employed on the job is sent home before regular starting time, he will be paid two (2) hours at the straight time rate. A new employee, however, will be paid in accordance with the provision of Article 23(d).
+41
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Art 23(g) The foregoing provisions shall not apply when the employee has been properly notified before leaving his residence not to report to work because of inclement weather.
+Art 23(h) The provisions of Articles 23(c) and 23(d) shall not be applicable where the employee is tardy, voluntarily quits or lays off, in which event he shall be paid for the time actually worked or the time required to remain on the job, whichever is greater.
+Article 24
+Travel Allowance or Subsistence
+Art 24(a) The Contractor shall pay all employees covered by the provisions of this Agreement the subsistence or daily travel allowance provided for in the local or area agreement.
+Art 24(b) Any NTL employee employed on work coming under Articles 2(a) and 2(b) of this Agreement who qualify for transportation pay under Article 25(a) and who is working more than sixty (60) miles from the city/town hall of his permanent residence shall receive an allowance of forty-six dollars ($46.00) per day for each day reporting for work. (This allowance shall be effective
+42
+1 2 3 4
+5 6 7
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+on all jobs bid on or after November 1,2001.) The allowance shall be forty-eight dollars ($48.00) per day effective November 1, 2002 and fifty dollars ($50.00) per day effective November 1, 2003. Should a local or area agreement require a higher daily subsistence, then the higher amount will be paid.
+This allowance will be paid to employees covered above on any holiday specified by this Agreement falling during die normal work week (Monday through Friday), provided the employee works the first scheduled work day before and after the holiday.
+The foregoing provisions alleviate some of the hardship imposed on all the NTL employees who move from job to job and in some cases receive subsistence while in others they do not.
+Article 25 Transportation Pay
+It is the intention of the parties that employment of all men commences and ends at the job site. However, in recognition of travel costs incurred by the men before commencement and after termination of their employment the following shall govern:
+43
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Art 25(a) When a national transient boilermaker is authorized to travel at the Contractor's expense from where he is to his next work or from the job from which he was laid off to the point from which he was hired or his home, whichever is less, he shall be allowed a transportation allowance for miles traveled at the current LR.S. tax free rate per mile. Transportation allowance may be determined in advance at the option of the Contractor with mileage over the most direct main traveled route as determined from the Rand McNally Atlas.
+Art 25(b) Local or NTL boilermakers referred by the local union having jurisdiction shall be paid transportation at the rate provided for in the local or area agreement.
+Art 25(c) In order to qualify for transportation in accordance with the provisions of A v+ir'lnc	anr?	if- ic i
+***U^*V^	LUU.
+all employees, unless transferred sooner at the option of the Contractor, (1) must remain at work on the job at least twenty (20) working days, or (2) in case of jobs of less than twenty (20) working days, they must remain on the job for the duration thereof.
+Art 25(d) Transportation allowance will be paid in the employee's third or last pay
+44
+1 2
+3 4
+5 6 7
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+check, whichever is earlier. However, if an employee fails to comply with the requirements of this Section, such allowances shall be deducted from his final paycheck.
+Art 25(e) Employees who quit or are discharged for just and sufficient cause before completion of a job will not be entitled to return transportation.
+Article 26 Pay Day
+Art 26(a) The Brotherhood recognizes that the scattered and remote location of jobs with respect to the accounting office of the Contractor requires a reasonable length of time for mail travel and pay roll accounting, but expects that arrangements will be made whereby employees will not be required to wait longer than five (5) days for their pay checks, with possible exceptions in remote locations. By mutual agreement the Contractor may institute direct deposit for their employees on a voluntary basis. If the employee agrees to have their checks direct deposited, Articles 26(b), 26(c), and 26(d) will apply to the check stub only.
+Art 26(b) If pay checks have not been received on the job by the fifth (5th) working
+45
+1 2
+3 4
+5 6
+7 8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+day (Holidays not excluded) after the pay period ends, the Contractor shall make arrangements to have the men paid on the job. Failing to do so, the Contractor will be required to pay overtime for waiting. Overtime will be computed on the basis of actual time required to wait or two (2) hours per day, whichever is less. The foregoing would not apply when extenuating circumstances exist beyond the control of the Contractor.
+Art 26(c) Men discharged or laid off will be paid in full at the time of termination. Failure to do so, the Contractor will be required to pay for waiting as required by Article 26(b).
+Art 26(d) Men who quit may be required to wait until the following pay day for their pay. If an employee advises the Contractor that he is quitting and so requests, his final check shall be mailed to him not later than one (1) day after payday.
+Article 27 Working Conditions
+Art 27(a) Men will be allowed sufficient time not to exceed ten (10) minutes at the end of the day to put away their tools, if required, prior to quitting time.
+46
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Art 27(b) A reasonable clean, warm, dry place within close proximity to the work site shall be provided for the men to change their clothes and eat lunches. Suitable drinking water will be made available.
+Art 27(c) Reasonable sanitary facilities will be made available on all jobs.
+Aft 27(d) All work of the Employer shall be performed under safety conditions which must conform to Contractor, State and Federal Regulations. When provided, employees will utilize proper safety devices and methods at all times. Repeated employee violations will be considered proper cause for disciplinary action up to and including discharge.
+Art 27(e) The parties to this Agreement are committed to the maintenance of safe and efficient work environment for all employees free from the effects of alcohol, illegal drugs, and other controlled substances. The use or possession of alcohol or illegal drugs by employees while on duty or on the job site/property is prohibited. If required by a customer or law, the Contractor shall have the right to require drug testing of all employees as a condition of employment. The cost of the test will be at the Contractor's expense.
+47
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Art 27(f) All Employees employed on Article 2(a) or 2(b) jobs shall be furnished suitable replacement gloves or given a glove allowance of one dollar ($1.00) per day. The glove allowance will not be paid if gloves are required by law.
+Art 27(g) Any welder who is required to take a test shall be paid at the applicable rate for the time required to take the test, but not less than two (2) hours pay. Transportation allowance shall be paid to the place of testing and to the job site, provided he passes the test, or he presents satisfactory evidence of his qualifications as a welder, accepts offered employment and remains on the job as specified in Article 25(c).
+Article 28
+Union Steward and Representatives
+Art 28(a) On all jobs, the Business Manager or NTD Representative will designate a steward whose duties shall consist of seeing that all workmen are members in good standing of the Brotherhood in accordance with the provisions of Article 4(a) and who will either handle grievances that may arise with the foreman on the project or report them to the Business Manager or NTD Representative.
+48
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15 16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 29
+30
+31
+Art 28(b) When a steward has not been appointed by the Business Manager of the local union or by the NTD District Representative in the area where work is erected, the crew on the job will designate one of their number to act as temporary steward. The steward will remain on the job at all times when work is being performed except when he is not qualified to perform the available work.
+Art 28(c) It is understood that the steward selected by the Business Manager will be from among the employees accepted by the Contractor as competent and qualified to do the work and that if it is not practical to retain that person until the end of the job, the Business Manager will be notified in time to appoint a successor.
+Art 28(d) Stewards shall not, by reason of their position as stewards, be exempt from the work required of journeymen on the job site and shall work the full day of journeymen except when engaged in handling grievances of the Union or other recognized duties related to the successful prosecution and completion of the job. The steward's decisions are subject to review and revision by the NTD Representative and Business Manager. Stewards shall receive the regular journeymen's rate of pay.
+49
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Art 28(e) National Transient Lodge Members' District Representatives and local Business Managers shall have access to all jobs during working hours and will not unnecessarily delay progress of the job. Contractor shall make all necessary arrangements for the admission of such representatives, subject to Customer's regulations, without unnecessary delay.
+Art 28(f) The International President of the Union shall select the Director of the National Transient Division who shall be Chairman of the NTD/NTL Negotiating Committee and who shall administer the terms of the NTD/NTL Agreement with the assistance of the NTL Secretary-Treasurer and NTL Negotiating Committee provided for in Article 7.7 of the NTL By-Laws. The Director of the NTD shall direct the NTD staff and report to the International Pre^iden^ on all matters. The location of the NTD office and home point of the Director of the NTD shall be subject to the approval of the International President.
+Article 29
+Wage Inducement Program
+Art 29(a) Except on building trades projects wage inducement programs may be
+50
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+used on the erection of work under Articles 2(a) and 2(b).
+Art 29(b) Where wage inducement programs are used, the Contractor and the Brotherhood agree to equitable cooperation during the life of this Agreement. In no case shall the total earnings of an employee be less than he would have earned at his regular hourly rate for the pay period. The Contractor shall have the responsibility of administering such programs but discrimination against any individual may be handled as a proper grievance.
+Article 30 Accidents
+Art 30(a) In case of minor injuries during working hours, the Contractor will make provisions for transportation or reimburse the injured employee the current I.R.S. tax free rate per mile for repeated visits required by the doctor designated by the signatory company in the event transportation is not provided by the company; also, such injured employee will be paid for time lost due to follow up treatments if they can not be scheduled outside of regular working hours. Any employee who is injured on the job to the extent of being unable to work the bal
+51
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+ance of the day, will be paid for the full day at his regular hourly rate.
+Ait 30(b) In the event of any serious or fatal accident the Contractor shall immediately notify the National Transient Division District Representative, the National Transient Division Unit in Kansas City, Kansas, and the local Business Manager in the area.
+Article 31 Adjustment of Grievances
+Art 31(a) In order to be recognized and processed under the provisions of this Article all grievances must be filed in writing with details specific to said grievance within thirty (30) days. In the event a grievance or dispute is not satisfactorily settled by the employee and his steward and/or union representative and the Contractor's foreman on the job site within ten (10) days, it shall be referred forthwith by the union representative to the NTD District Representative and by the Contractor's foreman to the Contractor's office. If these in turn are not able to arrive at any agreement within fifteen (15) days, the grievance or dispute shall be referred to the chairmen of the respective negotiating committees who shall render a decision.
+52
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Art 31(b) Any questions involving the intent, application or interpretation of Article 2 shall be referred to die joint subcommittees on work jurisdiction for decision. Questions relative to the balance of this Agreement shall be referred to the joint chairmen for decision.
+Art 31(c) In the event any matter referred to the two chairmen as provided above, is not settled within thirty (30) calendar days, the matter in dispute will be submitted in writing by the Union or by the Contractor or by both to an arbitration committee consisting of a representative of the Union, a representative of the Employer, and a third member to be chosen by those two (2) jointly. The decision of the majority of the arbitration committee shall be final and binding on the parties involved. Such decision shall be within the scope and terms of this Agreement, but shall not change such scope and terms; shall be rendered within ten (10) calendar days from the time of reference to the arbitration committee and shall specify whether or not it is retroactive and the effective date thereof.
+If the two members of the arbitration committee fail to select a neutral member within five (5) calendar days, the two members already appointed shall within five (5) cal-
+53
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+endar days, call upon the Federal Mediation and Conciliation Service to make the third selection. In the event either Contractor or Union's representative fails to cooperate in calling upon the Federal Mediation and Conciliation Service within the said five (5) calendar days, the other representative shall have the authority to make such request.
+The expense of the third member of the arbitration committee shall be borne equally by the Union and the Employer. AU other expenses of the arbitration procedure will be borne by the party incurring them.
+Any grievance must be submitted in writing to the other party within thirty (30) calendar days of occurrence or it will be considered closed.
+Article 32
+-Strikes or Lockouts
+Art 32(a) There shall be no strikes, slowdowns or work suspensions of any kind during the life of this Agreement over any matter until after the procedure herein established has failed and then only after approval has been given by the International President in conformity with the Constitution of the Brotherhood.
+54
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Art 32(b) There shall be no lockout on the part of the Employer during the life of this Agreement.
+Art 32(c) Workmen will not be expected to pass through a legal and properly established picket line.
+Article 33 Project Agreement
+Art 33(a) Project Agreements covering specific jobs may be made to cover peculiar problems by mutual agreement between the NTD District Representative, the local Union Representative, a Representative of the Contractor, and approved by the International President.
+Art 33(b) When the NTL Agreement is excluded in its entirety from Project Agreements, all employees of the Contractor shall be paid subsistence pay in accordance with the provisions of Article 24(b) of this Agreement.
+Article 34
+Violation of Agreement
+Art 34(a) Violation, evasion, or misinterpretation of the terms of this Agreement, unless
+55
+1
+2 3
+4 5
+6 7
+8 9
+10 11 12 13
+14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+corrected and discontinued, will be sufficient cause for the cancellation of the agreement between the violating company and the International Brotherhood at any time.
+Art 34(b) Violations of these rules may subject employees individually or collectively to discipline, suspension or discharge.
+Article 35
+Agreement Qualification
+It is not the intent of either party hereto to violate any laws or rulings or regulations of any Governmental authority or agency having jurisdiction of the subject matter of this Agreement, and the parties hereto agree that, in the event any provision of this Agreement is held to be unlawful or void by any tribunal having the right to so hold, the remainder of the Agreement shall remain in full force and effect, unless the parts so found to be void are wholly inseparable from the remaining portions of this Agreement.
+Article 36
+Termination or Renewal
+Art 36(a) This Agreement shall continue in effect from November 1, 2001 through October 31, 2004 and thereafter for succes
+56
+1 2 3
+4 5
+6 7
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+sive one year periods until amended or terminated by either party by giving to the other party notice of such termination at least sixty (60) days prior to its anniversary date. However, by mutual agreement between the Chairmen of the respective Committees, this Agreement may be opened up for negotiations at any time during the life of this Agreement.
+Art 36(b) This Agreement contains all the covenants, stipulations and provisions agreed upon by the parties hereto and no agent or representative of either party has authority to make and none of the parties shall be bound by or be liable for any statement, representation, promise, inducement or agreement not set forth herein. Any provision in the working rules of the Brotherhood with reference to the relations between the Contractor and his employees not expressly reaffirmed in this Agreement shall be deemed to be waived and any such rules or regulations which may hereafter be adopted by the Brotherhood shall have no application to the work hereunder.
+Art 36(c) It is not the intent of the Brotherhood to enter into any written or oral agreement with any Contractor on terms and conditions more advantageous than
+57
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+those contained in this Agreement. However, if the Brotherhood should, for any reason, enter into an agreement with any other Contractor on terms and conditions more advantageous to such Contractor than those contained in this Agreement, then such advantageous terms and conditions shall be made available to all Contractors signatory hereto.
+The preceding Agreement was negotiated at a general conference of Contractors and the Brotherhood in Chicago, Illinois August 22,2001 and Key West, Florida November 7, 2001 by the following committees:
+Representing the Contractors:
+Ronnie L. Traxler, CBI Services, Chairman Dave Zach, Nooter, Secretary
+John H. Dreher, Nooter John Legge, Fisher Tank Mike Santoro, CBI Services Jerry L. Dawson, RECO Vance Davis, Matrix Ken Lawson, Enerfab Jim Bollweg, CBI Services
+Representing the Brotherhood:
+William J. Almond, Chairman
+Wil Hinojosa, Secretary
+Dick Hardin
+58
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Edward D. Rokuski
+Alvah Watts
+Joe Bazy
+John A. "Tony" Gallo
+Union Observers:
+Larry McManamon, IVP — Great Lakes Michael Murphy IVP — Northeast Ronny Vanscoy, NTL
+Gary S. Scott, NTL
+Ed Vance, L-455
+John T. Fultz, L-l 75
+Marlin McCurdy, L-242
+Michael C. Wood, L-60
+Pat Smith, L-40
+Mike DiCicco, Assistant Dir. Const. Division Daniel E Everett, BNAP/AIP
+Bill Palmisano, MOST
+Contractor Representatives:
+Gary Slaby, Enerfab, Inc.
+Bernie Fineman, Caldwell Tanks Jack Whitlow, Fisher Tank
+Jimmy Nelson, Nooter Construction Co.
+Randy Murphy, Chattanooga Boiler & Tank Kermit Knott, Winbco Tank
+John Travlos, Winbco Tank
+MattDetelich, Mueller Field Operations, Inc. Jerry Codutti, Mueller Field Operations, Inc. Ken Reynolds, Enerfab, Inc.
+59
+1 2
+3 4
+5 6
+7 8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Addendum "A*
+Add. A(l) In the Agreement to which this is an appendix and in this appendix, the Boilermakers National Health and Welfare Fund is referred to as "National Welfare Fund/' "Welfare Fund" or "Fund." The Contractor is referred to as "Employer" and the Contractors are referred to as "Employers."
+Add. A(2| Employer agrees to be bound by the Agreement and Declaration of Trust entered into as of October 1,1954, establishing the Boilermakers National Health and Welfare Fund and by any amendments to said Trust Agreement.
+Add. A(3) Payment of Employer contributions to the National Welfare Fund shall be made on the dates and in the manner and form prescribed by the Trustees of said Fund.
+Add. A(4) Employer shall furnish the Trustees with information such as the names of employees, classifications, Social Security numbers, hours worked and such other information as may be required or deemed necessary by the Trustees for the proper and efficient administration of the Fund.
+61
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Add. A(5) Employer hereby authorizes and directs the committee in this Agreement named as representing the Contractors, and as to the future the committee named in the then current Agreement successor to this Agreement with the Union or any local thereof to do each and all of the following in his (Employer's) name and behalf, either individually or in conjunction with other Employers covered by this Agreement:
+Add. A(5)(a> Execute the Agreement and Declaration of Trust establishing the National Welfare Fund;
+Add. A(5)(b) Exercise any rights, powers and authority given or provided by said Trust Agreement or any amendments thereto, to elect, select, appoint or to vote for one or more Employer Trustees and successor Employer Trustees of the Fund and to remove or vote for or against the removal of any Employer Trustees of the Fund;
+Add. A(5)(c) Exercise any and all other rights in connection with or relating to the National Welfare Fund or its Trust Agreement, which are given the Employer, either individually or together with other Employers, under said Trust Agreement.
+62
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+In exercising or in not exercising the power and authorities herein granted, the committee shall act on and in accord with, but only on and in accord with, the vote of a majority of the then members of the committee. Having so acted, the committee may designate its then chairman, alone or together with one or more of its members, or one or more other members of the committee, to vote or to execute any document on behalf of the committee and/or Employer and/or all or some of the other Employers covered by this Agreement.
+Addendum "B"
+Add. Bill In the Agreement to which this is an appendix and in this appendix, the Boilermaker-Blacksmith National Pension Trust is referred to as "National Pension Trust," "Pension Trust" or "Trust", the Contractor is referred to as "Employer" and the Contractors are referred to as "Employers."
+Add. B(2) Employer agrees to be bound by the Trust Agreement entered into as of June 2, 1960, establishing the Boilermaker-Blacksmith National Pension Trust and by any amendments to said Trust Agreement, and to execute an individual acceptance of
+63
+1
+2 3
+4 5
+6 7
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 97 23 24 25 26 27 28 29 30 31
+said Trust Agreement and amendments upon request of the Union.
+Add. B(3) Payment of Employer contributions to the National Pension Trust in the amount specified in the Agreement to which this is an Appendix shall be made on the dates and in the manner and form prescribed by the Trustees of said Trust; provided that no contributions shall be made prior to the receipt by such Trustees of a ruling from the Internal Revenue Service to the effect that the Pension Plan under said Trust qualifies under Section 401 (a) of the Internal Revenue Code and that such Trust is tax exempt under Section 501 (a) of the Code; after receipt of such ruling contributions shall be payable as of the effective date specified in the Agreement to which this is an Appendix.
+Add. B(4) Employer shall furnish the Trustees with information such as the names of employees, classifications, Social Security numbers, hours worked, and such other information as may be required or deemed necessary by the Trustees for the proper and efficient administration of that Trust.
+Add. B(5> Employer hereby authorizes and directs the committee named in this Agreement as representing the Employers,
+64
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11
+12 13
+14
+15
+16
+17
+18
+19 20 21
+22
+23
+24
+25
+26 27 28
+29 30
+31
+and as to the future, the committee representing Employers named in the then current Agreement successor to this Agreement with the Union or any local thereof to do each and all of the following in his (Employer's) name and behalf, either individually or in conjunction with other Employers covered by this Agreement:
+Add. B(5)(a) Execute the Trust Agreement establishing the National Pension Trust;
+Add. B(5Xb) Exercise any rights, powers and authority given or provided by said Trust Agreement or any amendments thereto, to elect, select, appoint or to vote for one or more Employer Trustees and successor Employer Trustees of the Trust and to remove or vote for or against the removal of any Employer Trustee of the Trust;
+Add. B(5)(c) Exercise any and all other rights in connection with or relating to the National Pension Trust or the Trust Agreement, which are given the Employer, either individually or together with other Employers, under said Trust Agreement.
+In exercising or in not exercising the power and authorities herein granted, the committee shall act on and in accord with, but only on
+65
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21 nn
+23
+24
+25
+26
+27
+28
+29
+30
+31
+and in accord with, the vote of a majority of the then members of the committee. Having so acted, the committee may designate its then chairman, alone or together with one or more of its members, or one or more other members of the committee, to vote or to execute any document on behalf of the committee and/or Employer and/or all or some of the other Employers covered by this Agreement
+Add. B(6) Employer hereby irrevocably designates the Employer Trustees appointed pursuant to said Trust Agreement, and their successors collectively as his (Employer's) representatives for the purposes set forth in said Trust Agreement.
+Addendum "C*
+Add. C(1) In the Agreement to which this is an appendix and in this appendix, the Eoilermakers Area Apprenticeship Funds are referred to as "Area Apprenticeship Funds," "Apprenticeship Funds" and "Funds." The National Joint Apprenticeship Board is composed of an equal number of Employer and Union representatives selected to represent the various Areas established by the Trust Agreement. The Contractor is referred to as "Employer" and the Contractors are referred to as "Employers."
+66
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Add. C(2) Employer agrees to be bound by the Agreement and Declaration of Trust establishing the Boilermakers Area Apprenticeship Funds and by any amendments to said Trust Agreement.
+Add. 0(3) Payment of Employer contributions to the Boilermakers Area Apprenticeship Funds shall be made on the dates and in the manner and form prescribed by the National Joint Apprenticeship Board of said Funds.
+Add. 0(4) Employer hereby authorizes and directs the committee in this Agreement named as representing the Contractors and, as to the future, the committee named in the then current Agreement" successor to this Agreement with the Union dr local thereof, to do each and alp of the following in his (Employer’s) name andon behalf, either individually or in conjunction with other Employers covered by this Agreement:
+Add. C(4)(a) Execute the Agreement and Declaration of Trust establishing the Boilermakers Area Apprenticeship Funds;
+Add. C(4)(b) Exercise any rights, powers and authority given or provided by said Trust Agreement or any amendments therc-
+67
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21 no
+23
+24
+25
+26
+27
+28
+29
+30
+31
+to to elect, select, appoint or to vote for one Employer Member of the National Joint Apprenticeship Board and a successor Employer Member of such Board and to remove or vote for or against the removal of any Employer National Board Member selected under this Agreement.
+Add. C(4)(c> Exercise any and all other rights in connection with or relating to the Boilermakers Area Apprenticeship Funds or its Trust Agreement, which are given the Employer, either individually or together with other Employers, under said Trust Agreement.
+In exercising or in not exercising the power and authorities herein granted, the committee shall act on and in accord with, but only on and in accord with, the vote of a majority of the then members of the committee. Having so acted, the committee may designate its then chairman, alone or together with one or more of its members, or one or more other members of the committee, to vote or to execute any document on behalf of the committee and/ or Employer and/or all or some of the other Employers covered by this Agreement.
+68
+1 2
+3 4
+5 6
+7 8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Addendum “D"
+Rules Covering Dismantling, Demolition, Conversion, Maintenance, and Repairs
+Add. D(11 Rule 1—Definition of Maintenance and Repair. It is agreed between the Union and the Employer that the provisions of this Addendum is applicable to maintenance, repair, replacement of parts, demolition, and renovation work that is primarily within the recognized and traditional jurisdiction of the Union and shall be performed in accordance with the terms of this Addendum by a signatory party to this Agreement.
+When working Addendum D of the NTL Agreement in conjunction with any of the National Maintenance Agreements, on a project, it is understood that all terms and conditions of the National Maintenance Agreements would apply except for the local referral or hiring section, which would be in accordance with Article 2(a), 2(b), or 2(c), whichever is applicable according to the type of work to be performed.
+All terms and conditions noted above refer to wages, subsistence and shift differential contained in the appropriate National Maintenance Agreements. Appropriate field dues are per Article 5 of this Agreement.
+69
+1
+2
+3
+4
+■5 6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Add. D(2) Rule 2 — Definitions.
+Add. D(2)(a) Maintenance shall be work performed for the repair, replacement, renovation, revamp and upkeep of property, machinery and equipment within the limits of the plant property or other locations related directly thereto.
+Add. D(2)(b) The word "repair", used within the terms of this Addendum and in accordance with maintenance, is work required to restore by replacement of parts of existing facilities to efficient operating conditions.
+Add. D(2)(c) The word "renovation", used within the terms of this Addendum and in connection with maintenance, is work required to improve and/or restore by replacement or by revamping parts of existing facilities to efficient operating condition.
+Add. D(2)(d) The term "existing facilities", used within the terms of this Addendum is limited to a constructed unit already completed and shall not apply to any new unit to be constructed in the future even though the new unit is constructed on the same property or premises.
+70
+1 2
+3
+4
+5 6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Add. D(3J Rule 3—Scope of Work.
+Add. D(3)(a) The provisions of this Addendum covers all work to be performed by the Employer for the purpose of maintenance, repair, replacement of parts, and renovation work in various plants wherein the Employer works, assigned by the owner to the Employer, and performed by the employees covered by this Addendum.
+Add. D(3)(b) The provisions of this Addendum do not cover work performed by the Employer of a new construction nature, in which event said work shall be done in accordance with existing provisions of this Agreement.
+Add. D(3|(c| The Union and the Employer understand that the owner may choose to perform or directly subcontract or purchase any part or parts of the work necessary on this project with due consideration given to achieving the highest maintenance standards and harmonious working conditions herein.
+Add. D(3)(c) All subcontractors to the Employer who may perform work within the Boilermaker craft jurisdiction under this Agreement shall abide by the terms of this Agreement
+71
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Add. D(4> Rule 4 — Shift Starting Time, Overtime Payment, and Equal Treatment
+Add. D(4)(a) All time worked before and after the established workday of eight (8) hours, Monday through Friday, and all time worked on Saturday, shall be paid at the rate of time and one-half (1-1/2) except in cases where such work is part of an employee's regular Friday shift.
+All time worked on Sunday shall be paid for at the rate of double time (2) except in cases where such work is part of an employee's regular Saturday shift. All time worked on the holidays stated in Article 21 shall be paid for at the rate of double time (2) except in cases where such work is part of an employee's regular straight time shift.
+Add. D(4)(b) Shift work will be paid in accordance with Article 20(a) or 20(b) of this Agreement.
+Add, D(4)(c) By mutual consent of the Employer and the Union, the starting and quitting times of any shift, including day work, may be changed for all or any portion of a particular job. For the purpose of this Addendum, the standard work day of eight (8) hours for the job or portion thereof to
+72
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+which any such change of starting time applies shall begin with such agreed starting time.
+Add. D(4)(d) Short or irregular work shift rules in the applicable local or area maintenance and repair agreement shall apply to all work under this Addendum.
+Add. D(5) Rule 5—Continuity of Work.
+Add. D(5)(a) There will be no work stoppages, strikes, or lockouts on maintenance and repair work for any reason.
+Add. D(5)(b) In the event of a work stoppage due to a breakdown of negotiations, men will continue to work on maintenance and repair work covered by this Agreement. The Employer in order that continuity of work shall be maintained agrees to be bound by all the terms of the new agreement when negotiated, including wages on a retroactive basis to the date of the new contract if such condition is established in the new agreement
+Add. D(6) Rule 6 — Hiring and Transfer of Men. The Employer, when performing work under the provisions of this Addendum agrees to hire men in any territory where
+73
+1 2
+3 4
+5 6
+7 8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+work is being performed or is to be performed in accordance with the hiring procedure as set forth in Article 2(a), 2(b), or 2(c) of this Agreement.
+An exception to the above is that on 'other cylindrical structures' [Article 2(a)l in oil refineries and or petro chemical plants, the hiring procedure will be: The first two men (exclusive of foremen) shall be transient boilermakers and the next two men shall be local boilermakers. The next man will be a transient boilermaker followed by two local boilermakers. Predicated upon job requirements, this ratio will be maintained when hiring additional men for the job.
+An exception to the above referenced ratio is that on short duration jobs of six (6) days or less in oil refineries and/or petro chemical plants, the first four (4) men excluding the foreman shall be transient boilermakers. All other manning shall be in keeping with Rule 6.
+In the event the local lodge is unable to fill the request of the Employer for employees within a forty-eight (48) hour period after such request for employees (Saturday, Sunday, and holidays excepted), the Employer may employ workmen from any source.
+74
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Foremen shall be assigned and transferred as provided in Article 8 of this Agreement
+Add. D(7> Rule 7	— Subsistence.
+Subsistence shall be paid to all employees in accordance with the provisions of the appropriate local agreement.
+In the event job conditions or extenuating circumstances warrant, above Rule 7 may be modified by mutual consent of the Contractor and the Business Manager. However, in no circumstances will the conditions of Rule 7 be exceeded.
+Addendum "E"
+Add. Eh) In the Agreement to which this is an appendix and in this appendix, the Boilermakers National Annuity Trust is referred to as "National Annuity Trust," "Annuity Trust" or "Trust"; the Contractor is referred to as "Employer" and the Contractors are referred to as "Employers."
+Add. E(2) Employer agrees to be bound by the Trust Agreement entered into as of November 1, 1985, establishing the Boilermakers National Annuity Trust and by any amendments to said Trust Agreement, and to execute an individual
+75
+1 2
+3
+4
+5 6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19 20
+21
+z-x, 23
+24
+25
+26
+27
+28
+29
+30
+31
+acceptance of said Trust Agreement and amendments upon request of the Union.
+Add. E(3) Payment of Employer contributions to the National Annuity Trust in the amount specified in the Agreement to which this is an Appendix shall be made on the dates and in the manner and form prescribed by the Trustees of said Trust; provided that no contributions shall be made prior to the receipt by such Trustees of a ruling from the Internal Revenue Service to the effect that the Annuity Plan under said Trust qualifies under Section 401 (a) of the Internal Revenue code and that such Trust is tax exempt under Section 501 (a) of the Code; after receipt of such ruling contributions shall be payable as of the effective date specified in the Agreement to which this is an Appendix.
+Add. E(4) Employer shall furnish the Trustees with information such as the names of employees, classifications, Social Security numbers, hours worked, and such other information as may be required or deemed necessary by the Trustees for the proper and efficient administration of that Trust.
+Add. E(5) Employer hereby authorizes and directs the committee named in this Agreement as representing the Employers,
+76
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+and as to the future, the committee representing Employers named in the then current Agreement successor to this Agreement with the Union or any local thereof to do each and all of the following in his (Employer's) name and behalf, either individually or in conjunction with other Employers covered by this Agreement:
+Add. E(5|(a) Execute the Trust Agreement establishing the National Annuity Trust;
+Add. E(5)(b) Exercise any rights, powers and authority given or provided by said Trust Agreement or any amendments thereto, to elect, select, appoint or to vote for one or more Employer Trustees and successor Employer Trustees of the Trust and to remove or vote for or against the removal of any Employer Trustee of the Trust;
+Add. E(5)(c) Exercise any and all other rights in connection with or relating to National Annuity Trust or the Trust Agreement, which are given the Employer, either individually or together with other Employers, under said Trust Agreement.
+In exercising or in not exercising the power and authorities herein granted, the committee shall act on and in accord with,
+77
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+but only on and in accord with, the vote of a majority of the then members of the committee. Having so acted, the committee may designate its then chairman, alone or together with one or more of its members, or one or more other members of the committee, to vote or to execute any document on behalf of the committee and/or Employer and/or all or some of the other Employers covered by this Agreement.
+Add. E(6) Employer hereby irrevocably designates the Employer Trustee appointed pursuant to said Trust Agreement, and their successors collectively as his (Employer's) representatives for the purposes set forth in said Trust Agreement.
+78
+Union Directory
+National Transient Division Representatives
+William J. Almond Director
+5280 Old Springville Road, Suite F Pinson, AL 35126
+Phone:	Office	205/856-9080
+Fax	205/856-9081
+Home	205/655-9071
+John A. (Tony) Gallo International Representative 10811 S. 865 East Sandy, UT 84094
+Phone: Office	801/571-1739
+Fax	801/571-2928
+Home	801/571-5406
+California	Oregon
+Idaho	Utah
+Montana	Washington
+Nevada	
+79
+Dick Hardin International Representative 18096 Kings Row, Suite B Houston, TX 77058
+Phone:	Office Fax Home	281/333-2375 281/333-1242 281/557-8768
+Arizona		Missouri
+Arkansas		Nev dexico
+Colorado		Oklahoma
+Kansas		Texas
+Louisiana		Wyoming
+Wilfredo (Wil) Hinojosa NTL Bus. MgrJSec.-Treas. and Inti. Rep. 112 E. Dudley St.
+Maumee, OH 43537
+Phone: Office Fax Home Delaware Indiana Kentucky Maryland Illinois Iowa Michigan Minnesota	419/887-1995 419/887-1996 419/661-9555 Ohio Virginia West Virginia Dist. of Columbia Nebraska North Dakota South Dakota Wisconsin
+80
+John (Joe) Bazy International Representative Shannopin Square Bldg. 1 One Forestwood Dr., Suite 111 Pittsburgh, PA 15237-1200
+Phone: Office Fax Home
+Connecticut Maine Massachusetts New Hampshire New Jersey
+412/367-0792 412/367-1445 724/452-5378
+New York Pennsylvania Rhode Island Vermont
+Alvah (Al) Watts International Representative 2401 Shaw Ave. Garden City, GA 31408
+Phone: Office Fax Home
+Alabama
+Florida
+Georgia Mississippi
+912/964-0985 912/964-0391 912/925-7676
+N. Carolina
+S. Carolina Tennessee
+81
+National Transient Lodge Officers
+Ronny Vanscoy
+President & Business Assistant
+Gary S. Scott
+Vice-President & Chairman of Board of Trustees & Business Assistant
+Wilfredo Hinojosa
+Business Manager/ Secretary-Treasurer
+Shon Almond
+Trustee & Recording Secretary
+Matt Dixon
+Trustee
+82
+Contractor Directory
+Companies Signatory to the NTL Agreement
+AB & C Tank Services 3401 Grand Avenue Pittsburg, PA 15225 412/771-7828 412/771-7832 (fax)	Artco Fabricating U.SA, LLC. 5849 Cinnamon Tree Lane St Louis, MO 63129 314/487-3444 314/892-4130 (fax)
+ARB, Inc, 26000 Commercentre Drive Lake Forest, CA 92630 949/454-7144 949/595-5525 (fax)	Atlantic Plant Maintenance 3225 Pasadena Blvd. Pasadena,TX 77503 713/475-4521 713/740-8032 (fax)
+All State Tank Company, Inc, Route5, Box213A Jay, OK 74346 918/854-3425 918/854-3519 (fax)	AZCO Inc, 806 Valley Road RO. Box 567 Appleton, Wl 54912-0567 920/734-5791 920/734-7432 (fax)
+American Boiler & Chimney Co. 3401 Grand Avenue Pittsburg, PA 15225 412/771-7828 412/771-7832 (fax)	BMW Constructors, Inc, 1740 West Michigan Street P.O, 8ox22210 Indianapolis, IN 46222-0210 317/267-0400
+APComPower, Inc. P.O. Box 568 2000 Day Hill Road Windsor, CT 06095-0568	317/267-0572 (fax)
+860/285-9655
+860/285-4120 (fax)
+83
+BSW Corporation
+655 Washington County Line Rd RO. Box 78
+Marissa, IL 62257 618/295-2331 618/295-3455 (fax)
+Caldwell Tanks, Inc.
+4000 Tower Road RO. Box 35770
+Louisville, KY 40232 502/964-3361 502/966-8732 (fax)
+Capital City Construction Corp. 2804 Walmsley Blvd.
+RO. Box34548
+Richmond, VA 23234-0548 804/275-9201 804/271-5598 (fax)
+CBI Services, Inc.
+1503 North Division Street Plainfield, IL 60544-8984 815/439-6668 815/439-6001 (fax)
+Central Maintenance & Welding P. O. Drawer 777
+Lithia, FL 33547 813/737-1402 813/650-8852 (fax)
+Century Construction Management, Inc.
+210 Washington Avenue Dravosburg, PA 15034 412/469-8800 412/469-0813 (fax) 724/545-3444 724/545-3441 (fax)
+Chattanooga Boiler & Tank Co. 1011 E. Main Street RO. Box 110 Chattanooga, TN 37401 423/266-7118 423/755-6708 (fax)
+Chester Pool Systems 4514 Bud Prather Road R O. Box C
+Sellersburg, IN 47172 812/246-5486 812/246-4260 (fax)
+Construction Tank Services 12343 East Skelly Drive PO. Box690327 Tulsa, OK 74169 918/437-4400 918/437-0808 (fax)
+84
+Construction & Turnaround
+Services
+12343 East Skelly Drive RO. Box 690327
+Tulsa, OK 74169 918/437-4400 918/437-0808 (fax)
+CT! Field Services, Inc.
+6100 Center Grove Road Edwardsville, IL 62025 618/655-0010
+618/655-0407 (fax)
+Double H Industrial Field Service, 8459 US Hwy 42, Suite #263 Florence, KY 41042 859/647-2770 859/647-2110 (fax)
+Ellerbee Brothers
+P.O. Box 2786
+Port Arthur, IX 77643-2786 409/982-6424 409/982-9272 (fax)
+Enerfab, Inc.
+4955 Spring Grove Avenue Cincinnati, OH 45232 513/641-0500 513/641-1821 (fax)
+F & B Steel Erectors, Inc.
+331 Airport Road Sutton, VW 26601 304/765-2999 304/765-2997 (fax)
+Fisher Tank Company 3131 W. Fourth Street Chester, PA 19013 610/494-7200 610/485-0157 (fax)
+General Engineering Corporation 5205 Adamo Drive RO. Box 5419 (zip 33675) Tampa, FL 33619 813/623-2675 813/626-1641 (fax)
+Hamon Custodis, Inc. 58 East Main Street P.O. Box 1500 Somerville, NJ 08876 908/333-2088 908/333-2151 (fax)
+HMT Construction Services LLC R 0. Box 130
+Kelton, PA 19346 610/869-8535 610/869-3885 (fax)
+85
+The Jos. Honhorst Company 1050 Dalton Avenue Cincinnati, OH 45203 513/721-3074 513/721-3443 (fax)
+Imperial Steel Tank Company 3234 West 31st Street Chicago, IL 60623 773/523-7117 773/523-9002 (fax)
+Industrial Service & Repair, Inc. 207 39th Ave. E
+P.O. Box 2038
+Superior, Wl 54880 715/398-7661 715/398-9638 (fax)
+Industrial Tank Erecting, Inc.
+RO. Box 547
+Connelly Springs, NC 28612 828/397-3231 828/397-3187 (fax)
+International Chimney Corporation
+55 South Long St.
+RO. Box 260
+Buffalo, NY 14231-0260 716/634-3967 716/634-3983 (fax)
+Jersey Tank Fabricators, Inc. RO. Box 257
+Cream Ridge, NJ 08514 908/561-2865 908/561-1427 (fax)
+J. H. Kelly
+8401 Gateway Terrace Oklahoma City, OK 73149 405/632-3470 405/632-3477 (fax)
+Kennedy Tank & Mfg. Co., Inc. 833 E. Sumner Avenue RO. Box 47070 Indianapolis, IN 46247-0070 317/787-1311 317/783-7772 (fax)
+Frank Lill & Son, Inc.
+656 Basket Road
+Webster, NY 14580 716/265-0490 716/265-1842 (fax)
+Lopez & Associates, Inc. 800 North Grove Avenue Oak Park, IL 60302 708/386-0850 708/386-8277 (fax)
+86
+M.I.S.T.
+7302 State Route 132 Blanchester, OH 45107 513/877*2700 513/877-2705 (fax)
+Matrix Service — MainServ Division
+202 Hansen Court Newark, DE 19713 302/453-8300 302/453-1526 (fax)
+Matrix Service — Mid Continent, Inc.
+Crownwood Industrial Estates, Bldg. 100 500 Corel I Drive, Bristol, PA 19007 215/946-9299 215/946-9422 (fax) 734/847-4605 (Ml ofc) 734/847-1768 (Ml fax)
+Metalweld/U.S.C.E. Inc. Tank & Tower Div.
+800 Railroad Street Joliet IL 60436 815/723-6365 815/726-1755 (fax)
+Miller Mechanical Services, Inc. 51 Walnut
+P.O. Box 504
+Glens Falls, NY 12801 518/792-0430 518/792-2956 (fax)
+Mittemight Boiler Works, Inc. P 0. Box 489 Satsuma, AL 36572 334/675-2550 334/675-2671 (fax)
+R. F. Mlasofsky & Co. 210 Hayes Street RO. Box 868 Delaware, OH 43015-0868 740/363-5200 740/363-0840 (fax)
+Molter Corporation P.O. Box 751 Frankfort, IL 60423 708/720-1600 708/720-1635 (fax)
+Monarch Welding & Engineering, Inc.
+23538 Pinewood Street Warren, Ml 48091-3122 586/754-5400 586/754-9088 (fax)
+87
+Moorhead Machinery & Boiler Co. 3477 University Avenue, N.E. Minneapolis, MN 55418 612/789-3541 612/789-3540 (fax)
+Morse Construction Group, Inc. 5500 South First Avenue Everett, WA 98203 425/258-2731 425/259-6355 (fax)
+Mosley Construction, Inc. 11233 Manchester Road St Louis, MO 63122 314/821-7555 314/821-4614 (fax)
+MRL Constructors of New York RO. Box 148
+Massena, NY 13662-0148 315/769-1241 315/769-2008 (fax)
+Mueller Field Operations, Inc.
+P.O. Box 828
+Springfield, M0 65801-0828 417/831-5193 417/831-3528 (fax)
+Murphy Company 1233 North Price Road St Louis, MO 63132 314/997-6600 314/692-1520 (fax)
+National Steel Erection, Inc. 1115 Industrial Drive PO. Box 1772
+Owensboro, KY 42302-1772 270/926-2534 270/683-1960 (fax)
+Nooter Construction Company 1400 South Third Street St Louis, MO 63104 314/421-7600 314/421-7745 (fax)
+Olmsted, Inc.
+P.O. Box 572
+West Elizabeth, PA 15088 412/384-2161 412/384-2169 (fax)
+PDC Facilities, Inc.
+700 Walnut Ridge Drive Hartland, Wl 53029-0900 262/367-7700 262/367-7744 (fax)
+PSF Industries, Inc.
+65 South Horton Street (zip 98134)
+PO. Box3747
+Seattle, WA 98124 206/622-1252 206/682-1070 (fax)
+88
+Phillips, Getschow Company 229 Van Buren Street Oconto Falls. Wl 54154 920/846-8000 888/846-8135 (fax)
+Piping & Equipment Co., Inc. 3505 North Topeka Street (zip 67219)
+RO. Box 1065
+Wichita, KS 67201 316/838-7511 316/838-2014 (fax)
+Pridgen Tank Construction, Inc. 1086 Ernest Pridgen Road Wray, GA 31798 912/359-2216 912/359-3865 (fax)
+Pullman Power, LLC
+P.O. Box 33420
+Kansas City, MO 64120 816/231-7400 816/241-5582 (fax)
+RECO Constructors, Inc.
+710 Hospital St RO. Box 25189
+Richmond, VA 23260-5189 804/644-2611 804/643-3561 (fax)
+RMF - Delta Maintenance, Inc. 671 Spencer Street Toledo, OH 43609 419/382-4410 419/381-2457 (fax)
+Rock Hill Mechanical Corp. 524 Clark Avenue Kirkwood, MO 63122 314/966-0600 314/966-7792 (fax)
+RTC/Enviro-Fab, Inc.
+9043 M-106
+Munith, Ml 49259 517/596-2987 517/596-2548 (fax)
+Shamrock Enterprises 1905 West Galbraith Road Cincinnati, OH 45239 513/931-9641 513/931-9644 (fax)
+Sistersville Tank Works, Inc.
+1942 McCoy St, P.O, Box 200 Sistersville,WV 26175 304/652-3011 304/652-3031 (fax)
+89
+Standard-Hayes Boiler & Tank 1000 West 142nd Street Riverdale, IL 60827 708/849-5100 708/849-5343 (fax)
+Steel Style Inc.
+401 South Water Street Newburgh, NY 12550 845/562-0860 845/562-0870 (fax)
+Tachell Tank Corporation 680 Lambert Road Cie Elum, WA 98922 509/674-5725 509/674-5519 (fax)
+Tank-Tek of Kentucky, Inc.
+R0. Box 15
+Philpot, KY 42366 270/729-9106 270/723-2320 (fax)
+Union Tank Erection, Inc. 8803 Highway 161 South Scott, AR 72142 501/961-2501 501/961-1102 (fax)
+Vic's Welding & Engineering, Inc. 3000 - 145th Street East Rosemount, MN 55068 651/423-2317 612/423-7402 (fax)
+W & K Welding & Tank Erectors RO. Box 5481 Delanco, NJ 08075 856/764-1210 856/786-1993 (fax)
+Wachs Technical Services, LTD 3708 Performance Road Charlotte, NC 28214 704/398-0655 704/393-3340 (fax)
+Welding House
+3421 East Cleveland Street Ladd, IL 61329 815/894-2165
+No Fax #
+Welding Services, Inc. 2225 Skyland Court Norcross, GA 30071 770/452-0005 770/449-4684 (fax)
+Western Chimney Services. Inc. 1230 West 2600 South Woods Cross, UT 84087 801/299-0109 801/299-0235 (fax)
+Wetzel Tank Construction Co.
+RO. Box 278
+Southwest City, M0 64863 417/762-3772 417/762-3109 (fax)
+90
+Williams Service Group, Inc. 500 Corporate Centre Drive, Suite 100
+Scott Depot, WV 25560 304/722-7700 304/757-1210 (fax}
+Wiltsie Construction Co., Inc. 735 East Seneca Street Oswego, NY 13126 315/342-1880 315/343-8238 (fax)
+Winbco Tank Company 1200 East Main Street RO. Box 618 Ottumwa, IA 52501 641/683-1855 641/683-8265 (fax)
+Withertip Construction Co., Inc. RO. Box 1484
+Youngstown, OH 44501 330/744-8872
+No Fax #
+Wright Industrial, Inc. 934 State Street Madison, IL 62060 618/452-6133 618/452-7095 (fax)
+Witherup Fabrication & Erection
+431 Kennerdell Road
+RO. Box 55
+Kennerdell, PA 16374
+814/385-6601
+814/385-6028 (fax)
+91
+NATIONAL TRANSIENT LODGE (NTL)
+Articles of Agreement Index
+Accidents (Art. 30).............................51
+Adjustment of Grievances (Art. 31) .............52
+Agreement Qualification (Art. 35)...............56
+Annuity Trust (Art. 16; Add. "E”) ...............31,75
+Apprenticeship Training Program (Art. 15; Add. "C")...................30,66
+Boilermaker Classifications and Referral of Men (Art. 3)..........................9
+Bond Requirements (Art. 18) ......................33
+Classification of Work and Manpower Ratios (Art. 2) .......................5
+Deduction Union Obligation (Art. 5).............12
+Dues (Art. 5/ ..................................12
+Foremen [Art. 8(a)].............................18
+Functions of Management (Art. 11) ................24
+Glove Allowance [Art. 27(f)]....................48
+Health and Welfare (Art. 13; Add. "A")........27,61
+Helper [Art. 10(b)] ..............................22
+Holidays (Art; 21/ ...........................  37
+93
+Hours (Art. 19) ................................34
+Job Notices (Art. 6) .............................16
+Job Steward (Art. 28)...........................43
+Learner Helper [Art. 10(c)].....................23
+Local Resident [Art. 4(f); Art. 5(i)]...............11,15
+Mechanic - Skilled [Art. 10(a)] ................21
+Mechanic Trainees [Art. 10(d)] .................23
+Membership-National Transient Lodge (Art. 4)....10
+Minimum Pay and Reporting Time (Art. 23)........40
+NTD Representatives ............................79
+NTL Officers ...................................82
+Non-Members [Art. 1(c)]..........................5
+Overtime [Art. 21; Ado. "D"(4}]...............37,72
+Pay Day (Art. 26) ................................45 Pension Plan (Art. 14; Add. "B”).............29,63
+Classifications and Qualifications
+of Employees (Art. 10)..........................21
+Performance of Work (Art. 9)....................20
+Pre-Job Conferences (Art. 7)....................18
+Project Agreement (Art. 33).....................55
+94
+Pusher [Art. 8(b)]..............................19
+Recognition [Art. 1(b)] ............................4
+Rules Covering Dismantling, Demolition,
+Conversion, Maintenance and Repairs (Add. "D").. .69
+Shiftwork [Art. 20, Add. "D"(4)]..............35,72
+Signatory Companies.............................83
+Strikes or Lockouts (Art 32)....................54
+Subcontracting [Art. 9(c)]......................20
+Substance Abuse [Art. 27(e)] ......................47
+Supervision (Art. 8)............................18
+Termination or Renewal (Art. 36)................56
+Transportation Pay (Art. 25) ...................43
+Travel Allowance or Subsistence (Art. 24).......42
+Vacation or Savings (Art. 17)...................32
+Violation of Agreement (Art. 34)................55
+Wage Inducement Program (Art. 29)...............50
+Wages (Art. 12).................................25
+Waiting Time (Art. 22) ...........................39
+Welder Test [Art. 27(g)] .........................48
+Working Conditions (Art. 27) ...................46
+95

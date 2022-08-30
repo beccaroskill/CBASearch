@@ -1,0 +1,414 @@
+﻿
+Cs> 11 I 03
+r l3i)oL
+VOICE-DATA-VIDEO
+NATIONAL AGREEMENT
+June 2003
+Voice-Data-Video National Agreement
+Table of Contents
+Page
+Basic Principles.........................................1
+Article I	Parties to Agreement-Terms.............................1
+Scope....................................................2
+Article II	Effective Date-Changes-Grievances-Disputes.............5
+Article III	Employer Rights-Union Rights-Tools-Equipment...........7
+Article IV	Hours-Wages-Working Conditions........................10
+Article V	Vacations.............................................17
+Article VI	Referral.......................................       18
+Article VII	Apprenticeship and Training...........................19
+Article VIII	Fringe Benefits.......................................22
+Article IX	National Electrical Industry Fund (NEIF)..............23
+Article X	National Labor/Management Cooperation Committee (NLMCC).24
+Article XI	Substance Abuse.......................................26
+Separability Clause.....................................26
+Signature Page..........................................26
+Appendix A	Classification Definitions..............................27
+VDVNA
+i
+June 2003
+BASIC PRINCIPLES
+The National Electrical Contractors Association (NECA) and the International Brotherhood of Electrical Workers® (IBEW®) union have a common and sympathetic interest in the Voice-Data-Video Industry. Therefore, a working system and harmonious relations are necessary to improve the relationship between employers, the union, and the public. Progress in the industry demands a mutuality of confidence between the employers and the union. All will benefit by continuous peace and by adjusting any differences by rational, common-sense methods. Now, therefore, in consideration of the mutual promises and agreements herein contained, the parties hereto agree as follows:
+ARTICLE I
+Parties to Agreement-Terms
+Section 1.01 This agreement, made and entered into by and between NECA and the IBEW, is applicable to and shall be utilized by all firms signing a Letter of Assent to the Voice-Data-Video National Agreement for all its work throughout the United States.
+Section 1.02	The term NECA, as hereinafter used, shall mean the National Electrical Contractors Association. The term chapter, as hereinafter used, shall mean the applicable chapter of NECA. The term employer, as hereinafter used, shall mean an individual firm signing a Letter of Assent to this agreement.
+Section 1.03	The term IBEW or union, as hereinafter used, shall mean the International Brotherhood of Electrical Workers.
+Section 1.04	The term local union, as hereinafter used, shall mean an IBEW local union.
+Section 1.05 The term site local union or site local unions, as hereinafter used, shall mean the IBEW local union or unions where the work is being performed. Base local union or base local unions, as hereinafter used, shall mean the IBEW local union or unions having jurisdiction over the area where the employer’s office is located (or the appropriate office of the employer that is in charge of the specific job).
+Section 1.06	The term unions, as hereinafter used, shall mean the IBEW, local union(s), site local union(s), and base local union(s).
+VDVNA
+1
+June 2003
+Section 1.07	The term employee or employees, as hereinafter used, shall mean the workers in the classifications listed in Article IV, Section 4.05, of this agreement.
+Section 1.08	Employees working under the terms of this agreement will render honest and diligent service and shall make every effort to promote harmony and efficiency and preserve the tools and equipment provided for their use and protection.
+SCOPE
+The work covered by this agreement shall include the installation, testing, service, and maintenance of all VDV systems which utilize the transmission and/or transference of voice, sound, vision, or digital for commercial, education, security, and entertainment purposes for the following: TV monitoring and surveillance, background/foreground music, intercom and telephone interconnect, inventory control systems, microwave transmission, multimedia, multiplex, nurse call systems, radio page, school intercom and sound, burglar alarms, and low-voltage master clock systems.
+I.	- This agreement specifically includes the following work:
+A.	SOUND AND VOICE TRANSMISSION/TRANSFERENCE SYSTEMS
+1.	Background/foreground music
+2.	Intercom and telephone interconnect systems
+3.	Telephone systems
+4.	Nurse call systems
+5.	Radio page systems
+6.	School intercom and sound systems
+7.	Burglar alarm systems
+8.	Low-voltage master clock systems
+9.	Multimedia/multiplex systems
+10.	Sound and musical entertainment systems
+11.	RF systems
+12.	Antennas and wave guide
+B.	TELEVISION AND VIDEO SYSTEMS
+1.	TV monitoring and surveillance systems
+2.	Video security systems
+3.	Video entertainment systems
+4.	Video educational systems
+5.	Microwave transmission systems
+6.	CATV and CCTV
+VDVNA
+2
+June 2003
+C.	SECURITY SYSTEMS
+1.	Perimeter security systems
+2.	Vibration sensor systems
+3.	Card access systems
+4.	Access control systems
+5.	Sonar/infrared monitoring equipment
+D.	COMMUNICATIONS SYSTEMS THAT TRANSMIT OR RECEIVE INFORMATION AND/OR CONTROL SYSTEMS THAT ARE INTRINSIC TO THE ABOVE-LISTED SYSTEMS (IN THE “SCOPE”)
+1.	SCADA (Supervisory Control and Data Acquisition)
+2.	PCM (Pulse Code Modulation)
+3.	Inventory control systems
+4.	Digital data systems
+5.	Broadband and baseband and carriers
+6.	Point-of-sale systems
+7.	VSAT data systems
+8.	Data communication systems
+9.	RF and remote-control systems
+10.	Fiber-optic data systems
+E.	FIRE ALARM SYSTEMS INCLUDING INSTALLATION, WIRE PULLING, AND TESTING, WITH THE FOLLOWING CONDITIONS:
+Fire alarm systems shall be installed by inside wiremen at the current Inside wage and fringe rate in those areas where the work is historically performed by inside journeyman wiremen. In those areas where fire alarm systems have historically not been performed by inside journeyman wiremen, such work may be performed under this agreement.
+Prior to the effective date of this agreement, each local union/chapter jurisdiction shall make a determination of who has historically performed fire alarm work in that particular jurisdiction. When there is a mutual agreement by labor and management that the work has historically been performed and is currently being performed by inside wiremen, then the Inside wage and fringe benefit rate contained in the site local union agreement shall be paid on major remodel and new construction projects; and the work shall be performed under this agreement by inside wiremen referred from the site local union. In those areas where there is no mutual agreement, the parties shall submit the issue to the IBEW International
+VDVNA
+3
+June 2003
+Vice President and the NECA Executive Regional Director who have jurisdiction over the site where the work is to be performed for a determination as to whether a job or class of jobs shall be installed by technicians under the terms and conditions of this agreement. If they are unable to agree, the inside wireman’s rate of pay in the site local union shall apply; and the work shall be installed under this agreement by inside wiremen. It shall be the responsibility of each individual local union/NECA chapter jurisdiction to make the results of the local determination available to the International Office of the IBEW and to affected employers prior to the effective date of this agreement.
+F.	VDV SUPPORT SYSTEMS SUCH AS DATA-TRACK, INNERDUCT, OR SIMILAR-TYPE RACEWAYS AND LADDER RACK INTENDED SPECIFICALLY FOR THE ABOVE-LISTED SYSTEMS.
+II. This agreement specifically excludes the following work:
+A.	Raceway systems on new construction or major renovation projects when an electrical contractor is on site are not covered under the terms of this agreement except for those listed in Item 1(F), above; Chases, sleeves, and/or nipples (not to exceed 10 feet) may be installed on open wiring systems.
+B.	The complete installation of nonintegrated energy management systems, computer systems in industrial applications such as process controls, assembly lines, robotics, and computer-controlled manufacturing systems, and all HVAC control work up to the first point of connection to the multipurpose integrated system if so connected shall not be a part of this agreement.
+C.	Life safety systems [not intrinsic to nurse call systems listed in Item l(A) above] shall be excluded from this agreement.
+D.	SCADA (Supervisory Control and Data Acquisition) where not intrinsic to the above-listed systems (in the “Scope”).
+Nothing contained in this “Scope” or any other section of this agreement shall prevent a contractor who is signatory to an Inside Agreement in the jurisdiction of the site local union from performing VDV work under the terms and conditions of that Inside Agreement.
+VDVNA
+4
+June 2003
+ARTICLE II
+Effective Date-Changes-Grievances-Disputes
+Section 2.01 This agreement shall take effect June 1, 2003, and shall remain in effect until May 31, 2006, unless otherwise specifically provided for herein. It shall continue in effect from year to year thereafter, from June 1 through May 31 of each year, unless changed or terminated in the way later provided herein.
+Section 2.02(a) Either party, or any employer withdrawing representation from NECA or not represented by NECA, desiring to change or terminate this agreement must provide written notification at least 90 days prior to the expiration date of the agreement or any anniversary date occurring thereafter.
+(b)	Whenever notice is given for changes, the nature of the changes desired must be specified in the notice or no later than the first negotiating meeting unless mutually agreed otherwise.
+(c)	The existing provisions of the agreement, including this article, shall remain in full force and effect until a conclusion is reached in the matter of the proposed changes.
+(d)	Unresolved issues or disputes arising out of the failure to negotiate a renewal or modification of this agreement that remain on the 20th of the month preceding the next regular meeting of the Council on Industrial Relations may be submitted jointly or unilaterally to the Council for adjudication. Such unresolved issues or disputes shall be submitted no later than the next regular meeting of the Council following the expiration date of this agreement or any subsequent anniversary date. The Council’s decisions shall be final and binding.
+(e)	When a case has been submitted to the Council, it shall be the responsibility of the negotiating committee to continue to meet weekly in an effort to reach a settlement prior to the meeting of the Council.
+(f)	Notice of a desire to terminate this agreement shall be handled in the same manner as a proposed change.
+Section 2.03 This agreement shall be subject to change or supplement at any time by mutual consent of the parties hereto. Any such change or supplement agreed upon shall be reduced to writing and signed by the parties hereto.
+Section 2.04 There shall be no stoppage of work either by strike or lockout because of any proposed changes in this agreement or dispute over matters relating to this agreement. All such matters must be handled as stated herein.
+VDVNA
+5
+June 2003
+Section 2.05 The duly authorized representative of each of the parties to this agreement shall adjust all grievances or questions in dispute. In the event they are unable to agree or to adjust any matter, such shall then be referred to the Council on Industrial Relations for the Electrical Contracting Industry for adjudication. The Council’s decisions shall be final and binding.
+Section 2.06 All grievances shall be filed in writing to the base local union within 15 calendar days after the complained-of event arose. Grievances shall be appealed to the next higher step 15 calendar days after the meeting in the lower step. Settlement of the grievances may be arrived at in any step of the grievance procedure, which will be final and binding on the union and employer.
+Grievances shall be handled in the following manner:
+Step 1. Between the employer’s supervisor and the local union steward at the jobsite.
+Step 2. Between the base local union business manager or designee and the base chapter manager or employer’s representative, as the case may be.
+Step 3. Between the IBEW International Vice President or designee and the NECA Regional Executive Director or designee who have responsibility over such matters within the site local union’s geographic jurisdiction.
+Step 4. If the parties are unable to agree or to adjust any matter, such shall then be referred to the Council on Industrial Relations for the Electrical Contracting Industry for adjudication. The Council’s decision shall be final and binding.
+Section 2.07 While any matter in dispute has been referred to conciliation for adjustment, the provisions and conditions prevailing prior to the time such matters arose shall not be changed or abrogated until agreement has been reached or a ruling has been made.
+VDVNA
+6
+June 2003
+ARTICLE III
+Employer Rights-Union Rights-Tools-Equipment
+Section 3.01 Certain qualifications, knowledge, experience, and proof of financial responsibility are required of everyone desiring to be an employer in the Voice-Data-Video Industry. Therefore, an employer who contracts for voice-data-video work is a person, firm, or corporation having these qualifications and maintaining a place of business, a suitable financial status to meet payroll requirements, and employing at least one individual, who may be employed in any of the following classifications: Systems Integrator, Master Technician, Senior Technician, Technician, or Installer/Technician.
+Section 3.02 The Union understands the Employer is responsible to perform the work required by the owner. The Employer shall, therefore, have no restrictions except those specifically provided for in the collective bargaining agreement, in planning, directing and controlling the operation of all his work, in deciding the number and kind of employees to properly perform the work, in hiring and laying off employees, in transferring employees from job to job within the Local Union's geographical jurisdiction, in determining the need and number as well as the person who will act as Foreman, in requiring all employees to observe the Employer's and/or owner's rules and regulations not inconsistent with this Agreement, in requiring all employees to observe all safety regulations, and in discharging employees for proper cause.
+Section 3.03 The union agrees that if, during the life of this agreement, it grants to any other employer in the electrical contracting industry on work covered by this agreement any better terms or conditions than those set forth in this agreement, such better terms or conditions shall be made available to the employer under this agreement; and the union shall immediately notify the employer of any such concession.
+Section 3.04 For all employees covered by this agreement, the employer shall carry workers’ compensation insurance with a company authorized to do business in the state, Social Security, and such other protective insurance as may be required by the laws of the state in which the work is performed.
+Section 3.05 Each employer shall furnish a surety bond in the amount of $10,000 to secure payment of all amounts due for payroll, fund deduction contribution, and reporting obligations of the employer required by this agreement. The bond shall provide that it may not be terminated without 15 days prior written notice to the employer and the local union.
+Section 3.06(a) The employer recognizes the IBEW local union(s) as the sole and exclusive representative of all its employees performing work within the jurisdiction of
+VDVNA
+7
+June 2003
+the union for the purpose of collective bargaining in respect to rates of pay, wages, hours of employment, and other conditions of employment.
+(b) The employer understands that the union’s jurisdiction—both trade and territorial—is not a subject for negotiations but rather is determined solely within the IBEW by the International President and, therefore, agrees to recognize and be bound by such determinations.
+Section 3.07 Each employing concern may designate to the local union one member of the firm who shall be allowed to perform manual voice-data-video work. The employer may change this designation at any time by notice to the local union.
+Section 3.08 Voice-data-video technicians shall install all work in a safe and professional manner and in accordance with applicable code and contract specifications.
+Section 3.09 The union reserves the right to discipline its members for violation of its laws, rules, and agreements.
+Section 3.10 Until a total of one-third of the employees on any job or shop are referred from the site local union, the base local union(s) has the right to appoint any employee as a steward at any shop and/or any job where workers are employed under the terms of this agreement. When one-third of the employees on a particular job have been referred from the site local union, then the site local union, rather than the base local union, shall have the right to appoint the steward. In the event the site local union appoints an employee other than the one appointed by the base local union, the appointment by the base local union shall become null and void. Once the site local union has appointed a steward, it shall retain the right of appointment for the remainder of the job. The employer shall be notified and furnished the name of the steward and any change in steward caused by the operation of this section. Such stewards shall be allowed sufficient time during the regular working hours without loss of pay to see that the terms and conditions of this agreement are observed at the shop or on the job. No steward shall be discriminated against by the employer because of the faithful performance of duties as steward, nor shall any steward be removed from the job until notice has been given to the business manager of the base local union or the site local union as the case may be.
+Section 3.11 A representative of the union(s) shall be allowed access to any shop or job, at any reasonable time, where workers are employed under the terms of this agreement.
+Section 3.12 It shall not be a violation of this agreement, and it shall not be cause for discharge or any other disciplinary action by the employer against any employee, for
+VDVNA
+8
+June 2003
+an employee to refuse to cross a lawfully established primary picket line, whether at the premises of another employer or the employee’s own employer.
+Tools, Equipment, and Storage
+Section 3.13	All classifications of technician (including installer/technician) shall provide themselves with the following minimum list of tools:
+1.	Punch tool w/110 & 66 blades
+2.	RJ-45/RJ-11 crimp tool
+3.	Coax crimp tool (RG-59, 62 & 6)
+4.	Cat 5 strippers
+5.	Wire strippers (Miller type)
+6.	Utility knife
+7.	Cable cutters
+8.	Wire Cutters
+9.	T&B Sta-Kon tool
+10.	Lineman pliers
+11.	Channel locks (2 pairs)
+12.	Flathead screwdrivers (assorted sizes)
+13.	Phillips-head screwdrivers (assorted sizes)
+14.	Sheetrock saw (hand type)
+15.	Nutdrivers (1/4” through 7/16”)
+16.	Hacksaw
+17.	Hammer
+18.	Tool pouch
+19.	Volt-ohmmeter
+20.	Toolbox (20” x 834” x 9” minimum with lock)
+21.	Scissors
+22.	Awl
+23.	Flashlight
+24.	Tone generator
+25.	Probe
+26.	Tape measure
+27.	Adjustable wrench
+28.	Needle-nose pliers
+29.	Torpedo level (8”)
+Section 3.14	The employer shall furnish all other necessary tools or equipment Workers will be held responsible for the tools or equipment issued to them, provided the employer furnishes the necessary lockers, toolboxes, or other safe place of storage. Tools must be taken out and put away during working hours.
+VDVNA
+9
+June 2003
+Section 3.15 All employees covered by the terms of this agreement shall be required to become and remain members of the union as a condition of employment from and after the eighth day following the date of their employment or the effective date of this agreement, whichever is later. This provision does not apply in states where prohibited by law.
+Section 3.16 The subletting, assigning, or transfer by an individual employer of any work in connection with voice-data-video or electrical work to any person, firm, or corporation not recognizing the IBEW or one of its local unions as the collective bargaining representative of its employees on any voice-data-video or electrical work in the jurisdiction of any local union will be deemed a material breach of this agreement.
+All charges of violations of Section 3.16 shall be considered as a dispute and shall be processed in accordance with the provision of this agreement covering the procedure for the handling of grievances and the final and binding resolution of disputes.
+ARTICLE IV
+Hours-Wages-Working Conditions
+Section 4.01 Eight consecutive hours work between the hours of 6 a.m. and 6 p.m., with a one-half-hour lunch period, shall constitute the workday. Five such days, Monday through Friday, shall constitute the workweek.
+Section 4.02(a) All work performed outside of the stated hours and on Saturdays will be paid at 1/4 the regular straight-time rates. All work on the holidays designated in Section 4.03 shall be paid at 114 the regular straight-time rate plus the holiday pay. All work on Sundays shall be paid at double the straight-time rate.
+(b)	The employer, with 24 hours prior notice to the union, may institute a workweek consisting of four consecutive 10-hour days between the hours of 6 a.m. and 6 p.m., Monday through Thursday, with one-half hour allowed for a lunch period. Friday may be used as a make-up day; and, if utilized, a minimum of eight hours must be scheduled. After 10 hours in a workday, or 40 hours in a workweek, overtime shall be paid at a rate of 114 times the regular rate of pay.
+It shall not be cause for discharge or any other disciplinary action by the employer against any employee if that employee is unable to work on a make-up day.
+(c)	The employer may designate one employee to work a schedule of Tuesday through Saturday at the regular straight-time rate of pay. In this case all work
+VDVNA
+10
+June 2003
+on Sundays shall be paid at double the straight-time rate, and all work on Mondays shall be paid at 1% times the straight-time rate. Participation by the employee to work this schedule is voluntary.
+Holidays
+Section 4.03(a) All employees shall receive time off and eight hours of pay at their regular base rate for the following holidays: New Year's Day, Memorial Day, Independence Day, Labor Day, Veterans Day, Thanksgiving Day, and Christmas Day. The hourly rate for holiday pay shall be calculated according to Article 4, Section 4.06 (b) and (c).
+(b)	If any of the above holidays occurs on a Saturday, the preceding Friday will be observed as the legal holiday. If any of the above holidays occurs on a Sunday, the following Monday will be observed as the legal holiday.
+(c)	This section shall not apply to workers assigned from the base local union if the current collective bargaining agreement of the base local union contains an employer paid holiday provision. This section shall not apply to workers referred from the site local union if the current collective bargaining agreement of the site local union contains an employer paid holiday provision. Employee deductions from pay do not count as a paid holiday provision.
+Section 4.04 Wages shall be paid weekly by payroll check on a local bank located in the jurisdiction of the base local union or electronic deposit as outlined below, not later than quitting time on Friday; and not more than five days wages may be withheld at that time. Employers may voluntarily allow employees to choose direct deposit on a weekly basis to the bank or credit union of the employee’s choice. This manner of payment, once adopted by the employer, may not be changed except upon 14 days advance written notification to the employees and the local union. Any worker laid off or discharged for cause shall be paid off in the regular mail by the next regular payday. In the event the worker is not paid off as provided above, waiting time up to a maximum of eight hours per day at the appropriate rate shall be charged until payment is made— Saturdays, Sundays, and holidays excepted. The employer will either pay the employees at the jobsite during regular working hours or by electronic deposit if mutually agreed upon by the employer and employee.
+Section 4.05(a) Except as provided in Section 4.06, the minimum hourly wages and fringe benefits for the following classifications shall be established in accordance with provisions of the local telecommunications agreement in effect in the jurisdiction where the work is performed: Systems Integrators, Master Technicians, Senior Technicians, Technicians, Installer/Technicians, Apprentice Installer/Technicians, and such other bargaining-unit employees as specified in the relevant agreement.
+VDVNA
+11
+June 2003
+(b) In the event that there is no local telecommunications agreement specifically covering this type of work in effect in the jurisdiction where the work is being performed, then the minimum wages and fringes shall be determined as follows:
+Installer/Technician Technician Senior Technician Master Technician Systems Integrator	75% of Journeyman Inside Wireman wage rate 110 % of Installer/Technician 120 % of Installer/Technician 130 % of Installer/Technician 140 % of Installer/Technician
+Apprentice Installer/Technician
+1st	Period	= 60%	of Installer/Technician rate - 800 hrs.	+ satisfactory progress
+2nd	Period	= 70%	of Installer/Technician rate - 1,600 hrs.	+ 1st year school
+3rd	Period	= 80%	of Installer/Technician rate - 3,200 hrs.	+ 2nd year school
+4th	Period	= 90%	of Installer/Technician rate - 4,800 hrs.	+ 3rd year school
+In addition to the above hourly wage, all classifications of technicians and system's integrators shall receive the same fringe benefits as? journeyman inside wiremen; installer/technician apprentices shall receive the same fringe benefits as inside apprentices.
+The definitions and skill level of all classifications are listed in Appendix A.
+Section 4.06(a) Any signatory employer performing work within the scope of this agreement shall be allowed full portability of workers, including apprentices, between local unions. The employer recognizes that apprentices have certain responsibilities to their base JATC for purposes of classroom training and will accommodate these apprentices in meeting those responsibilities. When a site local union where an employer proposes to do work has negotiated and maintains a current, separate collective bargaining agreement covering essentially the same type of work covered by the scope of this agreement, and is experiencing 50 percent unemployment among workers in the highest-priority group (Group I) covered by that agreement, and who are certified as trained technicians by a bona fide telecommunications training program with standards that meet or exceed those developed and registered by the NJATC, then the employer shall discuss his manpower needs with the local union; and the local union shall work with the employer in manning the job in the most efficient and cost-effective manner. Any question or interpretation of what constitutes unemployment shall be referred to the IBEW International Vice President and NECA Executive Director having jurisdiction over the site.
+VDVNA
+12
+June 2003
+(b)	The local union having jurisdiction over the area where the employer’s office is located (or the appropriate office of the employer which is in charge of the specific job) shall be known as the base local union. Workers, including apprentices, referred to the employer by the base local or assigned by the base JATC, who are subsequently moved to the jurisdiction of another local union, shall be paid in accordance with, and not less than, the pay rate and fringe benefits established in the base local. All fringe benefit payments shall be made directly to the base local fringe benefit plans. If the total wage and fringe benefit package for the appropriate classification in the local union jurisdiction where the work is performed is higher than the total wage and fringe benefit package in the base local, the difference shall be converted to dollars and added to the employee’s hourly wage rate. In local union agreements that do not utilize the installer/technician classification, the lowest technician rate shall be used for comparison to the base local union’s installer/technician rate. In the event there is no current agreement specifically covering this type of work in the local union jurisdiction where the work is being performed, the wage and fringe package comparison shall be made by comparing the total wage and fringe package for installer/technician in the base local to a "representative" package computed by adding the total fringe benefit package and 75 percent of the journeyman inside wireman hourly wage rate in effect in the jurisdiction of the local union where the work is being performed. Other classifications will be compared using this representative package and the percentages outlined in Section 4.05.
+(c)	An employer may request and shall be referred workers from the local union where the work is being performed (site local union), according to Article VI of this agreement. Such workers shall be compensated in accordance with the agreement in effect in that local union jurisdiction regardless of any difference in that rate and the base local rate.
+(d)	An employer may request additional apprentices from the JATC where the work is being performed (site JATC) according to Article VII of this agreement. Such apprentices shall be compensated in accordance with the agreement in effect in that local union jurisdiction regardless of any difference in that rate and the base local rate.
+(e)	When an employer who is working outside his base local union area, and has had workers referred from the local union where the work is being performed, transfers those workers to the jurisdiction of his base local union or any other local union(s), the employer shall notify the base local union and site local union of the names and Social Security numbers of these transferred workers. Such workers shall then be considered to have been referred from and compensated as if they were referred from the employer’s base local union area; and all fringe benefits shall be paid to the base local union funds directly until such time as they cease to be employed by the employer.
+VDVNA
+13
+June 2003
+(f)	If there is no current separate agreement covering essentially the same type of work covered by the scope of work in this agreement in the home local area of the employer, the employer may utilize this agreement and hire applicants from any source to perform work under the terms of this agreement The base local union and IBEW International Vice President shall be notified by the employer 48 hours prior to implementing this agreement. The names, Social Security numbers, and classifications of all employees shall be provided to the base local union. Installer/ technicians shall be paid 75 percent of the journeyman inside wireman hourly wage rate and the full home local fringe benefit package.
+Section 4.07(a) No time shall be paid before or after working hours for traveling to or from any job in the jurisdiction of the base local union when workers are ordered to report to the job. When workers are assigned overnight to a job in the site local union per Section 4.07(d) below, no time shall be paid before or after working hours for traveling to or from any job in the jurisdiction of the site local union and the place of lodging.
+(b)	During working hours the employer shall pay time for travel and furnish transportation from shop to job, job to job, and job to shop.
+(c)	On work outside the jurisdiction of the base local union, the employer shall furnish transportation or mileage, travel time at the straight-time rate of pay not to exceed eight hours, room and board, and all other necessary expenses, as provided in subsection (d) below.
+(d)	When an employee’s work necessitates staying overnight at other than the geographic jurisdiction of the base local union, he/she shall be reimbursed for meals as follows:
+Breakfast	$10
+Lunch	$15
+Dinner	$20
+The employee shall be reimbursed for lodging at the rate of $30 per day when suitable lodging is not provided by the employer. In the event lodging is in excess of $30 per day, the employer shall provide the lodging or reimburse the employee for the excess costs. Lodging receipts shall be furnished for reimbursement.
+The company shall advance money to the employee for meals and lodging expenses when it is known that such expenses will be incurred.
+Section 4.08 The employer agrees to deduct and forward to the financial secretary of the appropriate local union—upon receipt of a voluntary written authorization—the additional working dues from the pay of each IBEW member. The amount to be
+VDVNA
+14
+June 2003
+deducted shall be the amount specified in the approved local union bylaws. Such amount shall be certified to the employer by the applicable local union upon request by the employer.
+Section 4.09 The designation, appointment, and determination of the need for and number of supervisory personnel is the sole responsibility of the employer. VDV supervisors shall receive no less than 110 percent of their classification pay rate.
+Section 4.10 The employer shall have the right to call for VDV supervisors by name, provided:
+(a)	The employee has not quit his/her previous employer within the past two weeks.
+(b)	The employer shall notify the business manager in writing of the name of the individual who is to be requested for employment as a VDV supervisor. Upon such request, the business manager shall refer said supervisor, provided the name appears on the highest priority group.
+(c)	When an employee is called as a VDV supervisor, the employee must remain as a supervisor for 1,000 hours or until the job is completed or must receive a reduction in force.
+Section 4.11 If workers report to the shop or job and are not put to work due to conditions beyond the control of the workers, they shall receive two hours pay. Workers may be required to remain at the shop or jobsite for the hours paid. If they are required to remain beyond the initial two hours (either because they were put to work or made to continue waiting), they shall be paid for the actual hours worked or held.
+Shift Work
+Section 4.12 When so elected by the contractor, multiple shifts of at least five days duration may be worked. When two or three shifts are worked:
+The first shift (day shift) shall be worked between the hours of 8 a.m. and 4:30 p.m. with a one-half-hour lunch period. Workers on the “day shift” shall receive eight hours pay at the regular hourly rate.
+The second shift (swing shift) shall be worked between the hours of 4 p.m. and 12:30 a.m. with a one-half-hour lunch period. Workers on the “swing shift” shall receive eight hours pay at the regular hourly rate plus an additional 75 cents per hour.
+VDVNA
+15
+June 2003
+The third shift (graveyard shift) shall be worked between the hours of 12 a.m. and 8:30 a.m. with a one-half-hour lunch period. Workers on the “graveyard shift” shall receive eight hours pay at the regular hourly rate plus an additional $1 per hour.
+A lunch period of 30 minutes shall be allowed on each shift. All overtime work required after the completion of a regular shift shall be paid at 1% times the shift hourly rate, which includes the shift premium of 75 cents on the second shift and $1 on the third shift.
+There shall be no pyramiding of overtime rates, and double the straight-time rate shall be the maximum compensation for any hour worked. There shall be no requirement for a day shift when either the second or third shift is worked. Any shift starting time, as outlined in this section (4.12), may be varied by up to two hours.
+Section 4.13 The employer shall notify the union 48 hours in advance of any layoff, whenever possible. Saturdays, Sundays, and holidays are not included.
+Section 4.14 The employer agrees to deduct and transmit to IBEW/COPE the amount specified from the wages of each employee who voluntarily authorizes such contributions on the forms provided for that purpose by IBEW/COPE.
+These transmittals shall occur monthly and shall be accompanied by a list of the names of those employees for whom such deductions have been made and the amount deducted for each such employee.
+Utilization of Inside Agreement Employees
+Section 4.15 Employers signatory to an Inside Agreement may assign inside journeyman wiremen and/or inside apprentice employees to perform voice-data-video work under this agreement. Individuals so assigned shall be paid the corresponding Inside Agreement wage and fringe package.
+VDVNA
+16
+June 2003
+ARTICLE V Vacations
+Section 5.01 Employees who have fulfilled the eligibility requirements for vacation as outlined in this article shall receive a vacation with pay as follows:
+(a)	Those continuously employed by the employer under this agreement for at least one year but less than five years and who have worked 1,600 hours under this agreement in the prior calendar year shall receive 10 days vacation.
+(b)	Those continuously employed by the employer under this agreement for over five years, and who have worked 1,600 hours under this agreement in the prior calendar year, shall receive 15 days vacation.
+(c)	Unused vacation days may be carried over to the following year; however, employees may not accumulate more than a total of 25 days.
+Section 5.02 Vacation pay shall be paid on the basis of the employee’s current straight-time hourly rate as of the date upon which the vacation is taken. Pay for vacation shall be calculated on a basis of eight hours for each vacation day and 40 hours for'each vacation week.
+Section 5.03 Employees must request vacation days in advance, and no more than 20 percent of the work force may be on vacation at any one time without approval of the employer. The 20 percent restriction does not apply where the employer employs fewer than five employees, in which case no more than one employee may be on vacation at any time without approval of the employer.
+Section 5.04 Employers may deny vacation dates at the time they are requested if job conditions require the presence of that employee. In this event the employer shall work with the employee to arrive at dates which are acceptable to both as soon as possible.
+Section 5.05 Although vacation entitlement is expressed in terms of days, it is generally assumed that vacation will be taken in five-day, Monday through Friday, blocks. With permission of the employer and under special circumstances, shorter vacation periods may be taken. Special circumstances would include: When a holiday falls during a vacation period, that day will be treated as a holiday and will not count as a vacation day. In this event the employee may schedule the extra vacation day off as a single day. In the event of bereavement, an employee may use accrued vacation in one-day increments with notice to the employer.
+VDVNA
+17
+June 2003
+Section 5.06 The employer may establish reasonable requirements to implement the above conditions.
+Section 5.07 Any employee who is separated from employment shall be paid for all accrued vacation days.
+Section 5.08 This article shall not apply to workers assigned from the base local union if the current collective bargaining agreement of the base local union contains an employer paid vacation provision. This article shall not apply to workers referred from the site local union if the current collective bargaining agreement of the site local union contains an employer paid vacation provision. Employee deductions from pay do not count as a paid holiday provision.
+ARTICLE VI Referral
+Section 6.01 When a signatory employer is unable to fill his manpower needs through the portability provisions of Section 4.06(a) and (e) and needs to hire additional workers within the jurisdiction of any site local unions the site local union -shall be the-sole and exclusive source of referral of applicants for employment as set forth in this article, provided: There exists within the site local union’s jurisdiction a separate, local collective bargaining agreement covering essentially the same work as covered by the scope of work in this agreement; such local agreement has a system for the referral of workers in the classifications established in this agreement; and such workers have been classified as technicians through a bona fide training program which meets or exceeds the standards registered for telecommunications technicians by the NJATC.
+Section 6.02 The employer shall have the right to reject any applicant for employment.
+Section 6.03 The local union shall select and refer applicants for employment without discrimination against such applicants by reason of membership or nonmembership in the local union; and such selection and referral shall not be affected in any way by rules, regulations, bylaws, constitutional provisions, or any other aspect or obligation of union membership policies or requirements.
+Section 6.04 The local union shall maintain a register of applicants for employment established on the basis of classifications listed in this agreement Applicants shall be referred according to the standard technician referral procedures established by that local union.
+Section 6.05 The employer shall notify the appropriate International Vice President in whose district work is to be performed on a form provided by the International Office
+VDVNA
+18
+June 2003
+prior to commencing a job in the jurisdiction of a local union other than the base local union. Such notification shall be by fax or e-mail, and the employer shall send a copy to the site local union. In an emergency situation, when advance notice is not possible, such notice shall be submitted as soon as possible. There shall be no requirement for any employee being moved under the provisions of Section 4.06 to report to the local union office where the work is performed.
+Section 6.06 If the registration list is exhausted and the local union is unable to refer applicants for employment to the employer within 48 hours from the time of receiving the employer’s request—Saturdays, Sundays, and holidays excepted—the employer shall be free to secure applicants without using the referral procedure; but such applicants, if hired, shall have the status of “temporary employees.”
+Section 6.07 The employer shall notify the local union business manager promptly of the names, Social Security numbers, and classifications of such “temporary employees” and shall replace such “temporary employees” as soon as registered applicants for employment are available under the referral procedure.
+Section 6.08 Apprentices shall be assigned and transferred in accordance with Article VIL
+ARTICLE VII Apprenticeship and Training
+Section 7.01 The local Joint Apprenticeship and Training Committee (JATC) properly established between the chapter of the National Electrical Contractors Association (NECA) and the local union of the International Brotherhood of Electrical Workers (IBEW) shall adopt local Telecommunications Installer/Technician Apprenticeship Standards in conformance with the NJATC National Guideline Standards and Policies. All such standards shall be registered with the NJATC and thereafter submitted to the appropriate registration agency.
+The JATC shall be responsible for all training. The JATC, however, may elect to establish a subcommittee consisting of two to four members appointed by the IBEW local union and an equal number of members appointed by the NECA chapter. The JATC or its properly established subcommittee shall be responsible for the conduct and operation of the Telecommunications Apprenticeship and Training Program in accordance with the standards and policies adopted by the local JATC. The duties of a subcommittee shall include interviewing, ranking, and selecting applicants, and the supervision of all apprentices in accordance with the registered standards and locally approved JATC policies.
+VDVNA
+19
+June 2003
+Section 7.02 Where the JATC elects to establish a subcommittee, an equal number of members (two, three, or four) shall be appointed, in writing, by both the NECA chapter and the IBEW local union. All such appointments shall be in writing designating the beginning and termination dates for each appointment. The term of one subcommittee member from both the NECA chapter and the IBEW local union shall expire each year on a fixed anniversary date. The NECA chapter and the IBEW local union may elect to appoint one or more members of the JATC to serve on the subcommittee.
+Subcommittee members serve at the will of the party they represent and may be removed by the party they represent or they may resign. All appointments made to fill unexpired terms shall likewise be in writing.
+The subcommittee, where one is established by the JATC, shall select from its membership, but not both from the same party, a chairman and a secretary who shall retain voting privileges.
+The JATC, or its subcommittee, shall maintain a set of minutes for each and every meeting. Such minutes shall be considered confidential and shall be regarded as the property of the JATC and its subcommittee, where a subcommittee is properly established.
+Section 7.03 The subcommittee, where one exists, shall enforce standards and policies established and approved by the JATC. Any appeal pertaining to any action of the subcommittee, shall be referred to the JATC for review and resolution. Any decision or ruling of the JATC shall be final and binding on the subcommittee. If the JATC cannot resolve an appeal, the matter shall be properly referred to the local labormanagement committee for resolution.
+Section 7.04 Though the JATC may elect to establish subcommittees, there is to be only one JATC trust. That trust shall be responsible for all apprenticeship and training trust fund matters. Only properly appointed members of the JATC shall serve as trustees to the JATC trust.
+Section 7.05 All apprentices shall enter the program through the JATC, or its subcommittee, as per the properly registered apprenticeship standards and selection procedures. No candidate shall be assigned to work as apprentice until they have been properly selected and indentured.
+Section 7.06 The JATC, or its subcommittee, shall be responsible for the assignment, or reassignment, of all telecommunications installer/technician apprentices. All such job-training assignments, or reassignments, shall be made in writing, and the local union referral office shall be notified, in writing, of all job-training assignments. The
+VDVNA
+20
+June 2003
+JATC, or its subcommittee, shall have the authority to transfer any apprentice as it deems necessary or appropriate.
+Section 7.07 The JATC may terminate any indenture prior to the completion of apprenticeship. When an indenture is terminated, the former apprentice shall not be eligible for employment under this agreement, in any classification, unless the individual has properly reapplied for the apprenticeship program and been selected. The individual shall not be permitted to be classified as an installer/technician, or provided any other classification under this agreement, until two years after they should have completed apprenticeship under their indenture, and they can demonstrate skills and knowledge to warrant such classification.
+Section 7.08 Though the JATC cannot guarantee any number of apprentices, any employer signatory to this agreement shall be entitled to a ratio of one apprentice to one telecommunications installer/technician or technician-level employee on any job. The JATC shall maintain an active list of qualified applicants, as per the selection procedures, in order to provide an adequate number of apprentices to meet the one-to-one ratio. Applicants shall not be selected and indentured when indentured apprentices are available for on-the-job training assignments. If the JATC is unable to provide an 4	eligible employer with an apprentice within ten working days, the JATC shall select and
+indenture the next available applicant from the active list of ranked applicants.
+f	Section 7.09 Each apprentice shall be required to satisfactorily complete the three-
+year course of study provided by the NJATC as a minimum requirement for completion of their related classroom training. The JATC may also elect to require additional *•	training options that are provided for in the National Guideline Standards. The total
+'	term of apprenticeship shall not require more than three years of related training.
+Section 7.10	The apprentice is required to satisfactorily complete the minimum *	number of on-the-job training hours specified and properly registered in the
+Telecommunications Installer/Technician Apprenticeship and Training Standards.
+Section 7.11 The apprentice is to be under the supervision of an installer/technician, a technician-level employee, or a qualified supervisor. Supervision will not be of a nature that prevents the development of responsibility and initiative. The apprentice shall be permitted to perform any and all job tasks in order to properly develop trade skills and become proficient in the work processes associated with the trade. Installer/technicians and technicians are not required to constantly watch or observe the work of the apprentice. The apprentice is not prohibited from working alone when the installer/technician, technician, or supervisor is required to leave or is absent from the job.
+Section 7.12	The employer shall contribute to the local health and welfare plans and to the National Electrical Benefit Fund (NEBF) on behalf of all apprentices.
+VDVNA
+21
+June 2003
+Contributions to other benefit plans may be addressed in other sections of this agreement
+Section 7.13	Upon satisfactory completion of apprenticeship, the JATC shall provide the apprentice with a diploma from the NJATC. The JATC shall encourage the apprentice to seek college credit through the NJATC. The JATC may also require the apprentice to acquire any appropriate license required for installer/technicians to work in the jurisdiction covered by this agreement
+Section 7.14 All employers subject to the terms of this agreement shall contribute the amount of funds specified by the parties signatory to the local apprenticeship and training trust agreement. This sum shall be due the trust fund by the same date as is their payment to the NEBF under the terms of the Restated Employees Benefit Agreement and Trust.
+(The employer’s contribution to the Telecommunications Installer/Technician Apprenticeship Program shall be sent to the appropriate program in accordance with the compensation procedures in Section 4.06.)
+ARTICLE VIII Fringe Benefits
+Section 8.01(a) The employer adopts and agrees to be bound by the written terms of legally established trust agreements specifying the detailed basis on which payments are to be made into, and benefits paid out of, such trust funds. The employer authorizes the parties to such trust agreements to appoint trustees and successor trustees to administer the trust funds and hereby ratifies and accepts the trustees so appointed as if made by the employer. Nothing contained in this section is intended to require the employer to become a party to a local union collective bargaining agreement, other than the base local union, nor to sign trust fund participation agreements unless legally required to do so by the applicable trust documents.
+(b) The employer shall also pay such local administrative maintenance funds or receiving trusts as established in the base local union agreement.
+Section 8.02 “National Electrical Benefit Fund”— It is agreed that in accord with the Employees Benefit Agreement of the National Electrical Benefit Fund (NEBF), as entered into between the National Electrical Contractors Association and the International Brotherhood of Electrical Workers on September 3, 1946, as amended, and now delineated as the Restated Employees Benefit Agreement and Trust, that unless authorized otherwise by the NEBF the individual employer will forward monthly to the appropriate local collection agent an amount equal to 3% of the gross monthly labor payroll paid to, or accrued by, the employees in this bargaining unit, and a
+VDVNA
+22
+June 2003
+completed payroll report prescribed by the NEBF. The payment shall be made by check or draft and shall constitute a debt due and owing to the NEBF on the last day of each calendar month, which may be recovered by suit initiated by the NEBF or its assignee. The payment and the payroll report shall be mailed to reach the office of the appropriate local collection agent not later than 15 calendar days following the end of each calendar month. The individual employer hereby accepts, and agrees to be bound by, the Restated Employees Benefit Agreement and Trust
+An individual employer who fails to remit as provided above shall be additionally subject to having his agreement terminated upon 72 hours notice in writing being served by the union, provided the individual employer fails to show satisfactory proof that the required payments have been paid to the appropriate local collection agent.
+The failure of an individual employer to comply with the applicable provisions of the Restated Employees Benefit Agreement and Trust shall also constitute a breach of this agreement
+(The employer’s contribution to the NEBF shall be sent to the appropriate local collection agent in accordance with the compensation procedures in Section 4.06.)
+ARTICLE IX National Electrical Industry Fund (NEIF) (NECA Members Only)
+Section 9.01 Each individual Employer shall contribute an amount not to exceed one percent (1%) nor less than .2 of 1% of the productive electrical payroll as determined by each local Chapter and approved by the Trustees, with the following exclusions:
+1)	Twenty-five percent (25%) of all productive electrical payroll in excess of 75,000 manhours paid for electrical work in any one Chapter area during any one calendar year but not exceeding 150,000 man hours.
+2)	One hundred percent (100%) of all productive electrical payroll in excess of 150,000 man-hours paid for electrical work in any one Chapter area during any one calendar year.
+(Productive electrical payroll is defined as the total wages including overtime paid with respect to all hours worked by all classes of electrical labor for which a rate is established in the prevailing labor area where the business is transacted.)
+VDVNA
+23
+June 2003
+Payment shall be forwarded monthly to the National Electrical Industry Fund in a form and manner prescribed by the Trustees no later than fifteen (15) calendar days following the last day of the month in which the labor was performed. Failure to do so will be considered a breach of this Agreement on the part of the individual Employer.
+Payment shall be forwarded to the National Electrical Industry Fund in a form and manner prescribed by the trustees no later than fifteen (15) calendar days following the last day of the month in which the labor was performed. Failure to do so will be considered a breach of this agreement on the part of the individual employer.
+(The employer’s contribution to the NEIF shall be sent to the appropriate chapter in accordance with the compensation procedures in Section 4.06.)
+ARTICLE X
+National Labor-Management Cooperation Committee (NLMCC)
+Section 10.01 The parties agree to participate in the NECA-IBEW National Labor-Management Cooperation Fund, under authority of Section 6(b) of the Labor-Management Cooperation Act of 1978, 29 U.S.C: §175(a), and Section=302(c)(9) of the Labor-Management Relations Act, 29 U.S.C. §186(c)(9). The purposes of this fund include the following:
+1.	To improve communication between representatives of labor and management;
+2.	To provide workers and employers with opportunities to study and explore new and innovative joint approaches to achieving organizational effectiveness;
+3.	To assist workers and employers in solving problems of mutual concern not susceptible to resolution within the collective bargaining process;
+4.	To study and explore ways of eliminating potential problems which reduce the competitiveness and inhibit the economic development of the electrical construction industry;
+5.	To sponsor programs which improve job security, enhance economic and community development, and promote the general welfare of the community and the industry;
+6.	To encourage and support the initiation and operation of similarly constituted
+VDVNA
+24
+June 2003
+local labor-management cooperation committees;
+7.	To engage in research and development programs concerning various aspects of the industry, including, but not limited to, new technologies, occupational safety and health, labor relations, and new methods of improved production;
+8.	To engage in public education and other programs to expand the economic development of the electrical construction industry;
+9.	To enhance the involvement of workers in making decisions that affect their working lives; and
+10.	To engage in any other lawful activities incidental or related to the accomplishment of these purposes and goals.
+Section 10.02 The fund shall function in accordance with, and as provided in, its Agreement and Declaration of Trust, and any amendments thereto and any other of its governing documents. Each employer hereby accepts, agrees to be bound by, and shall be entitled to participate in the NLMCC, as provided in said Agreement and Declaration of Trust.
+Section 10.03 Each employer shall contribute one cent ($.01) per hour worked under this agreement up to a maximum of 150,000 hours per year in each local union jurisdiction. Payment shall be forwarded monthly, in a form and manner prescribed by the trustees, no later than fifteen (15) calendar days following the last day of the month in which the labor was performed. The local NECA chapter, or its designee, shall be the collection agent for this fund.
+Section 10.04 If an employer fails to make the required contributions to the fund, the trustees shall have the right to take whatever steps are necessary to secure compliance. In the event the employer is in default, the employer shall be liable for a sum equal to 15 percent of the delinquent payment, but not less than the sum of twenty dollars ($20), for each month payment of contributions is delinquent to the fund, such amount being liquidated damages, and not a penalty, reflecting the reasonable damages incurred by the fund due to the delinquency of the payments. Such amount shall be added to and become a part of the contributions due and payable, and the whole amount due shall bear interest at the rate of ten percent (10%) per annum until paid. The employer shall also be liable for all costs of collecting the payment together with attorneys’ fees.
+(The employer’s contribution to the NLMCC shall be sent to the appropriate chapter in accordance with the compensation procedures in Section 4.06.)
+VDVNA
+25
+June 2003
+ARTICLE XI
+Substance Abuse
+Section 11.01 The dangers and costs which alcohol and other chemical abuses can create in the Voice-Data-Video Industry in terms of safety and productivity are significant. The parties to this agreement resolve to combat chemical abuse in any form and agree that, to be effective, programs to eliminate substance impairment should contain a strong rehabilitation component. The parties recognize the employer's right to adopt and implement a drug and alcohol policy subject to all applicable laws and regulations, procedural safeguards, scientific principles, and legitimate interests of privacy and confidentiality. However, the union reserves the right to negotiate regarding the terms of the employer’s policy before the employer implements the policy. When drug and alcohol testing is performed, all testing shall be conducted in accordance with the procedures outlined in the aforementioned policy. Apprentices may be subject to substance abuse policies adopted and implemented by the JATC.
+SEPARABILITY CLAUSE
+= Should any provision of this agreement be declared illegal by any court of competent jurisdiction, such provisions shall immediately become null and void, leaving the remainder of the agreement in full force and effect; and the parties shall, thereupon, seek to negotiate substitute provisions which are in conformity with the applicable laws.
+SIGNED
+NATIONAL ELECTRICAL CONTRACTORS
+ASSOCIATION
+BY_______________________
+TITLE: EXECUTIVE VICE PRESIDENT &CEO
+DATE: _____________________
+SIGNED INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS®
+BY_______________________
+TITLE: INTERNATIONAL PRESIDENT
+DATE: ___________________
+VDVNA
+26
+June 2003
+APPENDIX A
+National Voice-Data-Video Agreement Classification Definitions
+The parties to this agreement understand that the Voice-Data-Video Market is a large, growing, and constantly changing opportunity for future business and employment in our industry and that continuing education and training will be needed to most effectively utilize the developments in tools, technologies, and techniques that will become a part of this industry. From time to time, the classification definitions below will need to be redefined; and workers will need to possess the skills necessary to meet these new definitions and, more importantly, to perform the work required by the customer.
+Locally Negotiated Classifications: This agreement shall recognize other semi- or lesser-skilled classifications (classifications other than installer/technician, technician, or registered apprentices) not defined in this appendix if they have been negotiated and implemented in the jurisdiction of the site local union where the work is being performed. Such lower classifications shall be referred by the site local union. These classifications shall also be permitted in those areas where no separate agreement exists covering essentially the same scope of work as this agreement if they have been negotiated and implemented in the base local union’s jurisdiction.
+Apprentice Installer/Technician: Indentured in a three-year JATC-recognized apprenticeship program administered by an IBEW/NECA JATC. Maximum jobsite ratio shall be one-to-one. No special referral by period shall be required. JATCs should encourage rotation to provide for the maximum learning experiences in a variety of systems. After one year, apprentices may work with limited supervision on structured cabling installations.
+Installer/Technician: Completed a three-year JATC Apprentice Technician Program or has four years experience in the communications industry and passed an installer/technician equivalency exam developed by the NJATC and administered by the local union or through independent third-party testing sanctioned by the NJATC and supported by the IBEW and NECA. Duties may include supervision of apprentice technicians and other installer/technicians.
+Technician: Has a minimum of two years experience as an installer/technician and is qualified to perform the following tasks: the planning and installation, including testing, terminating, and troubleshooting, of structured cabling systems (SCS). Possesses the skills for fiber-optic installation, including splicing, testing, terminating, and troubleshooting. Duties may include supervision of apprentice technicians, installer/technicians, and/or other technicians.
+Time requirements may be waived by passing a technician equivalency exam developed by the NJATC and administered by the local union or through independent third-party testing sanctioned by the NJATC and supported by the IBEW and NECA.
+VDVNA
+27
+June 2003
+Senior Technician: Has a minimum of two years experience as a technician and is qualified to perform the following tasks: the planning and installation, including testing, terminating, and troubleshooting, of structured cabling systems (SCS). Possesses the skills for fiber-optic installation, including splicing, testing, terminating, and troubleshooting. Must be skilled in the maintenance, service, testing, and repair of PBX systems and computer networking systems. Should have experience installing other special systems; such as security/access control, sound reinforcement, media retrieval, wireless/RF, and/or clock systems, etc. Duties may include the supervision of apprentice technicians, installer/technicians, technicians, and/or other senior technicians.
+Time requirements may be waived by passing a senior technician equivalency exam developed by the NJATC and administered by the local union or through independent third-party testing sanctioned by the NJATC and supported by the IBEW and NECA.
+Master Technician: Has a minimum of two years experience as a senior technician and is qualified to perform the following tasks: experienced in the planning and installation of large complex structured cabling systems. Must be certified in the installation, maintenance, service, testing, and repair of more than one PBX system (if offered by the company) and network computer system. Should be able to install, maintain, and troubleshoot air hardware and software for Win NT of Novell network servers. Install and program routers, hub, and switches (Cisco, Nortel, 3Com, etc.). Provide startup of all clients on the network, including installation of client application software. Must be experienced in the planning, installation, troubleshooting, and testing of other special systems; such as security/access control, sound reinforcement, media retrieval, wireless/RF, and/or clock systems, etc. Duties may include the supervision of apprentice technicians, installer/technicians, technicians, senior technicians, and/or other master technicians.
+Time requirements may be waived by passing a master technician equivalency exam developed by the NJATC and administered by the local union or through independent third-party testing sanctioned by the NJATC and supported by the IBEW and NECA.
+Systems Integrator: In addition to meeting the requirements of a master technician, must have the ability to program and administer all system software for at least one major communications and/or data networking system. Has third-party certification as required by vendor or customer; such as CCNA, CCND, Cisco Systems, ITCO 5, Nortel, Lucent, Cabletron, etc. A systems integrator should be able to coordinate the communications of one or more separate proprietary or nonproprietary special systems so that they may be monitored and supervised from one central control system (i.e., computer network or web-based Internet control of fire/life safety, energy management, security/access control, etc.). Additional duties may include the supervision of all voice-data-video classifications.
+VDVNA
+28
+June 2003

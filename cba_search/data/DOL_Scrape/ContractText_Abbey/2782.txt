@@ -1,0 +1,873 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: New York, State of, Unified Court System and District Council 37, American Federation of State, County & Municipal Employees (AFSCME), AFL-CIO, Local 1070 (2003)
+K#: 800400
+Location: NY
+Employer Name: New York, State of, Unified Court System
+Union: District Council 37, American Federation of State, County & Municipal Employees (AFSCME), AFL-CIO
+Local: 1070
+SIC: 9211	NAICS: 922110
+Sector: S	Number of Workers: 1500
+Effective Date: 04/01/03	Expiration Date: 03/31/07
+Number of Pages: 91	Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+Sot)1! £>&
+AGREEMENT
+between the
+STATE OF NEW YORK -UNIFIED COURT SYSTEM
+and
+DISTRICT COUNCIL 37
+AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES
+AFL-CIO AND LOCAL 1070
+2003-2007
+TABLE OF CONTENTS
+Article	£age
+1	RECOGNITION..............................................................■. . . . 1
+2	STATEMENT OF POLICY AND PURPOSE...............................................2
+3	UNCHALLENGED REPRESENTATION ................................................. 3
+4	EMPLOYEE- ORGANIZATION RIGHTS .............................................. .4
+4.1	Exclusive Right to Negotiate.............................................4
+4.2	Ducs Check-Off.........................................................  4
+4.3	Bulletin Boards .......................................................  6
+4.4	- Meeting Space ,, . ..............................................      7
+4.5	Access to Employees . ,................................................. 7
+.	4.6 Employee Lists ....<................................................     8
+4.7	Employee Organization Leave ............................................ 8
+4.3	Job Descriptions ...............................-......................-	13
+5	MANAGEMENT RIGHTS ......................................................... 14
+6	NO STRIKES................................................................. 16
+7	COMPENSATION............................................................... 16
+8	HEALTH INSURANCE .........................................................  23
+9	TIME AND LEAVE............................................................. 25
+9.1	Attendance, Tardiness.................................................. 25
+9.2	Annual Leave........................................................... 27
+(a)	Accrual Rate .....................................................   27
+'	j[b) Establishment of Anniversary Date................................ 28
+(c)	Additional Leave Credits............................................ 28
+(d)	Maximum Accrual Level.......................................;....... 29
+(e)	Annual Leave Requests .............................................. 29
+(f)	Transfer of Accruals.............................................\	. 29
+(gj Part-Time Definition................................................ 30
+(h)	25 Year Credit...................................................... 30
+(i)	30 Year Credit ..................................................... 30
+(j)	Minimum Use Units.................................................   30
+(fc	) Commencing Accruals .............................................. 31
+(i)	Wri tten Denial of Leave U se ...................................... 31
+(m)	Service Credit...................................................... 31
+(n)	Court Recess ....................................................... 31
+9.3	Sick Leave............................................................. 31
+(a)(1) Definition .......................................................31
+■	(2) Sick Leave for Family...'......................................... 32
+(b)	Maximum Accrual Level............................................... 32
+(c)	Call-In ...........................................................  33
+(d)	Proof of Illness.................................................... 34
+(e)	Exam Prior to Return .;............................................. 34
+(1) Sick Leave for Doctor's Appointments............................................................. 35
+(g) Transfer of Accruals ..............................................  35
+th) Advanced Credits ..................................................  36
+i
+Si) Sick Leave Use While on Annual Ireave..................................................................  36
+(j)	. . . Sick Leave al Haif-Fay ..............................................  ^7
+(k)	Incapacitated Employees .................................................... 39
+(') , „ , . Sick Leave Donation ................................................ 46
+(rn) Sick Leave Bank............................................................ 48
+9.4	Workers' Compensation Benefit................................................ 48
+9.5	Other Leaves With Pay........................................................ 51
+(a) Jury Leave.................................................................. 53
+(bl	Civil Service Exams ......................................................   54
+(o'	) Quarantine Leave.........................................................  55
+(d)	Leaves Required by Law...................................................... 55
+(e)	Civil Defense Leave......................................................... 55
+(f)	Death in the Family ........................................................ 56
+(g)	Dismissal from Court Facility............................................... 56
+(h)	Terminal Leave ............................................................. 57
+(1)	Convention Leave ........................................................... 58
+(j)	Blood Donations............................................................. 59
+(k)	Internal Discrimination Claims.............................................. 59
+(7)	Other Leaves with Pay....................................................... 60
+(m)	"CAT" Training Leave....................................................... 60
+9.6	Leaves Without Pay .......................................................... 60
+(a)	Duration..................................................................   60
+(b)	Successive Leaves .......................................................... 61
+(c)	Child Care Leave............................................................ 61
+9.7	Payment of Accruals Upon Separation.......................................... 62
+9.8	Written Agreement Required for Transfer of Leave Credits..................................................... 63
+9.9	Holidays .................................................................... 64
+9.10	Retroactive Time Credits ..................................................   65
+9.11	Holiday Pay ................................................................. 55
+9.12	Holiday Falling on Saturday................................................. 67
+9.13	Workweek..................................................................... 67
+9.14	Conferences ................................................................ 67
+9.15	Request for Reassignment or Transfer........................................  68
+9.16	Scheduling ................................................................. 68
+10	OVERTIME......................................................................... 69
+10.1	Overtime..................................................................... 69
+10.2	Definitions ................................................................  69
+10.3	Exclusions .................................................................. 72
+10.4	Authorization for Overtime .................................................. 72
+10,5	Determination of Overtime Earned ...........................................  74
+10,6	Computation of Cash Compensation ............................................ 76
+10.7	Time of Payment of Cash Compensation..................................................................... 78
+10.8	Compensatory Time Off.......................................................  78
+10.9	Overtime Meals ...........................................................  .	79
+10.10	Timckeeping Procedures ....................................................  79
+10.11	Exceptions ................................................................. 79
+11	SHIFT DIFFERENTIAL .............................................................  80
+12	TRAVEL EXPENSES ............................................................. 80
+13	DISCIPLINARY PROCEDURES ..................................................... 81
+13.1	Applicability.........................................................   81
+13.2	Procedure .............................................................. 83
+13.3	Suspension Pending Determination of Charges................................................................    85
+13.4	Determination of Charges...............................................  85
+13.5	Time for Removal or Disciplinary Proceedings.................................................................  86
+13.6	Re v ie w of Pen al ly or Punishment ................................... 87
+13.7	Restoration of Position................................................. 88
+13.8	Alternative Disciplinary Procedure ...................................   89
+13.9	Hearing Officer Panel.................'................................. 93
+14	PRINTING OF AGREEMENT........................................................ 93
+15	LABOR-MANAGEMENT COMMITTEE................................................... 93
+15.1	Committee Establishment. . .'.........................................   93
+15.2	Meetings.............................................................    94
+15,3	Time Charged............................................................ 94
+15.4	Meetings in Good Faith ................................................. 94
+15.5	Court Reporter Committee	,.............................................  94
+15.6	Health & Safety Committee..............................................  94
+15.7	Technological Changes Committee ......................................   95
+15.8	Employee Training Committee ..........................................   95
+15.9	Sick Leave Committee...................................................  96
+15.10	Administrative Transaction Committee ................................................................... 96
+15.11	Title Series Committee................................................. 96
+15.12	Alternative Discipline Committee......................................  96
+15.13	hQtP"................................................................   97
+15.14	Long-Term Disabilities Committee....................................... 98
+15.15	Reassignment and Transfers	•
+Committee................................................................. 98
+15.16	Facility Review Committee ..............................................99
+15.17	Public Awareness Program Committee....................................  99
+15.18	Work week Committee ................................................... 99
+15.19	Job Title Committee....................................................100
+16	WORK/LIFE ASSISTANCE PROGRAM ................................................100
+17	GRIEVANCE PROCEDURES ........................................................101
+18	OUT-QF-T1TLE WORK ...........................................................107
+19	NO DISCRIMINATION .......................................................... Ill
+20	BENEFITS GUARANTEED.........................................................112
+21	PROTECTION OF EMPLOYEES......................................:...............113
+22	PERSONNEL AND PAY PRACTICES ................................................113
+22.1	Notification to Beneficiary............................................ 113
+22.2	Notification of Change in title or Compensation ................................................................114
+22.3	Release of Pay checks ..................................................114
+22.4	Itemization on Pay checks...............................................114
+22.5	Withholding Pay checks .................................................115
+22,6	Salary Garnishments.....................................................115
+ill
+22.1	Salary Upon Promotion ........................................-15
+22.8	Information on Retirement Benefits............................115
+22.9	Personnel Folders.............................................116
+22.10	Orientadon Kits .............................................117
+22.11	Death of Employee in the Course of Employment.....................................................:. J J 8
+22.12	Replacement of Damaged ID
+Cards/Shields .................................................118
+23 CIVIL SERVICE AND CAREER DEVELOPMENT........................................................118
+23.1	Posting of Vacancies .........................................118
+23.2	Notice of Public Hearings ....................................119
+23.3	Statements of Policy or Procedure ..,.........................119
+24 JOB ABANDONMENT................................................... 119
+25 BENEFITS FUND .....................................................121
+26 SALARY COMPUTATION .............................................   122
+27 SEVERABILITY ...................................................   123
+28 DAY CARE DEVELOPMENT COMMITTEE .........................................................123
+29 WAIVER OF FEES FOR CIVIL SERVICE EXAMS .................................................    124
+30 FLEXIBLE BENEFIT SPENDING PROGRAM ...........................................................124
+31 COURT REPORTER PROCEDURES .........................................125
+32 REIMBURSEMENT FOR PROPERTY
+DAMAGE.............?.............................................. 126
+33 DRESS CODE ........................................................127
+34 CONCLUSION OF COLLECTIVE NEGOTIATIONS....................................'...............  .128
+35 CONFLICT WITH AGREEMENT .......................................... 129
+36 APPROVAL OP THE LEGISLATURE .......................................129
+37 DURATION OF AGREEMENT..............................................130
+SIGNATURE PAGE ....................................................131
+APPENDIX A-l:
+Job Titles or Positions Included in the Negotiating Unit...............................................132
+APPENDIX A-2:
+Salary Schedule March 31, 1999 .....................................................  136
+APPENDIX A-3:
+Salary Schedule October 1, 1999 ..................................................... 137
+APPENDIX A-4:
+Salary Schedule April 1,2000..........................................................138
+tv
+APPENDIX A-5:
+Salary Schedule Aprif 1,2001..
+APPENDIX A-6: Salary Schedule April 1, 2002 . .
+139
+140
+AGREEMENT
+AGREEMENT made by and between the State of New York-Unified Court System (hereafter referred to as the Slate') and District Council 37, AFSCME, AFL-CIO, and Local 1070 (hereafter referred to as the Union). The term "employees1" shall hereafter refer to employees within the negotiating unit as defined in Article 1 of this Agreement.
+ARTICLE 1
+RECOGNITION
+The State, pursuant to Article 14 of the Civil Service Law (Public Employees' Fair Employment Act), recognizes District Council 37, AFSCME, AFL-CIO, and Local 1070 as the exclusive representative for collective negotiations with respect to salaries, wages, horns and other terms and conditions of employment for all full “time, part-time, hourly, and per diem employees in the Unified Court System within the City of New York whose job title or position is set forth in Appendix A, attached hereto, or successor or similar titles or converted titles as a result of the Classification Plan adopted May 28, 1979, or amendments thereto.
+ARTICLE 2
+STATEMENT OF POLICY AND PURPOSE
+2.1	It i$ the policy of the State to continue harmonious and cooperative relationships with its employees and to insure the orderly and uninterrupted operations of government. This policy is effectuated by the provisions of the Public Employees' Fair Employment Act granting public employees the rights of organization and collective representation concerning the determination of the terms and conditions of their employment.
+-i-
+2.2	The Stats and the Union now desire to enter into an agreement reached through collective negotiations which will have for its purposes, among others, the following:
+(a)	To recognize the legitimate interests of the employees of the ‘State to participate through collective negotiations in the determination of the terms and conditions of their employment.
+(b)	To promote fair and reasonable working condition.?.
+(c)	To promote individual efficiency and service to Che citizens of the State.
+I'd) To avoid interruption or interference with the efficient Operation of the State's business.
+(e) To provide a basis for the adjustment of matters of mutual interest by means of amicable discussion.
+ARTICLE 3
+UNCHALLENGED REPRESENTATION
+The State and the Union agree, pursuant to Section 208 of the Civil Service Law, that the Union shall have unchallenged representation status for the maximum period, permitted by law on the date of execution of this Agreement.
+ARTICLE 4
+EMPLOYEE ORGANIZATION RIGHTS
+4.1	Exclusive Rights to Negotiate, The Union shah have the exclusive right to negotiate with respect to salaries, wages, hours, and other tenths and conditions of employment on behalf of those employees it represents under this Agreement and the State shall not negotiate or meet with any other employee organization wrth reference to terms and conditions of employment of employees represented by the Union under this Agreement.
+c-
+4.2	Dues Check-Off.
+(a)	Payroll Deduction, The Union shall have exclusive payroll deduction of membership dues and insurance premiums with this privilege accorded to no other employee organization. Payroll deductions shall also be provided without service charge for savings and loans to credit unions, Union dues check-off, government bonds, or any other deductions as authorized in writing by an employee and in accordance with the Rules of the Comptroller. Further, to the extent allowed by law, payroll deductions shall also be provided without .service charge for approved Individual Retirement Accounts and Deferred Compensation Programs and the P,E.O.P.L,E. Program, as authorized in writing by an employee and in accordance with the Rules of the Comptroller.
+(b)	The Union shall have access to dues check-off authorization cards which are actually in the custody of the Office of Court Administration. With respect to authorization cards in the custody of the State Comptroller, the Office of Court Administration consents to inspection by the Union.
+(c)	When an employee is (1) reassigned or transferred from one payroll department to another, or (2) is promoted or demoted to another title represented by the same Union which represented him/her previously, dues check-off shall continue uninterrupted. When an employee is promoted or demoted to a title covered by this Agreement, any prior dues deduction to another union shall be discontinued.
+(d)	When an employee returns from an approved leave of absence without pay or is reappointed or temporarily appointed from a preferred list in the same title or in another title represented by the same union, an.y dues check-off audioriz.atic.iTi in effect prior to the approved leave or the layoff shall be reactivated. Further, to the extent practicable and in accordance with the Rules
+of the Comptroller, all of an employee's payroll deductions shall be resumed when an employee returns from an authorized leave.
+The State shall issue an appropriate administrative instruction to all payroll departments, subject to the Rules of the Comptroller.
+(e)	Subject to the consent and agreement of the State Comptroller, employees shall be allowed to participate in a program established in accordance with Section 200.4 of the State Finance Law for the "direct deposit" of an employee's paycheck to a bank or other financial institution, designated by the Comptroller.
+4.3	Bulletin Boards.
+(a)	The State shall provide a reasonable amount of exclusive bulletin board space in an accessible place in each area occupied by a substantial number of employees for the purpose of posting bulletins, notices and material issued by the Union which shall be signed by a designated official of the Union. Where practicable, the bulletin boards shall be glass enclosed. No material shall be posted which is defamatory of the State or its representatives, or which constitutes election campaign material for or against any person, organization or faction thereof. Until such time as a bona fide representation petition has been filed with the Public Employment Relations Board, no other employee organization, except employee organizations which have been certified or recognized as the representative for collective negotiations for other State employees at such locations, shall have the right to post material upon State bulletin boards.
+(b)	The number and location of bulletin boards, as well as arrangements with reference to placing material thereon and removing material therefrom, shall be subject to mutual understandings,
+-4-
+provided, however, that any materia] reasonably objected to by the State shall be removed, which removal may be contested purs nan I to the contract grievance procedure provided for herein.
+4.4	Meeting Space. Where there is appropriate available meeting space in buildings owned or leased by the State, the Union will be accorded the privilege of using such space for specific meetings, subject to the consent of the Deputy Chief Administrative Judge (New York City Courts) or his/her designee, provided there is no extraordinary expense incurred by the State In the fumisliing of such space, and a written request for the use of such space is made in advance to the Deputy Chief Administrative Judge (New York City Courts) or his/her designee, as set forth above.
+4.5	Access to Employees. The Union shall, on an exclusive basis, have access during working hours to employees it represents, to consult regarding membership services and programs under mutually developed arrangements with the Deputy Chief Administrative Judge (New York City Courts) or his/her designee. Any such arrangements shall insure that such access shall not interfere with work duties or performance and shall be reasonably controlled.
+.	4.6 Employee Lists. The State shall furnish to the Union, without charge, upon written
+request, but not more than quarterly, information showing the name, title, home address, negotiating unit designation, social security number, payroll agency, salary and, if and when available, work location of all unit employees. The State shall provide to the Union a monthly list of new employee names and work, locations.
+4.7 Employee Organhation Leave.
+(a)	The Union shall designate, at least quarterly, in writing, those employees who Aireauthorized to take employee organization leave. The Deputy Director for Employee Relations shall
+-5.
+establish uniform procedures regarding the maintenance and submission of monthly reports of employee organization leave.
+(b)	Individuals duly designated by the Union shall be permitted to perform the following functions without loss of pay or other employee benefits, except as limited by Section 4.7(c):
+0) To investigate grievances, assist- in their early resolution, and to process them at all levels of the grievance procedure,
+(2)	To participate in meetings of the Laboi7M.auagement Committee and the Labor/Management Subcommittees.
+(3)	To meet or confer with the Chief Administrative Judge or any of his/her representatives on matters affecting labor/management relations, where such meetings or conferences have been previously approved by the Chief Administrative Judge,
+(4)	To negotiate, prepare for negotiations, or confer with the Deputy Director for Employee Relations or his/her representative, and to participate in fact-finding or other collective bargaining impasse procedures.
+(5)	. To confer with and/or appear before PERB, Department of Audit and Control, New Y ork State Employees Retirement System, and the Civil Service Commission on. matters which.may have any effect on labor/management relations.
+(6)	To confer with and/or appeal’before any Federal wage regulatory agency or Occupational Health and Safety Commission.
+(7)	To attend award, honor, graduating and promotional ceremonies as employee representatives, provided that no more than ten workdays in any calendar year are used for such purposes.
+'6-
+(KJ To attend funerals and memorial services for employees who are killed in the line of duty (officers of the Union and an honor guard and such others as the Deputy Di rector for Employee Relations may approve).
+(9)	To engage in any other activity which may be approved by the Deputy Director for Employee Relations consistent with the conduct of Jabor/management relations.
+(10)	To attend meetings as a trustee of the Union Benefits Fund, up to four such meetings per year.
+(11)	Subject to the reasonable operating needs of the court or court-related agency no more than ten employees will be granted up to five days plus travel lime in any calendar' year for the purpose of attending Union conferences, seminars or work shops, and to appear before and confer with members of the Legislature. Travel time shall mean actual and necessary travel time not to exceed five hours each way.
+(12)	Conferences with counsel to prepare for trial or a hearing or attendance as a witness in an action commenced by or against the Union concerning a claimed violation of the interpretation of this Agreement or a reclassification of employees.	.
+(13)	Subject to reasonable operating needs, the Union shall be granted up to one hour to meet with new employees, in the first six months of service, during working hours to explain Union services, programs and benefits.
+(c) Individuals duly designated and authorized in writing by the Union shall be granted employee organization leave for time actually spent performing appropriate employee relations functions as specified in Section 4.7(b), provided chat effective April 1, 2004, such time shall not exceed 4.5 hours per represented employee per year based on the average number of employees in
+-7.
+the bargaining unit: computed on a quarterly basis, in the preceding fiscal year and, provided further, that effective April 1, 2003, unused time shall be earned over from one fiscal year to the next. If employee organization leave is utilized beyond such amount, the Union shall have 30 days to determine whether to repay such amount to tire Stare in cash as provided below or through a charge to the accrued annual leave credits or compensatory time credits of the employee who was absent from work performing such appropriate employee relations functions. Provided, however, that if an employee does not have sufficient annual leave or compensatory lime credits to cover such absence from work, appropriate deductions shall be taken from subsequent paychecks. Provided further, however, that if the Union chooses to reimburse the State in cash for such excess time used, such payment shall be based on the hourly rate of the individual for whom such reimbursement is made including an additional payment of 30% of such rate representing the value of fringe benefits. Such reimbursement by the Union shall be made within 30 days after the State has notified the Union by certified mail that a deficit exists. If the Union fails to make such cash payment within 30 days and the Union has not notified the State that a dispute exists concerning the amount of employee organization leave due and owing, the State shall make an appropriate deduction from the affected employee's leave credits or subsequent paychecks. The hourly rate shall be determined by dividing an employee's basic annual salary plus any additional compensation payable because of hours of work or location by 1,827, If the Union notifies the State within 30 days that a dispute exists concerning the amount of employee organization leave due and owing, then the Union must simultaneously notify the State whether it chooses to place the disputed amount of cash or leave credits in escrow pending resolution of the dispute by arbitration pursuant to Article 17 of tire Agreement. The Union may elect to place a certified check for the full disputed amount in an escrow
+•S-	.
+account which the State selects. If the Union does not make a timely election when it notifies the State within 30 days of notification of the overage of a dispute, the State will automatically freeze the disputed amount of leave credits of affected employees. Such leave credits cannot be used by affected employees while frozen and such leave credits will not be released until there is a final resolution of the dispute.
+In scheduling the use of employee organization leave time for such appropriate employee relations functions, the State shall use its best efforts to accommodate authorized requests for employee organization leave.
+4.8 Job Descriptions. Copies of amendments to the court wide classification plan shall be furnished to Che Union at least five days in advance of promulgation.
+ARTICLE 5
+MANAGEMENT RIGHTS
+5	J. Management Rights. Except as expressly limited by other provisions of this Agreement, all of the authority, rights and responsibilities possessed by the State are retained by it, including but not limited to, the right to determine the facilities, methods, means and number of personnel required for the conduct of State Judiciary programs; to administer the Merit System, including the examination, selection, necmitaent, hiring, appraisal, training, retention, promotion, assignment or transfer of employees pursuant to law; to direct, deploy, and utilize the work force; to establish specifications for each class of positions and to classify or reclassify and to allocate or reallocate new or existing positions in accordance with law, and to discipline or discharge employees in accordance with law and the provisions of this Agreement. Decisions of the State on these mutters are not within the scope of collective bargaining but, notwithstanding the above, questions concerning the practical
+-‘j-
+impact that decisions, on the above, matters have on employees such as questions ci 'workload or staffing, are within the scope of collective bargaining,
+5	.2 Delivery of services in the most efficient, effective and courteous manner is of paramount importance to the State and the Union. Such achievement is recognized to be a mutual obligation of both parties within their respective roles and responsibilities. To achieve and maintain a high level of effectiveness, the parties hereby agree to the following terms:
+(a)	Performance Levels. The Union recognizes the State's light to establish and/or revise performance standards or norms notwithstanding the existence of prior performance levels, nouns or standards. Notwithstanding the above, questions concerning the practical impact that decisions on the above matters have on employees are within the scope of collective bargaining. The State will give the Union prior notice of the establishment and/or revision of performance standards or norms hereunder.
+(b)	Supervisory Responsibility. The Union recognizes the State's right to establish and/or revise standards for supervisory responsibility in achieving and maintaining performance levels of supervised employees for employees in supervisory positions. Notwithstanding the above, questions concerning the practical impact that decisions on the above matters have on employees are within the scope of collective bargaining. The State will give the Union prior notice of the establishment and/or revision of standards for supervisory responsibility hereunder.
+ARTICLE 6
+NO STRIKES
+6.1	The Union shall not engage hi a strike, nor cause, instigate, encourage or ccmdone a strike.
+-JO-
+6.2	Ths Union shall exert its best efforts to prevent and terminate any strike.
+6,3	Nothing contained in this Agreement shall be construed to limit the rights, remedies or duties of the State or the rights, remedies or duties of the Union or employees under State law.
+ARTICLE 7
+COMPENSATION
+7.1	The State and the Union shall prepare, secure introduction, and recommend passage by the legislature of such legislation as may be appropriate and necessary to provide the benefits described in tills Article.
+7.2	The lag payroll shall continue. Repayment of such lagged salary shall be made when an employee leaves State service. The employee’s final salary check shall be paid at the employee’s then-current salary rate and shall be issued at the end of the payroll period next following the payroll period in which service is discontinued.
+7.3	Performance Evaluation.
+(a)	The State shall continue to utilize a performance evaluation system for all employees. All increments and longevity bonuses will be conditioned on ratings pursuant to the performance evaluation system as provided herein. Such performance evaluation system shall provide for an annual, final employee performance review by a supervisor. A mid-year review may also be held for employees who have received a rating that was other than meets job requirements during the previous rating period. Additional informal review's are encouraged. No increment or longevity bonus normally due under Section 37 of the Judiciary Law and provided for in this Agreement or under Section 7.9 shall be released unless an employee receives a final annual rating other than unsatisfactory under the State’s performance evaluation system. An employee will receive a copy
+-Ji-
+of the performance evaluation form, An unsatisfactory rating in one year will not be a bar to increments or longevity bonuses in future years; if eligible.
+(b)	A written appeal of an unsatisfactory performance evaluation review shall be made within ten workdays of the receipt of the final performance evaluation form. Such appeal shall be made on a form acceptable to the State and the Union to a panel to be composed of one Union representative, one management representative and one third-party neutral to be designated by agreement of the parties. The panel shall review whether the unsatisfactory performance evaluation was a reasonable determination by the supervisor considering the performance evaluation form and the written appeal form. The panel may determine, in its discretion, that additional information, oral argument or witnesses arc necessary to make an adequate review. The panel shall determine in writing by March 1 whether the unsatisfactory rating shall be sustained or denied. Such decision shall be final and binding and unreviewable in any forum. The procedure herein shall not apply to probationary employees.
+7.4	(a) Effective April 1,2003, or on a different day of the biweekly period for administrative convenience as provided for in Section 200(1) of the State Finance Law, each graded employee eligible for an increment pursuant to Section 37 of the Judiciary Law whose performance is rated higher than unsatisfactory shall receive such increment based on the salary schedule in effect on March 31, 2003, added to basic annual salary. An employee must have served the equivalent of 120 full-workdays in the fiscal year io receive such increment.
+(b)	Effective as scon as practicable following execution of this Agreement, each employee who is in active status as of the date of execution shall receive a one-time lump sum payment of $500, which shall not be part of basic annual salary but which shall be pensionable.
+-12-
+7.5	(a) Effective April 1,2004, or on a different day of the biweekly period for administrative convenience, ns provided for in Section 200(1) of the State Finance Law, each graded employee eligible for an increment pursuant to Section 37 of the Judiciary Law whose performance is rated higher than unsatisfactory shall receive such increment based on the salary'' schedule in effect on March 3 1,2004, added to basic annual salary. An employee must have served the equivalent of 120 full-work days in the fiscal year to receive such increment.
+(b) Effective April 1, 2004, or on a different day of the biweekly period for administrative convenience as provided for in Section 200(1) of the State Finance Law, the basic annual salary of each employee on April 1, 2004, shall be increased by 2.5% or $850, whichever is greater. Such percentage increase shall be added to the salary schedule.
+7.6(a) Effective April 1,2005, or on a different day of the biweekly period for administrative convenience as provided for in Section 200(1) of the State Finance Law, each graded employee eligible for an increment pursuant to Section 37 of the Judiciary Law, whose performance is rated higher than unsatisfactory, shall receive such increment, based on the salary schedule in effect on March 31,2005, added to basic annual salary. An employee must have served the equivalent of 120 full-workdays in the fiscal year to receive such increment.
+(b) Effective April 1, 2005, or on a different day of the biweekly period for administrative convenience as provided for in Section 200(1) of the State Finance Law, the basic annual salary of each employee on April 1, 2005, will be increased by 2.75% or $900, whichever is greater. Such percentage increase shall be added to the salary schedule,
+7.7(a) Effective April 1,2006, or on a different day of the biweekly period for administrative convenience as provided for in Section 200(1) of the .State Finance Law, each graded employee
+-13-
+eligible for an increment pursuant to Section 37 of the Judiciary Law, whose performance is rated higher than unsatisfactory,.shall receive such increment, based on the salary schedule in effect on March 31, 2006, added to basic annual salary. An employee must have served the equivalent of 120
+full-workdays in the fiscal year to receive such increment.
+(b)	Effective April 1,2006, or on a different day of the biweekly period for administrative convenience as provided for in Section 200(1) of the State Finance Law, the basic annual salary of each employee on April 1, 2006, shall be increased by 3.0% or $950, whichever is greater. Such percentage increase shall be added to the salary schedule.
+(c)	Effective March 31,2007, or on a different day of the biweekly period for administrative convenience as provided for in Section 200(1) of the State Finance Law, the basic annual salary of each employee on March 30,2007, shall be increased by $800. Such increase shall be added to the salary schedule.
+7.8	Location Pay.
+(a)	The location differential in effect on March 31, 2003, shall remain in effect except as modified below,
+(b)	Effective April 1,2004, the State shall pay, in addition to basic annual salary, a location differential of $1,230 per annum (prorated for employees working less than full time) to each employee assigned to a workstation in the City of New York.
+(c)	Effective April 1, 2005, the State shall pay, in addition to basic annual salary, a location differential of $1,264 per annum (prorated for employees working less than full Lime) to each employee assigned to a workstation in the City of New York.
+-id-
+(d)	Effective. April 1.2006. the State shall pay, in addition to basic annual salary, a local! on differential of $1,302 per annum (prorated for employees working less than full Lime) to each employee assigned to a workstation in the City of New York.
+7.9	Longevity Bonus.
+(a)	Effective April 1,2003, an employee who has at least 20 years of continuous service in the Unified Court System and who has served the equivalent of 120 workdays in each fiscal year for which eligibility is being determined, shall receive an annual payment of $1,600 (prorated for employees working less than full time at the time of payment) which payment shall not be added to basic annual salary but which shall be pensionable, For the purpose of this section, a break in continuous service shall not include a leave of absence without pay nor shall it include a resignation followed by re-employment within one year.
+(b)	Effective April 1,2004, an employee who has at least 20 years of continuous service in the Unified Court System and who has served the equivalent of 120 workdays in each fiscal year for which eligibility is being determined, shall receive an annual payment of $1,650 (prorated for employees working less than full time at the time of payment) which payment shall not be added to basic annual salary but which shall be pensionable. For the purpose of this section, a break in continuous service shall not include a leave of absence without pay nor shall it include a resignation followed by re-employment within one year.
+(c)(1) Effective April 1, 2005, an employee who has at least 20 year’s of continuous service in the Unified Court System and who has served the equivalent of 120 workdays in each fiscal year for which eligibility is being determined, shall receive an annual payment of $1,700 (prorated for employees working less than full time at the time of payment) which payment shall not. be added to
+-J 5-
+basic annual salary but which shall be pensionable. For the purpose of this section, a break in continuous service shall not include a leave of absence without pay nor shall it include a resignation followed by re-employment within one year.
+(2)	Effective April 1.2005, an employee who has at least 25 years of continuous service in the Unified Court System and who has served the equivalent of 120 workdays
+in each fiscal year for which eligibdity is being determined, shall receive an annual payment of $1,800 (prorated for employees working less than full time at the time of payment) which payment shall not be added to basic annual salary but which shall be pensionable. For the purpose of this section, a break in continuous service shall not include a leave of absence without pay nor shall it include a resignation followed by re-employment within one year.
+(d'Xi} Effective April 1,2006, an employee who has at feast 20 years of cwtirwityns service in the Unified Court System and who has served the equivalent of 120 workdays in each fiscal year for which eligibility is being determined, shall receive an annual payment of $1,750 (prorated for employees working less than full time at the time of payment) which payment shall not be added to basic annual salary but which shall be pensionable. For the purpose of this section, a break in continuous service shall not include a leave of absence without pay nor shall it include a resignation followed by re-employment within one year.
+(2)	Effective April 1, 2006, an employee who has at least 25 years of continuous service in the Unified Court System and who has served the equivalent of 120 workdays in each fiscal year for which eligibility is being determined, shall receive an annual payment of $1,850 (prorated for employees working less than full time at the time of payment) which payment shall not be added to basic annual salary but which shall be pensionable. For the pui-pose of this section, a break in
+-16-
+continuous service shall not include a leave of absence without pay nor shall it include a resignation followed by re-employment within one year.
+7.10	General salary increases applicable to all employees who are allocated to a salary grade shall apply to those employees who are not allocated to a salary grade.
+7.11	Upon promotion to a higher salary grade, an eligible employee shall receive those increases in salary its specified in Section 37(5} of the Judiciary Law.	'
+7.12	An eligible employee shall receive longevity increases in salary as specified in Section 37(3) of the Judiciary Law.
+7.13	Shift Differential. There shall be a shift differential of ten percent for all employees covered by this Agreement for all regularly scheduled hours worked between 6 p.m. and 8 a.m. with more than one hour of work between 6 p.m. and 8 a.m,
+An employee receiving overtime compensation (cash or compensatory time) shall not receive a shift differential for such work, but shall receive overtime pay or compensatory time if eligible under Article 10.
+ARTICLE 8
+HEALTH INSURANCE
+8.1	The State shall continue to provide health and prescription drug benefits administered by the Department of Civil Service, Employees enrolled in such plans shall receive health and prescript!on drug benefits to the same extent, at the same contribution level and in the same form and with the same co-payment structure that applies to the majority of represented Executive Branch employees covered by such plans receive such benefits.
+-17-
+8.2	The joint committee composed of representatives from the State and all unions representing nonjudicial employees of the Unified Court System shah continue. This committee shall investigate and make recommendations concerning health insurance-related issues including the elimination or duplication of State-provided and Benefits Fund benefits, the restructuring of benefits or additional benefits (provided such recommendations shall not increase the total cost of such benefits to the State) and the establishment of short-term and long-term disability insurance programs and wellness programs. This committee shall meet as necessary, but not more than twice a year, and shall review all health plan-related matters such as experience or utilization of benefits and premium increases, at meetings specifically scheduled for this purpose.
+8.3	The State and the Union have agreed to participate in a pilot Health Option program for calendar years 2005 and 2006. Under this pilot program, employees holding graded positions 3G-16 and below will be permitted to receive a credit of $400 towards their health insurance premium by electing to exchange three days annual leave effective with the first time sheet ending in January 2005 and January 2006. Employees who elect to participate in this pilot program must have a minimum of eight days annual leave and must make such election by November I of each year. The State will advise the Union by October 1, 2006, if this program will be continued.
+ARTICLE 9
+TIME AND LEAVE
+9.1	Attendance.
+(a)	The transition to a uniform automated computer-based system for the maintenance and submission of time and attendance records shall continue. Until such transition is complete, current
+-IS-
+practices regarding time and attendance records shall be continued in those locations where Such uniform procedures are not yet implemented,
+(b)	Tardiness, (1) The Administrative Director or his/her designee may establish rules and schedules of penalties for tardiness. Such rules and schedules shall be established after consultation with the Union al Labor/Management Committee meetings. Penalties imposed pursuant to such rules and schedules shall not preclude disciplinary action in cases of excessive tardiness.
+(2)	Tn the event of public transportation difficulties (including traffic accidents or hazardous road conditions not related to weather), strikes, severe storms or floods (including public transportation or traffic difficulties caused by them), or similar uncontrollable conditions affecting employees, tardiness may be excused by the Deputy Chief Administrative Judge (New York City Courts) or his/her designee,
+(3)	Lateness caused by a verified major failure of public transportation, such as a widespread or total power failure of significant duration or other catastrophe of similar severity, shall be excused,
+(4)	Employees shall charge tardiness to accrued annual leave on a minute-for-minute basis,
+(c)	The Deputy Chief Administrative Judge (New Y ork City Courts) or his/her designee shall excuse a reasonable amount of tardiness caused by direct emergency duties of duly authorized volunteer firefighters and volunteer ambulance drivers. In such cases, he/she may require the employee to submit satisfactory evidence that the lateness was due to such emergency duties.
+9,2	Annua J Leave.
+(a)(1) Employees shall be entitled to combined vacation, personal, business and religious holiday leave of 20 days annually and shall be entitled to one additional day for each completed year
+-I El-
+of continuous service in the Unified Court System up to a maximum of 27 workdays annually. An employee shall not earn annual leave credit for any biweekly pay period unless he/she is in full pay status Tot at least seven workdays during such biweekly pay period. Annual leave shall be credited on a biweekly basis.	<
+(2) A part-time, per’ diem or hourly employee eligible to earn annual leave credits pursuant to Section 9.2(g) shall earn annual leave credits as provided herein, but his/her total pay when absent on such leave shall be the amount which would have been due him/her if he/she had worked his/her usual number of hours or days during such period.
+(b)	A leave of absence without pay, or a resignation followed by reemployment in the Unified Court System within one year following such leave of absence or resignation, or Lime spent on a preferred List while awaiting reinstatement, shall not constitute an interruption of continuous service for the purpose of this section. However, leave of absence without pay for more than six months or the period between resignation and reemployment, during which the employee is not in the service of the Unified Court System, shall not be counted in determining eligibility for additional annual leave credits under this section.
+(c)	After the anniversary date on which an employee has been credited with seven days of additional annual leave credits, he/she shall thereafter earn annual leave for completed biweekly pay periods at a rate which will equal 27 days for 26 such pay periods.	■
+(d)	No accumulation of annual leave credits in excess of 54 days may be carried from one fiscal year to the next. Any such accumulation in excess of 54 days at the end of a fiscal year shall be converted into sick leave. The Deputy Chief Administrative Judge (New York City Courts) or his/her designee may grant an employee specific permission to exceed the 54-day maximum for a
+-70-
+period of no longer than one year where the needs of the court or court-related agency require that the employee postpone his/her vacation.
+(e)	The time at which annual leave may be used by an employee shall be subject to the prior approval of the Deputy Chief Administrative Judge (New York City Courts.) or his/her designee. All requests for use of annual leave shall be initiated by application of the employee on a form provided by the Deputy Chief Administrative Judge (New York City Courts) or his/her designee,
+(f)	As far as practicable, annual leave credits shall be used prior to appointment, promotion, reassignment or transfer to a different court or court-related agency. The court or court-related agency to which an employee is appointed, promoted, reassigned or transferred shall credit him/her with all of his/her accumulated annual leave credits not used prior to such appointment, promotion, reassignment or transfer.
+(g)	Part-time Definition. Employees compensated on a part-time, per diem or hourly basis who are employed at least half-time and who are expected by the Administrative Director or his/her designee to be so employed continuously for nine months without a break in service exceeding one full payroll period shall be eligible to observe holidays and to accrue pro rata annual leave and sick leave subject to the same limitations and restrictions as would apply if they were compensated on an annual salary basis.
+(h)	An employee who has completed 25 years of Unified Court System or State service shall be entitled to one additional annual leave day each year,
+(i)	An employee who has completed 30 years of Unified Court System or State service shall be entitled to one additional annual leave day each year, in addition to the cue additional annual leave day provided in Section 9.2(h).
+-21-
+(j)	Annua] leave accruals shall be used in units of not less than 15 minutes.
+(k)	Effective with the execution date of this Agreement, employees entering the sendee of the Unified Court System shall be entitled to accrue annual leave from their initial date of hire. An employee shall not earn annual leave credit for any biweekly pay period unless he/she is in full pay status for at least seven workdays during such biweekly pay period.
+(I)	If an employee's properly submitted request for use of accrued leave credits is denied, the employee shall receive, upon written request, a written statement of the reasons for such denial.
+(m)	Service officially credited for annual leave earning rates on April 1, 1977, shall be counted in determining eligibility under (h) and Ci) above.
+(n)	In the event the State determines that it will recess operations in a particular court or courts for at least four consecutive workdays, it may require employees during such recess to charge up to four days annual leave in each fiscal year.
+9.3 Sick Leave, (a)(1) Sick leave is absence with pay necessitated by the illness or disability of the employee, including illness or disability caused by pregnancy or childbirth.
+(2) Effective with the execution of this Agreement, an employee shall be allowed to charge a maximum of 15 days of sick leave in any one calendar year for absences from work in the event of illness of the employee's spouse; domestic partner; natural, foster, step or grand: parent; child; or any relative residing with the employee. Such leave is subject to notice to the supervisor in accordance with 9.3(c) and will be used by the employee to enable the employee to care for a family member as defined herein during a time of illness. Sick leave used for this purpose shall be charged separately as pail of uniform time and attendance procedures.
+-22-
+(b)	Employees snail earn sick leave credits at the rate of one-half day per biweekly pay period. Effective with the execution date of this Agreement, no more than 200 days of sick leave credits may be used for retirement service credit and to pay for health insurance in retirement. An employee shall not earn sick leave credits for any biweekly pay period unless he/sbe is in full-pay status for at least seven workdays during such biweekly pay period.
+A part-time, per diem or hourly employee eligible to earn sick leave credits pursuant to Scd.i.oTi 9.2(g) shall earn sick leave credits as provided herein, but his total pay when absent on such leave shall be the amount which would have been due him if he/shc hud worked his/her usual number of hours or days for such period.
+(c)	An employee absent on sick leave shall notify his/her supervisor, or the supervisor’s designee if appointed, of such absence and the reason therefor on the day of such absence and within sixty minutes after the beginning of his/her workday; provided, however, that where the work is Such that a substitute may be required, the Deputy Chief Administrative Judge (New York City Courts) or his/her designee may require earlier notification, but not earlier than two hours prior to the beginning of the employee’s workday. The Deputy Chief AdminlsUative Judge (New York City Courts) or his/her designee, shall waive such notice requirements where hc/she has determined that a medical emergency existed which prevented the employee from complying with such notice requirements. Sick leave credits maybe usedin such units as the Deputy Chief Administrative Judge (New York City Courts) or his/her designee may approve, but shall not be used in units of less than 15 minutes.
+(d)	Before absence for personal illness may be charged against accumulated sick leave credits, the Deputy Chief Administrative Judge (New York City Courts) or his/her designee may
+-23-
+require such proof of illness as may be satisfactory to him/her, or may require the employee to be examined, at the expense of the State, by a physician selected from a panel to be established by the parties. However, the State will not routinely require proof of illness for absences of three days or less. In the event of failure to submit proof of illness upon request, or in the event that, upon such proof as is submitted or upon the report of medical examination, the Deputy Chief Administrative Judge (New York City Courts) or his/her designee finds that there is not satisfactory evidence of illness sufficient to justify the employee's absence from the performance of his/her duties, such absence maybe considered as unauthorized leave and shall not be charged against accumulated sick leave credits. Abuse of sick, leave shall be cause for disciplinary action.
+(e)	The Deputy Chief Administrative Judge (New York City Courts) or his/her designee may require any employee who has been absent because of personal illness, prior to and as a condition of his/her return to duty, to be examined, at the expense of the State by a physician designated by the Administrative Director or his/her designee from a mutually acceptable panel of physicians, to establish that he/she is not disabled from the performance of his/her normal duties and that his/her return to duty will not jeopardize the health of other employees.
+(f)	In addition to personal illness of an employee, personal visits to a doctor, dentist, or other medical practitioner by the employee when approved in advance when practicable by the Deputy Chief Administrative- Judge (New York City Courts) or his/her designee may be charged against ■Accumulated sick leave, credits. Proof of the need for such absence, satisfactory to the Deputy Chief Administrative Judge (New York City Courts) cn his/her designee, may be required.
+(g)	When an employee is transferred or reassigned, his/her accumulated sick leave credits shall be transferred with him/her. When an employee is separated from service, for other than
+-24-
+disciplinary reasons, and is subsequently reinstated or reemployed within one year after such separation, or is reinstated by action of the Chief Administrative Judge, or is reinstated or reemploy cd while eligible for reinstatement from a preferred list, his/her sick leave credits accumulated and unused at the time of his/her separation shall be restored.
+(h)	Charges to an employee's annual leave shall be changed to a charge to sick leave during a period of verified hospitalization. An employee may request that a charge to annual leave be changed to a charge to sick leave during a period of documented verified illness. Such request shall be submitted to the Deputy Director for Employee Relations or his/her designee for final determination.
+(i)	Incapacitated Employees.
+(1)	When there is reason to believe that an employee to whom the disciplinary procedures of this Agreement apply is physically and/or mentally disabled from performing the duties of his/her position, the Deputy Chief Administrative Judge (New York City Courts) may require such employee to undergo a physical and/or psychiatric examination at the expense of the State, to be conducted by a medical officer selected by the Chief Administrative Judge or his/her designee, to establish whether he/she is able to perform the full duties of his/her position and/or whether his/her continued presence on the job will jeopardize the health and safety of himself/herself or o±er employees.
+(2)	Where the continued presence of an employee on the job represents a potential danger to persons or property or would significantly interfere with operations, the Deputy Chief Administrative Judge (New York City Courts) may place such employee on an involuntary leave of absence immediately, provided, however, that the employee shall be entitled to draw all accumulated
+-25-
+cind unused sick leave, annua] leave, compensatory time, overtime credits and other time allowances standing to his/her credit. If such employee is finally determined to be physically and mentally fit to perform the duties of his/her position, he/she shall be restored to his/her position and shall have any leave credits or salary that he/she may have lost because of such involuntary leave of absence restored to him/her, less any compensation he/she may have earned in other employment or occupation and any unemployment benefits he/she may have received during such period.
+(3)	Art employee who is temporarily disabled from performing the full duties of his/her position may, as far as practicable, be assigned to in-title and related duties in the same title during the period of the employee's disability. If a suitable position is not available, the State may offer the employee any available opportunity for appointment to another title for which the employee is qualified pursuant to applicable rules of the Chief Administrative Judge. If no suitable position is available, and there is no offer of appointment to another title, or the employee refuses such offer, such employee shall be placed on leave and allowed to draw all accumulated and unused sick leave, annual leave, compensatory time, overtime credits and other time allowances standing to his/her credit prior to being placed on leave without pay. An employee who chooses to draw his/her accumulated leave credits under this section shall cease to earn and accrue sick and annual leave credits during that period. An employee placed on leave pursuant to this subsection who is not reinstated within one year after the date of commencement of such leave, maybe terminated by the Deputy Chief Administrative Judge (New York City Courts) and his/her position may be filled by a permanent appointment.	■
+(4)	When an employee who is not permanently incapacitated from performing the duties of his/her position has been absent from and unable to perform the duties of his/her position by reason
+-26-
+of sickness or disability either for a consecutive period of one year or more or for a cumulative total of 250 workdays or more within a period of 24 consecutive calendar months and who reasonably cannot be expected to be able to resume performing his/her duties on a full-time basis shortly thereafter, his/her employment status may be terminated by the Deputy Chief Administrative Judge (New York City Courts) and his/her position may be filled by a permanent appointment.
+(5)	This section shall not be construed to require the extension of any employment beyond the Lime at. which it would otherwise terminate by operation of law, rule or regulation.
+(6)(a) Absent exceptional chcmnstances, prior to being placed on leave pursuant to Section 9,3(f)(2) or Section 9.3(i)(3) or terminated pursuant to Section 9.3{i)(4), or, under exceptional circumstances, as scon thereafter as reasonably possible, an employee shall be provided with written notice thereof, including written notice of the facts relied on therefor and written notice of the employee's right to appeal the determination and of the procedures for perfecting such appeal, Such notice shall be served in person or by first class, registered or certified mail, return receipt requested, upon the employee and the Union. If such person elects to appeal, he/she shall file a written request for a hearing with the Deputy Chief Administrative Judge (New York City Courts) within ten workdays from service of the notice of the determination to be reviewed. The request for such hearing shall be filed by the employee personally or by first class, certified or registered mail, return receipt requested.
+(b)	Upon receipt of such request, the Deputy Chief Administrative Judge (New York City Courts) shall supply to the employee or his/her personal physician or authorized representative, copies of all diagnoses, test results, observations and other data supporting the determination, and imposition of the leave or termination shall be hold in abeyance until a final determination is made
+-21-
+by the Deputy Chief Administrative Judge (New York City Courts) as provided in Section 9.3(i)(6)(c).
+(c)	A hearing shall be held by a bearing officer designated for that purpose by the Deputy Chief Administrative Judge (New York City Courts). The hearing officer shall be vested with all the powers of the Deputy Chief Administrative Judge (New York City Courts), and shall make a record of the hearing which shall, with his/her lecomrnendation, be referred to the Deputy Chief Administrative Judge (New York City Courts) for review and decision and which shall be provided to the employee free of charge. The employee shall, upon request, receive a copy of the transcript of the hearing without charge. The employee may be represented at the hearing by counsel or a representative of the Union and may present medical experts and other witnesses or evidence. The burden of proving mental or physical unfitness shall be upon the State. Compliance with technical rules of evidence shall not be required. The Deputy Chief Administrative Judge (New York City Courts) will render a final determination and may either uphold the original notice of leave of absence, withdraw such notice dr modify the notice as appropriate. A final determination of an employee's request for review shall contain notice to the employee of his/her right to appeal from such determination and of the procedures for perfecting such appeal.
+(d)	If such person elects to appeal, he/she shall make application to the Chief Administrative Judge. Such employee shall be afforded an opportunity to present facts and arguments, including medical evidence, in support of his/her position at a time and place and in such manner as may be prescribed by the Chief Administrative Judge. The reviewing authority shall make his/her determination up the basis of the medical records arid such facts and arguments as are presented.
+-28-
+(7)	An employee on leave pursuant to Section 9.3(i)(2) or Section 9.3(i)(3) may, within one year of the commencement of such leave, make application to the Deputy Chief Administrative Judge (New York City Courts) for a medical examination to be conducted by a medical officer selected for that purpose by the Chief Administrative Judge or his/her designee. An employee whose employment status has been terminated pursuant to Section 9.3(i)(3) or Section 9.3 (i) (4), may, within one year after the termination of his/her disability, make application to the Deputy Chief Administrative Judge (New York City Courts) for a medical examination to be conducted by a medical officer selected for that purpose by the Chief Administrative Judge or his/her designee. If, upon such medical examination, the medical officer shall certify that such person is physically and mentally fit to perform the duties of his/her former position, he/she shall be reinstated to the former position, if vacant, or to a vacancy in a similar position or a position in a lower title in the same occupational field in his/her former promotion unit. If no appropriate vacancy shall exist to which such reinstatement may be made, or if the work load does not warrant the filling of such vacancy, the name of such person shall be placed on a preferred list for his/her former position in his/her former promotion unit, and he/she shall be eligible for reinstatement in such former promotion unit from such preferred list for a period of four years. In the event that such person is reinstated in a position in a title lower than that of his/her former position, his/her name shall be placed on the preferred eligible list for the former position or any similar position in such former promotion unit.
+(8)	This section shall not be deemed to modify or supersede any other provisions of law applicable to the reemployment of persons retired from the public service on account of disability.
+(9)	Notwithstanding any other provision of this Agreement, when an employee's disability permanently incapacitates him/her from performing the duties of his/her position, his/her
+employment status may be terminated and his/her position may he filled by a permanent appointment. Such employees shall he entitled to due process and hearing as enumerated in Section 9,3(i).
+(j) Sick Leave Bank. The Labor/Management Committee established foj- the purpose of discussing ^nd recommending the establishment of a sick leave bank shall continue.
+9.4 Workers1 Compensation Leave.
+(1 )(4) Employees necessarily absent from duty because of an occupational injury, disease or condition as defined in the Workers' Compensation Law, shall be eligible for a Workers' Compensation Benefit as provided in this Article. Determinations of the Workers' Compensation Board regarding compensability of claims shall be binding upon the parties.
+(b)	A workers'' compensation injury shall mean any occupational injury, disease or condition found compensable as defined in the Workers' Compensation Law.
+(2)(a) Effective- with the execution of this Agreement, an employee who suffers a compensable occupational injury shall, upon completion of a ten-workday waiting period, be placed on a leave of absence without pay for all absences necessitated by such injury and shall receive the benefit provided by the Workers' Compensation Law except as set forth in this Article.
+(b)	An employee necessarily absent for less than a full day in connection with a workers' compensation injury as defined in 9.4(1 )(b) due to therapy, a doctor's appointment, or other requited continuing treatment, may charge accrued leave for said absences.
+(c)	The State will make previously authorized payroll deductions for periods the employee is in pay status receiving salary sufficient to permit such deductions. The employee is responsible
+-30-
+for making payment for any such deductions during periods of leave without pay, such as those provided in 9.4(2) (a) above.
+(3)	An employee required to serve a waiting period pursuant to Sub section 2(a) shall have the option of using accrued leave credits or being placed on leave without pay. Where an employee charged'credits, upon receipt of documentation from the State Insurance Fund issuing a credit to the State for the time charged, the employee shall be entitled to restoration of credits charged proportional to the net monetary award credited to the State by the Workers' Compensation Board.
+(4)	When annual leave credits are restored pursuant to this Article and such restoration causes the total annual leave credits to exceed 54 days, a period of one year from the date of the return of the credits or the date of return to work, whichever is later, is allowed to reduce the total accumulation to 54 days,
+(5)	An employee receiving workers' compensation payments for a period of disability found compensable by the Workers' Compensation Board shall be treated as though on .the payroll for the length of the disability not to exceed twelve months per injury for the sole purposes of accruing seniority, continuous service, health insurance and Employee Benefit Fund contributions normally made by the State, accrual of annual leave and sick leave. Additionally, such employee shall be treated as though on payroll for the period of disability not to exceed twelve months per injury for the purposes of retirement credit and contributions normally made by the State and/or the employee.
+(6)(a) Where an employee's workers' compensation claim is controverted by the State Insurance Fund upon the ground that the disability did not arise out of or in the course of employment, the employee may utilize leave credits pending a determination by the Workers' Compensation Board.
+•3J-
+(b)	If the employee's cimi.ro ver led or contested claim is decided in the employee's favor, any leave credits charged shall be restored proportional to the net monetary award credited to the State by the Workers' Compensation Board,
+(c)	If the employee was in leave without pay status pending determination of a controverted or contested claim, and the claim is decided in the employee's favor, the employee shall receive the benefits in Paragraph 9.4(5) for the period covered by Ute award not Co exceed twelve months per injury.
+(d)	Where a claim for workers' compensation is controverted or contested by the State Insurance Fund, the parties will abide by the determination of the Workers' Compensation Board.
+(7)	(a) Jf the date of the disabling incident is prior to April 1,1986, tire benefits available shall be as provided in the 1982-85 State/DC 37 Agreement.
+(b)	If the date of the disabling incident is on or after April 1, 1986 and prior to the date of execution of this Agreement, the benefits available shall be as provided in the 1988-91 State/DC 37 Agreement.
+(c)	If the date of the disability incident is on or after June 17, 1993, the benefits available shall be as provided herein.
+(8)	The State and DC 37 shall establish a committee whose purpose shall include but not be limited to reviewing and making recommendations on the following: (1) the effects of the implementation and administration of the workers' compensation statutory benefit, including resulting savings and costs associated with it; (2) the accident and injury data focusing on incidence of injuries or accidents in order to develop prevention strategics and means to reduce and/or eliminate the risk of on the job injury.
+-32-
+(9)	The State retains all its managerial rights to monitor all workers' compensation claims.
+9.5 Other Leaves With Pay.
+(a)	Leave for Subpoenaed Appearance and Jury Attendance. Upon application io the Deputy Chief Administrative Judge (New York City Courts) or his/her designee, together with proof satisfactory to the State of the necessity of each day's absence from work, an employee shall be granted a leave of absence with pay for documented absences resulting from jury service or appearance as a witness pursuant to subpoena or other order of a court or body. Provided, however, that this section shall not apply to any absence by an employee occasioned by such an appearance where the employee, or his/her relative as defined in paragraph (f) of this subdivision, has a personal interest in the underlying action or proceeding; nor shall this section apply to any absence by an employee who receives a fee for testifying as an expert witness.
+Employees entitled to leave under this section shall not be entitled to receive any remuneration for jury service except mileage and transportation expenses when serving on a New York State Unified Court System jury. Should an employee receive a New York State Unified Court System jury fee, the State will require reimbursement from the employee.
+(b)	Leave for Civil Service Examinations. An employee shall be allowed leave with pay to take Civil Service examinations at the appropriate examination center for positions in the Unified Court System. An employee also shall be allowed leave with pay to appear for an official investigation or appointment interview for competitive class, noncompetitive class or exempt class positions in the Unified Court System. Pnor to such leave being granted, due notice and proof satisfactory to the State shall be submitted by the employee to the Deputy Chief Administrative Judge (New York City Courts) or his/her designee.
+-33-
+Upon application to the Deputy Chief Administrative Judge (New York City Courts) or his/her designee, together with proof satisfactory to the State, employees registered to take the New York State Bar examination shall be allowed two days leave with pay to take the Bar examination and. if necessary, one day leave with pay to review the results of such examination.
+(c)	Lea ve for Quarantine. If an employee who is not ill himself/herself is required to remain absent because of quarantine and presents a written statement of the attending physician or local health officer proving the necessity of such absence, he/she shall be granted leave with pay for the period of his/her’ required absence, without charge against accumulated sick leave, annual leave or overtime credits. Prior to return to duty, such employee may be required to submit a written statement from the local health officer having jurisdiction that his/her return to duty will not jeopardize the health of other employees.
+(d)	Leaves Required by Law. An employee shall be allowed such other leaves of absence with pay, including military leave, as are required by law.
+(e)	Leave for Civil Defense Duties, Upon certification by the State Director of Civil Defense of the necessity for the participation in State or local civil defense drills of an employee enrolled as a civil defense volunteer and required to perform civil defense duties, pursuant to the State Defense Emergency Act, the Deputy Chief Administrative Judge (New York: City Courts) or his/her designee, may allow such employee to absent himself/hersclf from his/her position, without loss of pay or charge against leave credits, for such time as is necessary for participation in such drills, but not exceeding cumulatively five workdays per calendar year.
+(f)	Death in the Immediate Family. Leave of up to four consecutive State workdays (based on a standard Monday to Friday workweek and not to exceed a total of 28 work hours), shall be
+-34-
+allowed immediately following the death of an employee’s spouse; domestic partner; natural, foster or step: parent; child; brother or sister. Such four consecutive State workdays also shall be allowed following the death of an employee’s father-in-law or niothei-in-J aw; grandparent or grandchild; any relative residing with the employee; or for an individual for whom the employee has been the primary care giver. Additionally, effective with the execution date of this Agreement, leave of up to two consecutive State workdays (not to exceed 14 work hours) shall be allowed immediately following the death of an employee’s son-in-law or daughter-in-law. In exceptional cases where the deceased is unavailable for burial or services, the appropriate local Administrative Judge (or his/her designee) may, in his/her discretion, upon an employee’s request, waive the requirement that death in the family leave may be used immediately following the death.
+For those employees regularly scheduled to work on a weekend or holiday, such days shall be considered State workdays for purposes of this section only. Prior notice and authorization is not required for leave under this paragraph. When a death in an employee’s immediate family occurs while he/she is on annual leave, such time as is excusable for death in the family shall not be charged to annual leave,
+(g)(1) Extraordinary Circumstances. An employee who has reported for duty, and because of extraordinary circumstances beyond his/her control, is directed to leave work, shall not be required to charge such directed absence during such day against leave credits. An employee who does not report for duty because of circumstances beyond his/her control shall not be required to charge such absence during such day against leave credits if the court or other facility where the employee is required to report is closed due to such extraordinary circumstances. Any release or excusal of employees due to extraordinary circumstances does not create any right to eq lii valent time
+-is-
+off by employees not adversely affected by the extraoidinaiy circumstances. Only designated management officials may direct employees to leave work. The Deputy Chief Administrative Judge (New York City Courts) or his/her designee shall promulgate a list of personnel who have this authority.
+(2) As soon as practicable following the execution of this Agreement, the State shall implement a pilot program which will provide for the crediting of compensatory time to employees required to work when Ltseir court or other facility is closed due to extraordinary circumstances and employees assigned have been excused without charge to leave credits. The State will examine the results of the pilot program by December 31,2006, and make a determination as to whether it should be continued. The decision to continue or discontinue the program shall not be grievable or otherwise reviewable in any forum.
+(h)	Conventions. Subject to prior notice to and authorization by the Deputy Chief Administrative Judge (New York City Courts) or his/her designee, leave with pay shall be granted for attendance of delegates and alternates at State or national conventions of veterans’ organizations, volunteer firefighters’ organizations, and other such organizations as may be designated by the Deputy Chief Administrative Judge (New York City Courts) or his/her designee.
+(i)	Blood Donations, Subject to the reasonable operating needs of the court or court-related agency, an employee shall be allowed three and one-half hours leave with pay for blood donations made during an employee’s normal working hours. Such leave only shall be used on the day such donation is made and shall include all time spent making such donation (including travel time to and from the collection point). In the event that an employee donates blood during working hours pursuant to a court-sponsored blood drive and is required to return to work immediately following
+-36-
+such donation and is not allowed the full three and one-half hours io make such donation, he/she shall be granted three and one-half hours of compensatory time. This provision shall not apply to an employee who receives a fee for such donation.
+(j)	Internal Discrimination Claims. Subject to the reasonable operating needs of the court or court-related agency and with the prior written approval of the Unified Court System's Workforce Diversity Office, an employee shall be allowed leave with pay (i) to consult with the Workforce Diversity Office Unit prior to filing an Internal Discrimination Claim pursuant to the Discrimination Claim Policy and Procedure; or, (ii) to attend meetings or consultations with the Workforce Diversity Office in relation to a filed Internal Discrimination Claim. Such leave shall include reasonable travel time.
+(k)	Other Leaves With Pay. The Deputy Chief Administrative Judge (New York City Courts) or his/her- designee may grant leaves with pay for reasons not itemized in this section.
+(I)	CAT Training. Upon application to the Deputy Chief Administrative Judge (New York City Courts) or his/her designee, with proof satisfactory to the State, a court reporter may be granted up to two days leave with pay for computer-aided transcription (MCAT") training which enables an employee to initially become CAT-proficient.
+(m)	Real-Time Translation Training. Effective with the execution of this Agreement and subject to the reasonable operating needs of the court or court-related agency, together with proof satisfactory to the State, a court reporter may, in the discretion of the Deputy Chief Administrative Judge (Courts Within New York City) or his/her designee, be granted up to two days leave with pay to attend real-time translation training.
+-37-
+9,6	Leaves Without Pay.
+(a)	Leave of Absence; Duration. A permanent employee may, in the discretion of the Deputy Chief Administrative Judge (New York City Courts) or his/her designee, be granted a leave of absence, without pay, for a period not exceeding two years. Such leave may be extended beyond two years, for periods aggregating not in excess of an additional two years. In an exceptional case, a further extension may be permitted by the Deputy Chief Administrative Judge (New York City Courts) or his/her designee for good cause shown and where the interests of the government would be served. For the purposes of this section, time spent in active service in the military forces of Lhe United States or of the State of New York shall not be considered in computing the period of leave.
+This section shall not be construed to require the extension of any employment beyond the time at which it would otherwise terminate by operation of law, rule or regulation.
+(b)	Successive Leaves of Absence. Where a leave of absence without pay has been granted for a period which aggregates two years, or more if extended pursuant to subdivision (a) of this section, a further leave of absence without pay shall not be granted unless the employee returns to his/her position and serves continuously tliercin for six months immediately preceding the subsequent leave of absence.
+(c)	Leave for Child Care, A combined confinement and child care leave of absence without pay shall be granted to an employee (male or female) who becomes the parent of a child up to four years of age, either by birth or by adoption, for a period of up to 12 months. A period beyond 12 months, but not more than another successive 12-month period may be granted at the discretion of the Deputy Chief Administrative Judge (New York City Courts) or his/her designee subject to the staffing needs of the court. The use of this maximum allowance will be limited to one instance only.
+-SB-	'
+Confinement and child care leave is leave without pay. Prior to the commencement of such leave an employee may at his/her option be continued in pay status for a period of time equal to all of the employee's unused accrued annual leave. A pregnant employee shall have the option to be continued in pay status for a period of time equal to all or part of her period of disability using accrued sick leave or annual leave,
+9.7	Payment of Accruals Upon Separation from Unified Court System.
+(a)	An employee, his/her estate or beneficiary, as the case may be, shall be compensated in eash for overtime credits, compensatory time (except where provision is made for the transfer of leave credits), annual leave credits accrued and unused as of the effective date of separation up to a maximum payment equivalent to one year's salary, except that in the case of resignation, the Administrative Director or his/her designee may require, as a condition for such payment, that written notice of such resignation be given to the Administrative Director or liis/her designee at least two weeks prior to the last day of work.
+(b)	An employee on leave from his/her position due to his/her entry into the Armed Forces of the United States for active duty (other than for training as defined by Title 10 of the United States Code) may elect to receive compensation in cash for accrued and unused annual leave and overtime credits not in excess of 30 days in each category accrued and unused as of the last date on which his/her name appeared on the State payroll.
+(c)	No employee who is placed on the payroll of the State pursuant to Section 39 of the Judiciary Law shall be entitled to compensation under this section for any time or leave credits accrued before April 1,1.977, except in accordance with Section 39 of the Judiciary Law.
+-39-
+9.8	Written Agreement Required for Transfer of Leave Credits. For the purposes of applying the provisions of this Article, employment in the Executive or Legislative tranches of State service shall be credited as service in the Unified Court System; provided, however, that except as otherwise provided by law, leave credits may not be transferred upon movement from such positions to positions within the negotiating unit except where such credits arc earned and accumulated in accordance with attendance and leave provisions which are substantially equivalent to the time and leave provisions of this Agreement and there is a written agreement between the President of the Civil Service Commission and the Chief Administrative Judge governing the transfer of leave credits upon such movements. Other public employment may be credited as service in the Unified Court System for purposes of determining transfer ability of leave credits provided such employment was subject to attendance and leave provisions substantially equivalent to the time and leave provisions of tlris Agreement, and provided there is a written agreement between the Chief Administrative Judge and the public agency wherein such employment occurred governing the crediting of such employment and the transfer of leave credits upon movement of employees to and from such agency and positions included within this negotiating unit.
+9.9	Holidays. All legal holidays enumerated herein shall be allowed as paid days off, or holiday pay as set forth in Section 9.11 shall be allowed in lieu thereof. The days prescribed by law for the observance of New Year’s Day, Martin Luther King, Jr.'s Birthday, Lincoln's Birthday, Washington's Birthday.,Memorial Day, Independence Day, Labor Day, Columbus Day,Election.Day, Veteran's Day, Thanksgiving Day and Christmas Day shall be observed as holidays.
+-40-
+A Statewide committee will be established with representatives from all unions representing nonjudicial court employees to ascertain whether ths day after Thanksgiving Day could be
+substituted for a presently existing holiday.
+9	10 Retroactive Time Credits. Nothing in this Article shall be construed to provide for the granting of annual leave, sick leave or other time or leave credits for service rendered prior to the effective date of this Agreement, provided, however, that nothing in this Agreement shall affect time or leave credits lawfully earned prior to the effective date of this Agreement,
+9.11	Holiday Pay,
+(a)	An employee who is entitled to time off with pay on days observed as holidays by the State as an employer will receive at his/her option additional compensation for time worked on such days or compensatory time off. Such additional compensation for each such full day worked will be at the rate of 1/10 of his/her biweekly rate of compensation. Such additional compensation for less than a full day of such work will be prorated. Such rate of compensation will include geographic, location, inconvenience and shift pay, and assignment differentials as maybe appropriate to the place or hours worked. In no event will an employee be entitled to such additional compensation or compensatory time off unless he/she has been scheduled or directed to work.
+(b)	Shifts which begin at 11 p.m. or later on the day before a holiday shah be deemed to have been worked entirely on the holiday and shifts which begin at 11 p.m. or later on the holiday shall be deemed not to have been worked on the holiday,
+(c)	An employee required to work on Thanksgiving Day (the fourth Thursday in. November), Christmas Day (December 25) or New Year's Day (January 1) shall receive a 100% cash premium for all hours worked on such day in addition to any holiday pay or compensatory time off granted
+-■■II-
+under Section 9.1 1(a). Compensatory time earned pursuant to this section may be scheduled by the Deputy Chief Administrative Judge (New York City Courts) or his/her designee either prior to or after the day on which the holiday fails.
+9.12	Holiday Falling on Saturday. A holiday falling on a Saturday shall be observed on the preceding Friday or following Monday subject to the operational or staffing needs of the court or agency and as determined by the Deputy Chief Administrative Judge (New York City Courts) or his/her designee.
+9,13	Workweek, The State and the Union recognize their mutual goal of best serving the public. The workweek shall be 35 hours. Whenever practicable, the normal workweek shall consist of five consecutive workdays separated by two consecutive days off. This shall not constitute a bar to the consideration of a flexible workweek or a flexible workday. Permanent changes in employees1 workweek or work schedule shall be made upon reasonable notice to the Union. The impact of permanent changes in employees' workweek or work schedule shall be subject to negotiations with the Union. This section shall not, however, be a bar to consideration of Alternative Work Schedule requests from individuals.
+9.14	Conferences. Four days leave per annum without charge to an employee's leave credits may be allowed to attend conferences of recognized professional organizations. Such conferences must be directly related to the employee's profession or professional duties. This leave is subject to the approval of the Deputy Chief Administrative Judge (New York City Courts) or his/her designee and the staffing needs of the unit.
+9.15	Request for Reassignment or Transfer. To the extent that an employee's request for reassignment or transfer can be accommodated, the State shall do so. The issue of re assignments and
+Transfers shall be a subject for cot si derail on by the Lab or/Management. Committee which may suggest and make recommendations regarding procedures to be established,
+9.16	Scheduling. Subject to the reasonable operating needs of the court or court-related agency, employee service in title in the Unified Court System shall be used to resolve conflicts among employees in the same title in scheduling hours of annual leave, holiday work or flexible time, If two or more employees in the same title have the same length of service in title and in the Unified Court System, a conflict in scheduling shall be resolved by lot. Prior service which was credited by the Unified Court System on April 1,1977 will be used in determining length of service.
+9,17	Early Release. If the THI index reaches 80 or above, the Deputy Chief Administrative Judge (New York City Courts) shall authorize dismissal of employees in non-air-conditioned courtrooms and offices without charge to leave credits no later than 4:00 p.m. In the event it is necessary. for an employee to remain on duty as part, of a skeleton force, he/she shall receive compensatory time. Notification of such early release shall be made to the Courts and the Union by a designee of the Deputy Chief Administrative Judge (Mew York City Courts).
+ARTICLE 10
+OVERTIME
+10.1	Employees shall receive compensation for work performed between 35 and 40 hours per week in cash compensation at a straight-time rate as provided in Section 10.6, or compensatory time, pursuant to Section 10.8, at the employee's option.
+Employees shall receive compensation for work performed in excess of 40 hours per week at a rate equal to one and one-half times their hourly rate of pay as provided in Section 10,6. It is the
+-42-
+policy of ths State, that overtime work be held to a minimum consistent with the needs and requirements of sound and orderly administration of State government.
+10.2	Definitions. Wherever used in this Article:
+(a)	"Overtime" shall mean only hours worked in excess of 35 hours in any workweek by an eligible employee.
+(b)	An "eligible employee" shall mean any employee who is not deemed ineligible to earn overtime pay. as provided under Section 10.3.
+(c)	"Scheduled overtime" shall mean overtime which is susceptible to scheduling and approval in advance of need.
+(d)	"Unscheduled overtime" shall mean overtime which is necessitated by emergency conditions which cannot be anticipated in advance.
+10.3	Exclusions.
+(a)	Employees who meet the criteria for exclusion from the overtime provision of the Fair Labor Standards Act (“FLSA”) shall not be eligible to receive contractual overtime compensation.
+(b)	With respect to previously-made determinations on contractual overtime exclusions such determinations shall be continued upon execution of this Agreement.
+(c)	In the event that the State determines that an individual employee whose title had previously been considered as eligible for contractual overtime compensation meets the FLSA criteria for exclusion, it will provide the Union with thirty (30) days prior notice of such determination and afford the Union, during this thirty (30) day period, with the opportunity to assert that such individual employ ee/ti tie should continue to be eligible for overtime compensation.
+-44-
+(d)	With respect to new titles, the State shall undertake a review of all such titles, as they are established, for the purpose of determining overtime eligibility for contractual overtime nsingFLSA criteria. Upon request by the Union, the Slate and the Union shall meet to discuss whether the title in question should be eligible to receive contractual overtime compensation,
+(ej The Administrative Director may waive the restriction contained in Section 10.3(a) whenever he/shs determines that strict adherence tn such restriction would be detrimental to the sound and orderly administration of the Unified Court System.
+(f)	Nothing in this section shall be construed as a waiver of the Union’s right to appeal the State’s determinations to the appropriate forum, or as a waiver of the State’s right to implement changes in accordance with the provisions herein.
+10.4	Authorization for Overtime Work,
+(a)	Unscheduled overtime work must be authorized in advance by the Administrative Judge’.
+(b)	Notification of unscheduled overtime shall be forwarded to the Director of Budget and Finance at the close of the biweekly payroll period in which the overtime is authorized.
+(c)	Scheduled overtime work, must have the prior approval of the Administrative Director or his/her designee.
+'The term Administrative Judgi; refers to:
+Administrative Judge for (he Ne* York City Civil Court
+Administrative Judge for the New York City Criminal Court
+Administrative Judge for the Now York City Family Court
+Administrative Judge for the Civil Branch, Supreme Court, Bronx County Adtnininttativc Judge for the Criminnl Branch, Supreme Court, Bronx Con illy Administrative Judge for the Civil Branch, Supreme Court, New York County Administrative Judge for the Criminal Branch, Supreme Court, New York County Administrative Judge for the Supreme Court, Kings County Administrative Judge for the Supreme Court, Queens Cmjuly Administrative Judge for tlie Surrogate's Court, New York County
+-45-
+(d)	The Deputy Chief Administrative Judge (New York City Courts) will take all reasonable steps to provide for an equitable distribution of scheduled overtime opportunities among qualified permanent employees of the appropriate work unit, provided, however, that such overtime opportunities may be denied to an employee who has been determined to have a poor record of attendance and/or tardiness by the final determination of discipline or the alternate discipline procedure for time and attendance infractions, 'With regard to employees denied such overtime opportunities for time and attendance infractions, such exclusion shall not exceed six months following the final determination of discipline or alternate discipline procedures,
+(e)	There shall be no rescheduling of days off or hours of work to avoid the payment of overtime,	■
+(f)	In the absence of a sufficient number of volunteert, unscheduled overtime can be required of any employee who, in the judgment of his/her supervisor, is needed to do the work.
+(g)	Overtime performed in a higher or lower title can be performed only on a volunteer basis. Extra service work, can also be performed on a voluntary basis.
+(h)	Eligible employees shall be eligible for overtime for actual travel and/or service performed while in travel status, provided that;
+(1) The trip is not between the employee's residence and his/her official workstation.
+(2) The trip is for the purpose of conducting State business and is authorized in advance.
+{3) Authorization is granted only when travel during regular work hours is Jess economical or unduly delays the employee’s return to his/her official workstation.
+(4) The trip is not taken for the purpose of attending a professional conference or convention.
+10,5	Determination of Overtime Earned.
+-46-
+(a)	Total hours worked shall include all the time worked by an employee when required to be on duty or at a prescribed workplace and shall exclude al] absences from duty and all time allowed for meals. Overtime work shall also exclude all preparation of transcripts except those transcripts prepared pursuant to Section 299 of the Judiciary Law provided such work is performed beyond 40 hours, and provided that no other compensation is received from any other source by the court reporter for preparation of the transcript, In addition, the court reporter's supervisor must determine that such transcript cannot be produced during regular working hours and the supervisor must give prior written approval for the preparation of the transcript on an overtime basis. Such work will be deemed scheduled overtime work. For purposes of computing total hours worked in a week, time during which an employee is excused from work because of holidays, sick leave at Full pay, annual leave, compensatory time off or other leave al full pay shall be considered as time worked by the officer or employee.
+(b)	Employees who volunteer to standby in their homes or who are required, ordered, and/or scheduled on an involuntary basis to standby in their homes subject to recall shall receive payment on the basis of one-half hour overtime for each hour of standby time in cash, if eligible for cash payment or compensatory time off, if eligible for compensatory time.
+(c)	Employees recalled from home for unscheduled overtime work shall be guaranteed overtime payment in cash for at least four hours, if eligible for cash payment, provided, however, if an employee is ineligible for cash over tin be payment, he/she shall be guaranteed compensatory time off for at least four hours.
+(d)	Overtime shall be paid on a minute-for-minute basis.
+-47-
+10.6	Computation ot Cash Compensation. Payment for overtime shall be computed in the
+following manner;
+(a)	If an employee works overtime in his/her regular position or title or in a position the title of which is allocated to the same salary grade as his/her regular position, he/she shall be compensated for work between 35 and 40 hours at a straight-time rate and for work in excess of 40 hours at one and one-half times the regular hourly rate of pay.
+(b)	When the overtime is worked in a position allocated to a salary grade lower than the employee's regular position, he/she shall be compensated for work between 35 and 40 hours at a straight-time rate and in excess of 40 hours at one and one-half times the hourly rate of pay of the maximum salary of the lower position plus such longevity increments to which he/she would otherwise be entitled were he/she in such lower grade position, but in no event in excess of a straight-time rate of pay in his/her regular position for work between 35 and 40 hours and in excess of one and one-half times the hourly rate of pay of his/her regular position for work in excess of 40 hours.
+(c)	When the overtime is worked'in a position which is allocated to a higher salary grade ±an the employees regular position,' he/she shall be compensated for work between 35 and 40 hours at a straight-time rate and in excess of 40 hours at one and one-half times the hourly rate of compensation be/she would be entitled to if he/she were permanently promoted to the higher position.
+(d)	The hourly rate of compensation shall be determined by dividing the basic annual rate of compensation plus any additional compensation payable because of an assignment differential, the location of employment, or because work is performed between 6 p.rn. and 8 a.m. by 1,827. The
+-4B-
+hourly rate of compensation for per diem. employees shall be determined by dividing the per diem rate by seven.
+IO 3 Time of Payment of Cash Compensation. When cash payment for scheduled overtime has been approved, employees shall be paid for such overtime compensation in excess of 35 bul less than 40 hours per week at the employee's option, and for more than 40 hours by the close of the second biweekly payroll period following the period during which the overtime is earned.
+10.8	Compensatory Time Off. Eligible employees shall have the option to receive either cash compensation at a straight-time rate or compensatory time off on an honr-for-hour basis for overtime worked in excess of 35 hours but not in excess of 40 hour's in a workweek. Prior to October 1,1988, eligible employees shall elect, in writing, on forms to be provided by the State, cash compensation or compensatory time off for such overtime work. New employees shall make an initial election at the commencement of service in an eligible title. Thereafter, employees shall be allowed to modify such election prior to the start of each new calendar quarter. Such modification shall be effective following the first day of the new calendar quarter. An employee who fails to file such election on a timely basis shall be compensated on a cash basis.
+10.9	Overtime Meal Allowances. A meal allowance of $6.00 will be paid to any employee required to work at least three hours beyond his/her normally scheduled workday unless he/she is receiving cash compensation for such overtime work.	'
+An employee ineligible to receive cash compensation for overtime worked who is required to work at least seven hours on his/her regularly scheduled day off, shall be entitled to receive one overtime meal allowance. An employee required to work at least ten hours on his/her regularly scheduled day off, shall be entitled to receive a second overtime meal allowance.
+
+I{]. 10 Exceptions. The restrictions and limitations contained in this Article may be waived by the Administrative Director whenever he/she determines that strict adherence to the rules would be detrimental to the sound and orderly administration of the Unified Court System.
+ARTICLE 11
+PRE-TAX TRANSPORTATION PROGRAM
+The State agrees to extend a pre-tax transportation program benefit to employees when such becomes permanently available to Executive Branch employees represented by the Civil Service Employees Association, Inc.
+ARTICLE 12
+TRAVEL EXPENSES
+12.1	Per Diem Meal and Lodging Expenses. Ilie State agrees to reimburse, on a per diem basis, as established by the employee travel rules of the Chief Administrative Judge, employees who are eligible for travel expenses, for their actual and necessary expenses incurred while in travel status in the performance of their official duties for hotel lodging, meals and incidental expenses related thereto (hotel tips, etc.) for a full day at rates stated in the employee travel rules of the Chief Administrative Judge for managerial or confidential employees.
+12.2	Mileage Reimbursement. The State shall provide, subject to the employee travel rules of the. Chief Administrative Judge, a maximum mileage allowance rate per mile equal to the maximum mileage allowance provided by the Federal Government to its employees Cor the use of personal vehicles for those persons eligible for such allowance in connection with official travel. The personal vehicle mileage reimbursement rate for employees in this unit shall be consistent with the maximum mileage allowance permitted by the Internal Revenue Service ("IRS").
+-.w-
+ARTICLE 13
+DISCIPLINARY PROCEDURE
+13.1	Applicability, An officer oi employee described in paragraph (a), (b), or (c) below shall not be removed or otherwise subjected to any disciplinary penalty provided in this section except for incompetency Oi' misconduct shown after a hearing upon stated charges pursuant, to tins section, unless such officer 01 employee is granted the option and elects to follow the alternative administrative discipiinaiy procedure set forth in Section 13.8 of this Article.
+(a)	An officer or employee holding a position by permanent appointment in the competitive class of the classified service, or,
+(b)	An officer or employee holding a position by permanent appointment or employment in the classified service, who is an honorably discharged member of the Armed Forces of the United States having served therein as such member in time of war as defined in the Civil Service Law, or who is art exempt volunteer firefighter as defined in the General Municipal Law, except where the officer or employee described in this paragraph holds a position designated by the Chief Administrative Judge as confidential or requiring the performance of functions influencing policy, or,
+(c)	An officer or employee holding a position in the noncompetitive class other than a position designated by the Chief Administrative fudge as confidential or requiring, the performance of functions influencing policy, who since his/her last entry into the service of the Unified Court System has completed at least five years of continuous service in the noncompetitive class in a position or positions not so designated as confidential or requiring the performance of functions influencing policy.
+-51-
+13.2	Procedure, An officer or employee against whom removal or other disciplinary action 1$ proposed shall have written notice thereof and of the reasons thei'efon shall be furnished a copy of the charges preferred against him/her and shall be allowed at least eight days for answering the same in writing. Service of a copy of the charges shall be made by personal service if possible. If service cannot be effectuated by personal service, it shall be made by certified mail, return receipt requested. The Union shall be advised hy certified mail, return receipt requested, of the name and work location of the officer or employee against whom charges have been preferred, The charges shall be made by the Deputy Chief Administrative Judge (New York City Courts) and the hearing shall be held by a person designated by him/her for that purpose. The Deputy Chief Administrative Judge (New York City Courts) shall, upon consultation with the Union as provided in Section 13.9, establish a panel of qualified persons who may be designated to conduct the hearing.
+The person or persons designated to conduct the hearing shall, for the purpose of such hearing, be vested with all the powers, as appropriate, of the Deputy Chief Administrative Judge (New York City Courts) or the Administrative Director and shall make a record of such hearing which shall, with recommendations, be referred, as appropriate, to such Deputy Chief Administrative Judge (New York City Courts) or Administrative Director for review and decision. The Hearing Officer shall, upon the request of the officer or employee against whom charges are preferred, permit him/her to be represented by counsel, or by a representative of the Union and shall allow him/her to summon witnesses in his/her behalf. The burden of proving incompetency or misconduct shall be upon the State. Compliance with technical rules of evidence shall not be required. The officer or employee against whom charges are preferred shall, upon request, be entitled to a copy of the recommendations of the Hearing Officer and shah be allowed three days to comment, upon them, in
+52-
+writing, as appropriate, to the Deputy Chief Administrative Judge (New York City Courts) or Administrative Director who appointed the Hearing Officer.
+13.3	Suspension Pending Determination of Charges. Pending the hearing and determination of charges of incompetency or misconduct, the officer or employee against whom such charges have been preferred may be suspended without pay for a period not exceeding 30 days. In the sole discretion of the Deputy Chief Administrative Judge (New York City Courts) or his/her designee, such suspension without pay may be charged to an employee’s annual leave accruals. Such decision to permit an employee to charge annual leave accruals shall not be grievable or otherwise reviewable in any other forum.
+13.4	Determination of Charges. If such officer or employee is found guilty of the charges, the penalty or punishment may consist of a reprimand, a fine not to exceed $200 to be deducted from the salary or wages of-such officer or employee, suspension without pay for a period not exceeding three months, demotion in salary and title or dismissal from the service or a combination of a fine not to exceed $200 and a suspension without pay for a period not exceeding three months; provided, however, that the time during which an officer or employee is suspended without pay pursuant to Section 13.3 may be considered as part of the penalty and the officer or employee shall be entitled to continue health insurance, if the employee pays his/her own share of the premiums and shall be eligible to receive benefits fund benefits and have benefits fund payments made on his/her behalf during a period of suspension not exceeding three months. If he/she is acquitted, he/she shall be restored to his/her position with full pay for the period of suspension Jess the amount of compensation which he/shc may have earned in any other employment or occupation and any unemployment insurance benefits he/she may have received during such period. If such officer or
+employee is found guilty, a copy of the charges, his/her written answer thereto, a transcript of the hearing, and the determination shall be filed with the Office of Court Administration. A copy of the transcript of the hearing shall, upon request of the officer or employee affected, be furnished to him/her without charge.
+13.5	Time for Removal or Disciplinary Proceedings, Notwithstanding any other provisions, no removal, disciplinary proceeding or alternative disciplinary procedure shall be commenced more than 18 months after the occurrence of the alleged incompetency or misconduct complained of and described in the charges; provided, however, that such limitation shall not apply where the incompetency or misconduct complained of and described in the charges would, if proved in a court of appropriate jurisdiction, constitute a crime.
+13.6	Review of Penalty or Punishment. Any officer or employee believing himself/herself aggrieved by a penalty or punishment pursuant to the provisions of this Article, may appeal from such determination by petition to the Chief Administrative Judge or by an application to the courts in accordance with the provisions of Article 78 of the Civil Practice Law and Rules.
+(a)	If such person elects to appeal to the Chief Administrative Judge, he/she shall file a petition in writing within 20 days after receiving notice of the determination to be reviewed.
+(b)	Where an appeal is taken to the Chief Administrative Judge, he/she shall review the record of the disciplinary proceeding and the transcript of the hearing, and shall determine the appeal on the basis of the record and transcript and such oral and written argument as he/sliemay determine to be appropri ate. He/She may direct that the appeal shall be heard by a person or persons designated by him/her to hear such appeal on his/her behalf, who shall report thereon with recommendations
+-54.
+to him/her. Upon such appeal, he/she shall permit the employee to be represented by counsel or & representative of the Union,
+(g) Determination of Appeal. The determination appealed from may be affirmed, reversed, or modified and the Chief Administrative Judge may, in his/her discretion, direct the reinstatement of Che appellant or permit the transfer or reassignment of such appellant to a vacancy in a similar position in another court or court agency or direct that his/her name be placed upon a preferred list pursuant to this section. In the event that a transfer or reassignment is not effected, he/she is empowered to direct the reinstatement of such employee. An officer or employee reinstated pursuant to this subdivision shall receive the salary or compensation he/she would have been entitled by law to have received in his/her position for the period of removal, including any prior period of suspension without pay, less the amount of compensation which he/she may have earned in any other employment or occupation and any unemployment insurance benefits he/she may have received during such period. The decision of the Chief Administrative Judge shah be final and conclusive, and not subject to further review in any court.
+13.7	Restoration of Position, An employee who is removed from his/her position in violation of the provisions of this Article, and who thereafter is restored to such position by order of the Supreme Court, shall be entitled to receive and shall receive from the State, the salary or compensation which he/she would have been entitled by law to have received in such position but for such unlawful removal, from the date of such unlawful removal to the date of such rosieralien, less the amount of compensation which he/she may have earned in any other employment or occupation and any unemployment insurance benefits he/she may have received during such period. Such employee shall be entitled to a court order to enforce the payment of such salary or
+-55-
+compensation. Such salary or compensation shall be subject to the provisions of Section 474 and Section 475 of the Judiciary Law for services rendered, but otherwise shall be paid only directly to such employee or his/her legal representatives.
+13.8	Alternative Disciplinary Procedure, (a) Within 18 months of when an act of alleged misconduct or incompetency occurs the officer or court empowered m Section 13.2 to make the charges shall determine whether such acts require the initiation of formal disciplinary charges pursuant to Section 13.2. of this Article or if die officer or employee shall be given the option of electing to follow the alternative disciplinary procedure to ensure that the decision to use the formal or informal proceedings is uniformly determined. For purposes of Section 13.8 only, an eligible officer or employee shall include all officers or employees who are not determined to be personal appointees of a judge by the appropriate appointing authority.
+(b)	If the officer or court empowered in Section 13.2 to make the charges determines that the alternative disciplinary procedure will be offered as an option, the employee shall be given an Initiation of Discipline Form. This Form shall specify in writing a description of the conduct alleged to constitute misconduct or incompetency and shall specify a recommended penalty. The employee shall make a written election whether or not to accept the alternate disciplinary procedure. An employee who otherwise is eligible for a formal hearing pursuant to Section 13.1 of this Article may opt to pursue a formal hearing or to accept the alternate disciplinary procedure. If such an employee fails to make a written election within ten days of receiving an Initiation of Discipline Form, the employee may be served with written notice of the charges preferred against him/her and the procedures set forth in Section 13.2 shall be followed.
+-56-
+(c)	An officer or employee who elects to follow the alternative disciplinary procedure shall meet with the designee of the officer or court empowered in Section 13.2 to make the charges who shall recommend a penalty after reviewing the relevant facts which form the basis for discipline, the employment history of the employee listed on the Initiation of Discipline Form and any facts or arguments submitted in defense or mitigation, The penalty shall be a written reprimand, restitution, probation for up to six months and/or no more than the forfeiture of up to ten days of annual leave, compensatory time or the loss of ten days pay, if appropriate. The officer or court empowered in Section 13-2 to make the charges shall review such recommended penalty to ensure that penalties arc uniformly applied. The employee thereafter shall be informed in writing of the penalty assessed. The Initiation of Discipline Form shall set forth the recommended penalty, the review of the officer or court empowered in Section 13.2 to make the charges and the penalty assessed. Such penalty assessed shall be implemented immediately. The determination of the designee of the officer or court empowered in Section 13.2 to make the charges and the officer or court empowered in Section 13,2 to make the charges shall be final, binding and not reviewable in any forum.
+(d)	A copy of such Initiation of Discipline Form upon completion of the process shall be included in the personnel history folder of the officer or employee, and shall be given to the officer or employee, the supervisor, payroll and the designee of the officer or court empowered in Section 13.2 to make the charges. Upon an employee's written request, the record of the alternative disciplinary procedure shall be removed from an employee's personnel history folder 18 months after the penalty has been implemented, provided such employee has not been subject to formal disciplinary charges or further administrative disciplinary proceedings within such 18 months.
+-57-
+13.9 The State and the Union shall meet in a labor/management subcommittee to discuss the
+establishment by the State of a panel to act as Hearing Officers on charges made against officers or employees pursuant to this Article. The sub committee shall discuss and make recommendations concerning the composition of, and selection from, a fixed panel of persons who are qualified to act as Hearing Officers and from whom the Unified Court System selects one or more persons to hear employee appeals of disciplinary charges. Such recommendations shall be submitted to the Deputy Chief Administrative Judge (New York City Courts) on whose behalf such Healing Officers are designated to hear such charges.
+ARTICLE 14
+PRINTING OF AGREEMENT
+The State shall cause this Agreement to be printed and shall furnish the Union with a sufficient number of copies for its use and distribution to current employees. The State agrees to provide each employee initially appointed on or after the effective date of this Agreement a copy thereof as soon as practicable following his/her first day of work.	_
+ARTICLE 15
+LABOR/MANAGEMENT COMMITTEE
+15.1	To facilitate communication between tire parties and to promote a climate conducive to constructive employee relations, a joint Labor/Management Committee	be established to
+discuss Hie implementation of this Agreement and other matters of mutual interest. The size of the Committee shall be limited to the least number of representatives needed to accomplish its objectives. Committee size shall be determined by mutual agreement.	■
+-5B-
+15.2	The Committee will be a standing Committee and will meet as necessary but at least twice a year. A written agenda will be submitted a week in advance of regular meetings. Special meetings will be requested by either party. An agenda will be submitted along with the request. Such special meetings will be scheduled as soon as possible after requested.
+15.3	Approved lime spent in such meetings shall be charged as specified in Section 4.7 of this Agreement.
+15.4	LaborZManagement. Committee meetings shall be conducted in good faith. The Committee shall have no power to contravene any provision of this Agreement.
+15.5	A Labor/Managcmenf Subcommittee shall be established during the term of this Agreement to consider special problems of court reporters, including but not limited to: transportation, adequate lighting, office space and storage.
+15.6	A LaborZManagement Committee shall be established during the term of this Agreement to deal with health and safety matters, including working conditions, AIDS and other communicable or contagious diseases and any other workplace Health and Safety concerns where mutually agreed. .Representatives of such Committee shall be authorized to visit worksites as appropriate.
+15.7	A Statewide LaborZManagement Subcommittee shall be established during the term of this Agreement to consider methods of increasing productivity. by implementing technological changes in the method of performing negotiating unit work. This subcommittee also shall study and recommend proposals concerning tee use of Video Display Terminals ("VDT’s”). The Subcommittee shall make recommendations for VDT procurement standards for new or replacement equipment to the Chief Administrative Judge by March 31,2002. This Subcommittee shall study and recommend proposals concerning issues of productivity and technological change, including
+-59-
+workforce planning in the light of technological change, the use of deveLaptnental and retraining programs to respond to changes in technology and methods for increasing flexibility in the deployment of personnel. Such Subcommittee shall meet at least quarterly. The Subcommittee shall present its recommendations, which may include joint recommendations for demonstration projects to address identified issues in writing to the Administrative Director no later than March 31, 2002. These recommendations shall not be binding upon cither the State or the Union.
+15.8	A Labor/Management Subcommittee shall be established during the term of this Agreement to consider administrative transactions, including notification of new hires, employee promotions, demotions, transfers, retirements, and the continuation of previously authorized payroll deductions, including, where appropriate, dues checkoff. This Subcommittee also shall consider a method of advising employees when special payments are made.
+15.9	A Labor/Management Subcommittee shall be established during the term of this Agreement to consider special problems of the court interpreter, office assistant, secretarial and stenographic, and special services (data processing) title series including, but not limited to: 'recruitment, retention, hiring and comp arable worth.
+15.10	The UCS shall prepare, secure introduction and recommend passage by the "Legislature of such legislation as may be appropriate and necessary to obtain an annual appropriation in the amount of $341,334, which shall be carried over from one fiscal year to tire next but which shall lapse on March 31, 2007, to fund the operation and implementation of the Quality through Participation program or such other educational initiatives which seek to improve, professionalize or cross-train the workforce and to develop and train employees. All funding provided in this section must be encumbered by January 31,2007. The parties have agreed that the available funding shall
+
+be used to reimburse employees for the following categories of umeimbursed expenditures: educational expenses, training, medical expenses, VDT eye examinations and corrective lenses, child care and elder expenses.
+15	J I As soon as practicable following the execution of this Agreement the State and the Union shall meet in a Labor/Managemenl Committee to develop and recommend procedures for the transfer and reassignment of employees in the bargaining unit. The Committee shall present its recommendations to the Administrative Di rector by September 1,2004. The Administrative Director will make a determination by November 1, 2004, to accept the Committee’s recommendations. If the Administrative Director has questions or concerns with regard to the Committee’s recommendations, the Committee will be sb advised and will reconvene to address the specific concerns.
+15.12	The State and the Union shall establish a. Labor/Management Subcommittee on Facilities Review. This Subcommittee shall review on a periodic basis, existing facilities, including locker rooms, adequate personal lockers, gun lockers, toilet and shower facilities and lunchroom with refrigerator of adequate size, supplies, furniture and staffing of al] titles, to determine where improvements can be made, to ensure employee safety, and to improve employee morale.
+15.13	A Labor/Management Subcommittee shall be established during the term of this Agreement to review current job titles which have limited or no promotional opportunities. This subcommittee shall make recommendations regarding the need for promotional opportunities and/or the establishment of a job title series with additional titles and/or salaiy levels. This subcommittee shall also review and rnakiJ recommendations concerning employees in specific titles in the non
+-61-
+competitive class and their eligibility to take certain competitive-cl ass promotional civil service examinations.
+15.14	The State and the Union shall establish a LaborZManagement Subcommittee which shall discuss modifications to the current performance evaluation system including the performance evaluation forms and appeals process. The Subcommittee shall make recommendations for any changes to the performance evaluation system to the Chief Administrative Judge by October 1,2006.
+15.15	The S tale and the Union shall establish a LaborZManagement Subcommittee to discuss the disciplinary procedures including the creation of an expedited time and attendance discipline procedure.
+15.16	The State and the Union shall establish a LaborZManagement Subcommittee to discuss issues pertaining to court facilities and occupational, safety and health concerns (OSHA), emergency procedures, facility security, including physical barriers in public areas.
+15.17	Training. A LaborZManagement Subcommittee shall be established during the term of this Agreement to discuss the issue of training programs for all employees.
+15.18	Parking. ALaborZManagement Subcommittee shall be established during the term of this Agreement to discuss the issue of parking and the availability of such for employees of the negotiating unit.
+15.19	A LaborZManagement subcommittee shall be established during the term of this Agreement to discuss the issue of compensation for court interpreters who are qualified to interpret in morn- than one language. The Committee also shall discuss the issue of employees who are required to regularly use a language other than English in the course of their work. The Committee shall presentits recommendations to the Administrative Director by September I, 2005.
+-62-	.
+15.20	A Labor/Management Sub-Committee Khali be established to discuss personnel folders
+and HIPAA.
+ARTICLE 16
+WORK/LIFE ASSISTANCE PROGRAM
+The State shall prepare, secure introduction and recommend passage by the Legislature of such legislation as may be necessary to fully fund the Work/Life Assistance Program lor the term of this Agreement The Statewide Work/Life Assistance LaborZManagenrient Committee shall continue, composed of representatives from the State and the Unions.
+ARTICLE 17
+GRIEVANCE PROCEDURES
+17.1	Definitions, (a) A contract grievance is a dispute concerning the interpretation, application or claimed violation of a specific term or provision of this Agreement. Other disputes which do not involve the interpretation, application, or claimed violation of a specific term or provision of this Agreement including matters as to which other means of resolution are provided or foreclosed by this Agreement, or by statute or administrative procedures, shall not be considered contract grievances. A contract grievance does not include matters which are grievable under the non-contract grievance procedure.
+(b)	A non-contract grievance is a dispute concerning:
+(1)	Cituditions of employment affecting the health or safety of employees.
+(2)	Unreasonable work assignments or conditions.
+(3)	Discriminatory supervisory practices except insofar as such practices ax alleged would constitute violations of law. With respect to claims alleging such practices as would constitute
+violations of law, they shall, at the election of the employee, he subject to review in accordance with State and Federal procedures established for such purpose as well as such internal review procedure as may exist, but shall not be subject to review under the provisions of this Article. Use of the internal review procedure shall not deny the employee access to State and Federal procedures; provided, however, that an employee electing pursuit of a claim in accordance with State and/or Federal procedures shall not be allowed to utilize ihe Unified Court Sy stem’s Internal Discrimination Claim Procedure.
+17.	2 The contract and non-contract grievance procedures shall be as follows:
+(a) Step 1. The employee or Union shall present the grie vance in writing to the Deputy Chief Administrative Judge (New York City Courts) or his/her designee with a copy to the Administrative Judge or Administrative Authority of the court or court-related agency to which the employee is assigned not later than 45 calendar days after the date on which the act or omission giving rise to the grievance occurred or when the employee could reasonably have been expected to become aware of, or to have knowledge, that he/she had a grievance. The Deputy Chief Administrative Judge (New York City Courts) or his/her designee may require the grievant to meet with the grievant's immediate supervisor in an effort io settle the grievance informally. The Deputy Chief Administrative Judge (New York City Courts) or his/her designee shall take any other steps necessary to insure that a proper disposition of the grievance is made and shall reply to the employee or Union in writing within 15 weekdays following die date of submission. In the event a grievance is not answered within the prescribed time limit, the grievance will be considered to have been passed to the second step of the grievance procedure,
+-fa-
+(b)( 1) Step 2. Contract Grievan ces. In the event the employee or the Union wishes to appeal an unsatisfactory contract grievance decision at Step 1, the appeal must be presented in writing within 15 workdays of the receipt of the Step 1 decision, to the E)cputy Director for Employee Relations. A copy of such appeal shall also be sent to the Deputy Chief Administrative fudge (New York City Court.1?) or his/her designee who passed upon the grievance at Step 1. Such appeal shall contain a short, clear statement of the grievance and specific references to the section of this Agreement which the employee or Union claims to have been violated. The Deputy Director for Employee Relations or his/her designated representative shall meet within 20 workdays after receipt of the appeal with the employee or the Union for a review of the grievance and shall issue a written decision by the end of the twenty-fifth workday after such review. In the event a grievance is not answered within the prescribed time limit, the Union may demand in writing to the Deputy Director for Employee Relations to move the grievance to the next step of the procedure.
+(b)(2) Step 2. Non'Contract Grievances. In the event the employee or the Union wishes to appeal an unsatisfactory non-contract grievance decision at Step 1, the appeal must be presented in writing within 15 workdays of the receipt of the Step i decision, to the Deputy Director for Employee Relations. A copy of such appeal shall also be sent to the Deputy Chief Administrative Judge (New York City Courts) or his/her designee who passed upon the grievance at Step 1. Such appeal shall contain a short, clear statement of the grievance, the basis for the grievance and the relief sought. The Deputy Director for Employee Relations or his/her designee shall meet within 20 workdays after receipt of the appeal W'ith the employee or the Union for a review of the grievance and shall issue a written decision by the end of the twenty-fifth workday after such review. Such decision shall not be subject to review by arbitration.
+-65-
+(c)	Step 3. Contract Grievances.
+(}) An appeal to arbitration from an unsatisfactory contract grievance decision at Step 2 may
+be made by the Union within 20 workdays of the receipt of the decision by the Deputy Director for Employee Relations. A request for arbitration may be'initiated by the Union by serving upon the Deputy Director for Employee Relations a notice-in writing of an intent to proceed to arbitration. The notice shall identify the Agreement provision in dispute, the issue or issues to be determined, the department and the employees involved. Upon receipt of a notice requesting arbitration, the parties shall select an arbitrator from a central panel. Such panel shall be agreed upon as soon as practicable following execution of this Agreement. The method of selecting the arbitrator for a particular case shall be by mutual agreement between both parties to the Agreement, and failing such agreement, by mutual strike from the central panel.
+(2)	The arbitrator shall have no power to add to, subtract from or modify the provisions of this Agreement in arriving at a decision of the issue presented, and shall confine his/her decision solely to the application and interpretation of this Agreement. The decision or award of the arbitrator shall be final and binding, consistent with the provisions of CPLR Article 75. The arbitrator shall confine himself/herself to the precise issue submitted for arbitration and shall have no authority to determine any other issues not so submitted to him/her nor shall he/she submit observations or declarations of opinion which are not essential in reaching die determination,
+(3)	All fees and expenses of the arbitrator shall be divided equally between the parties. Each party shall bear the cost of preparing and presenting its own case.
+-66.
+17.3	The time limits contained in this Article may be extended by mutual agreement. The time for presenting a Step 1 contract grievance shall be extended by the time an employee is absent from Lhe job through illness or disability.	■
+17.4	A settlement or any award upon a contract grievance may or may not be retroactive as the equities of each case may demand.
+17.5	The contract grievance and arbitration procedure provided for herein shall be the exclusive grievance procedure for the resolution of disputes concerning the interpretation, application or claimed violation of a specific term or provision of this Agreement.
+17.6	An employee may be represented in Step 1 or Step 2 of the contract &n<l nun-contract grievance procedures by the Union or a representative of his/her own choosing. No employee organization other than the Union may initiate or represent an employee in the processing of contract or non -contract grievances,	'
+17.7	In the event the Union appeals a Step 2 decision to Step 3 and the parties cannot agree as to whether it constitutes an arbitrable grievance, the issue of arbitrability shall be preliminarily submitted to arbitration prior to the resolution of the dispute on the merits in accordance with the procedures for arbitration set forth in Step 3.	'
+ARTICLE 18
+OUT-OF-TITLE WORK
+18.1	No person shall be employed under any title not appropriate to the duties to be performed and, except upon assignment by proper authority during the continuance of a temporary emergency situation, no person shall be assigned to perform the duties of any position unless he/she
+-67-
+has been duly appointed, promoted, transferred or reinstated to such position in accordance with the provisions of the Rules of the Chief Administrative Judge.
+18.2	Grievances hereunder shall be processed on forms to be provided by the State and filed directly with the Deputy Director for Employee Relations and shall be arbitrable by a special panel composed of three arbitrators who will be chosen by the Union from a list of five arbitrators selected by the State for their expertise in classification and compensation. One arbitrator will be chosen for each case. The arbitrator shall make a determination consistent with Section 18.3 and fashion a remedy consistent with Section IS.4. Tire grievance must be presented in writing not later than 45 calendar days after the date on which the act or omission giving rise to the grievance occurred or when the employee could reasonably have been expected to become aware of, or have knowledge, that he/she had a grievance, and shall specify whether or not the assigned duties which are the subject of the grievance are substantially different from those appropriate to the title to which the employee is certified.
+18.3	In determinations regarding out-of-title work under this Article, an employee grievant shall be determined to be working out-of-title, unless:
+(a)	The duties alleged to be out-of-title work are. normally performed by employees in the grievant’s title and are not described in the class specifications for another title; or,
+(b)	The duties are reasonably related to the duties described in the class specifications for the grievant’s title; or,
+(c)	The duties are new duties which are a reasonable outgrowth of duties usually performed by employees in the grievant’s title; or,
+(d)	The duties are assigned during a temporary emergency.
+-68
+]	8.4(a) Tf it is the opinion of the Deputy Director for Employee Relations that the assigned dalles wliich arc the subject of the grievance are substantially different from those appropriate to the title to which the employee is certified, the Deputy Director for Employee Relations shall direct the discontinuance forthwith of such assigned duties.
+(1)	If such substantially different duties are found to be appropriate to a Tower salary grade or to the same salary grade as that held by the affected employee, no monetary award may be issued.
+(2)	If, however, such substantially different duties are found to be appropriate (.0 a higher salary grade than that held by the affected employee, the Deputy Director for Employee Relations or the arbitrator shall issue an award of monetary relief, provided that the affected employee has performed such duties for a period of one or more days. The amount of monetary relief shall be the difference between what the affected employee was earning at the time he/she performed such duties and what he/she would have earned at that time in the entry level of the higher salary grade title, but in no event shall such monetary award be retroactive to a date earlier than ten calendar days prior to the date the grievance was filed, in accordance with this Article, nor shall the entire monetary award by the Deputy Director for Employee Relations and the arbitrator be for more than 60 calendar days including the ten calendar days prior to the date the grievance was filed. No employee shall be able to file successive grievances under this Article to avoid the limitations on monetary awards provided herein.
+(b) Notwithstanding the provisions of subdivision (a), if the substantially different duties were assigned by proper authority during the existence of a temporary emergency situation, the
+-69-
+Deputy Dii-ctor for Employee Relations or the arbitrator shall deny the grievance and no payment shall be made.
+ARTICLE 19
+NO DISCRIMINATION
+19,1	The Union agrees to continue to admit all employees to membership and to represent all employees without regard to race, creed, color, disability, marital status, Vietnam Era Veteran status, national origin, age, sex or sexual orientation.
+19.2	(a) The State agrees to continue its established policy against all forms of illegal discrimination with regard to race, creed, color, disability, marital status, Vietnam Era Veteran status, national origin, sex (including sexual harassment), sexual orientation, age or the proper exercise by an employee of the right's guaranteed by the Public Employees' Fair Employment Act.
+(b)	An employee who believes that an act of discrimination based on race, color, religion, sex (including sexual harassment), sexual orientation, marital status, age, political affiliation, national origin, physical/mental/medical disability or Vietnam Era veteran status has taken place relating to interviewing, hiring, dismissal, discipline, job assignment, training opportunities, policies of the Unified Court System, shift assignment, promotion, transfer, working conditions, harassment or other terms and conditions of employment, shall be allowed access to the Unified Court System's Internal Discrimination Claim Procedure.
+19.3	The State and the Union agree that nothing in this Agreement, prevents the State from making reasonable accommodations for a disabled employee when such is required pursuant Lu the American with Disabilities Act,
+•70-
+ARTICLE 20
+BENEFITS GUARANTEED
+With respect to matters not covered "by this Agreement the State will not seek to diminish or imp ail' during the term of this Agreement any benefit or privilege provided by law, rule or regulation for employees without adequate prior notice to the Union; and, when appropriate, without negotiations with the Union; provided, however, that this Agreement shall be construed consistently with the free exercise of rights reserved to the State by the Management Rights Article of this Agreement.
+ARTICLE 21
+PROTECTION OF EMPLOYEES
+21.1	There shall be no loss of present jobs by permanent employees as a result of the State's exercise of its right to contract out for goods and services.
+21.2	No permanent employee will suffer reduction in existing salary as a result of reclassification or reallocation of the position he/she holds by permanent appointment.
+ARTICLE 22
+PERSONNEL AND PAY PRACTICES
+22.1	Notification to Beneficiary. If during the term of this Agreement an employee dies, the State shall notify the beneficiary designated by the employee in the personnel folder as to what benefits may be available for the employee and as to where claims may be initiated for such benefits. The payroll agency shall promptly notify the appropriate Retirement System and communicate with the beneficiaiy designated in the Retirement System's records.
+-7J-
+22.2	Notification of Change in Title or Compensation. Any employee who is promoted or who is affected by an individual change in title or rate of compensation of an adverse nature shall be notified in writing no later than two weeks after the effective date of such promotion, change in title, or rate of compensation. An employee who is promoted in a title with a different jurisdictional classification shall be notified of such change in writing with a copy to the Union, no later than two weeks after the effective date of promotion.
+22.3	Release of Pay checks. Consistent with, and subject to security requirements, pay checks shall be released on the day preceding payday as soon as possible after 3 p.m. for all employees who would not normally receive their paychecks during their working hours on the scheduled pay day.
+22.4	Itemization on Pay checks. Regular paychecks shall, to the extent permitted by the State Department of Audit and Control, be itemized to include overtime and additional wage benefits (including back pay, differentials and all deductions).
+22.5	Withholding Paychecks. The State shall not withhold entire paychecks when an employee has no leave balance to cover absences without pay, due to illness, up to a maximum of five days, provided the affected employee has five years of service as a member of the New York City or New York State Employees Retirement System. Appropriate deductions shall be made in a subsequent pay check. Employees with a negative leave balance at the start of the pay period shall not be covered by this section.
+22.6	Salary Garnishments. The State shall make reasonable efforts to notify employees of pending salary garnishments.
+22,7	Information on RetjrernentBenefits.The State shall make available materia] describingpension benefits and provisions under the Coordinated-Escalator Retirement Plan {COES Plan).
+-72-
+■Such material shall be distributed to all newly hired employees at the time of appointment. To the extent material is available, the State shall supply any other materials describing pension benefits and provisions.
+22.8	Evaluations and Personnel Folders.
+(a)	An employee shall be given a copy of every statement concerning his/her work performance or conduct prepared during the term of this Agreement, if such statement is to be placed in his/her permanent personnel folder. Prior to being given a copy of such statement, the employee must sign a form which shall indicate only that he/she was given a copy of the statement but that he/she docs not necessarily agree with its contents. The employee shall have the right, but not the obligation, to answer any such statement filed and the answer shall be placed in the employee's personnel folder. Only evaluatory statements prepared by a superior with respect to the employee's work performance or conduct, which are given to the employee in accordance with the procedure outlined above, may be used in any subsequent disciplinary actions against the employee.
+(b)	An employee shall be permitted to view his/her personnel folder once a year upon request, and when an adverse personnel action is initiated against the employee by the State. The view shall be in the presence of a designee of the State and held at such time as the State may prescribe.
+(c)	Upon an employee's written, request, any material in his/her personnel folder of an adverse nature, with the exception of disciplinary actions, personnel transactions and evaluatory statements concerning work performance, shall, if over five years old, be removed from the personnel folder. Upon an employee's written request, such material may, if over three years old, be removed at the discretion of the Deputy Chief Administrative Judge (New York City Courts).
+22.9	Orientation Kits. When an orientation kit is supplied to a new employee in a title covered by this Agreement, only the Union which represents such new or promoted employee shall he permitted to have Union literature included in this kit. Such Union literature shall be subject to (he reasonable approval of the Deputy Director for Employee Relations.
+22.10	Death of Employee in the Course of Employment. If an employee dies during the term of this Agreement because of an injury arising out of and in tire course of the employee's employment through no fault of the employee, and in the proper performance of the employee's duties, a payment of $100,000 will be made from funds other than those of the Retirement System in addition to any other payment which may be made as a result of such death. Such payment shall be made to the employee's beneficiary, or if no beneficiary is designated, payment shall be made to tire employee’s estate.
+22.11	The State shall replace identification cards and shields damaged, broken or lost in the performance of duty. The State shall, upon request, stamp the identification card of a retired employee to indicate retired ttatas and return the identification card to the employee.
+ARTICLE 23
+CIVIL SERVICE AND CAREER DEVELOPMENT
+23.1	Posting of Vacancies,
+(a) When vacancies in promotional titles included in this negotiating unit are authorized to be filled, a notice of such vacancy shall be posted at all relevant work locations at least five workdays prior to filling except when such vacancies are to be filled on an emergency basis. Copies of all vacancies shall be sent to the Uni on. An inadvertent failure to post at a particular location shall not invalidate an otherwise valid appointment.
+-74-
+(bj The Union shall receive a copy of proposed changes in job specifications for any Iide it represents for its pent sal at least five workdays in advance of the final approval of such changes.
+23.2	Notice of Public Hearing. If a public hearing is held pursuant to Section 211 of the Judiciary Law, the Unions shall receive at least ten workdays notice.
+23.3	Statements of Policy or Procedure. All statements of policy or procedure which are applicable to employees shall before promulgation be made known and delivered in writing to the Union.
+ARTICLE 24
+JOB ABANDONMENT
+24.1	When an employee to whom the disciplinary procedures of this Agreement apply has been absent from work without notice for 15 consecutive workdays, he/she shall be deemed to have resigned from his/her position if he/she has not provided a satisfactory written explanation for such absence to the court or court-related agency to which he/she is assigned, on or before the fifteenth consecutive workday following the commencement of such unauthorized absence.
+24,2	Prior to the conclusion of the 15-workday period noted in Section 24.1 above, the court or court-related agency shall send the affected employee notice, to the employee’s last known address, by certified mail, return receipt requested, with a copy to the Union, that his/her absence is considered unauthorized and that, as a result of such, absence, he/she will be deemed to have resigned from service, effective the fifteenth workday following the commencement of the unauthorized absence.
+24.3	An employee who has been deemed to have resigned pursuant to this section, shall have 20 workdays from the date the notice was mailed within which to submit a written explanation
+-75-
+concerning h js/h kt absence f o the Depul y Chief Administrative Judge (New Y ork City Courts). Upon receipt of such explanation, the Deputy Chief Administrative Judge (New York City Courts) shall reinstate the employee without examination, to the position from which he/she was deemed to have resigned, if vacant, or to any vacant position to which he/she was eligible for transfer or reassignment, and shall have 20 workdays within which to initiate charges against the employee pursuant to the disciplinary procedures of this Agreement,
+ARTICLE 25
+BENEFITS FUND
+25.	1 (a) The State contribution to the Union’s Benefits Fund in effect of April 1,2003, shall remain in effect except as modified below.
+(b)	Effective April 1,2004, the State shall contribute a pro rata annual sum of $1,065 per active employee for remittance to the Union’s Benefits Fund. A pro rata contribution of $532.50 to such Fund shall be made by the State for part-time and per diem employees provided they are working on a regular' basis at least half the regular hours of full-time- employees in the same title.
+(c)	Effective April 1,2005, the State shall contribute a pro raU annual sum of $1,105 per active employee for remittance to the Union’s Benefits Fund. A pro rata contribution of $552.50 to such Fund shall be made by the State for part-time and per diem employees provided they are working on a regular basis at least half the regular hours of full-time employees in the same title.
+(d)	Effective April 1, 2006, the State shall contribute a pro rata annual sum of $1,155 per active employee for remittance to tire Union’s Benefits Fund. A pro rata contribution of $577,511 to such Fund shall be made by the State for part-time and per diem employees provided they are working on a regular basis at least half the regular hours of full-time employees in the same title.
+-715-
+(q) The State shall contribute a pro rata sum of $885 per employee retired since April 1,1977
+for remittance to the Union’s Benefits Fund in each fiscal year of the Agreement.
+25.	2 The State and the Union shall enter into a separate Supplemental Benefits Fund Agreement which shall specify the obligations of both parties regar ding implementation, activities and reporting requirements of the Fund; method and calculation of payments to the Fund; the right and authority of the State Comptroller or the Unified Court System to audit and/or review the financial records of the Fund; and the indemnification of the State for liability regarding Fund activities.
+ARTICLE 26
+SALARY COMPUTATION
+Biweekly salaries will be computed on the basis of ten workdays.
+ARTICLE 27
+SEVERABILITY
+in the event that any portion of this Agreement is found to be invalid by a tribunal of competent jurisdiction or superseded by Federal statute (i.e., Fail' Labor Standards Act), then such provision shall be of no force and effect but the remainder of this Agreement shall continue in full force and effect. Upon the issuance of such decision, then either party shall have the right immediately to reopen negotiations with respect to a substitute for such provision which has been held to be invalid.
+-77-
+ARTICLE 28
+DAY CARE/ELDER CARE DEVELOPMENT COMMITTEE
+A Day Care/Elder Care Development Committee shall continue composed of representatives from the State and the Union. This Committee shall develop guidelines and procedures for the implementation of this Article.
+ARTICLE 29
+WAIVER OF FEES FOR CIVIL SERVICE EXAMS
+The State agrees that to the extent the Chief Administrative Judge determines, pursuant to the Rules of the Chief Judge and Chief Administrative Judge, to establish examination fees for Civil Service examinations, the State will waive such examination fees for employees.
+ARTICLE 30
+FLEXIBLE BENEFIT SPENDING PROGRAM
+30.1	The program established to provide employees with an opportunity to increase the employee’s spendable income by paying for all or part of health insurance premiums, selected benefits such as child care, elder care and dependent care paid by the employee with pre-tax dollars shall continue.
+30.2	The Medical Flexible Spending Account also shall continue.
+ARTICLE 31
+COURT REPORTER PROCEDURES
+31.1	A court reporter who fails to meet State-established transcript production standards and is in a delinquent status, without good cause, after 15 workdays notice shall be placed on a leave of absence until such employee's transcript production is in compliance with State standards. During such leave of absence an employee shall be allowed to draw accumulated and unused annual leave
+-7S-
+and compensatory time standing to his/her credit. An employee placed on such leave of absence, with or without pay, shall be entitled to continue health insurance benefits if the employee continues to pay his/her own share of the premium costs and shall be entitled to receive Benefits Fund benefj ts, if eligible. Imposition of such leave of absence shall not be considered as employee discipline, provided, however, that nothing herein shall prohibit the State from bringing disciplinary charges pursuant to Article J 2 against an employee in a delinquent status who fails to meet State-established transcript production standards after 15 workdays on a leave of absence pursuant to this section.
+31.2	As court reporter transcript production standards have not been negotiated but were promulgated unilaterally by the Stale pursuant to their claim that they are a nonmandatory subject of negotiations, the State, upon demand (tom the Union, shall negotiate the impact of such standards in a court reporter committee which shall consider issues which include but are not limited to appropriate facilities, lighting and equipment.	■
+ARTICLE 32
+REIMBURSEMENT FOR PROPERTY DAMAGE
+Effective with the execution date of this Agreement, the State agrees to provide for the uniform administration of the procedure for reimbursement to employees for personal property damage or destruction as provided for by Subdivisions 12 and 12-c of Section 8 of the State Finance Law and to provide for payments of up to $350. Allowances shall be-based upon the reasonable value of the property involved and payment shall be made against a reasonable release.
+-79-
+ARTICLE 33
+DRESS CODE
+Employees whose duties are performed in workplaces which are accessible or visible to the general public shall wear appropriate business attire. For purposes of this Article, Che term "appropriate business attire" shall be defined as follows;
+(a)	for male employees: business suit, dress shirt and tie; or spoils coat with coordinated shirt, trousers (jeans not acceptable) and tie;
+(b)	for female employees: a dress; or skirt with coordinated blousc/sweater/dress shirt; or slacks (jeans not acceptable) with coordinated blouse/sweater/dress shirt; and, at the employee’s option, a j acket; and
+(c)	business shoes.
+The application of this provision shall be subject to the grievance procedure.
+A Labor/Management Committee shall be established to discuss problems with the interpretation and implementation of ths dress code; exemptions from the dress code; and, defining and determining parameters of the code, but in no event will such discussions delay implementation of this Article.
+ARTICLE 34
+CONCLUSION OF COLLECTIVE NEGOTIATIONS
+This Agreement is the entire Agreement b etween the S tate and the Union, terminates all prj or agreements and understandings and concludes ail collective negotiations during its term. During the term of this Agreement, neither party will unilaterally seek to modify its terms through legislation or any other means. The parties agree to support jointly any legislation or administrative action necessary to implement the provisions of this Agreement. The p ar Lies acknowledge that, except as
+-RO-
+otherwise expressly provided herein, the Union waives any rights to further negotiations during the term of this Agreement inasmuch as the parties have fully negotiated with respect to the terms and conditions of employment and have settled them for the term of this Agreement in accordance with the provisions thereof.
+ARTICLE 35
+CONFLICT WITH AGREEMENT
+Where the Rules of the Chief Judge and Chief Administrative Judge conflict with this Agreement, the provisions of this Agreement shall prevail.
+ARTICLE 36
+APPROVAL OF THE LEGISLATURE
+IT IS AGREED BY AND BETWEEN THE PARTIES THAT ANY PROVISION OF THIS AGREEMENT REQUIRING LEGISLATIVE ACTION TO PERMIT ITS IMPLEMENTATION BY AMENDMENT OF LAW OR BY PROVIDING THE ADDITIONAL FUNDS THEREFOR, SHALL NOT BECOME EFFECTIVE UNTIL THE APPROPRIATE LEGISLATIVE BODY HAS GIVEN APPROVAL.
+ARTICLE 37
+DURATION OF AGREEMENT
+The term of this Agreement shall he from April 1,2003 to March 31 1, 2007.
+-El-
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be signed by
+their representatives on
+
+THE STATE OF NEW YORK -UNIFIED COURT SYSTEM
+Lauren DeSole
+DISTRICT COUNCIL 37, AFSCME, AFL-CIO AND LOCAL 1070
+Lillian Roberts, Executive Director District Council 37, AFSCME, AFL-CIO
+Deputy Director for Employee Relations
+-sr-
+I
+APPENDLX A
+JOB TITLES OR POSITIONS INCLUDED WITHIN THE DC 37, AFSCME, AFL-CIC and LOCAL 1070 NEGOTIATING UNIT
+Accountant'”
+Administrative Clerk
+Adoptions Examiner
+Appellate Law Stenographer
+Assistant Microfilm Super visor
+Bookbinder’11
+Camera Operator*
+Case Manager	■
+Case Technician
+Clerk* NS
+Clerk	.
+Clerk Typist
+Clinical Director
+Computer Operator
+Confidential Attendant* EXCF
+Confidential Messenger*
+Court Aide
+Court Interpreter
+Court Interpreter (Arabic)
+Court interpreter (Haitian Creole)
+Court Interpreter (Hnd Prog)
+Court Interpreter (Korean)
+Court Interpreter (Mandarin)
+Court Interpreter (NSAP)	■
+Court Interpreter (Polish)	■
+Court Interpreter PT
+Court Interpreter (Russian)
+Court Interpreter (Sign)
+Court Office Assistant
+Court Office Assistant (HSAP)
+Court Office Assistant (Keyboarding)
+Court Office Assistant (Keyboarding) (HSAP)
+Court Reporter
+Court Reporter PT
+Data Entry Clerk*
+Data Entiy Supervisor*
+Data Recording Assistant
+Driver Messenger
+Family Counseling and Case Analyst
+-sr-
+Foreman of Laborers*
+Head Data Entry Clerk* JG-18
+Head Law Stenographer*
+Laborer*
+Law Librarian
+I .aw Library Assistant
+Law Library Clerk
+Law Stenographer
+Law Stenographer PT
+Law Stenographer to Acting Justice Library Technical Assistant
+Manager Data Entry Operations
+Messenger*
+Microfilm Supervisor
+Nursery Attendant
+Nursery Attendant*
+Office Clerical Assistant*
+Office Clerical Assistant (HSAP)*
+Photostat Operator*
+Principal Computer Operator
+Principal Law Librarian
+Principal Law Stenographer
+Principal Law Stenographer PT Principal Office Stenographer* Principal Offset Printing Machine Operator Resource Coordinator
+Secretary
+Senior Administrative Clerk
+Senior Appellate Law Stenographer
+Senior Computer Operator
+Senior Court Analyst
+Senior Court Interpreter
+Senior Court Office Assistant
+Senior Court Office Assistant (Keyboarding)
+Senior Data Entry Clerk*
+Senior Data Recording Assistant
+Senior Law Librarian
+Senior Law Library Clerk Senior Law Stenographer Senior Law Stenographer* Senior Office Stenographer*
+Senior Office Typist
+Senior Supervising Data Recording Assistant Supervising Court Aide
+Supervising Court Office Assistant
+-84-
+Supervising Court Reporter
+Supervisor of Records, Surrogate Court Typist
+* Denotes earmarked titles.
+-A5-

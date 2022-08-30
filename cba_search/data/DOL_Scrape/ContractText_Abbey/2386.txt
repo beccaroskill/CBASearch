@@ -1,0 +1,864 @@
+﻿MILLWRIGHT REGIONAL MASTER AGREEMENT
+between the
+MILLWRIGHT EMPLOYERS ASSOCIATION INC.
+and the
+PACIFIC NORTHWEST REGIONAL COUNCIL OF CARPENTERS
+Covering the states of:
+Alaska, Washington, Oregon, Idaho, and Montana
+Effective:
+July 1, 2015 through June 30, 2020
+Table of Contents
+Article Description	Page
+Introduction ............................................1
+Purpose .................................................1
+1	Scope of Agreement ........................................2
+2	Recognition ..............................................10
+3	Union Security ...........................................11
+4	Subcontracting/Pre-Job	Conference ........................11
+5	Hiring....................................................13
+6	Dispute Resolution Procedure .............................15
+7	No Strike / No Lockout ...................................16
+8	Hours of Work / Overtime / Shift Work
+Show-Up / Call Back ....................................16
+9	Work Rules................................................25
+10	Wages / Pay Day ..........................................28
+11	Apprentices ..............................................30
+12	Benefits and Other Contributory Funds ....................31
+13	Holidays .................................................35
+14	Management Rights ........................................36
+15	Union Representatives and	Stewards........................37
+16	Millwright Tool List......................................39
+17	Travel and Subsistence ...................................41
+18	Safety and Health ........................................42
+19	MEA/PNWRCC Labor-Management Committee.....................45
+20	Special Conditions .......................................45
+21	Favored Nations ..........................................46
+22	No Discrimination ........................................46
+23	General Savings ..........................................47
+24	Entire Agreement .........................................47
+25	Term of Agreement ........................................48
+Signatures..............................................48
+Table of Contents (continued)
+Addenda Description	Page
+A-1 Western Washington Wage/Fringe Schedule and Special Conditions ............................................. 50
+A-2 Eastern Washington/Northern Idaho Wage/Fringe Schedule and
+Special Conditions .................................. 56
+A-3 State of Alaska Wage/Fringe Schedule and Special Conditions ............................................. 62
+A-4 Montana Wage/Fringe Schedule and Special Conditions ............................................. 72
+A-5 Oregon SW Washington Wage/Fringe Schedule and Special Conditions ............................................. 76
+A-6 Southern Idaho Wage/Fringe Schedule and Special Conditions ............................................. 82
+B PNWRCC/MEA Pre-Job Notification .............................. 86
+This page left intentionally blank.
+INTRODUCTION
+THIS AGREEMENT negotiated by and between the Millwright Employers Association, Inc. (MEA) and the Pacific Northwest Regional Council of Carpenters (PNWRCC) for the purpose of performing new construction and maintenance Millwright work within the States of Alaska, Idaho, Montana, Oregon and Washington. This Agreement shall be referred to as the PNWRCC/MEA Millwright Regional Master Agreement (Agreement).
+PURPOSE
+It is the purpose of this Agreement to assure a supply of competent and capable employees for the performance of the work undertaken by the Employers, to maintain a continuity of employment to the people employed, to insure amicable labor-management relations, to avoid work stoppage or delays in the prosecution of all work undertaken by the Employer, to improve the competitive position of the organized sector of the millwright construction industry, and to establish the terms and conditions of employment arrived at through the process of collective bargaining.
+1
+ARTICLE 1
+SCOPE OF AGREEMENT
+Section 1.1	Parties
+The term “Union” or “PNWRCC” shall refer collectively and individually to the Pacific Northwest Regional Council of Carpenters and its affiliated Local Unions of the United Brotherhood of Carpenters and Joiners of America within the jurisdiction of this Agreement. The term “MEA” shall refer to the Millwright Employers Association, Inc. The term “Employer(s)” shall refer collectively and individually to the employers signatory to this Agreement.
+Section 1.2	Scope of Work
+This Agreement covers all New Construction and Maintenance work recognized as Millwright work as defined in Section 1.3 of this Agreement as assigned by the Owner to the Employer and performed by the employees of the Employer.
+Section 1.3	Definitions
+Section 1.3.1	New Construction
+New Construction shall include all work except that work which falls within the definition of “Maintenance” work as defined in Section 1.3.2.
+Section 1.3.2	Maintenance
+Maintenance work shall include any work performed of a renovation, replacement, repair or maintenance character within the existing limits of the plant property, or other locations related directly thereto; provided, however, that Main-2
+tenance work shall not apply to any new unit to be constructed if it is within the existing limits of the plant property.
+Section 1.3.3
+The term “renovation” used within this Agreement in connection with Maintenance work shall mean that work required to improve and/or restore by replacement or by revamping parts of an existing facility to efficient operating condition.
+Section 1.3.4
+The term “replacement” used within this Agreement in connection with Maintenance work shall mean that work required to modify, supplement or efficiently update existing facilities.
+Section 1.3.5
+The term “repair” used within this Agreement in connection with Maintenance work shall mean that work required to restore by replacement of parts of existing facilities to efficient operating condition.
+Section 1.4	Millwright Jurisdiction
+The machinery, equipment and associated components listed below which are identified for the purpose of description only, falls within the jurisdiction of the United Brotherhood of Carpenters and Joiners of America (Millwrights). Although some components of machinery and/or equipment may be described in one application or location and not in another, it shall not be excluded from our craft jurisdiction when, to avoid repetition, it is not described in other applications.
+3
+Section 1.4.1
+Millwright craft jurisdiction shall include the unloading, hoisting, rigging by any means, transferring, moving, cleaning, disassembling, assembling, welding, burning, erecting, calibrating, aligning, starting-up and testing, adjusting, repairing, and the maintaining of all machinery and equipment, be it powered by, or receiving power from, steam, gas, gasoline, diesel, jet, electric, pneumatic, water, solar, thermal, mineral, atomic, rocket, nuclear, chemical, wind or any other source, regardless of whether or not such machinery or equipment is temporarily or permanently installed or located.
+Section 1.4.2
+Some of the locations in which machinery, equipment and their components within the craft jurisdiction of Millwrights are: woodworking, canning, food, and computer industries, steel, metal, plastic, and glass manufacturing or recycling plants, foundries, ore reduction plants, stamping facilities, coffee roasting plants, paper, cellophane and film industries, feed and saw mills, rock, gravel, sand washing, stone crushing, cement and asphalt plants, water, sewage and chemical treatment plants, laundries, kitchens, restaurants, hospitals, bakeries, fertilizing and mixing plants, can, ice, bottle and bag manufacturing plants, textile, flour, and paint mills, breweries, milk, rendering and meat processing plants, locks, dams and bridges, coal yards, sugar refineries, ethanol or similar type facilities, post offices, package handling centers, incinerators, co-generation, coal gasification and power plants, automotive, truck and or similar manufacturing type factories, bio-research facilities, the amusement, recreational and entertainment fields.
+4
+Section 1.4.3
+Millwright craft jurisdiction shall include all activities necessary to: set all engines, motors, dynamos, generators, diesel generators, motor restraints, install; measure and align with optical instruments when necessary the reactors, control, push and shut-down rods, rod pressure housing, drives, guide sleeves and other related equipment in reactors, turbines, castings, combustion chambers and all its related components; the attachment of the inlet manifolds and exhaust ducts, cylinders, diaphragms, rotors, blade rings, blade or bucket assemblies, hydrogen coolers, blower assembles, packing joints on hydrogen coolers, exciter or Alterex and all others, turning gear, extension box, welding of extension box, lagging, stretching of coupling bolts or others; perform oil flush; install turbine lube oil tank, pumps and related component skids, filters, thrust bearings, the sweating on and shrinking of bearings, couplings, shafts and others, sole plates and machine bases; perform all precision grouting using the following materials: epoxy, wet, non-shrink, dripacking or other types; perform demineralizing and hydromation; and install mechanical dust systems, sensors, air compressors, super charges, coolers, boiler controls and linkage, Bailey Meters or similar devices and their linkages, fluid drives, embedded guides for traveling screens, traveling screens, roller, slide, knife, lock and sluice gates, limit torques on mechanical valves, gates and others, tainter valves, limit switches, trips, triggers or switches, including the brackets that are attached to, stop logs, dam rollers, transfer cars and gear head motors.
+5
+Section 1.4.4
+The setting of variable drives, fans, coal cranes, truck cranes or other types, including servicing and the adjusting and aligning of mechanical equipment within the cranes, crane rails and all other types of rails which would carry mechanically activated equipment, including their alignment, monorail (all sizes), trolleys, pumps and their associated components, packaging equipment, refrigerating equipment, chillers, and related equipment, lantern rings, packing glands, packing for pumps, pollution equipment, carbon absorbers, heat exchanges, grain, ball, hammer, roller mills and others, crushers and beaters, hoppers, bins, chutes and spouts, turn tables, shears, casing machines, robots, air-vey-ors, conveyors of all sizes, types, and styles regardless of the materials they are constructed with, including their supports, people movers, jetways, magnetic separators, hoists, feeding machinery, Z-loaders, S-loaders, palletizers, Triax equipment, mechanical equipment in scrubbers, pack towers, precipitators, cooling towers and air cooled condensers.
+Section 1.4.5
+Sewage and Water Treatment Plants - the disassembly, fabricating, rigging, erecting and aligning of skimmers, rake mechanisms, feed wells, baffles, scum troughs, de-gritting equipment, bar screens, communitors, mixers, pumps, aeration systems, blowers, membrane filtration systems, sequencing batch reaction systems, including related, filter presses, sand filtration systems (excluding installing the filtration media and associated earthworks), ultra violet rack systems, mechanical drive assemblies, conveyors, mono rails, gates
+6
+and setting odor control equipment, (excluding heating, ventilating and air conditioning work or associated earthworks).
+The setting of thru-clean bar, straight line bar, trash, tritor drum, and disc screens, straight line grit, circuline grit, cir-culine sludge, and circuline mixer collectors, straight line, flash, horizontal slow, vertical slow, and vibra flow feeder machines, pre-aeration and settling tanks, covers for tanks, bowls and basins including stationary or mechanical covers regardless of materials, thickeners, rotoline distributors, sludge bed cleaners, digestion systems, heaters, dyna-grind sewage screening grinders, screw pumps, spiral classifer, agitators, junk remover, hydro pulper, cooling fans, lube systems, se-lectifier screens, hydrosensors, fuel blowers, grizzly screens, trommels, table feeders, dryers, optical sorters, high tension separators, grip dewatering screens,flash mixer, horizontal slow mixer, vertical slow mixer, filter, cone and rotary presses, comminutors, barminutors, degreasers, rotometers, dehumidifiers, benches, washers for cars, trucks, buses, trains and other types, hydraulic units, shroud boxes, silencers, scales, load cells, eddy current clutches, disintegrators, dehairing machines, grain handling devices, laboratory equipment, machine shop equipment, ladle cars, stunning pens and doors, activation equipment, racks, material handling platforms, transition pieces, the handling and installation, of pulleys, gears, sheaves and fly wheels, air vacuum, worm, belt, friction, rope, chain and gear drives that are directly or indirectly coupled to motors, belts, chains, shafts, or screws, installation of legs, boots, guards and boot tanks, all bin and diverter valves, turn hands and indicators, shafting, bearing cable sprockets, cutting of all key seats in old and new work, 7
+troughs, chippers, calenders, rolls, winders, rewinders, slitters, cutters, wrapping machines, blowers, forging machines, pneumatic, electric and hydraulic rams, extractors, expellers and extruders, ball and dust collectors, splicing of ropes and cables.
+Section 1.4.6
+The laying out, fabrication and installation of protecting equipment including: machinery guards: the making and setting of templates for machinery: the fabrication of bolts, nuts, pans; the drilling of holes in machinery for any equipment which the Millwrights install, regardless of material;, all welding and burning regardless of type; the fabrication of all lines, hose or tubing used in the lubrication, operation, cooling or heating of machinery, including the installation of all fluids used to operate, lubricate, cool or heat equipment installed by Millwrights; the cleaning of machinery before turnover to owner; the machining, grinding, milling, broaching, boring, threading, lapping and keying that may be necessary for any part of equipment, including the starting up, breaking in, trial running and operational or functional testing of any equipment or machinery installed by the Millwrights.
+Section 1.4.7
+Rock, sand and gravel plants, batch or aggregate plants: installation and maintenance of all recycling equipment, crushers, conveyors, chutes from one piece of mechanical equipment into another piece of mechanical equipment, or from a vessel into a conveyor, or into other places or mechanical equipment or other mechanical equipment used (for the purpose of description only) to excavate material from one area to another from highways, roadways or elsewhere.
+8
+Section 1.4.8
+When optical instruments such as automatic levels, builder’s transits, precision jig transits, tilting levels, theodolites or other precision tools and instruments are used to locate and set machines, these tools are considered a tool of the Millwright trade and are to be used by Millwrights to set the equipment or machine.
+Section 1.4.9
+Asbestos removal on equipment in which Millwrights normally remove during maintenance and repair work.
+Section 1.4.10
+Any new equipment or technology designed to replace any of the equipment described above shall remain in the craft jurisdiction of the Millwrights.
+Section 1.4.11
+Nothing mentioned in these jurisdictional claims shall be in any way construed as conflicting with any agreements now in existence between the International United Brotherhood of Carpenters and Joiners and any other building trades craft of the AFL-CIO.
+Section 1.4.12
+The foregoing craft jurisdiction asserted by the Union is intended for the protection of the craft jurisdiction of the Union as compared with the alleged craft jurisdiction of any other union.
+9
+Section 1.4.13
+The Employer shall make the work assignment in writing on the Employer’s official letterhead where more than one (1) craft claims the work. A copy of such written assignment shall simultaneously be furnished to the craft or crafts concerned with the assignment of such work.
+ARTICLE 2
+RECOGNITION
+Section 2.1
+The Pacific Northwest Regional Council of Carpenters has asserted and presented evidence, or offered to present evidence, that a majority of the Employer’s employees performing work within the scope of the millwright trade has designated the Regional Council to represent them in collective bargaining. Predicated on that showing of majority support and the Regional Council’s request for recognition as majority representative, the MEA and the Employer hereby recognizes the Regional Council as NLRA Section 9(a) collective bargaining representative for all employees performing work within the millwright trade within the geographical jurisdiction of the Regional Council of Carpenters on all present and future jobsites, which the parties agree is a unit appropriate for bargaining under Section 9(a) of the National Labor Relations Board.
+10
+ARTICLE 3
+UNION SECURITY
+Section 3.1
+Membership in the Union shall be a condition of employment beginning with the eighth (8th) day following the beginning of such employment, or the effective date of this Agreement, whichever is the latter, and employees shall remain members in good standing to retain their employment.
+Section 3.2
+Union Security, shall not be applicable on work within the state of Idaho until the repeal or modification of the Idaho Right-to-Work law enabling the legal implementation of the clause, at which time the clause shall automatically become applicable to work performed within the state of Idaho.
+ARTICLE 4
+SUBCONTRACTING/PRE-JOB CONFERENCE
+Section 4.1
+The Employer agrees that, in the event any of the Millwright work coming under the scope of this Agreement is to be sub-contracted, as well as any traditional Carpenter or Piledriver jurisdiction, they shall:
+(a)	Furnish the Union the name and address of said subcontractor immediately upon awarding the sub-contract;
+(b)	Require the sub-contractor to be signatory to and in compliance with this Agreement or the current Area Master Agreement in effect for Carpenter or Piledriver work;
+11
+(c)	The Union agrees to allow a sub-contractor to be bound by the terms of these Agreements only on that work performed for an Employer or on an individual project without binding the sub-contractor to these Agreements on any other work for the same or any other Employer; and;
+(d)	Be ultimately responsible for their sub-contractor’s adherence to the terms and conditions of these Agreements, including, but not limited to, the timely payment of wages and contributions to the applicable fringe benefits.
+Section 4.2	DBE-WBE
+Whenever the Employer is obligated to satisfy DBE-WBE recruiting requirements, the Union and the Employer by mutual agreement may waive subsections (b) and (c) of Section 4.1, above, prior to commencement of the work in the event an Employer and Union are unable to find qualified competitive signatory DBE-WBE subcontractors.
+Section 4.3	Pre-job Conference
+The Employer will submit a completed Pre-Job Form (Addendum “B” to this Agreement) to the Union prior to commencing the job. When requested by the Union or the Employer, a Pre-job Conference shall be mandatory. Such Pre-job Conference shall be held in a mutually agreeable location in close proximity to the project unless the parties mutually agree to a more convenient location (Conference calls are acceptable).
+12
+ARTICLE 5 HIRING
+Section 5.1	Calling the Union
+Employers shall hire Qualified Millwrights, Journeymen and Apprentices by calling the Central Dispatch office at 1-800953-6444. The Employer, when requiring any classification of Millwrights for any job within the jurisdiction of this Agreement, shall notify the Central Dispatch Office in writing and complete the PNWRCC dispatch request form in its entirety for all applicants and/or employees.
+Section 5.2	Responsible Representatives
+To avoid duplication of orders and to effect an orderly hiring procedure, the each Employer agrees to designate a responsible representative for each project who the Union shall recognize as the agent of the Employer with authority to hire. Furthermore, the Union shall be notified in writing as to the names of the authorized representative and the parties mutually agree that the employment will be made only through such person(s) designated by the Employer.
+Section 5.3	Hiring Hall
+The Union signatory hereto shall maintain an exclusive hiring hall and may solicit workers, both union and non-union, for registration to fill requisitions for workers. Each Employer reserves the right to reject any job applicants referred by the Union. The Union agrees that there shall be no discrimination on their part against non-union workers in the 13
+operation of such hiring hall, and referral of applicants for employment shall in no way be based on or affected by union membership, by-laws, rules, regulations, constitutional provisions, or any other aspect or obligation of union membership, policies or requirements. The Employers and the Union agree that there will be no discrimination in hiring or referral of workers due to their race, creed, color, age or sex.
+Section 5.4	Out-of-Work List
+An Employer may request Millwright by name, without limitation or regard to their position on the Out-of-Work List. Once the Qualified Millwright Program has been established, preference in order of dispatch will be given to those Millwrights who have completed the requisite curriculum and are then currently identified as a Qualified Millwright or a specific Employer designated training program recognized by the Union. Dispatches will be given to Millwrights and state approved registered Apprentices on the Out-of-Work List in numerical order except when called by name, qualification, or called on an open-call basis for a specific skill, i.e., Millwright, Welder, minority, female or local hire requirements. In those cases, the first person on the list that meets the requested criteria and is available will be dispatched.
+Section 5.4.1
+When an employee is referred to the job by the Union, such referral shall be on a non-discriminatory basis, and not affected by membership or non-membership in the Union, past or present union activities, or age, sex, race, creed, color or national origin.
+14
+Section 5.5
+Unlawful Discrimination and Harassment - The parties recognize and agree that the discrimination against and/or the harassment of an applicant or employee as defined by local, state and federal laws is adverse to the interests of both the Union and the Employer. The parties agree that such discrimination and/or harassment is strictly prohibited.
+ARTICLE 6
+DISPUTE RESOLUTION PROCEDURE
+Section 6.1
+A grievance shall be considered null and void if not brought to the attention of the Employer within ten (10) calendar days after the occurrence of the incident which initiated the alleged grievance. Grievances shall be appealed to the next higher step within ten (10) calendar days after the meeting in the next lower step. Settlement of grievances may be arrived at in any step of the grievance procedure, which will be final and binding.
+Section 6.2
+Grievances shall be handled in the following manner:
+(a)	Between the Employer’s Supervisor and Steward, if one assigned, at the job site;
+(b)	Between the Representative of the Regional Council and the Employer’s Supervisor at the job site;
+(c)	Between the Regional Council Representative the Employer’s Supervisor or Labor Relations Manager and a representative of the MEA;
+15
+(d)	If the parties are unable to effect a settlement or adjustment of any grievance in the previous steps, then the matter shall be referred to arbitration (Federal Mediation and Conciliation services (FMCS) may be utilized if mutually agreed to by the parties). The arbitrator shall be selected by mutual agreement by the parties. The Arbitrator’s decision shall be confined to the question posed by the grievance. The Arbitrator shall not have authority to modify, amend, alter, add to or subtract from any provision of this Agreement. Any award of the Arbitrator shall be final and binding upon all parties. The parties to the arbitration shall share the costs and expenses of the arbitration equally.
+ARTICLE 7
+NO STRIKE / NO LOCKOUT
+Section 7.1
+During the term of this Agreement, there shall be no lockout by the Employer and no strikes, picketing, work stoppages, slow-downs or other disruptive activity for any reason by the Union or by any employee.
+ARTICLE 8
+HOURS OF WORK / OVERTIME / SHIFT WORK / SHOW-UP /CALL BACK
+Section 8.1 Hours of Work Single Shift Operation
+(a)	Eight (8) hours of continuous work between 5:00 a.m. and 6:00 p.m. shall constitute a day’s work (excluding an
+16
+unpaid one half hour for lunch). Five (5) days shall constitute a week’s work, Monday through Friday.
+(b)	In the event the job is down due to weather conditions, or other conditions beyond the control of the Employer, Monday through Friday, then Saturday may, at the option of the Employer, be worked as a voluntary make-up day at the straight time rate.
+(c)	Four (4) day, ten (10) hour shifts at the straight time rate may be established Monday through Thursday or Tuesday through Friday. In the event the job is down due to weather conditions, or other conditions beyond the control of the Employer, then Friday (when working Monday through Thursday) or Saturday (when working Tuesday through Friday) may, at the option of the Employer, be worked as a voluntary make-up day. All hours worked in excess of ten (10) hours a day or forty (40) hours a week must be compensated at the applicable overtime rate.
+(d)	Holiday Week: In the event that a holiday is celebrated during the week (Monday through Friday), the remaining four days of the week may be worked as a four-ten (4-10) shift at the straight time rate on a voluntary basis with three (3) days’ notice to the Union. In the event the job is down due to weather conditions, then Saturday may, at the option of the Employer be worked as a voluntary make-up day at the straight time rate.
+(e)	No employee shall be discharged, laid off, disciplined, replaced or transferred for refusing to work a voluntary make-up day.
+(f)	In the event of a civil emergency such as, but not limited to, earthquakes, floods, or fires, starting time of the shift 17
+may be made to fit the emergency and eight (8) continuous hours exclusive of a half-hour unpaid meal period in any twenty-four (24) hour period may be worked at straight time. In order to work such shift, mutual agreement shall be received.
+(g)	Qualified applicants reporting to the job-site within twenty-four (24) hours after being ordered must be put to work or paid the proper show-up time, unless the Union is notified of cancellation prior to referral. An Employer shall have no responsibility to pay show-up pay to applicants reporting after a twenty-four (24) hour period from the time of dispatch, Saturday, Sunday and Holidays excluded
+Section 8.1.1	Special Shifts
+(a)	If, due to conditions beyond the control of the Employer or when contract specifications require that work can only be performed outside the regular day shift, then, upon three (3) days written notice to the Union, a Special Shift may be worked, Monday through Friday, at the straight time rate.
+(b)	The starting time of work for the Special Shift will be arranged to fit such conditions of work. Such Special Shift shall consist of eight (8) hours of work for eight (8) hours of pay or ten (10) hours of work for ten (10) hours of pay on a four-ten work day schedule.
+18
+Section 8.1.2	Multiple Shift Operations
+Shifts may be established when considered necessary by the
+Employer. Shift hours and rates will be as follows:
+(a)	Two Shift Operation. On a two consecutive shift operation, no shift premium is required to be paid for work performed on either of these two (2) shifts. Each shift must be scheduled for at least eight (8) hours except as provided for in Section 8.1, above. On a two-shift operation, the second shift shall be established for a minimum of three (3) days.
+(1)	Once the starting times are established for the two-shift operation, they shall not be changed except upon three (3) working days written notice to the Union.
+(b)	Three Shift Operation. On a three-shift operation, the following shall apply:
+(1)	First Shift - The regular hours of work on the first shift of three shift operations shall be eight (8) hours of continuous employment, except for an unpaid meal period at mid-shift, between the hours of 5:00 a.m. and 6:00 p.m. at the straight time hourly wage rate.
+(2)	Second Shift - The second shift shall be eight (8) hours of continuous employment, except for and unpaid meal period at mid-shift, and shall be paid a premium of $2.00 above the regular straight time hourly wage rate.
+(3)	Third Shift - The third shift shall consist of eight (8) consecutive hours of employment, except for an
+19
+unpaid meal period at mid-shift, and shall be paid a premium of $3.25 above the regular straight time hourly wage rate.
+(c)	Multiple Shift Operation. A multiple shift (a two or three shift) operation will not be construed or applied to the entire project if, at any time, it is deemed advisable and necessary by the Employer to implement a multiple shift schedule on a specific operation. Only those groups of employees who relieve first shift groups of employees and such first shift groups of employees who are relieved by groups of employees on a second shift, and on a three shift operation, those groups of employees who relieve the groups of employees on a second shift, shall be construed as working multiple shifts. The intent of this clause shall be construed so as to recognize that a “reliever group” and a “relief group” do not necessarily mean “person for person” relief.
+(d)	Shift Rates. It is understood and agreed that when the first shift of a multiple shift (a two or three shift) operation is started at the basic straight time rate or at a specific overtime rate, all shifts of that day’s operation shall be completed at that rate.
+Section 8.2	Overtime Rates
+Section 8.2.1	Overtime on New Construction
+(a)	Monday through Friday, the first four (4) hours of overtime after eight (8) hours of straight time work shall be paid at one and one half (1-^) times the straight time rate of pay. All additional overtime will be paid at two (2) times the straight time rate of pay.
+20
+(b)	On a four ten (10) hour shift, Monday through Thursday or Tuesday through Friday, the first two (2) hours of overtime after ten (10) hours of straight time work shall be paid at one and one half (1%) times the straight time rate of pay. All additional overtime will be paid at two (2) times the straight time rate of pay.
+(c)	On a four ten (10) hour shift, the first twelve (12) hours of work on the fifth day (Friday or Saturday, as applicable) will be paid at one and one half (1%) times the straight time rate of pay; provided the fifth day is not a voluntary make-up day as provided in Section 8.1(b), above. All additional overtime shall be paid at two (2) times the straight time rate of pay.
+(d)	All work performed on Sunday and Holidays shall be paid at two (2) times the straight time rate of pay.
+(e)	When an employee is called out to work without at least eight (8) hours off since his/her previous shift, all such call out time shall be paid at the applicable overtime rate until he/she shall have eight (8) hours off.
+(f)	The Employer shall have the sole discretion to assign overtime work to employees.
+Section 8.2.2	Overtime on Maintenance Work:
+All work performed after the regular work shift (on single or multiple shift operations) shall be paid at the rate of time and one-half (1 % ) times the straight time rate of pay except Sundays and Holidays, which shall be paid at two (2) times the regular straight time rate of pay. When an employee is called out to work without at least eight (8) hours off since his/her previous shift, all such call out time shall be paid at the applicable overtime rate until he/she shall have eight (8) 21
+hours off. The Employer shall have the sole discretion to assign overtime work to employees.
+Section 8.3	Pay for Actual Time Worked
+Except as specifically provided elsewhere in this Agreement an employee is only entitled to receive pay for actual time worked.
+Section 8.4	Reporting and Minimum Hours Pay
+(a)	When an employee or applicant reports to work for his/ her regular or assigned shift and weather permitting is not put to work, he/she shall be paid two (2) hours reporting time and shall remain at the job-site for the two (2) hours if required by the Employer.
+(b)	Employees who work less than four (4) hours shall be paid for four (4) hours; they shall be paid a minimum of six (6) hours if required to work more than four (4) hours; they shall be paid eight (8) hours if required to work more than six (6) hours; and they shall be paid ten (10) hours if required to work more than eight (8) hours on a regularly established ten (10) hour shift. Employees who cannot work a full shift because of weather conditions shall be paid for actual hours worked.
+(c)	When employees or applicants, reporting for work arrive on the job unprepared to perform the work required (for example, under the influence of alcohol or drugs, or inadequately clothed), the Employer shall not be expected to put such individuals to work nor shall they be entitled to reporting pay if not put to work.
+22
+Section 8.5	Call Back Pay
+When an employee completes his/her scheduled shift and is “called back” to perform work and is put to work, the employee shall receive a minimum guarantee of four (4) hours pay at the applicable overtime rate; provided, however, that if the employee is called back to work, but is not put to work, then the employee shall receive two (2) hours pay at the applicable overtime rate.
+Section 8.6	Meal Period and Rest Breaks
+Employees shall not be required to work more than five (5) hours from the start of the shift without a one-half (%) hour unpaid break for a meal. This meal period shall not begin earlier than three and one-half (3%) hours after the start of the shift. If employees are required to work past five (5) hours, then they shall be paid one-half (%) hour at the applicable overtime rate (wages and benefits) and must be allowed time to eat their meal. If not allowed to eat their meal, employees will be paid an additional one (1) hour at the applicable overtime rate (wages and benefits).
+(a)	Employees required to work more than two (2) hours after the end of the regular shift shall be allowed a one-half (%) hour meal period which shall be considered as time worked, and if it is impractical for the employees to leave the job, then they shall be provided a meal by and at the expense of the Employer. If employees are not allowed to leave the job and no meal is provided during this second meal period, they shall be paid an additional one-half (%) hour of overtime.
+(b)	In the event that the Employer establishes a ten (10) hour day, then the meal period shall be at mid-shift. Employ-23
+ees’ meal period may be staggered during the period of three and one-half (3%) to five (5) hours from the start of the shift to cover necessary work of a continuous nature.
+Section 8.6.1
+For the purpose of this Section, the applicable overtime rate following a delay/missed meal, as noted above, shall be as follows:
+(a)	In the event the rate of the day is time and a half (1%), the applicable overtime rate will be two (2) times the straight time rate of pay.
+(b)	In the event the rate of the day is double time, the applicable overtime rate will be two and one-half (2%) times the straight time rate of pay.
+Section 8.6.2	Rest Periods
+(a)	Employees shall be allowed a rest period of not less than ten (10) minutes, on the Employer’s time, for each four (4) hours of working time. Rest periods shall be scheduled as near as possible to the midpoint of the work period. No employee shall be required to work more than three (3) hours without a rest period. The rest period will be taken at the employee’s work station. Where the nature of the work allows employees to take intermittent rest periods equivalent to ten (10) minutes for each four (4) hours worked, scheduled rest periods are not required. A rest period means to stop work duties, exertions, or activities for personal rest and rejuvenation.
+(b)	It will be the responsibility of each employee to take rest periods. If an employee does not take a rest period, then 24
+the employee must notify his/her supervisor and a rest period will be provided. If either or both rest periods are missed in a day, one half hour of straight time wages shall be paid (excluding benefits).
+(c)	Any disputes shall be resolved through the grievance procedure in Article 6.
+Section 8.7 Work Hours Different than Agreement
+When it is more convenient to the Employer and the employee, the Employer and the Union may mutually agree to work days and hours different than those specified in this Agreement, provided that the shift modification is agreed to in writing by the parties no less than three (3) days prior to implementation.
+ARTICLE 9 WORK RULES
+Section 9.1	Working Rules
+(a)	Employees shall have a sufficient time to put away tools before quitting time of each shift.
+(b)	No Employee shall rent, loan, or in any way furnish any automobile, pickup, truck, or other transportation, optical instruments, welders, torches, power tools of any kind, precision tools not on the standard tool list, any ladders, horses, benches or trestles, or any other tools and equipment normally furnished by the Employer, to the Employer for whom employed.
+(c)	It shall not be considered a violation of this Agreement where employees refuse to work with unsafe equipment or to perform any unsafe act.
+25
+(d)	The Employers shall furnish all required personal protective safety equipment on the job site such as hard hats, welding gloves, hood, safety goggles and special type of footwear that may be needed by the employee in performing his/her duties except for steel-toed shoes and cold weather clothing. Safety equipment shall be returned to the Employer, or at the termination of employment a reasonable cost for the same will be deducted from wages due upon written authorization of the employee.
+Section 9.2	Foreman
+(a)	The Employer will designate a Millwright Foreman to issue instruction to workers. To prevent duplication and confusion of orders, a worker at no time shall be directly responsible to more than one (1) Foreman, whether that Foreman is a Working Foreman or General Foreman.
+(b)	Whenever two (2) or more Millwrights are employed on a job, one will be designated Working Foreman and receive Working Foreman pay.
+(c)	No Working Foreman may supervise more than eight (8) workers at any stage of the job.
+(d)	No General Foreman may supervise more than five (5) Working Foreman at any stage of the job.
+(e)	A Superintendent or non-bargaining unit employee shall not use tools of the trade other than measuring devices.
+(f)	It is understood that the work orders shall proceed from the Employer or his direct representative to General Foreman, if employed, to Working Foreman and thence to Journeymen and Apprentices.
+(g)	No Steward shall ever act as a Foreman, due to the inherent conflict of interest.
+26
+Section 9.3	Termination for Cause
+For the purpose of this Agreement, “cause” as related to discharge for cause shall include, but not be limited to: absenteeism, disobedience of orders, unsatisfactory performance of duties, use or possession of unlawful drugs or alcohol, possession of a firearm, fighting on the job and violation of owners’ rules imposed upon the Employer. The Employer shall furnish each person discharged a termination slip showing the actual reason for termination, and a copy of it shall be mailed to the Union immediately.
+Section 9.4	Employer Required Physicals
+The Employer shall pay for all Employer required physicals, immunizations, drug and alcohol screening, and respirator fit tests. The employee is entitled to wages for the actual time spent while engaged in these activities. Whenever possible, the Union shall furnish employees that already have the necessary qualifications.
+Section 9.5	Welding Certifications
+The Union shall furnish previously certified welders with current certifications whenever possible. If an Employer requires a special welding procedure that the employees do not already have, the Union shall provide the testing prior to dispatch, provided that the Employer has notified the Union of the necessary procedure at least two (2) weeks prior to dispatch. All jobsite welding certifications shall be provided by the Employer. The employees shall receive wages and other pay while engaged in jobsite welding certifications.
+27
+Section 9.6	Lost-Time and Accidents
+The Employer shall notify the Union, as promptly as possible of all lost-time accidents and shall furnish the Union with a copy of the Employer’s accident report showing the name of the insurance carrier at the time such report is furnished to the insurance company.
+Section 9.7	Work Injuries
+If an Employee is injured on the job, provided the injury is reported to the Employer and requires medical attention off the site of work, then such employee is to be paid for time spent for such medical attention. If the doctor or applicable medical personnel determines and certifies that the employee is unable to return to work because of the injury, the employee shall be paid for the balance of the shift during which the injury occurred. This provision applies to medical attention received during working hours only.
+ARTICLE 10
+WAGES /PAY DAY
+Section 10.1	Wages and Benefits
+Employees shall be paid the applicable New Construction or Maintenance wage and fringe benefit hourly rates, Foreman rates, General Foreman rates, Apprentice rates and classification rates as contained in Addenda A1 through A5 to this Agreement applicable to geographic area in which the work is performed.
+28
+Section 10.2	Fringe Benefit Funds
+Each Employer agrees to be bound to and comply with all terms and conditions currently existing or hereafter amended applicable to those fringe benefit trust fund agreements specifically identified in Addenda A1 through A5, as applicable. Employer further agrees to execute all necessary documents required to participate in such fringe benefit trust funds.
+Section 10.3	Pay Day
+The Employer shall establish a regular weekly payday on which employees shall be paid during working hours, which payday shall not be later than Friday of the week following that in which the work was performed. If desired by the Employer and acceptable to the employee, direct deposit may be used for payday.
+Section 10.3	Itemize Deduction on Pay Checks
+The Employer shall itemize deductions on pay check stubs or direct deposit stubs so employees can determine the purposes for which amounts have been withheld or deducted and such stubs shall indicate the number of travel time hours, straight time hours, overtime hours and rate per hour paid.
+Section 10.4	Payment of Wages upon Termination
+When an employee is laid off, wages become due immediately and must be paid within the day of separation, except that an employee separated after 6:00 p.m. or an employee working at a job site in a remote area, or an employee who quits or is discharged for cause (as defined in Article XIV, Section 3), the Employer shall mail the check(s) by certified mail with return receipt to the Local Union office the follow-29
+ing work day. Failure to pay within the prescribed period of time (exclusive of Saturdays, Sundays and Holidays) shall entitle employee to waiting time of eight (8) hours per day until payment is received.
+Section 10.6	Dues Check-off
+In accordance with the terms of an individual and voluntary written authorization for check-off of Membership dues in the form permitted by the provisions of Section 302 (c) of the Labor Management Act, as amended, the Employer agrees to deduct for working dues an amount of wages once each week which has been or will be in the future authorized by the Membership. The working dues, which are deducted, shall be paid monthly by the fifteenth (15th) day of the month following the month in which they are deducted. The Employers will remit the Union dues deducted on the transmittal forms used for fringe benefit contributions and that the pro-rata costs of such forms and the collection and accounting thereof, including any costs incurred by the administrator for acting as authorization depository, will be paid by the Union to the fringe benefit administrator. Dues deduction may be changed once per year on the anniversary date of the contract.
+ARTICLE 11 APPRENTICES
+Section 11.1	Apprentice Wage and Fringe Benefit Contribution Rates
+Apprenticeship wages and benefit contributions are contained in Addenda A1 through A6, as applicable, and are 30
+based on the Journeyman wage in the area which the work is performed. .
+Section 11.2	Apprentice Ratios
+At least one (1) apprentice shall be employed for every four (4) journeymen (1:4 Apprentice to Journeyman ratio) on the job when apprentices are available. At no time shall apprentices be employed in a ratio greater than one (1) apprentice for each journeyman on the job unless mutually agreed to by the Union and the Employer.
+ARTICLE 12
+BENEFITS AND OTHER CONTRIBUTORY FUNDS
+Section 12.1	Health and Security
+The Employer agrees to be bound to the terms of the Health and Security Trust Agreement and any amendments thereto applicable to the geographic area in which work covered by this Agreement is performed as more specifically identified in the applicable Addenda to this Agreement.
+Section 12.2	Pension (Defined Benefit, Annuity, 401k etc)
+The Employer agrees to be bound to the terms of the Pension (Defined Benefit, Annuity and/or 401(k) Trust Agree-ment(s) and any amendments thereto trust agreements noted in the PNWRCC Area Master Agreement applicable to the geographic area in which work covered by this Agreement is performed as more specifically identified in the applicable Addenda to this Agreement.
+31
+Section 12.3	Apprenticeship and Training
+The Employer agrees to be bound to the terms of the Apprentice and Training Trust Agreement and any amendments thereto applicable to the geographic area in which work covered by this Agreement is performed as more specifically identified in the applicable Addenda to this Agreement.
+Section 12.4	Contract Administration Fund
+Each Employer shall contribute the sum of twenty-five cents ($0.25) per hour worked or paid to the Millwright Employers Association, Inc. for the purpose of administering this Agreement on behalf of all signatory Employers.
+Section 12.5	UBC Millwright Industry Trust
+Each Employer shall contribute five cents ($0.05) per hour worked or paid to the UBC Millwright Industry Trust (“Millwright Fund”) a joint labor-management trust created for the promotion of Millwright Industry. The Employer hereby agrees to be bound by the Agreement and Declaration of Trust (“Trust”) for the Millwright Fund as it exists and as it may be amended and as to such rules, regulations or other governing documents as may be adopted pursuant to such Trust.
+Section 12.6	Millwright Labor/Management Cooperation Committee
+Each Employer agrees to contribute the sum of fifteen cents ($ 0.15) per hour worked into the Millwright Labor/Man-agement Cooperation Committee, Inc., for the purpose of addressing on a cooperative basis the issues confronting the Millwright industry in the geographic area covered by this Agreement.
+Section 12.7	Contributions to Fringe Benefit Funds
+Health and Security, Pension, Annuity/Defined Contribution, Apprenticeship and Training Fund, Contract Administration, UBC Labor-Management Industry Promotion Fund and MEA/PNWRCC Labor/Management Cooperation Committee contributions shall be due and payable by the 15th day of the month following calendar month in which any and all hours are worked. (Date may be changed by obtaining prior consent from the Trustees and notification to the Union by the Trustees.) If the Employer fails to make timely payment, said Employer shall be subject to penalties prescribed in each of the trust documents. Should it become necessary for the Trustees to take legal action to enforce the payment of contributions from a delinquent Employer, and such contribution delinquency is proven, the Employer shall be liable for all costs and reasonable attorney’s fees.
+Section 12.8	Delinquent Contributions to Trusts
+In the event the Union takes economic action as recourse against Employers who have not made their payment of Health and Security and/or Pension Fund and/or Annuity/ Defined Contribution and/or Apprenticeship and Training Fund, it will not be deemed as a violation of this Agreement. If the Employer has failed to pay contributions to the retirement, defined contribution, or health trusts for a period of two (2) months, or if the Employer is delinquent for the second time for a period of at least one (1) month within a twelve (12) month period of their first delinquency, then the Union may strike the Employer and the Union shall not dispatch Millwrights to the Employer. If the Employer makes satisfactory arrangements with the Administrator to satisfy 33
+the debt, which arrangement may include the execution of a confession of judgment, the posting of a bond or other security, the making of weekly contributions, or any combination of the above, then the Administrator may advise the Union that Millwrights may be dispatched to the Employer. If the Employer contests the amount of contributions due and owing, the Employer may request an audit by the trust auditors, which would proceed as soon as possible. No economic action will be taken by the Union until at least five (5) days after the auditor’s report has been received by the Employer. If the Employer is found to be delinquent to a material degree, then the Employer shall pay the total cost of the audit. The Employer will cooperate fully in the audit and during the audit no Millwrights shall be dispatched to the job.
+Section 12.9	Wages and Fringe Benefits for Traveling “Key” Employees
+The Union agrees that Employers signatory to this Agreement or any UBC&J International Agreement may bring key personnel into this jurisdiction to work under the terms and conditions of this Agreement. The Employer may, at its discretion, directly submit Pension, Annuity/Defined Contribution and Health and Welfare contributions to the employee’s home local union or district/regional council trust funds. If the Employer chooses this option, it shall provide sufficient proof to the Union that the appropriate contribution amount has been paid to the home area local or district/ regional council funds. This option shall not be available if the employee’s home area local or district/regional council fund refuses to accept such payments. In no event shall the Employer’s key employees be paid less in total hourly wag-34
+es and benefits than the total hourly wages and benefits as required under this Agreement. This provision is strictly limited to the Employer’s payment of Pension, Annuity and Health and Welfare contributions. The Employer is required to pay dues check-off, Apprentice Training, MEA/PNWRCC Labor/Management Cooperation Committee and Contract Administration and any and all other contributions required under this Agreement according to the terms of this Agreement and the funds identified herein.
+*Note If the benefit package for the direct benefit fringes in the area in which the employee is working is higher than the amount being paid into the key employee’s home-area trusts, the total difference in the hourly fringe contribution rates shall be paid to the key employee in the form of wages.
+ARTICLE 13 HOLIDAYS
+Section 13.1
+The holiday rate shall apply for work performed on the following days:
+New Year’s Day Labor Day Memorial Day Independence Day Thanksgiving Day Friday and Christmas Day	Saturday after
+Thanksgiving
+Section 13.2
+When any of these holidays shall fall on Sunday, then the following Monday shall be considered a legal holiday. If the holiday falls on a Saturday the preceding Friday shall be considered a legal holiday.
+35
+Section 13.3
+In the event that there is a conflict between the State and the Federal Government on the observance date of any of the above listed holidays, the State observance date shall prevail.
+Section 13.4
+Notwithstanding any other provision, the Employer and the Union may agree to observe the Holiday on a day other than the State Observed Holiday if it is more convenient to the Employer and the Employees.
+Section 13.5
+In the event other holidays are observed by all of the other trades on a jobsite, the Employer and Union may mutually agree to observe the same holidays for that project.
+ARTICLE 14
+MANAGEMENT RIGHTS
+Section 14.1
+The Employer retains all discretionary and decision-making rights not specifically limited by the terms of this Agreement. These rights include, but are not limited to, the following: directing the jobsite work force, including hiring of personnel; selection of all supervisory employees; promotions, transfers, layoffs, discharge of employees for just cause; selecting material and equipment to be used or installed; utilizing any work methods, procedures, techniques of construction or labor-saving devices or machines; establishing jobsite rules and regulations; determining when overtime work is required and who shall perform overtime work; designation 36
+of work to be subcontracted; selection of all subcontractors; and determining the number of men and craft supervisory personnel required to perform the work. The Employer shall be the sole judge of an employee’s ability, competence and performance.
+ARTICLE 15
+UNION REPRESENTATIVES AND STEWARDS
+Section 15.1	Admission to Job
+The authorized representative of the Union signatory to this Agreement shall be allowed admission to any job at any time for the purpose of investigating conditions existing on the job. The Union representative(s) visiting the jobsite shall adhere to all reasonable jobsite access security provisions. On projects, which are under federal security or military guard, the Employer will cooperate with the Union officials in this regard as far as regulations will permit.
+Section 15.2	Access to Company Records
+The Union shall have reasonable access to company records to verify payment of Health and Security and Pension and Apprenticeship and Training fund contributions and rate of pay and payroll deductions of employees covered by this Agreement.
+Section 15.3	Job Steward
+(a)	The Union shall notify the Employer in writing of its job stewards.
+(b)	Every job steward shall perform work for the Employer to the same extent as other employees, however, a job 37
+steward may take reasonable time off from his/her regular duties when an employee (or group of employees) desires to take up with the job steward any matter which is believed to be in violation of this Agreement. In such cases, before leaving his/her work area, the job steward shall inform his immediate supervisor where he/she wishes to go and shall secure permission to leave. The Steward shall also report back to the supervisor on his/ her return.
+(c)	When forces must be reduced, if all other considerations are equal, the steward shall not be discharged except for just cause and shall remain on the job provided that there are at least four (4) Millwrights on the project. When a job steward must be laid offor discharged, the Union will be notified forty-eight (48) hours prior to such action. A job steward will be given a reasonable amount of time to take up his/her report once a week.
+(d)	Each shift may have a job steward. No job steward shall be allowed to solicit membership in his/her organization or to collect any monies from any employees on the job during working hours. No job steward will be discharged by the Employer because of his/her Union activities.
+(e)	Stewards are not authorized to threaten, direct or cause a work stoppage or slowdown.
+38
+ARTICLE 16 MILLWRIGHT TOOL LIST
+Section 16.1
+The following tools shall be provided by the employee at the time work commences:
+1.	Tool boxes
+2.	Socket set - 3/8” and 1/2” drive with sockets to 1-1/4” (no speed handles
+3.	Set of wrenches up to 1-1/4”
+4.	Set of adjustable wrenches up to 16”
+5.	Set of Allen wrenches up to 5/8”
+6.	Vice grips
+7.	Channel locks
+8.	Set of screwdrivers - standard and phillips
+9.	Cold chisels
+10.	Center punches
+11.	Prick punches
+12.	Different sized drift punches
+13.	Brass drift
+14.	Brass hammer and/or soft hammer
+15.	4” C clamps or welder’s clamps
+16.	Set of pliers up to four pairs of various types
+17.	Small wedges
+18.	Combination square set with protractor head and center head
+19.	Sets of feeler gauges
+20.	0-1” Micrometer
+21.	Dial indicator set
+22.	Dial indicator clamp or holder
+23.	Gasket scraper
+39
+Tool List (continued)
+24.	Pencil magnet
+25.	Soap stone holder
+26.	Small pry bar
+27.	Hacksaw frame with
+(blade furnished by contractor)
+28.	Chalk line box
+29.	Screw jacks
+30.	Tin snips
+31.	Bevel square
+32.	6” Slide caliper or inside and outside caliper up to 6”
+33.	Precision plumb bob
+34.	Pair of dividers under 12”
+35.	Set of trammel points
+36.	98 12” Level and 1 smaller level optional
+37.	Scribes
+Maximum tools, unless otherwise stipulated by contract.
+Any tools not listed above, but required by the Employer, shall be furnished by the Employer.
+Section 16.2
+The Employer shall supply any tools required for the work that are not listed in Section 16.1. Under no circumstances are any employees allowed to bring power tools, pneumatic tools or precision tools that are not listed on the tool list in Section 16.1.
+40
+Section 16.3	Personal Tools
+The Employer shall furnish a suitable place; dry, clean and safe for keeping employees’ tool kits and weather gear, separate from other trades and separate from company tools, and the same to be provided with a suitable lock, for protection of tools and gear, during non-working hours, and separate from alternate shifts. It shall be the responsibility of the Employer for the reimbursement based on today’s actual cost and the industrial standard of the Employees’ tools and weather gear lost through fire, flood, theft by forced entry or damage by employer’s equipment while same are at the job-site. Employers may require from the Employee a list of tools and work clothing so stored prior to accepting liability for any loss of an Employee’s tools or work clothing.
+Section 16.4
+The Employer agrees to provide workers on each shift with an adequate, dry, locked and safe storage place for the storage of the employee’s tool necessary in the performance of work.
+ARTICLE 17
+TRAVEL AND SUBSISTENCE
+Section 17.1 Travel & Subsistence
+The Employer shall pay to its employee’s the Travel and Subsistence payments contained in the applicable Addenda to this Agreement covering the geographic area where the work is performed.
+41
+ARTICLE 18
+SAFETY AND HEALTH
+Section 18.1	First Aid
+The parties to this Agreement recognize the desirability of reducing to a minimum, fatalities and injuries arising out of employment and further recognize that the problem can be solved best by cooperative effort and the following requirements for first aid:
+(a)	The Employer will keep and maintain fully equipped standard First Aid Kits (as prescribed by the National Safety Council) at the construction site.
+(b)	All foremen shall be required to have a current First Aid Card. All Millwrights, especially stewards, are encouraged to have a current First Aid Card, Blood borne Pathogen, CPR Training, and AED Training. The Union shall make these upgrade classes available on a regular basis to all Union members through the JATC, as well as whenever there are enough journeyman and apprentices requesting the class to fill the class.
+(c)	Blankets and stretchers shall be maintained for the use of employees who may be injured.
+(d)	A Company Safety Person, a Job Steward or the job Foreman shall accompany workers whose injuries require the use of a stretcher to the hospital.
+(e)	Immediate transportation must be provided for seriously ill or injured employees and such transportation must have precedence over all other transportation under the control of the firm or party upon whose operation the accident occurs (such transportation to be the most 42
+convenient point where the ill or injured employee can receive recognized medical attention).
+(f)	In power generation facilities, or other workplace where employees could be exposed to high voltage, an AED (automatic external defibrillator) shall be available. The Foremen at these jobsites shall have CPR and AED Training.
+(g)	If the Employer requests that all employees on a particular job have First Aid, CPR, AED, and Blood borne pathogen training, the Union will provide the training for the employees (provided they do not already have the upgrade training) at the expense of the Employer. When available, the Union shall dispatch employees that already have this training.
+Section 18.2	Sanitation
+The Employer agrees to furnish and maintain the facility in a reasonable sanitary condition.
+Section 18.3	Unsafe Equipment
+It shall not be considered a violation of this Agreement where employees refuse to work with or ride in unsafe equipment or where adequate safeguards are not provided or when facilities and services are not maintained as provided for in this Agreement.
+Section 18.4	Working with Hazardous or Toxic Materials The Employer and employee shall exercise proper precautionary measures when working with hazardous materials, creosote, epoxy, or toxic materials. The Employer will use non-toxic materials where practical. The Union shall provide 43
+Hazardous Material Training as a regularly scheduled journeyman upgrade class, and will endeavor to provide trained employees. In the event, an Employer requires Hazardous Material Training for all employees on a particular job and the employees do not have the upgrades, the Union will provide that training at the expense of the Employer.
+Section 18.5	Death and Return of Deceased
+In the event of the death of an employee, the Employer shall, in the absence of any law or authority prohibiting the same, prepare and transport the remains to point of hire or to such other point equivalent or less distance as the next of kin may elect.
+Section 18.6	Substance Testing Program
+The parties to this Agreement recognize that workplace safety is of paramount importance. The parties further recognize that the presence of a worker impaired by alcohol or drugs on a jobsite is detrimental to workplace safety. Therefore, the parties to this Agreement agree to meet and confer to establish a mutually agreeable alcohol and drug testing program applicable to employees working under this Agreement. The Policy set forth in the applicable PNWRCC Area Master Agreement shall be adhered to unless and until the parties agree to an alternate program.
+44
+ARTICLE 19
+MEA/PNWRCC LABOR-MANAGEMENT COMMITTEE
+Section 19.1
+There shall be established a MEA/PNWRCC Labor-Management Committee to facilitate interpretation of this Agreement and any and all addendum’s, to foster harmony between the parties and to promote the Union Industry and encourage the use of Union Employers and Union Millwrights. The committee shall consist of four (4) members selected from the Union and four (4) members selected by the MEA from any of the Employer’s signatory to this Agreement.
+ARTICLE 20
+SPECIAL CONDITIONS
+Section 20.1
+Both parties recognize that there may be extenuating circumstances when it is to the mutual interest of both parties to modify the terms of this Agreement. In that event, it will not be a violation of this Agreement for the parties having jurisdiction over the job-site and work affected to meet and mutually agree to make such modifications to meet a specific need on a specific project. Such modifications shall be in writing and approved by representatives of both parties.
+45
+ARTICLE 21 FAVORED NATIONS
+Section 21.1
+If the Union enters into any agreement with any individual employer or group of employers performing Millwright work on any project or in any geographical area covered by the terms of this Agreement and that Agreement provided for more favorable wages, hours or conditions to any other Employer, the Employers signatory to this agreement for its duration, after sending written notice of such intention, shall be afforded the privilege to adopt such other agreement in full with respect to that geographical area and that project. This favored nations clause shall not apply to other agreements concerning Carpentry or Piledriving work, or vice versa. It is understood that this contract shall take precedence in areas of Millwright work, and this clause shall only apply to other Millwright employers. The Union will provide the MEA and such signatory employers with a true copy of any agreement signed by any employer that covers work recognized as field construction work that differs in any material way from the working terms and conditions or wages contained in this agreement within five (5) calendar days of such signing.
+ARTICLE 22
+NO DISCRIMINATION
+Section 22.1
+The Union and the Employers agree to abide by Title VII of the Civil Rights Act of 1964, as amended, the Age Discrimination in Employment Act, as amended, the Rehabilitation 46
+Act of 1973, as amended, the Americans with Disabilities Act, as amended, the Uniformed Services Employment and Re-Employment Rights Act of 1994, as amended, and all Executive Orders and subsequent amendments thereto regarding such nondiscrimination in employment laws.
+ARTICLE 23
+GENERAL SAVINGS
+Section 23.1
+If any article or provision of this Agreement shall be declared invalid, inoperative or unenforceable by any competent authority of the executive, legislative, judicial or administrative branch of the federal, state or local government, the parties shall suspend the operation of each such article or provision during the period of its invalidity. Such suspension shall not affect the operation of any other provision of this Agreement to which the law or regulation does not apply.
+ARTICLE 24
+ENTIRE AGREEMENT
+Section 24.1
+This Agreement represents the complete understanding of the parties. Any amendment to or modification of this Agreement must be reduced to writing and signed by the Union and the MEA.
+47
+ARTICLE 25
+TERM OF AGREEMENT
+Section 25.1
+This Agreement shall become effective July 1, 2015, and shall continue in full force and effect through June 30, 2020, and thereafter from year to year unless notice of the party’s desire to modify, change, amend or terminate this Agreement is given in writing to the other party not more than ninety (90) days nor less than sixty (60) days prior to the expiration date or the expiration date of any subsequent renewal period.
+IN WITNESS WHEREOF, this first day of July, 2015, by duly authorized agents and representatives of the parties hereto. No previous written or oral agreements shall apply after the signing of this Agreement.
+Signature^
+Executive Assistant
+Address.
+By
+By (print nam^J
+'Signature
+'Contract Administration'
+Phone
+Required Signers
+MILLWRIGHT EMPLOYERS ASSOCIATION
+PNW REGIONAL COUNCIL OF CARPENTERS
+48
+This page left intentionally blank.
+49
+ADDENDUM A-1
+Western Washington Wage/Fringe Schedule and Special Conditions
+(Wages and Benefits will be updated in a separate Schedule A on an annual basis once the Area Master Agreement of which the wages and benefits are tied is agreed upon and ratified by the membership.)
+GEOGRAPHIC AREA COVERED: Western Washington
+*Counties west of the 120th Meridian in the State of Washington: Whatcom, Skagit, Snohomish, King, Pierce, Thurston, Lewis, Grays Harbor, Kitsap, Island, San Juan, Clallam, Jefferson, Mason, Yakima, Kittitas, Chelan, Douglas, Okanogan and that portion of the Pacific County north of a straight fine made by extending the north boundary of Wahkiakum county west to the Pacific Ocean.
+WAGES & FRINGE BENEFITS Effective June 1, 2015:
+A. New Construction
+Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+$41.86	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$55.97
+B. Maintenance
+Wages $37.67	Health & Pension Security			Apprentice Training $0.75	Contract Admin $0.25	Millwright Labor/Mngmt Cooperation Committee $0.15	UBC Millwright Industry Trust $0.05	Total Package $51.78
+	$7.41	$5.50						
+C. New Construction Apprentice Rates Period Wages Health & Pension Apprentice					Contract	Millwright	UBC	Total
+UI —L 1	$25.12	Security $7.41	$0.00	Training $0.75	Admin $0.25	Labor/Mngmt Cooperation Committee $0.15	Millwright Industry Trust $0.05	Package $33.73
+2	$27.21	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$41.32
+3	$29.30	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$43.41
+4	$31.40	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$45.51
+5	$33.49	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$47.60
+6	$35.58	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$49.69
+7	$37.67	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$51.78
+8	$39.77	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$53.88
+D. Maintenance Apprentice Rates
+Period	Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+1	$22.60	$7.41	$0.00	$0.75	$0.25	$0.15	$0.05	$31.21
+2	$24.49	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$38.60
+3	$26.37	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$40.48
+4	$28.26	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$42.37
+ui 5	$30.14	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$44.25
+M 6	$32.02	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$46.13
+7	$33.91	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$48.02
+8	$35.79	$7.41	$5.50	$0.75	$0.25	$0.15	$0.05	$49.90
+FRINGE BENEFIT FUNDS:
+A.	Health & Security
+Western Washington Carpenters Employers Health and Security Fund
+B.	Pension
+Carpenters Retirement Plan of Western Washington
+C.	Apprentice Training
+Carpenters-Employers Apprenticeship and Training Fund of Washington-Idaho
+WELDER PREMIUM; $1.00 per hour when welding
+FOREMEN/GENERAL FOREMEN:
+A.	Foreman Pay: Ten percent (10%) per hour above the highest paid Journeyman under his/her supervision.
+B.	General Foreman Pay: Fifteen percent (15%) per hour above the highest paid Journeyman under his/her supervision.
+TRAVEL & SUBSISTENCE:
+A.	Per Diem:
+The Employer agrees to provide each employee a per diem of thirty-five dollars ($35.00) for food if the project is outside a fifty (50) mile radius from:
+1.	Seattle, Washington
+2.	Tacoma, Washington
+3.	Port Angeles, Washington
+4.	Aberdeen, Washington
+5.	Bellingham, Washington
+B.	Lodging:
+If the project is outside the fifty (50) mile radius from the city centers listed above the Employer agrees to furnish acceptable single occupancy lodging to each employee. Employers are encouraged to use
+commercial facilities and lodges, however, when such facilities are not available, per diem in hen of room and lodging shall be paid at the rate of one hundred dollars ($ 100.00) per day, or part thereof, from the date of hire for the project to the date of termination of employment on the project.
+Special Provisions
+UI
+This page left intentionally blank.
+ADDENDUM A-2
+Eastern Washington/Northern Idaho Wage/Fringe Schedule and Special Conditions (Wages and Benefits will be updated in a separate Schedule A on an annual basis once the Area Master Agreement of which the wages and benefits are tied is agreed upon and ratified by the membership)
+GEOGRAPHIC AREA COVERED: Eastern Washington* and Northern Idaho*
+*Counties of east of the 120th Meridian: Adams, Asotin, Benton, Chelan, Columbia, Douglas, Ferry, Franklin, Garfield, Grant, Kittitas, Lincoln, Okanogan, Pend Oreille, Spokane, Stevens, Walla Walla, Whitman, and Yakima in the State of Washington; and Benewah, Bonner, Boundary, Clearwater, Kootenai, Latah, Lewis, Nez Perce, Shoshone and north of the 46th parallel of Idaho County in the State of Idaho.
+WAGES & FRINGE BENEFITS Effective lune 1, 2015:
+A. New Construction
+Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+$41.86	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$56.80
+B. Maintenance
+Wages $37.67	Health & Pension Security			Apprentice Training $0.75	Contract Admin $0.25	Millwright Labor/Mngmt Cooperation Committee $0.15	UBC Millwright Industry Trust $0.05	Total Package $52.61
+	$7.41	$6.33						
+C. New Construction Apprentice Rates Period Wages Healths Pension Apprentice					Contract	Millwright	UBC	Total
+UI 1	$25.12	Security $7.41	$0.00	Training $0.75	Admin $0.25	Labor/Mngmt Cooperation Committee $0.15	Millwright Industry Trust $0.05	Package $33.73
+2	$27.21	$7.41	$0.00	$0.75	$0.25	$0.15	$0.05	$42.15
+3	$29.30	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$44.24
+4	$31.40	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$46.34
+5	$33.49	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$48.43
+6	$35.58	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$50.52
+7	$37.67	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$52.61
+8	$39.77	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$54.71
+D. Maintenance Apprentice Rates
+Period	Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+1	$22.60	$7.41	$0.00	$0.75	$0.25	$0.15	$0.05	$31.21
+2	$24.49	$7.41	$0.00	$0.75	$0.25	$0.15	$0.05	$39.43
+3	$26.37	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$41.31
+4	$28.26	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$43.20
+ui 5	$30.14	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$45.08
+05 6	$32.02	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$46.96
+7	$33.91	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$48.85
+8	$35.79	$7.41	$6.33	$0.75	$0.25	$0.15	$0.05	$50.73
+FRINGE BENEFIT FUNDS:
+A.	Health & Security
+Western Washington Carpenters Employers Health and Security Fund
+B.	Pension
+Washington, Idaho, Montana Carpenters Pension Fund
+C.	Apprentice Training
+Carpenters-Employers Apprenticeship and Training Fund of Washington-Idaho
+WELDER PREMIUM; $1.00 per hour when welding
+FOREMEN/GENERAL FOREMEN:
+A.	Foreman Pay: Ten percent (10%) per hour above the highest paid Journeyman under his/her supervision.
+B.	General Foreman Pay: Fifteen percent (15%) per hour above the highest paid Journeyman under his/her supervision.
+TRAVEL & SUBSISTENCE:
+A.	Per Diem:
+The Employer agrees to provide each employee a per diem of thirty-five dollars ($35.00) for food if the project is outside a fifty (50) mile radius from:
+1.	Kennewick, Washington
+2.	Spokane, Washington
+B.	Lodging:
+If the project is outside the fifty (50) mile radius from the city centers listed above the Employer agrees to furnish acceptable single occupancy lodging to each employee. Employers are encouraged to use commercial facilities and lodges, however, when such facilities are not available, per diem in lieu of
+a> o
+room and lodging shall be paid at the rate of one hundred dollars ($ 100.00) per day, or part thereof, from the date of hire for the project to the date of termination of employment on the project.
+Special Provisions
+This page left intentwnaUy blank.
+ADDENDUM A-3
+State of Alaska Wage/Fringe Schedule and Special Conditions
+(Wages and Benefits will be updated in a separate Schedule A on an annual basis once the Area Master Agreement of which the wages and benefits are tied is agreed upon and ratified by the membership)
+GEOGRAPHIC AREA COVERED: The Entire State of Alaska
+WAGE & FRINGE BENEFITS Effective September 1, 2015
+A. New Construction
+62
+Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+$36.49	$9.78	$11.26	$1.00	$0.25	$0.15	$0.05	$58.98
+B. Maintenance							
+$32.92	$9.78	$9.26	$1.00	$0.25	$0.15	$0.05	$53.41
+C. New Construction Apprentice Rates
+Period	Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+1	$21.89	$9.78	$6.66	$5.60	$0.25	$0.15	$0.05	$44.38
+2	$23.72	$9.78	$6.66	$5.60	$0.25	$0.15	$0.05	$46.21
+3	$25.54	$9.78	$7.66	$4.60	$0.25	$0.15	$0.05	$48.03
+4	$27.37	$9.78	$7.66	$4.60	$0.25	$0.15	$0.05	$49.86
+5	$29.19	$9.78	$8.66	$3.60	$0.25	$0.15	$0.05	$51.68
+6 O)	$31.02	$9.78	$8.66	$3.60	$0.25	$0.15	$0.05	$53.51
+° 7	$32.84	$9.78	$9.66	$2.60	$0.25	$0.15	$0.05	$55.33
+8	$34.67	$9.78	$9.66	$2.60	$0.25	$0.15	$0.05	$57.16
+D. Maintenance Apprentice Rates								
+1	$19.75	$9.78	$4.66	$5.60	$0.25	$0.15	$0.05	$40.24
+2	$21.40	$9.78	$4.66	$5.60	$0.25	$0.15	$0.05	$41.89
+3	$23.04	$9.78	$5.66	$4.60	$0.25	$0.15	$0.05	$43.53
+4	$24.69	$9.78	$5.66	$4.60	$0.25	$0.15	$0.05	$45.18
+5	$26.34	$9.78	$6.66	$3.60	$0.25	$0.15	$0.05	$46.83
+6	$27.98	$9.78	$6.66	$3.60	$0.25	$0.15	$0.05	$48.47
+7	$29.63	$9.78	$7.66	$2.60	$0.25	$0.15	$0.05	$50.12
+8	$31.27	$9.78	$7.66	$2.60	$0.25	$0.15	$0.05	$51.76
+FRINGE BENEFIT FUNDS:
+A.	Health & Security
+Alaska Carpenters Health and Welfare Fund
+B.	Pension
+Alaska Carpenters Defined Contribution Fund
+C.	Apprentice Training
+Alaska Carpenters Training Fund
+WELDER PREMIUM; $1.00 per hour when welding
+o, FOREMEN/GENERAL FOREMEN:
+A.	Foreman Pay: Ten percent (10%) per hour above the highest paid Journeyman under his/her supervision.
+B.	General Foreman Pay: Fifteen percent (15%) per hour above the highest paid Journeyman under his/her supervision.
+TRAVEL & SUBSISTENCE:
+A.	Per Diem:
+The Employer agrees to provide each employee a per diem of thirty-five dollars ($35.00) for food if the project is outside a fifty (50) mile radius from:
+1.	Anchorage, Alaska (International Airport)
+B.	Lodging:
+If the project located more than fifty (50) miles (by maintained road) from the city centers fisted above the Employer agrees to furnish acceptable single occupancy lodging to each employee. Employers are encouraged to use commercial facilities and lodges, however, when such facilities are not available, per diem in lieu of room and lodging shall be paid at the rate of one hundred dollars ($ 100.00) per day, or part thereof, from the date of hire for the project to the date of termination of employment on the project.
+Camp Addendum (Alaska only)
+o>
+01 Section 1. Camp Facilities
+All camps, regardless of size and location, shall provide adequate bathing facilities for employees. Showers are preferable and shall be provided in ratio of at least four (4) shower heads for each fifty (50) employees. The Employer and subcontractors shall furnish towels, washcloths and hand soap to all employees. Each employee shall be allowed housing of approximately sixty (60) square feet of floor area, and shall be furnished bedding and weekly change of linen. Shelterwells and similar structures shall require approximately ninety (90) square feet of floor area per employee. Adequate closet or locker space shall be provided each employee and where more than two (2) employees are housed in a single room a locker and keys or lockable closet shall be provided each employee. There shall be no more than four (4) employees housed in any room or a standard 16 X 24 shelterwell. Room attendants shall be required to make beds, sweep floors, and tidy rooms
+daily, excluding Sundays and Holidays, and one day each week shall give each room a general cleaning, including mopping with soapy water. Double bunks are not to be used. The Employer shall furnish an adequate number of washers and dryers, both in camp and in facilities arranged for through a third party. The parties recognize that in some instances commercial built trailers may have less square footage per employee than above specified. Such trailers may be used but only after agreement is reached between Employer and Union. In the event of a disagreement as to adequacy, such disagreement will be handled under the dispute clause.
+Section 1.1	Free Room and Board
+Where employees are provided free board and room the following additional provision shall apply:
+(a) Where a camp is established, the Employer retains the option of having an employee live and/or eat out of camp, providing the Employer and the Union have reached a prior agreement as to the amount to be paid in lieu of camp facilities.
+Section 1.2	Board and Lodging for Injured Employees
+The Employers agree to furnish, without charge, board and lodging to those employees who through no fault of their own are unable to work, or who sustain job-connected injuries not serious enough to require hospitalization, but which render an employee unable to work, for each day of inability to work, but in no event shall this period exceed seven (7) days. If the question arises as to a worker’s ability to return to work, it shall be settled by a report of licensed medical authority whose decision shall be final and controlling.
+Section 1.3	Per Diem
+Per diem shall be paid in accordance with Section 17.1 for seven (7) days per work week or as mutually agreed to by the Employer and the Union prior to dispatch of workers.
+Section 2.	Transportation to the Site
+When persons are recruited, transportation and actual reasonable expenses of board and lodging while en route shall be borne or reimbursed by the Employer.
+Section 2.1	Transportation from the Site
+At the termination of the contract, project, or season, layoff, discharge, or voluntary termination, and providing the employee immediately, unless otherwise mutually agreed to by the employee and the Employer, returns 5 to the point of hire, the Employer shall pay for transportation, actual expenses of board and lodging while en route to the point of hire. Employer furnished transportation to the point of hire shall be provided all persons required to leave the job for medical reasons sufficient to require extended medical care or hospitalization.
+Section 2.2	Waiting for Transportation
+The Employers will make an earnest effort to avoid the necessity of employees waiting for transportation to or from the jobsite.
+Section 2.3	Air Travel
+When employees are transported in aircraft, such aircraft shall be operated, maintained, and have a certificate of air worthiness and the pilot shall be licensed and certificated all in accordance with applicable laws and regulations.
+Section 2.4	Transportation of Tools
+Transportation costs for Employer required tools from point of hire to the jobsite and return shall be borne by the Employer. Personal effects shall be transported at no expense to the employee up to the maximum allowed as baggage by a common commercial carrier. When an employee is returning to point of hire, personal effects and tools shall be assigned on the same carrier as used by the employee, or the employee shall receive standby time at the rate of eight (8) hours per day at the straight time rate until personal effects and/or tools arrive at the point of hire, unless the delay is through no fault of the employer. The Union and the Employer may arrive at an equitable settlement in lieu of further standby time in the event they are lost enroute.
+Section 2.5	Voluntary Termination
+When an employee voluntarily terminates and the Employer is unable to arrange for personal effects and tools to be assigned to the same carrier, the Employer shall have twenty-four (24) hours from time of termination before the provisions of this Section go into effect.
+Section 3.	Personal Effects
+The Employer shall be responsible in case of damage or loss caused by fire or flood for the personal effects of employees in an amount up to one thousand five hundred dollars ($ 1,500.00) per employee, unless an inventory of personal effects is provided to the Employer prior to any damage or loss. If said inventory is provided, then the Employer shall be responsible for the cost of replacing all items on the inventory. This provision shall not apply in camps owned and/or controlled by a governmental entity.
+Section 4.	Travel to and From Point of Pick Up
+This section shall apply to camp jobs or jobs that are not accessible to daily travel from Anchorage on a maintained road in a standard two-wheel drive passenger car. In any area inaccessible to daily travel from Anchorage on a maintained road in a standard two-wheel drive passenger car. Such board and room shall be at no cost to an employee. However, if no employees working at the jobsite receive free board and room, then employees working under this Agreement may be required to work under as equitable conditions as any other workers at that jobsite.
+Section 4.1	Established Point of Pick-Up
+Where there is an established point of pickup, or the Employer deems it necessary to transport an employee S by boat, airplane, or other Employer supplied conveyance, work shall begin at the site of the work unless it takes more than one-half (1/2) hour to transport persons either to or from the pickup point. In that event, roundtrip travel time exceeding one (1) hour shall be considered as time worked and compensation computed on the basis of the travel time consumed going from and returning to the point of pickup. When furnished, transportation from pickup point to work site and the return from work site to pick up point shall be by the most expeditious route and means possible. Such transportation shall be safe and lawful and the persons shall be seated in reasonable comfort and protected from the elements.
+Section 4.2	Travel by Boat
+In the interest of safety, the Employer reserves the right to operate boats and assign boat coxswains in conformance with those existing U.S. Coast Guard regulations, which apply to boats hauling for hire. Although
+licensing and certification standards promulgated by the Coast Guard will apply, formal certification and/or licensing will not be necessary unless the owner is actually hauling for hire. The Joint Employer/Employee Safety Committee will ascertain compfiance.
+This page left intentwnaUy blank.
+ADDENDUM A-4
+Montana Wage/Fringe Schedule and Special Conditions
+(Wages and Benefits will be updated in a separate Schedule A on an annual basis once the Area Master Agreement of which the wages and benefits are tied is agreed upon and ratified by the membership.)
+GEOGRAPHIC AREA COVERED: The Entire State of Montana
+WAGE & FRINGE BENEFITS:
+A. New Construction
+m Wages	Health & Security	Pension	401k	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Comm ittee	UBC Millwright Industry Trust	Total Package
+$31.00 $5.25 B. Maintenance		$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$43.02
+$27.90	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$39.92
+C. New Construction Apprentice Rates
+Period	Wages	Health & Security	Pension	401k	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+1	$18.60	$5.25	$0.00	$0.00	$0.50	$0.25	$0.15	$0.05	$24.80
+2	$20.15	$5.25	$0.00	$0.00	$0.50	$0.25	$0.15	$0.05	$26.35
+3	$21.70	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$33.72
+4	$23.25	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$35.27
+5	$24.80	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$36.82
+6	$26.35	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$38.37
+w 7	$27.90	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$39.92
+8	$29.45	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$41.47
+D. Maintenance Apprentice Rates									
+1	$16.74	$5.25	$0.00	$0.00	$0.50	$0.25	$0.15	$0.05	$22.94
+2	$18.14	$5.25	$0.00	$0.00	$0.50	$0.25	$0.15	$0.05	$24.34
+3	$19.53	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$31.55
+4	$20.93	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$32.95
+5	$22.32	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$34.34
+6	$23.72	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$35.74
+7	$25.11	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$37.13
+8	$26.51	$5.25	$5.32	$0.50	$0.50	$0.25	$0.15	$0.05	$38.53
+FRINGE BENEFIT FUNDS:
+A.	Health & Security
+Western Washington Carpenters Employers Health and Security Fund
+B.	Pension
+Washington, Idaho Montana Carpenters Pension Fund
+C.	Apprentice Training
+Carpenters-Employers Apprenticeship and Training Fund of Washington-Idaho
+WELDER PREMIUM; $1.00 per hour when welding
+FOREMEN/GENERAL FOREMEN:
+A.	Foreman Pay: Ten percent (10%) per hour above the highest paid Journeyman under his/her supervision.
+B.	General Foreman Pay: Fifteen percent (15%) per hour above the highest paid Journeyman under his/her supervision.
+TRAVEL & SUBSISTENCE:
+A.	Per Diem:
+The Employer agrees to provide each employee a per diem of thirty-five dollars ($35.00) for food if the project is outside a fifty (50) mile radius from:
+1.	Billings, Montana
+2.	Missoula, Montana
+B.	Lodging:
+If the project is outside the fifty (50) mile radius from the city centers fisted above the Employer agrees to furnish acceptable single occupancy lodging to each employee. Employers are encouraged to use commercial facilities and lodges, however, when such facilities are not available, per diem in lieu of room and lodging shall be paid at the rate of one hundred dollars ($100.00) per day, or part thereof, from the date of hire for the project to the date of termination of employment on the project.
+Special Provisions
+ADDENDUM A-5
+Oregon SW Washington Wage/Fringe Schedule and Special Conditions
+(Wages and Benefits will be updated in a separate Schedule A on annual bases once the Area Master Agreement of which the wages and benefits are tied is agreed upon and ratified by the membership.)
+GEOGRAPHIC AREA COVERED:	Oregon/Southwest Washington
+*Counties of Oregon and the following counties in Southwest Washington : Klickitat, Skamania, Clark, Cowlitz, Wahkiakum and that portion of Pacific county south of a straight fine made by extending the north line of Wahkiakum County west to Willapa Bay to the Pacific Ocean.
+WAGES & FRINGE BENEFITS Effective June 1, 2015:
+A. New Construction
+Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+$35.26	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$50.56
+B. Maintenance
+Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+$31.73	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$47.03
+C.	New Construction Apprentice Rates
+Period	Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+1	$17.63	$7.44	$0.00	$0.85	$0.25	$0.15	$0.05	$26.37
+2	$20.45	$7.44	$0.00	$0.85	$0.25	$0.15	$0.05	$29.19
+3	$22.57	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$37.87
+4	$24.68	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$39.98
+5	$26.80	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$42.10
+6	$28.91	$7.41	$6.56	$0.85	$0.25	$0.15	$0.05	$44.18
+7	$31.03	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$46.33
+8	$33.14	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$48.44
+D.	Maintenance Apprentice Rates
+Period	Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+1	$15.87	$7.44	$0.00	$0.85	$0.25	$0.15	$0.05	$24.61
+2	$18.41	$7.44	$0.00	$0.85	$0.25	$0.15	$0.05	$27.15
+3	$20.31	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$35.61
+4	$22.21	$7.41	$6.56	$0.85	$0.25	$0.15	$0.05	$37.48
+*>j 5	$24.12	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$39.42
+05 6	$26.02	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$41.32
+7	$27.93	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$43.23
+8	$29.83	$7.44	$6.56	$0.85	$0.25	$0.15	$0.05	$45.13
+FRINGE BENEFIT FUNDS:
+A.	Health & Security
+Oregon-Washington Carpenters-Employers Health and Welfare Trust Fund
+B.	Pension
+Oregon-Washington Carpenters-Employers Pension Trust Fund
+C.	Apprentice Training
+Oregon-Washington Carpenters’ Training Trust Fund
+WELDER PREMIUM; $1.00 per hour when welding
+FOREMEN/GENERAL FOREMEN:
+A.	Foreman Pay: Ten percent (10%) per hour above the highest paid Journeyman under his/her supervision.
+B.	General Foreman Pay: Fifteen percent (15%) per hour above the highest paid Journeyman under his/her supervision.
+TRAVEL & SUBSISTENCE:
+A. Per Diem:
+The Employer agrees to provide each employee a per diem of thirty-five dollars ($35.00) for food if the project is outside a fifty (50) mile radius from:
+1.	Eugene
+2.	North Bend
+3.	Longview
+4.	Portland
+5.	Medford
+6.	The Dalles
+7.	Vancouver
+B.	Lodging:
+If the project is outside the fifty (50) mile radius from the city centers fisted above the Employer agrees to furnish acceptable single occupancy lodging to each employee. Employers are encouraged to use commercial facilities and lodges, however, when such facilities are not available, per diem in lieu of room and lodging shall be paid at the rate of one hundred dollars ($ 100.00) per day, or part thereof, from the date of hire for the project to the date of termination of employment on the project.
+Special Provisions
+oo
+o
+This page left intentwnaUy blank.
+ADDENDUM A-6
+Southern Idaho Wage/Fringe Schedule and Special Conditions
+(Wages and Benefits will be updated in a separate Schedule A on an annual basis once the Area Master Agreement of which the wages and benefits are tied is agreed upon and ratified by the membership.)
+GEOGRAPHIC AREA COVERED: Southern Idaho
+The Southern portion of Idaho south of the 46th parallel which is the extension of the Oregon Washington state fine eastward to the State of Montana.
+WAGE & FRINGE BENEFITS:
+A. New Construction
+Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+$27.35	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$41.60
+B. Maintenance							
+Wages	Health &	Pension	Apprentice	Contract	Millwright	UBC	Total
+	Security		Training	Admin	Labor/Mngmt	Millwright	Package
+					Cooperation	Industry	
+					Committee	Trust	
+$24.62	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$37.88
+C.	New Construction Apprentice Rates
+Period	Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+1	$16.41	$5.50	$0.00	$0.55	$0.25	$0.15	$0.05	$22.91
+2	$17.78	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$31.04
+3	$19.15	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$32.41
+4	$20.51	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$33.77
+5	$21.88	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$35.19
+6	$23.25	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$36.51
+7	$24.62	$5.50	$6.56	$0.55	$0.25	$0.15	$0.05	$37.68
+8	$25.98	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$39.24
+D. Maintenance Apprentice Rates
+Period	Wages	Health & Security	Pension	Apprentice Training	Contract Admin	Millwright Labor/Mngmt Cooperation Committee	UBC Millwright Industry Trust	Total Package
+1	$14.77	$5.50	$0.00	$0.55	$0.25	$0.15	$0.05	$21.27
+2	$16.00	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$29.26
+3	$17.23	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$30.49
+4	$18.46	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$31.72
+co 5	$19.69	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$32.95
+6	$20.92	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$34.18
+7	$22.15	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$35.41
+8	$23.38	$5.50	$6.76	$0.55	$0.25	$0.15	$0.05	$36.64
+FRINGE BENEFIT FUNDS:
+A.	Health & Security
+Western Washington Carpenters Employers Health and Security Fund
+B.	Pension
+Washington, Idaho Montana Carpenters Pension Fund
+C.	Apprentice Training
+Oregon-Washington Carpenters’ Training Trust Fund
+WELDER PREMIUM; $1.00 per hour when welding
+FOREMEN/GENERAL FOREMEN:
+A.	Foreman Pay: Ten percent (10%) per hour above the highest paid Journeyman under his/her supervision.
+B.	General Foreman Pay: Fifteen percent (15%) per hour above the highest paid Journeyman under his/her supervision.
+TRAVEL & SUBSISTENCE:
+A.	Per Diem:
+The Employer agrees to provide each employee a per diem of thirty-five dollars ($35.00) for food if the project is outside a fifty (50) mile radius from:
+1.	Billings, Montana
+2.	Missoula, Montana
+B.	Lodging:
+If the project is outside the fifty (50) mile radius from the city centers listed above the Employer agrees to furnish acceptable single occupancy lodging to each employee. Employers are encouraged to use commercial facilities and lodges, however, when such facilities are not available, per diem in lieu of room and lodging shall be paid at the rate of one hundred dollars ($ 100.00) per day, or part thereof, from the date of hire for the project to the date of termination of employment on the project.
+Special Provisions
+ADDENDUM B
+PNWRCC/MEA Pre-job Notification
+TO:	Pacific Northwest Regional Council of Carpenters
+Millwright Employers Association
+Millwright Local 96
+CONTRACTOR:___________________________________________________
+OWNER/CLIENT:_________________________________________________
+NAME OF PROJECT:______________________________________________
+LOCATION OF PROJECT:__________________________________________
+INTERNATIONAL AGREEMENT: [ ] YES	[ ] NO
+BID AMOUNT:TOTAL PROJECT VALUE:-------------------------------
+MEETING LOCATION:MEETING DATE:MEETING TIME:
+1.	SCOPE OF WORK:_________________
+2.	Approximate Start Date:
+co
+3.	ADDRESSES:
+Job Location:
+Approx. Completion Date:
+Company’s Mailing Address:
+4.	CONTRACTOR PERSONNEL:
+Project Manager:------------------------
+Office Telephone #:---------------------
+Fax Telephone #:------------------------
+Superintendent: ------------------------
+oo 00 Office Telephone #:----------------------
+Fax Telephone #:------------------------
+Safety Rep:-----------------------------
+Office Telephone #:---------------------
+Mobile Telephone #:______________________________
+Mobile Telephone #:______________________________
+-------Mobile Telephone #:------------------------------
+Dispatch Contact Personnel: The following Contractor personnel are the only ones authorized to call dispatch to have craft workers dispatched out to this project:
+1________________________________________________________________________________________
+2________________________________________________________________________________________
+3----------------------------------------------------------------------------------------
+5.	MANPOWER: Craft	Peak	Average
+Journeyman Millwrights ------------------------- ------------------
+Qualified Millwrights	 
+Millwright Apprentices
+6. OPERATIONAL INFORMATION:
+Number of Shifts:
+1st Shift Schedule:	 AM/PM	to-
+2nd Shift Schedule:	 AM/PM	to-
+3rd Shift Schedule:	 AM/PM	to_
+<o
+° Job-Site Telephone Number:
+Job-Site Fax Number:---------------------------------
+DH/sek/opeiu8aflcu>
+______AM/PM
+------AM/PM
+______AM/PM

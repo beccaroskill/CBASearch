@@ -1,0 +1,413 @@
+﻿K9788
+COLLECTIVE BARGAINING AGREEMENT BETWEEN
+Alpha-Omega Change Engineering, Inc. (AOCE)
+dOCt
+Experienced. Innovative. Responsive.
+And
+Local Lodge 821
+International Association of Machinists and Aerospace Workers
+AFL-CIO
+Aircrew Training System, March ARB, CA
+Effective September 1, 2017
+1 of 25
+TABLE OF CONTENTS
+AGREEMENT.................................................................... 5
+PREAMBLE..................................................................... 5
+ARTICLE 1	- RECOGNITION.................................................... 5
+Section 1	- Recognition and Bargaining Unit............................ 5
+Section 2	- Union Rights............................................... 5
+ARTICLE 2	- MANAGEMENT RIGHTS.............................................. 5
+Section 1	- Responsibilities of Company................................ 5
+Section 2	- Waiver of Rights........................................... 6
+ARTICLE 3	- UNION ACCESS TO OPERATIONS..................................... 6
+Section 1	- Union Notification Requirements............................ 6
+Section 2	- Company Representation During Visit........................ 6
+ARTICLE 4	- SHOP STEWARDS.................................................. 6
+ARTICLE 5	- GRIEVANCE PROCEDURE............................................ 6
+Section 1	- Definition................................................. 6
+Section 2	- Procedure.................................................. 7
+Section 3	- Cases of Suspension or Discharge........................... 7
+Section 4	- Waiver of Time Limits...................................... 7
+Section 5	- Grievance Content...........................................8
+Section 6	- Arbitration Request........................................ 8
+Section 7	- Arbitrator Selection........................................8
+Section 8	- Arbitrator’s Authority..................................... 8
+Section 9	- Arbitrator’s Decision...................................... 8
+Section 10	- Arbitrator’s Fees......................................... 8
+ARTICLE 6	- NO STRIKE/NO LOCKOUT........................................... 8
+Section 1	- Strikes.................................................... 8
+Section 2	- Lockouts................................................... 9
+ARTICLE 7	- BULLETIN BOARD................................................. 9
+ARTICLE 8	- DUES CHECKOFF...................................................9
+Section 1	- New Hires.................................................. 9
+Section 2	- Membership..................................................9
+Section 3	- Deductions.................................................. 9
+Section 4	- Payment of Dues to the Union.............................. 10
+Section 5	- Indemnification............................................. 10
+ARTICLE 9	- SENIORITY.......................................................10
+Section 1	- Definitions................................................. 10
+Section 2	- Personnel Actions........................................... 10
+Section 3	- Layoff and Recall......................................... 11
+Section 4	- Termination and Seniority................................. 11
+Section 5	- Termination Notification.................................. 11
+Section 6	- Demotions/Elimination of Special Qualification Duty........11
+ARTICLE 10	- HOURS OF WORK................................................ 12
+Section 1	- Workweek....................................................12
+Section 2	- Contract Operations.........................................12
+Section 3	- Performance Work Statement (PWS) Requirements..............12
+2 of 25
+ARTICLE 11	- OVERTIME.....................................................12
+Section 1	- Overtime Pay..............................................12
+Section 2	- Holiday Pay...............................................12
+ARTICLE 12	- CLASSIFICATION AND PAY.......................................12
+Section 1	- Definitions...............................................12
+Section 2	- Special Qualification Pay (SQP)...........................13
+Section 3	- Pay Frequency and Method..................................12
+Section 4	- Rates of Pay..............................................13
+Section 5	- Reporting Pay............................................ 13
+Section 6	- Temporary Assignment Pay..................................14
+Section 7	- Severance Pay.............................................14
+Section 8	- Loyalty Pay...............................................14
+ARTICLE 13	- HOLIDAYS.....................................................14
+Section 1	- Recognized Holidays.......................................14
+Section 2	- Holiday Designation...................................... 14
+Section 3	- Government Directed Worksite Closure......................15
+ARTICLE 14	- PERSONAL TIME OFF (PTO)......................................15
+Section 1	- Qualifying Period........................................ 15
+Section 2	- PTO Hours.................................................15
+Section 3	- Carryover Hours.......................................... 15
+Section 4	- Pay in Lieu of PTO........................................15
+Section 5	- Requesting PTO........................................... 16
+Section 6	- Terminating Employees.................................... 16
+Section 7	- Loss of Contract Affect.................................. 16
+Section 8	- Advanced PTO..............................................16
+ARTICLE 15	- BEREAVEMENT LEAVE............................................16
+Section 1	- Definition and Length of Leave........................... 16
+Section 2	- Additional Time Off...................................... 16
+ARTICLE 16	- JURY DUTY AND WITNESS PAY................................... 16
+ARTICLE 17	- UNIFORMS.....................................................17
+Section 1	- Uniforms..................................................17
+Section 2	- Equipment.................................................17
+ARTICLE 18	- LEAVES OF ABSENCE............................................17
+Section 1	- Length................................................... 17
+Section 2	- Seniority Rights..........................................17
+Section 3	- Extensions................................................17
+Section 4	- Legal Compliance..........................................17
+Section 5	- Maternity Leave.......................................... 17
+ARTICLE 19	- MILITARY LEAVE...............................................18
+Section 1	- Military Reserves.........................................18
+Section 2	- Active Duty...............................................18
+ARTICLE 20	- TRAVEL........................................................18
+Section 1	- Travel Pay.................................................18
+Section 2	- Per Diem..................................................19
+ARTICLE 21	- TUITION REIMBURSEMENT PLAN...................................19
+ARTICLE 22	- SUBSTANCE ABUSE..............................................19
+Section 1	- Drug and Alcohol Free Workplace...........................19
+3 of 25
+Section 2	- Employee Assistance...................................19
+ARTICLE 23	- SUCCESSORS AND ASSIGNS....................................20
+ARTICLE 24	- NON-DISCRIMINATION........................................20
+ARTICLE 25	- INSURANCE PLANS.......................................... 20
+ARTICLE 26	- SAVINGS PLAN..............................................21
+ARTICLE 27	- PROMOTIONS............................................... 21
+Section 1	- Qualification Upgrades................................21
+Section 2	- Open Positions........................................21
+Section 3	- Probationary Period...................................21
+ARTICLE 28	- SECURITY..................................................21
+Section 1	- Union Recognition.................................... 21
+Section 2	- Security Clearances...................................21
+Section 3	- Release of Liability................................. 22
+Section 4	- Seniority Reinstatement.............................. 22
+ARTICLE 29	- SAFETY....................................................22
+Section 1	- Health and Safety.....................................22
+Section 2	- Safety Equipment......................................22
+ARTICLE 30	- CHANGES TO THE AOCE EMPLOYEE MANUAL.......................22
+ARTICLE 31	- ANNAUL FAA MEDICAL EXAMS AND ASSOCIATED WAIVER EXAMS
+OR TEST.................................................................22
+ARTICLE 32	- LOSS OF MEDICAL QUALIFICATION.............................23
+ARTICLE 33	- DURATION AND TERMINATION..................................23
+Section 1	- Expiration Date.......................................23
+Section 2	- Notice to Modify or Terminate Automatic Renewal.......23
+Section 3	- Waiver of Bargaining During Contract Term.............24
+4 of 25
+AGREEMENT
+This Agreement made and entered into this August 16, 2017, to become effective September 1, 2017, by and between Alpha-Omega Change Engineering, Inc. (hereinafter referred to as Company) and the International Association of Machinists and Aerospace Workers, AFL-CIO, and its Local Lodge No. 821 (hereinafter referred to as the Union).
+PREAMBLE
+The Parties have entered into this Agreement for the purpose of setting forth, in writing, the understandings they have reached with respect to wages, hours and working conditions of the Pilot and Sensor Instructors and Technical Employees covered hereby, as well as to the rights of the Union and the Company, and to provide a peaceful means for the settlement of any disputes that may arise with respect to the interpretation or application of their understandings and agreements as set forth herein.
+For purposes of simplicity, the masculine gender is used throughout this Agreement although it is understood that all references to gender include both sexes.
+ARTICLE 1 RECOGNITION
+Section 1 - Recognition and Bargaining Unit. The Company hereby recognizes the Union as the sole and exclusive bargaining representative of employees of AOCE, Inc. performing work at the March Air Reserve Base and Southern California Logistics Airport in Victorville, in the bargaining unit certified by the National Labor Relations Board in Case No. 21-RC-21187 excluding all Supervisors and Guards as defined in the Act, for the purpose of collective bargaining with respect to wages, hours of work and other conditions of employment of employees in the bargaining unit as herein defined.
+Section 2 - Union Rights. The specific terms of this contract shall be the sole source of any rights that may be asserted by the Union against the Company.
+ARTICLE 2 MANAGEMENT RIGHTS
+Section 1 - Responsibilities of Company. Except as modified by a specific provision of this Agreement, the Company reserves and retains all of its normal and inherent rights with respect to the management of the business, including (without limiting the generality of the foregoing) its right to establish or continue policies, practices, and procedures required to conduct company business; to select and direct the working force; to establish, eliminate, change or combine work schedules and work assignments, (not in conflict with the terms of this Agreement); to transfer, promote or demote employees, or to lay off, terminate or otherwise relieve employees from duty for lack of work or other legitimate reasons; to make and enforce reasonable rules for the maintenance of discipline; to suspend, discharge or otherwise discipline employees for just cause; to establish the methods, processes and means of providing services; and otherwise to take such measures as management may determine to be necessary to the orderly, efficient or economical operation of the business. It is understood and agreed that any of the powers and authority which
+5 of 25
+the Company had prior to the signing of this Agreement are retained by the Company except those specifically modified, delegated or granted by this Agreement.
+Section 2 - Waiver of Rights. The Company’s failure to exercise any right, prerogative, or function hereby reserved to it, or the Company’s exercise of any such right, prerogative, or function in a particular way, shall not be considered a waiver of the Company's right to exercise such right, prerogative, or function or preclude it from exercising the same in some other way not in conflict with the express provisions of the Agreement.
+ARTICLE 3
+UNION ACCESS TO OPERATIONS
+Section 1 - Union Notification Requirements. The Company agrees that the Business Representative and/or Grand Lodge Representative of the Union will be allowed access to the premises, subject to approval of the Air Force for the purpose of representing the bargaining unit employees. Prior to a Union Representative visiting the shop, the Union will notify the Site Manager or his designee as to the purpose of the visit. Such visits shall not unduly interfere with production or work being performed.
+The Union Representative shall notify the Site Manager or his designee when he is arriving at and leaving the Company’s operations.
+Section 2 - Company Representation During Visit. The Company, if it desires, may have a Company Representative accompany the Union Representative while he is visiting its operations. The Company shall allow the Union Representative privacy upon request for the purposes of conducting Union business.
+ARTICLE 4
+SHOP STEWARDS
+The Company shall recognize one (1) employee to act as a Chief Shop Steward. The Chief Shop Steward shall be duly selected by the Union. The Union will notify the Company of the elected Chief Shop Steward. When elections for Chief Shop Steward are held, the Company, with concurrence of the Air Force, will allow the election on Company used office space. Elections for Chief Shop Steward held in Company used office space shall take place outside of normal work hours and shall not interfere with the operations of the Company. The Company shall recognize one (1) employee designated by the Union as an Alternate Shop Steward. The Alternate Shop Steward shall act in the place of the Chief Shop Steward during his absence.
+ARTICLE 5
+GRIEVANCE PROCEDURE
+Section 1 - Definition. For purposes of this Agreement, a grievance is defined as a dispute between the Company and the Union or between the Company and any non-probationary bargaining unit employee covered hereby, with respect to the alleged violation of a specific provision of this Agreement. Grievances as herein defined shall be processed in keeping with Section 2 of this Article. The Chief Shop Steward will be allowed sufficient time during work hours to process or adjust grievances as long as it does not impact contract deliverables.
+6 of 25
+Section 2	- Procedure.
+Step 1. Both parties shall encourage the verbal resolution of disputes as quickly as possible. An aggrieved employee, with his steward, shall discuss the dispute with the immediate Supervisor or, in his absence, with the Site Manager. If the grievance has not been satisfactorily resolved within three (3) working days following its presentation to the immediate Supervisor, then;
+Step 2. The grievance may be submitted in writing on a form mutually agreed to by the Company and the Union, containing information set out in Section 3. If filed by the Union or a bargaining unit employee, a grievance may be submitted to the Site Manager, within seven (7) working days following the occurrence, or the constructive knowledge thereof, which caused the grievance. However, no grievance may be submitted later than thirty (30) days after its occurrence. The Site Manager shall give his written answer to the grievance within three (3) working days after its submission to him in Step 2. If filed by the Company, a grievance may be submitted to the Directing Business Representative of the Union by mailing the grievance by certified mail within seven (7) working days following the occurrence, or the constructive knowledge thereof, which caused the grievance. However, no grievance may be submitted later than thirty (30) days after its occurrence. The assigned Union Representative shall give his written answer to the grievance within three (3) working days after its submission to him in Step 2. Either side may request a meeting to discuss the details of the grievance and attempt to reach a resolution prior to the issuance of the written answer. The assigned Union Representative may attend this meeting. In the event there is no satisfactory settlement of the grievance at this Step, then Step 3 may be invoked.
+Step 3. The Union or the Company may appeal the grievance to arbitration by making a written request for such action within not more than twenty (20) working days following the written answer of the Site Manager or the Union Representative, as the case may be in Step 2, or lack thereof.
+Section 3	- Cases of Suspension or Discharge. The parties understand and agree that the time limits set forth in the various steps of the grievance procedure are essential to the prompt resolution of the grievances. Accordingly, if such time limits are not abided by in filing a written grievance in Step 2, or in requesting arbitration in Step 3, except in those instances where the parties mutually agree in writing to extend such time limits, the grievance shall be waived.
+In cases involving suspension or discharge, Step 1 will be waived and the matter taken up with the Site Manager within seven (7) working days following such action by the Company. A final decision made with respect to any grievance in the first or second step of the grievance procedure shall apply to that grievance only and shall not become a binding precedent in the case of other grievances, nor a precedent which shall bind the parties in interpretation of this Agreement. All settlements of grievances in step 1 or step 2 must be consistent with the terms and conditions of this Agreement.
+Section 4	- Waiver of Time Limits. No employee may leave the job, take up, or settle a grievance without requesting permission from the immediate supervisor. Such permission will be granted
+7 of 25
+provided it does not interfere with operations or create a hazardous condition. If permission cannot be granted, time limits will be waived until permission is granted. Any other employees in the bargaining unit attending a grievance meeting at any step are subject to the same provisions.
+Section 5	- Grievance Content. The written grievance shall contain the following information:
+1.	Name(s) of the employee(s) involved;
+2.	Approximate date of alleged grievance;
+3.	Date of first discussion of the grievance with the immediate Supervisor;
+4.	Nature of the grievance;
+5.	Current date;
+6.	Article/Section of Agreement violated;
+7.	Requested remedy.
+Section 6 - Arbitration Request. Upon receipt of a notice to take a grievance to arbitration, the Parties shall jointly request the Federal Mediation and Conciliation Service to furnish a panel of seven (7) arbitrators for the purpose of selecting an arbitrator. Only the Union or the Company may invoke arbitration on the other. The cost of requesting the panel shall be borne equally between parties.
+Section 7 - Arbitrator Selection. Upon receipt of the panel, the Parties shall make mutually satisfactory arrangements for the purpose of selecting an arbitrator by the process of alternately striking the names from the list until only one (1) remains. The last remaining member shall serve as arbitrator. The Party initiating the grievance shall strike the first name from the panel. Either Party may reject one (1) panel. Upon such rejection, an additional panel shall be requested in writing from the Federal Mediation and Conciliation Service by the party rejecting such panel with a copy of such request to the other Party. The Party rejecting the panel shall pay the entire cost of the 2nd panel of Arbitrators.
+Section 8 - Arbitrator’s Authority. The arbitrator's authority shall be limited to disposition of the grievance arising under the contract, and he may only interpret and apply the Contract provisions to the facts of the particular grievance. The arbitrator shall have no power or authority to change, alter, modify, detract from or add to the terms of this Agreement. No award shall have retroactive effect prior to the date of the occurrence, which led to the filing of the grievance upon which the arbitrator's award is based.
+Section 9	- Arbitrator’s Decision. The arbitrator's award shall be final and binding upon the Company, the Union, and the bargaining unit employees.
+Section 10	- Arbitrator’s Fees. The fees and costs of the arbitrator shall be borne equally by the Parties. Each Party shall otherwise pay its own costs and expenses.
+ARTICLE 6
+NO STRIKE/NO LOCKOUT
+Section 1	- Strikes. During the term of this Agreement, the Union, its officers, agents, representatives and members covered by this Agreement, agree that there shall be no strikes (including sympathy strikes), concerted failure to report for duty, concerted absence of employees
+8 of 25
+from their positions, concerted stoppage of work, concerted submission of resignations, concerted abstinence in whole or in part by any group of employees from the full and faithful performance of their duties of employment or acts of a similar nature which would interfere with production. Should the Union or employees covered hereunder breach this Article, the Company may discipline the employees involved up to and including discharge. In such event, the Union or affected employee may grieve disciplinary actions taken against any such employee only with regard to a question of an employee's participation in any of the above described activities. However, once participation has been established, management's actions are no longer subject to the grievance procedure. In the event that employees cease work in violation of this Article, such employees shall not be entitled to any benefits or wages while they are engaged in such cessation of work.
+Section 2	- Lockouts. The Company agrees that for the duration of this Agreement there shall be no lockouts. A lockout as mentioned herein shall not be construed as the closing down of the operation or any part thereof or curtailing any operations for business reasons.
+ARTICLE 7
+BULLETIN BOARD
+The Company agrees to provide bulletin board space in the working area for the purpose of posting legitimate Union notices. This bulletin board may be used by the Union for the purpose of conveying official information from the Union to bargaining unit employees. The Union shall be the sole user of the bulletin boards and only documents, which constitute official Union business, will be posted. The Union will not use the bulletin board to criticize the Company or its agents in any respect. All information to be posted is subject to advance approval of the Site Manager for compliance with the standards set forth in this Article. The Company will not remove information, which it has approved for posting on the bulletin board.
+ARTICLE 8
+DUES CHECKOFF
+Section 1 - New Hires. All employees covered by this agreement shall become members of the Union immediately after ninety (90) calendar days of employment, and remain members in good standing during the term of this agreement. New employees will be considered “at will” until they have completed their probationary period. After the employee joins the Union and upon receipt of a signed authorization card, the Company shall deduct from the employee's pay dues payable to the Union.
+Section 2 - Membership. The Union will make membership in the Union available to all employees covered by this agreement on the same terms and conditions as are generally applicable to other members of the Union, and further, demands for termination of employment will not be made for reasons other than failure of an employee to tender dues and fees uniformly required as a condition of acquiring or retaining membership in the Union.
+Section 3 - Deductions. Upon receipt of proper authorization, signed by the employee, the company shall deduct from the employees pay the initiation or reinstatement fee and monthly dues payable by him/her to the Union, in an amount as directed by the Union for the period specified, so long as he/she remains in the bargaining unit.
+9 of 25
+Section 4 - Payment of Dues to the Union. The sums deducted as stated above shall be forwarded to the designated financial officer of the Union no later than the last day of the month in which the deductions are made.
+Section 5 - Indemnification. The Union will indemnify and hold the Company harmless from and against any and all claims, demands, charges, complaints or suits instituted against the Company which are based on or arise out of any action taken by the Company in accordance with the foregoing provisions of this Article, or in reliance on any list, notice or assessment furnished under any of such provisions.
+ARTICLE 9 SENIORITY
+Section 1 - Definitions.
+a.	Seniority. Seniority shall mean an employee's length of continuous service on current or predecessor contract(s). If application of the preceding sentence results in two (2) or more employees having the same seniority date, the employee with the earliest date of birth shall be deemed most senior. Seniority shall be applicable only as expressly provided in this Agreement.
+b.	Seniority List. The Company will publish and display a seniority list showing dates of hire for all employees, by classification, within sixty (60) days of the effective date of this Agreement and, subsequently, when a change in the Seniority list occurs.
+c.	New Hires. New employees other than Instructor and SME personnel shall be on probation for ninety (90) calendar days from the initial hire date during which time they may be discharged at the sole discretion of the Company. Instructor and SME personnel shall be on probation for one hundred eighty (180) days. A probationary employee, who, in the opinion of the Company, is not performing satisfactory, shall be subject to disciplinary action and/or dismissal by the Company. If retained after the probationary period, their names shall be placed on the Seniority List as of their date of hire.
+d.	Transfers. Employees who transfer from another MQ work site will maintain the same level of seniority they had from their previous worksite. In addition, these employees will only be eligible to transfer into an open position. Under no circumstance will a transfer employee displace an employee already assigned in a similar position.
+Section 2 - Personnel Actions. Seniority shall be used as a factor in personnel actions and seniority will be considered by the Employer in making layoff, recall and promotion decisions depending on the requirements of the Company's contract with the Air Force and in all other factors, including but not limited to qualification, skill and ability, are equal.
+10 of 25
+Section 3	- Layoff and Recall.
+a.	Layoff. The Company will provide at least two (2) weeks advance notice to those employees affected by any layoff or provide for pay in lieu thereof.
+b.	Recall. Employees who are on active layoff status from job classifications having job openings will be recalled in order of seniority, providing they have the required qualifications for that job. The company will recall all AOCE employees covered under this agreement prior to awarding any positions to any other company employee.
+c.	Notice of Recall. The Company will forward notice of recall by certified mail to the last known address of the employee reflected on Company records. A laid off employee shall promptly notify the Company of any change of address. The employee must, within three (3) calendar days of delivery or attempted delivery of the notice of recall, notify the Company of his intent to return to work on the date specified for recall and thereafter return to work on such date. It is agreed that, when possible, the Company will allow recalled employees up to two (2) weeks to return to work. Employees who fail to properly notify the Company of their intent to return to work or fail to return to work as scheduled will be considered a voluntary resignation.
+Section 4	- Termination of Seniority. An employee's seniority shall be terminated and his rights under this Agreement forfeited for the following reasons:
+a.	Discharge for just cause, retirement, or resignation (quitting for whatever reason);
+b.	Failure to give notice of intent to return to work after recall within the time period specified in Section 3(b) of this Article, or failure to return to work on the date specified for recall, as set forth in the written notice of recall;
+c.	Time lapse of six (6) months, or for a period equal to the employee's seniority (whichever is less), since the last day of actual work for the Company, regardless of reason;
+d.	Failure to return to work upon expiration of a leave of absence, unless the Company, in its sole discretion, determines that it is legally obligated to extend the leave of absence.
+Section 5	- Termination Notification. The Company shall notify the employee and the Union, in writing, of the reason for termination within five (5) working days of such action.
+Section 6	- Demotions/Elimination of Special Qualification Duty. If the Company decides to remove special qualifications from positions within a job classification, it shall apply the removals to employees in reverse order of seniority. In any case, the Company shall give affected employees two weeks of notice before reducing their pay to account for the loss of special qualifications.
+11 of 25
+Section 7	- The Employer and the Union agree that seniority will not be affected by performance on a separate contract with the Employer for performance of like work overseas, regardless of duration. Likewise, the Employer will return Employees to the same position held prior to performance on that contract.
+ARTICLE 10
+HOURS OF WORK
+Section 1 - Workweek. The normal workweek will begin at 12:01 a.m., Saturday, and end at 12:00 midnight the following Friday. The normal but not guaranteed workweek for each employee shall consist of five (5) days per week from Monday through Friday. An instructor schedule will be one in which the employee's normal but not guaranteed work week is a forty (40) hour, five (5) day per week schedule. Hours of operation for academic, device, and flight training will be in accordance with the Company's contract with the Air Force.
+Section 2 - Contract Operations. The Union acknowledges the responsibilities of the Company's operation as they are related to the support of the United States Air Force objectives. The parties realize the USAF may, from time to time, make unusual and immediate demands in conjunction with support requirements. Consequently, all personnel may be called upon to perform whatever duties are required for adequate performance of support requirements for the mission and operational capabilities for the Unmanned Aircraft System (UAS) Aircrew Training.
+Section 3 - Performance Work Statement (PWS) Requirements. Academic, training device and flying instruction will normally be scheduled between 0600 hours and 2200 hours Monday through Friday, exclusive of Federal legal holidays (Article 13 section 1). If weekend training or training outside normal scheduled times is required and/or operating hours are adjusted, the TQAE will provide notification to the contractor a minimum of 48 hours in advance for weekends, and 12 hours for normally scheduled workdays.
+ARTICLE 11 OVERTIME
+Section 1	- Overtime Pay. Any employee working more than forty hours (40) hours in a workweek shall receive overtime pay at the rate of one and a half (1 ^) times the employee’s normal hourly rate for all hours worked, as required by Federal and State Laws.
+Section 2	- Holiday Pay. Employees who work on a holiday shall receive two (2) times their regular hourly rate of pay.
+ARTICLE 12 CLASSIFICATION AND PAY
+Section 1 - Definitions.
+a.	Base Pay. The basic hourly wage paid to employees in a given job classification, upon hire, regardless of qualification.
+b.	Normal Hourly Wages. The sum of an employee’s Base Pay + Special Qualification Pay + Health and Welfare Fringe, paid each hour.
+12 of 25
+c.	Position. A job within a given job classification that requires a specific set of advanced qualifications to meet contractual requirements.
+Section 2- Special Qualification Pay (SQP). Hourly wages paid to an employee, beyond base pay, in exchange for the employee maintaining one or more of the following advanced qualifications:
+a.	Live Flight Instructor. An instructor that is qualified to perform mission-specific (e.g., surveillance and/or weapon delivery) instructional tasks using an actual aircraft (as opposed to a simulator);
+b.	Launch and Recovery Flight. A pilot who is qualified to perform actual aircraft takeoff and landing and/or teach others how to control the systems of an actual aircraft during takeoff and landing.
+An employee shall receive SQP when they are certified (via Government or Company evaluation) to perform an advanced qualification. Exception: non-probationary employees selected for upgrade shall continue to draw normal hourly wages (including SQP) for their old position until their upgrade training is completed. Employees shall not perform any advanced qualification tasks for which they do not receive SQP.
+Section 3 - Pay Frequency and Method. All wages payable to employees hereunder shall be paid bi-monthly. Automatic Deposit of payroll checks, if available, shall be granted at each employee's discretion with proper authorization.
+Section 4 - Rates of Pay. The current hourly wage rates of the bargaining unit employees will remain in effect until September 30, 2017. The following hourly wage rates will be effective October 1, 2017 and for the period of this Agreement and apply to all bargaining unit employees. Current employees who are training in a new MDS due to unit changes will maintain their current level of pay including any SQP.
+	Current	10-01-17	10-01-18	10-01-19
+		5%	4%	4%
+UAS Pilot Instructor/SME	$65.12	$68.38	$71.11	$73.96
+UAS Sensor Instructor/SME	$46.29	$48.60	$50.55	$52.57
+Scheduler	$30.45	$31.97	$33.25	$34.58
+Registrar	$30.45	$31.97	$33.25	$34.58
+Squadron Flying Operations Support Specialist	$30.45	$31.97	$33.25	$34.58
+13 of 25
+SQP Pay	Current	10-01-17	10-01-18	10-01-19
+		2%	2%	2%
+Pilot L/R Flight	$14.31	$14.60	$14.89	$15.19
+Pilot Mission Flight Instructor	$13.02	$13.28	$13.55	$13.82
+Sensor L/R Flight	$8.74	$8.91	$9.09	$9.27
+Sensor Mission Flight Instructor	$7.93	8.09	$8.25	$8.42
+Section 5 - Reporting Pay. Employees reporting for work will receive a minimum guarantee of eight (8) hours work or pay for that day.
+Section 6 - Temporary Assignment Pay. The company may temporarily upgrade an employee to a higher paid classification for work requiring at least one (1) hour. The employee will receive the higher classification pay for all hours or partial hours worked in the higher classification. No employee will suffer a reduction in pay for any reason when assigned by the Company to perform work in a classification which carries a lower rate of pay.
+Section 7 - Severance Pay. If the Company provides an employee with less than 45 calendar days of advance notice before laying them off, the affected employee shall be paid severance pay (if the employee does not resign before their layoff effective date). Severance pay shall be in accordance with the following schedule:
+Pay Amount
+Less than 6 months: No severance pay
+At least 6 months, but less than 1 year: 40 hours of normal hourly wage
+At least 1 year, but less than 3 years: 80 hours of normal hourly wage
+3 years or more: 160 hours of normal hourly wage
+Employees who resign before their layoff effective date are not entitled to severance pay.
+Employees who are terminated for cause are not eligible for severance pay.
+Section 8 - Loyalty Pay. If the Company provides an employee with more than 45 calendar days of advance notice before laying them off, the affected employee shall be paid loyalty pay (if the employee does not resign before their layoff effective date). Loyalty pay shall be in accordance with the following schedule:
+Pay Amount
+Less than 6 months: No loyalty pay
+At least 6 months, but less than 1 year: 40 hours of normal hourly wage
+1 year or more: 80 hours of normal hourly wage
+Employees who resign before their layoff effective date are not entitled to loyalty pay.
+14 of 25
+ARTICLE 13 HOLIDAYS
+Section 1	- Recognized Holidays. The following ten (10) days each year shall be paid holidays and employees will receive eight (8) hours pay at their working rate of pay.
+New Year's Day	Labor Day
+Martin Luther King Day	Columbus Day
+Presidents' Day	Veterans' Day
+Memorial Day	Thanksgiving Day
+Independence Day	Christmas Day
+Section 2	- Holiday Designation. Any Holiday falling on a weekend day will be celebrated on the day set by the Air Force. Employees will not be required to work on a holiday except where dictated by the operational needs of the Air Force or the Company.
+Section 3	- Government Directed Worksite Closures. Employees shall comply with Government directions regarding closure of the March ARB MQ-9 Formal Training Unit (FTU). If the Government closes the FTU during a normal workday; affected employees shall delay their report time until the Government-specified time or until the next normal workday (whichever is earlier) without incurring any loss of normal workday hourly wages.
+Reasons for closure may include but are not limited to:
+a.	Act of God
+b.	Inclement weather
+c.	Utility failure
+d.	Natural disaster
+e.	Exercise or protest that block access to the worksite
+If the Government has not closed the FTU, and an employee believes it is not safe to travel due to adverse road conditions, the employee shall refrain from travel and contact the Company to obtain PTO or LWOP. Employees shall not be disciplined for failing to report to work due to travel safety concerns.
+ARTICLE 14 Personal Time Off (PTO)
+Section 1	- Qualifying Period. All employees will accrue PTO as specified in the chart below.
+Section 2	- PTO Hours.
+15 of 25
+	PTO Hours Earned
+An employee with less than 5 years of service	7.23 Hours per Pay Period
+An Employee with five (5) years of service but less than fifteen (15) years	9.02 Hours per Pay Period
+An Employee with fifteen (15) or more years of service	10.83 Hours per Pay Period
+Section 3	- Carryover Hours. In accordance with California law, employees will not be subject to carryover limits. Employees whose PTO balance exceeds 280 hours will stop accumulating additional PTO. As soon as PTO is used and balance falls below the maximum, PTO will again be earned.
+Section 4	- Pay in Lieu of PTO. Employees may not request pay in lieu of time off for PTO. The intent of this provision is to cause each employee to use PTO awarded for time off. PTO shall be paid at the employee's working rate of pay at the time PTO is taken.
+Section 5	- Requesting PTO. PTO shall be taken at such time as designated by mutual agreement between the Company and employee and shall not be canceled unless required by the operational needs of the Air Force or the Company. PTO can be taken in hourly increments as desired, consistent with scheduling needs of the Company.
+Section 6	- Terminating Employees. Terminating employees may not take PTO during their last two (2) weeks of employment. Employees who terminate their employment will be paid for all PTO hours accrued on their last paycheck.
+Section 7	- Loss of Contract Affect. If AOCE loses the contract for any reason, employees will be paid for all PTO hours accrued on their last paycheck.
+Section 8	- Advance PTO. Employees may request up to forty (40) hours of advance PTO. If the employee is terminated prior to achieving zero balance, the Company will recoup the negative balance on the terminating paycheck.
+ARTICLE 15 BEREAVEMENT LEAVE
+Section 1	- Definition and Length of Leave.
+a.	Tier 1 - Employees shall be given up to five (5) days (40 hours) off with pay, to bereave and attend the funeral of a member of his immediate family. "Immediate family" shall be considered to be a spouse, child or parent.
+16 of 25
+b.	Tier 2 - Employees who have completed their probationary period with the Company shall be given up to three (3) days (24 hours) off with pay, to bereave and attend the funeral of a member of the family. “Family” shall be considered to be a step-mother, stepfather, mother-in-law, father-in-law, brother, sister, brother-in-law, sister-in-law, son-in-law, daughter-in-law, grandmother, grandfather, or grandchild.
+Section 2	- Additional Time Off. If requested, up to forty (40) additional work hours off may be granted at the discretion of the Company upon request of the employee. The employee may use available PTO in lieu of LWOP (Leave Without Pay).
+ARTICLE 16
+JURY DUTY AND WITNESS PAY
+Bargaining unit employees who are required by proper court order or summoned to be absent from work in connection with jury duty, or subpoenaed as a witness, will be paid at their normal hourly rate, less any compensation paid for jury duty service pursuant to Company policy .Employees shall be paid for all hours served for jury duty and witness summons, until such time as they are dismissed by the court. Employees called for jury duty and released by court with less than four (4) hours of service will be expected to return to work. Employees will provide the Company a copy of their summons and Jury Duty voucher.
+ARTICLE 17
+UNIFORMS
+Section 1 - Uniforms. All employees shall maintain a neat and professional appearance. The dress code at the site will be in accordance with the dress and security/identification requirements of the contract. The Company will provide five (5) company’s logo “wash and wear” shirts per year.
+Section 2 - Equipment. The Company shall provide the following equipment items at no cost to flight and simulator qualified employees immediately after hire (and as required thereafter due to normal wear and tear): One David Clark single-ear headset (compatible with Government flight operations). The Company shall make issued items available for employee purchase in case replacement is needed for reasons other than normal wear and tear.
+ARTICLE 18
+LEAVES OF ABSENCE
+Section 1 - Length. Leaves of absence without pay may be granted at the sole discretion of the Company upon request by an employee, for a period not to exceed sixty (60) calendar days. Except in cases of emergency, employees must request such unpaid leaves to the Site Manager, in writing, at least five (5) calendar days prior to the date the unpaid leave would begin.
+Section 2 - Seniority Rights. Employees on unpaid leaves of absence shall retain seniority while on leave, consistent with Article 9, Section 4. An employee shall lose his seniority and be terminated for the following:
+1.	Failure to return from a leave of absence on the agreed upon date;
+17 of 25
+2.	Falsifying a reason for a leave of absence; and/or
+3.	Becoming gainfully employed during a leave of absence without prior approval from the Company.
+Section 3	- Extensions. Any requests for extensions past the sixty (60) days may be granted at the sole discretion of the Company.
+Section 4	- Legal Compliance. The Company agrees to follow the State and Federal Statutes on Family and Medical Leave of Absence (FMLA), California Family Rights Act (CFRA) and Americans with Disabilities Act (ADA).
+ARTICLE 19
+MILITARY LEAVE
+Section 1 - Military Reserves. The Company agrees to pay employees who are members of an active, organized military reserve component, and who takes a leave of absence for military reserve field duty service or encampment, the difference between their military pay and their regular pay, for a maximum of two (2) calendar weeks (10 working days) per year. Payment will be made with the first payroll cycle after the employee’s return and upon receipt of a military leave and earnings statement (LES).
+Section 2 - Active Duty. The Company agrees to pay employees who are called to active duty, on an involuntary basis, as members of the United States Armed Forces Reserve or the National Guard an amount equal to the difference in the pay they receive for performing such duty and the amount they would receive in pay from the Company for hours they would have been scheduled to work had they not been required to perform such duty.
+a.	Differential Pay Length. The length of differential pay received will be based upon length of employment and days worked while on leave that would coincide with normal work days for the company:
+b.
+# of Work Days	Employment Length
+10 days	1 year > 2 years
+20 days	2 years > 3 years
+30 days	3 years > 4 years
+40 days	4 years > 5 years
+50 days	5 or more years
+c.	Payment. Payment will be made on the first available payroll provided that the leave and earnings statement (LES) is received by HR not later than eight (8) days prior to that payroll date.
+ARTICLE 20
+TRAVEL
+Section 1 - Travel Pay. Employees will be paid in accordance with a) and b) below when they are required to travel more than 25 miles, other than to the place of performance designated in Article 1, to perform duties for the Company.
+18 of 25
+a.	An employee, while on travel status, will be paid for:
+1)	All actual work time when such work has been assigned and approved in advance; and
+2)	Actual travel time, up to eight (8) hours in the continental United States and up to sixteen (16) hours for international travel to include Alaska and Hawaii, by any conveyance; provided, however, that hours paid under 1) and 2) of this paragraph shall not be duplicative.
+b.	On the days of travel to and from a temporary work site the travel time shall commence when the employee departs home/hotel and cease when the employee reaches home/hotel. Travel time does not include any daily commuting time to and from the worksite. Should travel be necessary outside an employee's normal daily work shift, the employee shall be paid in accordance with overtime rules as though they were at their normal duty location.
+c.	Reimbursement Procedure. Employees shall submit travel-related receipts and vouchers to the Company (on voucher forms provided by the Company). The Company shall pay employees for travel during the next available pay period (provided the Company received the employee’s receipts and vouchers before the timesheet submission deadline for that pay period).
+Section 2 - Per Diem. The Company will provide per diem as specified in the government Joint Travel Regulations.
+ARTICLE 21
+TUITION REIMBURSEMENT PLAN
+As an employee of the Company, employees are eligible to receive tuition assistance after they successfully completes their probationary period. The maximum allowance of tuition assistance provided to an employee is $1,500 per calendar year. This plan applies to undergraduate and graduate courses. Courses must be pre-approved as appropriate to enhance the current or future contributions to the Company. Reimbursement will not be made for textbooks or other costs not classified as tuition costs.
+To be eligible for tuition reimbursement, the employee must submit a receipt for the class or classes and documentation that indicates he was awarded a passing grade for the class. An employee that fails a class, receives an incomplete (and does not later receive a passing grade), or withdraws from a class without Company approval, will not be reimbursed for tuition. In exchange for this benefit, employees are committed to continued employment for a minimum of one (1) year from course completion. If employee voluntarily resigns within this period, Company will recoup the tuition reimbursement monies from his last paycheck.
+ARTICLE 22
+SUBSTANCE ABUSE
+Section 1 - Drug and Alcohol Free Workplace. The Company is committed to providing its employees with a safe workplace and an atmosphere that allows them to protect inventory and
+19 of 25
+other assets placed in their care. Whenever use of alcohol or illegal substances interferes with a safe workplace, appropriate action will be taken. The possession, sale or use of illegal substances at the workplace or coming to work under the influence of alcohol or illegal substances shall be a violation of safe work practices and will be subject to disciplinary action, including possible dismissal.
+Nothing in this policy is construed to prohibit the Company from its responsibility to maintain a safe and secure work environment for its employees or from invoking such disciplinary actions as may be appropriate for actions of misconduct by virtue of their having arisen out of the use of alcohol or drugs or both.
+Section 2 - Employee Assistance. The company agrees that any employee who voluntarily requests an opportunity for rehabilitation shall be allowed to seek assistance. Clearance and base access privileges may be temporarily suspended in accordance with government policy while the employee is in treatment. Upon successful rehabilitation and the reinstatement of his security clearance, the employee will be offered his position subject to the provisions contained in other sections of this agreement. Any employee who reports to work and appears to be under the influence of drugs or alcohol may be directed by the Site Manager or Assistant Site Manager (at their sole discretion) to submit to screening.
+ARTICLE 23
+SUCCESSORS AND ASSIGNS
+This Agreement shall be binding upon and shall ensure to the benefit of the parties hereto, their successors and assigns; but in the event the Company ceases to perform on the contract as identified in Article 1, The Company shall be released from all obligations on the project(s) so affected under this Agreement.
+ARTICLE 24
+NON-DISCRIMINATION
+The Company and the Union agree not to discriminate against any employee covered by this Agreement because of race, color, religion, sex, age, veteran status, national origin, marital status, disability, sexual orientation, or gender identity with respect to all terms and conditions of employment. Claims of such discrimination will not be subject to the grievance and arbitration provisions of this Agreement. The Company and the Union agree not to unlawfully discriminate against or harass any employee because of membership in or non-membership in the Union.
+ARTICLE 25 INSURANCE PLANS
+The Company will provide a Health & Welfare fringe or “cash in lieu” amount per hour for all hours paid to be used by the employee to purchase health and welfare benefits. Any unused monies will remain with the employee, unless otherwise required by law. All issues such as eligibility, enrollment, and claims will be as specified in the plan documents.
+20 of 25
+Cash In Lieu	Current	10-01-17	10-01-18	10-01-19
+Hourly rate for all hours	$6.40	$7.00	$7.25	$7.50
+Insurance Plans. The Company shall provide employees (and their dependents) with the following benefit options:
+a.	Group health insurance;
+b.	Group dental insurance;
+c.	Group vision insurance;
+d.	Group life insurance and AD&D insurance
+e.	Group short and long-term disability insurance;
+f.	Flexible Spending Account (FSA) - Medical and/or Dependent Care
+Employees may accept or decline participation, at their discretion, immediately after hire and during annual open enrollment periods specified by the Company. In accordance with the benefit plan documents, the Company shall allow employees subject to personnel actions to adjust their participation options immediately following such an action. All premiums, deductibles, fees, preconditions of participation, eligibility, and distribution of benefits (not otherwise dictated by this Agreement or by law) shall be governed by the Company’s benefit plan documents.
+ARTICLE 26
+SAVINGS PLAN
+Section 1 - Savings Plan The Company will continue to provide a 401(k) Plan for bargaining unit employees, to which plan eligible employees may defer compensation within limitations provided by the plan document. The Company will make a four (4%) percent contribution to the 401(k) based on an employee’s normal hourly wages, regardless of an employee’s contribution. Employees will continue to receive service credit under the 401(k) Plan for purposes of vesting and eligibility for their prior service with any predecessor contractor. All conditions of participation, eligibility, and distribution of benefits will be governed by the 401(k) Plan document.
+ARTICLE 27
+PROMOTIONS
+Section 1	- Qualification Upgrades. The Company shall offer promotions and upgrades to current employees, all other things being equal, before seeking new hires or transfers to fill higher-paid vacancies. If two or more equally qualified employees are eligible for an upgrade and express an interest, seniority shall govern who is selected. An employee may refuse to accept an upgrade without prejudice. In such a case, the offer shall pass down to the next qualified candidate in order of seniority and the employee shall continue in their previous position. Employees shall continue to be paid the normal hourly wages for their old position while enrolled in upgrade training. They shall be paid the hourly wage rate for their new, upgraded, position after they are qualified.
+21 of 25
+Section 2	- Open Positions. The Company will notify the bargaining unit employees of any openings to be filled within the bargaining unit prior to filling the position.
+Section 3	- Probationary Period. Upgraded employees will be considered on probation in new positions for ninety (90) calendar days after upgrading. During this period, the Company may, at its discretion act to reclassify the employee to their former occupation if determined, by the Manager or his designee, that the employee is not meeting the qualifications for that job classification.
+ARTICLE 28
+SECURITY
+Section 1	- Union Recognition. The Union recognizes that the Company may now have, or may incur in the future, obligations with respect to the security of information and materials under contract with the government.
+The Union agrees that nothing contained in this Agreement shall place the Company in violation of security agreements with the government.
+Section 2	- Security Clearances. It is understood by and between the parties hereto that as a necessary condition of continued employment, employees shall be subject to investigation for security clearance or national agency check and/or unescorted entry authorization under regulations prescribed by the Department of Defense, or other agencies of the United States government on government work, and that denial of such clearance and/or unescorted entry authorization by such governmental agency shall be cause for release from the Company due to inability to meet job requirements.
+Section 3	- Release of Liability. It is understood that there shall be no liability on the part of the Company for any release growing out of the denial of clearance and/or unescorted entry authorization by the United States government.
+Section 4	- Seniority Reinstatement. The Company will reinstate the seniority of an employee whose denied security clearance is reinstated by the federal government. A non-probationary employee who loses his security clearance or site access for any reason will not lose his seniority until final adjudication of his appeal. Any employee whose seniority is reinstated under this provision will be reinstated in his previously held occupational title.
+ARTICLE 29
+SAFETY
+Section 1	- Health and Safety. The Company will continue to make reasonable provisions to ensure the health and safety of employees.
+Section 2	- Safety Equipment. The Company will provide to bargaining unit employees such personal protection equipment that the Company requires to be worn.
+ARTICLE 30
+22 of 25
+CHANGES TO THE AOCE EMPLOYEE HANDBOOK
+The Company will notify the employees and the Union of any relevant changes to the Company Employee Handbook that may affect employees covered by this Agreement. Aesthetic changes and/or immaterial changes do not necessarily apply in the definition of “relevant changes” in this Article. The employees and the Union may express their objections, if any, but the Company reserves its ownership rights to the Employee Handbook. It is understood that the Employee Handbook cannot supersede, per Federal and State Laws, this Collective Bargaining Agreement.
+ARTICLE 31
+ANNUAL FAA MEDICAL EXAMS AND ASSOCIATED WAIEVER EXAMS OR TESTS
+The provisions of this section only apply to employees who are required to hold an FAA Flight Medical Certificate to perform their job. The Company shall reimburse employees the full cost of annual FAA Flight Physical exams and any out-of-pocket costs resulting from additional Physician directed exams or tests needed to satisfy FAA medical waivers. FAA medical exams and/or associated tests may be completed during normal working hours at a time that is scheduled by mutual agreement between the Company and the employee. In such case, the employee shall be paid normal hourly wages for all work time missed. Employees must submit a receipt for the cost of their medical exam directly to the Company for reimbursement within 30 days of the exam date.
+ARTICLE 32
+LOSS OF MEDICAL QUALIFICATION
+If an employee loses their medical qualification, they shall remain in their current position and continue to earn their normal hourly wages for a period of 90 calendar days while they attempt to regain their qualification. If the employee remains unqualified after this term, their pay shall be reduced to base pay plus health and welfare fringe for an additional 90-day period.
+23 of 25
+ARTICLE 33
+DURATION AND TERMINATION
+Section 1 - Expiration Date. This Agreement shall continue in full force and effect up to and including August 31, 2020.
+Section 2 - Notice to Modify or Terminate Automatic Renewal. This Agreement shall continue in effect for successive yearly periods after unless notice is given in writing by either the Union or the Company to the other party at least sixty (60) days prior to, or prior to subsequent termination dates after. If such notice is given, this Agreement shall be open to modification, amendment, or termination, as such notice may indicate, on, or the subsequent anniversary date, as the case may be.
+Section 3 - Waiver of Bargaining During Contract Term. The Union and the Company, for the life of this Agreement, each voluntarily and unqualifiedly waives the right and each agrees that the other shall not be obligated to bargain collectively with respect to any subject or matter referred to in this Agreement.
+In the event that now, or hereafter, there is any State or Federal law or any directive, order, rule, or regulations made pursuant thereto, which is in conflict with any provision or provisions of any agreement between the parties, the same shall supersede such provision or provisions and thereafter shall govern and control the relations and conduct of the parties so long as such law, directive, order, rule or regulations shall remain in force and effect. In the event that this or any other agreement existing between the parties hereto, now, or thereafter requires the approval of any Government authority before becoming effective, the same will and shall be subject to such approval. Furthermore, it is mutually agreed that within thirty (30) calendar days after such provision of provisions become unlawful, the parties shall meet to discuss a modification of such provision or provisions to comply with the law. In all other respects the provisions of this Agreement shall continue in full force and effect for the duration of this Agreement.
+IN WITNESS WHEREOF, the parties have executed this Agreement by their respective representatives duly authorized on August 16, 2017.
+For AOCE, Inc. James E. Hartney	C/ Chief Executive Officer	International Association Machinists and Aerospace Workers Local Lodge No. 821 Richard Dees 1 AMA W, Business Representative thk UM.iw Steven Van Wie IAMAW, Busi^^^^resentative <U5^^Mfobinson Chief Shop Steward

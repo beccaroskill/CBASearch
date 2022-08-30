@@ -1,0 +1,647 @@
+﻿*
+
+COLLECTIVE BARGAINING
+AGREEMENT
+THE VALSPAR CORPORATION Rockford, Illinois
+and
+UNITED STEEL, PAPER AND FORESTRY, RUBBER, MANUFACTURING, ENERGY, ALLIED INDUSTRIAL AND SERVICE WORKERS INTERNATIONAL UNION on behalf of Local Union 745L UNIT 02
+January 26,2016 through January 25, 2019
+
+COLLECTIVE BARGAINING AGREEMENT Between
+THE VALSPAR CORPORATION Rockford, Illinois and
+UNITED STEEL, PAPER AND FORESTRY, RUBBER, MANUFACTURING, ENERGY ALLIED INDUSTRIAL AND SERVICE WORKERS INTERNATIONAL UNION
+ON BEHALF OF LOCAL UNION 745L UNIT 02
+EFFECTIVE January 26, 2016 thru January 25,2019
+INDEX OF ARTICLES
+Preamble		1
+Article I	Recognition	1
+Article II	Union Security	2
+Article HI	Check Off	2
+Article IV	Scope of Agreement	3
+Article V	Limitation of Agreement	4
+Article VI	Non-discrimination	4
+Article VII	No Strike or Lockout	5
+Article VID	Grievance Committee Member	5
+Article IX	Disciplinary Action	6
+Article X	Grievance and Arbitration	6
+Article XI	Seniority	7
+Article XII	Standard Workday and Workweek	10
+Article XHI	Rest Period and Wash-Up Time	12
+Article XIV	Wage Rates and Classifications	12
+Article XV	Holidays	13
+Article XVI	Vacations	13
+Article XVII	Funeral Pay Clause	15
+Article XVm	Military Service	15
+Article XIX	Jury Duty	15
+Article XX	Group Insurance and Savings and Retirement Plan	15
+Article XXI	Leaves of Absence	16
+Article XXII	Temporary Transfer	18
+Article XXIII	Bulletin Board	18
+Article XXIV	Visitation	18
+Article XXV	Safety and Health	18
+Article XXVI	First Aid	19
+Article XXVII	Production Balance Employee	20
+Article XXVHI	Disabled Employee	20
+Article XXIX	Continuous Operation Schedule	22
+Article XXX	Severance	23
+Article XXXI	General	23
+Article XXXII	Duration and Termination	24
+Exhibit A	Wage Rates	27
+Exhibit B	Attendance Policy	28
+Exhibit C	Holiday Schedule	30
+Exhibit D	Temporary Help	31
+Exhibit E	Insurance Plan Summaries	32
+ALPHABETICAL INDEX
+ARTICLE
+PAGE
+Accident and Sickness Pay	XX	16
+AD&D	XX	16
+Arbitration	X	6
+Attendance Policy	Ex. B	28
+Bidding	XI	8
+Checkoff	ni	2
+Classifications	XIV	12
+Continuous Operation Schedule	XXIX	21
+C.O.S. Exclusions	XXIX	22
+Cost of Living	Ex. A	26
+Credit Union	XXXI	23
+Dental Insurance	Ex. E	32
+Disabled Employees	xxvm	20
+Disciplinary Action	IX	6
+Discrimination	VI	4
+Dues (Union)	in	2
+Duration of Contract	xxxn	24
+First Aid	XXVI	19
+Funeral Pay	xvn	15
+General	XXXI	23
+Grievance Committee Member	vm	5
+Grievances	X	6
+Group Insurance	XX	15
+Group Leaders	Ex. A	25
+Health	XXV	18
+Holidays	XV	13
+Holidays (C.O.S.)	XXIX	22
+Holiday Schedule	Ex.C	30
+Insurance	XX	15
+Life	XX	16
+AD&D	XX	16
+Accident & Sickness	XX	16
+Dental	XX	15
+Job Posting	XI	8
+Jury Duty	XIX	15
+Lay-Off	XI	8
+Lay-Off (Voluntary)	XI	8
+Leaves of Absence	XXI	16
+Leaves of Absence (Funeral)	XXI	17
+Leaves of Absence (Union Business)	XXI	17
+Life Insurance	XX	15
+Limitation of Agreement	V	4
+Membership (Union)	n	2
+Military Service	xvm	15
+Minimum Rates	Ex. A	25
+Non-Discrimination	VI	4
+Notification (C.O.S.)	XXIX	22
+Ongoing Medical Treatment	Ex. B	28
+Outerwear	XXV	18
+Overtime Equalization	xn	10
+Overtime (Saturday)	xn	10
+Overtime (C.O.S.)	XXIX	23
+Part Time Employees	Ex.D	31
+Posting (Vacancies)	XI	7
+Premium (C.O.S.)	XXIX	22
+Premium (Shift)	XIV	12
+Premium (Hazardous Pay)	Ex. A	25
+Probationary Period	XI	7
+Production Balance Employee	xxvn	20
+Recall	xn	10
+Recognition	i	1
+Rest Period	xm	12
+Safety Committee	XXV	18
+Safety & Health	XXV	18
+Safety Shoes	XXV	19
+Schedule (C.O.S.)	XXIX	22
+Scope of Agreement	IV	3
+Seasonal Employees	Ex. A	25
+Security - Union	n	2
+Seniority	XI	7
+Seniority List	XI	8
+Severance	XXX	23
+Shift (C.O.S.)	XXIX	22
+Shift Premium	XIV	12
+Sick Pay	XX	16
+Start Time	xn	10
+Starting Rates	Ex. A	25
+Standard Work Day and Work Week	xn	10
+Supervisors Working	XXXI	23
+Temporary Transfer	xxn	18
+Uniforms	XXV	19
+Union Membership	n	2
+Union Security	n	2
+Vacation Checks	XVI	14
+lil
+Vacations	XVI	13
+Vacation Conversion (C.O.S.)	XXIX	23
+Visitation	XXIV	18
+Wage Rates	XIV	12
+Wage Rates	Ex. A	27
+Workday	xn	10
+Workweek	xn	10
+Wash-Up Time	xm	12
+iv
+COLLECTIVE BARGAINING AGREEMENT Between
+THE VALSPAR CORPORATION Rockford, niinois and
+UNITED STEEL, PAPER AND FORESTRY, RUBBER, MANUFACTURING, ENERGY, ALLIED INDUSTRIAL AND SERVICE WORKERS INTERNATIONAL UNION
+ON BEHALF OF LOCAL UNION 745L UNIT 02 EFFECTIVE January 26, 2016 through January 25,2019
+It is hereby agreed by and between UNITED STEEL, PAPER AND FORESTRY, RUBBER, MANUFACTURING, ENERGY, ALLIED INDUSTRIAL AND SERVICE WORKERS INTERNATIONAL UNION on behalf of Local Union 745L UNIT 02 and THE VALSPAR CORPORATION, 1215 Nelson Boulevard, Rockford, Illinois Manufacturing Plant.
+This Agreement, made and entered into January 26,2016, by and between Valspar Coatings, Division of Engineered Polymer Solutions, Inc., a wholly owned subsidiary of Valspar, 1215 Nelson Blvd., Rockford, Illinois, hereinafter referred to as the "Employer," and the United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union on behalf of Local Union 745L Unit 02, hereinafter referred to as the "Union."
+This Agreement shall be binding upon the parties hereto, their successors, administrators, executors and assigns. In the event the entire business or part thereof is sold, leased, or transferred, or taken over by sale, transfer, lease, assignment, receivership or bankruptcy proceedings, such business shall continue to be subject to the terms and conditions of this Agreement for the life thereof.
+It is the intent and purpose of the parties hereto that this Agreement will promote and improve the industrial relationship between the Employer and the employees, and as set forth herein, is the basic agreement covering rates of pay, hours of work, and conditions of employment to be observed by the parties hereto.
+ARTICLE I
+RECOGNITION
+The National Labor Relations Board has found and determined, by Decision and Certification of Representation, dated September 5, 1972, Case #39-RC-l 186, that a unit appropriate for the purpose of collective bargaining consists of all full-time and regular part-time production, warehouse, and maintenance employees employed at the Employer's Rockford, Illinois plant located at 1215 Nelson Blvd., in Rockford, Illinois, excluding over-the-road truck drivers, office clerical employees, laboratory technicians, professional employees, and guards and supervisors as defined in the Act, and the National Labor Relations Board has on said date certified the Union as being designated and selected by a majority of all the Employees in said unit as the representative for the purpose of collective bargaining and that the Union pursuant to the provisions of the National Labor Relations Act are the exclusive representatives of all the employees in said unit for the purpose of collective bargaining and with respect to rates of pay, hours of employment and all other conditions of employment; the Employer, in accordance with the terms of said Decision and Certification of Representation recognizes the Union as the exclusive representative of its employees in said collective bargaining unit.
+1
+ARTICLE H
+UNION SECURITY
+Section 1 a. It shall be a condition of employment that all employees of the Employer covered by this Agreement who are members of the Union in good standing on the effective date of this Agreement shall remain members in good standing and those who are not members on the effective date of this Agreement shall, on the thirtieth (30th) day following the effective date of the Agreement, become and remain members in good standing in the Union. It shall also be a condition of employment that all employees covered by the Agreement and hired on or after its effective date or transferred into the bargaining unit on or after its effective date shall, on the thirtieth (30th) day following the beginning of such employment or transfer, become and remain members in good standing in the Union.
+b.	The provisions of Paragraph (a) of this Section shall not apply to any employee covered by this Agreement to whom membership in the Union is denied or whose membership therein has been terminated for reasons other than the failure of such employee to tender his initiation fee or periodic dues.
+c.	Any employee who fails to meet the requirements of this Section shall not be retained in the employ of the Company provided that the Union shall have notified the Company and the employee in writing of such default and said employee shall have failed to remedy same within ten (10) days after receipt of such notice.
+d.	Any dispute arising as to an employee’s membership in the Union shall be subject for the grievance procedure, including arbitration.
+e.	"Member of the Union" where used herein means any employee who is a member of the Union and in not more than three (3) months in arrears in the payment of dues.
+ARTICLE HI CHECKOFF
+Section 1	The Company, upon written authorization of the employee, shall deduct from each pay
+check received by such employee, the Union dues for that pay period and promptly remit same to the International Secretary-Treasurer of the Union. The method of calculating the amount of Union dues, and the procedures to be followed by the Company for transmitting such dues to the International Secretary-Treasurer, shall be set forth in instructions to the Company from the Union’s International Secretary-Treasurer.
+The following paragraphs shall appear on the card which shall be personally signed by the employee:
+Company
+20
+Plant	Date
+Pursuant to this authorization and assignment, please deduct from my pay each month, while I am in employment with the collective bargaining in the Company, and
+2
+irrespective of my membership status in the Union, monthly dues, assessments and (if owing by me) an initiation fee each as designated by the International Secretary/Treasurer of the Union.
+The aforesaid payment shall be remitted promptly by you to the International Secretary/Treasurer of the United Steelworkers, or its successor, Five Gateway Center, Pittsburgh, PA 15222.
+This assignment and authorization shall be effective and cannot be cancelled for a period of one (1) year from the date appearing above or until the termination date of the current collective bargaining agreement between the Company and the Union, whichever occurs sooner.
+I hereby voluntarily authorize you to continue the above authorization and assignment in effect after the expiration of the shorter of the periods above specified, for further successive periods of one (1) year from such date. I agree that this authorization and assignment shall become effective and cannot be cancelled by me during any of such years, but that I may cancel and revoke by giving to the appropriate management representative of the plant in which I am then employed, an individual written notice signed by me and which shall be postmarked or received by the Company within fifteen days following the expiration of any such year or within the fifteen days following the termination date of any collective bargaining agreement between the Company and the Union covering my employment if such date shall occur within one of such annual periods. Such notice of revocation shall become effective respecting the dues for the month following the month in which such written notice is given; a copy of any such notice will be given by me to the Financial Secretary of the Local Union.
+While contributions or gifts to the USW are not tax deductible as charitable contributions for Federal income tax purposes, they may be tax deductible under other provisions of the Internal Revenue Code.
+Local Union No._______
+United Steelworkers	Signature
+Witness Check No.Ledger No.
+FORM 530 of equivalent
+Section 2 The Local Union will furnish the employer with the names of all members paying dues direct to the Union within thirty (30) days following the effective date of this Labor Agreement.
+Section 3 The Union shall indemnify and save the Company harmless from any claims, suits, judgments, attachments, and from any other form of liability as a result of making any deduction in accordance with the foregoing authorization and assignment.
+ARTICLE IV
+SCOPE OF AGREEMENT
+This Agreement shall be limited in its scope and application to only employees of the Employer in those job classifications and status described in Article I hereof as constituting the appropriate unit for the purpose of collective bargaining, and the Employer shall not enter into any other agreements with said
+3
+employee, individually or collectively, which conflicts with or is contrary to the terms and provisions of this Agreement.
+The Company and Union agree to meet quarterly in labor-management meetings to identify and problem-solve matters of mutual interest. Attendees at these meetings will be the Managers of the Rockford site operations and the Union President, Vice-President and Grievance Chairperson, not to exceed three managers.
+	ARTICLE V LIMITATION OF AGREEMENT
+Section 1	Except as specifically abridged, delegated, granted, or modified by this Agreement, all of the rights, powers, prerogatives, and authority the Company had prior to the execution of this Agreement are retained by the Company and remain exclusively within the rights of Management, and are not subject to the grievance-arbitration procedure.
+Section 2	All agreements, precedents, and practices between the parties are effective and existent only to the extent they are expressly set forth in the terms of this Agreement.
+Section 3	The management of the plant and the direction of the working force, including the right to establish shop rules and regulations, right to hire, transfer, promote, suspend or discharge for just cause, to assign and re-assign employees to jobs, to increase and decrease the working force, to determine the product to be handled, the schedule of work and the methods, processes, and means of operation, or handling, and to remove employees from duty because of lack of work according to seniority standing as herein provided, or for other legitimate reasons, is vested exclusively in the Employer, except as otherwise provided in this Agreement, and provided that such action by the Employer will not be used for the purpose of discrimination against any employee or the Union and will not be in conflict with the terms and provisions of this Agreement.
+Section 4	The Employer reserves the unrestricted right to suspend or curtail the operation of the plant, and to discontinue departments in whole or in part whenever in its judgment, conditions warrant such suspension, curtailment, or discontinuance. Insofar as practicable, advance notice shall be given to the employees of such action. A minimum of two (2) weeks’ notice or the maximum provided by law shall be given to employees in case of a plant closure. ARTICLE VI NON-DISCRIMINATION
+Section 1	The Employer, the Union, and the employees themselves will comply with all laws preventing discrimination against any employee because of race, creed, religion, national origin, color, sex, disability or age. The parties further agree that there shall be no discrimination against any employee because of veteran status or Union activity.
+Section 2	Any disputes under this Article, as well as other Articles of this Agreement, shall be subject to the grievance and arbitration procedure set forth in Article X.
+Section 3	Gender Reference - As used throughout this agreement, reference to the male gender will include the female gender as well.
+4
+ARTICLE Vn NO STRIKE OR LOCKOUT
+Section 1 During the term of this Agreement, the Union agrees on behalf of itself and each of its members that there shall be no authorized strike of any kind and there shall be no picketing, work stoppage, slowdown, or any other type of organized interference with the Employer’s business.
+Section 2 In the event any violation of the previous paragraph occurs which is unauthorized by the Union, the Employer agrees that there shall be no liability on the part of the International Union, Local Union or any of its officers or agents, provided that in the event of such unauthorized action, the Union first meets the following conditions:
+a.	The Union shall declare publicly that such action is unauthorized by the Union if requested to do so by the Employer.
+b.	The Union shall promptly order its members to return to work, notwithstanding the existence of a picket line, if requested to do so by the Employer.
+c.	The Union shall not question the right of the Employer to discipline or discharge employees engaging in, participating in, or encouraging such action. It is understood that such action on the part of the Employer shall be final and binding upon the Union and its members, wherein it is evident to the Employer and the Union that said employees did actually engage in, participate in, or encourage such action. However, an issue of fact as to whether or not any particular employee did engage in, participate in, or encourage any such violation may be subject to the grievance and arbitration provision of this Contract.
+d.	The Employer agrees that it will not discharge any employees within the first fortyeight (48) hours following the commencement of any of die restrictions outlines in Section 1 above provided the Union has shown an immediate willingness to stop any infractions as outlined in Section 1 above.
+Section 3 There shall be no lockout by the Employer.
+ARTICLE Vm GRIEVANCE COMMITTEE MEMBER
+Section 1 The Employer shall recognize duly authorized Grievance Committee Members in connection with this collective bargaining relationship, but not beyond the limits imposed by the Union from time to time as related to authority or responsibility of the Grievance Committee Members. The Union shall not be held liable for any unauthorized act of the Grievance Committee Members. However, this does not mean that the Grievance Committee Members may not be disciplined by the Employer for just cause, whether or not the action was within the authority granted by the Union. Furthermore, this provision shall not be considered a modification, amendment, or annulment, either in part or in whole of this Collective Bargaining Agreement.
+Section 2 The Employer shall recognize that the duly recognized Grievance Committee Members may be allowed a reasonable time during working hours to investigate or handle contract grievances. In such instances, the Union Grievance Committee Member shall obtain the permission of his or her supervisor to leave the department. However, their conduct and time consumption shall not interfere with the general production and operations of the
+5
+Employer. (The Company will not use this to unreasonably deny the Union the time needed. The Employer shall not deny the Union Grievance Committee Members or Officers the same rights as other bargaining unit members.)
+ARTICLE DC DISCIPLINARY ACTION
+Section 1 No employee will be discharged, suspended without pay, or disciplined in any manner except for just cause. Any employee challenging the propriety of such discharge, suspension, or disciplinary action may do so in accordance with Article X.
+No discharge or disciplinary action of any kind shall be given to an employee without a Union representative being present except for discipline under Step 1 and Step 2 of the Attendance Policy set forth in this Agreement. It is understood that the Company must advise the employee regarding the right of Union representation to the extent required by law.
+Section 2 The Company has fifteen (15) working days from the time the Company becomes aware of an alleged occurrence to administer discipline related to the occurrence. All disciplinary notices not removed and destroyed after eighteen months from date of issue shall be declared null and void and not used against the employee.
+ARTICLE X
+GRIEVANCE AND ARBITRATION
+Section 1 A grievance is a complaint, dispute or controversy in which it is claimed that the Company has failed to comply with an obligation assumed by it under the terms of this Agreement, and which involves either (1) a dispute as to the facts involved, (2) a question concerning the meaning, interpretation, scope, or application of this Agreement, or (3) both. The grievance must cite the Article and Section violated and how it was allegedly violated, but this will not restrict the Company nor the Union from presenting or arguing any other articles or sections that may apply in any step of the grievance procedure. No grievance will be considered by any supervisor or representative of the Company unless it is brought to their attention within fifteen (15) working days of its alleged occurrence.
+STEP 1 The aggrieved employee, with the Grievance Committee Member, at the employee’s request, shall talk to the employee’s immediate supervisor in an initial step to settle the employee’s grievance. In the absence of the Grievance Committee Member, the Grievance Chairperson will be used. The meeting will be held within two (2) working days of the grievance being verbally expressed. The supervisor will answer the grievance in writing within five (5) working days after the meeting has been held.
+STEP 2 If the step 1 answer is unsatisfactory, then within five (5) working days after the date the supervisor answered the grievance, the grievance shall be reduced to writing and referred to the plant manager of that division or his designee and the Grievance Committee Member and Grievance Chairperson to settle the employee’s grievance. The Plant Manager or his designee will answer the grievance in writing within five (5) working days after the written grievance was received in Step 2.
+STEP 3 If the step 2 answer is unsatisfactory, then within five (5) working days after the date the plant manager answered the grievance, the grievance shall be referred to the Human Resource Manager, the Union grievance committee and the International
+6
+representative or his/her designee in an attempt to settle said grievance. The step 3 meeting will take place within fifteen (15) working days after the date the grievance was referred to step 3. The Human Resource Manager will answer the grievance in writing within five (5) working days after the date the step 3 meeting was held.
+STEP 4 Where no agreement can be reached, the grievance may be submitted to arbitration, provided such request for arbitration is submitted in writing within thirty (30) calendar days after the date the Human Resource Manager answered the grievance in step 3.
+It is understood that the time limits specified in the above procedure shall apply unless extended by written mutual agreement between the Company and the Union. If the grievance is not processed to the next step in the procedure within the time limit, that grievance shall be considered withdrawn. If the Company fails to answer a grievance within the applicable time limit, that grievance shall be considered sustained and without setting precedence.
+Section 2 For such purpose, where the parties of the Agreement are unable to agree upon an arbitrator, the Federal Mediation and Conciliation Service shall be asked to provide a list of seven (7) impartial arbiters from which the parties shall select an impartial arbiter through the process of alternate striking.
+The authority of the arbiter shall be limited to making an award relating to the interpretation of or adherence to the written provisions of the Agreement, and the arbiter shall have no authority to add to, subtract from or modify in any manner the terms or provisions of this Agreement. The award of the arbiter shall be confined to the issues raised in the written grievance, and the arbiter shall have no authority to decide any other issues.
+Section 3 An appeal from discharge must be taken within five (5) working days from the date of discharge unless there are extenuating circumstances, in which case, ten (10) working days will be allowed. All grievances pertaining to discharge will be presented directly to the Plant Manager of his division or designee and the grievance procedure shall follow from that step.
+Section 4	Each party shall assume their own expense in case of arbitration and the expense of the arbiter shall be divided equally.
+Section 5	Decisions of the arbiter shall be final and binding on all parties to this Agreement.
+ARTICLE XI SENIORITY
+Section 1 Seniority is preference or priority measured by length of service with definite rights qualifying employees for employment when work is available, the purpose of which is to provide a declared policy of work security measured by length of service. Therefore in all cases, such as layoff, recall job posting and partial or complete shutdown of departments, seniority at the Rockford facility shall prevail.
+Section 2 New employees shall be hired on a probationary basis for a period of ninety (90) working days and, if retained beyond that period, their seniority shall accrue from the first date of employment with the Company. A probationary employee may be given a probationary release at the sole discretion of the Company during his probationary
+7
+period. However, new employees may be reassigned to any unfilled job bid during their probationary period, if that employee and the Union President or his/her designee agrees.
+Section 3 In all cases of curtailment of the work force such as (layoff, shutdown, partial shutdown), the Company will determine which classifications are to be reduced. The least senior employees in the classification shall be reduced and shall have the right to bump the junior employee on any shift and classification, excluding maintenance, master mechanic and electrician, unless qualified. The junior employee in that classification shall then be bumped and will exercise the same bumping rights. Bumping into a classification requires the employee to perform any job duties within that classification, and not the specific job duties the employee bumped was currently performing. When bumping rights are completely exercised, the least senior employees left shall be laid off. When more than one position is being reduced, the bumping process will begin with the most senior employee affected and proceed down the seniority list until all affected employees have exercised their bumping rights.
+In case of layoff, the Company may ask for volunteers in the order of their seniority by classification. The Company will place a list of job classifications being laid off on the bulletin board with a note reminding employees of the voluntary layoff option. This option must be exercised within five (5) working days.
+Section 4 An employee shall lose his or her seniority in the following instances: a. Quit, b. Discharge for just cause.
+c.	Failure to return to work within five (5) working days after being notified to return to work from a layoff by Certified mail, return receipt requested, addressed to the employee at the last known address on record with the Company.
+d.	Does not return upon expiration of leave of absence.
+e.	If the employee has been absent in excess of twelve (12) calendar months and has not been returned to employment [employees may be entitled to an additional twelve (12) months by notifying the Company in writing prior to the expiration of the first twelve (12) months of absence].
+f.	Employees having less than two (2) years and more than ninety (90) working days continuous service with the Employer and who are laid off for lack of work shall retain seniority for the length of time equal to that of their continuous service with the Employer. Employees with less than ninety (90) working days continuous service with the Employer shall have no seniority rights.
+Section 5 Employees laid off shall accumulate seniority equal to the seniority they held at the time of layoff, not to exceed two (2) years. Employees shall notify the company in writing prior to the expiration of the first twelve (12) months of absence of their desire to be recalled. Employees who are recalled from layoff back to work under this Article shall be entitled to benefits on the first day of returning to work. Recalled employees will have the option to stay on layoff until recalled again so long as there is a junior employee on layoff qualified to perform the open job. The least senior qualified employee must return to work if recalled. The Company will give a written record of the employee’s decision to stay on layoff to the employee, the Union, and a copy in the employee's file.
+Section 6 The Company will post a current seniority list every time the list changes and will supply the Union with a copy of such list.
+8
+Section 7
+Section 8
+When a vacancy occurs or a new job is established (this does not include Group Leaders),
+such vacancy shall be posted for a period of two (2) working days. The most senior qualified employee bidding on the vacancy shall be given an opportunity to qualify for the job, for a period of thirty (30) calendar days. For purpose of this provision, the term "qualified employee" means that the employee claiming the ability to do the work will be able to perform the work in comparable quality and quantity with the other experienced employees performing identical operations. Should the successful bidder satisfactorily demonstrate his ability to perform the work required of the job classification prior to the expiration of the qualifying period, such qualifying period shall be considered fulfilled. Should the successful bidder elect to decline the bid award before assignment to the bid job, such employee must advise the Company within two (2) working days after being notified of the award. An employee can only exercise this option one (1) time in any one-year period.
+Employees who are required to remain in their present position for more than thirty (30) calendar days, to train a new employee, will earn the job rate of the new bid position, beginning the 31st day. Should the employee fail to qualify for the job, he shall be returned to his former position. When a job is filled through a job posting, a vacancy may be created in the job previously held by the successful bidder. If the Company decides not to fill such a vacancy, the Company will notify the Union within seven (7) working days in writing.
+When necessary to reassign employees, including temporary transfers, so long as efficient operations can be maintained, the least senior employee in the classification qualified to perform the work will be reassigned. Additionally, for a period of twenty-four (24) hours, no other employee will be transferred into the vacated position from outside the classification unless necessary due to compelling business reasons which will be explained to the Union President or his or her designee. In cases of temporary transfers of two (2) days or more, the Union shall receive written copies of the transfers and reasons for such transfer, at the time of such transfer.
+The Employer will recognize bids for vacancies from employees who are bidding on a
+higher rated job or employees who are bidding to a lower rated job because of eventual job improvement or because of physical reasons. Lateral or downward bidding will be permitted not to exceed two times per employee per year. Upward bidding will only be permitted after six (6) months from latest bid or six (6) months from hire. Employees hired as General Labor may bid upward upon successful completion of their probationary period. Bids within classification for the purpose of shift change only will be exempt from any bid restrictions. These bid restrictions shall not apply if an employee’s job is discontinued or abolished. If a job is discontinued or abolished and is then reactivated within a six (6) month period, the employees initially affected will be provided first opportunity for return to such job before the job is posted for bid.
+Section 9	When new jobs are created or old jobs are changed, the implementation of the new or
+changed job shall not be a subject of arbitration. The rate and/or classification of the new or changed job shall be a subject of negotiation. If the parties are unable to agree on a rate and/or classification, the dispute shall be subject to Article X - (Grievance and Arbitration) for resolution.
+9
+	ARTICLE Xn STANDARD WORKDAY AND WORKWEEK
+Section 1	The normal workweek shall consist of forty (40) hours, Monday through Friday, and a normal workday shall consist of eight (8) hours. Time and one half (1-1/2) shall be paid for work performed in excess of eight (8) hours in any one (1) day, or over forty (40) hours in any one (1) week for all employees. All Saturday work shall be paid for at one and one-half (1-1/2) times the regular hourly rate of pay. All Sunday work shall be paid for at two (2) times the regular hourly rate of pay. When there is an 11:00 P.M. Sunday night start of the third shift, employees will be paid straight time. It is understood that the normal start-up time of the third shift will be on Sunday night.
+Section 2	Any employee who is recalled to work after having completed his regular work shift and has left the premises of the Company’s facilities shall be entitled to the equivalent of four (4) hours pay at the appropriate overtime rate.
+Section 3	Any employee who reports for work at the start of his regular scheduled shift assignment and was not notified not to report before the end of the previous shift, shall receive a minimum of four (4) hours work or four (4) hours pay, provided, however, that any such employee shall be required to do any work assigned to him during said four (4) hour period. Notification not to report for work may be verbal. This provision shall not apply where the inability to supply work is due to causes beyond the control of the Company; for example, breakdown of machinery, equipment, or building; power failure; windstorm, hail, fire; explosion; riot; civil commotion; work stoppages; or Act of God.
+Section 4	When work is to be performed on a Saturday, the Company will notify the affected employee(s) on 1st shift by 12:00 P.M. on the preceding Thursday, for 2nd shift by 3:00 P.M. on the preceding Thursday, and for the 3rd shift by 6:00 A.M. on the preceding Thursday or the Saturday overtime will be voluntary and the employee will not be charged any incidents under the attendance program. However, the employee will be charged the hours of overtime offered. If the employee accepts the overtime and does not report for work, the employee will be subject to the attendance program rules. When the Company schedules two or more shifts of Saturday overtime, the shifts will be scheduled for the same amount of time. Every employee shall be granted one scheduled Saturday off per month without being charged an absence for that day. Each employee shall have the right to choose the Saturday, which he or she wants to have off, but must notify the Company by the end of his or her regular shift on the Thursday of the week in which the employee wants to have Saturday off. If more than 50 percent of the employees in a job classification on a shift want to take the same Saturday off, the Company will allow the most senior 50 percent of the employees in that classification on that shift to be off on that Saturday. In the case of documented emergency, employees will not be held accountable for a lack of timely notification. When a holiday listed in Article XV falls on Friday or Monday, work on the Saturday of that weekend will be voluntary, and such Saturday will be in addition to the one Saturday per month, which employees may choose to take off.
+10
+Section 5
+OVERTIME EQUALIZATION PROCEDURE
+1.	Overtime will be equalized in all areas of this facility by job classification within the department over all shifts. The initial offering of overtime will start with the senior employee in the classification on that shift and in that department. The period of time allowed for this equalization will be one quarter. The quarters will start on the following dates:
+2016:
+2017:
+2018:
+1/26/16,4/27/16,6/27/16,10/26/16 1/25/17,4/26/17,7/26/17,11/01/17 1/31/18,5/02/18, 8/01/18,10/31/18
+2.	If overtime is not equalized at the end of a quarter, the Company will pay the differential over eighteen (18) hours. At no time will an eighteen (18) hour differential exist at the start of a month.
+3.	In order to keep an accurate account of overtime work, all employees will be charged for all hours worked, unavailable and all hours refused. The Company will provide biweekly overtime record and post bi-weekly overtime logs within each department.
+4.	Any transferred or new employee in a classification will start at the highest hours recorded in that classification.
+5.	In those situations where the entire department is scheduled for overtime, all employees concerned will work. This would also include any probationary employees assigned to that department or crew.
+6.	In those situations where only a partial crew is needed to work overtime, overtime will be equalized to stay within an eighteen (18) hour differential.
+7.	In those situations where there are miscellaneous work assignments not related to any job classification, and it will involve overtime, the department as a whole, by seniority, will be considered in the eighteen (18) hour equalization process to determine who will work overtime.
+8.	Overtime for people temporarily transferred to a job because of lack of work in a department will only occur after all employees in the classification have been offered that work.
+9.	Employee(s) with documented medical restrictions will not be included in the overtime equalization for work outside his/her medical limitations. As soon as management is notified that the medical restriction is removed, the employee will start at the highest hours recorded in that classification.
+10.	All overtime hours worked, declined or paid through grievance settlement shall be charged.
+If an employee is absent for any reason when an overtime opportunity is available, they will be charged if all employees lower on overtime hours are charged and an employee higher on overtime hours works the overtime.
+11
+Section 6 The regular starting times will be between 5:00 a.m. to 8:00 a.m. for 1st shift, 2:00 p.m. to 4:00 p.m. for 2nd shift, and 10:00 p.m. to 12:00 midnight for 3rd shift. The Company will not change starting times to hours outside those stated above without meeting with the Union President or his or her designee to discuss the compelling business need for the change. Second (2nd) and 3rd shift schedules to changed to a full eight (8) hour workday plus one half (1/2) hour unpaid lunch period when implemented in January 2001.
+1st Shift 7:00 a.m. - 3:30 p.m.
+2nd Shift 3:00 p.m. -11:30 p.m.
+3rd Shift	11:00 p.m. - 7:30 a.m.
+The Company may implement a four (4) day work-week schedule based on business needs.
+ARTICLE XIII
+REST PERIOD AND WASH-UP TIME
+All employees shall receive a rest period of ten (10) minutes within the first four (4) hours of work and ten (10) minutes in the second four (4) hours of work. All employees shall be allowed five (5) minutes paid wash-up time at the end of their workday. All grinding department and resin department employees shall be allowed ten (10) minutes paid wash-up time at the end of their day to wash up. Employees working ten (10) hours or more will receive additional ten (10) minutes rest period after working eight (8) hours.
+ARTICLE XIV
+WAGE RATES AND CLASSIFICATIONS
+Section 1	Wage rates have been established by negotiations and agreement between the representative of the Employer and of the Union as enumerated in Exhibit A attached hereto and forming a part of this Agreement and shall remain in full force and effect for the duration of this Agreement.
+All Union employees will have job classifications.
+No employee shall receive a reduction of pay or lowering of working conditions by reason of this Collective Bargaining Agreement.
+Section 2	All employees who work on the Employer’s second (2nd) shift shall receive a shift premium of sixty-five cents ($.65) per hour effective November 15,2006.
+All employees who work on the Employer’s third (3rd) shift shall receive a shift premium of seventy-five cents ($.75) per hour effective November 15,2006.
+Section 3	Payroll will be bi-weekly and paid based on hours worked on Saturday through Friday. Any pay shortages of four (4) hours or more shall be paid on a separate check within two (2) working days from the time the Company was made aware of the shortage. Small shortages will be paid in the following pay period.
+12
+ARTICLE XV HOLIDAYS
+Section 1	It is understood that the 3rd shift shall be scheduled to work the night before the 4th of July or July 3rd (except when July 4th falls on a Monday) to permit 3rd shift employees to be off work the night of July 4th. Each regular full-time employee with sixty (60) days of service shall be entitled to holiday pay for the following days not worked: New Year's Day	Thanksgiving Good Friday	Friday after Thanksgiving Memorial Day	Christmas Eve July 4th	Christmas Day Labor Day	New Year’s Eve Floating Holidays (2)
+See Exhibit C for Holiday Schedule for duration of Agreement.
+The two (2) floating holidays will be personal floating holidays. A personal holiday request must be handed directly to the employee’s supervisor or a manager, forty-eight (48) hours prior to the day requested. The employee’s supervisor or manager must respond to the request within twenty-four (24) hours or the floating holiday will automatically be granted. Any floating holiday not taken in the calendar year will be paid out in January of the following year.
+Section 2	To qualify for holiday pay, employees must perform work in the week in which the holiday occurs and must work the full regular scheduled workday immediately preceding the holiday and full regularly scheduled workday following the holiday unless excused by the Employer.
+Section 3	Permanent part-time employees having completed two (2) month’s service, but working less than the normal forty (40) hour workweek, shall be paid one-fifth (l/5th) of their regularly scheduled week when a holiday occurs on their normally scheduled workday, and they have qualified in accordance with Section 2 above.
+Section 4	Holiday pay will be eight (8) hours or average hours, whichever is greater. The average hours worked during the holiday week is determined by dividing the total hours worked that week (exclusive of Saturday) by the number of days worked that week (exclusive of Saturday).
+Section 5	Employees who are required to perform work on any of the above recognized holidays shall receive one and one-half (1-1/2) times their regular straight time hourly rate of pay for each hour worked on the holiday in addition to holiday pay.
+ARTICLE XVI
+VACATIONS
+All full-time regular employees who have completed at least six calendar months of service will be eligible for a vacation with pay. The amount of vacation is determined by the number of years of service as follows:
+1.	Three days of vacation with pay after six (6) full months of service.
+13
+2.	One week of vacation with pay after one (1) full year of service.
+3.	Two weeks of vacation with pay after two (2) full years of service.
+4.	Three weeks of paid vacation after eight (8) years of service.
+5.	Four weeks paid vacation after fifteen (15) years of service.
+6.	Five weeks paid vacation after twenty-five (25) years of service.
+A vacation week is Monday through Sunday for the purpose of time off during a full week of vacation and the Saturday during this vacation week counts toward the guaranteed Saturday off per month pursuant to Article XII, Section 4.
+Regular full-time employees shall receive vacation pay based on forty (40) hours of straight-time pay, or vacation pay shall be computed at two percent (2%) of the employee’s gross pay for the preceding twelve (12) months, whichever is higher.
+Minimum vacation pay will be for forty (40) hours. The straight time pay for forty (40) hours will be at the regularly scheduled rate of pay at the time vacation is taken for each week of earned vacation. Permanent part-time employees shall receive vacation pay, based on their regularly scheduled work week.
+Employees who take vacation during weeks in which a recognized paid holiday falls shall be granted an additional day’s vacation with pay in lieu of paid holiday.
+A maximum of ten (10) day-at-a-time vacation days will be allowed by the Company to employees who have at least two (2) weeks of vacation due. Employees shall be allowed to take two (2) half day vacations with their Supervisor’s approval.
+Employees who have already used and/or scheduled their one monthly Saturday off may request vacation for scheduled Saturday work. This day will be paid at 8 hours straight time, and the shift will count as a full day for purposes of the ten (10) day-at-a-time restriction noted above. Vacation requests must be turned in by 11:30 p.m. on the Thursday night preceding the shift and is subject to supervisor approval. This shift will not count towards an employee’s Saturday off restriction as noted in Article XII Section 4.
+Vacation day requests must be made and approved by the employee's supervisor the week previous to the day requested. The Company will grant two (2) days of vacation from the employee’s general vacation allowance during a vacation year for emergency purposes if the employee reports off prior to the start of their regular shift. Documentation is not required for the first day, but must be provided for the second day. In addition, an employee who requests an emergency vacation day in conjunction with a scheduled Holiday will be required to provide documentation of the emergency at all times.
+Summer is our busiest season. Scheduling vacations can be done only with the production requirements in mind. As far as possible, employees shall be given their vacations whenever they wish; however, those with over two weeks may be asked to take this time during slow production periods. All requests should be scheduled with the respective supervisor. In case of conflict, length of service with the Company will be taken into consideration. Vacation requests turned in by March 15 will be handled by seniority and posted in each department by April 1st. After that date, requests will be handled on a first-come, first-served basis. Once a vacation is granted and documented, it may not be rescinded unless mutually agreed upon by the Company and the employee.
+14
+Employees who terminate their employment shall receive their earned vacation and a pro-rating of vacation from their anniversary date.
+All employees must take all vacation time they earn except that those with over two (2) weeks may take time off or elect to receive pay for the time in excess of two (2) weeks. Vacations cannot be accumulated from year to year. The Company will automatically pay excess vacation entitlement not taken. Vacation paychecks will be issued separately from regular paychecks.
+Vacation paychecks may be based on a forty (40) hour week with the following payroll check adjusted if necessary to reflect actual earnings.
+Once a vacation day is granted, it may not be rescinded unless mutually agreed upon by the Company and member (employee).
+ARTICLE XVH FUNERAL PAY CLAUSE
+An employee shall be entitled to three (3) days off at his regular straight time pay in the event of a death in his immediate family for purposes of making funeral arrangements and attending the funeral. Immediate family shall be define as parent, parent-in-law, step-parents, spouse’s step-parents, spouse, children (including foster and step-children), brother, sister (including half-brother and half-sister), grandfather, grandmother, great grandparents, spouse’s grandparents, grandchildren and great grandchildren of employee and spouse.
+ARTICLE XVm MILITARY SERVICE
+Section 1	The Employer shall abide by all Federal and State law pertaining to the re-employment of
+military personnel.
+Section 2	Employees who are members of the United States National Guard, Army, Air Force,
+Navy or Marine Reserve Unit, will be paid for the time spent in active annual training duty or temporary special service not to exceed two (2) weeks each calendar year. The amount of pay will be calculated as follows: The hours which the employee would have been able to work [maximum forty (40) hours per week] during the time he was in training, multiplied by his established hourly rate, less the amount received from military services for the same period of time. Verification of the time and amount of pay received will be required from the Commanding Officer.
+ARTICLE XIX JURY DUTY
+An employee who serves on jury duty during a workweek shall receive the difference in pay received for jury duty and the employee’s regular straight time pay up to three (3) weeks. When the notice for jury service is first received, the employee will notify the Company so that, if a deferral from jury service is warranted, the Company may submit such request to the court for consideration.
+ARTICLE XX
+GROUP INSURANCE AND SAVINGS AND RETIREMENT PLAN
+Employees are provided with corporate and carrier published brochures describing their medical and dental, and Employee Savings and Retirement plans. The Company will agree to prepare summaries of
+15
+employee's benefit plans, which will be distributed to all employees. The Company will allow employees covered by this Agreement to participate in whatever health insurance plans are made available to the Employer’s non-represented employees. Eligibility requirements and participation rules for employees covered by this Agreement will be under the same terms and conditions applicable to the Employer’s nonrepresented employees. Therefore, any changes in non-represented employee’s medical and dental during the term of the Agreement will be reflected in the Union’s medical and dental plans.
+The current contribution rate of employees to the cost of the medical plan is twenty-five percent (25%). The current contribution rate of employees to the dental plan is fifty percent (50%).
+The level of benefit of the Health Care and Dental Plans will not substantially change during the life of this Agreement. Prior to any changes in the benefits, the Company will meet with the Union and will provide details of the changes. The issue of whether or not the Plans have been substantially changed will be subject to the grievance arbitration provisions of this Collective Bargaining Agreement.
+ACCIDENT AND SICKNESS
+Accident and Sickness pay covers eighth day of illness and first day for accident, outpatient surgery or hospitalization. If the employee returns to active work after being out on Accident and Sickness pay and works a minimum of two weeks they shall be eligible for a new 26 weeks of Accident and Sickness benefit. Any employee exhausting their full 26-week Accident and Sickness benefit will be placed on an unpaid medical leave of absence in accordance with Article XXVIII (Disabled Employees).
+Accident and Sickness will be provided in the following amounts;
+Effective January 26,2016:
+Effective January 26,2017:
+Effective January 26,2018:
+Life Insurance and AD&D
+Effective January 26,2016:
+$522.00/week
+$527.00/week
+$534.00/week
+$68,000
+The Life Insurance plan provides benefits to all full time employees working 30 or more hours per week.
+Savings and Retirement Plan
+Bargaining unit employees will be eligible for and will receive benefits under the Valspar Savings and Retirement Plan, dated May 1,2009 under the same terms and conditions that the Employer's nonrepresented employees at the Rockford facility receive the benefits.
+ARTICLE XXI
+LEAVES OF ABSENCE
+Section 1	A leave of absence may be granted to an employee for personal reasons other than illness
+or injury for a period not to exceed ninety (90) days with the consent of the Company. Said leave of absence may not be renewed. Seniority will accumulate during said leave.
+Section 2	Each leave of absence, including sick leave and pregnancy, as provided hereafter, granted to an employee is subject to the following conditions:
+a.	The employee may not return to work before the expiration of his leave of absence without the consent of the Company.
+16
+b.	The employee shall report to work upon the expiration of his leave. However, an extension of said leave of absence up to one (1) week shall be granted, provided that the employee cannot return to work for reasons beyond his control and has notified the Company in writing prior to the termination of his leave.
+c.	If, upon the expiration of a leave of absence, there is no work available for the employee in line with his seniority, or if the employee would otherwise have been subject to layoff according to seniority during the period of the leave, the period which breaks seniority shall start from the date of expiration of the leave.
+d.	Employees on leave are responsible for the employee’s portion of their benefits while on leave. Payment arrangements must be made with HR prior to the leave of absence. In the event the leave is unforeseen, arrangements must be made as soon as possible. If payments are not received, coverage will be cancelled.
+e.	The need to pay for employee benefits only occurs when an employee is on a leave for a full actual bi-weekly pay period or more. Leaves that are less than an actual bi-weekly pay period in duration do not require the employee to pay their portion of benefits for that period.
+Regardless of why or for how long an employee is on an approved leave (FMLA, A&S, Worker’s Compensation, personal, etc.) their benefits are reinstated on the first day back to employment; there is no waiting period.
+The employee is responsible for their portion of the benefits premiums in FMLA, A&S and Worker’s Compensation leave situations.
+The employee is responsible for the full COBRA portion of the benefits premium in personal leave situations.
+Employees are not required to continue their employee benefits while on leave and are still eligible to reinstate their benefits the first day they return from leave.
+Section 3	The Company agrees to grant necessary time off, without discrimination and without pay,
+to an employee designated by the Union to attend a labor convention or to serve in any other capacity on other official Union business, providing that seven (7) days advance notice of the intention of such designated employee to be absent from the Company’s business shall be given. The time off request shall not be exercised to the detriment or disruption of the operation of the business.
+Section 4	Leaves of absence will be granted for deaths in the family not covered in the Funeral Pay Clause of this contract.
+Section 5 Any employee elected or officially appointed to office in the International Union, which requires his or her absence from work shall upon request be granted a leave of absence for a period of up to two (2) years. This leave may be extended by mutual agreement. The employee will notify the Company in writing thirty (30) days prior to the intended date of return. Upon returning to work, the employee shall be reinstated in accordance with his or her seniority with assignment to the job last performed if that assignment is an appropriate placement under the provisions of this Agreement at that time. It is
+17
+understood that no more than two (2) employees from the bargaining unit will be on this union leave status at any one time.
+ARTICLE XXn
+TEMPORARY TRANSFER
+Employees may be temporarily transferred from one job classification to another at the convenience of Management. If a classified employee is temporarily transferred to different work or duties to which a higher rate is applicable, the employee's rate of pay shall be at the rate of pay applicable to the new work or duties. If any employee is temporarily transferred to a lower rated job, he shall continue to receive his regular rate of pay.
+If an employee is temporarily transferred to a higher rated job for twenty (20) hours or more in a week, the employee will be paid at the higher rate for the entire week.
+In the event that an employee is temporarily transferred to a job classification for a period of two hundred and forty (240) hours, the job will be posted for a vacancy in accordance with Article XI, Section 7. The foregoing shall not apply where the temporary transfer is to fill a vacancy resulting from a vacation, an illness or injury, or a leave of absence.
+ARTICLE XXm
+BULLETIN BOARD
+The Union may post notices of Union business of a non-controversial or non-political nature on bulletin boards providing such notices are authorized and signed by a Union officer.
+ARTICLE XXIV
+VISITATION
+The duly accredited representative of the Union shall have access to the plant during working hours for the purpose of investigating and adjusting grievances, providing such activities shall not interfere with production.
+ARTICLE XXV
+SAFETY AND HEALTH
+Section 1 The Company shall make such provisions as are reasonable for the safety and health of its employees during the hours of their employment at the plant, and shall provide equipment whenever the same is necessary.
+Section 2 Suggestions as to protection against injuries shall be welcomed by the Company from its employees or the Union. If such suggestions are determined by the Company to be sound, steps will be taken to put them into effect.
+Section 3	The Union agrees to cooperate with the Company in promoting and supporting safety,
+accident prevention, and health education for all employees covered by this Agreement. The Company will discuss with the Union any changes in safety and work rules prior to implementation.
+The Company will discuss with the Union any changes to the Drug and Alcohol Policy prior to implementation.
+18
+Section 4	A Safety Committee will be established consisting of four (4) representatives of the Union and four (4) representatives from the Company. The Union shall appoint all bargaining unit representatives. The Company shall appoint its representatives on the Committee. Either the Company or Union representatives will appoint a designee when necessaiy to participate in their behalf. The Safety Committee will meet once a month for the purpose of discussing conditions of safety, health, and sanitation.
+Section 5	The Company, with input from the Union, shall continue its past practice of supplying specific safety equipment such as goggles, hardhats, respirators, etc. in designated areas for the life of this Agreement. The Company will provide employees with non-prescription safety glasses at no charge when needed The Company will pay up to $175.00 for single vision lenses and up to $210.00 for progressive lenses every two years for ANSI approved prescription safety glasses with permanent side shields, no tints allowed. However, if the employee’s prescription changes within that two-year period, they will be entitled to another pair of safety glasses Any extra the employee wants that exceeds the $ 175/$210 limit, the employee will pay the difference. If glasses are damaged, then the Company will replace. Employees who purchase safety shoes shall receive $200.00 toward the cost of such shoes from the Company, effective January 26,2016 through January 25,2019. The Company will replace safety shoes at no cost to the employee if damaged as a result of an accident in the course of employment rendering them unsafe and unsuitable to wear. The Company will continue its practice of furnishing and laundering prescribed uniforms at no cost to employees with the understanding that employees will be responsible for following Company procedures covering proper uniform care. The Company will continue with the practice of paying one half of the cost of furnishing and laundering uniforms for employees working in departments where uniforms are not required. The Company, with input from the Union, will provide outerwear as follows: -	the employees in Receiving -	the employees performing as Warehouse person -	the employees in Maintenance -	the employees on each shift performing as palletizer -	the UPS area -	the employees handling drums will be provided with parkas -	any other employee making a request considered valid by Management It is understood that the term "outerwear" as used above refers to parkas or insulated coveralls, Nomex where required.
+ARTICLE XXVI FIRST AID
+Every employee is required to abide by recommendations for special safety precautions.
+If an injury should occur, no matter how minor, the employee must report to any Supervisor. Cases requiring medical attention will be referred to Company appointed physicians.
+19
+	ARTICLE XXVII PRODUCTION BALANCE EMPLOYEES
+Section 1	The Company shall have the right to establish the job classification of Production Balance Employee, Employees classified as Production Balance Employee will be assigned to perform any job in the plant and colorant facilities and warehouse. Such work assignments are part of the regular duties of employees classified as Production Balance Employee, and do not constitute temporary transfers. The limitations of Article XXII do not apply to work assignments. The Company agrees that it has no intention of using this paragraph to eliminate the regular classifications. If at any time the Union feels this intention is being violated, if the Union requests, the Company will meet with the Union and discuss the problem with them in an attempt to resolve the issue.
+Section 2	Employees classified as Production Balance Employee shall be paid the wage rate for such classification, as shown on Exhibit A. Employees so classified shall be paid that wage rate for all work performed by them (whether lower rated work or higher rated work), and shall be paid premium pay based upon that rate to the extent provided for in Article XIV.
+Section 3	To become a Production Balance Employee, an employee must have the physical and mental ability to perform every job in the paint and colorant facilities and warehouse. The minimum qualifications include the ability to handle and lift heavy containers of materials consistently during a work shift; the ability to handle, tip and pour 55 gallon drums consistently during a work shift; the ability to handle and operate power equipment; the ability to read and understand work directions; and the ability to understand and perform simple mathematics.
+Section 4	Vacancies in the classification of Production Balance Employee shall be posted in accordance with Article XI, subject to the following requirements. Bidders must be able to meet the qualifications stated in Section 3of this Article.
+Section 5	Overtime will be offered to employees regularly classified in a job classification on a shift before it is offered to Production Balance Employees doing the work of that classification on that shift. Overtime for Production Balance Employees will be implemented in accordance with the provisions of Article XII - Section 5 with equalization administered on a division basis. ARTICLE XXVm DISABLED EMPLOYEES
+Section 1	An employee with twenty (20) of more years of seniority who is no longer able to perform his or her regular job because of a physical disability will be permitted to transfer to another job, in accordance with the following procedure. A disabled employee with less than 20 years of seniority will be placed on medical leave of absence. Employees on a medical leave of absence in excess of twenty-four (24) consecutive months will be terminated from the Company; this does not include employees on Worker’s Compensation. The Company shall indemnify and hold the Union harmless from any claim, suits, judgments, attachments, and from any other form or liability as a result of agreeing to this provision.
+20
+Section 2 If there is a posted vacancy (posted under Article XI, Section 7 which the disabled
+employee is physically able to fill, the employee must bid for the vacancy. Sections 3 through 7 shall apply only if there is no posted job which the disabled employee is physically able to perform, and which he or she has sufficient seniority to obtain under the job posting system.
+Section 3
+Two physicians (one selected by the disabled employee and the other selected by the
+Company) must agree on the nature and extent of the employee’s disability, and must state explicitly the restrictions) on job activity which are required because of that disability. If the two physicians do not agree, a third physician shall be selected by the other two physicians.
+Section 4 The disability must be considered to be a long-term disability (defined as a disability expected to last six months or longer), in the opinion of the physicians.
+Section 5
+Section 6
+The determination of the job to which the disabled employee may transfer shall be made
+on the following basis:
+(a)	The first group of jobs to be considered shall be those jobs which the disabled employee has previously held in the employ of the Company. Such previously held jobs will be ranked in accordance with the seniority standings of the employees holding such jobs, beginning at the bottom of the seniority list. The first job to be considered shall be the previously held job which has been held by the least senior employee. If the disabled employee is able to perform that job, he or she shall transfer to that job. If the disabled employee is not able to perform that job, consideration shall be given to the previously held job which has been held by the next least senior employee.
+If the disabled employee is able to perform that job, he or she shall transfer to that job. The process shall continue through the list of jobs previously held by the disabled employee, but shall not proceed above the seniority ranking of the disabled employee.
+(b)	If there is no previously paid job to which the disabled employee can transfer in accordance with paragraph (a) above, consideration shall be given to other jobs listed in Groups 3,4 and 5 on Exhibit A. Such jobs will be ranked in accordance with the seniority standing of the employees holding such jobs, beginning at the bottom of the seniority list. The first job to be considered shall be the job held by the least senior employee in the plant. If the disabled employee is able to perform that job, he or she shall transfer to the job. If the disabled employee is not able to perform that job, consideration shall be given to the job held by the next least senior employee of the plant. If the disabled employee is able to perform that job, he or she shall transfer to that job. The process shall continue through the seniority roster, but shall not proceed above the seniority ranking of the disabled employee, nor shall consideration be given to jobs carrying a higher wage rate than specified for Group 3 jobs, nor to jobs carrying a higher wage rate than the job held by the disabled employee prior to the transfer.
+If the disabled employee transfers to another job under this Article, he shall not be permitted to bid for other jobs for the duration of his or her disability.
+Section 7 If the disabled employee transfers to another job, the employee displaced by that transfer
+shall be treated as if he or she had been laid off, and shall have all of the rights of a laid off employee.
+21
+Section 8
+If the disabled employee is not able to transfer to another job under this Article, the disabled employee will be placed on a medical leave of absence.
+ARTICLE XXIX CONTINUOUS OPERATION SCHEDULE
+This Article will become applicable when the plant site or any part of a plant at the site, operates on a seven (7) day continuous schedule. The Company will determine the necessity of implementing such a schedule and, upon such determination, will discuss the implementation with the Union President or his or her designee. Pertaining to the operation of a continuous operation schedule, the Sections of this Article shall apply if it is specifically addressed in this Article, if not the CBA shall apply.
+Section 1	NOTIFICATION
+When the Company makes the determination to operate on a continuous operation schedule (C.O.S.), the Company will provide ninety (90) day advance notice for a new operation, or a thirty (30) day advance notice for an existing operation, along with necessary additional job postings with shift designations. Current existing jobs and shifts will not be posted when going to C.O.S.; they will be converted to the seven (7) day C.O.S. schedule.
+If and when the Company finds it necessary to change from the C.O.S. to the regular work schedule, the Company will provide thirty (30) day notice. The positions that were posted when C.O.S. was implemented will be reduced and employees in the reduced positions will go where their seniority allows.
+Section 2	SHIFT AND SCHEDULES
+7 Employee Rotation Through 5 Jobs
+	Mon	Tues	Wed	Thurs	Fri	Sat	Sim
+1	O	O	W	W	W	W	W
+2	w	O	0	W	W	w	W
+3	w	w	0	O	W	w	W
+4	w	w	w	O	O	w	W
+5	w	w	w	W	O	0	w
+6	w	w	w	W	w	0	o
+7	0	w	w	w	w	w	o
+8 Employee Rotation Through 6 Jobs
+	Mon	Tues	Wed	Thurs	Fri	Sat	Sun
+1	0	0	W	W	W	w	W
+2	W	O	0	W	W	w	W
+3	W	w	o	0	W	w	W
+4	W	w	w	0	0	w	W
+5	W	w	w	w	0	0	W
+6	W	w	w	w	w	0	o
+7	w	w	w	w	w	o	0
+8	0	w	w	w	w	w	0
+Section 3
+CONTINUOUS OPERATION SHIFT/SCHEDULE PREMIUM
+22
+In addition to an employee’s classification wage rate, there will be an adder for all hours worked as follows:
+	1st	$0.70
+	2nd	$1.00
+	3rd	$1.10
+Section 4		HOLIDAYS
+Holidays will be followed in accordance to Article XV for C.O.S.
+If the paid holiday falls on their scheduled day off, they will be paid Holiday pay.
+The Company agrees not to require C.O.S. employees to work the date of the holidays listed in Article XV. If work is needed on the holiday, volunteers who work will be paid one and one-half (1-1/2) times their regular straight time hourly rate of pay for each hour worked on the holiday in addition to holiday pay. If C.O.S. volunteers are needed on a holiday, the selection process will be by seniority and: 1) by shift and classification inside of C.O.S., 2) by classification inside of C.O.S., 3) by C.O.S., 4) by classification outside of C.O.S., and 5) by CBA employee outside of C.O.S.
+The Company agrees that it will not work the calendar date of Easter (not a contractual paid holiday). Employees scheduled to work on Easter will be paid eight (8) hours of holiday pay.
+Section 5	VACATIONS
+Per Article XVI except as follows: Allowed to schedule up to 4 one-half days of vacation with Supervisor’s approval.
+Section 6	OVERTIME
+Employees in positions required to work C.O.S. will be paid as follows: overtime will be paid for all hours worked in excess of eight (8) hours in any one (1) day or in excess of forty (40) hours in any one work week. Time and one half (1-1/2) will also be paid on all Sundays. Double time will be paid for all hours worked on the seventh consecutive day.
+ARTICLE XXX
+SEVERANCE
+In the event the Company discontinued the Rockford operation, severance pay would be provided on the basis of one (1) week's base pay for every two years service to a maximum of twenty (20) weeks pay.
+ARTICLE XXXI
+GENERAL
+Section 1 The Company expects each employee to give one (1) week's notice prior to termination. The Company will give a minimum of one week's notice to employees being laid off or pay in lieu of.
+Section ! The Company herein grants approval to the Union to establish a credit union. The Company will make authorized payroll deductions and will furnish the credit union with an office or other appropriate area in which to conduct the credit union business.
+23
+Section 3 No Supervisor will perform work normally performed by bargaining unit employees, except in cases of:
+1.	Emergencies, meaning conditions requiring prompt attention.
+2.	Training of new or present employees when no qualified bargaining unit employee is available on that shift to do the training.
+3.	Demonstrating new machinery or equipment.
+4.	Filling in for absent employees (where the absence is not scheduled) until a replacement employee becomes available (if there is a qualified replacement in the plant on that shift) the replacement work by the Supervisor on that shift may not exceed two and one half (2-1/2) hours. Should more time be necessary, it will be discussed with the Union President or his or her designee.
+5.	Experimental work
+6.	Acts of God.
+7.	The first sixty (60) days of assignment of a newly hired supervisor during which period that supervisor will be allowed a reasonable time to learn how to operate the equipment. Where available and qualified on the equipment, a Group Leader will be used for this training.
+ARTICLE XXXD DURATION AND TERMINATION
+THIS AGREEMENT SHALL BECOME EFFECTIVE JANUARY 26,2016, AND SHALL EXPIRE AT 12:01 AM., JANUARY 26,2019. THEREAFTER, IT SHALL RENEW ITSELF FOR YEARLY PERIODS UNLESS WRITTEN NOTICE IS GIVEN BY EITHER PARTY TO THE OTHER NOT LESS THAN SIXTY (60) DAYS, BUT NOT MORE THAN SEVENTY-FIVE (75) DAYS PRIOR TO THE EXPIRATION DATE OR ANY EXTENSION THEREOF THAT IT IS DESIRED TO TERMINATE OR AMEND THE AGREEEMENT. IN THE EVENT SUCH NOTICE IS GIVEN, THE PARTIES SHALL BEGIN NEGOTIATIONS WITHIN FORTY-FIVE (45) DAYS. IF NEGOTIATIONS ARE NOT COMPLETED PRIOR TO THE EXPIRATION DATE, THIS AGREEMENT SHALL TERMINATE UNLESS EXTENDED BY MUTUAL AGREEMENT OF THE PARTIES.
+IN WITNESS WHEREOF, THE PARTIES HERETO HAVE SET THEIR HANDS THIS DAY OF
+MARCH, 2016.
+LOCAL UNION NO. 745L	COMPANY
+Leo W. Gerard, President
+Stan Johnson, Inti Secretary-Treasurer
+Thomas Conway, VP Administration
+Fred Redmond, VP Human Affairs
+Michael Milsap, District 7 Director
+24
+Jose Gudino, Sub-district 1 Director
+Don Hill, Local Union President
+David G. Swanson, Recording Secretary
+General
+All group leaders will be classified into one of the following two categories and will receive a premium within the prescribed minimum-maximum range.
+GROUP LEADER I - Coordinates the activities of employees assigned to a specific classification or single production area. Premium range: $.50/hr minimum - $1.50/hr maximum.
+GROUP LEADER II - Assists department management by coordinating the activities of employees in various classifications and production areas within the business unit. Frequently requires coordinating activities with other departments and other shifts. May also include specific individual responsibilities. Premium range: $1.00/hr minimum - $2.50/hr maximum.
+Effective November 15,2000, sick day eligibility will be discontinued with affected employees being paid for any sick days unused by that date.
+An employee will be paid a twenty-five cent ($.25) per hour premium for each hour spent working with caustic cleaning compounds, TDI, or for confined space work.
+The Company will continue its practice of replacing mechanic's tools.
+Each seasonal and part-time employee shall be classified as a GROUP 4 employee and shall be paid twenty percent (20%) less than GROUP 3 general labor rate. It is also understood that the seasonal help will be documented full-time students in college or vocational programs and that those who are relatives of current employees will be given first preference. It is understood that seasonal help will be employed
+25
+only for the period May 1 through Labor Day and Thanksgiving through February 1st. The Company shall not hire any part time or seasonal employees when there are any employees on layoff from the Bargaining Unit.
+STARTING RATE
+All employees who are hired for a specific job classification will receive the following starting rates during the probationary period:
+$.50 below job rate - 0 to 30 days
+$.35 below job rate - 31 to 60 days
+No regular full-time employees will receive less than the minimum rate for Group 4.
+COST OF LIVING
+The Company will continue the cost of living provision with a maximum guaranteed adjustment of $0.10 to be made effective January 26,2016, January 26, 2017 and January 26,2018 and included in Exhibit "A” rates.
+26
+EXHIBIT A
+WAGE RATES
+JOB CLASSIFICATION
+Group 1	1/26/2016		1/26/2017		1/26/2018	
+	1st Tier	2nd Tier	1st Tier	2nd Tier	1st Tier	2nd Tier
+Fork Lift Mechanic	$27.43		$27.96		$28.50	
+Electrician	$27.43		$27.96		$28.50	
+Master Mechanic	$26.45		$26.97		$27.50	
+Master Trainee						
+1-6 Months	$25.96		$26.47		$26.99	
+7-12 Months	$26.01		$26.52		$27.04	
+13-18 Months	$26.06		$26.57		$27.09	
+19-24 Months	$26.17		$26.68		$27.20	
+Group 2A						
+Production Balance Employee	$24.35	$19.58	$24.83	$20.31	$25.32	$21.07
+Receiving	$24.35	$19.58	$24.83	$20.31	$25.32	$21.07
+Batchmaker	$24.45	$19.68	$24.94	$20.42	$25.43	$21.18
+Group 2						
+Set-Up Operator	$24.23	$19.46	$24.71	$20.19	$25.20	$20.94
+Group 3						
+Batch Picker	$24.06	$19.29	$24.54	$20.01	$25.03	$20.76
+Palletizer/Robot Operator	$24.06	$19.29	$24.54	$20.01	$25.03	$20.76
+Warehouseperson	$24.06	$19.29	$24.54	$20.01	$25.03	$20.76
+Group 4						
+General Labor	$23.58	$18.79	$24.05	$19.50	$24.53	$20.23
+Group 5						
+Seasonal Employee	$20.67	$15.84	$21.10	$16.46	$21.53	$17.09
+Part-Time Employee	$20.67	$15.84	$21.10	$16.46	$21.53	$17.09
+2nd Tier - Employees hired after January 26,2013 except maintenance.
+27
+EXHIBIT B
+ATTENDANCE POLICY Effective January 26,2016
+The number of incidents and not the days off will be used to administer this policy. An incident will be defined as time spent away from scheduled work assignments to include sickness, unapproved leaves of absence, and incomplete work shifts. All absences of less than one (1) hour at the start of the shift shall be considered as tardiness, not an incident. Leaving work one (1) hour or less prior to the end of your scheduled shift including scheduled overtime shall be considered an early out. All tardies and early outs shall be considered half an incident. Hospitalization, funeral leave,jury duty, court summons or subpoena, suspension days, or approved leaves of absence will not be considered as incidents.
+STEP 1	Any employee that has three (3) incidents of unscheduled time off within an eleven (11)
+week period will receive an oral warning.
+STEP 2	If the employee has three (3) more incidents of unscheduled time off within any
+subsequent eleven (11) week period beginning with the date of the Step 1 oral warning, the employee will be issued a written warning.
+STEP 3	If the employee has another three (3) incidents within any subsequent eleven (11) week
+period beginning with the written warning date in Step 2, the employee will be suspended. Effective November 15,1998, an employee receiving discipline under this step will be suspended for three (3) workdays.
+STEP 4 If the employee has another three (3) incidents within any subsequent eleven (11) week period beginning with the date of suspension in Step 3, the employee will be terminated.
+An absence resulting directly from a work injury or illness including required visits to the doctor’s office for medical treatment will not be considered an incident. If an employee is absent due to personal illness and that illness requires a doctor’s visit, the employee may submit a physician’s statement verifying the treatment(s) and will only be charged for one incident covering those doctor’s visits.
+If an employee completes a period of fifteen (15) consecutive weeks without an incident, and has six (6) incidents or less, that employee's status under this provision will revert to the prior step. If the employee has more than six (6) incidents and completes a period of fifteen (15) consecutive weeks without an incident, that employee will drop back one (1) incident.
+Employees who do not punch their time cards will be subject to progressive discipline under the Company’s Disciplinary Policy (e.g., first offense verbal warning, second offense a written warning, third offense a suspension and the fourth offense discharge.) The Company will not take any actions against employees if the time clock is malfunctioning (e.g., not working and/or working incorrectly).
+Employees will be permitted up to two (2) occurrences of not punching the time clock before being subject to the above mentioned progressive discipline policy. Employees will be informed of a no punch incident within a week from the date of the no punch. The ”no punch” will be on a separate progressive discipline track than the discipline for work performance and other violations of company policies. At the suspension level employees will receive a one day suspension in lieu of the standard three-day disciplinary suspension. However, the next step will still be discharge. The "no punch" discipline process will have the same effective 18 month period that the normal discipline process has ie: discipline comes off the employee's record eighteen months after the date of issue.
+28
+The Company and Union agreed that the above Attendance Policy will not be changed during the term of this Agreement except by mutual consent.
+29
+EXHIBIT C
+HOLIDAY SCHEDULE
+YEAR 1 OF CONTRACT	YEAR2OF CONTRACT	YEAR3 OF CONTRACT
+Thursday,	Thursday,	Thursday,
+November 24,2016	November 23,2017	November 22,2018
+Friday,	Friday,	Friday,
+November 25,2016	November 24,2017	November 23,2018
+Christmas
+Friday,	Monday,	Monday,
+December 23,2016	December 25,2017	December 24,2018
+Monday,	Tuesday,	Tuesday,
+December 26,2016	December 26,2017	December 25,2018
+New Year’s
+Friday,	Monday,	Monday,
+December 30,2016	January 1,2018	December 31,2018
+Monday,	Tuesday,	Tuesday,
+January 2,2017	January 2,2018	January 1,2019
+Good Friday
+Friday,	Friday,	Friday,
+March 25,2016	April 14,2017	March 30,2018
+Memorial Day
+Monday,	Monday,	Monday,
+May 30,2016	May 29,2017	May 28,2018
+Independence Day		Monday, July 4,2016	Tuesday, July 4,2017	Wednesday, July 4,2018
+Labor Day		Monday, September 5,2016	Monday, September 4,2017	Monday, September 3,2018
+30
+EXHIBIT D
+TEMPORARY HELP
+The Company may hire and use temporary part-time employees for general labor work during peak and emergency periods as defined by practice and mutual agreement
+Temporary part-time employees can work for no more than fifty-nine (59) working days in a calendar year. Temporary part-time employees will be eligible for seasonal part-time work under the current terms, practices and qualifications for seasonal employees.
+Temporary part-time employees may not work more than thirty-two (32) hours per week, and will not be eligible for benefits. Temporary part-time employees will not work overtime opportunities that could be worked by full-time employees unless full-time employees are not available under the terms of the current Agreement and practices.
+The Company will maintain a limit of twelve (12) temporary part-time employees actively working on any given day at the facility. The total pool of part-time employees will not exceed eighteen (18) at any given time.
+31
+EXHIBIT E
+INSURANCE PLAN SUMMARIES
+The following Insurance Plan Summaries are subject to modification as specified in Article XX of the Collective Bargaining Agreement
+Employee’s contribution for medical plan coverage shall be twenty-five percent (25%) of the cost for all the life of the contract effective January 26,2016. Medical Plan provider networks can be accessed by contacting:
+Blue Cross/Blue Shield: Call 1-866-870-0348 or online at www.bluecrossmn.com
+Dental Insurance
+•	Coverage/Benefit
+Valspar offers dental coverage through Delta USA and provides the benefits outline below. There is a $25 annual deductible for combined Basic/Major care. There is also an annual maximum benefit of $1,500 for Basic/Major services.
+Preventive care: Includes routine exams, x-rays and cleanings and is paid at 100% of eligible expenses with no deductible.
+Basic care: Includes basic dental services such as fillings, extractions and root canals. Plan pays 80% of eligible covered services.
+Major care: Includes procedures like dentures, crowns and bridges. Plan pays 50% of eligible expenses.
+Orthodontia: Treatment includes orthodontic care for children ages 8-19 only. No orthodontia coverage for adults. Plan pays 50% of the eligible expenses up to lifetime benefit maximum of $1,500 per child.
+32
+Accident and Sickness
+For You Only
+This coverage pays benefits for the period of the Total Disability. Those benefits start with the Benefit Commencement Date in the Schedule of Benefits.
+The benefits are payable for the period of Total Disability only while these conditions are met:
+•	The period of the Total Disability began while you were the Covered Person
+•	You were under the regular care of a doctor
+Not all Total Disabilities are covered. See "Not Covered” below.
+•’Total Disability” exists when:
+1.	Due to sickness, accidental injury or both, you are not able to perform, for wage or profit, the material and substantial duties of your occupation; and
+2.	You are not working at any job for wage or profit.
+Amount Payable
+Benefits are payable at the Weekly Benefit Rate. The maximum amount payable is the Maximum Disability Benefit.
+Accident and Sickness benefits will be paid to the employee through Valspar payroll. As a result, the Accident and Sickness earnings will be eligible compensation for purposes of calculating Valshare and the defined contribution plan eligibility. In addition, the employees’ contribution for health and welfare benefits will be deducted on a pre-tax basis while receiving Accident and Sickness benefits. Employees on Accident and Sickness may suspend or modify deductions as legally allowed.
+Separate Periods of Total Disability Treated as One
+Separate periods of your Total Disability, which begin while you are a Covered Person will be treated as one period of Total Disability unless:
+1.	You meet the Active Work Requirement for at least two weeks between the periods of Total Disability; or
+2.	The later period of Total Disability results from causes wholly unrelated to the causes of the prior period of Total Disability and you have met the Active Work Requirement between the periods.
+Not Covered
+1.	Any Total Disability caused wholly or partly by injury by disease arising out of or in the course of any work for wage or profit (whether or not with the employer) if such an injury or disease is caused by:
+•	Any worker’s compensation law, occupational law or similar law; or
+•	The maritime doctrine of maintenance, wages and cure.
+2.	Any Total Disability caused wholly or partly by one of these:
+•	Intentionally self-inflicted injury or attempted suicide while sane or insane.
+•	War or any act of war. ’’War" means declared or undeclared war and includes resistance to armed aggression.
+33
+The benefits of this coverage are payable to you. Payment will be made bi-weekly. The Claim Rules apply to the payments of the benefits.
+34

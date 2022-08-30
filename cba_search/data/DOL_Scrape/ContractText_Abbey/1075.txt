@@ -1,0 +1,747 @@
+﻿000 twifou/
+
+Southern California
+9th District Sound & Communications Agreement
+Addendum No.l to the 9th District Sound & Communications Agreement
+By and Between
+International Brotherhood of Electrical Workers
+And
+■t
+National Electrical Contractors Association I *
+December 1,2002 to November 30,2004
+So Cal 9th District Sound
+12/1/02 to 11/30/04
+CONTENTS
+SCOPE Basic Principles ARTICLE I Effective Date/Changes/Grievances/Disputes	1 4 4
+Term of Agreement	4
+Changes, Termination & Arbitration	4
+Amendment by Mutual Consent	4
+Grievances/Disputes	4
+Labor-Management Com mittee/Com position	5
+Grievance Procedure/First Step	5
+Labor-Management Committee/Decision	5
+Arbitration	5
+Status Quo	5
+ARTICLE II Employer Rights/Union Rights	5
+Employer Defined	5
+Management Rights	5
+Workers Compensation	6
+Union Representation	6
+Double Breasting	6
+Portability	6
+Designated Management Worker	6
+Union Stewards	6
+Union Access to Work Site	7
+Sanctioned Picket Line	7
+Employer Tools	7
+Tool List	7
+Union Security	7
+Cancellation and Subcontracting	8
+Labor/Management Committee	8
+ARTICLE III Hours/Wages/Working Conditions	8
+Hours of Work	8
+Holidays	9
+Wage Rates & Fringes	9
+Shift Work	11
+Union Dues Deduction	12
+Union Bulletin Board	12
+Travel Time	12
+Uniforms	12
+Parking	13
+ARTICLE IV	Referral Procedure	13
+Common Interests	13
+Union Exclusive Source of Referral	13
+Right of Rejection	13
+Non-Disc ri minatory Referral	13
+Register of Applicants	13
+Exhausted Referral List	13
+Temporary Employees	13
+"Resident"	14
+i
+So Cal 9th District Sound
+12/1/02 to 11/30/04
+(CONTENTS, continued)
+Out-of-Work List Renewal of Registration Short Call Order of Referral Bona Fide Requirements		14 14 14 14 14
+Appeals Committee/Composition Appeals Committee/Function Inspection of Referral Records Posting of Referral Procedure Hiring & transferring of Apprentices		14 14 14 15 15
+ARTICLE V	Pension	(NEBF) ARTICLE VI	Safety ARTICLE VII	Industry Fund ARTICLE VIII	Separability ARTICLE IX	Apprenticeship		15 15 15 16 16
+Subcommittee Termination of Indenture Contribution rate		16 17 18
+ARTICLE X	Health Fund ARTICLE XI	Drug Awareness ARTICLE Xn	Fringe Benefits Guarantee ARTICLE XIII	Defined Contribution Plan ARTICLE XIV	Labor Management	(annuity)	18 18 18 20 21
+LMCC AMF Training Subcommittee		21 22 22
+Signature Page Signature Page		I II
+Local Addendum
+Local Union 11	N/A
+Local Union 40	N/A
+Local Union 413	N/A
+Local Union 428	N/A
+Local Union 440	B-l to 3
+Local Union 441	N/A
+Local Union 477	B-l to 3
+Local Union 569	N/A
+Local Union 639	N/A
+Local Union 952	C-l
+g:\jim\agr\sound\ 9* 10 approval 02-04
+Agreement No. 251400
+1/28/03
+ii
+So Cal 9th District Sound
+12/1/02 to 11/30/04
+Agreement by and between the signatory NECA Chapters and signatory IBEW Local Unions.
+It shall apply to all firms who sign a Letter of Assent to be bound by the terms of this Agreement. This Agreement shall have no force or effect unless a firm signatory to a Letter of Assent is also signatory to a Letter of Assent to one or more Addendum to this Agreement. All firms must sign a Letter of Assent to the Local Addendum, wherever said fir is performing work covered by this Agreement. Any firm desiring to terminate its Letter of Assent must terminate both Assent to this agreement and Assent(s) to any addendum to which the firm is signatory.
+Conditions relevant to a specific geographic area shall be negotiated and made part of this agreement as Addendum 1, 2, 3, 4, etc., and attached hereto. In the event that a dispute arises between the language of the Addendum and the Master Agreement, the Addendum language shall take precedence, provided such Addendum has been approved, the same as this Agreement.
+As used hereinafter in this Agreement the term "Chapter" shall mean the signatory NECA Chapters and the term "Union” shall mean the signatory IBEW Local Unions.
+The term "Employer" shall mean an individual firm who has been recognized by an assent to this Agreement.
+SCOPE
+I.	The work covered by this Agreement shall include the installation testing, service and maintenance, of the following systems which utilize the transmission and/or transference of voice, sound, vision and digital for commercial, education, security and entertainment purposes for the following: TV monitoring and surveillance, background-foreground music, intercom and telephone interconnect, inventory control systems, microwave transmission, multi-media, multiplex, nurse call system, radio page, school intercom and sound, burglar alarms and low voltage master clock systems.
+A.	SOUND AND VOICE TRANS MI SSION/TRANSFERENCE SYSTEMS
+1.	Background-foreground music
+2.	Intercom and telephone interconnect systems
+3.	Telephone systems
+4.	Nurse call systems
+5.	Radio page systems
+6.	School intercom and sound systems
+7.	Burglar alarm systems
+8.	Low-voltage master clock systems
+9.	Multi-media/multiplex systems
+10.	Sound and musical entertainment systems
+11.	RF Systems
+12.	Antennas and Wave Guide
+1
+So Cal 9th District Sound
+12/1/02 to 11/30/04
+B.	FIRE ALARM SYSTEMS *
+1.	Installation, wire pulling and testing
+C.	TELEVISION AND VIDEO SYSTEMS
+1.	Television monitoring and surveillance systems
+2.	Video security systems
+3.	Video entertainment systems
+4.	Video educational systems
+5.	Microwave transmission systems
+6.	CATV and CCTV
+D.	SECURITY SYSTEMS
+I.	Perimeter security systems
+2.	Vibration sensor systems
+3.	Card access systems
+4,	Access control systems
+5.	Sonar/Infrared monitoring equipment
+E.	COMMUNICATION SYSTEMS THAT TRANSMIT OR RECEIVE INFORMATION AND/OR CONTROL SYSTEMS THAT ARE INTRINSIC TO THE ABOVE LISTED SYSTEMS (IN THE SCOPE)
+1.	SCADA (Supervisory Control and Data Acquisition)
+2.	PCM (Pulse Code Modulation)
+3.	Inventory Control Systems
+4.	Digital Data Systems
+5.	Broadband and Baseband and Carriers
+6.	Point of Sale Systems
+7.	VSAT Data Systems
+8.	Data Communication Systems
+9.	RF and Remote Control Systems
+10.	Fiber Optic Data Systems
+F.	The parties to this agreement recognize that the Scope of Work in this Agreement is subject to local addendum; especially in the areas of integrated energy management and life safety systems.
+G.	This will serve to clarify that the following items are included within the scope of work permitted under this Addendum when such items are used exclusively for non raceway systems: J-hooks; Teardrops; Trapezes (ceiling wire with horizontal support); Interduct for VDV on occupied job sites only.
+2
+So Cal 9th District Sound	12/1/02 to 11/30/04
+II.	This Agreement specifically excludes the following work:
+A.	Raceway systems are not to be installed under the terms of this Agreement
+B.	Energy Management systems are not to be installed under the terms of this Agreement
+C.	Life Safety systems are not to be installed under the terms of this Agreement, unless the parties in an area signatory to the Addendum mutually agree that the Sound and Communications portion only of a Life Safety System may be performed under this Agreement.
+D.	SCADA (Supervisory Control and Data Acquisition) where not intrinsic to the above listed systems (in the Scope) are not to be installed under the terms of this Agreement.
+E.	*Fire alarm systems when installed in raceways (including wire and cable pulling) shall be performed at the equivalent current Inside wage and fringe rate in those areas where the work is historically performed by Inside Journeyman Wiremen when either of the following two (2) conditions apply:
+1.	The project involves new or major remodel Building construction.
+2.	The conductors for the fire alarm systems are installed in conduit.
+Historically, fire alarms have been performed by Journeyman Wiremen in: Riverside, San Bernardino, Inyo, Mono, Ventura, Kern, Santa Barbara and San Luis Obispo.
+In those areas where fire alarm systems have historically not been performed by Inside Journeyman Wireman, such work may be performed under this Agreement.
+F.	Intelligent Transportation Systems (Street lighting, traffic signals, free ways toll ways etc) are not to be installed under the terms of this Agreement
+In an effort to eliminate confusion regarding the interpretation of the Scope of Work covered by this agreement, the parties hereto agree to establish a Scope Review Committee composed of the following:
+MANAGEMENT REPRESENTATIVES
+2 Communication Contractors
+2 Electrical Contractors
+2 NECA Chapter Managers
+LABOR REPRESENTATIVES
+2 Senior Technicians
+2 Electricians
+2 IBEW Business Managers
+Members of the Committee shall be selected by the parties they represent. The Committee shall meet at such times as seemed necessary by the parties. The Committee shall select from its membership, but not both from the same group, a Chairman and a Secretary who shall retain voting privileges.
+It shall be the function of the Scope Review Committee to consider and review various system technologies and to make recommendations to the parties to this agreement or addendum. The Scope Review Committee is not authorized to interpret this agreement, or addendum, in the event of a dispute over the Scope of Work. All grievances or questions in dispute shall be adjusted pursuant to Sections 1:06-1:10 of this Agreement.
+3
+So Cal 9th District Sound	12/1/02 to 11/30/04
+BASIC PRINCIPLES
+The employer and the union have a common and sympathetic interest in both the Sound and Communication and Electrical/Electronic Industries. Therefore, a working system and harmonious relations are necessary to improve the relationship between the Employer, the Union and the Public. Progress in industry demands a mutuality of confidence between the Employer and the Union. All will benefit by continuous peace and by adjusting any differences by rational, common sense methods. Now, therefore, in consideration of the mutual promises and agreements herein contained, the parties hereto agree as follows:
+ARTICLE I
+Effective Date/Changes/Grievances/Disputes
+Section 1:01 This Agreement shall take effect December 1, 2002, and shall remain in effect until November 30, 2004, unless otherwise specifically provided for herein. It shall continue in effect from year to year thereafter, from December 1 through November 30 of each year, unless changed or terminated in the way later provided herein.
+Changes
+Section 1:02
+(a)	Either party or an Employer withdrawing representation from the Chapter or not represented by the Chapter, desiring to change or terminate this Agreement must provide written notification at least ninety (90) days prior to the expiration date of the Agreement or any anniversary date occurring thereafter.
+(b)	Whenever notice is given for changes, the nature of the changes desired must be specified in the notice, or no later than the first negotiating meeting unless mutually agreed otherwise.
+(c)	The existing provisions of the Agreement shall remain in full force and effect until a conclusion is reached in the matter of proposed changes.
+(d)	Unresolved issues or disputes arising out of failure to negotiate a renewal or modification of this agreement that remain on the 20th of the month preceding the next regular meeting of Council on Industrial Relations may be submitted jointly or unilaterally to the Council for adjudication. Such unresolved issues or disputes shall be submitted no later than the next regular meeting of the Council following the expiration date of this agreement or any subsequent anniversary date. The Council’s decision shall be final and binding.
+(e)	When a case has been submitted to the Council, it shall be the responsibility of the negotiating committee to continue to meet weekly in an effort to reach a settlement on the local level prior to the meeting of the Council.
+(f)	Notice of a desire to terminate this agreement shall be handled in the same manner as a proposed change.
+Section 1:03 This Agreement shall be subject to change or supplement at any time by mutual consent of the parties hereto. Any such change or supplement agreed upon shall be reduced to writing, signed by the parties hereto, and submitted to the International Office of the I.B.E.W. for approval, the same as this Agreement.
+Grievances / Disputes
+Section 1:04 There shall be no stoppage of work either by strike or lockout because of any proposed changes in this Agreement or dispute over matters relating to this Agreement. AH such matters must be handled as stated herein.
+4
+So Cal 9th District Sound	12/1/02 to 11/30/04
+Section 1:05 There shall be a Labor-Management Committee of three representing the Union and three representing the Employer. It shall meet regularly at such stated times as it may decide. However, it shall also meet within forty-eight (48) hours when notice is given by either party. It shall select its own Chairman and Secretary. The Local Union shall select the Union representatives and the Chapter shall select the management representatives.
+Section 1:06 All grievances or questions in dispute shall be adjusted by the duly authorized representatives of each of the parties to this Agreement. In the event that these two are unable to adjust any matter within forty-eight (48) hours, they shall refer the same to the Labor-Management Committee.
+Section 1:07 All matters coming before the Labor-Management Committee shall be decided by majority vote. Four members of the Committee, two from each of the parties hereto, shall be a quorum for the transaction of business, but each party shall have the right to cast the full vote of its membership and it shall be counted as though all were present and voting.
+Section 1:08 Should the Labor-Management Committee fail to agree or to adjust any matter, such shall then be referred to the Council on Industrial Relations for the Electrical Contracting Industry' for adjudication. The Council's decisions shall be final and binding.
+Section 1:09 When any matter in dispute has been referred to conciliation or arbitration for adjustment, the provisions and conditions prevailing prior to the time such matter arose shall not be changed or abrogated until agreement has been reached or a ruling has been made.
+Section 1:10 Any grievance not brought to the attention of responsible opposite parties to this Agreement in writing within 30 calendar days of its occurrence shall be deemed to no longer exist.
+ARTICLE II
+Employer Rights — Union Rights
+Section 2:01 Employer Defined Certain qualifications, knowledge, experience and financial responsibility are required of everyone desiring to be an Employer under the terms of this Agreement. Therefore, an Employer who contracts for such work is a person, firm or corporation having these qualifications and maintaining a permanent place of business, a business telephone and adequate tools, equipment and inventory. The Employer shall maintain a suitable financial status to meet payroll requirements, and employing not less than one (1) installer and/or technician, when performing work covered under this Agreement.
+(a)	Employees, except those meeting the requirements of "Employer" as defined herein, shall not contract for any work as set forth under the "Scope of Work" of this Agreement.
+(b)	Any employee, working under the terms of this Agreement, holding an active contractor's license covering the Scope of Work as set forth in this Agreement, shall inactivate their license in accordance with State Law.
+(c)	The Union will not sign any non-electrical or non-VDV contractors to this Agreement.
+Section 2:02 The Union understands the Employer is responsible to perform the work required by the owner. The Employer shall, therefore, have no restrictions except those specifically provided for in the Collective Bargaining Agreement, in planning, directing and controlling the operation of all his work, in deciding the number and kind of employees to properly perform the work, in hiring and laying off employees, in transferring employees from job to job within the Local Union's geographical jurisdiction, in determining the need and number as well as the person who will act as Foreman, in requiring all employees to observe the Employer's and/or owner's rules and regulations not inconsistent with this Agreement, in requiring all employees to observe all safety regulations, and in discharging employees for proper cause.
+5
+So Cal 9th District Sound	12/1/02 to 11/30/04
+Section 2:03 For all employees covered by this Agreement, the Employer shall carry Workman's Compensation Insurance with a company authorized to do business in the State, Social Security and such other protective insurance as may be required by the laws of the State in which the work is performed.
+Section 2:04 (a) The employer agrees that if a majority of its employees authorizes the Local Union to represent them in collective bargaining, the Employer will recognize the Local Union as the exclusive collective bargaining agent for all employees performing com muni cation/electronic work within the jurisdiction of the Local Union on all present and future job sites.
+(b)	The Employer understands that the Local Union's jurisdiction, both trade and territorial, is not a subject for negotiations but rather is determined solely within the IBEW by the International President, and therefore, agrees to recognize and be bound by such determination.
+Section 2:05 In order to protect and preserve, for the employees covered by this Agreement, and in order to prevent any device or subterfuge to avoid the protection and preservation of such work, it is hereby agreed as follows: If and when the Employer shall perform any work of the type covered by this Agreement, under its own name or under the name of another, as a corporation, company, partnership, or any other business entity, including a joint-venture, wherein the employer, through its officers, directors, partner or stockholders, exercise either directly or indirectly, management, control or majority ownership, the terms and conditions of this Agreement shall be applicable to all such work.
+Section 2:06 (a) Free movement of men is allowed throughout any of the signatory Local Union jurisdictions. On all jobs exceeding one (1) day in duration, the Employer shall notify the Local union in whose jurisdiction he will be working, in writing or by fax, prior to starting a job, the location of the job, and the names and social security numbers of the employees to be sent in. Approved forms will be provided by the Union. The representative of the Union, either in the area where the work is being performed or in the areas where the contractor' shop is located, shall have the authority to inspect the individual Employer's payroll and associated work records as to time and pay of an employee, if the question arises. The rights covered by this Section are not automatic, but are contingent upon compliance with the proper notification contained herein.
+(b)	All personal benefits to be sent to home local, i.e. Health and Welfare, Pensions and Vacations.
+Section 2:07 A signatory Employer shall not perform work as an installer and/or technician except one (1) designated member of a firm (Employer) shall be permitted to work with the tools at any time on work covered by this Agreement. Such working member of a firm (Employer) shall work under all the terms and conditions of this Agreement. The firm shall have one (1) installer and/or technician not a member of the firm employed under the terms of this Agreement at all times. Avoidance of the intent of this section shall not be permitted by the pretense of ownership of the business by an immediate member of the family. Nothing contained in this section shall be construed to prevent any Employer from performing work during emergencies for the protection of life or property or working up to four (4) hours each day on service, repair calls, and checking and inspecting.
+Section 2:08 The Union has the right to appoint Stewards at any shop and/or any job where workmen are employed under the terms of this Agreement. The Employer shall be notified and furnished the name of the Steward. Such Stewards shall be allowed sufficient time during the regular working hours without loss of pay to see that the terms and conditions of this Agreement are observed at his shop or on his job. No Steward shall be discriminated against by an Employer because of his faithful performance of duties as Steward, nor shall any Steward be removed from the job until notice has been given to the Business manager of the Union. Such removal would be subject to the grievance procedure.
+6
+So Cal 9th District Sound
+12/1/02 to 11/30/04
+Section 2:09 The representative of the Union shall be allowed access to any shop or job, at any reasonable time, where workers are employed under the terms of this Agreement, provided he first notifies the Employer’s local office.
+Section 2:10 (a) It shall not be a violation of this Agreement, and it shall not be cause for discharge or any other disciplinary action by the Employer against any employee, for an employee to refuse to cross or work behind a picket line which is sanctioned by the Building Trades Council, the Central Labor Council or the Local Union.
+(b)	Any employee exercising such right shall carefully put away all tools, materials, equipment, or any other property of the Employer in a safe manner.
+Each employee will be responsible for any loss to the Employer for neglect in carrying out this provision, but only when, a safe place is provided by the Employer.
+Each employer will furnish necessary locked storage to reasonably protect tools from weather and vandalism and will replace such tools when tools are damaged on the job or stolen from the locked storage.
+Section 2:11 Employees under this Agreement shall not be required to furnish power or special tools or test equipment except as required in this section. Employees shall not use the Employer's property such as tools, parts, test equipment and transportation for other than the Employer's business.
+The employee shall provide himself or herself with the necessary hand tools to perform the assigned work. The following tools shall be furnished by the employee.
+Leather Pouch	Hammer
+Channel Locks 7" -720	*Spintite Set
+Flashlight	Pocket Level, torpedo 6" or 8"
+Screwdriver, Stubby	Awl or Scribe
+Screwdriver, 5” Blade	Wrench, Adjustable Crescent 6"
+Screwdriver, 8" Blade	**Allen Wrench Set
+Screwdriver, Phillips	Wire Stripper
+sizes 0 & 1	Vise grips
+Pliers, Side cutters, 8"	T & B Crimp-on-tool
+Punch-on-tool	Tri-tap with changeable tap
+Multi-meter (Micronta 22-0270 or equal)	12* x 3/4" tape measure (min)
+Large and Small diagonals (6" and 4")	Center Punch
+Large and Small needle nose pliers (6" and 4") * Sizes - 3/16", 1/4", 5/16", 3/8", 7/16", 1/2" ♦♦ Sizes - .050", 1/16", 5/64", 3/32", 7/64", 5/32", 3/16", 7/32", 1/4", 5/16"	Dry wall saw
+The Employer will provide the necessary power tools and other test equipment to perform the assigned work, and the employee shall be held responsible for such Employer furnished tools and equipment assigned him or her.
+Section 2:12 All employees covered by the terms of this Agreement shall be required to become members of the Union as a condition of employment from and after the eighth day following the date of their employment or the effective date of this Agreement, whichever is later.
+7
+So Cal 9th District Sound
+12/1/02 to 11/30/04
+Annulment/Subcontracting
+Section 2:13 The Local Union is a part of the International Brotherhood of Electrical Workers, and any violation or annulment by an individual Employer of the approved Agreement of this or any other Local Union of the I.B.E.W., other than violations of Paragraph 2 of this Section, will be sufficient cause for the cancellation of his Agreement by the Local Union, after a finding has been made by the International President of the Union that such a violation or annulment has occurred.
+The subletting, assigning or transfer by an individual Employer of any work in connection with electrical / electronic work to any person, firm, or corporation not recognizing the I.B.E.W., or one of its Local Unions as the collective bargaining representative of his employees on any electrical / electronic work in the jurisdiction of this or any other Local Union to be performed at the site of the construction, alteration, painting or repair of a building structure, or other work, will be deemed a material breach of this Agreement.
+All charges of violations of Paragraph 2 of this Section shall be considered as a dispute and shall be processed in accordance with the provisions of this Agreement covering the procedure for the handling of grievances and the final and binding resolution of disputes.
+Section 2:14 The Labor-Management Committee shall meet within five (5) working days when notice is given by any member thereof that an unresolved dispute within the jurisdiction of the Committee exists.
+Section 2:15 The Union reserves the right to discipline its members for violation of its laws, rules and agreements.
+ARTICLE III
+Hours/Wages/Working Conditions
+Section 3:01 Eight (8) consecutive hours work between the hours of 6:00 A.M. and 6:00 P.M. (excluding a meal period of not less than one-half (1/2 hour) shall constitute a work day. Forty (40) hours within five (5) consecutive days, Monday through Friday, shall constitute the workweek.
+(a)	When mutually agreed by the employee and the employer, four (4) ten (10) hour days at the regular rate of pay shall be allowed Monday through Friday.
+(b)	All employees requested to be available on call after regular hours, or on Saturday, Sunday and holidays shall receive wages at the following rate: Twenty-five Dollars ($25.00) per day or applicable wage rates if required to work, with a minimum of two (2) hours' pay.
+(c)	An employee recalled for duty after the completion of his normal shift for the day shall receive pay in accordance with the provision of Section 3.02 for the number of hours worked on such call however, an employee so recalled shall receive an amount of no less than an amount equal to the appropriate rate of pay for two (2)hours. The period of recall shall begin with the time of the employee leaving his home until the time ofhis return.
+(d)	When workmen report at the shop or job and are not put to work due to conditions beyond the control of the workmen, they shall receive two (2) hours pay. Workmen may be required to remain at the job site for the hours paid.
+(e)	When workmen report and are put to work, they shall receive pay for a minimum of four (4) hours and shall remain on the job unless directed otherwise by the Employer.
+(f)	An employee called for duty outside of the regular working hours for emergency repair work, call-back work or service calls shall receive a minimum of two (2) hours pay at the appropriate rate.
+8
+So Cal 9th District Sound
+12/1/02 to 11/30/04
+Section 3:02 (a) AH work performed outside of the stated hours and on Saturdays will be paid at time and one-half of the regular straight time rate. Sundays and the following holidays shall be paid at double the straight time rate of pay:
+Memorial Day (Last Monday in May) Fourth of July
+Labor Day	Veterans Day (November	11)
+Thanksgiving Day	Day After Thanksgiving
+Christmas Day	New Year's Day
+, (b) All hours worked after 12 hours in one day shall be paid at the double time rate.
+(c)	If any Holiday falls on Sunday the following Monday shall be considered the holiday. If Christmas or New Year's falls on Saturday the Friday proceeding shall be considered the holiday.
+Section 3:03 Wages and fringes.
+(a)	Wages shall be paid weekly by payroll check no later than quitting time on Friday, and not more than three (3) days wages may be withheld at that time. Pay day will be the same as the contractor's home office. Any workman laid off or discharged shall be paid his wages immediately. In the event he is not paid off, as provided above, waiting time at the appropriate rate shall be charged until payment is made. The Employer will either pay the workman at the job site during regular working hours or allow him sufficient time during regular working hours to report to the shop to receive his pay check. The Business Manager, shall have the right to visit the Employer's place of business during any working hours to inspect the time cards and/or payroll records of the employees covered by this Agreement.
+(b)	On being terminated, all workmen shall immediately be given a written Termination Notice, on which shall be shown the company name, the workman's name and Social Security number, the reason for termination, the name of the workman's immediate supervisor and the signature of the person effecting the termination. One copy each of the termination notice, shall be sent to IBEW Local Union Office and one copy shall be retained by the contractor.
+(c)
+SOUND WAGE RATES
+EFFECTIVE DATE:
+12/1/02
+Per Hour
+12/1/03
+$1.35 to be allocated*
+Communications and Systems Installers	$22.18
+Communications and Systems Technicians	$23.98
+Communications and Systems Foreman	$26.38
+Journeyman Sound Electrician (Los Angeles)	$24.98
+Allocation notification, to the employers, shall be at least 45 days prior to December first.
+Foreman - Shall be designated at the sixth (6th) man on any job. Shall be paid Technicians rate plus 10%. Foremen shall supervise a maximum of nine (9) installers or a maximum crew size of twenty-seven (27) workmen.
+Leadmen - With the third (3rd) Installer and/or Technician employed on any job one is to be designated as Leadman and shall receive pay at $1.00/hr. over the highest paid classification working on the job for his Employer.
+9
+So Cal 9th District Sound	12/1/02 to 11/30/04
+APPRENTICES
+The following percentages of Communications and Systems Installer Wage rates shall be applicable:
+Apprentices indentured prior to 12/1/02
+Period	Job Hours		Percentages
+la	0	- 1500	50%
+2nd	1501	3000	60%
+•^rd	3001	- 4500	70%
+4th	4501	6000	85%
+Al! apprentices indentured after 12/1/02
+Period	Elapsed Time	Job Hours	Percentage	Related Training
+1st	6 months	0 -	800	50%	Satisfactory Progress
+2nd	6 months	801	- 1600	55%	1st year school completed
+3 rd	6 months	1601	- 2400	60%	Satisfactory Progress
+4*	6 months	2401	- 3200	65%	2nd year school completed
+5th	6 months	3201	- 4000	70%	Satisfactory Progress
+6th	6 months	4001	- 4800	85%	3rd year school completed
+To be advanced, the apprentice must have satisfactorily completed all requirements: Elapsed Time, OJT Accumulative Hours and Related Training as indicated above.
+[Example: To be promoted to fifth period, one must have served at least six months as a fourth period apprentice, accumulated a minimum of 3200 hours of OJT and satisfactorily completed the second year of related training.]
+(d)	FRINGE BENEFITS	
+Fringe Benefits: (Hourly Rate)	Employer Contribution	Employee Deduction
+Date	12/1/02	12/1/003	
+NEBF.	3%	3%	
+Health Fund	$3.20 NEIF	1% AMF ■	$ -15 Training Fund	$ .55 Labor/Management Cooperation Comm. $ .06 Defined Contribution Plan (annuity)	$2.00	$3.20 1% $ .15 $ .60 $ .06	$.05 $2.00
+10
+So Cal 9th District Sound	12/1/02 to 11/30/04
+(e)	UP-GRADE
+Apprentices who wish to sign a separate JATC agreement for one additional year (4,b year) with 1200 additional OJT hours and two (2) semesters of school shall upon satisfactory completion turn out as a Communication Systems Technician.
+Existing installers and installers who opt out of apprenticeship shall be allowed to take technician test (written examination developed and administered jointly) upon completing 3,000 hours of work at the Installer level or higher. Upon passing said exam the Installer shall attain the classification of a Communication Systems Technician. Individuals that do not pass the exam must complete training classes in areas where deficient before being re-examined.
+Shift Work
+Section 3:04 When so elected by the Contractor, multiple shifts of al least live (5) days duration may be worked. When two (2) or three (3) shifts are worked:
+The first shift (day shift) shall consist of eight (8) consecutive hours worked between the hours of 8:00 a.m. and 4:30 p.m. Workmen on the “day shift” shall be paid at the regular hourly rate of pay for all hours worked.
+The second shift (swing shift) shall consist of eight (8) consecutive hours worked between the hours of 4:30 p.m. and 1:00 a.m. Workmen on the “swing shift” shall be paid at the regular hourly rate of pay plus 17.3% for all hours worked.
+The third shift (graveyard shift) shall consist of eight (8) consecutive hours worked between the hours of 12:30 a.m. and 9:00 a.m. Workmen on the “graveyard shift” shall be paid at the regular hourly rate of pay plus 31.4% for all hours worked.
+The Employer shall be permitted to adjust the starting hours of the shift by up to two (2) hours in order to meet the needs of the customer.
+If the parties to the Agreement mutually agree, the shift week may commence with the third shift (graveyard shift) at 12:30a.m. Monday to coordinate the work with the customer’s work schedule. However, any such adjustment shall last for at least a five (5) consecutive day duration unless mutually changed by the parties to this Agreement.
+An unpaid lunch period of thirty (30) minutes shall be allowed on each shift. All overtime work required before the established start time and after the completion of eight (8) hours of any shift shall be paid at one and one-half times the "shift" hourly rate.
+There shall be no pyramiding of overtime rates and double the straight time rate shall be the maximum compensation for any hour worked. There shall be no requirement for a day shift when either the second or third shift is worked.
+The following EBEW/NECA Shift Work Language shall remain in Los Angeles County (Local #11).
+When so elected by the Employer, multiple shifts of at least five (5) days duration may be worked. When two (2) or three (3) shifts are worked, the following conditions shall apply:
+(a)	The first shift (day shift) shall be worked between the hours of 8:00 A.M. and 4:30 P.M. Employees on the day shift shall receive eight (8) hours pay at the regular hourly rate for eight (8) hours work.
+(b)	The second shift (swing shift) shall be worked between the hours of 4:30 P.M. and 12:30 A.M.. Employees on the "swing shift" shall receive eight (8) hours pay at the regular hourly rate plus ten percent (10%) for seven and one-half (7 1/2) hours work.
+(c)	The third shift (graveyard shift) shall be worked between the hours of 12:30 A.M. and 8:00 A.M.. Workmen on the "graveyard shift" shall receive eight (8) hours pay at the regular hourly rate plus fifteen percent (15%) for seven (7) hours work.
+11
+So Cal 9tfl District Sound	12/1/02 to 11/30/04
+(d)	When requested by the customer in writing on occupied remodel and renovation work, and when mutually agreed by the employee and employer, a single shift of eight (8) hours may be performed Monday through Friday, excluding Saturdays, Sundays and Holidays, between the hours of 2:30 P.M. and 6:00 A.M.. The shift start time is anytime after 2:30 P.M.. Employees shall receive a minimum of eight (8) hours pay at the regular hourly rate plus ten percent (10%) regardless of the hours worked. Such written request shall be provided to the Union.
+(e)	A lunch period of thirty (30) minutes shall be allowed on each shift.
+(f)	All overtime work required after the completion of a regular shift shall be paid at one and one-half (1 1/2) times the "shift” hourly rate.
+(g)	there shall be no pyramiding of overtime rates, and two (2) times the straight time rate shall be the maximum compensation for any hour worked.
+(h)	There shall be no requirement for a day shift when either the second or third shift is worked.
+Section 3:05 Working dues shall be paid in the jurisdiction where the work is performed. The Employer shall agree to deduct weekly and forward monthly to the Financial Secretary of each Local Union, where the work is performed, upon receipt of a voluntary written authorization, the working dues from the pay of each employee.
+Section 3:06 A bulletin board shall be provided by the Employer for the Union to post official notices to its members. In lieu of providing a separate bulletin board for the Union, the Employer may allot a reasonable amount of space on its own bulletin board for the exclusive use of the Union, to post official notices.
+Section 3:07 Travel Time. Wages shall be paid for all time in going from shop to the job, from the job to the shop and from job to job.
+When workmen covered by the terms of this Addendum are ordered to report directly to a job site, travel expense shall be paid in accordance with the following schedule:
+56	-	65	miles	-	$5.00 per day
+66	-	75	miles	-	$10.00 per day
+76	-	85	miles	-	$15.00 per day
+More than 85 miles - $15.00 per day and $7.00 per hour beginning at the 85th mile.
+When workmen are ordered to report directly to a job site or travel job to job in a personal vehicle; they shall receive travel expense in accordance with the above schedule and mileage expense at the IRS Schedule for those miles traveled which exceed 55 miles in each direction.
+Job to job travel in a personal vehicle shall be paid at the IRS rate.
+Mileage shall be computed from the job site to the closer of the employee's residence or the employer’s normal place of business.
+Personal vehicles will not be used to transport company material or tools except beepers, walkie -talkies and small hand tools.
+When it becomes necessary that an employee remain overnight from the Employer’s place of business, at the direction of the Employer, then such employee shall receive either a round trip mileage expense as set forth under Section 3:07 above or the actual expenses incurred in such transportation required, whichever is less. Additionally, such employees remaining away overnight, at the Employer's direction, shall receive reimbursement for such food and lodging expense incurred and supported by appropriate receipts not to exceed $65,00 per day.
+Section 3:08 When the Employer provides identifying clothing as to style or fashion, the Employer shall furnish same, including cleaning and maintenance, with the exception of shirts.
+12
+So Cal 9th District Sound	12/1/02 to 11/30/04
+Section 3:09 Paid Parking. In all areas where free parking is not available within 500 yards of the job or project at the start of the shift, the contractor shall reimburse employees, at the lowest rate available within said 500 yard area, providing the employee presents a signed and dated receipt for each parking expenditure.
+ARTICLE IV
+Referral Procedure
+Section 4:01 In the interest of maintaining an efficient system of production in the Industry, providing for an orderly procedure of referral of applicants for employment, preserving the legitimate interests of the employees in their employment status within the area and of eliminating discrimination in employment because of membership or non membership in the Union, the parties hereto agree to the following system of referral of applicants for employment.
+Section 4:02 The Local Union shall be the sole and exclusive source of referral of applicants for employment.
+Section 4:03 The Employer shall have the right to reject any applicant for employment.
+Section 4:04 The Local Union shall select and refer applicants for employment without discrimination against such applicants by reason of membership or non-membership in the Union and such selection and referral shall not be affected in any way by rules, regulations, bylaws, constitutional provisions or any other aspect or obligation of Union membership policies or requirements. All such selection and referral shall be in accord with the following procedure.
+Section 4:05 The Local Union shall maintain a register of applicants for employment established on the basis of the GROUPS listed below. Each applicant for employment shall be registered in the highest priority GROUP for which he qualifies.
+GROUP I
+An applicant who has completed the IBEW Communication Apprenticeship Program or has worked an equal number of years in the communications industry as a Systems Installer and is a resident of the normal commute area of that Local Union.
+GROUPn
+An applicant who meets the requirements for GROUP I in any other signatory Local Union.
+GROUP HI
+An applicant who has communication experience but who does not meet the requirements of GROUP I or GROUP II
+GROUP IV
+An applicant who does not meet the requirements of GROUPS I, II, & III.
+Section 4:06 If the registration list exhausted and the Local Union is unable to refer applicants for employment to the Employer within forty eight (48) hours from the time of receiving the Employer's request, Saturdays, Sundays and holidays excepted, the Employer shall be free to secure applicants without using the Referral Procedure but such applicants, if hired, shall have the status of "temporary employees."
+Section 4:07 The Employer shall notify the Business Manager promptly of the names and Social Security numbers of such "temporary employees" and shall replace such "temporary employees" as soon as registered applicants for employment are available under the Referral Procedure.
+13
+so Cal 9th District Sound	12/1/02 to 11/30/04
+Section 4:08 "Resident*' means a person who has maintained his permanent home in the normal commute area of the applicable Local Union for a period of not less than one year or who, having had a permanent home in this area, has temporarily left with the intention of returning to this area as his permanent home.
+Section 4:09 The Local Union shall maintain an "out-of-work list" which shall list the applicants within each GROUP in chronological order of the dates they register their availability for employment.
+Section 4:10 An applicant who has registered on the "out-of-work list" must renew his application every thirty (30) days or his name will be removed from the "list."
+Section 4:11 An applicant who is hired and who receives, through no fault of his own, work of five (5) days or less shall, upon registration, be restored to his appropriate place within his GROUP.
+Section 4:12 Employers shall advise the Business manager of the Local Union of the number of applicants needed. The Business Manager shall refer applicants to the Employer by first referring applicants in GROUP I in the order of their place on the "out-of-work list" and then referring applicants in the same manner successively from the "out-of-work list" in GROUP II, the GROUP III and then GROUP IV. Any applicant who is rejected by the Employer shall be referred to other employment in accordance with the position of this GROUP and his place within his GROUP.
+Section 4:13 The only exceptions which shall be allowed in this order of referral are as follows:
+(i)	When the Employer states bona fide requirements for special skills and abilities in his request for applicants, the Business Manager shall refer the first applicant on the register possessing such skills and abilities.
+(ii	) The employer shall have the right to call Foreman/Leadman by name provided: a) the employee has not quit his previous employer within the past two weeks.
+b)	the employer shall notify the business manager in writing of the name of the individual who is to be requested'for employment as foreman. Upon such request, the business manager shall refer said foreman provided the name appears on the highest priority group.
+c)	when an employee is called as a Foreman/Leadman he must remain a Foreman/Leadman for 1,000 hours or must receive a reduction in force.
+(ii	i) The Employer shall have the right to recall a Technician by name, provided the Technician will have worked for the Employer in the previous six (6) months.
+(iv	) It is recognized that a (QSP) Qualified Safety Person has a special skill.
+Section 4:14 An Appeals Committee is hereby established composed of one member appointed by the Local Union, one member appointed by the Local NECA Chapter and a Public Member appointed by both these members.
+Section 4:15 It shall be the function of the Appeals Committee to consider any complaint of any employee or applicant for employment arising out of the administration by the applicable Local Union of Sections 4:04 through 4:13 of this Agreement. The appeals Committee shall have the power to make a final and binding decision on any such complaint, which shall be compiled with by the applicable Local Union. The Appeals Committee is authorized to issue procedural rules for the conduct of its business, but it is not authorized to add to, subtract from or modify any of the provisions of this Agreement and its decisions shall be in accord with this Agreement.
+Section 4:16 A representative of the Company, designated to the Union in writing, shall be permitted to inspect the Referral Procedure records at any time during normal business hours.
+14
+So Cal 9th District Sound	12/1/02 to 11/30/04
+Section 4:17 A copy of the Referral Procedure set forth in this Agreement shall be posted on the bulletin board in the office of the applicable Local Union and in the offices of the Employers who are parties to this Agreement.
+Section 4:18 Apprentices shall be hired and transferred in accordance with the Apprenticeship provisions of the Agreement between the parties.
+ARTICLE V Pension
+See Section 3.03 for local Pension and Health & Welfare contributions.
+Section 5:01 It is agreed that in accord with Employees Benefit Agreement of the National Electrical Benefit Fund ("NEBF"), as entered into between the national Electrical Contractors Association and the International Brotherhood of Electrical Workers Association on September 3, 1946, as amended, and now delineated as the Restated Employees Benefit Agreement and Trust, that unless authorized otherwise by the NEBF, the individual employer will forward monthly to the NEBF's designated local collection agent an amount equal to 3% of the gross monthly labor payroll paid to, or accrued by, the employees in this bargaining unit, and a completed payroll report prescribed by the NEBF. The payment shall be made by check or draft and shall constitute a debt due and owing to the NEBF on the last day of each calendar month, which may be recovered by suit initiated by the NEBF or its assignee. The payment and the payroll report shall be mailed to reach the office of the appropriate local collection agent not later than fifteen (15) calendar days following the end of each calendar month.
+The individual employer hereby accepts, and agrees to be bound by, the Restated Employees Benefit Agreement and Trust.
+An individual employer, who fails to remit as provided above, shall be additionally subject to having his agreement terminated, upon seventy-two (72) hours notice in writing being served by the Union, provided the individual employer fails to show satisfactory proof that the required payments have been paid to the appropriate local collection agent.	'
+The failure of an individual employer to comply with the applicable provisions of the Restated Employees Benefit Agreement and Trust shall also constitute a breach of his labor agreement.
+ARTICLE VI SAFETY
+Section 6:01 It is the Employer's responsibility to insure the safety of its employees and their compliance with safety rules and standards
+Section 6:02 Each Local Union and Chapter shall establish a Qualified Safety Person (QSP) program.
+ARTICLE VII INDUSTRY FUND
+Section 7:01 Each individual Employer shall contribute one (1%) percent of the productive payroll with the following exclusions:
+(a)	Twenty-five (25%) percent of all productive electrical payroll in excess of 75,000 man hours paid for electrical work in any one Chapter area during any one (1) calendar year, but not exceeding 150,000 man hours.
+15
+So Cal 9th District Sound
+12/1/02 to 11/30/04
+(b)	One hundred (100%) percent of all productive electrical payroll in excess of 150,000 man hours paid for electrical work in any one Chapter area during any one (1) calendar year.
+Productive electrical payroll is defined as the total wages (including overtime) paid with respect to all hours worked by all classes of electrical labor for which a rate is established in the prevailing labor area where the business is transacted.
+Payment shall be forwarded monthly to the National Electrical Industry Fund in a form and manner prescribed by the Trustees no later than fifteen (15) calendar days following the last day of the month in which the labor was performed. Failure to do so will be considered a breach of this Agreement on the part of the individual Employer.
+ARTICLE VIII
+SEPARABILITY
+Should any provision of this Agreement be declared illegal by any court of competent jurisdiction, such provisions shall immediately become null and void, leaving the remainder of the Agreement in full force and effect and the parties shall, thereupon, seek to negotiate substitute provisions which are in conformity with the applicable laws.
+ARTICLE IX
+Joint Apprenticeship and Educational Training Committee
+Section 9:01 The local Joint Apprenticeship and Training Committee (JATC) properly established between the chapter of the National Electrical Contractors Association (NECA) and the Local Union of the International Brotherhood of Electrical Workers (IBEW) shall adopt local Telecommunications Installer/Technician Apprenticeship Standards in conformance with the NJATC National Guideline Standards and Polices. All such standards shall be registered with the NJATC, and thereafter submitted to the appropriate Registration Agency.
+The JATC shall be responsible for all training. The JATC, however, may elect to establish a subcommittee consisting of two to four members appointed by the IBEW Local Union, and an equal number of members appointed by the NECA Chapter. The JATC or its properly established subcommittee shall be responsible for the conduct and operation of the Telecommunications Apprenticeship and Training Program in accordance with the standards and policies adopted by the local JATC. The duties of a subcommittee shall include: interviewing, ranking and selecting applicants and the supervision of all apprentices in accordance with the registered standards and locally approved JATC policies.
+Section 9:02 Where the JATC elects to establish a subcommittee, an equal number of members (two, three or four) shall be appointed, in writing, by both the NECA Chapter and the IBEW Local Union. All such appointments shall be in writing designating the beginning and termination dates for each appointment. The term of one subcommittee member from both the NECA Chapter and the IBEW Local Union shall expire each year on a fixed anniversary date. The NECA Chapter and the IBEW Local Union may elect to appoint one or more members of the JATC to serve on the subcommittee.
+Subcommittee members serve at the will of the party they represent and may be removed by the party they represent or they may resign. All appointments made to fill unexpired terms shall likewise be in writing.
+The subcommittee, where one is established by the JATC, shall select from its membership, but not both from the same party, a Chairman and a Secretary who shall retain voting privileges.
+The JATC, or its subcommittee, shall maintain a set of minutes for each and every meeting. Such minutes shall be considered confidential and shall be regarded as property of the JATC and its subcommittee, where a subcommittee is properly established.
+16
+So Cal 9th District Sound	12/1/02 to 11/30/04
+Section 9:03 The subcommittee, where one exists, shall enforce standards and policies established and approved by the JATC. Any appeal pertaining to any action of the subcommittee shall be referred to the JATC for review and resolution. Any decision or ruling of the JATC shall be final and binding on the subcommittee. If the JATC cannot resolve an appeal, the matter shall be properly, referred to the Local Labor Management committee for resolution.
+Section 9:04 Though the JATC may elect to establish subcommittees, there is to be only one JATC trust. That trust shall be responsible for all apprenticeship and training trust fund matters. Only properly appointed members of the JATC shall serve as trustees to the JATC trust.
+Section 9:05 All apprentices shall enter the program through the JATC, or its subcommittee, as per the properly registered apprenticeship standards and selection procedures. No candidate shall be assigned to work as an apprentice until they have been properly selected and indentured.
+Section 9:06 The JATC, or its subcommittee, shall be responsible for the assignment, or reassignment, of all Telecommunications Installer/Technician apprentices. All such job training assignment, or reassignment, shall be made in writing and the Local Union Referral Office shall be notified, in writing, of all job-training assignments. The JATC, or its subcommittee, shall have the authority to transfer any apprentice, as it deems necessary or appropriate.
+Section 9:07 The JATC may terminate any indenture prior to the completion of apprenticeship. When an indenture is terminated, the former apprentice shall not be eligible for employment under this agreement, in any classification, unless the individual has properly reapplied for the apprenticeship program and been selected. The individual shall not be permitted to be classified as an Installer/Technician, or provided any other classification under this agreement, until two years after they should have completed apprenticeship under their indenture, and they can demonstrate skills and knowledge to warrant such classification.
+Section 9:08 Though the JATC cannot guarantee any number of apprentices, any employer signatory to this agreement shall be entitled to a ratio of one apprentice to one Telecommunication Installer/ technician, or Technician level employee on any job. The JATC shall maintain an active list of qualified applicants, as per the selection procedures, in order to provide an adequate number of apprentices to meet the one-to-one ratio. Applicants shall not be selected and indentured when indentured apprentices are available for on the job assignments. If the JATC is unable to provide an eligible employer with an apprentice within ten working days, the JATC shall select and indenture the next available applicant from the active list of ranked applicants.
+Section 9:09 Each apprentice shall be required to satisfactorily complete the three-year course of study provided by the NJATC as a minimum requirement for completion of there related classroom training. The JATC may also elect to require additional training options that are provided for in the National Guideline Standards. The total term of apprenticeship shall not require more than three years of related training.
+Section 9:10 The apprentice is required to satisfactorily complete the minimum number of on-the-job training hours specified and properly registered in the Telecommunications Installer/Technician Apprenticeship and Training Standards.
+Section 9:11 The apprentice is to be under the supervision of an Installer/Technician, a Technician level employee, or a qualified supervisor. Supervision will not be of a nature that prevents the development of responsibility and initiative. The apprentice shall be [permitted to perform any and all job tasks in order to properly develop trade skills and become proficient in the work processes associated with the trade. Installer/Technician and Technicians are not required to constantly watch or observe the work of the
+17
+So Cal 9tn District Sound
+12/1/02 to 11/30/04
+apprentice. The apprentice is not prohibited from working alone when the Installer/Technician, Technician or Supervisor is required to leave or is absent from the job.
+Section 9:12 The employer shall contribute to the local Health and Welfare Plans and to the National Electrical Benefit Fund (NEBF) on behalf of all apprentices. Contributions to other benefit plans may be addressed in other sections of this agreement.
+Section 9:13 Upon satisfactory completion of Apprenticeship, the JATC shall provide the apprentice with a diploma from the NJATC. The JATC shall encourage the apprentice to seek college credit through NJATC. The JATC may also require the apprentice to acquire any appropriate license required for Installer/Technician to work in the jurisdiction covered by this agreement.
+Section 9:14 All Employers subject to the terms of this Agreement shall contribute the amount of funds specified by the parties signatory to the local apprenticeship and training trust agreement. The current rate of contribution is: 21/1/02 $.55* (Fifty five cents) per hour for each hour worked. This sum shall be due the Trust Fund by the same date as is their payment to the NEBF under the terms of the Restated Employees Benefit Agreement and Trust.	*	12/1/03 = $.60
+ARTICLE X Health Fund
+Section 10:01 The employer agrees to pay Health & Welfare benefits for each employee subject to this Agreement. These payments shall be made each month into the Orange County Electrical Industry Health and Welfare Trust Fund, jointly established for this purpose and administered in compliance with Federal and State regulations governing health and welfare plans.
+The only exceptions to the above would be those people who qualified for coverage under the Employees Health Trust Fund (EBA) on December 1,1994.
+The employer agrees to pay Health & Welfare benefits for all workmen employed under the terms of this Agreement and in accordance with the following in addition to the basic wages: Effective; December 1,2002 $3.20 per hour; for all hours worked.
+ARTICLE XI
+Drug Awareness program
+Section 11:01 Labor and management acknowledge the dangers and costs which alcohol and other chemical abuses create in the intercommunication and sound contracting industry in terms of safety and productivity. The parties to this Addendum jointly resolve to combat chemical abuse in any form through education and rehabilitation, and every individual in the industry is encouraged to join in this effort to the greatest extent possible.
+ARTICLE XII
+Payroll and Fringe Benefits Guarantee Trust Fund
+Section 12:01 Each electrical contractor employing workmen under the terms of this Agreement shall deposit One Hundred Dollars ($100.00), free of interest, for a payroll and Fringe Benefits Guarantee up to (including Credit Union Fund) Thirty-two Thousand Dollars ($32,000.00) of payroll, but not over that amount, with the Trustees who shall function under a Trust Agreement to be agreed upon between the parties. If at any time the interest accrued in the Payroll and Fringe Benefits Guarantee Trust Fund is
+18
+So Cal 9th District Sound	12/1/02 to 11/30/04
+depleted, each signatory contractor shall make an additional deposit into such fund of any amount up to One Hundred Dollars ($100.00), making a total of Two Hundred Dollars ($200.00) maximum. Notice of such additional deposit shall be by the Labor-Management Committee.
+Net payroll checks shall be paid by the Electrical Industry Payroll and Fringe Benefits Guarantee Trust Fund to be agreed upon between the parties. Net payroll checks shall be paid by the Electrical Industry Payroll and Fringe Benefits Guarantee Fund, in a total amount not to exceed Fifteen Hundred Dollars ($1,500.00) maximum per employee.
+A contractor who makes the payroll and fringe benefits deposit, and pays wages and fringe benefits to employees covered by this agreement, shall be absolved from all responsibilities with respect thereto. This payroll and fringe benefits deposit is in no respect a bond covering the contractor’s payroll and fringe benefits obligations, but only an emergency fund to relieve employees' financial strain caused by issuing of bad checks or failure of contractors to meet payroll, or failure of contractors to make fringe benefit contributions as provided in this agreement. If the contractor defaults in the foregoing, his liability shall be as set forth in the Trust Agreement but shall, in any event, include the following:
+(1)	The contractor shall be liable for cost of enforcing collection, including but not limited to court costs, attorney fees, loss of earnings of an employee not paid, fringe benefits lost to an employee and any other expenses as determined by the Trustees to be the fault of such delinquent contractor.
+(2)	The Trustees are authorized to institute whatever Federal or State, civil or criminal actions as are necessary to enforce collection. Upon collection of defaulted payroll, or bad check, employees must reimburse the Payroll and Fringe Benefits Guarantee Trust Fund. Employees shall cooperate in every manner in regard to the collection of defaulted payroll, as requested by the Trustees.
+(3)	The contractor must, within five (5) calendar days after notice from the Business Manager of the Local Union IBEW, make good any defaulted wages to his employees.
+(4)	On the first default of payroll payments and/or fringe benefit payments the defaulting contractor shall, upon notice from the Trustees, furnish a security or cash bond in an amount of Five Thousand Dollars ($5,000.00) as guarantee that wage payments and fringe benefit payments will be regularly made. On the second default of payroll and/or fringe benefit payments, the defaulting contractor shall furnish a bond or equivalent of at least Ten Thousand Dollars ($10,000.00). The amount of bond may also be set by the Trustees by using the following formula:
+Four (4) times the weekly wages and fringe benefits for all of said signatory Contractor's employees covered by this agreement.
+However, the amount of bond required in this instance shall not be less than Ten Thousand Dollars ($10,000.00). Failure to furnish the above-referred-to bond shall constitute cause for immediate cancellation of the collective Bargaining Agreement at the option of the Local Union and the processing of all legal procedures necessary to enforce collection of defaulted amount, plus collection costs and interest involved. It shall not be a violation of this agreement for the Union to refuse to permit persons covered by this agreement to work on said job or project until all such wages and/or fringe benefits have been paid.
+(5)	Whenever a contractor has definite knowledge that he is taking over a contract for a job that has been partially completed by another contractor he shall notify the Local Union in writing, in the area before starting work.
+(6)	It is understood and agreed that this Payroll and Fringe Benefits Guarantee Trust Fund is considered a joint fund covering both the Inside, Outside and Sound and Communications Agreements and groups of workmen. Consequently, contractors who are engaged in Inside, Outside and Sound and Communications work shall make only one payroll and fringe benefits deposit to this Trust.
+Rules, regulations and operations of the Payroll and Fringe Benefits Guarantee Trust Fund are as set forth in the Trust Agreement.
+19
+So Cal 9th District Sound	12/1/02 to 11/30/04
+ARTICLE XIII
+Defined Contribution Plan
+Section 13:01 Each signatory contractor shall contribute to the Southern California IBEW-NECA Defined Contribution Plan, the amount specified in Section 3.03 for each local area, for each hour worked by each employee covered by this Agreement. This fund shall become Part ”B" of the Southern California IBEW-NECA Pension Plan and shall be administered by the same Board of Trustees that administer the Southern California IBEW-NECA Pension Trust Fund.
+Section 13:02 All disbursements shall be in accordance with the Plan adopted by the Board of Trustees. The cost of implementing and the administration of the Southern California IBEW-NECA Defined Contribution Plan shall be borne by the Southern California IBEW-NECA Defined Contribution Plan.
+Section 13:03 This Southern California IBEW-NECA Defined Contribution Plan, including Employer contributions, shall be irrevocable except by mutual consent of the parties to this Collective Bargaining Agreement. The provisions of the plan trust and documents shall control as to plan benefits and rights not specifically addressed herein.
+Section 13:04 This Southern California IBEW-NECA Defined Contribution Plan shall comply with and . conform to all applicable laws.
+Section 13:05 Contributions to the foregoing Funds shall be due and payable on or before the fifteenth (15th) day of each month covering hours worked by each employee covered by Wage Categories of this Agreement through the last payroll period in the prior calendar month.
+Each contractor employing covered employees shall file a monthly report with the Funds in the form established by the Funds, and such report shall be filed regardless of whether a contractor has employed and covered employee in the month covered by the report.
+Section 13:06 Any contractor who fails to report or to make contributions due to the Fund before the fifteenth (15) day of the month in which it is due or who issues a non-sufficient check shall be considered delinquent and, therefore, obligated and liable subject to the following:
+Each delinquent contractor shall pay to the Fund liquidated damages in the amount of seven (7%) of the indebtedness or ten dollars ($10.00) for each month of delinquency, whichever is greater.
+The Union may remove employees covered by the Scope of Work and Wage Schedule, of this Agreement from employment with a delinquent contractor, providing advance notice of not less than twenty-four (24) hours is given of such action to the delinquent contractor. Such removal of employees and cessation of work by employees for such delinquent contractor shall continue until the Administrator of the Fund verifies that there is no money owing to the Fund by such contractor.
+A contractor may be absolved of any or all the foregoing liabilities if he satisfies the Trustees that he failed to pay any contributions or to report because of honest mistake, clerical error, or other reasons satisfactory to the Board of Trustees.
+Section 13:07 Class by Industry Experience Levels:
+There shall be three (3) classes of employees covered by this agreement. Classed is based upon industiy experience under the terms of this agreement.
+Class I shall consist of all first, second and third year apprentices and all employees who have attained Journeyman status or above who are not identified as Class II or III Traveling Journeymen shall be presumed to have Class I status only, unless proof of sufficient experience for a higher classification is presented at the time of dispatch.
+20
+So Cal 9th District Sound	12/1/02 to 11/30/04
+Class IT shall consist of employees who have performed at least six months work under this Agreement at the Journeyman level or above.
+Class III shall consist of employees who have worked at least one year under the terms of this Agreement at the Journeyman level or above. (“Year” for the purposes of applying 13:07 shall mean the number of hours necessary to achieve one (1) year of vesting credit pursuant to the Southern California IBEW-NECA Pension Plan.
+Each employee shall submit to the Local Union by April 15th of each year any classification change application. Application shall be made on an approved form and in accordance with the rules and regulations adopted by the Union and approved by the Chapter. The Union, upon approval of such application, shall notify the employer of such change in Classification by May 1st for implementation on the first day of the first payroll period of June.
+Upon notification by the Union to the employer of an approved classification change, the employer shall pay wage and fringe contributions at the approved classification level until and unless notified by the Union of a classification change.
+Section 13:08 Contributions required to be made on behalf of each classification shall be as follows:
+Effective:	December 1, 2002
+Class I $2.00
+Class II $2.50 [All Class II employees will have their base hourly wage reduced by $0.50 per hour]
+Class III $3.00 [All Class III employees will have their base hourly wage reduced by $1.00 per hour]
+ARTICLE XIV
+LABOR - MANAGEMENT
+Labor-Management Cooperation Committee
+Section 14:01 Each employee covered by the terms of the agreement shall contribute, through a payroll deduction, five cents (.05) per hour for each hour worked, into the Southern California IBEW-NECA Labor-Management Cooperation Committee. Each Employer shall make the six cent (.06) per hour deduction for each hour worked and shall forward the total amount for all employees covered by this Agreement and on a monthly basis transmitted on a form furnished and prescribed by the trustees of the fund.
+Section 14:02 All Employers subject to the terms of this Agreement shall contribute five cents (.05) per hour worked for each hour worked for the purpose of maintaining the Southern California IBEW-NECA Labor-Management Cooperation Committee. This sum shall be forwarded monthly to the trust.
+Section 14:03 (a) A Board of Trustees for the Labor-Management Cooperation Committee is hereby established and shall consist of an equal number of members selected by the Union and the Chapter. The Board of Trustees hereby authorized to establish and implement such Industry Information Trust Fund, Trust Fund Agreement, and reporting forms as they consider necessary to administer the plan.
+(b)	Each local area may establish a Joint Sub-Committee to be similarly constituted and selected in a specified area.
+21
+So Cal 9th District Sound	12/1/02 to 11/30/04
+(c)	In the event a local sub-committee is established, the local committee shall receive all contributions for work performed in that committee's jurisdiction.
+Administrative Maintenance Fund
+Section 14:04 Administrative Maintenance Fund - Each employer signatory to this agreement shall contribute fifteen cents ($.15) per hour for all hours worked by all employees covered by this agreement to the AMF with the following exclusion: All hours worked in excess of 150,000 man-hours during any one calendar year.
+Section 14:05 The fund shall be administered solely by the Association and shall be utilized to pay for the employer's costs of the labor contract administration including negotiations, labor relations, disputes and grievance representation. In addition, all other administrative functions required of management such as service on all funds as required by federal law.
+Section 14:06 The AMF contribution shall be submitted with all other fringe benefits as delineated in the Labor Agreement by the fifteenth (15th) of the following month in which they are due to the Administrator receiving funds. In the event any Employer is delinquent in submitting the required Administrative Maintenance Fund to the designated Administrator, the Administrator shall have the authority to recover any funds, along with any attorney fees, court costs, interest at one percent (1%) per month and liquidated damages receiving such funds. The enforcement for delinquent payments to the fund shall be the sole responsibility of the fund or the employer and not the Local Union. These monies shall not be used to the detriment of the IBEW.
+Training Sub-Committee
+Section 14:07 There shall be a labor-management committee established to develop curriculum beyond apprenticeship for the advancement of Communication/System Installer to Communication/System Technician after satisfactorily completing the required course of study covering one year (two semesters), and after being with the employer for a minimum of one year.
+Jury Duty
+Section 14:08 This Collective Bargaining Agreement shall supersede the requirements of Chapter 2.203 (Contractor Employee Jury Service) of the Los Angeles County Code.
+22
+12/1/02 to 11/30/04
+So Cal 9th District Sound
+Continued
+Signed for IBEW Local Union:
+Signed for NECA Chapter:
+Hank Lewis
+Local 639
+Date
+Jerri Booth
+Date
+Central Coast Chapter
+Joe Furino	Date
+Local 413
+Jon Brown	Date
+Local 477
+Central Coast Chapter
+Dave Shankle
+Date
+So. Sierras Chapter
+William Perez Local 440
+Date
+So. Sierras Chapter
+Danny Kane Local 428
+Date
+James Chilko . _ Date
+Kern County Chapter
+Allen Shur
+Local 569
+Date
+Ron Cooper	Date
+San Diego Chapter
+12/1/02
+II
+So Cal 9th District Sound
+12/1/02 to 11/30/04
+IN WITNESS WHEREOF, the parties have executed this Agreement on this the 1st day of December 2002.
+Signed for IBEW Local Union:
+Signed for NECA:
+Douglas Chappell	Date
+Jim Willson
+Date
+Local 441
+Los Angeles Chapter
+Marvin Kropke Local 11	,	Date
+Rick DesJardins Local 40	Date
+Shane Werner Local 952	Date
+Steve Brown
+Orange County Chapter
+Los Angeles Chapter
+Los Angeles Chapter
+Date
+International Approval
+12/1/02
+I
+REGIONAL ADDENDUM to the
+9th District and Southern California Sound and Communication Agreement for
+Riverside, San Bernardino, Triyo and Mono Counties
+Agreement by and between the Southern Sierras Chapter, NECA and Local Unions 440 and 477, IBEW.
+It shall apply to all firms who have signed a letter of Assent to the 9th District and/or the Southern California Sound and Communications Agreement, and are performing such type work in the above listed counties jurisdiction.
+The below listed items are those that are germane to the local (counties) jurisdiction:
+1.	All new construction Fire Alarm work to be installed under the terms and conditions of the Inside Wireman's Agreement(s) between Southern Sierras Chapter, NECA and both Local Unions 440 and 477, IBEW.
+2.	AMF, NEIF, Union Dues, JATC (Training), Labor Management Cooperation Committee (LMCC) and all other related fringe benefits contributions/deductions to be paid to local parties for all work hours performed in local jurisdiction.
+3.	Due to the vastness of Riverside, San Bernardino, Inyo and Mono counties the parties agree to the following travel pay:
+A.	Riverside County:
+No travel pay for any employee while he/she works within zone A.
+Any worked performed within zone B shall add $8.00 per hour worked to the hourly rate of pay of the employee, (see attached Zone Map)
+B.	San Bernardino, Inyo and Mono Counties:
+No travel pay for any employee that performs work within 85 road miles of U.S. Post Office, 455 W. Orange Show Road, San Bernardino and/or the employee's residence.
+Any work performed outside of the above mileage area(s) shall add $8.00 per hour worked to the hourly rate of pay of the employee.
+B-l
+IN WITNESS THEREOF, the parties have executed this Agreement on this day
+of 2000.
+Signed for IBEW Union: Local Union 440/feEW rx L / Local/Union 477, IBtW approved NtmiCWL <H«t -1. ».£. w. JUL'119.200aj J. J. Bany, President This approval does net mate ths International a party to thb agreement	Signed for Southern Sierras Chapter, NECA B-2
+JAN-04-1900 20=43
+P.02
+LB.E.W. LOCAL UNION NO. 952, VENTURA COUNTY, CA ADDENDUM
+TO THE SOUTHERN CALIFORNIA SOUND AND COMMUNICATIONS ADDENDUM NO. 1
+FOR THE 9TH DISTRICT SOUND AND COMMUNICATION AGREEMENT
+Addendum by and between LB.E.W. Local Union No. 952, Ventura County, CA, and Ventura Division, Los Angeles County Chapter, NECA.
+Refer to the Southern California Sound and Communications Addendum No.I for all terms and conditions with the exception of the following :
+All fire alarm system installations, maintenance and service work will be performed according to the terms and conditions (wages, fringe benefits and working conditions) outlined in the Inside Wireman Agreement between LB.E.W. Local Union Nd. 952, Ventura County CA, and the Ventura Division, Los Angeles County'Chapter, NECA. This applies to all fire life safety systems installed in raceways or otherwise, including, but not limited to, raceway ‘ installation, wire. or cable pulling, device installation and termination, and control panel installation and termination.
+The undersigned! hereby agree that fire alarm work for Ventura County has historically been done under the terms and conditions of the Inside Wireman Agreement J
+Signed for LB.E.W. Loc$d Union No. 952	APPRO V F D
+
+David N. Tilmont; Business Manager
+Signed for Ventura Division, Los Angeles Chapter, NECA
+iames M. Willson, Chapter Manager
+
+C-l
+TOTAL P.02
+MOZ-JW/.
+K.&30
+DAVIS-BACON FRINGE BENEFIT SUMMARY"
+1.	ELECTRICAL CLASSIFICATIONS:		
+	Wireti en | |	Linemen	O
+	Apprentice [_J	Cablesplicers	□
+	Residential Wiremen	Residential Trainees	0
+	Groundmen j~~|	and Others	s
+2 STATE(S): r , . f . ' California
+COUNTY Or AREA: ,	.	.
+___________________Los Ange.les
+Santa Barbara, Kern, Riverside
+San Bernardi no, Inyo, Mono, Orange
+San Luis Obispo, Ventura, San Diego
+Comniunication and Systems Technician
+3	4			A	B	C	D	E	F
+EFFECTIVE DATES	BASIC HOURLY WAGE		HEALTH & WELFARE	PENSION 3% NEBF	Local Annuity	APPREN. TRAINING PROGRAM	2n,t Shift Wage	3,d Shift Wage
+(a) 12.I.02	(al 23.98	EMPLOYER CONTRIBUTION	3.20	.72	2.00	.55	28.13	31.51
+		EMPLOYEE DEDUCTION						
+(b) 12/1/03	(b) 25.33	EMPLOYER CONTRIBUTION	3.20	.76	2.00	.60	29.71	33.28
+		EMPLOYEE DEDUCTION						
+(d	(d	EMPLOYER CONTRIBUTION						
+		EMPLOYEE DEDUCTION						
+(d)	(d)	EMPLOYER CONTRIBUTION						
+		EMPLOYEE DEDUCTION						
+5	ARE FUNDS FORMALLY ESTABLISHED FOR A, B,C, D, E,&F?			YES	YES	YES	YES	NO	NO
+6 ARE PLANS REPORTABLE UNDER THE "DISCLOSURE ACT" for A, B, ETC.?			YES	YES	YES	YES	NO	NO
+7 List the AGREEMENT . REFERENCE of the fringe benefits cited.		ARTICLE	X	V	XI LI	IX	III	III
+		SECTION	10.01	5.01	13.01 3.03(d)	9.16	3.04	3.04
+		PARAGRAPH	3	1	1	1	3	4
+		PAGE	18	15	20 10	18	11	11
+8 ON WHAT WAGE WILL THE EMPLOYEE PAY FED.
+& STATE TAXES IN COL (4L ABOVE?	(a) $23.98	(b) $25.33 (c) £	■ , and (d) $
+9 N.E.C.A.	
+Contractor or Association / j	t	
+*r-	l-J.U	CHAIRMAN
+JIM WILLSON	Date:
+10 IBEW, Local Union No. ] ]	49 413	428,
+DOUGIAS M. CHAPPELL
+PREPARE IN TRIPLICATE. Send original and one copy to the 1.0. Attach one (1) copy of your agreement (FOR INSTRUCTIONS IN
+PREPARING THIS FORM: SEE OTHER SIDE OF THIS PAGE.)
+FORM HO. 654.
+INSTRUCTION GUIDE FOR USE IN FILING FORM #654
+(Davis-Bacon Fringe Benefit Summary)
+See Item (J) of form. Check the classifications of workmen covered by your agreement that fringe benefits apply to. Add additional classifications as necessary in the blank spaces.
+Item (2). List state or states. List county or counties or, otherwise describe and cite page, article and section of agreement that refers to the normal construction labor market area applicable to your jurisdiction.
+Item (3). In 3(a), show the effective date of your current agreement. In (3)(b), (3}(c) and (3)(d) show the effective dates of deferred wage or fringe increases (if any).
+Item (4). In 4(a). list the hourly wage of your current agreement. List in (4)(b), (4)(c), and (4)(d) the deferred increases (if any).
+Items A, B, C, D, E, F. List the contractual language in the appropriate line (deduction or contribution). For example, in Column “B", 3% would be shown as an employer contribution. For example. Column "A" might show.30^ as an employee deduction, and.30£ os an employer contribution. Show contractual language, if in % show *f in c per hour show c per hour.
+Items (5) and (6). Indicate by (yes) or (no) if (5) plans are formally established and if (6) plans are reportable under the Welfare and Pension Plan Disclosure Act. For example, in Column "B”, line (5) the answer is “yes". The same is true in Column "B", line (6).
+Item (7). Be sure to indicate the article, section, paragraph and page number of your agreement that covers the fringe item referred to in Columns A, B, C, D, etc. Be sure to "tab" and "underscore" your agreement for ready identification of the fringe item. Use tape tabs, paper clips, etc. to mark the page and pen or pencil to underscore the appropriate language on the page.
+Item (8). -This is a double check line. In most cases the wages shown will be the same as is shown in (4)(a), (4)(b), etc.
+Items(9) and (10). Be sure to sign and dote under item (10). Be sure to obtain the employ er(s) or association signatures and date under item (9). Send the original and one copy of form #654 to this office, plus one copy of your agreement (preferably signed). It might also prove beneficial to file copies of this form with your state Dept, of Labor and your Regional office of the U5DL.
+If you have any question or if additional space is required, do not hesitate to include a cover letter or additional sheet to cover any unusual or additional items.
+' DAVIS-BACON FRINGE BENEFIT SUMMARY"
+1. ELECTRICAL CLASSIFICATIONS:	
+Wiremen j )	Linemen	| | '
+Apprentice | j	Cablesplicers [~~]
+Residential Wiremen | |	Residential Trainees	| |
+Groundmen Q	and Others [x]
+2 STATE(S):„ . . r
+_________CnliTornia___________
+COUNTY Or AREA: .
+___________________ Los Angeles,_______
+Santa Barbara, Kern, Riverside
+San Bernardino, Inyo, Mono, Orange, San Luis Obispo, Ventura, San Diego
+Communication and Systems Installer
+34	ABCDEF
+EFFECTIVE DATES	BASIC HOURLY WAGE		HEALTH A WELFARE	PENSION ■ 3% NEBF	Local Ahn uity	APPREN. TRAINING PROGRAM	2,,lf Shift Wage	J"1 Shih Wage
+(al 12/1/02	(a) 22.18	EMPLOYER CONTRIBUTION	3.20	.67	2.00	.55	26.02	29.14
+		EMPLOYEE DEDUCTION						
+(b) 12/1/03	(bj '	; 23.53	EMPLOYER CONTRIBUTION	3;20	.71	2.00 ?	, -60.	27.60	30.92
+		EMPLOYEE DEDUCTION						
+(d	(d	EMPLOYER CONTRIBUTION		1		. ► ■. -		
+		EMPLOYEE DEDUCTION			<■			
+(d)	(dl	EMPLOYER . CONTRIBUTION'			> ■ ;			
+		EMPLOYEE DEDUCTION		*.	t	;■*			
+5 ARE FUNDS FORMALLY ESTABLISHED FOR A,B,C,D,E,&F?			YES	YES	YES	YES	NO	NO
+6	ARE PLANS REPORTABLE UNDER THE “DISCLOSURE ACT" for A, B, ETC.?			YES	YES	YES	YES	NO	NO
+7 List the AGREEMENT REFERENCE of the fringe benefits cited.		ARTICLE	X	V	XIII	IX	III	III
+		SECTION	10.01	5.01	13.01	9.14	3.04	3.04
+					3.03(d)			
+		PARAGRAPH	3	1	1	1	3	4
+					1			
+		PAGE	18	15	20	18	11	11
+					10			
+8 ON WHAT WAGE WILL THE EMPLOYEE PAY FED.
+& STATE TAXES IN COL (4), ABOVE?	(a) $22.18 (b| $23.53 (c) £ ,and(d)$
+10 IBEW, Local Union No JI * 40, 413, 428,
+JIM WILLSON
+Date?
+Dote:
+PREPARE IN TRIPLICATE. Send original and one copy to the 1.0. Attach one (1) copy of your agreement. (FOR INSTRUCTIONS IN
+PREPARING THIS FORM: SEE OTHER SIDE OF THIS PAGE.)
+fOtMNO.654.
+INSTRUCTION GUIDE FOR USE IN FILING FORM #654
+(Davis- Bacon Fringe Benefit Summary)
+See Item (J) of form. Check the classifications of workmen covered by your agreement that fringe benefits apply to. Add additional classifications as necessary in the blank spaces.
+Item (2). List state or states. List county or counties or, otherwise describe and cite page, article and section of agreement that refers to the normal construction labor market area applicable to your jurisdiction.
+Item (3). In 3(a), show the effective date of your current agreement. In (3)(b), (3)(c) and (3)(d) show the effective dotes of deferred wage or fringe increases (if any).
+Item (4). In 4(a). list the hourly wage of your current agreement. List in (4)(b), (4)(c), and (4)(d) the deferred increases (if any).
+Items A, B, C, D, E, F. List the contractual language in the appropriate line (deduction or contribution). For example, in Column “B”, 3% would be shown as an employer contribution. For example, Column “A’’ might show. 30 < as an employee deduction, a nd .301 as an employer contribution. Show contractual language, if in show %; if in c per hour show c per hour.
+Items (5) and (6). Indicate by (yes) or (no) if (5) plans are formally established and if (6) plans are reportable under the Welfare and Pension Plan Disclosure Act. For example, in Column *‘B”, line (5) the answer is "yes". The same is true in Column "B", line (6).
+Item (7). Be sure to indicate the article, section, paragraph and page number of your agreement that covers the fringe item referred to in Columns A, B, C, D, etc. Be sure to "tab" and "underscore" your agreement for ready identification of the fringe item. Use tape tabs, paper dips, etc. to mark the page and pen or pencil to underscore the appropriate language on the page. '
+„ „ Item (8). This is a double check line. In most cases the wages shown will be.the same as is shown in (4)(a), (4)(b), etc.
+Items (9) and (10). Be sure to sign and date under item (10). Be sure to obtain the employer(s) or association signatures and date under item (9). Send the original and one copy of form #654 to this office, plus one copy of your agreement (preferably signed). It might also prove beneficial to file copies of this form with your state Dept, of Labor and your Regional office of the U5DL.
+If you have any question or if additional-space is required, do not hesitate to include a cover letter or additional sheet to cover any unusual or additional items.
+"DAVIS-BACON FRINGE BENEFIT SUMMARY"
+1. ELECTRICAL CLASSIFICATIONS: \				2	STATE(S):	Cali fornia
+Wiremhn	Linemen		*.	> COUNTY Or AREA: . „ , . Los Angeles		
+Apprentice | j	Cablesplicers	1 |				
+Residential	Residential					
+Wiremen | |	Trainees	1	j				
+Groundmen	and Others	E)				
+Journeyman Sound Electrician
+34	ABCDEF								
+EFFECTIVE DATES	BASIC HOURLY WAGE		HEALTH & WELFARE	PENSION 3% NEBF	I.UCill .Annuity	APPREN, TRAINING PROGRAM	2”J Shift Wage	311' Shift Wage
+(o) 12/1/02	(al 24.98	EMPLOYER CONTRIBUTION	3.20	.75	2.00	.55	29.30	32.82
+		EMPLOYEE DEDUCTION						
+(b) 12/1/03	(b) 26.33	EMPLOYER CONTRIBUTION	3.20	, .79	2.00-	.60	30.89	34.60
+		employee’ DEDUCTION						
+(cl	W	EMPLOYER CONTRIBUTION				*>•		
+		EMPLOYEE DEDUCTION			<			
+(dl	(d)	EMPLOYER CONTRIBUTION						
+		EMPLOYEE DEDUCTION		•>	•			
+5 ARE FUNDS FORMALLY ESTABLISHED FOR A, B, C, D, E, A F?			YES	YES	YES	YES	NO	NO
+6 ARE PLANS REPORTABLE UNDER THE “DISCLOSURE ACT” for A, B, ETC,?			YES	YES	YES	YES	NO	NO
+7 List the AGREEMENT REFERENCE of the fringe benefits cited.		ARTICLE	X	*V	XIII	IX	III	III
+		SECTION	10.01	5.01	13. ui 3.03(d)	9. 14	3.04	3.04
+		PARAGRAPH	3	1	1 1	1	3	4
+		PAGE	18	15	. 20 10	18	11 ’	11
+8 ON WHAT WAGE WILL THE EMPLOYEE PAY FED. & STATE TAXES IN COL (4), ABOVE?	(a) $24.98 (b) $ 26.33 (c) $	and (d) $								
+9 N.E.C.A.	
+/ Contractor or Association By:	Vs-	 nrle: CHAIRMAN	
+JIM WILLSON	Date:
+10	IBEW, local Union No. H,	413, 428,
+	440, 441, 477, 639, 952
+By=	M ubfaJl/f Title: CHAIRMAN
+DOUGLAS	M. CHAPPELL Date:
+PREPARE IN TRIPLICATE, Send original and one copy to the 1,0, Attach one (1) copy of your agreement (FOR INSTRUCTIONS IN
+PREPARING THIS FORM: SEE OTHER SIDE OF THIS PAGE )
+FORM NO. 654.
+Negotiated by Local Union 11, IBEW and Los Angeles County Chapter,' National Electrical Contractors Association.
+\
+Effective July 1, 1992. ■ \
+Signed For:
+LOCAL UNION 11, INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS
+Homer Lee
+Business Manager
+APPROVED
+IMLR’WTIC:iAL CFrXE I. 0. E. W.
+SEP.2; 4 1992
+J. J. Bany, President
+■[>.15 cpproYd docs not mate tta intemaUonal a party to this iQirement
+Signed For:
+LOS ANGELES COUNTY CHAPTER NATIONAL ELECTRICAL CONTRACTORS
+ASSOCIATION
+President

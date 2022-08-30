@@ -1,0 +1,1798 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: General Electric Company and United Electrical, Radio and Machine Workers of America (UE) Locals 211 et al. (2003)
+K#: 3618
+Employer Name: General Electric Company
+Location: CT NY PA OH CA
+Union: United Electrical, Radio and Machine Workers of America (UE)
+Local: 211, 270, 332, 334, 335, 506, 618, 707, 731, 751, 1009, 1010, 1412
+SIC: 3743	NAICS: 334612
+Sector: P	Number of Workers: 5000
+Effective Date: 06/16/03	Expiration Date: 06/17/07
+Number of Pages: 135	Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School, http://www.ilr.cornell.edu/
+THIS BOOK CONTAINS:
+2003-2007
+GE-UE NATIONAL
+AGREEMENT
+AND
+2003-2007
+WAGE AGREEMENT
+
+This is the National GE-UE Agreement dated June 16,2003.
+The 2003 Amendments to the Agreement are shown in bold type.
+I
+I
+TABLE OF CONTENTS
+ARTICLE NO.	PAGE NO.
+I.	Union Recognition..................... 1
+II.	Union Security........................ 1
+III.	Working Conditions.................... 3
+IV.	Discrimination and Coercion........... 3
+V.	Working Hours: Straight Time —
+Overtime............................ 4
+VI.	Wage Rates........................... 12
+VII.	Continuity of Service —
+Service Credits.................... 20
+VIII.	Vacations...........................  24
+IX.	Holidays............................. 34
+X.	Transfers............................ 37
+XI.	Retraining and/or Reassignment.......... 40
+XII.	Reduction or Increase in Forces......... 42
+XIII.	List of Hirings, Layoffs, and Transfers. 45
+XIV.	Local Understandings................. 46
+XV.	Union and Local Representatives
+and Stewards....................... 46
+XVI.	Grievance Procedure.................. 51
+TABLE OF CONTENTS "	* ■ ' > continued
+ARTICLE. NO.	PAGE NO; -
+XVII.	Arbitration.........;.....:....;.;..... 55
+XVIII.	Strikes and Lockouts.................. 59
+XIX.	Financial Support...........'......... 60
+XX.	Posting...................1;.......... 61-
+XXI.	Traveling: Time and Expenses :...:.... 61
+XXII.	Notification and Publicity...'........ 62
+XXIII.	Job and Income Security............... 62
+XXIV.	Jury Duty............................. 97
+XXV.	Military Pay Differential.............. 97	,
+XXVI.	Absence for Death in Family............ 99	,
+XXVII.	Sick and Personal Pay.................100
+XXVIII.	Upgrading and Job Posting..............103	.
+XXIX.	Management Authority.................  104
+XXX.	Issues of General Application..........105	.
+XXXI.	Effective Date of Agreement...........105
+XXX11.	Modification.........................   106
+XXXIII.	Termination..........................  106
+XXXIV.	Written Notices........................107
+I
+J
+PREAMBLE
+This Agreement (referred to as the 2003-2007 GE-UE National Agreement) which succeeds a prior agreement entered into as ofjune 16,2003 by and between the GENERAL ELECTRIC COMPANY (hereinafter referred to as the '‘Company1’) and the UNITED ELECTRICAL, RADIO AND MACHINE WORKERS OF AMERICA (UE) (hereinafter referred to as the “Union”), acting for itself and on behalf of its below-listed affiliated UE Locals, currently certified as collective bargaining representatives of Company employees, which ratify this Agreement as set forth herein and such other UE Locals as may hereafter be certified as collective bargaining representatives of Company employees (each referred to individually as the “Local").
+The currently certified UE Locals and bargaining units covered by this Agreement are as follows: .
+LOCAL NO. LOCATION
+211 — Bridgeport, CT
+270— E. Hartford, CT
+(GECHS)
+332 —	Fort Edward and
+Hudson Falls, NY
+334 — Rochester, NY
+(GECHS)
+335— Buffalo, NY
+(GECHS)
+CLASSIFICATION Powerhouse Service
+P&M
+Service
+Service
+(i)
+LOCAL NO.	LOCATION	CLASSIFICATION
+506 —	Erie, PA	P&M
+618 —	Erie, PA	Salaried-Clerical
+707 —	Akron, OH (GECHS)	Service
+707 —	Youngstown, OH (GECHS)	Service
+707 —	Cleveland, OH (GECHS)	Service
+731 —	Conneaut, OH (GE Lighting, Inc.)	P&M
+751 —	Niles, OH (Glass Plant) (GE Lighting, Inc.)	P&M
+751 —	Niles, OH (Mahoning Glass Plant) (GE Lighting, Inc.)	P&M
+1009 —	Anaheim, CA	P&M
+	(GEI, Inc., Apparatus Service Center)	
+1010 —	Ontario, CA	P&M
+	(GE Engine Services, Inc.) Los Angeles	
+1412 —	BavArea, CA	P&M
+	(GEI, Inc., Apparatus Services)	
+(ii)
+ARTICLE I
+Union Recognition
+■	1. The Company agrees to recognize the Union on behalf of and in conjunction with its Locals for those bargaining units of Company employees for which the Union or any of its Locals, through National Labor Relations Board certifications, is designated as the exclusive collective bargaining representative of employees within such units for the purpose of collective bargaining in respect to rates of pay, wages, hours of employment and other conditions of employment.
+■	2, Where the Union or any of its Locals through National Labor Relations Board certifications has been designated as the exclusive collective baigaining representative for any additional bargaining units of Company employees, such certified representative shall be recognized as provided above.	.
+ARTICLE II
+Union Security
+■ 1. Agency Shop
+(a)	Subject to applicable law, all employees who, as of the date of this Agreement are members of the Union in good standing in accordance with the constitution and bylaws of the Union or who become members of the Union following the effective date of this Agreement, shall, as a condition of employment, remain members of the Union in good standing insofar as the payment of periodic dues and initiation fees, uniformly required, is concerned.
+1
+(b)	Subject to applicable law, all present employees who are not members of the Union and all individuals hired after the effective date of this agreement,shall, beginning on the thirtieth (30th) day following the effective date of this agreement or the thirtieth (30th) day following employment, whichever is later, as a condition of employment, either become and remain members of die Union in good standing insofar as the payment of periodic dues and initiation fees, uniformly required, is concerned, or, in lieu of such Union membership, pay to the Union an equiw alent service charge. ■
+H 2. Union Dues or Service Charge Deduction
+Authorization
+(a)	The Company, for each of its employees included within the bargaining units recognized by the Company pursuant to Article I hereof, who individually, in writing, duly authorizes his Company Paymaster to do so, will deduct from the earnings payable to such employee on the second pay day of each month, the monthly dues (including initiation fee, if any) for such employee's membership in the Local, or the equivalent service charge, and.shall remit promptly to the Local all such deductions. Local unions and local management are authorized to negotiate variations from this checkoff procedure with respect to the frequency of dues deductions (including weekly dues deductions), or the equivalent service charge, and to. modify checkoff authorization forms in accordance with any such local agreemenft ' . , , .. .
+(b)	Subject to applicable law, individual authorizations executed after the effective date of this Agreement shall be signed cards in the form agreed to by the Company and the Union. ■■ ■ • ■	. a •	,	. !	.
+2
+ARTICLE 111
+Working Conditions ’	_ ,
+B 1. The Company will continue to provide systematic safety inspections, safety devices, guards, and medical service to minimize accidents and health hazards,on,its premises!
+ARTICLE IV	.......... .............
+Discrimination and Coercion	;
+■	1. Neither the Company nor any of its Foremen, Superintendents, or other agents or representatives, shall discriminate, against any employee because such employee is a member of, or acting as, a Steward, Officer, or other agent or representative of the Union or of any Local.
+■	2. Neither the Union nor any Local, nor any Steward, Officer, or other agent dr representative of either, shall intimidate or coerce any employee, nor solicit members or funds in die plant during working hours. . '
+■	3. The Company shall not discriminate against any employee in the payment of wages, assignment of jobs, seniority, promotion, transfer, layoff, discipline, discharge or any other term or condition of employment because of race, creed, color, religion, marital status, sex, age or national origin. ‘	'	■	■■	' ‘ '
+■	4. The Union and its UE Locals shall not discriminate against any employee on account of race, creed, color, religion, marital status, sex, age, national origin or membership or nonmembership in the Union. -
+■	5. The Company, the Union and its UE Locals shall not discriminate against any employee because of physical or mental disability or because he or she is a disabled
+3
+veteran or veteran of the Vietnam era in regard to any position for which the employee is qualified.
+ARTICLE V
+Working Hours: Straight Time-Overtime
+■ 1. (a) Workweek '
+The regular working week for both salaried and hourly rated employees shall be 40 hours per week, 8 hours per day, 5-day week, from Monday to Friday inclusive. The workweek on multiple shifts may be less than 40 hours.
+An employee’s workday is the twenty-four hour period beginning with hrs regularly assigned starting time of his workshift, and his day of rest starts at the same time on the day or days he is not scheduled to work. His workweek starts with the start of his regularly assigned work period on Monday of that workweek, except on continuous operations. Upon commencing work on Monday at a newly assigned starting time, an employee’s preceding workweek shall end and the preceding day of rest of any employee who has had a twenty-four hour period of rest prior to the newly assigned starting time shall also end.
+Variations in hours of work and schedules of hours of the several shifts, including multiple shifts where the workweek starts late Sunday night and where such hours on Sunday are considered as part of the Monday workday, are subjects for local negotiations.
+(b)	Continuous Operations	■
+Special schedules of hours and overtime will apply (1) on jobs which require continuous operation such as powerhouse attendants and on jobs requiring continuous manufacturing processes such as those which, for reasons of
+4
+protection of equipment and material, must be run on a 24-hour day and a week-byweek basis, or (2) on process oriented jobs which cannot readily be operated on a non-con-tinuous basis such as chemical, plastic, silicone and glass operations. Existing jobs or processes described in (2), but not currently on continuous operation as ofjuly 1,1973, may be designated as con tinuous operations by negotiation and agreement between local management and the Local Union. In the case of jobs described in (2), where new operations or processes are developed or established after July 1,1973, the Local will be given thirty (30) calendar days notice prior to the designation of such jobs as continuous operations.
+(c)	Any grievance resulting from the establishment of a new working schedule will be handled through the regular grievance procedure. The Company will give the Locals respectively affected as much notice as possible of any proposed changes in the working schedule of hourly and salaried employees and will discuss proposed changes with the Locals.
+■ 2. Overtbne-Regtilar Workweek
+The Company will pay an hourly rated or salaried employee on a nonexempt job for overtime as follows:
+(a)	At the rate of time and one-half for hours worked either
+(1)	In excess of 8 hours in any single workday; or
+(2)	In excess of 40 hours in any given workweek; or
+'	(3) In excess of 8 hours in any continuous 24 hours
+beginning at the starting time of the employee’s shift; or
+(4)	After working his regular schedule, if on multiple shifts of less than 8 hours each; or
+5
+(5)	On his Saturday. .	. .
+(b)	At the rate of double time for hours worked either
+•	(1) On his Sunday; or; ■	.
+" (2) On his observed holiday; or
+•	• (3) hi excess of 12 hours in his workday; provided :	’ that an employee who shall have worked in
+.......... excess of 12 hours in any single workday, and ;	' ’• who shall be required to continue at work
+'•	’ beyond that workday; shall con tinue to be paid
+at the double time rate for hours worked until he shall have been relieved from work; or .
+(	4) Outside the employee’s regularly scheduled ■ shift bn a calendar Sunday or calendar observed
+1	holiday. ’ ' ‘
+(c)	At the rate of double time and one-half for hours worked either	,	.	.
+(1)	On his holidays listed in Article IX as paid holidays; or : „ .	.....	;
+.	(2) Outside the employee's regularly scheduled
+shift on any of the calendar holidays listed in Article IX as paid holidays; or ’
+* ‘	' k, . 4	' i • • I ■	: t • ,,,, j t • • f - !	:»?■»	. ;
+(3) For salaried employees only, for hours worked on an observed holiday or outside the employ-■ • ■ ' ee’s regularly scheduled shift on any calendar
+; . observed holiday. .	,
+■ (d) 'An employee who is transferred from his regular established shift to another and who is thereafter relumed to his original shift during the same week, or during the immediately succeeding week, shall be paid at the rate of ti me and one-half for the first 8 hours worked following the
+6
+first such transfer, except where either or both such transfers (i) results from the failure of another employee or employees to report for work, or (ii) is made in connection with a lack of work situation, or (iii) is made at the employee's request, dr (tv) results from an emergency breakdown of equipment or machinery, or (v) is made in connection with an established program of shift rotation. ■ ■
+■ 3. Continuous Operations '
+(a) Worfafay-Woriiuieek
+(1) When any employee on continuous operations has a scheduled workweek of 5 days at work arid 2 days off, his first scheduled day off shall be considered as the 6th day of his workweek, and his second sched-■	> uled day off, whether or not successive, as the 7th
+day of his workweek. When such working schedule contains a regularly recurring workweek of 6 days at work and one day off, such scheduled day off shall be considered as the 7th day of his workweek and the day immediately preceding as the 6th day of his workweek.	‘
+■ 4. Overtim&ContinuousOpet’aCwns1 '■ • .<
+The Company will pay an hourly rated or salaried employee on a nonexempt job for overtime as follows: .
+(a)	At the rate of time and one-half for hours worked either	, h?
+■	(1) In excess of 8 hours in any single workday; or
+(2)	In excess'of 40 hours in any given workweek; or
+(3)	In excess of 8 hours in any continuous 24 hours beginning at the starting time of the employee’s shift; or
+7
+(4)	On his Saturdays or Sundays if either day is not his 7 th day of his workweek; or
+(5)	On the employee’s 7th day of his workweek if such day is neither his Saturday, Sunday or observed holiday; or
+(6)	On his Saturdays and Sundays (as a minimum if employee is on a special schedule other than that outlined in 3 (a) (1) above).
+(b)	At the rate of double time for hours worked either
+(1)	On the employee’s 7th day of his workweek, if such day is his Saturday, Sunday or observed ' holiday, or
+(2)	On the employee’s 6th day of the workweek if falling on an observed holiday, or
+(3)	In excess of 12 hours in his workday; provided that an employee who shall have worked in excess of 12 hours in any single workday, and who shall be required to continue at work beyond that workday, shall continue to be paid at the double time rate for hours worked until he shall have been relieved from work.
+(c)	At the rate of double time and one-half for hours worked on the holidays listed in Article IX as paid holidays.
+■ 5. General
+(a)	Listed holidays referred to above shall mean those holidays listed in Article IX of this Agreement.
+(b)	Each Local shall be furnished a list of the observed holidays referred to above.
+8
+(c)	Computation of overtime shall be in accordance with the workday as defined in 1 (a) above and shall be allowed under only one of these overtime provisions for any given hours.
+(d)	All salaried employees if absent for personal reasons other than vacation shall be paid in accordance with the established plan.
+(e)	In cases where the Company instructs employees to report ahead of schedule and/or remain after the regular schedule to change clothes, etc., employees involved will be paid for such additional time.
+■ 6, Night Shift Differential
+Hourly rated and salaried employees hired on or before August I, 1994 assigned to recognized second and third shift operations shall have 10% added to their regular determined earnings for all work performed on such shifts. Employees hired after August 1,1994, who have no record of prior GE service, shall have sixty cents ($.60) added to their regular hourly rate for all work performed on such shifts until they have accumulated five (5) years of continuous service after which they will receive the 10% nightshift differential.
+Recognized second and third shifts shall in all cases be those beginning l>etween 12 noon and 3:30 a.m. In exceptional cases the starting time for a recognized second shift may be earlier by mutual agreement between the Local and local management
+B 7. Other Special Payments
+(a)	Employees who are called in outside of their regular schedule of hours will be paid the applicable overtime rate but not less than the equivalent of 4 hours pay at their
+9
+straight-time rate. Qualified pieceworkers will be paid at least their anticipated earned rate. Learners on piecework will be paid their average earnings if less than the anticipated earned rate.
+(b)	Day shift employees who are called back after the end of their regular day shift (or told to report prior to thei r regular starting time) will be paid at the rate of time and one-half for hours worked outside their regular schedule, up to midnight and at the rate of double time for hours worked after midnight and up to the beginning of the regular'day shift.	",	’
+(c)	Employees on the second and third shifts who are called back after the end of their regular shift (or told to* report prior to their regular starting.time) will be paid at the rate of time and one-half for hours worked up to the beginningof their regular shift.	.	t
+. (d) Subsections (a), (b)’and (c) above are hot applicable where an employee continues to work into the next shift following his normal quitting time,
+(e) Report-In Time. ■	‘
+For the purposes of Subsections (a), (b) and (c) only, the employee’s scheduled report-in time on the first day of work during each week shall be considered his regular starting time and, for the remainder of that week, premium'for early report-in shall be determined on the basis of the starting time thus established. The starting time for this purpose shall be redetermined each week, i ■■■'
+Employees who are sent home after reporting for work in accordance with their, regular schedules or employees who are notified in advance of work schedules oh Saturdays, Sundays and holidays who are sent home after reporting for such work because without previous notice thereof, nei-
+10
+ther their regularly assigned nor any reasonably comparable work is available, will receive not less than four hours pay at the rate applicable had they worked; biit this Subsection (e) shall not be applicable when such unavailability of work is caused by fire, snowstorm, flood, power failure or work stoppage by employees in the same Company location. Qualified pieceworkers will be paid at least their anticipated earned rate. Learners on piecework will be paid their average earnings if less than the anticipated earned rate. '	. ■
+! . (f) ■' Dispensary Time •'	■ • ••	• •_	“
+, . Employees will be paid at their applicable rate for time spent in attending the Company dispensary for examination or treatment of any injuries arising out of and in the course of their employment, whenever such time would otherwise have been spent by the injured employee on the work assigned to him. Qualified pieceworkerswill be paid at least their anticipated eamed rate. Learners on piecework will be paid their average earnings, if less than the anticipated earned rate. Employees who are directednot to retum to work as'a result of their injury shall be paid at their straight-time rate to the end of their scheduled work shift.	’
+• * •	< I ■ ’	* 1	■ 1 ’	. • ,	\ r- 1 1 •	’ - *	. r* 1 i 1	; l ; i . r
+■ 8. Division of Overtime	. .. , .	. , . ■
+'■ ■ • Overtime shall be divided as equally as proficient operations permit among the employees who are performing ‘similar work in the group. A record of overtime worked by employees (or credited to them)-will be maintained by the immediate supervisor of the group and will be available for examination by the appropriate union Steward or an employee within the group upon request.
+<>	t ■	r , . \	. > h ♦	* 5	■
+11
+ARTICLE VI
+Wage Rates
+■	1. Any question which affects hourly rates, piecework rates or salary rates of individuals or groups shall be subject to negotiation between the Local and the local management.
+M 2. The Company shall furnish each Local with information on and changes of all hourly and salaried job classifications, which shall consist of title, general job descriptionjob rate and progression schedule (if any), including the anticipated earned rate or its equivalent for piecework jobs, for all jobs included within the bargaining units respectively represented by such Locals.
+■	3. When an employee is hired or transferred through the Company Personnel Office, he will be given a card showing hisjob classification, starting rate, rate of progression or progression schedule, if any, job rate and anticipated earned rate and sharing rate, if any, applicable to the job for which he is hired or to which he is transferred.
+■	4. Employee Ratings
+In those plants where employee ratings are used, the employees will be given their ratings in writing each time the ratings are made. Ratings which have not previously been given to an employee will not be used in the adjustment of grievances, except by mutual agreement. On request, the Management will explain the application of the rating system to the Local.	■
+B 5. Piece Prices-Hourly Rated Piecework Employees
+(a)	Piece prices will be classified as temporary, special or standard, and all voucherswill indicate the classification.
+12
+(b)	Temporary prices will be set on new jobs as quickly as possible. Ordinarily, standard prices will be set on jobs within six months where the manufacturing method has been developed and the operator has attained average efficiency.
+The Company agrees to make every effort to replace existing temporary prices with standard prices.
+(c)	Special prices will be applied only when quantities are small and jobs do not repeat very often.
+.	(d) There will be no change in standard prices except
+where there is a change in method. Where such change in method is made, the price may be adjusted. However, such adjustment shall be limited to those parts of the job affected by the change.
+When a change in method is made which does not reduce the job value on which a price has been computed, the Company will set a new price by time study or other data which will give the operator at least the same hourly earnings as he made on the old price.
+(e) Standard prices will not be decreased without giving advance notice of one week to the employee and his representative.
+।	(f) A piecework employee temporarily taken off his reg-
+ularjob by the Company to perform anotherjob, when he would otherwise have continued working on his regular job, shall be paid no less than his average straight-time earning rate on his regular job.
+In cases of machine breakdowns, faulty material, lack of material, or other unusual conditions, generally of short duration, and not the fault of the operator, the employee will be paid for such conditions in accordance with the
+13
+present local practice, provided the employee notifies his Foreman or other designated supervisor at the time the condition occurs.
+(g) When a time study is made, the operator will be advised and be will be told the purpose of the time study. The Steward shall have the right to observe time studies on jobs where the price is in dispute. On request, the Foreman will explain to the Steward the data used in making up the price from the time study or tables.
+■ 6. Step Rates and Progression Schedules
+There is no uniform starting rate throughout the Company and the progression schedules will be based on the starting rates in the respective Works.
+Existing local practices which provide special progression schedules for employees hired for incentive work will remain in effect, unless changed by local negotiations.
+The following provisions of this Section 6 arc applicable to all hourly rated and salaried employees except draftsmen, apprentices and other trainees participating in an entry-type training program; provided that hourly rated and salaried employees hired after August 5,1991, who have no record of prior GE service shall be placed on starling rates and progression schedules in accordance with die provisions contained in Section 9 of this Article.
+(a)	Hourly Rated Employees an Daywork
+(1)	All starting, progression and job rates for hourly rated employees will be on steps in accordance with the applicable local wage structure.
+(2)	The minimum starting rates for all hourly rated jobs will be as follows:	-
+14
+(a)	On jobs with a job rate which is not more than two (2) steps below the top of the one month progression schedule:	‘
+Four (4) steps below job rate.
+(b)	On jobs with a job rate which is not more than five (5) steps, nor less than three (5) steps below the top of the one month progression schedule:
+■ Three (3) steps beiine job rate.
+(c)	On jobs with a job rate which is more than five (5) steps below the top of the one month progression schedule:
+Two (2) steps below job rate.
+(3)	Applicants experienced on jobs of the kind for which hired will begin at a rate not less than two steps below the job rate and will be increased to the job rate in . accordance with the applicable progression schedule set forth in paragraph 4 below, except that when the applicant is hired for a job to which the six mon di progression schedule is applicable, the job rate must be paid at the end of six months.
+(4)	Each hourly rated employee will progress on steps from his starting rate to the job rate of his job in accordance with the following progression schedules:
+(a) ONE MONTH
+PROGRESSION SCHEDULE
+Step rates up to, and including, the top of the One Month Progression Schedule in effect at each local plant on October 26,1969:
+15
+One (I) step at the end of each one month period.
+(b)	THREE MONTH
+PROGRESSION SCHEDULE
+Step rates from one to three steps (inclusive) above the top of the One Month Progression Schedule:
+One (1) step at the end of each three month period.
+(C) SIX MONTH
+PROGRESSION SCHEDULE
+Step rates more than three steps above the top of the One Month Progression Schedule:
+One (1) step at the end of each six month period.
+(5)	The above progression schedules are mandatory for employees on the job.
+(6)	New incentive prices will be set on the basis of the established step rate plan for incentive workers in those locations which have such plans in effect.
+(b) Salaried Employees
+(1)	All starting, progression and job rates for salaried employees will be on steps in accordance with the applicable local salaried structure. ■
+(2)	The minimum starting rates for all salaried jobs will be as follows:
+(a)	On jobs with a job rate of Grade No. 8 or higher:
+E'our (4) steps below job rate.
+(b)	On jobs with a job rate of Grade Nos. 4 through 7:
+16
+Three (3) steps below job rate.
+(c)	On jobs with ajob rate of Grade No. 3 or lower.
+Two (2) steps below job rate.
+(3)	Each salaried employee will progress on steps, from the starting rate to the job rate established for that employee’s particular job, or to the top of the progression schedule (the Grade No. 11 rate), whichever is less as follows:
+(a)	THREE MONTH
+PROGRESSION SCHEDULE
+Step rates up to and includingGrade No. 6:
+One (1) step at the end of each three month period.
+(b)	SIX MONTH
+PROGRESSION SCHEDULE
+Step rates from Grade No. 6 up to and including Grade No. 11:
+One (1) step at the end of each six month period.
+(4)	Tlic above progression schedules are mandatory for employees on the job.
+(5)	Any further increase in mte for any salaried employ ee above the top of the progression schedule, up to the job rate for the employee’s job will also be on steps but shall be based solely on the employee’s performance on the job. In addition, each such employee will be reviewed at least once each year.
+(6)	Applicants experienced on the job for which hired will begin at a rate not less than two steps below the job rate and will be increased to the job rate within six months, if qualified.
+17
+(7)	Subject to the foregoing provisions of this Section 6(b), the job rate will be paid for normal performance.
+■	7. Group Ijeaders and Instructors
+Hourly paid group leaders leading dayworkers shall be paid a rate at least two steps above the highest job rate in tile group which they are leading. If individuals in any group have a rate above the job rate, the leader may be paid a nite up to two steps above such higher rate if negotiated locally.
+Hourly paid group leaders who are leading pieceworkers who are on individual piecework will be paid a rate at least two steps above the highest AER of any of die employees in die group which they are leading. Rates in excess of this minimum shall be paid in accordance with job requirements and shall be negotiated locally.
+Rates of instructors and group leaders other than the above shall be negotiated locally.
+■	8. At those locations which do not have an “anticipated earned rate (AER)” in their rate structure, its counterpart for that location will be used wherever "anticipated earned rate (AER)” is used in this Agreement.
+■	9. Starting Rates and Progression Rates and Schedules for Employees Hired After August 5, 1991.
+(a)	This Section will apply to hourly employees hired for jobs with ajob rate within the one mon lit progression schedule who have no record of prior GE service and salaried employees hired forjobs with ajob rate within the three month progression schedule who have no record ofprior GE service. Employees hired after August 5, 1991,	[
+who have no record of prior GE setrice, may be hired at a
+18
+minimum of 70% of job rate. Employees will progress in six (6) month steps to job rate in accordance with the following table:
+Hiring Rate as a Percen t of Job Rate	Number of Progression Steps
+95	1
+90	2
+85	3
+80	4
+75	5
+70	6
+For the purposes of this Section 9 only, time spent away from a job within the one month progression schedule, up to a maximum of twelve months for any single absence, shall be included in the time required to progress to job rate .The precedi ng sen tence shall apply to absences which begin on or after July 1,1997.
+(b)	Employees on the above progression schedule who are transferred to higher rated jobs within the one month progression schedule (hourly) or the three month progression schedule (salaried) will have their paid rates adjusted to the same percentage of the new job rate. Time accumulated toward the next progression step will be carried forward and progression timing to the next step will not be affected by such transfer. Employees on the above progression schedule who are transferred to higher ratedjobs outside the one month progression schedule (hourly) or the three month progression schedule (salaried) will have their paid rates adjusted according to the o titer provisions of this Article and Article X.
+(c)	Employees on the above progression schedule who
+19
+are transferred to a lower rated job will have their progression rates adjusted to the same percentage of the new job rate. They will progress to the next higher percentage progression step based on the time accumulated since their last step.
+(d)	Employees hired under the provisions of this paragraph will progress to the job rate of their assigned job in accordance with the schedules contained herein; the other provisions of this Article and Article X, Transfers, notwithstanding. After completing the initial progression schedule and reachingjob rate of the assigned job the other provisions of this Article and Article X will be applicable to subsequent transfers.
+ARTICLE VII.
+Continuity of Service - Service Credits
+H 1. Definition of Terms
+(a)“Continuity of service” designates the status of an employee who has service credits totaling 52 or more Weeks.
+(b)	“Continuous service” designates the length of each employee’s continuity of service and shall equal the total service credits of an employee who has “continuity of service.”
+(c)	“Service credits” are credits for periods during which the employee is actually at work for the Cotnpany or for periods of absence for which credit is granted. (As provided in Section 3.)
+(d)	“Absence” is the period an employee is absent from work either with or without pay (except a paid vacation period), computed by subtracting the date fbl-
+20
+lowing the last day worked from the date the employee returns to work. Each separate continuous period away from work shall be treated as a single absence from work.
+(e)	“Illness" shall include pregnancy, whenever the Foreman or other immediate supervisor is notified prior to absence from work.
+■ 2. Loss of Service Credits and Continuity of Service
+Service credits previously accumulated and continuity of service, if any, will be lost whenever the employee:
+(a)	Quits, dies, resigns, retires or is discharged.
+(b)	Is absent from work for more than two consecutive weeks without satisfactory explanation.
+(c)	Is absent from work because of persona] illness or accident and foils to keep the Company notified monthly, stating, if possible, the probable date of his return to work. In cases of pregnancy the first such notification must be given not later than eight weeks after termination of pregnancy.
+(d)	Is notified within a year from date of layoff that he may return but foils to return or to give satisfactory explanation within two weeks.
+(e)	Is absent from work without satisfactory explanation beyond the period of any leave of absence granted him by the Company.
+(f)	Is absent from work for a continuous period of more than one year for any other reason, other than (i) a leave of absence granted in advance, or (ii) an absence ■ due to a compensable accident or compensable illness up to eighteen (18) months.
+21
+Individuals who at the time of layoff had one (1) year of continuous service shall, despite loss of service as a result of such layoff, be retained on die recall list and be eligible for reemployment in accordance with die applicable local procedure for a period of sixty (60) months following layoff or until retirement, whichever occurs fust. Similarly, in the cases of individuals with the required service absent due to illness or injury, the same extended recall arrangement will be made only if;
+(1)	The individual reports promptly to the Personnel Office for employment upon recovers’.
+(2)	The individual is otherwise eligible, in which case he will prompdy thereafter have his name added to the recall list
+Actual recall will be predicated upon die individual meeting the Company’s health requirements.
+ff the Company reemploys tin employee who has lost service credits and continuity of service because of layoff due to lack of work for more than one year, because of absence due to illness or injury for more than one year, or because of termination for transfer to a successor employer, such en iploy-ee shall have such service credits and continuity of service automatically restored if his continuous service at die start of his absence was greater than the total lengdi of such absence or if the employee has recall rights under the second paragraph of this Section 2 of this Article or if the employee is placed under Preferential Placement
+Tlte service record of each employee laid off and reemployed after layoff or reemployed following illness or injury, will be reviewed by the Company at the time of his reemployment mid in each case, such employee will be notified as to his service credits and continuity of service, if any.
+22
+If the Company reemploys, on or after Jone 27,1988, a former employee who had continuity of service at the time of a previous termination of Company employment (and the employee is not eligible for automatic service restoration under the third paragraph of this Section 2), the Company shall restore such continuity of service after the employee has completed th ree years of continuous service following reemployment. An employee in the process of service restoration under this section who is laid off and again re) tired or recalled shall have all service credits earned following reemployment on or after June 27,1988 accumulated for the purpose of service restoration under this Section 2.
+Service restoration provided for in this Section 2 will Ive contingent upon the employee's full repayment of any of the following lump sum benefits paid under Article XXIfl: Income Extension Aid under Section 4(b)(1) (iii), Special Voluntary Layoff Bonus under Section 4 (c), Special Retirement Bonus under Section 3(b), or severance pay due to a plant closing termination which occurred within six months prior to the date of reemployment Such repayment must be made within a reasonable time after rehire. No such repayment is required of benefits paid if the reemployment date is more than one year from the date of the prior termination.
+■ 3. Service Credits
+Service credits for each employee shall be granted for periods during which the employee is actually at work for the Company, and service credits for absences shall be added to an employee’s service, after reemployment with continuity of service or with prior service credits, as follows:
+(a) Employees, when reemployed with prior service credits or continuity of service following absence due to illness, accident, layoff, or leave of absence granted by the Company, because of termination for transfer
+23
+to a successor employer, or due to plant closing will receive service credits for up to a total of the first twelve months of such absence. Where the absence of an employee, with continui ty of service, is due to a compensable accident or compensable illness, and the employee is reemployed without loss of con tinui ty of service, service credits will be granted for the period of his absence in excess of twelve months up to a maximum of six additional months.
+(W) For all other absences of two weeks or less, such employees will receive service credits, but, if the absence is longer titan two weeks, no service credits will be allowed for any part of such absence.
+If an employee who has lost prior service credits or continuity of service is reempioyed, he shall be considered a new employee, and will not receive service credits for any time prior to the date of such reemployment, unless all or part of prior service credits are restored as a result of a review. Should the result of the review be unsatisfactory to the employee, it may be taken up under the grievance procedure.
+ARTICLE Vin
+Vacations
+® 1. Paid Vacation Periods
+Vacations with pay will be granted in each calendar year (hereinafter called the “vacation year") to eligible employees as follows:
+24
+Hmtrly Employees
+Years of Continuous .	Vacations
+Service	
+1	I weeks
+2	2 weeks
+5	2 1/2 weeks
+7	3 weeks
+15	4 weeks
+20	5 weeks
+30 ■	6 weeks
+Salaried Employees
+Yeats of Continuous Service,
+1
+5
+7
+15
+20
+30
+Vacations
+2	weeks
+21/2 weeks
+3	weeks
+4	weeks
+5	weeks
+6	weeks
+■ 2. Eligibility Requirements
+An employee whose continuity of service is unbroken as of December 3i or his last scheduled workday in the last week of the year immediately preceding the vacation year shall qualify for a vacation or vacation allowance under the provisions of this Article if he:
+(a)	actually performs work as an active employee of the Company during the last full calendar week of the year immediately preceding the vacation year; or
+25
+(b)	receives earnings from the Company directly applicable to all or part of such week.
+If an employee has not qualified under (a) and (b) above, but returns to work without loss of continuity of service during the vacation year, he will become entitled to a vacation or vacation allowance i11 the vacation year after he shall have worked in the vacation year for one month or for a period equal to that of his absence if his absence was less than one month. Any such employee reemployed too late to work for one month in the vacation year will be paid his vacation allowance and may have a portion of die time out considered as die vacation to which he is otherwise eligible.
+■ 8. Determination of Paid Vacations
+(a} Btiwr w Guaranteed Vacations
+The basic vacation period of an eligible employee shall be based upon In's length of continuous service as of December 8 [ of the year immediately preceding the vacation year.
+(b) Adtltiional (or initial) Vacation
+An eligible employee whose continuing accumulation of service credits during a vacation year entitles hint to an additional vacation under the provisions of Section 1 (or who completes his first year of continuous service during the vacation year) will receive such additional vacation (or his initial vacation), provided that an employee shall not be entitled to any such vacation in a vacation year unless he shall actually perform work as an active employee of the Company during such vacation year after having qualified for such vacation. EXCEPTION: Where a plant shutdown is scheduled for the last week of the year, employees who I would have qualified for vacation pawnent during th is shutdown will receive such payment if they return to work (or
+26
+report for physical examination and are approved for employment) the first scheduled workday following the shutdown or were at work the last scheduled workday immediately preceding die shutdown.
+■	4. Termiwdion of Employment
+An employee who quits, is discharged, dies or redres will promptly thereafter receive the full vacation allowance to which he may then be entitled. In the case of employees who die, vacation allowances will be u eated as wages owing the employee, and payment made accordingly.
+■	5. Use of Vacation Timefor Absences ofEmployees
+(a)	Leave of Absence
+An employee who is granted a leave of absence may have the first portion of such leave designated as tire period of any vacation to which he may then be entitled, if'the Manager shall approve.
+(b)	Extended Illness, Accident ar Layoff
+Subject to management approval, an employee who is absent because of illness or accident, or because he is laid off for lack of work, may elect (except in a plant or part thereof which is scheduled for an annual shutdown) to have the first portion of such absence designated as the period of any vacation to which he may then be entitled. The employee’s election to apply unused vacation to extend active service must be made within one week of the beginning of the applicable absence.
+(c)	Incidental Absences	'
+An employee whose absence is excused because of personal illness, personal business, holidays that are unpaid, temporary lack of work, or short work weeks (of 1/2 day or
+27
+longer) may (with the Manager's approval) utiliie extra vacation time to which he is entitled in excess of the scheduled Shutdown or in excess of two weeks in locations where there is no shutdown for such absences in the form of vacation days. This time may be paid ou t in units of no less titan 1/2 day periods.
+(d)	Other Absences
+An employee who is absent from work for any reason other than those reasons listed above will not be entitled either to have his vacation scheduled or to receive a vacation allowance during line period of such absence.
+(e)	Vacation Payment Guarantee
+An employee whose service is terminated or whose absence from work continues beyond the end of a vacation year and who did not receive in such vacation year the full vacation pay for which he had qualified, shall receive at the end of the vacation year or upon prior termination of service, a vacation allowance in lieu of any vacation to which he was still entitled.
+■ 6. Computation of Vacatitm Pay
+(a)	Basic Formulas
+Vacation pay for each -week of vacation to which an employee is entitled will be computed by multiplying the appropriate weekly hour-multiplier as determined by Subsection (b) below, by the appropriate rate-multiplier as determined by Subsection (c) below. (Vacation pay for any extra day or half day of vacation to which an employee maybe entitled will be determined by (i) dividing by five or ten respectively the weekly hour-multiplier determined for him under Subsection (b) below and (ii) multiplying
+28
+such daily equivalent by the appropriate rate-multiplier determined by Subsection (c) below.)
+(b)	Determination of Weekly Hmir-Muttiplier
+The weekly hour-multiplier for vacation pay computations for al) employees will be 40 hours except as noted in the following paragraphs of this Subsection (b).
+(i)	Short Schedules
+The weekly hour-multiplier of an employee whose regular weekly schedule at the time his vacation begins is less than 40 hours will be the greater of either (A) his scheduled hours per week at the time ' the vacation begins, or (B) his scheduled hours per week during the last fiscal week, as determined by die GE fiscal calendar, worked by him during the year preceding the vacation year, but in any event will not be greater than 40 hours.
+(ii)	Multiple-Shift Short Schedule
+Notwithstanding the provisions of (i) above, the weekly hour-multiplier for an employee who is on a multiple shift operation and whose regular weekly schedule of hours is not less than 37-1/2 hours shall be not les? than 40 hours.
+(iii)	Extended Schedules
+The weekly hour-multiplier of an employee who shall have worked an average of more titan 40 hours per week during the weeks paid in the calendar year which immediately precedes the vacation year will be determined in accordance with the following schedule:
+29
+Average Weekly Hours
+40 but less than 42
+42 but [ess than 42.5
+42.5 but less than 43.5
+43,5 but less than 44.5
+44.5 but less than 45.5
+45.5 but less than 46,5 46.5 but less than 47.5
+47.5 and higher
+IffeAZy Hour-Multiplier
+40
+42
+43
+44
+45
+46
+47
+48(maximum)
+NOTE: For {.he purpow$ol' iht foregoing scileduta, average •weekly hours will be computed by dividing the loud number of hours atuially worked by the employee during the weeks paid in said year by the number of weeks in sued year, except thflt the following listed types of time hxiifrt>m work will be coupled as unit worked:
+{A} Time spent on union activity;
+(B)	A listed or observed holiday;	*
+(C)	Jury duty .service;
+(D)	Military Service for which service credit* art granted under Article XXV;
+(E)	Annual shutdowns and vacation periods;
+(E)	Employees’ personal absence? furwhich pay is granted:
+((») Days paid lor deadi’in-fanuly absence;
+(J?) Time lost due to a coni|)ei viable accident or cortipcusyhlc illness,
+(iv) Qmlinumis Operation
+The weekly hour-multiplier of an employee who is, at the time of his vacation, regularly assigned to work on a continuous operation schedule will be the greater of either (a) the number of hours per week he would have been paid, up to a maximum of 48 hours, including premium hours for Saturday and/or Sunday, had he worked forty (40) hours on his established regular schedule including Saturday and/or Sunday, on the week or weeks scheduled for vacation or (b) the hours provided by tire application of Section 6(b) (iii) above.
+30
+(c)	Determination of Rate-Multiplier
+The rate-multiplier for various types of employees will be as follows:
+Rate-Multiplier The greater of:
+	Current Rate (including	End Rate (including
+	night-shift bonus fw	night-shift bonus for
+em-	employees who are vegu-	employees who are regu-
+ployee	lady scheduled on a	larly scheduled an a night
+	night shift}	
+	His average earnings	His average earnings (exclu-
+em-	(exclusive of overtime	sive of overtime premium)
+ployee	premium) obtained from	obtained front the last peri-
+on	the last periodic starts-	odic statistics applicable
+incentive	tics available at the time his vacation begins (except chat when an employee's job and rate arc changed within one month before his vacation period, the new rate of earnings will be Used in place of die last regular periodic statistics).	to time wor ked by him during* year preceding vacation year.
+/imtriy	Regular hourly daywork	Regular hourly daywork
+em-	rate in effect at the	rate in effect during the
+ptoyee	time his vacation	last hill calendar work
+an daywork	begins-	worked by him during year preceding vacation . year.
+Salaried	Hourly equivalent of	Hourly equivalent of
+ern-	employee's actual	employee's actual straight
+ployee	Straight time salary fate in effect at time vacation begins.	time salary rate for last week worked by him during year preceding vacation year.
+31
+(d)	Paymentsfor Incidental Absences
+The payments described in Section 5(c) will be paid on the same basis as outlined above.
+M 7. Scheduling of Vacations
+(a)	Scheduling
+In tile event of one or more shutdowns scheduled in any plant within the vacation year, one of such shutdowns will be of no less than two (2) weeks duration and during such Shutdown, the vacation for eligible employees shall be considered to run concurrently. Provided written notice is given to die Local union prior to April 1, this Shutdown may be split into two periods of not less than one (1) week duration, but in no case shall die combined split periods exceed three weeks. In such cases, local management and the Local may also agree on special rules dealing with vacation eligibility for the subsequent year where one of the mandatory Shutdown periods extends into the last calendar week of the year. Exceptions for certain departments or individuals by reason of th e requirements of th e business shall be at management's discretion. With respect to other scheduled shutdown periods, employees entitled to vacation time in excess of two (2) weeks may elect to take the time off without pay as though on temporary layoff for lack of work and take his remaining vacation time off at some earlier or later date including die week immediately preceding or following the Shutdown period. Vacations taken at times other than during shutdown periods will be scheduled to conform to the requirements of the business at the Manager’s discretion. For tiny part of a Shutdown period for which an employee is not eligible or does not become eligible for vacation pay’ during the vacation year, and during which he has no work available, he will be deemed to be on temporary layoff for lack of work.
+32
+i
+(b)	Ineligibililyfor Income Extension Aid
+In the event an employee elects to take time off without pay during a scheduled shutdown period, such employee shall not be eligible for Income Extension Aid for the scheduled shutdown period.
+(c)	Postponement or Division of Vacation
+It will not be permissible to postpone vacations from one year to another, or to omit vacations and draw vacation pay allowances in lieu thereof, except with the written approval of the Manager. No vacation shall be divided unless it is of two weeks or more duration, in which case it may, with the consent of the Manager, be divided.
+■	8. Time of Vacation Payment
+Except as otherwise provided in this Article, vacation allowances for full weeks shall be paid to an employee on or abott t the last day worked by him prior to the beginning of the vacation scheduled for him (except payments under 5(c)). An em ployee who takes his vacation prior to the date upon which he becomes eligible will receive payment (computed in accordance with Section 6 above) after he becomes eligible. Additional day or days for which an employee may qualify later in the year may be taken at the time of the regular vacation and payment for such ti me (computed in accordance with Section 6 above) will be made after the employee has qualified.
+■	9. Holiday in Vacation Period
+When the vacation period of any employee includes one of the holidays listed in Article IX, an additional day of vacation will be granted with pay, if the holiday occurs during the scheduled workweek of the employee. When the vacation period of a salaried employee includes an observed
+33
+holiday, an additional day of vacation will be grained with pay, if the holiday occurs during the scheduled workweek of the employee. In either case, die extra day must be taken immediately before or after as an extension of the vacation except when a holiday falls within a Shutdown period in conformance with Section 7 of this Article.
+B 10. Death in Family in Vacation Period
+When an employee on vacation experiences a death in family which would otherwise qualify the employee for leave under Article XXVI, the employee will be entided to substitute up to two (2) days of death in family leave for days of vacation. Those two (2) days may be subsequently taken aS vacation per management approval, or, in the alternative, may be used to extend the vacation period then in progress.
+ARTICLE IX
+Holidays
+M 1. Listed Holidays
+New Year’s Day
+Mas tin Luther King's
+Birthday
+Memorial Day Independence Day labor Day
+Election Day Than ksgiving Day The day before
+Christmas Day Christmas Day
+A tenth and eleventh paid holiday on a date to be determined locally.
+These holidays will be mutually selected by the local
+34
+union and local management prior to December 31 of the year preceding the year in which the holiday will occur. In the absence of mutual agreement by such December 31, the holidayswill be designated by local management.
+Local management and the local union at each plant may agree in writing to substitute a different holiday in place of any of the above-listed holidays for all purposes.
+■ 2. Hourly Rated Employees
+(a) An hourly rated employee not on continuous operations will be paid, for each of the above-listed holidays not worked, up to eight hours at his average straight-time hourly rate as taken from the last periodic statistics available at the time his holiday occurs (current rate for dayworkers), for a number of hours equal to his regular daily working schedule during such week, providi ng each of die following conditions are met:
+(1)	Such employee has been employed at least 30 dajs prior to any such holiday.
+(2)	Such employee works his last scheduled workday prior to and his next scheduled workday after such holiday within his scheduled workweeks. This condition shall not prevent payment of holiday pay to:
+(i)	An employee who has been absent from work because ofverified personal illness for not more than three months prior to the week in which the holiday occurs and who works or reports for the Company’s physical examination the next scheduled workday following die holiday; or
+(ii)	an employee who has been continuously absent from work for not more than two weeks prior to the week in which the holiday occurs and who
+35
+is not at wor k either or both such workdays due to approved absences for personal illness or emergency illness at home, death in his family, layoff or union activity; or
+(iii)	an employee who is not at work on either or both such workdays solely due to military encampment or jury duty; or
+(iv)	an employee who is absent from work on cither the last scheduled workday prior to double consecutive holidays (when such double consecutive holidays have been arranged under the provisions of Section 4 thereof) or his next scheduled workday after such double consecutive holidays (in such case, the employee will be entitled to holiday pay only for die first of such double consecutive holidays if he tvorks the last scheduled workday prior to that holiday, but not the next scheduled workday after the second holiday; and he will be entitled to holiday pay only for the second of such double consecutive holidays if he fails to wor k die last scheduled workday prior to the first of such double consecutive holidays but works the next scheduled workday after the second of such double consecutive holidays).
+(b)	Hourly rated employees on continuous operations will be paid for the above-listed holidays under the above conditions if the holiday falls within their scheduled workweek and they are not scheduled to work on the holiday. If such employee fails to work as scheduled, he will not be paid for the holiday. If, however, such failure to work on the holiday is due to verified personal illness, death in family, jury duty, or emergency illness at home, the employee will be paid for the holiday if he is otherwise eligible in accor
+36
+dance with all the provisions of Section 2(a) above.
+(c)	Hourly rated employees who are receiving the night shift differential pursuant to Article V, 6 shall have the same added to any holiday pay received by them under this article.
+■ 3. Any of the above-listed holidays falling on Sunday shall be treated for all purposes under this Agreemen t as falling on the following Monday and shall for such purposes be observed on that Monday only. In like manner, any of the above-listed holidays falling on Saturday shall Ire treated for all purposes under this Agreement (including the purposes of Section 2(c) of Article V) as felling on the preceding Friday and shall for such purposes be observed on that Friday only. However, local plant management and a local union may, by local agreement in wilting, substitute a day other than the preceding Friday for any such holiday which fails on Saturday.
+Foran employee on continuous operations, when a holiday falls on his scheduled day off, his next non-premi-um scheduled workdayshall be deemed to be his holiday. In no event will an employee receive the holiday pay or premium more than once for a holiday.
+ARTICLE X
+Transfers
+■ 1. Hourly and Salaried Employees
+(a)	In the case of employees who are laid off from their regular jobs for lack of w ork, every effort will be made to transfer them to related jobs having an equal rate or to available openings on jobs having a higher rate.
+(b)	Employees permanently transferred to lower rated
+37
+jobs will receive either one week’s advance notice of such transfer, or payment for the first week's work after the transfer at their rate immediately prior to transfer. For pieceworkers such payment shall be at the rate of their immediately preceding average straight time earnings.
+(c)	An employee who desires a transfer to another shift may so advise his Foreman in writing with a copy to the Personnel Department. As openings occur in his department on work for which he is presently qualified, consideration will be given his request along with others in accordance with his relative seniority. Such transfers, however, shall not take precedence over the normal upgrading of ' qualified longer service employees. Exceptions to the above may be made in certain special cases by mutual consent.
+■ 2. Hourly Unit'd Daywork Employees
+An hourly rated employee on daywork when permanently transferred
+(a)	To a higher rated dayworkjolt will be transferred at a rate commensurate with his qualifications to perform the job to which transferred, but not less than the rate he was paid on the job from which transferred.
+(b)	To an equal or lower rated daywork job will be transferred at die lower of the daywork rate he was paid on the job from which transferred or the job rate of the job to which transferred.
+(c)	To a piecework job will be paid for three weeks the lower of the daywork rate he was paid on thejob from which transferred or the AER of thejob to which transferred, except that he will be paid his piecework earnings on die newjob if they are higher.
+■ 3. Hourly Rated Piecework Employees	,
+38
+An hourly rated employee on piecework when permanently transferred
+(a)	To a higher rated daywork job will be transferred at a rate commensurate with his qualifications to perform the job to which transferred, but not less than his immediately preceding average earnings or two steps below the job rate of the job to which transferred, whichever is lower; however, an employee transferred to a related daywork job where the training time is incidental will receive the job rate of the newjob.
+(b)	To an equal or lower rated daywork job will be transferred at the job rate of the job to which transferred.
+(c)	To a piecework job will be paid for three weeks the lower of the AER of the job from which transferred or the AER of the job to which transferred, except that he will be paid his piecework earnings on the newjob if they are higher.
+■ 4. Sections (2) and (3) above notwithstanding, an employee who is transferred to a daywork job that he formerly held on a permanent basis will be transferred at not less than the step rate he was paid at the time he held such job.
+* 5. Salaried Employees
+A salaried employee when permanently transferred
+(a)	To a higher rated salariedjob will be transferred at a rate commensurate with that employee’s qualifications to perform the job to which transferred, but not less than the rate that employee was paid on the job from which transferred.
+(b)	To an equal or lower rated salariedjob will be paid the lower of die rate that employee was paid on the job from
+39
+which transferred or the job rate of the newjob.
+■ 6. Minimum Starting Rate
+In any case where die transfer rate as presided above is less than the minimum starting rate of the job to which transferred, die minimum starting rate will be paid.
+W 7. Progression toJob Rate
+If after transfer, an employee is on a progression schedule and receiving less than die job rate of the job to which transferred, he will progress to job rate in accordance widr the provisions of Article VI.
+ARTICLE XI
+Retraining and/or Reassignment
+■	I. Wien employees are faced with layoffs or contemplated layoffs caused by automation, mechanization or other reasons and in cases of contemplated plant expansions or changes in plant technology or otherwise, employees with two or more full years of continuous sendee may be retrained and/ or reassigned to acquire necessary skills for jobs requiring such skills.
+An employee may decline any such offer of a retraining and/or reassignment opportunity and may elect to exercise his regular transfer rights under die contract and local supplements and procedures. Either the employee or local management may discontinue the arrangement at any time. In the event of discontinuance, the employee shall have die light to exercise his regular transfer rights at that time in accordance with the terms of the National Agreement and the applicable local supplement.
+■	2. Notwithstanding any other provisions of this contract, the amount payable during each hour worked on such
+40
+retraining and/or reassignment for hourly employees on davwork and for salaried employees shall be no less titan 90 percen t of thejob rate of the job on wh ich he last worked in the workweek immediately prior to his starting on such training or reassignment.
+In case of an incentive employee the rate that he will receive during such retraining and/or reassignment shall be negotiated locally.
+■	3. In addition to die amounts payable hereunder, the Company will also furnish equipment, material and instructor personnel connected tri th any retraining opportunity offered under this Article.
+■	4. Such retraining and/or reassignment may be on one or more occasions, for maximum make-up period computed according to the following schedule:
+Fears ofService
+2- 5 years 6-10 years 11 -15 years 16-20 years 21 -25 years Over 25 years
+Make-up Period
+2 months
+4 months
+6 months
+8 months
+10 months
+12 months
+Any period so used may not be used again for such purposes.
+■ 5. Any question that may arise under the provisions of this Article or any local agreement entered into under it shall be handled in accordance with the established grievance procedure of the contract. Arbitration shall be by mutual agreement only.
+41
+■	6, Any Local desirous of having such a retraining and/or reassignment program shall negotiate with local management and by mutual agreement establish rules to govern such program including the criteria to be used by managemen tin its selection of employees and will be consistent with the provisions of this Article and the national contract In any location the retraining and reassignment program spelled out in this Article shall be inoperative and of no force or effect until such time assaid rules are agreed upon.
+■	7. The above provisions shall in no way deprive any employee of any rights that he has under this contract or any applicable local supplement. The absence of agreement in 6 above shall not in any way deprive the Company of any rights it may otherwise have. In addition, the existence of any agreement under 6 above shall not in any way deprive the Company of any rights it may otherwise have except as specifically provided therein.
+ARTICLE XII
+Reduction or Increase in Forces
+■ 1. (a) In all cases of layoff or transfer due to lack of work, total length of seniority shall be the major factor determining the employees to be laid off or transferred (exclusive of upgrading). However, ability will be given consideration.
+(b) Similarly, in all cases of rehiring after layoff, such total length of seniority shall be the major factor determining such rehiring if the employee is able to do the available work in a satisfactory manner after a minimum amount of training.
+(c)The provisions of Sections 1 (a) and 1 (b) of this Article shall apply to employees who have six months or more of service credits. Where employees have accumulated six
+42
+months or more of service credits, but have not established continuity of service, seniority shall, for purposes of this Article, be applied.
+■	2. Each Local shall negotiate with local management a written supplement to this Agreement setting forth the details of the layoff procedure for the employees represented by the Local. Each such supplement shall be subject to and shall be deemed to include all of the provisions of this Article and the provisions of Article XV.
+■	3. When a reduction of forces is to be made, advance notice will be given the Local, together with the reasons for the reduction and each Steward in affected sections will be given duplicate lists which will show length of continuous . service of all employees in the affected group.
+■	4. In reducing forces within a bargaining unit, every effort will be made to transfer employees from slack to busier divisions of the unit.
+■	5. An employee selected for dismissal or layoff will be advised personally of the reasons therefor and the employee may, if he desires, have a representative present at the time the reasons are given.
+■	6. An employee will be given at least one week’s notice and one week’s work at his prevailing schedule (or pay in lieu thereof) before layoffs are made due to decreasing forces.
+■	7. The above provisions do not apply to temporary layoffs.	.
+■	8, (a) Employees who have been transferred to jobs outside the bargaining units may be returned to their former jobs in the bargaining unit in accordance with their total length of continuous service.
+43
+(b)	Employees who, after September 30,1963, are transferred to jobs outside the bargaining units may be returned to their former jobs in the bargaining unit in accordance with their total length of continuous service at the time they left the unit plus the number of years outside the unit up to a maximum of five such years outside the unit.
+(c)	Employees who, afterJune 30,1985, tire transferred to exempt management jobs outside the bargaining units may be returned to their former classification in the bargaining unit in accordance with their total length of continuous service during the period up to twenty-four (24) months following the first such transfer to a job outside the unit.
+(d)	Employees who, after June 30,1991, are transferred tojobs outside the bargaining units may be returned to their former classification in the bargaining unit in accordance with their total length of continuous service during the period up to six (6) months following the first such transfer to a job outside die unit.
+(e)	In the event that an employee cannot be placed on his former job under the provisions of either 8 (a), 8 (b), 8 (c) or 8(d) above, he will be considered in accordance with the local layoff and recall procedure.
+• 9. An employee may retire at his or her option as provided in the Company Pension Plan,
+However, this Agreement shall continue to be applicable to retired employees who may be returned to active employment by the Company on a temporary’ basis.
+Any Local may process through the grievance procedure any request of an individual for an investigation or adjustment in benefits due him under his retired status.
+M10. An employee with continuity of service out due to ill
+44
+ness for a period not exceeding one (1) year, or in the case of a work-related injury or illness, not exceeding eighteen (18) months, who returns to work shall be reemployed on his former job proriding he is able to perform thejob and normal seniority provisions permit.
+ARTICLE XIII
+List of Hirings, Layoffs, and Transfers
+■ 1. Netv Employees - Reengaged Employees
+The Company will provide each Local, from information of record, with a monthly list of newly hired and reengaged employees; the information will consist of name, home address, seniority date, occupation, department, Foreman and checkoff status.
+M 2. Laid Off Employees
+The Company will provide each Local, on a monthly basis, with information on employees laid off for lack of work after notification has been given to the employees; the information will consist of the name, home address of record, continuous service date, occupation, department and Foreman. A list of employees on recall by work location shall also be provided quarterly (effective 1/1/01). The Foreman will give to the Steward information on extended layoffs whenever possible one week before the employee is laid off.
+K 3. Transfers .
+The Company will provide each Local with information on transfers which arc made through the Personnel Office.
+H 4. Master List of Employees
+Semiannually, the Company, from infonnation of record,
+45
+will provide the Local with a complete list of all employees then in the. bargaining unit and showing the name, home address, continuous service date, seniority date, occupation, department, job rate, paid rate/average earnings, clock card number and checkoff status of each employee on such list.
+article xiv.
+Local Understandings
+■	1. All present local understandings will remain in effect unless changed by mutual agreement or unless they deprive the employees of any benefits provided for by this Agreement. In every case where it is claimed that a local understanding deprives an employee or employees of any benefits provided for by this Agreement, the effective date of the settlement of such claim shall be tile date on which the claim was filed by the Local with local management or such other date as may be reached by mutual agreement. ■ 2. If requested by the Company, the Union, or the Local concerned, a new local understanding will be set forth in wtiting and signed by local management and the Local. .
+■	3. Any dispute involving a local understanding may Ire submitted to arbitration only if the parties mutually agree.
+ARTICLE XV
+Union and Local Representatives and Stewards
+■	Layoff Deferment
+(a)	An employee who is an official of any Local, and who has accumulated six months or more of sendee credits shall, on written request of die Local, be deferred from layoff (except temporary layoffs) so long as work for which he is qualified is available. If such work is available, such an
+46
+employee shall, to the extent necessary to defer him from layoff, be deemed to have sufficiently greater continuous service than other employees in the bargaining unit to entitle him to transfer to other work in the unit for which he is qualified. If the foregoing provisions do not enable a Local official to be deferred from layoff, such official may displace to a higher rated position previously held by such official. This provision shall apply to a minimuni of four and a maximum of twelve such officiate, dependent on the number of employees within such units as follows;
+Employees 500 or less 501-2000 2001-5000 Over 5000
+Union Officials
+4
+6
+8
+12
+(b)	An employee who is a Steward of such Local and who has accumulated six months or more of service credits shall, upon written request of the Local, and if a majority of the group of employees he represents assents as certified in writing by the Local, be deferred from layoff (except temporary layoffs) so long as work for which he is qualified is available among tire group of employees lie represents. If such work is available, such employee shall, to the extent necessary to defer him from layoff, be deemed to have sufficiently greater continuous service than other employees he represents so as to entitle him to transfer to other work for which he is qualified within his group. This provision shall, in general, apply to a maximum of one Steward for each Company Foreman.
+(c)	Paragraphs (a) and (b) hereof shall apply only to those officials whose names, titles and order of precedence, and to those Stewards whose names and sections, have been furnished in writing to the Company prior to the giving of notice oflayoffby the Company and shall not apply
+47
+to any such officials or Stewards who are on leave of absence pursuant to the provisions of Section 2 hereof.
+M 2. Leave of Absence
+(a)	Upon written request of the Union or any Local, employees who have at least one year of con tin uous service and who are acting as Business Agents, Assistant Business Agents, Local or Union Officers and National Office Representatives who represent the Union shall be granted up to one year s leave of absence by die Company, without forfeiture of prior accumulated continuous service.
+This provision shall apply to a maximum at any one time of four Union officials, and of three officials for each Local; and, if made at the end of such leave of absence, such leave of absence may be extended yearly for Union Officers or National Office Representatives, and for Business Agents, Assistant Business Agents or Local Officers.
+(b)	If mutually agreed to, other employees with at least one year of continuous service, who arc assigned by the Union or Local to other duties, will be given a leave of absence.
+(c)	Such employees will be reemployed at the going rate in available work of the same or a similar character as their work at the time of leaving, in the same or other divisions of the same plant, if qualified therefor, and if entitled thereto on die basis of their prior accumulated continuous service. In die case of employees who are acting as Business Agents, Assistant Business Agents, Local or Union Officers and National Office Representatives and who are granted a leave of absence after the effective date of this Agreement, such employees will Ik entitled (solely for determining dieir relative seniority for purposes of layoff and rehire under Article XII) to add to their prior accumulated continuous service die total period of any such leave of absence.
+48
+■ 3. Paymentfor Time m Local Unitm Activities
+(a)	Unless otherwise provided by local written agreement, employees not on leave of absence pursuant to the provisions of Section 2 hereof will be paid by the Company at the rate applicable had they worked for absences from work while engaged in the following activities on Company premises:
+(1)	During each fiscal month, the number of weeks in such General Electric fiscal month multiplied by 11 /2 hours per week for those Stewards whose names and sections have been furnished to the Company pursuant to the provisions of Section 1 (c) hereof, while engaged in processing grievances at Foreman level pursuant to the provisions of Article XVI, Section 1(a).
+Where any plant is regularly scheduled on a fortyeight hour per week basis, the above allowances will be based on 2 hours per week. Payment to Stewards will be made on a weekly basis within the above limits.
+Local management and the local union may negotiate a local agreement with respect to payment to local Stewards in excess of the limits provided in (a) (1) above.
+(2)	Up to a total of eight hours per week (exclusive of time payable under Section 1 hereof) for members of Local Executive Boards or for Negotiating Committee members while engaged in processing grievances with representatives of local management pursuant to the provisions of Article XVI, Section 1 (b) and 1(c), Such payment to Committee members or Executive Board representatives shall be limited at any one time to a maximum as follows:
+49
+Employees in Bargaining Units
+Committee Members w Executive Board Representatives
+300 or less
+4
+301-2000	6
+2001-5000	10
+Over 5000	12
+unless the number is increased by mutual agreement of the Local and local management
+In those plant locations where the number of employees in the bargaining unit is 5,000 employees or more or where more than one product department is located, local management and the local union may negotiate a local agreement with respect to payment to Local Executive Boards or Negotiating Committee members in excess of the limits protided in the paragraph above.
+(b)	Chief Stewards or Executive Board members in Works where they act as Chief Stewards, will be permitted to contact Stewards in their respective divisions when the. officers of the Local deem such contact necessary. They will advise their own Foremen before leaving their departments and also contact the Foreman in the department which they are visiting before they contact the Steward.
+(c)	Employees requesting payment pursuant to the provisions of paragraph (a) hereof, shall report all time spent on the handling of grievances to their respective foremen or other immediate supervisors.
+The Company shall report their names, rates of pay and time absent from work to their respective Locals, and shall in no event be required to make any payments pur
+50
+suant to paragraph (a) hereof, except to the extent that such reports are approved by such Locals, and such paragraph (a) is otherwise applicable,
+(d)	Whenever an OSHA inspection shall occur in a work area that includes employees represented by a Local Union listed in the Preamble, an employee designated by the Union who accompanies the OSHA inspector as the employees’ representative will be paid for time lost from work during such inspection.
+ARTICLE XVI
+Grievance Procedure
+■ 1. Any dispute or grievance shall be taken up in accordance with the procedure set forth below. However, either party may, at the appropriate step of the grievance procedure, introduce grievances of a general nature or general questions of interpretation or application of this Agreement. In such instances the grievance procedure shall be considered as fully exhausted after the reply to the grievance is given at Step Three.
+(a)	Step One
+(1)	Grievances will be presented to the Foreman by an employee and his Steward or by the Steward. However, a grievance affecting an employee individually may be taken up by the employee involved, if he so desires.
+(2)	The Foreman shall give his answer to the employee and his Steward jointly, within one working day after the presentation of the grievance or advise them that additional time is needed, in which event the Foreman shall give his answer within five working days after
+51
+the presentation of die grievance.
+(3)	If a settlement is not reached between the Steward and the Foreman, the Local may refer die grievance to two representatives of die Local for a discussion in die Department with representatives of Management far settlement if possible.
+(b)	Step Two
+(1)	If no satisfactory' settlement is reached at Step One, within two weeks after the Foreman’s answer is given, die matter may at the option of the Local be referred to representatives of the Local and local management
+<2) Representatives designated by the Local and local management shall meet within five working days after such referral to Step Two to discuss the matter.
+(3)	In those cases where it is muiuaUy agreed by Management and Local representatives ih.it an inspection of the job would be helpful in settling the case, a subcommittee of die Local with Management representatives shall be allowed to make an inspection of thejob. Local representatives may include the Business Agent or his
+. assistant or officers of die Local,
+A representative of local management at the level above the Foreman will meet with the Local representatives by mutual agreement on Step Two cases.
+(4)	The reply of local management will lie given to die Local within five working days after die first
+52
+meeting protided for in Step Two. This time may be extended by mutual agreement.
+(5)	If local management’s reply to a dispute or grievance at Step Two is unsatisfactory, the Local may choose to take the dispute or grievance to Step Three, in which case the Local will notify local management.
+(c)	Step Three
+(1)	If no satisfactory agreement is reached at Step Two, the dispute or grievance may be referred to Step Three, the final step of the grievance procedure, for the consideration of designated representatives of the Union and the Gimpany.
+(2)	The Union will submit such cases to the Company not less than one week before the meeting takes place between the representatives of the Union and the Company and not more than three months after the completion of discussions and the final decision of local management at Step Two.
+(3)	Regular monthly meetings will be held between the Union and the Company to dispose of cases submitted by the Union. An emergency meeting on a given grievance will be held within three days after notice by the Union.
+(4)	The Company will give its final reply to the Union in not more than five days after die initial discussion at Step Three, In emergency meetings, the reply will be given at the close of the meeting. These times may be extended by mutual agreement.
+53
+(5)	When a Local refers a dispute or grievance to Step Three, and die Company replies to this dispute or grievance at diis Step, die grievance procedure shall he considered fully exhausted. Within sixty days after the date of such reply, the Union may submit such dispute or grievance to arbitration in accordance with die provisions of Article XVII.
+fl 2. Written Replies
+On request, a written reply shall be given to a grievance subrni tted in writing at any step of the grievance procedure.
+fl 3. Procedure for Disciplinary Cases
+(a)	Before any penalty is imposed upon any employee following Warning Notices, except for discharge for obvious cause, such employee shall be notified one week in advance during which time he may refer the matter to die Local representative and, if the Local so desires, the matter may be negotiated with the Management. If no satisfactory agreement is worked outduring die period of such notice, the Management shall retain the right to impose such penalty pending final setdement of the case.
+(b)	In the event it is determined that an employee has been improperly penalized, he trill be reimbursed for any loss of wages sustained as a result of the imposition of the penalty.
+■ 4. A grievance filed on behalf of a candidate for Preferential Placement under Article XXIII which arises solely due to the failure of Company management at a designated location to select such candidate may be filed at Step Three. The Company shall give its final decision to the Union in writing after discussions and an opportunity to investigate the facts.	.
+54
+ARTICLE XVII
+Arbitration
+■	1. Any grievance which remains unsettled after having been fully processed pursuant to the provisions of Article XVI , and which involves a disciplinary penalty' (including discharge.) imposed on or after the effective date of this Agreement, which is alleged to have been imposed without just cause, shall be submitted to arbitration upon written requescof either the Union or the Company, provided that such request is made within 60 days after the final decision of the Company has been given to the Union pursuant to Article XVI, Section 1(c) (5). The Union may withdraw from arbitration any grievance itsubmits if within ten days from the date the Company advises the Union in writing that the grievance so submitted does not, in the opinion of the Company, raise an arbitrable issue, the Union notifies the Company in writing that it withdraws the grievance from arbitration. A failure on the part of the Union to withdraw a grievance during said 10 day period shall preclude withdrawal at a later date and thereafter all questions concerning arbitrability shall be determined in accordance with the procedures setforth in Section 2(b) of this Article. For the purpose of these proceedings, the standard to be applied by an arbitrator to cases involving disciplinary penalties (including discharge) is that such penalties shall be imposed only for just cause.
+■	2. (a) Within 10 days following a written request for arbitration of a grievance, the Company or the Union may request the American Arbitration Association to submit a Panel of names front which an arbitrator may be chosen. In die selection of an arbitrator and the conduct of any arbitration, the Voluntary Labor Arbitration Rules of the American Arbitration Association shall control, except that
+55
+(i)	Notwithstanding any provision of such Rules, the Association shall have no authority to appoint an arbitrator in any matter who has not been approved by both parties until and unless the parties have had submitted to them at least three Panels of arbitrators and have been unable to select a mutually satisfactory arbitrator therefrom; and
+(ii)	either party' may, if it desires, be represented by Counsel.
+{b) It is further expressly understood and agreed that the American Arbitration Association shall have no authority to process a request for arbitration or appoint an arbitrator if either party shall advise the Association that the grievance desired to be arbitrated does not, in its opinion, raise an arbitrable issue. In such event, the Association shall have authority to process the request for arbitration and appoint an arbitrator in accordance with its rules only after a final judgment of a Court has determined that the grievance upon which arbitration has been requested raises arbitrable issues and has directed arbitration of such issues. The foregoing part of this Subsection (b) shall not be applicable if the request for arbitration involves only relief from a disciplinary penalty or discharge alleged to have been imposed without just cause.
+■ 3. Any arbitration case between the Company and die Union which is limited to a disciplinary penalty other than discharge is covered by die supplemental arbitration procedure set forth below:
+(a) The following rules shall apply in cases covered by tliis section:
+(i) The only issue before the arbitrator shall be whedier the discipline was imposed for just cause.
+56
+(it) There shall be no transcript of the hearing.
+(iii)	There shall be no post-hearing briefs or other written arguments by the parties.
+(iv)	If either part)1 (ii) so requests, there shall be a thirty (30) minute recess before any closing oral argument by the parties.
+(v)	The arbitrator shall render an Award without an Opinion no more than twenty-four (24) hours after the closing of the oral hearing.
+(b)	The compensation for an arbitrator for hearing a case under this procedure shall be a fee of $1,000.00 for each case. The arbitrator shall also be entitled to travel expenses in accordance with the regular procedures of the American Arbitration Association.
+(c)	A special panel of arbitrators shall be established to hear cases under this procedure by mutual agreement of the parties.
+(d)	Whenever a request for arbitration meets the criteria set forth above, the Association shall designate an arbitrator from die special panel of arbitrators, as provided for herein, to hear the case instead of a Panel Arbitrator, as provided for in Section 2 (a) of this Article, as f ollows:
+(i) Assignments will be made by the American Arbitration Association based on the arbitrators’ geographical proximity, die availability of the arbitrators, and the number of cases assigned particular arbitrators at given locations. No arbitrator will be assigned to more than 25% of the cases at a given location under this procedure without the mutual consent of the parties.
+(ii) A date for a hearing shall be scheduled within sixty
+57
+(60)	days of the appointment of the arbitrator.
+(e)	In the event that a party initiating a request to cancel or postpone a hearing fails to provide sufficient notice to avoid incurring a cancellation fee, and no good cause can be shown for the untimely cancellation, such party shall be responsible for payment of the applicable fee:
+1-2 weeks prior to hearing date
+50% per diem rate
+less than 1 week prior to hearing date 100% per diem rale
+■ 4. (a) Either party may, during the arbitration hearing, request that the arbitrator decide the matter without an opinion, in which event the arbitrator must simply determine and announce an award without stating any grounds or reasons for his decision. The award issued by an arbitrator shall be final and binding on the parties, but, to the extent that tire arbitrator’s opinion in support of his award, interprets or applies any provision of this Agreement, such opinion shall not be considered binding upon the patties, and shall not constitute a precedentfbr the purpose of interpreting or applying that provision of the Agreement in the future. No arbitrator shall have any authority to add to, detract from, or in any way alter the provisions of this Agreement.
+(b)	It is specifically agreed that no arbitrator shall have the authority to establish or modify any wage, salary' or incentive rate, or job classification, or authority to decide the appropriate classification of any employee.
+(c)	In addition, notwithstanding any contrary provision of this Article, (i) no provision of this Agreement or other agreements between the parties shall be subject to arbitration pertaining in anyway to the establishment, admin
+58
+istration, interpretation or application of Insurance or Pension Plans in which employees covered by this Agreement are eligible to participate; and (ii) no arbitrator shall have the authority to review, revoke, modify, or enter any award with respect to, any discipline or discharge imposed on employees having less than six months of service credits; and provided that nothing in this subsection shall limit the authority of an arbitrator with respect to disciplinary penalties or discharges imposed in violation of Section 1 of Article IV.
+(d)	The submission to arbitration of any grievance other than that specifically mentioned in Section 1 above shall be only by mutual consent and joint stipulation of the issue to be arbitrated.
+ARTICLE XVIII
+Strikes and Lockouts
+■ 1. The Union or Local or their representativeswill not cause or sanction their members to cause or take part in any strike, sitdown, stay-in, or slowdown or other stoppage of work, in any of die Works of die Company comi ng within the terms of this Agreement:
+(a)	In connection with any grievance or dispute until all the bargaining steps set forth in the Grievance Procedure, Article XVI, shall have been exhausted and the grievance or dispute has not been submitted to arbitration or, if submitted to arbitration, has been withdrawn from arbitration in the manner and within the time limits provided in Article XVII.
+In the event the Union should exercise its right to strike in accordance with the provisions set forth herein, the Company will receive written or telegraphic notice from
+59
+r
+i
+the Local of such strike not less than twenty-four (24) hours prior to the commencement of such strike, and the notice trill specify the exhausted grievance over which the strike is being called. Upon receipt by die Company of such strike notice, the Company and the Union will meet immediately to discuss die dispute and the contemplated action so that management may assess die situation. Notwithstanding the foregoing the l ocal shall not have a right to strike if twelve (12) months shall have elapsed after the receipt by the Union of the Company's final answer on a cited grievance at Step 3 of the Grievance Procedure.
+(b)	In connection with any request for modification oraddi-tions to this Agreement, or in connection with general economic issues including a request for general revision of rvages, except in accordance with die provisions of Article XXXII.
+* 2. Tile Company trill not lock out any employee or transfer anyjob under dispute from the local Works nor will die local management take similar action while a disputed job is under discussion at any of the steps of the grievance procedure set forth in Article XVI, or if tire parties agree to arbitrate die matter.
+ARTICLE XIX
+Financial Support
+Tlie Company shall not give financial aid to or otherwise support any labor organization. This, however, shall not prevent both parties to this contract from cooperating and exchanging such information essential for the furtherance of agreeable relations.
+60
+ARTICLE XX
+Posting
+The Company will make bulletin boards available for the use of the Locals for the posting of notices. All notices shall be subject to the Manager’s approval and he will also arrange for posting.
+ARTICLE XXI
+Traveling Time and Expenses-
+■ I. Hourly rated and salaried employees on non-exempt jobs traveling at the request of the Company will receive:
+(a)	Payment, at the rates applicable had they worked, for the time spent in such travel, except that employees whose assignment requires one or more overnight stays shall be paid an additional hour’s pay. Notwithstanding the above, no payment shall be made for traveling time between the hours of 6:00 PM and 6:00 AM, unless such hours are within the employee’s regular work schedule or for travel time in excess of eight hours in any one day.
+(b)	Where travel is by automobile not owned by the Company, such transportation expense shall be at rates equal to those periodically published by the Internal Revenue Service.
+■	2. The employees will be allowed reasonable expenses for transportation, mealsand hotels. These expenses shall be itemized, and submitted to Management for approval.
+61
+ARTICLE XXU
+Notification and Publicity
+■	I. The Company agrees to inform the Local and the National Officers of any matter not covered by this Agreement affecting employees generally, concerning which the Union or the Local is the certified collective bargaining representative, as soon as the Foremen are notified.
+■	2. On matters which are being negotiated between the Company and the Union or the Local, the Company will first give its position to the Union or the respective Local.
+ARTICLE XXffi
+Job and income Security
+M 1. Definitions
+(a)	The terms "plant closing” and “to close a plant” mean the announcement and carrying out of a plan to terminate and discontinue either all Company operations at any plant, service shop or other facility7 or those Company operations which would result in the termination of all employees represented by the Union at that location when those employees do not have displacement lights.
+Such terms do not refer to the termination and discontinuance of only part of the Company’s operations at any plant, service shop or other facility (except as specifically provided in the paragraph above) nor to the termination or discontinuance of all of its former operations coupled with tile announced intention to commence there either laiger or smaller other operations. Any employees released by such latter changes will be considered as out for lack of
+62
+work and will be subject to provisions applicable to those on layoff.
+Also, such terms do not refer to the transfer or sale of such operations to a successor employer who offers continued employment to Company employees. Company employees who are not offered continued employment by the Company or by the successor employer will be considered as out for lack of work and will be subject to provisions applicable to those on layoff.
+(b)	The term “plant closing date” means the day when benefits for and terminations of represented employees begin because of a plant closing.
+(c)	The terms “transfer of work," “to transfer work," and “work transfer" mean the discontinuance of ongoing work at one location coupled with the assignment of the same work to a different location, including subcontracting the same work to another employer, if such assignment of work would direcdy cause a decrease in the number of represented employees performing such work at the first location.
+(d)	The term “robot” means a programmable, multifunction manipulator designed to move materials, parts, tools or specialized devices through variable programmed motions for the performance of a variety of tasks.
+(c)	The term “automated manufacturing machine” means a device for doing work which has programmable controllers (PC), numerical controls (NC), computer numerical controls (CNC) or direct numerical controls (DNC). ■
+(f)	The term “automated office machine” means a device for doing office work which is computer-based and which includes word processing, data processing, image
+63
+processing, electronic mail or business and engineering graphics devices.
+(g)	The term “week's pay" as used in this Article XXIII, for a salaried employee shall be die higher of (a) the employee’s normal straight-time weekly salary (including any night shift bonus) for die last full week worked by him or (b) the employee’s normal straight-time weekly salary (including any nightshift bonus) in effect during the last hill calendar week worked by him during die calendar year preceding die year in which his current layoff began. A “week’s pay” for an hourly employee on daywork shall be calculated by multiplying the higher of (a) his straight-time hourly rate (including any night shift bonus) which he was paid during die last week worked by him or (b) his straight-time hourly rate (including any nightshift bonus) which he was paid during the last full calendar week worked by him during the calendar year preceding die year in which his current layoff began, times die number of hours in tile employee’s normal workweek, up to 40 hours. A “week’s pay" for an hourly employee on incentive shall be calculated by multiplying the higher of (a) his average straight-time earning rate (including any night shift bonus) obtained from die last available periodic statistics applicable to time worked by him dining his last week worked or (b) his average straight-time earning rate (including any night shift bonus) obtained from the last available periodic statistics applicable to time worked by him during the calendar year preceding the year in which his current layoff began, times die number of hours in the employee’s normal workweek, up to 40 hours.
+(h)	The term “Special Early Retirement Option Offset" includes the present value of the difference between the pension benefits die employee would be eligible to receive absent exercise of the Special Early Retirement Option or the Plant Closing Pension Option, and the benefits to be
+64
+received under the Special Early Retirement Option or the Plant Closing Pension Option, including the present value of any Pension Plan Supplements payable as a result of a permanent job loss event as defined in the GE Pension Plan. This difference shall be measured from the date of termination for retirement to the date the individual would be otherwise able to receive an unreduced pension. For the purpose of determining present value, the interest rate discount assumption used will be whichever of the following two interest rates applicable to the first day of the calendar year in which the participant retires produces the smaller offset: (1) the lump sum interest rate for private sector payments as may be published by the PBGC, or (2) the “Applicable Interest Rate” under the GE Pension Plan (currently the 30-year treasury rate).
+This Special Early Retirement Option Offset shall also include an amount attributable to health benefits payable as a result of a permanent job loss event as defined in the GE Pension Plan. As of January 1, 2003 amount will be calculated by multiplying $5,189 times the number of whole years between the date of termination for retirement and the date when first eligible for Medicare. The resulting number shall be reduced by a factor equivalent to the percent of employee contributions toward the average value of health coverage at the time of the Special Early Retirement Option or Plant Closing Pension Option election. The $5,189 figure shall be adjusted annually based on annual increases in the medical component of the Consumer Price Index for allurban consumers. The annual adjustment will be made at the end of the calendar year based on the year over year increases of the October index figures.
+■ 2. Closing
+(a) General
+65
+(1)	Whenever the Company decides to close a plant, the Company shall give notice of its decision to the Union, the Local or Locals involved and the employ ees concerned. Thereafter, as the Company, in the course of such plant closing, no longer has need for the work then being done by an employee, his employment by the Company may be terminated, subject to compliance with the provisions of this Section 2.
+(2)	Each employee shall be given at least one week's advance notice of the specific date of his termination.
+(b)	Severance Pay
+(I)	An eligible employee whose employment is terminated because of plant closing shall be entitled to Severance Pay in a lump sum, for which he is eligible as described below and the full vacation allowance for which he might have qualified for the calendar year in which his employment is terminated and any other accumulated allowances due him, provided that after die announcement of intent to close a plant he:
+(i)	continues regularly at work at the closing location until the specific date of his termination, or
+(ii)	fails to continue regularly at work until the specific date of his termination due to verified personal illness, leave of absence, or layoff.
+(2)	An eligible employee will be similarly eligible for Severance Pay and his full vacation allowance if he was laid off or was placed on an approved illness or injury' absence prior to the Company’s' announcement of intent to close a plant and con
+66
+tinues on layoff, with protected sendee, or on illness or injury absence with protected service until the location's plant closing date.
+(3)	Also eligible for Severance Pay under this Section 2 (b) are former employees of a closed location who in the period from 18 months to 12 months prior to the location’s plant closing date were laid off and who broke service prior to such date. Except as provided in this paragraph, such former employees are ineligible for any other benefits payable to active employees affected by a plant closing. The paymen t of Severance Pay as described herein shall not serve to restore service or otherwise affect the benefit status of such former employees.
+(4)	Such employee may request that his date of termination be advanced so that he can accept other employment and the local management will give due regard to this request.
+(5)	Notwithstanding the provisions of this Section 2, an employee who is affected by plant closing may elect, prior to the specific date of his termination for plant closing, to be placed on lack of work status. In such event, the employee will be paid benefits under Section 4 below, in lieu of any and all of the benefits set forth in this Section 2.
+(6)	Computation of Severance Pay
+(i)	An employee with one or more but less than fifteen years of continuous service will, in accordance with lite provisions set forth above, be eligible for Severance Pay computed on the basis of one and 1/2 weeks’ pay for each of the employee’s full years of continuous service plus 3/8 of a week’s pay for each additional 3 months
+67
+of continuous service at the time of termination; provided that the amount of the Severance Pay benefit as computed under this paragraph shall be subject to a minimum benefit equal to 4 weeks’ pay.
+(ii)	An employee with fifteen or more yeats of continuous service will, in accordance with the provisions set forth above, be eligible for Severance Pay computed on the basis of two weeks' pay for each of the employee 's full years of continuous service plus 1 /2 of a week’s pay for each additional 3 months of continuous service at the time of termination.
+(7)	Dejerral Election
+An employee who elects to receive Severance Pay in a lump sum may elect to defer payment of half or all of the lump sum until the first month of the year following his termination because of a plant closing. Once made, such election will be irrevocable. Payment shall be made to the estate of any employee electing to defer payment under this Section 2(b) ( 7 ) if such employee dies before payment htts been made.
+(c)	Employment Assistance Program
+To assist employees terminated because of a plant closing to find new jobs and to learn new skills, local management will establish an Employment Assistance Program following announcement of a decision to close a plant. The Employment Assistance Program will include job placement assistance and education and retraining assistance.
+(1)	Job Placement Assistance
+68
+(i)	Job Placement Assistance will include job counselling as well asjob infonnation services. Examples of such services are counselling in job search and interviewing techniques, identification and assessment of skills, and employment application and resume preparation as well as providing employees information on placement opportunities.
+(ii)	Local Union involvement will be encouraged in these activities and local management may also use the expertise and resources of public and private agencies in providing these services.
+(iii)	Two (2) employee representatives designated by the Local (one such representative in a plant of less than 300 represented employees) will each be paid by the Company at their respective rate then prevailing, for approved absences from work up to a total of eight (8) hours per week to work with local management in the establishment and operation of the Employment Assistance Program.
+(2)	Education, and Retraining Assistance
+(i)	An employee with one or more years of continuous service who is terminated as a result of a plant closing will be eligible to receive Education and Retraining Assistance for courses approved by the Company which contribute to or enhance the employee’s ability to obtain other employment provided that the employee begins the approved course within one year following termination. Approved courses will normally be given at schools which are accredited by recognized regional or state accrediting agencies and may include:
+69
+•	Occupational or vocational skill development;
+•	Fundamental reading or numerical skill improvement;
+•	High school diploma or equivalency achieve ment; and
+•	College level career oriented courses.
+(ii)	An employee will be reimbursed up to a maximum of ten thousand dollars ($10,000) for audiorized expenses which are incurred within three years following termination provided a passing grade is received in the course. Authorized expenses include verified tuition, registration and other compulsory fees, costs of necessary books, and other required supplies. However, if tuition or other authorized expenses are covered by government benefits, other employers, or scholarships, the Company reimbursement will not apply to that portion covered by such other plan.
+(iii)	An employee who elects to receive benefits under the Income Extension Aid layoff option in lieu of benefits under die Plant Closing section of this Article will not be eligible for Education and Retraining Assistance.
+(d) Optimal Oiiril Plant Closing Tennination Agreement
+Because the circumstances in a plant closing will vary in terms of employment, location and timing, aswell as odier local considerations, the Local Union and local management may negotiate a Special Local Agreement covering the plant closing tennination procedure for employees represented by the Local. Any such agreement shall be in writing and approved by the Company and die Union at die
+70
+National level,
+■ ?>. Retraining and Readjustment Assistance
+(a)	Rate Guarantee
+An hourly rated or nonexempt salaried employee whose job is directly eliminated by a transfer of work, the discontinuance of a discrete, unreplaced product line, the introduction of a robot, or the introduction of an automated manufacturing or office machine shall be paid on any job to which transferred or recaiicd in du, plant at a rate not less than the regular hourly daywork rate (average earnings exclusive of overtime premium in the case of incentive workers and actual straight-time salary rate in the case of nonexempt salaried employees) of the job eliminated for up to seventy-eight (78) weeks immediately following the original transfer or layoff. In the event that an hourly rated or nonexempt salaried employee is displaced due to a reduction in force within six months of the Company’s decision to subcontract work that would otherwise have been performed by the employee had it not been subcontracted, and where such decision did not reduce the number of represented employees performing ongoing work at that time, such subsequently displaced employee shall be eligible for rate guarantee under this Section 3(a), effective at the time of die displacement	.
+(b)	Special Retirement Bonus
+(1)	Election
+An hourly rated or nonexempt salaried employee who is age sixty (60) or older with fifteen (15) or more years of continuous service and is assigned to a job classification which the Company has announced is expected to be directly adversely affected by a transfer of work,
+71
+the discontinuance of a discrete, unrcplaced product line, the introduction of a robot, or the introduction of an automated manufacturing or office machine may elect to be considered for termination with a Special Retirement Bonus, This election shall be made within fifteen (15) days following the Company announcement of its decision involving the transfer of work, the discontinuance of a discrete, unrcplaced product line, introduction of a robot, or introduction of an automated manufacturing or office machine which is expected to result in die elimination of certain jobs.
+(2)	Procedure.
+Eligible employees electing this option will be designated by their seniority for a Special Retirement Bonus, A termination under this option will be effective and the Special Retirement Bonus will be paid when a job in die particular job classification to which the eligible employee is assigned is directly eliminated by die previously announced transfer of work, the discontinuance of a discrete, unreplaced product line, introduction of a robot, or introduction of an automated manufacturing or office machine which directly results in a net reduction in the total number of employees working itt that same job classification.
+(3)	Special Payment
+Tilts Special Retirement Bonus shall be $14,000.
+(4)	Indirect Bonus Eligibility
+In the event the number of eligible employees
+72
+electing this option is less titan the number of employees directly adversely affected by the Company’s announced action, opportunities to elect Special Voluntary Layoff Bonus under Section 4(c) shall arise, up to the number of positions directly adversely affected by the transfer of work, the discontinuance of a discrete, unreplaced product line, or the introduction of an automated manufacturing or office —	machine. To be eligible an employee must be
+in a classification tiilifiTrefiuced'due to displacement as a result of an announced Company action described above, and otherwise meets the criteria established in Section 4(c). Such displacement is hereby deemed to be a reduction of force of indefinite duration.
+(c)	Special Placement Procedure
+(1)	Election
+An hourly rated or non-exempt salaried employee whose job is directly eliminated by a transfer of work, the discontinuance of a discrete, unreplaced product line, the introduction of a robot, or the introduction of an automated manufacturing machine or office machine may request a Special Placement from die eliminated job in lieu of placement, displacement or layoff under the regular local layoff and rehiring procedure. The Special Placement request must be made within two (2) working days following notification to the employee of tire regular placement, displacement or layoff.
+(2)	Placement
+(i)	If a timely request is made, an eligible
+73
+employee shall be placed, or displace with seniority, on an available equal or lower rated job classification if die employee has the necessary minimum qualifications for the job; provided the Special Placement would be on a higher rated job than that provided by die regular placement.
+(ii)	If an eligible hourly rated employee who has made a timely request is unable to be placed under Section 3 (c) (2) (i) above, such employee shall be placed or displaced widi seniority, on an equal or lower rated , job up to the top of the one month progression schedule without regard to the regular minimum qualifications for the job; provided the Special Placement would be on a higher rated job than that provided by die regular placement.
+(iii)	An employee placed under this Section 3 (c) is required to achieve normal performance within the time period of the regular progression schedule.
+(d)	Optional IMal Retraining and Placement Agreement	■
+Whenever die Company announces a transfer of work, the discontinuance of a discrete, tmreplaced product line, the introduction of a robot or the introduction of an automated manufacturing or office machine, the Local Union and local management may negotiate a Local Retraining and Placement Agreement.
+(e)	Preferential Placement
+(1)	Eligibility
+74
+An hourly rated or nonexempt salaried emplovee eligible for: (i) Severance Pay under Section 2 or (ii) Income Extension Aid (“IEA”) resuiting from being displaced and subject to layoff in the immediate chain of displacement resulting when a job is directly eliminated by a transfer of work, the discontinuation of a discrete, tin replaced product line, the introduction of a robot, or the introduction of an automated manufacturing or office machine may elect, prior to the employee’s termination for plant closing or layoff, and up to thirty (30) days thereafter (except where the laid off employee has elected to receive his IEA in lump sum), to be placed in a Preferential Placement status.
+(2)	Election Procedure
+To elect Preferential Placement the employee shall designate up to five (5) domestic General Electric Company manufacturing plant, service shop or distribution center locations on forms provided exclusively by the Company. Effective January 1,2004, the term “locations” used in the prior sentence shall be construed for the sole purpose of this paragraph to include like locations maintained by GE affiliates participating in the GE Job and Income Security Plan for Hourly Employees and the GE Job and Income Security Plan for Nonexempt Employees. The election of Preferential Placement status will be effective for three years. This election will not affect an individual’s continuity of service. Individuals who have made this election will be placed in Preferential Placement status either: (i) on their designated termination date for plant closing, or (it) on their layoff date. Individuals otherwise eligible for Preferential Placement may request, fol-
+75
+lowing the conclusion of decision bargaining, that their plant closing or layoff date be advanced in order to assume Preferential Placement and accept placement prior to their anticipated plant closing or layoff date. Local management shall give due regard to such request. Up to three location substitutions to those designated will be permitted during the three year eligibility period. Locations which are opened or closed during this eligibility period may be added or eliminated from the designated locations and shall not be considered one of the three substitutions, provided however that no more than three locations may be designated at any one ■ time. All such substitutions shall be made on forms
+provided by the Company.
+(3)	Placement Standard
+Individuals in Preferential Placement status will be given preference, to die extent practical, over new hires for job openings at the locations designated by them in order of their length of continuity of service when they possess the necessaryjob qualifications established by the hiring location. The term “necexsaryjob qualifications" shall be applied based on the upgrade standard for jobs above entry level. For entry level jobs in the One Month Progression Schedule the term “necessary job qualifications" shall !>e die standard a current employee at the location must meet to be placed in die entry level job.
+Notwithstanding the preceding paragraph,. Preferential Placement candidates applying for entry level positions in the One Month Progression Schedule with 2a years or more of continuous service shall be provisionally placed in such positions for up to three months. Such candidate must either
+76
+demonstrate satisfactory progress in performing the entry level duties or perform such duties at a fully satisfactory level by the end of this provisional placement period. Failure to so demonstrate or perform will result in the candidate’s removal from provisional placement. The candidate will then continue in Preferential Placement status as if such provisional placement had not occurred. The administrative removal of provisionally placed Preferential Placement candidates shall not be subject to arbitration.
+(4)	Benefits While in Preferential Placement Status
+While in Preferential Placement status, an eligible employee will be paid IEA or lEA-type layoff benefits under the procedures set forth in Section 4(b) (1) (i) of this Article up to the amount, as applicable, of either: (i) the employee's eligibility for Severance Pay under Section 2 (b) (6) of this Article or, (ii) the employee's eligibility for IEA under Section 4 (a)(1) of this Article. For those employees affected by a Plant Closing, if at the end of the thirty' (30) day period the employee does not elect to participate in Preferential Placement, the amount of Severance Pay available under Section 2, less any amount paid in lEA-type benefits, will be paid in lump sum and the employee will terminate service. Such payments shall be in lieu of any and all other benefits set forth in the applicable Section 2 or Section 3 of this Article; provided, however, that an eligible employee affected by a plant closing may receive reimbursement for authorized expenses incurred pursuant to Section 2 (c) (2) respecting courses registered for within one year, and completed within three years, of the employee’s sched
+77
+uled plant closing date, and an eligible employee electing Preferential Placement from layoff status is eligible to participate in the Individual Development Program.
+(5)	Seniority
+Individuals placed or re-employed under this Section 3 (e) will have seniority for the purpose of subsequent layoff, recall, upgrading and other seniority purposes at their new location based upon the established seniority procedures and practices at their new location. Once placed through Preferential Placement, an employee will not be eligible for recall to his former location except in the event he is laid off or terminated by a plant closing at his new location. If laid off, or terminated due to plant closing, at the location at which he was placed, recall rights will be reinstated for the remainder of the original recall period.
+(6)	Relocation Assistance
+If an individutd who elected Preferential Placement is placed or re-employed under this Section 3 (e) within three (3) years from, as applicable, that individual’s designated date of termination for plant closing or layoff date, that employee shall be eligible for reimbursement for substantiated reasonable and necessary relocation expenses to the new location up to a maximum of $3,000 for individual employees without dependents or $6,000 for employees with dependents living in the employee’s home (as verified by federal income tax returns). An eligible individual who has elected Preferential Placement is eligible for reimbursement of documented expenses up to $175 per visit incurred for
+78
+1
+the purpose of attending approved selection procedures established by the designated locations.
+(7)	Residual Benefits
+If an employee who elected Preferential Placement is not placed or re-employed by the Company within one year from that individual’s designated date of, as applicable, (i) termination for plant closing or (ii) layoff, that individual will, as appropriate, be deemed either: to have been terminated as of that individual’s respective date of termination for plant closing and paid the Severance Pay the individual would have received under Section 2 (b) (6) if the Preferential Placement status had not been elected, less any lEA-type benefits paid under paragraph 4 of this Section 3 (e), or break service and be paid any remaining IEA under Section 4 (a) (1), less any IEA benefits paid under paragraph 4 of this Section 3 (e). If placed or re-employed from Preferential Placement status, weekly lEA-type or weekly IEA layoff benefits need not be repaid in order to restore eligibility for future layoff benefits based on prior service.
+(8)	Termination of Preferential Placement Rights at a Selected Location
+An individual on Preferential Placement shall administratively forfeit placement opportunities at a selected location for repeated failure to make good faith efforts to respond to opportunities for placement consideration. Examples of such failure include:
+-	Rejecting an interview or offer of employment
+-	Failing to respond to a scheduled selection procedure without adequate notice
+79
+(9)	Tennination of Preferential Placement Status
+Preferential Placement status will terminate upon the earlier of any of the following occurrences:
+(i)	recall at the work location that gave rise to the preferential placement status prior to placement,
+(ii)	placement al a designated preferential placement location,
+(iii)	acceptance of ajob offer and failure to report as scheduled without satisfactory explanation,
+(iv)	refusal of three preferential placement job offers,
+(v)	the lapsing of three years since the election of this status.
+Individuals placed under this Section 3(e) and diere-after laid off within eighteen months may, notwi th-standing normal eligibility' requirements, elect Preferential Placement.
+■ 4. income Extension Aid
+(a)	Computation of Income Extension Aid
+(1)	An employee with one or more years of continuous service will, in accordance with die provisions hereinafter set forth, have available Income Extension Aid computed on the basis of one week’s pay for each of the employee’s . full years of continuous service plus 1/4 of a week's pay for each additional 3 mon dis of continuous service at the time of layoff
+(2)	If the amount of Income Extension Aid available to any employee as computed in Subsection (a)(1) has been reduced by payments under
+80
+any of the options below, then, providing he has returned to work from layoff, the total amount available as described in Subsection (a)(1) shall be automatically restored. This Subsection (2) shall not apply where payments have been made under Section 4(b)(l)(iii) or under Plant Closing Section 2 where the employee is rehired within 6 months of termination, except that when an employee makes repayment of benefits paid under such Section 4(b) (1) (iii) or Section 2, this Subsection (a) (2) shall apply when he returns to work with respect to a subsequent layoff.
+(3)	Minimum Benefit
+The amount of the Income Extension Aid benefit as computed under Section 4(a)(1) shall be subject to a minimum benefit equal to 4 weeks pay. An employee laid off while in the process of service restoration under Article VJJ, Section 2 shall qualify for the minimum benefit so long as his or her total service credits (including credits not yet restored) equal 12 months.
+(b)	Benefits Available at Layoff
+(1)	An eligible employee laid off for lack of work ■ may elect from the following:
+(i)	The employee, while on layoff from the Company and so long as he is unemployed, may elect to receive a weekly payment from the Income Extension Aid payable to him, in such amounts and upon such conditions as set forth in litis subsection.
+Prior to the exhaustion of his entitlements
+81
+to federal and state unemployment compensation benefits, the weekly payment shall be in that amount (if any) which, when added to the total federal and state unemployment compensation benefits received for that week, equals seventy-five percent of his weekly pay as defined in Section 1 (g), provided, however, that payment shall be made only if the employee has applied for and received unemployment compensation benefits for that week and only if he has provided the Company with satisfactory' proof of the total of such benefits received for the week. In the event an employee seeking benefits under this Section 4 is denied unemployment compensation payment in whole or in part, solely because of a disability arising more than 31 days following layoff rendering the employee unable to work, or due to the receipt of public or private retirement income, because of insufficient earnings to establish unemploymcntcompensation eligibility or because unemployment compensation benefits have been exhausted for the base year, that employee shall be entitled to weekly IEA payment as though there had been no such unemployment compensation disqualification.
+After exhaustion of his entitlements to federal and state unemployment compensation benefits, the weekly payment shall be in that amount which equals seventy-five percent of his weekly pay as defined in Section 1 (g). Payments shall be made only
+82
+if the employee certifies that he is still unemployed and they shall continue only until the full amount for which the employee qualifies under Section 4(a) is paid.
+Payments (in such amount and upon such conditions as set forth above) may also be made to an employee on layoff while he is unemployed and attending a recognized trade or professional school or training course under the GE Individual Development Program, attendance at which makes him ineligible for state or federal unemployment compensation benefits. The percentage changes in this Section 4(b) (l)(i) shall be effective 10/1/97.
+(ii)	In any event, at the end of one year on layoff, or upon termination of continuity of service due to voluntary retirement, any balance in the Income Extension Aid available to him not theretofore paid will be paid in a lump sum to the employee.
+(iii)	As a special option, an employee may, with the approval of local management, which approval shall not be unreasonably withheld, elect to receive the total amount of the Income Extension Aid and any vacation or other accumulated allowances due, and at the time of such payment, terminate employment and thus forego recall rights.
+(2)	Income Extension payments made under Subsections (b)(1) (i) and (ii), above, shall not affect service credits previously accumulated, continuity of service and recall rights. It will not
+83
+be necessary for an employee to repay any Income Extension Aid payable under said Subsections (b)(1) (i) and (ii) above.
+(3)	In the event an employee elects, as provided for in Section 7 (a) of Article VIII of litis Agreement with respect to a scheduled shutdown period, to take the time off without pay its though on a temporary layoff, the employee shall not be eligible for Income Extension Aid for that scheduled shutdown period.
+(c)	Special Voluntary Layoff Bonus
+Whenever the Company announces an indefinite reduction in force, a Special Voluntary LayoffBonus opportunity will exist. To be eligible an employee must be age sixty (60) or older, have fifteen (15) years of continuous service, be in a specific job classification directly adversely affected, and must have filed a request to be considered at least fifteen (15) days in advance of the announcement of the indel-inite reduction in force. To the extent such requests exceed the number of affected jobs in each classification, selection will be on the basis of seniority. Alternatively, in the event that the number of eligible employees electing this option is less than the number of employees directly adversely affected, secondary opportunities, up to the total number of positions directly adversely affected, shall Ire available to eligible employees in classifications affected by displacements resulting from the indefinite reduction in force. Employees selected for a Special Voluntary Layoff Bonus must confirm their acceptance immediately following the Company's offer of the Special Voluntary LayoffBonus. Employees
+84
+accepting a Special Voluntary Layoff Bonus will receive a lump sum payment of $14,000 in lieu of any other payment under this Article and will terminate service with the Company.
+■ 5. Notice, Bargaining and Information Requirements
+This Section sets forth the full obligations of the Company with regard to notice, bargaining with and information to the Union concerning plant closing, work transfer, subcontracting and the installation of robots or automated manufacturing or office machines.
+(a) Plant Closing ’
+(1)	Notice
+The Company will give notice of its intent to close a manufacturing plant, service shop or distribution center a minimum of one year in advance of the plant closing date to the Union, the Local involved and to employees concerned. Such notice will include identification of the plant to be closed, the Local involved and the date when terminations of represented employees because of the plant closing are expected to begin.
+(2)	Bargaining
+If the Local requests decision bargaining within ten (10) working days following a Company notice of intent to close a manufacturing plant, service shop, or distribution center, the Company will be available to meet with the Local within five(5) working days of such request and the bargaining period shall continue for up to sixty(60) calendar clays from die date of the Company notice of intent to close the plant unless this period is extended by mutual agreement
+85
+The Company will make a decision whether or not to close the plant after this bargaining period.
+(3)	Information
+If information is requested by the Local for bargaining provided for in Section 5(a)(2) of this Article, the Company will promptly make the following information available to the Local for such bargaining. This information will specifically include the express reason(s) for intending to close the plant and, where employment cost is a significant factor, the related wages, payroll allowances and employee benefits expenses of represented employees at the plant • intended to be closed. This information will be treated as confidential by the Local.
+' (b) Transfer of Ongoing Production Work
+(1)	Notice
+The Company will give notice of its intent to transfer ongoing production work a minimum of six(6) mon dis in advance of the effective date of the work transfer to die Local involved. Such notice will include identification of die work to be transfeired, the expected decrease in die number of represented employe ees as a direct consequence of die transfer of work and the anticipated date of die transfer of work.
+(2)	Bargaining
+If the Local requests decision bargaining within ten(10) working days following a Company notice of intent to transfer ongoing production work, the Company will be available to meet with the Local within five (5) working days of such request and the bargaining period shall continue for up to sixty(60) cal
+86
+endar days from the date of the Company notice of intent to transfer the work unless the period is extended by mutual agreement. The Company will make a decision whether or not to transfer such work after this bargaining period.
+(3)	Information
+If information is requested by the Local for bargaining provided for in Section 5(b) (2) of this Article, the Company will promptly make the following information available to the Local for such bargaining. The information will specifically include the express reason (s) for intending to transfer the work. Where cost is a significant factor in the Company’s intent to transfer the work, the Company will provide the Local with a cost comparison between the production cost of the work to be transferred and die projected cost to the Company of having the work performed elsewhere. Likewise, the Company will also provide the related wages, payroll allowances and employee benefits expenses ofrepresented employees for the work intended to be transferred and of their counterparts who would be assigned the work. This information will be treated as confidential by the Local.
+(c)	Transfer of Nonproductian Work
+(1)	Notice
+The Company will give notice of its intent to transfer nonproduction work, or subcontract nonproduction work at the same plant location or elsewhere if such subcontracting of work would directly cause a decrease in the number of represented employees performing such work, a minimum of sixty(60) calendar days in advance of the effective
+87
+date of the work transfer or subcontracting to the Local involved. In the case of transfers of work or si.ibci jriuucti ng that would directly cause a decrease of more than 50 represented employees performing such work, the notice period will be six (6) months. Such notice will include identification of the work to be transferred or subcontracted, the expected decrease in the number of represented employees as a direct consequence of the transfer of work or subcontracting and the anticipated date of die transfer of work or subcontracting.
+(2)	Bargaining
+If the Local requests decision bargaining within ten (10) working days following a Company notice of intent to subcontract or transfer nonproduction work, the Company will be available to meet with the Local within five(5) working days of such request and the bargaining period shall continue for up to forty-five (45) calendar days from the date of the Company notice of intent to subcontract or transfer the work unless this period is extended by mutual agreement. This bargaining period shall continue for up to sixty (60) days instead of forty-five (45) days in cases where the subcontract or transfer of nonproduction work would directly cause a decrease of more than fifty (50) represented employees performing such work. The Company will make a decision whether or not to subcontract or transfer such work after this bargaining period.
+(3)	Information
+If information is requested by the Local for bargaining provided for in Section 5(c)(2) of this Article, the Company will promptly make the fol-
+88
+lowing information available to the Local for such bargaining. The information will specifically include the express reason (s) for intending to subcontract or transfer the work. Where cost is a significan t factor in the Company’s intent to transfer the work, the Company will provide the Local with a cost comparison between the cost of the nonproduction work to be transferred and the projected cost to the Company of having the work subcontracted or performed elsewhere. Likewise, the Company will also provide the related wages, payroll allowances and employee benefits expenses of represented employees for the work intended to be subcontracted or transferred and of their counterparts who would be assigned the work. Titis information will be treated as confidential by the Local.
+(d)	Subcontracting of Trades Work at Plant location
+(I)	Notice
+The Company will give notice to the Local of its intent to subcontract trades work, where the work will be done by a subcontractor at the same plant location or elsewhere and there is no decrease in the number of represented employees performing such trades work, before finalization of the proposed action provided that the work is of a nature that is normally performed by trades workers (maintenance, tool & die, and other similar classifications). Notice will not be required in emergency situations.
+(2)	Bargaining
+If the Local requests bargaining concerning such subcontracting, the Company will promptly meet and discuss its plans with die Local. However, in no
+89
+event will the Company be obligated to withhold the effectuation of the proposed subcontracting for more than twenty-one(21) calendar days from the date of the notification to the Local.
+(3)	Information
+If information is requested by the Local for bargaining provided for in Section 5(d)(2) of this Article, the Company will prompdy make the following information available to the Local for such bargaining. This information will specifically include ■ die express reason (s) for intending to subcontract the work and, where employment cost is a significant factor, comparative related wages, payroll allowances and employee benefits expenses of represented employees for the work intended to be subcontracted and of their counterparts who would be assigned the work. This bargaining information will be treated as confidential by the Local.
+(e)	Installation of Robots or Automated Manufacturing or Office Machines
+With respect to the installation of robots or automated manufacturing or office machines, the Company will give a minimum of sixty (60) days' notice to die Local involved before the use of a robot or an automated manufacturing or office machine in a work area. Such notice will include a description of the function of the device, identification of ~ the work involved, the expected decrease in the number of represented employees as a direct consequence of the use of the device and the anticipated date of the use of die device. ‘
+(f)	The Company will notify the Local in writing of its decision to utilize a subcontractor, where die work
+90
+of the type regularly performed by bargaining unit employees will be done by a subcontractor at another location and there is no decrease in rhe number of represented employees performing like work. The notice will give a general description of the work and state the express reasons for subcontracting the work.
+6.	Job Preservation
+(a)	Decision Bargaining Guarantee
+In the event the Company announces its intention to close a plant under Section 5 (a), and following decision bargaining the Com pany retracts or modifies its announced intention based on a counterproposal offered by the union to preserve jobs, such preserved jobs shall be excluded from further impact under Section 5 (a) for the earlier of three years or the dura tion of this Agreement and, in any case, for at least 12 months. In the event the Company announces its intention to transfer Ongoing Production Work under Section 5 (b), or transfer Nonproduction Work under Section 5 (c) and, following decision bargaining the Company retracts or modifies its announced intention based on a counter-proposal offered by the union to preserve jobs, such preserved jobs shall be excluded from further impact under Section 5(b) and Section 5(c) for the earlier of three years or the duration of this Agreement and, in any case, for at least 12 months. Following the expiration of the Contract, such preserved jobs shall be subject to subsequent announcements of intent and decision bargaining in conformance with Section 5.
+91
+(b)	Job Preservation Steering Committee
+The Company recognizes the importance ofjob security to the Union and acknowledges that subcontractingwork and the introduction of enhanced technology, while enabling the Company to succeed in tire many competitive environments in which it operates, may result in a decrease in General Electric Companyjobs. In order to balance competitive realities with die Union’s interest in protecting jobs, the Company and Union will establish ajointjob Preservation Steering Committee at each Company location employing over 50 bargaining unit employees to meet and discuss issues such as:
+•	Opportunities for job creation
+•	Potential plant closing, outsourcing/subcon-tracting and work transfers, including situations where there is no direct decrease in the number of represented employees
+•	Training for anticipated technology changes
+•	Work practices and local agreements to increase efficiency
+•	Investment plans and potential impact on jobs
+Upon request the Steering Committees will meet on a quarterly basis. Union representation on the Steering Committee wall be determined solely by the Union and will be restricted to a maximum of 2 representatives for the first 50 to 500 bargaining unit employees, and 1 for each additional 500 unit employees up to a maximum of 6 representatives in total. Such representatives will be compensated at their regular rate for up to four hours for time spent
+92
+participating in the quarterly Steering Committee meetings. This Steering Committee structure is not intended to displace the workings of other on-going union-management activities, including the grievance procedure and the decision bargaining provisions of Article XXIII, which exist at each plant location.
+The Company and the Union mutually agree to encourage Local management and Local unions at every covered location to fully participate in the Steering Committee discussions in order to preserve and create jobs. Recognizing that there may be some issues that would benefit from the presence of representatives from the Company and the Union, the Company agrees to consider requests for participation by the Company and Union representatives at specific local job preservation committee meetings on keyjob preservation issues identified by the Union.
+It is recognized by the Company and the Union that locations not meeting the 50 employee threshold may have job preservation issues that would justify conductingjob preservation meetings on a periodic basis. Local management and the Local union are authorized to hold such meetings where a need exists.
+The Company and the Union recognize the value of holding periodic meetings at the business level to discuss the state of the business and future plans that may impact employees represented by the Union. To that end, the Company and the Union will develop a process to conduct semi-annual meetings at the business level for tills purpose.
+93
+(c)	Job Preses’valion Guarantee
+In the event that the Company decides not to pursue potential outsourcing and work transfer reviewed in a Job Preservation Steering Committee as a result of proposals made by the union, die jobs that would have been directly impacted by the potential outsourcing or work transfer shall be excluded from further impact under Section 5 for the earlier of three years or die duration of this Agreement but, in any case, for at least 12 months provided the Company and the Local agree in writing on the specific jobs that were preserved by the union’s proposals.
+■	7Vested Rights Under Pension Plan .
+The receipt of Income Extension Aid, Severance Pay, or a rate guarantee will not affect any rights the employee may have under the Vesting Provision of die Pension Plan.
+■	8. Lump Sum Payments	,
+Service credits previously accumulated, continuity of service, and recall rights will be lost upon receipt by the employee of an Income Extension Aid payment in lump sum under Section 4(b)(1) (iii), special termination payments under diis Article, or payment of Severance Pay under the Plant Closing Section 2. However, an employee eligible for such a payment, who is within one year of reaching optional retirement at age 60 under die GE Pension Plan, shall retain such previously accumulated seivice credits and continuity of service until such employee reaches optional retirement age notwithstanding the receipt of such a payment unless tire employee retires before electing optional retirement at age 60.
+In the event of a subsequent rehire as a “new” einploy-
+94
+ee within a period of time which does not exceed the length of prior service, service credits and recall rights previously lost shall be automatically restored provided repayment of the Income Extension Aid is made by the employee within a reasonable time after rehire. No such repayment, however, shall be required if the rehire date is more than one year from the date of termination which resulted from the election of a lump sum payment under Section 4(b)(1) (iii) or the special termination payments under Section 3(b) or Section 4(c).
+Service credits, continuity of service and recall rights lost at termination upon receipt of pajments under Plant Closing Section 2, shall be restored automatically without repayment in the event of subsequent rehire more than 6 months after such termination. An employee who having received payments under Plant Closing Section 2, is rehired 6 months or less after his tennination and who has made arrangements satisfactory to the Company providing for repayment shall, during such time as he is not in default of such arrangements and for the purpose only of layoff and recall, be deemed to possess the service credits, continuity of service and recall rights to be restored to him upon full repayment
+■	9. Non-Duplication
+If any part of an employee’s cot ili nuous service is used as the basis for an actual payment under any of the options of the Income Extension Aid or Severance Pay arrangement that part of his continuous service may not be used again for such purpose, either during that period of layoff or any subsequent period of layoff or plant closing, unless repayment has been made as provided in Section 7, above.
+Where an indefinite reduction in force triggers eligibility for benefits under this Article, the designation of individuals who may exercise the benefits under this Article will
+95
+be based on the integrated order of their seniority so that the number of employees electing benefits does not exceed the net number of positions eliminated.
+Employees, eligible for a benefit under this Article either by designation or by election, may exercise only one severance or layoff benefit. Employees who have exercised the Special Early Retirement Option or Plant Closing Pension Option under the Pension Plan shall have the Special Early Retirement Option Offset deducted from any severance or layoff benefit otherwise due under this Article.
+■	10. Other ■
+Ute provisions of this Article shall not be applicable where the Company decides to close a plant or lay off an employee because of the Company’s inability to secure production, or carry on its operations, as a consequence of a strike, slowdown or other interference with or interruption with work participated in by employees in a Company plant, service shop or other facility. However, the operation of this Section shall not affect the rights or benefits already provided hereunder to an employee laid off for lack of work prior to the commencement of any such strike, interference or interruption.
+■	11. A grievance arising under this article may be processed in accordance with the grievance procedure set forth in Article XVI. However, no matter or controversy concerning the provisions of tills Article or the interpretation or application thereof shall be subject to arbitration under the provisions of Article XVII hereof, except by mutual agreement
+96
+ARTICLE XXIV
+Jury Duty
+■	1. When an hourly paid employee is called for service as a juror, he will be paid upon proof of service the amount of straight time earnings lost by him by reason of such service, up to a limit of 8 hours per day and 40 hours per week,
+■	2. When a salaried employee is called for service as a juror, he will continue to be paid his normal straight time salary during the period of such service.
+■	3. Similar pay as specified in Sections 1 and 2 will be granted to an employee who loses time from work because of his appearance in court pursuant to proper subpoena, except when he is either a plaintiff, defendan t or other party to the court proceeding.
+ARTICLE XXV
+Military Pay Differential
+An employee with 30 days or more of service credits attending annual encampments of or training duty in the Armed Forces, State or National Guard or U.S. Reserves shall be granted a military pay differential, computed as set forth below, for a period of up to 17 days of such military service, during each calendar year. The employee shall be granted service credits for such 17 day period or portion thereof during which he is absent. Such military pay differentia] shall be the amount by which the employee's normal straight-time wages or salary, calculated on the basis of a workweek up to a maximum of 40 hours, which the employee has lost by virtue of such absence, exceeds any pay received for such absence from the Federal or State Government, recalculated to exclude the Government pay
+97
+applicable to Saturdays and Sundays. Saturdays and Sundays shall be counted in computing the 17 day period. Such items as subsistence, rental and travel allowance shall not be included in determining pay received from the Government.
+An employee with 30 days or more of service credits who does not exhaust the 17 calendar day period during the calendar year for his annual encampment or training duty7 and who is required during the same calendar year to attend a weekend period of training shall be granted a military pay differential provided that the 17 calendar day period of military service in die same calendar year is not exceeded. Such military pay differential shall be die amount hy which the employee’s normal straight time pay, calculated on the basis of a nonpremium workday, up to a maximum of eight (8) hours, which the employee has lost by virtue of such absence, exceeds any pay received for such day or days of absence from the Federal or State Government, recalculated to exclude die Government pay applicable to Saturdays and Sundays. Saturdays and Sundays shall be counted for die purpose of determining the extent to which tire 17 calendar days of military7 service have been utilized in the same manner as annual encampment or training duty.
+An employee with 30 days or more of service credits, who is called out by the National Guard or the U.S. Reserves to perform temporary emergency duty (other than duty under an order by the President or Congress activating members or units of the Reserves or National Guard) due to a fire, flood or domestic civil disturbance, or other such disaster will be paid a military pay differential calculated as described above, for the pay lost by reason of such emergency duty, for a period not to exceed eight weeks in any calendar year, and shall be granted service credits for such absence up to eight weeks.
+98
+An employee who has less than 30 days of service credits may also be ahsentfor the reasons and periods set forth above without deduction of sendee credits for such absence, but shall not be eligible for the military pay differential.
+Employees will he pennitted to take a vacation and attend a military encampment at separate times and be granted both a vacation pay allowance and a military pay differential. However, an employee may not receive a vacation pay allowance and a military pay differen tial for the same period. An employee may, however, receive a military pay differential for the period, if any, by which the time spent in such encampment exceeds such vacation, but not exceeding the maximums specified above.	.
+ARTICLE XXVI
+Absence for Death in Family
+An hourly paid employee with 30 days or more of service credits who is absent from work solely because of the death and funeral of his or her spouse, child, stepchild, stepbrother, stepsister, foster child (if living in the employee’s home), grandchild, stepgrandchild, son-in-law, daughter-in-law, parent, stepparent, grandparent, stepgrandparent, grandparent-in-law, brother, brother-in-law, sister, sister-in-law, mother-in-law or father-in-law, will be compensated, on die basis of his average straight-time earnings, for the dme lost by him from his regular schedule by reason of such absence, for three days for each such absence and up to eight hours per day. In die event of death of the employee’s spouse, child, parent or stepparent, stepchild or foster child, an additional two days absence (up to eight hours per day) shall be allowed.
+99
+ARTICLE XXVII
+Sick and Personal Pay
+H 1. An hourly employee with one or more years of continuous service, absent because of (a) personal business, or (b) personal illness for which weekly disability benefits are not payable under the General Electric Insurance Plan, or under Workmen’s Compensation, will be paid Sick and Personal Pay for each absence of an hour or longer, up to the number of hours applicable in accordance with the following schedule:
+Maximum Hours of Sick and Personal Pay for Continuous Service Each Calendar Year
+1 through 9 years	16 hours
+10 through 14 years	24 hours
+15 through 24 years ■	32 hours
+25 years and over	40 hours
+Sick and Personal Pay for absences of an hour or longer shall be compensated based on the actual scheduled hours of work during which the employee was absent, not to exceed the above maximums based on continuous service.
+An employee may seek approval from his Manager to utilize Sick and Personal Pay for absences due to an observed holiday or tern porary layoff. Managemen t approval, as prodded herein, will not be unreasonably withheld. An employee is expected to notify his Manager in advance of the absence whenever possible, in order that the Manager may have an opportunity to arrange for a replacement or to reschedule the work.
+100
+ARTICLE XXVII__________________________________
+Sick and Personal Pay
+B 1. An hourly employee with one or more years of conI tinuous service, absent because of (a) personal business, or (b) personal illness for which weekly disability benefits are not payable under the General Electric Insurance Plan, or under Workmen’s Compensation, will be paid Sick and Personal Pay for each absence of an hour or longer, up to the number of hours applicable in accordance with the following schedule:
+Maximum Hours of Sick and Personal Pay for Each Calendar Year
+Continuous Service
+1 through 9 years 10 through 14 years 15 through 24 years 25 years and over	16 hours 24 hours -	32 hours 40 hours
+Sick and Personal Pay for absences of an hour or longer shall be compensated based on the actual scheduled hours of work during which the employee was absent, not to exceed the above maximums based on continuous sendee.
+An employee may seek approval from his Manager to utilize Sick and Personal Pay for absences due to an observed holiday or temporary layoff. Management approval, as provided herein, will not be unreasonably withheld. An employee is expected to notify his Manager in advance of the absence whenever possible, in order that tire Manager may have an opportunity to arrange for a replacement or to reschedule the work.
+100
+■	2. Accumulation of Sick and Personal Pay
+An employee who has any unused Sick and Personal Pay remaining at the end of a calendar year may elect during the Open Enrollment Period of each year to accumulate such unused Sick and Personal Pay, up to a maximum of two hundred and forty (240) hours, and have such pay carried forward to the following calendar year for use in the event of approved absences. Absent such an election, all unused Sick and Personal Pay attributable to the current year will be paid as an allowance in February at the rates in effect during the pay period including December 31 of the prior calendar year including, if applicable, night shift bonus for employees who are regularly scheduled on a night shift Notwithstanding anything to the contrary in Section 1, an employee who is otherwise eligible for Short Term Disability benefits under the GE Life, Disability and Medical Plan may be retained at full pay during an extended absence due to illness or injury, to the extent passible, by combining any accumulated pay under this Section with Short Term Disability benefits. Such an employee may restore eligibility for Sick and Personal Pay earned and expended in a given year to the extent such pay was expended for an absence that was later determined to be covered by Short Term Disability or Workers’ Compensation Benefits by repaying the net amount of pay received in the same calendar year. If an employee is unable to repay because of hardship, management may approve the employee’s request to take time off without pay for subsequent absences which would otherwise qualify for payment of Sick and Personal Pay and are within the eligibility schedule set forth in Section 1.
+■	3. Rate, of Pay
+The rate of pay applicable to absences covered under this article will be current normal straight-time hourly earnings in effect when last at work prior to the absence includ-
+101
+ing night shift bonus for employees who are regularly scheduled on a nightshift. (In cases of pieceworkers, tile normal straight-time hourly wage as determined from the last periodic earnings statistics will be used.) 4
+■ 4. Maximum Hours
+(a)	The maximum Sick and Personal Pay hours payable for any one day of approved absence will be the n umber of hours tn the employee's established regular daily schedule for die day of absence not to exceed his total eligibility.
+(b)	The maximum hours of Sick and Personal Pay payable to an employee in a calendar year will be the maximum number of Sick and Personal Pay hours based on the employee’s continuous service as stated in Section 1.
+In addition, any unused Sick and Personal Pay up to a maximum of 240 hours carried over from the preceding calendar year, will be available for payment of approved absences.
+When the hours of an employee's established regular daily schedule are changed to less than six (6) hours per day during the course of a calendar year, the maximum Sick and Personal Pay hours payable to such employee for that calendar year will be adjusted by determining the proportion of the maximum Sick and Personal Pay hours used byr the employee prior to such change, (based on the regular daily schedule of work hours in effect before the change) and then reducing by the same proportion the employee’s revised maximum hours based on the regular daily schedule of work hours in effect after the change.
+(c)	An employee working a regular daily schedule of not less than six (6) hours shall receive Sick and Personal Pay based on his regular daily schedule up to the Maximum Hours for which he is eligible under the table in Section 1.
+102
+■	5. Sick and Personal Pay Allowance
+When an employee is terminated because of a plant closing or the sale of a business to a successor employer and the successor employer does not have a similar sick and/or personal pay benefit, the employee will receive an allowance in lieu of any unused sick and/or personal hours. Similarly, an allowance in lieu of any unused sick and/or personal hours will be paid if an employee retires, dies, or breaks continuity of service due to layoff or is approved for a leave of absence of 12 months or more. Such allowance will be paid the earlier of termination or twelve months following removal from the active payroll.
+ARTICLE XXVIII
+Upgrading and Job Posting
+■	1. Standard forfilling open jobs and upgrading
+The Company will, to the extent practical, give first consideration for job openings and upgrading to present employees, when employees with the necessary qualifications are available. In upgrading employees to higher rated jobs, the Company will take into consideration as an important factor, die relative length of seniority of the employees who it finds are qualified for such upgrading; provided, however, that in upgrading employees tojob openings with job rates within the one-month progression schedule, as provided for in Article VI, Section 6(a) (4) (a) of this Agreement, die relative seniority of those employees found qualified for such upgrading shall be die controlling factor.
+When filling a job opening by upgrading, a request for the open job by an employee in a different, equal rated job classification or a higher rated job classification shall be treated as though it were a request to be considered for a higher rated job classification if the job open ingaffords the
+103
+employee with an immediate or future higher earnings opportunity; provided that the employee has not previously so transferred during the same calendar year.
+■ 2. Local Negotiations
+Because the product mix. organization complexity and other circumstances vary in the plant locations covered by this agreement and to improve the opportunity for upward mobility of all employees represented by the Union and to continue to assure an equal opportunity for such employees to express their interests in and be considered for upgrading tojob openings without regard to race, color, sex, creed, marital status, age or national origin, local management and the local union shall negotiate a written upgrading agreement for each of the locations listed in the Preamble. In order to implement the provisions of Section 1, above, it is the intent of the parties that such agreement would provide for advance notice ofjob openings which are to be filled by upgrading where practical. Such agreement must be set forth in writing, signed by local managemen t and die Local and approved by the Company and the Union. Such agreement shall not alter any obligation or right not to fill an opening by upgrading nor shall it limit any right an employee or the Union may have under Articles XVI, XVII or XVIII of this National Agreement to protest a selection.
+ARTICLE XXIX
+Management Authority
+The Union and the Locals recognize that subject only to the express provisions of this Agreement, the supervision, management and control of the Company’s business, operations and plants are exclusively the function of the Company.
+104
+
+ARTICLE XXX
+Issues of General Application
+This Agreement, the 2003 Settlement Agreement, the 2003-2007 Wage Agreement, the 2003 Pension and Insurance Agreement, the 2003 Savings and Security Program Agreement and the 2003 Apparatus Service Centers Agreement between the parties are intended to be and shall be in full settlement of all issues which were the subject of collective bargaining between the parties in national level collective bargaining negotiations in 2003. In the absence of mutual agreement, none of such issues may be reopened or otherwise made the subject of collective bargaining, strike, or lockout during the term of this Agreement, as set out in Article XXXIII, except in conjunction with a proposal for modification of this Agreement under the provisions of Article XXXII.
+ARTICLE XXXI
+Effective Date of Agreement
+This Agreement shall become effective as of the 16th day ofjune, 2603, between the Company and the Union acting for itself and on behalf of the UE Locals listed in the Preamble hereto, if by the 26th day ofjune, 2003 (or such additional time as may be agreed upon between the Company and the Union), such Locals ratify this Agreement and cause to be delivered to the Company evidence of ratification, the nature of which has been mutually agreed upon.
+If, during the term of this Agreement, either the Union ora Local affiliated with it shall hereafter be certified by die National Labor Relations Board as the collective bargaining representative of other Company employees, this
+105
+Agreement shall, as of the date of certification, automatically become effective as to such certified bargaining representative and employees represented by it, provided that the Union, or Local so certified shall within 30 days thereafter, or within such additional time as may be agreed upon between the Company and the Union, ratify this Agreement and cause to be delivered to the Company evidence of ratification, the nature of which has been mutually agreed upon.
+ARTICLE XXXII
+Modification
+Not more than 90 days and not less than 60 days prior tojune 17, 2007, and anyjune 17 date thereafter, respectively, either the Company or the Union may present to the other notice of proposed modifications or additions to the provisions hereof. Within 15 days after such notice is given, collective bargaining negotiations shall commence for the puipose of considering such modifications or additions. Failing agreement thereon byJune 17, 2007, or any subsequent June 17th thereafter, respectively, the Union and its UE Locals shall have the right to strike, but the contract shall continue in effect as provided in Article XXXIII. However, in the event of such strike the Company may, at its option, terminate this Agreement upon three days’ written notice to the Union.	■
+ARTICLE XXXIII
+Termination
+This Agreement shall, as to the Company, the Union, its UE Locals covered by this Agreement and each bargaining unit so represented, continue in full force and effect until die 17fh day ofjune, 2007, and from year to year thereafter
+106
+unless not earlier than 90 days nor later than 60 days prior toJune 17, 2007, or during a similar period prior to any June 17th date thereafter, either the Company or the Union shall notify the other in writing of its intention to terminate this Agreement effective as of June 17,2007, or any subsequent June 17th.
+ARTICLE XXXIV
+Written Notices
+All notices given under tire provisions of Articles XVII, XXX, XXXI, XXXII and XXXIII, shall be in writing and shall be sufficient if sent by mail addressed, if to the Union or a Local, to the United Electrical, Radio and Machine Workers of America (UE), 1 Gateway Ctr., Suite 1400,420 Fort Duquesne Blvd., Pittsburgh, PA 15222, or to such other address the Union shall furnish the Company in writing; and if to the Company, to General Electric Company, Fairfield, Connecticut 06828, or to such other address the Company shall furnish the Union in writing.
+Dated: July 18,2003
+UNITED ELECTRICAL., RADIO AND MACHINE WORKERS OF AMERICA (UE)
+John H. Hovis,Jr. BruceJ. Klippie Robert B. Kingsley Stephen Tormey Robert Brown David R. Dennison Frank X. Fusco 1	David L. Kitchen	Patrick j. Rafferty Bill DiSantis Lynda Leech Patrick G. Wojtowicz Edward J. Baran Marco Coeur Bill Wossum Chris Townsend
+107
+GENERAL ELECTRIC COMPANY
+John D. Curtin Carl H. Roberts Thomas J. Con way, Jr. Kevin J. F. Fitzgerald Peter S. Rogowski DouglasJ. Baker Barbara Beckmann Larry Cook Daniel F. Gilbert
+Michael J. Gorman Paul V. Lalli
+Mark A. Nordstrom
+Virginia D. Proestakes Dennis W. Rocheleau Allan O. Rowe
+Jerry Wald
+Jennifer L. Waldo
+Charles E. Welch
+108
+2003-2007
+Wage Agreement
+2003'2007 Wage Agreement
+The Company willprovide general wage and salary increases as follows:
+B 1. General Increases
+Effective Date	Increase
+June 16,2003	' '.Three percent-(3.0%) applied to rates in effect on June 15, 2003.
+June 2If 2004J	. ;;Twp .anckpne halflpercent (2.5%) applied tb'rates in effect on June 20, 2004.	'
+June 20,2005	Two and one half percent (2.5%) applied to rates in effect on June 19, 2005.
+June 19,2006	Three percent (3.0%) applied to rates in effect onjune 18, 2006.
+■ 2. Cost-of-Uving Adjustments
+(a)	Cost-of-Living Adjustments effective on the dates shown below in the amount of one cent ($.01) per hour for hourly employees (forty cents ($.40) per week for salaried employees) for each full nine hundredths of one percent (.09%) by which the National Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W; Base 1982-84 = 100), as published by the United States Bureau of Labor Statistics, increases in the applicable measurement period.
+NOTE: The amuunts Mated for salaried empkwxs thnwghmH the Wage Agreement are based <»n a normal workweek of 4<l hcHJiK
+(1)
+EffectiveDate	- MeasvmrmentPeriod- '	' ’ ■
+December.] 5, 2003 June 2003 through October 2003.
+June 21,2004 October 2003 through April 2004 ‘
+December 20,2004 , October 2003 through . , .
+,	. October 2004*	.,
+June 20,2005 October 2004 through April 2005
+December 19, 2005 October 2004 through ■	'
+October 2005*	■ . ■
+June 19,2006 \	■ October 2005 through April 2006
+December 18,2006. October 2005 through >. ■ <■■■'■
+. •.	' October2006*. .	.r , . .
+April 16,2007 October 2006 through	'
+February 2007 •	■.; ■
+* (While the measurement period for the Cost-of-Living Adjustment effective December includes the entire period from October through October, the adjusunent shall be the difference between the full amount calculated for the period and the amount of die Cost-of-Living Adjustment paid effective injune.)	'	'
+(b)	No adjustment, retroactive or otherwise, shall be made in pay or benefits as a result of any revision which later may be made in the published figures for the Index for any month on the basis of which the cost-of-living calculation shall have been determined.
+(c)	In the event that the Bureau of Labor Statistics issues a new or revised Index with either a conversion table,
+(2)
+converted Index, or a conversion procedure by which the present formula can be made applicable to any change in said Index, the Union and the Company agree to accept such conversion method. If no such conversion method is provided by die BLS following any revision of the Index, the parties will promptly undertake negotiations solely with respect to agreeing upon a substitute formula for determining a comparable Cost-of-Living Adjustment, and filling agreement in such negotiations, the Union and the Locals shall, upon giving 10 days’ written notice, have the right to strike solely with respect to such issue.
+■ .3 Wage Structure Modification EffectiveJune 16, 2003
+Each local plant’s hourly daywork, salary, and hourly incentive wage strucmre step rate values will be increased effective June 16, 2003 as follows:
+(a)	Daywork Structures
+All step rate values in effect on June 15, 2003, which are higher than $21.030 per hour will be increased incrementally by $.01 per hour for every $. 15 or part thereof by which such step rates exceed $21,030 per hour. (At locations where die R-18 or local equivalentstraight time hourly rate is lower than $21,030, that rate will be die initial rate for an adjustment in step rate values.)
+(3)
+EXAMPLE - HOURLY
+Step Rate Values
+Greater Than $21,030 per hour $21,180 per hour $21,330 per hour
+Equal to or
+Less Than
+$21,180 per hour
+$21,330 per hour
+$21,480 per hour
+Increment
+$.01 per hour
+$.02 per hour
+$.03 per hour
+$25,380 per hour $25,530 per hour $.30 per hour*
+*And continuing in such $.01 increments up to and including the highest step rate.
+(b)	Incentive Structures
+All incentive step rate values which are not used for the pricing or payment of incentive work will be increased an incremented amount equal to the increment applied to the local plant’s daywork job rate equivalent.
+(c)	Salary Structures
+All step rate values in effect on June 15, 2003, which are higher than $841.20 per week will be increased by $.40 per week, for every $6.00 per week by which such step rate values exceed $841.20 per week.
+(4)
+EXAMPLE-SALARY.
+Step Rate Values	Increment ■
+Equal to or
+Greater Than Less Than	■
+$841.20 per week $847.20 per week $.40 per week $847.20 per week $853.20 per week $ .80 per week $853.20 per week ■ $859.20 per week $1.20 per week
+$1,015.20 per week $1,021.20 per week $12.00 per week*
+*And continuing in such $.40 increments up to and including the highest step rate. '	■
+■ 4. The wage and salary increases described in 1,2, and 3 above shall constitute the amount by which:
+(a)	Each hourly daywork rate or weekly salary rate shall be increased on the effective date specified in the amount and manner described.* 1	-	■
+(b)	The earnings of incentive employees (excluding nightshift differential), computed in accordance with the local plant’s formulas and procedures and applicable to such incentive work at the time of its performance, shall be increased.* For this purpose,	:
+(i)	The percentage general increase will be applied as follows:
+•Employeeshireri on progression after August 5,1991. under the provisions of Article VI, Section 9(a). will hase tneir paid progression i-ates adjusted to maintain die same percentage of the newjob rate-
+(5)
+•	Where the local plant’s existing formula contains , both a percentage factor and a cents-per-hour ' adder, each will be,increased by the percentage genera! increases.	”
+•	Where the local plant’s existing formula contains only a cents-per-hour adder (no percentage factor) the existing Piecework Base Rate and the cents-per-hour adder each will be increased by the percen tage general increases.	.	. ,
+(ii)	The Cost-of-Living Adjustments will be incorporated in the existing payroll adder in the same formula.
+■ 5. The pay increases herein provided shall be'applicable to all employees (both hourly paid and salaried) in bargaining units certified to the UE or its affiliate UE Locals as of June 15, 2003, which, as of that date, are listed in the Preamble of the 2003-2007 GE-UE National Agreement. Employees in any bargaining unit for whom the UE or any of its Locals shall be certified as die collective bargaining representative after the effective date of this Agreement shall receive pay increases provided for by Sections J, 2,3 and 4 of this Wage Agreement but only insofar as such increases shall, by terms of said sections, become effective after the'date of such certification.	’......
+Ute Provisions of the Wage Agreement shall continue in full force and effect between the parties hereto, to and includingJune 17, 2007/.	■	>
+(6)
+IN WITNESS WHEREOF the parties have caused their names to be subscribed to this Agreement by their duly authorized representatives this 18th day ofjuly, 2003.
+UNITED ELECTRICAL, RADIO AND MACHINE WORKERS OF AMERICA (UE)
+John H. Hovis,Jr,	. Bruce J. Klippie Robert B. Kingsley Stephen Tormey Robert Brown David R. Dennison Frank X. Fusco David L. Kitchen	Patrick J. Rafferty Bill DiSaritis Lynda Leech Patrick G. Wojtowicz Edward J. Baran Marco Coeur Bill Wossum Chris Townsend
+GENERAL ELECTRIC COMPANY
+John D, Curtin Carl H. Roberts Thomas J. Conway, Jr. Kevin J. F. Fitzgerald Peter S. Rogowski DouglasJ. Baker Barbara Beckmanti Larry Cook Daniel F. Gilbert	Michael J. Gorman Paul V. Lal li Mark A. Nordstrom Virginia D. Proestakes Dennis W. Rocheleau Allan O. Rowe Jerry Wald Jennifer L. Waldo Charles E. Welch
+(7)
+INDEX
+Page No.
+Absence: Death in Family................................99
+Definition of..................................20
+Leave for Union Activity....................47, 48
+Observed Holiday..............................100
+Personal Business.............................100
+Personal Illness............................  100
+Temporary Layoff..............................100
+Accident, Compensable..........................21, 24
+Agency Shop......................................1,2
+Agreement: Effective Date of.............................105
+Modification of...............................106
+Ratification of...............................105
+Termination of................................106
+Anticipated Earned Rate (AER)........10,11,18, 38, 39
+Arbitration..................................  55-59
+Arbitration, Supplemental Procedure........56, 57,58
+Automated Mfg. Machine, Definition of.............63
+Automated Office Machine, Definition of...........63
+Average Earnings, Pay at................11,13, 35,38
+Bargaining Unit, Return to.....................43,44
+Bulletin Boards...................................61
+Call-in Pay.......................................10
+Change Clothes Time............................-...9
+, Checkoff of Union Dues and Initiation Fees.......2
+(i)
+Page No. Chief.Stewards Contacting Stewards..............50
+Coercion, Discrimination and....................3,4'
+Company Convenience, Taken off Job for..........;13
+Compensable Accident or Illness..............21,24
+Continuity of Service:	.	:
+Definition of.......................    ,....20
+■ Loss of................................. 21,22
+Restoration of............................22,23
+Continuous Operations: Listed Holiday, Pay for................. .35-37
+Overtime Provisions.....................,....7,8
+Workweek......................................7
+Continuous Service:	. -
+Definition of................................20
+Return to Unit, for.......................43,44
+Cost-of-LivingAdjustments...............(I),	(2), (3)
+Death in Family, Absence for...............;...99,
+Discontinuance of a Discrete :	•	:5	' ,■
+■ Unreplaced Product line.‘.............. 71-75,
+Discrimination, Prohibitions on ............,3,4.:
+Dispensary Time..........................  :.....11	■
+Down Time, Payment for......................10,13
+Early Reporting, Payfor...,.....................10
+Effective Date of Agreement....................105
+Employee, Information to When Hired	■ . ;■
+or Transferred...............................12
+Employee Ratings..........:................. ...12
+(ii) 9
+i	Page No.
+Established Plan for Salaried........................  9
+Financial Support.................................:...60
+General Increases.................................  ..(1)	.
+Grievance Procedure..............................;.51-54
+Group Leaders, Pay of..............................    18	•
+Holidays:	. ■ .	:
+, Listed..................................-....:....34
+Listed Not Worked, Pay for......................35-37
+Listed Worked, Pay for............................. .6,8
+Local Negotiation of...........................34,35
+NightShift Differential.........................'..37
+Observed, Information to Local on...................8
+Observed Worked, Pay for..........:...............6,8
+Qualifying Conditions for. Payment..................-35-37 ' Vacation Period, Holiday in.....................33,34
+Illness: '	•	-	■ ’	■' •
+. Compensable..........................:..;...,.-.21,24
+Definition of,................'............:.......21
+. Return toWork from.:..'.'...... ,.,-.;-.;,..-..44/45
+Income Extension Aid:.7•. .r , .f' > : i. " Computation of......................'.i...-......'..80
+Layoff Benefits ............................... 81-85
+‘ ■ Minimum Benefit....................m....-........81	i
+Repayment after Rehire	............23,-95 •
+Service Requirement ...............................80
+(Hi).
+Page No.
+Increases in Forces..................................42
+Instructors, Rates of................................18
+Issues of General Application ......................105
+Job and Income Security......................62-96
+job Inspection .................................52
+Job Openings ................................102,103
+Job Preservation.............................90-93
+Job Posting................................103,	104
+Job, Time Study of............................. 14
+Job Transfer, Prohibition on....................60
+Jury Duty.......................................96
+Layoff Deferment for Union Representatives .3....46,47
+Leave of Absence for Union Representatives.......48
+Local Negotiations, Subjects for
+Continuous Operations, Frequency of............5
+Dues Deductions, Frequency of..................2
+Group Leaders and Instructors Rates...........18
+Holidays, Additional and Substitutions..34,35,37
+Layoff Procedure .............................42
+Rates oflndividuals or Groups.................12
+Retraining and/or Reassignment Program.....40-42
+Retraining and Placement Agreement............74
+Union Time, Pay for........................49-51
+Upgrading Agreement ...................  103,	104
+Local Understandings ............................46
+Local Union Activities, Pay for Time on.......49-51
+(iv)
+Page No.
+Local Union, Information to: Job Classifications............................12
+Layoffs......................................43
+Matters Affecting Employees Generally........62
+New Hires....................................45
+Observed Holidays, List of....................8
+Reengaged Employees........................  45
+Transfers....................................45
+Work. Schedule, Change in.....................5
+Lockout, Prohibition on.........................60
+■Management Authority..........................104
+Manufacturing Method, Change in.................13
+Military Pay Differential..................  97-99
+Modification of Agreement......................106
+Night Shift Differential.9,31,37,64,101,102
+Notice, Bargaining and Information Requirements................................85-91
+Notices, Posting by Local.......................62
+OSHA Inspection.................................51
+Overtime;
+Computation of...............................-9
+Continuous Operations.......................7,8
+Division of..................................11
+Record of....................................11
+Regular Workweek............................5-7
+(v)
+Page No.
+Pension Plan: Retirement under......................................44
+Vested Rights ..............................;.....94
+Piece Prices, Classification of  ..........:.....12-14
+Plant Closings:	.'i
+Definitions of..................................  62
+• Employment Assistance Program...■..'...........68-70
+Local Termination Agreement......................-70
+Preferential Placement....................    .74—80
+; . Severence Pay...........................'....66168,77
+Sick and Personal Pay Allowance..............102-103
+, .Successor Employer...........................62, 103 ■-
+Progression Schedules, Step Rates and.............14-20
+Rate Guarantee.....................................  71
+Recall Rights....................................... 22
+Reduction in Forces.;......................;.....42,43
+Report-in'Time ................................... .10,11-
+Retraining and/or Reassignment....................40-42
+Retraining and Readjustment Assistance............71-80
+Robot, Definition of................................ 63
+Seniority........................42,	48, 72, 76, 78,103 ;
+Service Charge Deduction..............................2
+Service Credits: ...	' • "Mvi
+Accrual of..............................t....;..; 23,24
+t Definition of..-........................'...... .20
+. Loss of........................’...............21,22
+Restoration of................................22-24
+Service Record, Review of........................22, 23
+(vi)
+PageNet,
+Shift Transfer, Pay for.......................:.:6, 7
+Shift Transfer, Request for!................... .138
+Sick arid Personal Pay......................10CM-I03
+Special Placement Procedure.........../....'J.73-74
+Special Prices............................... ii......13
+Special Retirement Bonus.....................  71—72
+Standard Price, Change in..........  ...'.....i... 13
+Steering Committee........................... 192-93
+Step Rate Plan....................................16
+Step Rates and Progression Schedules......'. ..14-20
+Strike Notice........’.........................59-60
+Strike, Right of Union to...............59,60,106, (3)
+Strikes, Prohibition on...................59, 60,105
+Successor Employer....;........................63,103'
+Temporary Layoffs .........................,..43; 46,100''
+Temporary Prices.......................  i.......:..18
+Termination of Agreement...'........i..'......i.....106
+Time Study of Job........... i...,.. ’............14
+Transfer ofjob, Prohibition on .........  ......'.60
+Transfers.................................    37-40/
+Traveling Time and Expenses....................   61
+Union Dues Deduction Authorization .......'........2
+Union, Information to............:...ri'.’.. ....62,
+Union Recognition.........'....................    1
+Union Security..................................... L	2
+Union Solicitation ofMember or Funds...............2
+Upgrading and job Posting.....................103-104
+. '(vii)
+Page No.
+Vacations:
+Absences, Use of Vacation Time for......27,28
+Computation of Pay......................28-32
+Death in Family in Period..................34
+Determination of Paid....................26,27
+Eligibility Requirements.................25,26
+Holiday in Period........................33, 34
+Paid Periods.............................24, 25
+Postponement or Division of................33
+Scheduling of..............................32
+Shutdown Period.......................32-34
+Vested Rights under Pension Plan..............94
+Wage Agreement...........................(1(7)
+Warning Notices, Discipline Based on..........54
+Week’s Notice:
+Discipline Following Warning Notices.......54
+Layoff Due to Decreasing Forces............43
+Standard Price, Change in..................13
+Transfer to Lower Rated Job...........37-38
+Work Schedule Change, Notice to Local............5
+Work Transf er, Definition of...............62, 63
+Workday, Definition of.........................4
+Working Conditions.............................3
+Workweek, Continuous Operations................7
+Workweek’, Definition of...................... 4
+(viii)
+2003
+JANUARY
+S M T W T F 8
+12 3 4 5 6 7 8 9 10 11
+12 13 14 15 16 17 I8 19 20 21 22 23 24 25 26 27 26 29 30 31
+FEBRUARY
+6 M T W T F 8
+1
+2 3 4 5 6 7 8
+9 10 11 12 13 14 15
+16 17 18 19 20 21 2?
+23 24 25 26 27 2B
+MARCH
+B M T * T F $
+I
+2 3 4 5 6 7 8
+9 10 II 12 13 14 1$ 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+30 31
+APRIL
+8 M T W T F 8
+12 3 4$
+8 7 8 9 W 11 12 13 14 15 18 17 18 19
+20 21 22 23 24 25 26
+27 28 29 30 .
+MAY
+S M J W T F S
+1 2 3
+4 5 6 7 8 9 10
+II 12 13 14 15 18 17
+18 19 20 21 22 3 24
+25 26 27 28 29 30 31
+JUNE
+3 M T W T F 8
+12 3 4 5 6 7
+8 9 W 11 12 13 14
+15 16 17 18 19 20 21
+22 23 24 25 26 27 28
+29 30
+JULY
+S M T W T F fi 1 2 3 4 $
+8 7 8 9 10 11 12 13 14 15 16 17 IB 19 20 21 22 23 24 25 26
+27 28 29 30 31
+AUGUST
+S	M	T	W	T	F	S
+1 2
+3	4	5	6	7	8	9
+10	11	12	13	14	i$	18
+17	IB	19	20	21	22	23
+24	25	26	27	28	29	30
+31
+SEPTEMBER
+S	M	T	W	7	F	S
+12	3	4	5	6
+7	B	9	10	11	12	13
+U	15	16	17	18	19	20
+21	22	23	24	25	28	27
+28 29 30
+OCTOBER
+S M T W T F 3
+12 3 4
+5 6 7 8 9 10 11
+12 13 14 15 16 17 18
+19 20 2 1 22 23 24 25
+26 27 28 29 30 31
+NOVEMBER
+8 M T W T F S
+1
+2 3 4 5 6 7 8
+9 10 tl 12 13 14 15
+16 17 18 19 20 21 22
+23 24 25 26 27 28 29
+30
+DECEMBER
+S M T * T F S
+1 2 3 4 5 6
+7 8 9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30 31
+2004
+JANUARY 8	tt	T	W	T	F	3
+1	2	3
+4	5	6	7	8	9	10
+11	12	13	14	15	W	17
+18	19	20	21	22	23	24
+25	26	27	26	29	30	31
+FEBRUARY
+S M T W T F 8 1 2 3 4 5 6 7
+8 9 10 11 12 13 14
+15 ?<8 17 JB 19 20 21
+22 23 24 25 26 27 28
+29
+MARCH
+S M T W T F 8
+1 2 3 4 5 6
+7 8 9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 26 26 27
+28 29 30 31
+APRIL
+8 M T W T F 3
+1 2 3
+4	5	6	7	8	9	10
+II	12	13	74	75	J8	17
+18	19	20	21	22	23	24
+25	26	27	28	29	30
+MAY
+S	M	T W	T	F	B
+1
+2	3	4 5	8	7	8
+9 (0 II 12 13 14 16
+17 18 19 20 21 22
+24 25 26 2? 2B 29 31
+sag
+JUNE
+8 M T W T F S
+1 2 3 4 5
+6 7 8 9 10 11 12
+13 M 15 16 17 IB 19
+20 21 22 23 24 25 28
+27 28 29 30
+JULY
+3	M	T	W	T	F	8
+1	2	3
+4	5	6	7	8	9	10
+11	12	13	14	15	18	1?
+IB	19	20	21	22	23	24
+25	26	27	28	29	30	31
+AUGUST 3 M T W T F 3 .1 2 3 4 5 6 7
+B 9 10 1! 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+29 30 31
+SEPTEMBER
+B M T W T Ft
+12 3 4
+S 8 7 8 0 M 11
+12 13 14 15 16 17 18
+19 » 2t 22 23 24 25
+28 27 29 29 30
+OCTOBER
+S M T W T F 8
+1 2
+3 4 6 6 7 8 9
+10 11 12 13 14 15 16
+17 IB 19 20 21 22 23 24 25 26 27 28 29 30
+31
+NOVEMBER 8 M	T	W	Y	F	8
+1	2	3	4	5	6
+7 8	&	10	U	12	13
+14 15	16	17	1B	19	20
+21 22	23	24	2$	26	27
+28 29 30
+DECEMBER
+» M T W T F I 12 3 4
+J 4 7 8 9 (C fl 12 13 14 15 14 17 18 19 20 21 22 23 24 28 26 27 28 29 30 31
+2005
+JANUARY
+$ M T W T F $
+1
+2 $ 4 $ 6 1 ft
+8 10 11 1? 13 14 15
+16 17 18 19 20 21 22
+23 24 25 26 27 28 29
+30 31
+FEBRUARY 8	M	T	W	T	F	3
+12	3	4	5
+8	7	8	ft	13	U	12
+13	14	15	16	17	18	19
+20	21	22	23	?4	25	26
+27 28
+MARCH
+S	M	T	W	T	F	S
+12	3	4	5
+ft	1	ft	ft	TO	11	12
+13	14	15	18	17	18	19
+20	21	22	23	24	25	28
+27 28 29 X 31
+APRIL
+S	M	T	W	T	F	8
+1 2
+3	4	S	ft	7	ft	ft
+10	11	12	13	14	15	16
+17	18	19	20	21	22	23
+24	25	26	27	28	29	30
+MAY
+3 M T W T F 8
+1 2 3 4 S ft 7
+8 9 10 11 12 13 14
+15 16 17 18 <9 20 21
+22 23 24 25 25 27 28
+29 30 31
+SEPTEMBER 8	M	T	W	T	F	8
+1	2	3
+4	5	8	7	B	9	10
+11	12	13	14	15	1ft	17
+18	19	20	21	22	23	24
+25	28	27	£8	29	30
+JUNE
+S	M	T	W	T	F	8
+12	3	4
+5	6	7	8	9	10	11
+12	13	14	18	18	17	1ft
+19	20	21	22	23	24	25
+26 27 28 29 30
+OCTOBER
+S	M	T	W	T	F	8
+1
+2	3	4	5	ft	7	8
+9	W	II	12	13	14	15
+16	17	IB	19	20	21	22
+23	24	25	26	27	29	29
+X 31
+July
+S	M	T	W	T	F	s
+1 2
+3	4	5	6	7	8	9
+10	11	12	13	14	IS	1ft
+17	18	19	20	21	22	23
+24	25	26	27	28	29	X
+31
+AUGUST
+S	M	T	W	T	F	S
+1	2	3	4	5	ft
+7	8	9	10	11	12	13
+14	15	16	17	1ft	ift	2Q
+21	22	23	24	25	26	27
+28 29 X 31
+NOVEMBER 8 M T W T F 8 1 2 3 4 5 6 7	8	9	10	11	12
+13 14	15	16	17	IB	19
+20 21	22	23	24	25	26
+27 28	29	X
+DECEMBER
+8 M T W T F S
+1 2 3
+4 5 6 7 8 9 10
+11 12 13 14 IS 16 17
+18 19 20 21 22 23 24
+25 » 2? 28 29 X 31
+2006
+JANUARY
+$ M T W T F S 1 2 3 4 5 6 7
+8 9 10 11 12 13 14
+15 16 17 18 19 20 21
+22 23 24 25 26 27 26
+29 » 31
+FEBRUARY
+8 M T W T F 8
+12 3 4
+5 6 7 8 9 10 11
+12 13 14 15 16 17 18
+19 20 21 22 23 Z4 25
+26 27 28
+MARCH
+S M T W T F 8
+12 3 4
+5 6 7 ft 9 10 11
+12 13 14 15 16 17 18
+19 20 21 22 23 24 25
+26 27 a 29 X 31
+APRIL
+S	M	T	W	T	F	S
+2	3	4	5	6	7	8
+9	10	11	12	13	14	1ft
+16	17	1ft	|9	20	Zl	22
+a	24	as	a	27	a	a
+X
+MAT
+S	M	T	W	T	F	S
+12 3 4 5 6.
+7	8	9	10	11	12	13
+14	15	16	17	18	19	20
+21	22	23	24	25	26	27
+28	29	X	31
+JUNE
+S	M	T	W	T	F	8
+1	2	3
+4	5	8	7	8	9	10
+11	12	13	14	15	16	1?
+IB	19	20	21	22	23	24
+25	2S	27	28	29	X
+JULY
+8	H	T	W	T	F	3
+1
+2	3	4	5	6	7	8
+9	10	II	12	13	14	15
+16	17	13	19	20	21	22
+23	2*	25	26	27	28	a
+X 31
+AUGUST
+S M	T	W	T	F	8
+1	2	3	4	5
+8 7	8	3	10	11	12
+13 14	15	16	17	1ft	19
+X 21	22	23	24	a	a
+27 28	X	X	31
+SEPTEMBER 8 M ? W T F 8 1 2 3	4	5	8	7	8	9
+10	11	12	13	14	15	16
+17	18	t9	20	21	22	23
+24	25	26	27	28	29	X
+OCTOBER
+S M T W T F S
+12 3 4 5 6 7
+8 9 10 11 12 13 M
+15 16 17 1ft 19 20 21
+22 23 24 2$ 26 27 2B
+29 X 31
+NOVEMBER
+S M T W T F S 12 3 4
+5 ft	7	8	9	10	11
+12 13	14	15	18	17	1B
+19 M	21	22	23	24	a
+26 27	26	29	X
+DECEMBER
+8 M T W T F 8
+1 2 3 4 5 6 7 8ft
+10 11 12 13 14 15 1ft 17 IB 19 20 21 22 23 24 a 26 27 a a x 31
+2007
+JANUARY
+1 M T W I F S 1 2 3 4 5 6
+7 6 9 10 11 12 13
+14 15 16 17 5ft 19 20
+21 22 23 24 25 26 27
+29 29 30 31
+FEBRUARY
+S	M	T	W	T	F	S
+1	2	3
+4	5	6	7	8	9	10
+11	12	13	14	15	18	17
+18	19	20	21	22	23	24
+25 26 27 29
+MARCH
+I M T W T F S i 2 3
+4 5 6 7 8 9 10 11 12 13 14 15 16 17
+18 19 20 21 £2 23 24
+25 29 27 28 29 30 31
+APRIL
+8 M T W T F S
+1 2 3 4 5 6 7
+8 9 10 11 12 13 14
+1$ 16 17 18 19 20 21
+22 23 24 25 26 27 28
+29 30
+MAY
+8 M T W T F S
+1 2 3 4 S
+8 7 9 9 10 II 12
+13 14 15 16 17 13 19
+20 21 22 23 24 25 26
+27 26 29 30 31
+JUNE
+S	M	T	W	T	F	S
+1 2
+3	4	5	6	7	6	9
+10	11	12	13	14	15	16
+17	18	19	20	21	22	23
+24	25	26	27	28	29	30
+JULY
+S	M	T	W	T	F	S
+1	2	3	4	5	6	7
+8	9	10	11	12	13	14
+15	16	17	18	19	20	21
+22	23	24	25	26	27	28
+29 30 31
+AUGUST
+S M T W T F S
+12 3 4
+6 6 7 8 9 10 11
+12 13 14 15 *6 17 18
+19 20 21 22 23 24 25
+26 27 28 29 30 31
+SEPTEMBER
+3	M	7	W	7	F	S
+t
+2	3	4	5	6	7	6
+9	10	11	12	13	14	!5
+18	17	18	19	20	21	22
+23	24	25	26	27	28	29
+30
+OCTOBER
+S M	7	W	T	F	8
+f	2	3	4	5	S
+7 8	9	10	11	12	13
+14 15	16	17	IB	19	20
+2* 22	23	24	25	26	27
+28 29	30	31
+NOVEMBER t M 7 W 7 F » t 2 3 4 5 8 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 ?8 29 30
+DECEMBER
+S	M	T	W	7	F	$
+2	3	4	5	6	7	8
+9	10	11	12	13	14	15
+16	17	18	19	20	21	22
+23	24	25	26	27	28	29
+33 31

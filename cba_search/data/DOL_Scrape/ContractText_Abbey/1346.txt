@@ -1,0 +1,491 @@
+﻿Cornell University ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Mason Contractors Exchange of Southern California, Inc. and International Union of Bricklayers & Allied Craftworkers (BAC), Bricklayers Local 4 (2001)
+K#: 8554
+Employer Name: Mason Contractors Exchange of Southern California, Inc.
+Location: CA
+Union: International Union of Bricklayers & Allied Craftworkers (BAC)
+Local: 4
+SIC: 1741
+Sector: P
+NAICS: 23814
+Number of Workers: 1100
+Effective Date: 05/01/01
+Expiration Date: 04/30/04
+Number of Pages: 40
+Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+1,100
+AGREEMENT	'ft
+MAY 1, 2001
+TO
+APRIL 30, 2004
+By and between
+THE EXECUTIVE COUNCIL OF THE MASON CONTRACTORS EXCHANGE OF SOUTHERN CALIFORNIA, INC.
+386 Beech Avenue, Suite 4 Torrance, California 90501-6202 Telephone: 310/533-4014
+and BRICKLAYERS AND ALLIED CRAFTWORKERS LOCAL #4, CALIFORNIA For: 4-A, Orange County 4-B, San Bernardino & Riverside Counties 4-E, Ventura County 4-G, Kern, Inyo, Mono & Tulare Counties 4-H, Los Angeles County
+AGREEMENT
+THIS COLLECTIVE BARGAINING AGREEMENT is entered into May I, 2001
+TO
+April 30, 2004 by and between THE EXECUTIVE COUNCIL of the MASONRY CONTRACTORS EXCHANGE of
+SOUTHERN CALFORN1A, INC. hereinafter referred to as the MCESC on behalf of its members and
+BRICKLAYERS LOCAL UNION NO. 4 of CALIFORNIA
+INTERNATIONAL UNION of
+BRICKLAYERS AND ALLIED CRAFTWORKERS For: 4-A, Orange County 4-B, San Bernardino & Riverside Counties 4-E, Ventura County
+4-G, Kern, Inyo, Mono & Tulare Counties 4-H, Los Angeles County
+hereinafter referred to as the Union
+ii
+TABLE OF CONTENTS
+Trust Funds......................................iv
+Mission Statement.................................v
+Article I	Area Covered.......................................1
+Article II	Work Covered.......................................1
+Article III	Joint Board........................................3
+Article IV	Labor Contracts - Lumping Building
+Codes - Safety Codes.......................5
+Article V	Stewards - Union Recognition.......................6
+Article VI	MCESC Recognition..................................7
+Article VII	Working Hours - Shift Work - Holidays..............8
+Article VIII	Show-Up Time......................................10
+Article IX	Apprentice Wages - Restrictions..................1 O'
+Article X	Contributions-Trusts..............................13
+Article XI	Cash Bond Deposit................................21
+Article XII	Wage Scale........................................23
+Article XIII	Working Rules.....................................26
+Article XIV	Mason Helper......................................29
+Article XV	Traveling Contractors.............................30
+Article XVI	Term of This Agreement............................30
+Article XVII	Amendments to Agreement.........................  31
+Association Signature Sheet......................32
+Individual Employer Agreement..............33,	34,35
+iii
+TRUST FUNDS COVERED BY THIS AGREEMENT
+COUNTY	SEND CONTRIBUTION FORMS TO
+4-G, KERN, INYO, MONO & TULARE COUNTIES:
+Brick Masons Trust Funds 9650 Flair Drive, Suite 600 El Monte, CA 91731-3011	Bankers Trust Brick Masons Trust Funds Bunker Hill Finance Station Post Office Box 712039 Los Angeles, CA 90071-2039
+Bakersfield Local #3 Pension Trust Bakersfield Local #3 Pension Trust
+9650 Flair Drive, Suite 600 El Monte, CA 91731-3011	9650 Flair Drive, Suite 600 El Monte, CA 91731-301 1
+4-H & 4-A, LOS ANGELES & ORANGE COUNTIES:
+Brick Masons Trust Funds 9650 Flair Drive, Suite 600 El Monte, CA 91731-3011	Bankers Trust • Brick Masons Trust Funds Bunker Hill Finance Station Post Office Box 712039 Los Angeles, CA 90071-2039
+4-B, SAN BERNARDINO & RIVERSIDE COUNTIES:
+Brick Masons Trust Funds	Bankers Trust
+Brick & Tile Pension Trust Funds Brick Masons Trust Funds
+9650 Flair Drive, Suite 600 El Monte, CA 91731-3011	Bunker Hill Finance Station Post Office Box 712039 Los Angeles, CA 90071 -2039
+Administrator for Above Trusts: Kathy Dyche
+Telephone: (800) 252-9117 • (626) 442-5928 • Facsimile (626) 579-4147
+4-E, VENTURA COUNTY:
+Bricklayers Local #4-E Trust 134 South “A” Street Oxnard, CA 93030-5622	Same Address
+Administrator: Mary Ann Spencer Telephone: (805) 486-1982 • Facsimile (805) 483-0407
+iv
+Each and every employer performing work covered by this Agreement within the area of the jurisdiction of the union, who does not appear on a list of members of the MCESC furnished to the Union by the MCESC and who wishes to be party to shall sign three copies of this Agreement before workers are permitted to begin work for said employer. The terms of this Agreement and any amendments to this Agreement entered into by the MCESC and the Union shall be binding upon said employer. The employer shall keep one signed copy of this Agreement, the MCESC shall be furnished one signed copy by the Union and the Union shall keep one signed copy. Anyone signing this Agreement in the capacity of a contractor must be legally licensed as a contractor in the State of California. This Agreement shall be binding upon all regular members of the MCESC appearing on lists furnished by the MCESC to the Union covered by this Agreement. The MCESC will furnish to Union covered by this Agreement each month for the life of this Agreement, a list of all new regular members covered by this Agreement and a list of all members who have resigned or have been dropped from membership. This Agreement shall be binding upon all members appearing on said list with the same force and effect as if this Agreement were entered into by each member individually. All members listed by the MCESC shall be and continue to remain, jointly and severally, liable under this agreement for and during the term hereof, irrespective of, or whether said members shall resign or be dropped from membership in the MCESC prior to the expiration date of this Agreement, and such liability shall be deemed to have survived the termination of said membership and remain in full force for and during the term of this Agreement, including any interpretation and/or modification during the contractual term.
+v
+Article I
+AREA COVERED
+Section 1,	This Agreement covers the territory and jurisdiction of local Union No. 4-A, 4-B, 4-E, 4-G & 4-H, LU. of B.A.C. covering Kern, Inyo, Los Angeles, Mono, Orange, Riverside, San Bernardino, Tulare & Ventura Counties of California.
+Section 2.	The geographic jurisdiction of this Agreement for Marble shall be the Counties of Kern, Inyo, Los Angeles, Mono, Orange, Riverside, San Bernardino, San Luis Obispo, Santa Barbara and Ventura Counties.
+Article H WORK COVERED
+Section 1.	This Agreement covers the work performed by the bricklayer, stonemason, marble mason, imitation marble mason, cement block layer, pointer, caulker, cleaner and any work which has been or may in the future become work of the bricklayer stonemason, marble mason, imitation marble mason, cement block layer, pointer, caulker and cleaner, or any work within the scope of brickmasonry, stone and marble masonry, imitation marble masonry, blockmasonry or refractory and acid resistant masonry, whether performed at the jobsite or prefabricated on or off the job site.
+Section 2.	BRICKMASONRY consists of the laying or installation of any brick made of any material, vitreous, burnt clay, cement, glass, adobe, cinder, shale, metal or any substitute material of any size, shape or weight, brick and interlocking paving, the application of thin brick veneer and terra cotta regardless of the method of application and the fabrication and setting of all brick panels, whether fabricated on or off the jobsite.
+Section 3.	BLOCKMASONRY consists of the laying or installation of any block made of any material, vitreous, burnt clay, cement, glass, adobe, cinder, shale, metal or any substitute material of any size, shape or weight and regardless of the method of application and the fabrication and setting of all block panels and block and beam floor systems, whether fabricated on or off the job site such as operating the block laying machines in plants.
+Section 4.	PRECAST MASONRY consists of the laying, erection or installation of any precast material made from any material of any size,
+1
+I	---------
+shape or weight and regardless of any method of installation, cementation mechanical, bolted, welded or other means and the erection of precas fireplaces or any other type of precast products used as substitutes fo brickmasonry, blockmasonry or stonemasonry, and the pointing, caulking and cleaning of same.
+Section 5.	STONEMASONRY consists of the laying or installation of granite, marble and any stone, natural or artificial, made from any material, of any size, shape or weight and regardless of the method o erection, installation, cementation, mechanical, bolted or welded, provided qualified members are available for employment, and includes the placing o stones in precast panels, consists of laying all rip-rap, rubble work, with o without mortar, setting all cut stone, marble, slate or stone work (meaning as to stone, any work manufactured from such foreign or domestic products as are specified and used in the interior or on the exterior of buildings by architects, and customarily called "stone” in the. trade). Stonemasonry shal also consist of cutting all shoddies, broken ashlar or random ashlar that is roughly dressed upon beds and joints, and range ashlar not over ten inches in height; the dressing of all jibs, comers and ringstones that are roughly dressed upon the beds, joints or reveals, and the cutting of a draft upon same for plumbing purposes only; and the cleaning, cutting of joints and pointing of stone work.
+Section 6.	REFRACTORY, FIREPROOFING AND ACl^ RESISTANT MASONRY consists of the laying, welding of studs for anchors any anchoring system, ceramic fiber, wire mesh or installation of ail refractory fireproofing and acid resistant materials, laying out of all brick and placing by any means all refractory and acid resistant materials, such as Petro Chemical including but not limited to pouring, pounding, ramming, pointing, plastering guniting and spraying of these materials.
+Section 7.	OTHER WORK includes sand blasting, sewers, manholes pointing, caulking and cleaning of all types of masonry, caulking of all frame encased in masonry on brick, block or stone structures, including all grinding and cutting out of such work and steam cleaning, also the use of special mortar in addition to portland cement mortars such as, but not limited to, epoxies plastics, etc. The handling and placing of reinforcing steel in masonry and thi grouting of all masonry by any means shall be the work of members of the I.U ofB.A.C.
+Section 8.	MARBLE MASONRY consists of the cutting and setting of all marble, cultured marble, slate, including slate blackboards, stone albereen, carrara, san I onyx, vitrolite, and similar opaque glass, scagliola marbleithic, and all artificial, imitation or case of whatever thickness o
+2
+dimension. This shall apply to all interior work, such as sanitary, decorative and other purposes inside of buildings of every description wherever required, including all polish, honed or sand finish; also the cutting and fitting of above materials after same leave mills or shops, as well as ail accessories in connection with such work, and the laying of all marble tile, slate tile and terrazzo tile, cultured marble and corian.
+In addition to the work jurisdiction in this Agreement, it shall also include the erection or installation of interior or exterior marble, slate or stone work customarily set by the trade, both natural and artificial, in any public or private building anywhere within the territory governed by this Agreement.
+Article III JOINT BOARD
+Section 1.	In order to correctly enforce this Agreement, a Joint Board shall be established for said purpose. The Joint Board will cover the jurisdiction of Bricklayers Local #4. The Joint Board shall consist of eight (8) members, four (4) representatives designated by the MCESC and four (4) representatives designated by the Union. The board shall have in it's makeup, one contractor and one union representative from the area where the alleged violation occurred. The Union and the MCESC may have one person present at all meetings to act as an observer. The Joint Board shall elect a chairman and secretary. If the chairman is a Union representative, the secretary shall be a MCESC representative. The chairman and secretary shall be rotated annually. Either the chairman or the secretary of the Joint Board, or any two members of the Board shall be authorized to call a meeting of the Joint Board. Twenty-four (24) hours prior notice shall be given in writing to all members of the Board. Giving a time and place of any meetings of the Joint Board, giving the purpose for calling the meeting, unless a further extension of time is mutually agreed upon in writing. A quorum of the Joint Board shall consist of at least 'two members of the Board representing the MCESC and two members of the Board representing the Union. The Joint Board cannot take any action unless such action is approved by majority vote. Upon request of either party, the vote before the Board shall be by secret ballot. Where there are more representatives of one side than the other, the over represented side shall draw lots among themselves to see which shall not vote, in order that the number of votes cast by each side shall be equal. Any action or decision of the Joint Board shall be final and binding on all parties covered by this Agreement. Should the Joint Board fail to render a decision on any question of difference regarding the enforcement of this Agreement within three (3) days after presentation to the Joint Board, it is agreed that either the MCESC or the Local Union shall have the right to submit such
+3
+question or differences to arbitration by filing a notice demanding arbitration within ten (10) days of the initial presentation to the Joint Board. The decision of the Arbitrator shall be final and binding on all parties covered by this Agreement. The procedure for selection of the Arbitrator and the jurisdiction of the Arbitrator shall be set forth in Section 3 of this Article.
+Section 2.	The Local Union or the MCESC may present to this Joint Board in writing, all facts concerning a possible violation of this Agreement. It is agreed that the Local Union may take immediate action, economic or otherwise for enforcement of this Agreement against any employer who does not appear on the list of members furnished by the MCESC but alleged violations of this Agreement by members appearing on the list of members furnished by the MCESC must be presented to the Joint Board for decision prior to any action or actions being taken by the Local Union or Union representatives. After the Joint Board has heard testimony of the accused violator or has provided an opportunity for the accused violator to appear before the Joint Board or answer the alleged charges in writing, the Joint Board has agreed that the accused violator has violated this Agreement the Joint Board may assess damages against the accused violator, but in no instance shall the assessed damages exceed five hundred dollars ($500.00) except as provided under Article X, Section i, Contributions to Trusts, wages or liquidated damages. The amount of assessed damages shall be determined in accordance with the number of such violations and the seriousness of the violation. Any damages collected shall be deposited in the Trust Funds. The Joint Board shall have the authority, when it deems necessary, to increase the minimum cash bond deposit of five hundred dollars ($500.00) as required under Article XI, Section I, of this Agreement for any employer who has a past record of delinquencies or wilt complete the job and leave the area before contributions are due. Awards made by the Joint Board will be binding throughout the jurisdiction of Local #4.
+Section 3.	If a timely request for arbitration after failure of the Joint Board to decide an issue before it is made as per Section 1 above, the arbitrator shall be selected by request to the Federal Mediation and Conciliation Service of Washington, D C. to nominate a panel of seven (7) arbitrators, three (3) to be stricken by each of the parties signatory hereto. The parties shall determine by lot who shall strike first and then each side shall alternately strike a name until one name is left. That name shall be the one chosen by the parties as the arbitrator.
+The power and authority of the arbitrator shall be limited to determining the meaning and interpretation of the explicit terms of this Agreement as herein expressly set forth and issuing an award in accordance therewith He shall not have authority to add to or subtract from or modify
+4
+any terms of this Agreement. The arbitrator's award shall be final and binding on matters properly before him. The decision of the arbitrator shall be based solely on the evidence and arguments presented to him by the parties in the presence of each other. The parties agree that the power and jurisdiction of any arbitrator chosen hereunder shall be limited to deciding whether there has been a violation of a provision of this Agreement. The arbitrator shall render his award within, thirty (30) days after the close of hearing or submission of the parties’ briefs, whichever is later.
+The expense of the arbitrator and the cost of transcript (if ordered by both parties) shall be shared equally by the member Company involved in the arbitration and the Union. If a transcript is ordered by only one party, that party shall bear the cost of the transcript. The expense of calling any witness or having any representative or employee present shall be bome by the party calling such witness or requesting the representative or employee.
+Article IV
+LABOR CONTRACTS - LUMPING BUILDING CODES - SAFETY CODES
+Section 1.	The employer covered by this Agreement shall not contract out work covered by this Agreement, except to a contractor signatory to this Agreement who uses employees represented by Bricklayers and Allied Craftworkers. The unions shall be notified of the name of the subcontractor when any sub-letting of work is performed.
+Due to the special and usually emergency needs for welders in the Refractory section of the industry, when the contractor is required to install refractory attachments to a pressure vessel where an ASME code stamp is required, or to operate specialized welding equipment, beyond the contractors expertise, and the union is unable to supply qualified workers or specialized welding equipment operators, the contractor may use a qualified welding contractor to install such attachments.
+Section 2.	It is mutually agreed by and between the employers and the Union and all parties covered by the Agreement that they will perform all masonry construction in accordance with the accepted City, County, State and Federal Building Codes as well as all State and Federal Safety Codes and will strive to develop and improve good structural and architectural practices and job safety.
+5
+Article V STEWARDS - UNION RECOGNITION
+Section 1.	Every job working one or more workers must have a craft steward elected by the majority of the workers on the job or appointed by the Union before such workers shall begin work on the first day of the job or before beginning work on any other day that the elected or appointed steward is not on the job. A craft steward must be a competent journeyman. The steward shall be a member of BAC Local #4 who has his residence status of six months in the jurisdiction of this Agreement. The Union agrees that the duties of the craft steward shall be performed as expeditiously as possible and the employer agrees to allow the craft steward a reasonable amount of time for performance of such duties. The craft steward is to receive grievances or disputes from employees and shall immediately report them to his business representative or responsible representative of the Local Union if the craft steward cannot remedy the grievance with the foreman on the job or the employer. No steward shall be laid off without (4) four hours notice tothe local union.
+Section 2.	The employer shall allow the foreman, or die first man on the job in case of a one or two man job, sufficient time to notify the Local Union of the starting of every new job or the restarting of any job.
+Section 3,	Workers covered by this Agreement employed by one or more of the employers for a period of seven (7) days continuously or accumulatively from the date of employment or effective date of this Article, whichever is later, shall as a condition of employment, tender the union dues and initiation fees in effect in the Local Union. In the event that any employee fails to tender the dues or initiation fees, the Union shall notify the employer and such notice shall constitute a request to the employer to discharge said employee within twenty-four (24) hours. In the event the employer refuses to discharge the employee as above required, the Local Union shall be free to take economic action against said employer, including but not limited to, the removal of the employees from the employer's job and Article VI, Section 2, shall not apply.
+Section 4.	Every steward must submit a Steward Card weekly to the Local Union hall in whose jurisdiction the job is located.
+Section 5.	The steward on the job shall examine the dues books or receipts for local dues at the beginning of each job and as any new mason starts work. If any member working on the job does not have a paid up dues book or receipts of local dues, the steward shall immediately notify the Local Union.
+Section 6.	In no event shall any signatory contractor be liable for enforcement of Section 4 and 5, Article V.
+6
+Article VI
+MCESC RECOGNITION
+Section L It is agreed that the Union shall have the right to remove its members from any job when it deems necessary to enforce the terms of this Agreement with the exception of Article IV, Sections 1 and 2 without regard to the provisions of Article III of this Agreement
+Section 2.	It is agreed that the Union cannot proceed with Section 1 of this Article on any job involving a member of the MCESC unless after forty-eight (48) hours the Joint Board cannot render a decision on the dispute. Within ten (10) days after (he effective date of this Agreement, the MCESC shall furnish the Union a complete list of all the regular members of the MCESC covered by this Agreement In addition, the MCESC shall furnish to the Union covered by this Agreement a monthly up-to-date list of additions or deletions of members of the MCESC covered by this Agreement The Union shall furnish to the MCESC a signed Agreement for each and every employer signed to this Agreement within ten (10) days after said employer has signed this Agreement
+Section 3.	The Union may take immediate economic action as set forth in Section 1 of this Article against any employer who fails to pay wages or gives a bad check for wages or is delinquent in its contributions to the Trust Funds, or in case of a serious Safety Code violation without first bringing the matter to the Joint Board as set forth in Section 2 above. This Section 3 shall remain in effect and supersede Section 2 above until the MCESC shall give ten (10) days’ written notice to the Union of its intention to eliminate this Section 3. Such action on the part of the MCESC in giving this ten (10) days' written notice to the Union shall immediately cancel and terminate this Section 3, only as to members of the MCESC and Section 2 will remain in full force and effect
+Section 4.	In the event any employer pays any employees with a check which is thereafter dishonored by die Bank for any reason, then and in that event, all subsequent wage payments to all employees for the duration of this Agreement, shall be paid in either cash, certified check or money order. The provisions of this Section 4 shall be canceled and rendered null and void only as to members of the MCESC ten (10) days after the MCESC has served written notice of its desire to cancel the provisions of this Section 4, to the Union.
+Section 5.	The MCESC agrees to acquaint its members covered by this Agreement with the provisions of this Agreement and will endeavor to the best of its ability to corppei its members to abide by all the provisions of this Agreement
+7
+Section 6.	The Union agrees to acquaint all employers who are not members of the MCESC with the provisions of this Agreement and will endeavor to the best of its ability to compel these employers to abide by all the provision of this Agreement	-
+Article VII
+WORKING HOURS - SHUT WORK HOLIDAYS
+Section 1.	Eight (8) hours shall constitute a day's work between the hours of seven (7:00) a.m and four-thirty (4:30) p.m. Monday through Friday. Lunch period shall total one-half (1/2) hours and shall begin no more than five (5) hours after beginning wade
+Section 2.	(a) Monday through Friday, the first eight (8) hours on each shift shall be paid at straight time hourly rate. The ninth (9*) and tenth (10*) hours worked shall be paid at one and one-half (I 'A) times the straight time hourly rate. All hours worked over ten (10) hours shall be paid at double (2 times) the straight time hourly rate.
+(b)	Saturdays, the first eight (8) hours worked on each shift shall be paid at one and one-half (1 ‘A) times the straight time hourly rate. All hours worked over eight (8) hours shall be paid at double (2 times) the straight time hourly rate.
+(c)	Sunday and Holidays, all hours worked on each shift shall be paid at double (2 times) the straight time hourly rate.
+Section 3.	No overtime shall be worked except in the case of an emergency, including Saturday, Sunday or Holidays, and the contractor or his representative shall obtain permission from the responsible representative of the union.
+Section 4.	Permission to work shift work shall be obtained from the responsible representative of the Union.
+(a)	On two (2) shift work with eight (8) hour shifts, first shift works eight (8) hours for eight (8) hours pay. Second shift works seven and one-half (7 ‘A) hours for eight (8) hours pay.
+(b)	On two (2) shift work with ten (10) hour shifts, first shift works ten (10) hours for ten (10) hours pay. Second shift works nine and one-half (9 'A) hours for ten (10) hours pay. Overtime rates shall apply as shown in Article VII, Section 2 above.
+8
+(c)	On three shift work, first shift works eight (8) hours for eight (8) hours pay, second shift works seven and one-half (7 '/i) hours for eight (8) hours pay, and third shift works seven (7) hours for eight (8) hours pay.
+(d)	On jobs where shifts are worked, the employer and the responsible representative of the Union in whose jurisdiction the job is located may mutually agree to regulate the starting time of the first shift to permit maximum utilization of daylight hours.
+(e)	In shift work, the hours worked between twelve (12:00) midnight Friday and twelve (12:00) midnight Sunday shall be considered overtime.
+(f)	In no case shall any worker work more than one (I) established shift in any calendar day and each shift shall have its separate foreman as required.
+(g)	The continuity of shift work shall be approved by the Union.
+Section 5.	The following days are recognized as legal holidays: New Year's Day, Memorial Day, Independence Day, Labor Day, Veterans’ Day, Thanksgiving Day, Friday after Thanksgiving, Christmas Day, Saturdays and Sundays. Any holiday falling on a Sunday, the following Monday shall be considered as a holiday for which the overtime rate shall apply. Overtime shall be paid for work performed on any of the above listed holidays.
+Section 6.	The responsible representative of the Union shall be allowed to grant permission to an employer, on single shift operations, to start before seven (7:00) a.m. Such deviation of starting or quitting time shall not subject the employer to the overtime rates specified in this Agreement.
+Section 7.	Single shift on Freeways or new work where conditions prevent work during normal work hours will be worked as set forth in section 4 (c). Any single shift worked during the hours normally called "swing" shift will work seven and one half (7 '/a) hours for eight (8) hours pay. Any single shift worked during the hours normally called "graveyard" will work seven (7) hours for eight (8) hours pay.
+Section 8.	MAKE UP ON SATURDAY. In the event employees are unable to work forty (40) hours in a week because of bad weather or any other reason beyond the control of the contractor, Saturday can be a "Make-Up" day at the straight time rate. The Union must be notified.
+9
+Article Vlll
+SHOW UP TIME
+Section 1.	Any worker reporting for work at the regular starting time and for whom no work is provided, shall receive pay for two (2) hours at the stipulated rate, for so reporting, unless he has been notified before the end of the last preceding shift not to report or unless prevented form working for reasons beyond the control of the employer, including but not limited by such factors as inclement weather or breakdown of a major unit, causing discontinuance of the project during which time workmen are not required to remain on the project by the employer or his agent, or if the project is completed.
+Section 2.	Any worker that reports for work at the regular starting time and for whom work is provided shall receive not less than four (4) hours pay, and if more than four (4) hours are worked in any one day, shall receive not less than a full day's pay thereof; and in case of shift work, paid a full shift after working half the shift, unless prevented from working for reasons beyond the control of the employer including but not limited by such factors as inclement weather or breakdown of a major unit, causing discontinuance of the project during which time workers are not required or requested to remain on the project by the employer or his agent, or if the project is completed.
+Section 3.	The employer shall give the Union twenty-four (24) hour notice when requesting workers.
+Article IX APPRENTICE WAGES - RESTRICTIONS
+Section 1.	Apprentices shall be employed in conformity with the Labor Code of the State of California governing the employment of apprentices. Apprentices shall be employed in accordance with the Apprenticeship Standards and be subject to the Local Joint Apprenticeship Committee composed of representatives of the MCESC and Union of the I.U. of B.A.C. covering the jurisdiction of the Local Union where the Apprentice is employed.
+Section 2.	The Apprenticeship Trust Fund shall collect: The one dollar (SI.00) per month contribution prorated to each of the Local Joint Apprenticeship Committees for the particular month in which the contribution is being made.
+10
+Section 3.	The signatory employer shall be required to pay the above described one dollar. (SI.00) per month contribution commencing with the month in which the said employer becomes bound to this Agreement. The obligation to pay said one dollar (SI .00) per month shall thereafter continue for the duration of this Agreement whether or not said employer performs any further work covered by this Agreement.
+Section 4.	All employers who employ five journeymen shall employ one apprentice, and for each additional five journeymen employed, shall employ an additional apprentice. The second apprentice employed on each job shall be represented by the Local Union from the jurisdiction of the local in which the job is located.
+.	a). No apprentice shall be allowed to operate a masonry
+saw, grout, wash down or drill stone for more than forty (40) hours during a thirty (30) day period.
+Section 5.	Contractors will pay Health & Welfare, Pension and Bond on apprentices.
+Section 6.	Apprentices shall receive the following hourly wage rates as of May 1, 2001 through April 30, 2004.
+1“ 6 months	35% of journeyman wage scale
+2nd 6 months 3rd 6 months 4'h 6 months 5th 6 months '	ri"16 months 7th 6 months LOS ANGELES COUNTY 5/1/2001 I" 6 months	$ 10.20 2nd 6 months	11.66 3rd 6 months	14.58 4th 6 months	17.49 5th 6 months	20.41 6* 6 months	23.32 7* 6 months	26.24	40% of journeyman wage scale 50% of journeyman wage scale 60% of journeyman wage scale 70% of journeyman wage scale 80% of journeyman wage scale 90% of journeyman wage scale 5/1/2002*	5/1/2003* $10.62	$11.04 12.14	12.62 15.18	15.78 18.21	18.93 21.25	22.09 24.28	25.24 27.32	28.40
+II
+ORANGE COUNTY
+	5/1/2001	5/1/2002*	5/1/2003*
+1" 6 months	$9.82	$10.24	$ 10.66
+2nd 6 months	11.22	11.70	12.18
+3“* 6 months	14.03	14.63	15.23
+4* 6 months	16.84	17.56	18.28
+5* 6 months	19.64	20.48	21.32
+6* 6 months	22.45	23.41	24.37
+7* 6 months	25.25	26.33	27.41
+SAN BERNARDINO & RIVERSIDE COUNTIES
+	5/1/2001	5/1/2002*	5/1/2003*
+1" 6 months	$9.46	$9.88	$ 10.30
+2nd 6 months	10.81	11.29	11.77
+3rd 6 months	13.51	14.11	14.71
+4* 6 months	16.21	16.93	17.65
+5* 6 months	18.91	19.75	. 20.59
+6*6 months	21.62	22.58	23.54
+7* 6 months	24.32	25.40	26.48
+VENTURA COUNTY		5/1/2002*	5/1/2003*
+	5/1/2001		
+1“ 6 months	$9.61	$ 10.03	$ 10.45
+2nd 6 months	10.98	11.46	11.94
+3'd 6 months	13.73	14.33	14.93
+4lh 6 months	16.48	17.20	17.92
+5* 6 months	19.22	20.06	20.90
+6*6 months	21.97	22.93	23.89
+7* 6 months	24,71	25.79	26.87
+KERN. INYO. MONO & TULARE COUNTIES
+	5/1/2001	5/1/2002*	5/1/2003*
+1*6 months	$9.58	$10.00	$ 10.42
+2nd 6 months	10.95	11.43	11.91
+3ri 6 months	13.69	14.29	14.89
+4* 6 months	16.43	17.15	17.87
+5* 6 months	19.17	20.01	20.85
+6* 6 months	21.90	22.86	23.82
+7* 6 months	24.64	25.72	26.80
+‘Increase subject to partial or full reallocation to Trust Contributions.
+Section 7.	Vacation will be deducted from paycheck for all apprentice employees at the same rate as journeymen.
+12
+Article X
+CONTRIBUTIONS - TRUSTS
+Section 1.	All employer contributions shall be paid as required by Section 8 of this Article to the Trust Funds appropriate for the area where the job is located. The Trust Funds shall hold on deposit the cash bond deposits required by Sections 8 and 10 of this Article and Article XI. A Delinquency Committee shall be designated for each area trust Each Trust shall have the right to designate two members to said Committee. The Union shall have the option of submitting a claim for a violation of this article to either the Joint Board, Article ID, or to the Delinquency Committee; Said Committee, on behalf of the Trust Funds, shall receive and review al) claims against any signatory employer alleging a failure to pay wages, contributions or liquidated damages except where the Joint Board has assessed damages, in which event the Joint Board's decision shall be final and binding, "as long as the decision does not infringe on the trustees ability to carry out their fiduciary duties." Said committee shall report all findings and recommendations to the Trust Funds. The Trust Funds shall have the power to levy upon, assess and use all or a portion of the cash bond deposit to pay wages and fringe benefit contributions or liquidated damages which the employer fails or refuses to pay. Except as provided in Article XII, Section 16, no such levy or assessment on the cash bond deposit shall be made by the Trustees of the Trust Funds until at least ten (10) days written notice of the proposed levy and assessment is given by the Trustees to the delinquent employer, and said employer is afforded an opportunity to appear before the Delinquency Committee to present evidence and witnesses on behalf of the employer. The Committee, after hearing will report the matter to the Trust Funds for further action. If the employer fails or refuses to attend the hearing before said Committee, the trustees of each Trust shall have the right to decide the matter and levy against the cash bond deposit upon the evidence presented to it by the complaining party. The provisions of Article III shall not apply to any action taken by the Trust Funds against any employer who is delinquent or has failed to make any of the contributions required to be made to the Trust Funds set forth in Section 1 of this Article.
+Section 2.	A Health and Welfare trust, known as the Health and Welfare Trust Fund, has been established by Agreement and Declaration of Trust and subsequently amended by the parties thereto. Each employer bound by this Agreement hereby agrees to abide and be bound by all of the terms and provisions of said Agreement and Declaration of Trust, as amended and as from time to time may hereafter be amended. In accordance with the provisions of said Agreement and Declaration of Trust, it shall be the purpose of the Health and Welfare Trust Fund to provide for accident and sickness, and/or group insurance as may be determined by the Trustees. At the discretion of the Trustees, dependents may also be entitled to benefits.
+13
+Section 3.	A pension trust, known as the Pension Trust Fund, has been established by Agreement and declaration of Trust and subsequently amended by the parties thereto. Each employer bound by this Agreement hereby agrees to abide and be bound by all of the terms and provisions of said Agreement and Declaration of Trust, as amended and as from time to time may hereinafter be amended. In accordance with the provisions of the Agreement and Declaration of Trust, it shall be the purpose of the Pension Trust Fund to provide retirement benefits to eligible employees under such terms and conditions as may be required by the Trustees.
+Participation in more than one pension trust has been agreed upon by the parties to this Agreement. The first pension trust known as the Brick Masons Pension Trust Fund, established by Agreement and Declaration of Trust dated 23 May, 1963 and subsequently amended by the parties thereto. The second, the pension trust known as the Bricklayers and Trowel Trades International Pension Fund, established under an Agreement and Declaration of Trust dated I July, 1972. Each employer under this Agreement hereby agrees to abide and be bound by ail of the terms and provisions of both said Agreements and Declarations of trust as amended and as from time to time may hereafter be amended. In accordance with the provisions of the Agreements and Declarations of Trust it shall be the purpose of these funds to provide retirement and other similar benefits to eligible employees under such terms and conditions as may be required by the trustees of each trust fund.
+The parties hereto have agreed to a third pension plan, which will be a defined contribution plan, effective May 1, 1984. The details of administration and rules will be established by mutual agreement at a subsequent date.
+Section 8 of this Article provides that every signatory employer pay a specific contribution per hour worked by all journeymen and apprentice employee covered by this Agreement to the appropriate Trust Funds. It is hereby understood and agreed that the portion designated under Section 8 (B) includes contributions to the Pension Trust Fund, the Bricklayers and Trowel Trades International Pension Fund and the Defined Contribution Pension Fund. However, the Bricklayers and Trowel Trades International Pension Fund is not otherwise a part of the Trust Funds, and will be subject to those portions of this Agreement which proscribe the administration of the Pension Trust Fund's including without limitation Sections 1, 6, 10 and 12 of this Article XV only as the trustees of the International Pension Fund may agree.
+14
+During the term of this Agreement the parties to this Agreement certify that the following amounts per hour of the total amount paid by the Employers as pension contributions is allocated to the Bricklayers and Trowel Trades International Pension Trust Fund.
+Kern, Inyo, Mono & Tulare Counties.$1.00 Per Hour
+Los Angeles County........................1.00 Per	Hour
+Orange County...............................70 Per	Hour
+San Bemardino/Ri verside Counties...1.10 Per Hour
+Ventura County............................1.50 Per	Hour
+A.	The Employer hereby adopts the Agreement and Declaration of Trust establishing the Bricklayers and Trowel Trades International Pension Fund dated 1 July, 1972, and said Employer hereby irrevocably designates as its representatives on the Board of Trustees as are now serving, or who will in the future serve, as Employer Trustees, together with their successors.
+B.	The International Pension Plan adopted by the Trustees of said Pension Fund shall at all times conform with the Requirements of the Internal Revenue Code so as to enable the Employer at all times to treat contributions to the International Pension Fund as a deduction for income tax purposes.
+C.	It is the understanding of the parties to this Agreement that the International Pension Fund will rely upon the operational procedures of the Trust Funds to accomplish collection of contributions due under this agreement. The International Pension Fund will pay a reasonable reimbursement of collection expense as mutually agreed upon by the two boards of Trustees. It is further understood that the International Pension Fund and the Brick Masons Pension Trust Fund will establish mutually agreeable written operational procedures.
+During the term of this Agreement the following portions of these funds so provided shall be paid to the Bricklayers & Trowel Trades International Pension Fund Trust to provide additional pension benefits to the eligible employees covered herein as is provided by said trusts:
+Kern, Inyo, Mono & Tulare Counties...$ 1.00 Per Hour
+Los Angeles County.........................1.00 Per	Hour
+Orange County................................70 Per	Hour
+San Bemardino/Riverside Counties.....1.10 Per Hour
+Ventura County.......................1.50 Per Hour
+15
+Section 4.	An apprentice training trust, known as th Apprenticeship and Training Trust Fund, has been established by Agreemer and Declaration of Trust and subsequently amended by the parties theretc Each employer bound by this Agreement hereby agrees to abide and b bound by all of the terms and provisions of said Agreement and Declaratio of Trust, as amended and as from time to time may hereafter be amended. 1 accordance with the provisions of the Agreement and Declaration of Trust, shall be the purpose of the Apprenticeship and Training Trust Fund to hand! and disburse monies to be used by the Local Joint Apprenticeship Committe in the operation of apprentice training programs and to disburse funds a provided in Article IX, Section 2.
+Section 5.	A vacation trust, known as the Vacation Trust Fund, ha been established by Agreement and Declaration of Trust dated an subsequently amended by the parties thereto. Each employer bound by thi Agreement hereby agrees to abide and be bound by all of the terms ant provisions of said Agreement and Declaration of Trust, as amended and a from time to time may hereafter be amended. In accordance with th provisions of the Agreement and Declaration of Trust, it shall provide fo distribution of vacation monies to workers who had deductions from thei wages by their employers and said employers paid such deductions into saic Trust on behalf of said workers.
+Section 6.	No contribution from any employer who is not signatory to this Agreement shall be accepted by the Trustees of the above-named Trust Funds.
+Section 7.	An Industry promotion trust known as Masonry Institute of America (M.l.A.) has been established for the purpose of providing for the promotion and development of the Masonry Industry. The Promotion Fund so provided shall be utilized for promotion purposes in a manner which shall be determined at the discretion of the trustees. The Promotion Trust shal disburse to the International Masonry Institute (IMI) each month, a sum equal to one cent (.01) per journeyman hour contributed, less the pro rata share of general and administrative costs.
+16
+Section 8.
+CONTRIBUTIONS ON JOURNEYMAN BRICKLAYERS CONTRIBUTION ON APPRENTICE HOURS WORKED SHALL BE HEALTH & WELFARE, PENSION AND BOND
+MAY 1, 2001 through APRIL 30, 2004
+	LA		OC	SB/R	VEN	KJI/M/Y
+A.	Health & Welfare	$3.15	$3.15	$3.15	$3.58	$3.15
+B.	Pension Funds 1) Local Pension	1.05	1.05	1.80		1.46
+	2)	LU, Pension 3)	Defined Contribution	1.00	.70	1.10	1.50	1.00
+	Plan	1.00	.35			
+C.	Local Apprenticeship Training	.15	.15	.15	.15	.15
+D.	Vacation Trust (Deducted from Wages)	1.00	1.00	1.00	1.00	1.00
+E.	Supplemental Dues (Deducted from Wages) MAY 1, 2001 1) Local Working Dues	.41	.39	.38	.38	.38
+	2) I.U.Working Dues	.36	.34	.34	.33	.33
+	AUGUST 1. 2001 1) Local Working Dues	.72	.68	.67	.66	.67
+	2) LU. Working Dues	.36	.34	.34	.33	.33
+	MAY 1, 2002 1) Local Working Dues	.74	.70	.69	.68	.69
+	2) l.U. Working Dues	.37	.35	.35	.34	.35
+	MAY 1.2003 I) Local Working Dues	.76	.72	.72	.71	.72
+	2) LU, Working Dues	.38	.36	.36	.35	.36
+17
+SUPPLEMENTAL DUES, DEDUCTED FROM WAGES, FOR APPRENTICES WILL BE AS FOLLOWS:
+MAY 1, 2001	LA	PC	SB/R	VEN	K/l/M/Y
+1 st 6 months	1)	$.34	$ .34	$.33	$.33	$.33
+	2)	.20	.20	.20	.20	.20
+Note: LU. working dues for all apprentices are $.20 per hour.					
+2nd 6 months	1)	.36	.36	.35	.35	.35
+3rd 6 months	1)	.40	.40	.39	.39	.39
+4th 6 months	1)	.44	.44	.43	.43	.43
+5th 6 months	1)	.49	.47	.46	.47	.47
+6th 6 months	1)	.53	.51	.50	.51	.51
+7th 6 months	1)	.57	.55	.54	.55	.54
+AUGUST 1, 2001					
+1st 6 months	1)	.34	.31	.32	.30	.31
+2nd 6 months	1)	.37	.34	.35	.33	.34
+3rd 6 months	1)	.42	.39	.40	.39	.40
+4th 6 months	1)	.48	.45	.45	.44	.45
+5th 6 months	1)	.54	.51	.51	.50	.50
+6th 6 months	I)	.60	.56	.56	.55	.56
+7th 6 months	1)	.66	.62	.62	.61	.61
+MAY 1. 2002					
+1 st 6 months	1)	.35	.32	.33	.31	.32
+2nd 6 months	1)	.38	.35	.36	.34	.35
+3rd 6 months	1)	.44	.41	.41	.40	.41
+4th 6 months	1)	.50	.47	.47	.45	.46
+5th 6 months	1)	.56	.52	.53	.51	.52
+6th 6 months	1)	.62	.58	.58	.57	.58
+7th 6 months	1)	.68	.64	.64	.63	.64
+MAY 1. 2003					
+1st 6 months	1)				
+2nd 6 months	I) .35	.33	.34	.32	.33
+3rd 6 months	1)	.39	.36	.37	.35	.36
+4th 6 months	1)	.45	.42	.42	.41	.42
+5th 6 months	1)	.51	.48	.48	.47	.48
+6th 6 months	1)	.58	.54	.54	.53	.54
+7th 6 months	1)	.64	.60	.60	.59	.60
+F. Cash Bond Deposit	.50	.50	.50	.50	.50
+G. Promotion Fund	.31	.31	.31	.31	.31
+	18				
+Any employer signatory hereto who contributes on less than one hundred (100) hours for a calendar month, agrees to contribute the sum of $10.00 per month to the Promotion Fund, and $5.00 per month to the Apprenticeship Trust Fund, for each month in which the signatory employer is liable for a contribution report.
+The employer shall deduct from the wages of each employee, who has signed a check off authorization conforming to Federal law, and transmit monthly to the Trust Fund, the sum agreed for each hour worked under the collective bargaining Agreement of Local #4. The sums transmitted to Local #4 shall be accompanied by a statement, reporting the name of each person whose local working dues are being paid and the number of hours each employee has been paid. .
+The union shall furnish the Authorization Forms to the Employers Representative to be executed. This authorization shall be irrevocable for the period of one (I) year following the date it was signed or until the current applicable collective bargaining Agreement expires, whichever occurs from year to year, unless not more than ninety (90) days, nor less than sixty (60) days prior to the termination of the annual renewal date the member revokes this authorization by written notice to the Union and to the individual Employer by whom the member is employed.
+The employer shall deduct from the wages of each employee an amount equal to one percent of the hourly wage + Fringe package, for each hour of employment under such a collective bargaining agreement during the previous month hereafter call "IU working dues", the IU dues shall be automatically adjusted each year according to the percentage increase in journeyman wage + Fringes.
+Section 9.	The Trustees of the Trust Funds shall provide forms to the employer so that the employer may furnish written reports monthly, or at such other periods as designated by the respective Trustees, which reports shall set forth the names, social security numbers and hours worked by workers covered by this Agreement, or if no such workers have worked during the month involved, a statement on such form to such effect. The Trustees of the respective Trust Funds shall be entitled to, and may file legal action for, the collection of any and all contributions and liquidated damages due and owing by the employer and, in the event such action is maintained and filed in addition to recovering of payments due and legal rate of interest, the employer agrees to pay all costs of such suit or suits, together with reasonable Attorney's Fees.
+19
+Section 10.	Each contribution report and payment to the respective Trust Funds shall be made promptly at the designated depository and shall be postmarked on or before the 25th day of the calendar month in which it becomes payable and, if not paid in full by the 25th day of the month at the depository designated by the appropriate Trust Funds by the 25th of the calendar month in which it becomes payable, shall be delinquent and subject to liquidated damages. If Any employer fails to make the monthly report and contributions in full on or before the LAST day of the month on four (4) occasions within any twelve-month period, or for two consecutive months, the Delinquency Committee may provide by resolution that thereafter immediately following such resolution the employer shall be required to increase his cash bond to $6,000.00. Said resolution shall be subject to approval by the Trust Funds. The MCESC and Union recognize and acknowledge that the regular and prompt payment of employer contributions to the Trust Funds is essential to the maintenance of the Trusts, and that it would be extremely difficult and impractical, if not impossible, to fix the actual expense and damage to the Trusts which would result from failure of an individual employer to pay such monthly contribution in full within the time above provided. Therefore, the amount of damage to the Trust Funds resulting from any such failure to pay is hereby agreed to the sum of $20.00 per delinquency or ten percent (10%) of the amount of the contribution or contributions due, whichever is greater, which amount shall become due and payable to the Trust Funds pro rata by the delinquent employer as liquidated damages and not as a penalty at the place where the contribution is payable upon the day immediately following the date on which the contribution or contributions becomes delinquent and shall be in addition to said contribution or contributions; provided, however, the Delinquency Committee may waive payment of any said liquidated damages in particular case upon good cause satisfactory to the Committee, subject to approval of the Trust Funds.
+Section 11.	Any employer signatory to this Agreement who does not employ workers during the month involved and fails to file a report with the Trustees as required by Article X, Section 9 hereof may at the discretion of the said Committee, subject to approval of the Trust Funds, be assessed the sum of ten dollars ($10.00) as liquidated damages for each such failure to report.
+Section 12.	The Board of Trustees of each Trust shall maintain suitable and adequate records of and for the administration of their respective Funds. The Delinquency Committee on behalf of each Trust may require the employers, and signatory association, individual employer, member, Union or employee to submit to the Committee data, reports or documents reasonably relevant to and suitable for the purposes of such administration; provided, however, that the Union shall not be required to submit lists of
+20
+membership. The parties agree that they will comply with any such reasonable request by the Committee. Upon request, each employer shall permit an accountant selected by the Committee to enter upon the premises of such employer or member during normal business hours, at a reasonable time or times, and to examine the payroll and cash disbursement records to determine whether the employer or member is making full and prompt payment of all sums required to be paid by the employer or member to the Funds. The payroll records will include the applicable individual employee's records, time cards, all supporting payroll disbursement records, all quarterly and annual federal and state payroll tax returns and copies of information submitted to the employees at the end of the calendar year, such as I.R.S. forms W-2, 1099 and 599. Related records will include those necessary to substantiate payments made to employees other than the ones designated as payroll.
+It is the essence of this provision that the contractor provide only information to the auditor to support payments made to employees performing work covered by this Agreement. It is not the intent of this provision for the contractor to provide any other financial or recorded information. All Parties agree that the accountant and his staff fully respect the confidential nature of the financial records and activities of the employer or member, and shall not request or require the independent accountant to divulge any information of the employer or member for any purpose beyond the scope and purpose of the examination. If it is determined, as a result of such examination, that the employer or member has defaulted in making any payments to the Funds, as required by this Agreement, then said employer or member, in addition to immediately paying into the Funds all amounts owing, shall immediately pay all reasonable costs incurred for such examination.
+Section 13.	Each of the Trusts Funds shall automatically provide an unconditional release to any member contractor covered under Member Contractor Blanket Cash Bond. In addition, each of the Trust Funds shall monthly provide unconditional releases to nonmember contractors if there are no specific known deficiencies in his account.
+Article XI .
+CASH BOND DEPOSIT
+Section 1.	In order to secure payment of wages, employer contributions due the Trust Funds, specifically the Health & Welfare Trust Fund, the Vacation Trust Fund, the Pension Trust Fund, the Apprenticeship Trust Fund, the Promotion Fund, and liquidated damages, each signatory employer agrees to deposit with the Trust Funds the sum of $2,000.00 in cash 21
+on May 1, 2001, or in the alternative, such employer may deposit the sum of $500.00 on May 1, 2001 and thereafter pay to the Trust Funds the amount specified in Article X, Section 8(F),' until such time as the applicable cash bond has been paid, no further payments to the Trust Funds for cash bond deposit shall be required. The applicable cash bond deposit shall at all times for the duration of this Agreement be maintained with the Trustees of the Trust Funds. All employers who work with the tools shall be required to comply with this Section Employers who contribute over $700.00 in contributions in any one calendar month to the Trust Funds shall be required to increase their cash bond deposit to a $4,000.00 cash bond deposit, which cash bond deposit shall remain until the expiration of this Agreement or otherwise satisfies the cash bond deposit requirement of this Agreement under Section 2 of this Article.
+In the event that collection of funds is insufficient to cover claims the following order of priority shall apply: Wages and Vacation, International Pension, Local Pension, Defined Contribution Pension, Health & Welfare, Apprenticeship, Promotion and Cash Bond.	.
+Section 2.	The Executive Council of the Mason Contractors Exchange of Southern California, Inc., shall deposit with the Trustees of the Brick Masons Trust Funds, Los Angeles, the sum of $15,000.00 in cash which shall be deposited for and on behalf of its members in lieu of the $2,000.00 or $4,000.00 cash bond deposit required by Section 1 of this Article, and required by each of the three Trust Areas covered by this Agreement Said cash bond deposit shall be used to provide the applicable cash bond for each of the members of the MCESC who are members on the effective date of this Agreement, under this cash deposit by the MCESC on the monthly list furnished by the Trost Funds and the Unions covered by this Agreement Employers who join the MCESC or are deleted from membership in the MCESC shall be covered and dropped from said cash bond coverage upon receipt of appropriate written notice given by the MCESC to the Trustees of die Trust Funds and the Unions. The $15,000.00 cash deposit shall be maintained in said full amount and for the duration of this Agreement The MCESC does hereby agree that it will be liable for the debts and delinquencies of the MCESC members covered by this cash bond to a maximum amount of the applicable cash bond per member in exh of the three Trust Areas covered by this Agreement This obligation is undertaken by the MCESC on its own behalf and for and on behalf of its mattes. Upon ratification of this Agreement by the MCESC said ratification shall constitute the promise of the MCESC to the Trustees of the Trost Funds as set forth in this Section. Individual members of the MCESC may, if they so elect, not be covered unde- the cash bond deposit of the MCESC and may deposit the applicable cash bond deposit as set forth in Section 1 of this Article.
+Section 3-	It is recognized that many employers have deposited with die Trust Funds cash deposits in an amount less than $2,000.00. Said employers shall not be permitted to withdraw said cash bond deposits until they have conplied with 22
+the total applicable cash deposit requirements of Section I or Section 2 of this Article Cash bond deposits in an amount less than $2,000.00 shall be maintained and the required balance added thereto in accordance with Section I or Section 2 of this Article. The $40,000.00 cash deposit shall be held by die Bride Masons Trust Funds in the name of the Mason Contractor's Exchange of Southern California, Inc.
+Section 4.	Any interest or other increments earned by the Cash Bond Deposits shall be held by the appropriate Trust Fund to pay administration costs for operation of said Trust as per the terms of the Trust Agreement and in no event shall any employer be entitled to receive any of the interest or increment earned by the Cash Bond Deposit
+Section 5.	The MCESC shall furnish the Trustees of the Trust Funds and the Unions covered by this Agreement a complete list of all its members covered by its blanket bond, and, in addition, will furnish each and every month during the term of this Agreement a revised list of those members added or deleted from coverage under the blanket cash bond.
+Article XII WAGESCALE
+Section 1.	The hourly wage scales for journeymen workers shall be as follows:
+May 1.2001 Through April 30.2002
+Los Angeles County...............................................$ 29.15
+Orange County...........................................................$	28.06
+San Bcmardinc/Riverside Counties........................................$	27.02
+Ventura County..........................................................$	27.46
+Kcm/lnycyMono/Tulare Counties...........................................$	27.38
+May 1.2002 Through April 30, 2003
+Los Angeles County......................................................$	30.35*
+Orange County.................................................  $	29.26*
+San Bemardino/Riverside Counties..............................  $	28.22*
+Ventura County................................................  J	28.66*
+Kem/Inyo/Mono/Ttilare Counties.....................................1....S	28.58*
+May 1. 2003 Through April 30, 2004
+Los Angeles County..............................................$ 31.55*
+Orange County...........................................................$	30.46*
+San Bemardino/Riverside Counties...........................     $	29.42*
+Ventura County..........................................................$	29.86*
+Kem/lnyo/Mono/Tulare Counties.......................;...........$	29.78*
+* Increase subject to partial or full reallocation to Trust Contributions.
+23
+Section 2.	Workers shall receive a payroll deduction "stub" each week, and the "stub" shall show straight time and overtime hours and all deductions shall be itemized. In addition tire employer shall show his name or firm name, address and telephone number on each check "stub" or voucher whether payments is by check or cadi.
+Section 3.	Any worker who is to be laid off fom any job shall be paid all monies due him at least ten (10) minutes before noon or ten (10) minutes before the regular quitting time.
+Section 4.	All workers must be paid tn cash or by check, on or before quitting time and if not paid by quitting time, the workers shall receive up to eight (8) hours pay at straight time rate and up to eight (8) for each following regular work day until paid.
+Section 5.	On a regular pay day when workers are not working on the job, pay shall be available on the jobsite by noon.
+Section 6.	In the event any employer pays an employee with a check which is thereafter dishonored by the bank for any reason, then and in that event, all subsequent wage payments to all employees covered by this Agreement, for the duration of this Agreement, shall be paid in either cash, certified check or money order. The provisions of this Section shall be canceled and rendered null and void as to MCESC members ten (10) days after the MCESC has served written notice of its desire to cancel the provisions of this Section, to the Union.
+Section 7.	When two or more masons are employed on the job, a foreman shall be required. Foreman's wage scale shall be the following:
+2 to 6 masons............S 1.25	per hr.	above wage scale
+7 to 11 masons...........$ 1.75	per hr.	above wage	scale
+12 or more masons........S 2.75	per hr.	above wage	scale
+Section 8.	Any worker, when operating a saw or stationary grinder or or a swinging scaffold above fifty (50) feet for a major portion of work day, shall tx paid fifty cents ($.50) per hour above the wage rate and no worker shall be replacet on the saw or grinder in order to avoid the premium pay.
+Section 9.	If workers are laid off or discharged before pay day, they shal be paid in full and if not so paid, the discharging employer shall continue to pa; such workers eight (8) hours pay at straight time rate for every regular work da; until the worker is paid. If workers are laid off on a special shift after 4:30 p.m payment shall be made the following regular work day.
+24
+Section 10.	All wages must be paid weekly before quitting time Friday and die employer shall not be permitted to hold back more than three (3) days pay.
+Section 11.	The employer shall pay for or provide parking for workers in congested areas. Payment by the employer for parking shall be indicated separately on the worker's check stub.
+Section 12.	Whenever a worker is required to work on refractory work where extreme heat prevents continuous work, the worker's wage scale shall be seventy-five cents ($.75) per hour over and above the regular hourly wage scale.
+Section 13.	On acid brick repair work, where acid is present, the employer shall provide protective clothing and/or pay for acid damage to the worker's clothing.
+Section 14.	Any worker who is injured on the job and cannot complete his shift on the advice of a doctor, shall be paid as required by the State of California.
+Section 15.	Any employee giving notice of quitting before 9:00 a.m. shall have his check postmarked no later than the following day
+Section 16.	Any worker who receives payment of wages by a check which is presented to a bank by an employee and dishonored, shall present the check to the responsible representative of the local union in whose jurisdiction the job was located. The union representative shall forward the check to the Trust Fund with a written request that the fund immediately assess the cash bond maintained by the contractor for the face amount of the check, plus Bank charges. Upon verifying that the check was so dishonored, the fund shall so assess the bond. In addition the contractor issuing the dishonored check is in violation of this Agreement and shall be cited before the Joint Board as outlined in Article III, and be assessed twenty-five dollars ($25.00).
+Section 17.	Fringe contribution will be required at the straight time rate for all hours worked.
+Section 18.	Employees will not be permitted to work for any Employer who is delinquent in the payment of wages or in the payment of any contributions required to be made by the Employer under this Agreement.
+Section 19.	Workers guniting refractory material shall receive fifty cents ($.50) per hour above the regular wage scale.
+25
+Section 20.	All workers welding on Refractory Jobs shall be compensated $.50 per hour for hours worked.
+Article XIII WORKING RULES
+Section 1.	The employer shall provide sanitary ice drinking water, sanitary drinking container and individual drinking cups on all jobs employing workers.
+Section 2.	The employer shall furnish all lines, buckets and any other equipment commonly furnished by the employer. The workers shall furnish their own trowel, level or plumb rule, measuring tape, line pins and twigs, jointers, rakers and any other tools commonly furnished by the workers.
+Section 3.	No worker shall furnish a truck or trailer for their employer regardless of whether they are compensated or not.
+Section 4.	Nd employer shall be allowed to work with the tools of the trade on any job other than during the regular working hours.
+Section 5.	Concrete block, stone or any similar materia! customarily handled and set by workers, shall be limited in weight to forty-five (45) pounds per unit and any unit weighing over forty-five (45) pounds must be handled and set by two (2) or more workers or by the help of mechanical means.
+Section 6.	In grouting, any grout tub standing more than twenty (20) inches in height shall be considered excessive and shall not be permitted to be used. Any grout container or bucket larger than eight (8) quarts shall be considered excessive and shall not be permitted to be used. When feasible, the grout tub shall be set on a mortar board stand.
+Section 7.	On jobs where ten (10) or more workers are employed, the employer shall furnish a suitable, safe and secure place for the tools and clothing of the workers. All tools placed in the tool box or tool shed supplied by the employer shall be the responsibility of the employer for loss of same between the hours of quitting time and starting time on work days and over weekends and holidays, not to exceed S150.00 per worker.
+Section 8.	The employer, foreman, steward and workers shall acquaint themselves with the State Safety Regulations and Building Codes.
+26
+Section 9.	No wall shall be built over four feet - eight inches, in height from the floor or scaffold. No working platform shall be built higher than the wall. No scaffold shall be less than four (4) feet in width.
+Section 10.	Vertical scaffold shall be tied to the wall every other section excepting where only three sections are used.
+Section 11.	Should workers be required to work in a place exposed to falling objects, a suitable protective overhead covering shall be provided. Said covering shall be minimum plywood. When workers are working on the walls of, or in, elevator shaftways, hatchways, or stairwells, there shall be a protection not more than one story below them at any time.
+,	Section 12. Where dry cutting machines are used to cut masonry
+materials, the employer shall furnish shatter proof blades, a regulation mask to cover the operator's mouth and nose, and safety goggles or shield for . protection of eyes, and some mechanical or electrical or suction device to draw and keep away the dust at all times from the worker who operates the cutting machine. Where wet cutting machines are used, the employer shall furnish safety goggles or shield for protection of eyes, a pair of rubber gloves, rubber apron and a dry elevated platform to stand on while operating the cutting machine.
+Section 13.	Where workers are required to pick up a time card or punch a time card for the convenience of the employer's time keeping, he shall not be required to pick up his time card or punch his time card on his own time. He shall be allowed sufficient time to reach the point of checkout on the employer's time and shall not be required to check in before starting time.
+Section 14.	Workers shall be compensated for any time required to complete a physical examination required by the employer.
+Section 15.	On multi-story jobs, a reasonable amount of time within the shift shall be allowed to get to and from the ground level to place of work.
+Section 16.	The employer shall furnish mortar board stands approximately twenty-two (22) inches high.
+Section 17.	The employer shall supply leaning type ladders to all scaffolds built five (5) feet or more in height and ladders shall extend at least three '3) feet above the scaffold or platform.	-
+Section 18.	All foreman shall be members of B.A.C.
+27
+Section 19.	A superintendent, foreman or assistant foreman shall not be allowed to work on more than one shift in any twenty-four (24) hour period.
+Section 20.	Foreman shall refer any newly employed workers to the steward on the job for Union clearance.
+Section 21.	Employers and their supervisors, for the purpose of spreading employment, shall, on all jobs covered by this Agreement, employ at least 50% of the workers who are workers from the jurisdiction of this agreement who have at least six (6) months residence.
+Section 22.	Workers on a fire brick job necessitating change of clothing due to the dirty nature of the work shall be allowed fifteen (15) minutes to change clothing and clean tools, but, the employee shall remain on the job until the regular quitting time.	.
+Section 23.	All workers shall wear hard hats where required and any workman who reports for work without a hard hat in his possession shall not be permitted to start work.
+Section 24.	The Unions covered by this Agreement shall not allow their members to start work for any employer who is not signed to this Agreement and will take the appropriate action against any of its members who begin or continue work for an employer who is not signatory to this Agreement.
+Section 25.	Any employer or member of any employer firm who works with the tools shall become a member of B.A.C. pursuant to Article V, Section 3 of this Agreement
+Section 26.	No more than one member of any firm, partnership or corporation shall be permitted to work in more than one capacity, on any one particular job.
+Section 27.	No masonry materials shall be stacked more than five (5) feet above the working platform of the workers.
+Section 28.	No worker shall be required to thread block over steel more than four (4) feet above the working platform.
+Section 29.	Where feasible, dust shall be kept at a minimum on jobs by watering down dusty areas.
+28
+Section 30.	Workers on every job will be granted one ten (10) minute "coffee break" per day or per shift if working shift-work. The time of taking the "coffee break" shall be determined at the complete discretion of the foreman on the job. All workers must take this "coffee break".
+Section 31.	No journeyman shall allow any person other than a journeyman; bricklayer or stonemason to lay out any piece of work for him or plumb or level any part of his work.
+Section 32.	It is agreed no worker shall be discriminated against in any manner, nor shall there be any discrimination against any worker because of age, sex, race, creed, color, religion or place of origin.
+Section 33.	Any signatory contractor or officer of a signatory contractor who has a liability for fringes to the Trust Funds cannot sign another Agreement with Local Union #4 for another jurisdiction until all liability to the Trust Funds has been paid for.
+Section 34.	Jump planks shall be used only in emergencies and are not to be over sixteen (16) inches in height and a minimum of twenty (20) inches in width.
+Section 35.	Any Drug Testing required by an owner, a general contractor, or an employee company policy, shall be complied with to secure employment.
+The cost for such testing is to be bome by the contractor or employer. However, no additional monies will be paid to employee, either for travel to or from, or for time spent in the clinic while testing is being performed. If called on a twelve (12) hour shift for testing, one hour out of shift shall be allowed.
+Section 36.	Both parties agree that no contracting of labor by the worker shall be allowed.
+Article XIV MASON HELPER
+It is hereby understood and agreed by and between the Bricklayers and Allied Craftworkers, Local #4, California (Union) and The Executive Council of the Masonry Contractors Exchange of Southern California, Inc. (MCESC), to add a new category of worker to the current agreement. The category will be known as Mason Helper
+29
+The Mason Helper shall perform any duty directed, such as grouting of all masonry and operation of the saw, with the exception of using the tools of the trade.
+The Wage scale shall be:
+First 300 hours................35% of Journeyman Wage
+300 to 600 hours...............45% of Journeyman Wage
+600 hours and above..............60%	of Journeyman Wage
+In addition, the employer is to contribute $1.50 per hour worked for a health plan to be provided through the Brick Masons Trust Funds, once the employee has met the eligibility requirements established by the Trustees.
+Article XV TRAVELING CONTRACTORS
+When the employer has any work specified in Article II of this Agreement to be performed outside the area covered by this Agreement and within the area covered by an agreement with another affiliate of the International Union of Bricklayers and Allied Craftworkers, the Employer agrees to abide by the full Terms and Conditions of the Agreement in effect in the jobsite area. Employees covered by this agreement who are sent to projects outside of the area covered by this Agreement shall be paid the established minimum wage scale of the local Agreement covering the territory in which such work is being performed plus al) contributions specified in the jobsite local Agreement. The Employer shall in all other matters be governed by provisions established in the jobsite local Agreement
+Article XVI
+TERM OF THIS AGREEMENT
+Section 1. The life of this Agreement is from May 1,2001 tbrougl April 30, 2004, with the following stipulations:
+(a) It is mutually agreed by and between the MCESC and the Unio that they will meet in March, 2004, in joint session for the purpose o negotiating and formulating a new Agreement and shall continue to mee until an agreement is reached to the satisfaction of both parties.
+30
+<b> it is mutually agreed by and between the MCESC and the Union that they shall accept as a party to this Agreement any other Local Union of the LU. of B.A.C. at any time during the term of this Agreement and in such event this Agreement shall be amended to include the jurisdiction of such other Local Union of the I.U. of B.A.C.
+(c) The term of this Agreement shall commence on May I, 2001 and continue until the 30th day of April, 2004 and for additional periods of one (1) year thereafter, unless sixty (60) days prior to April 30, 2004, or any subsequent yearly period, either party shall give written notice by registered mail of its desire to modify, amend or negotiate changes.
+Article XVII
+AMENDMENTS TO AGREEMENT
+Section I, It is mutually agreed that any amendments to this Agreement by the MCESC and the Union shall be binding on the MCESC and the Union and all parties signatory to this Agreement, and any other employer bound to this Agreement and anyone hiring workers covered by this Agreement.
+Section 2. It is further agreed by and between the MCESC and the Union and anyone covered by this Agreement that if any Federal or State Court at any time decides that any clause or clauses of this Agreement is or are invalid or illegal, such decision shall not invalidate the other portions of this Agreement, but any such clause or clauses declared void or illegal by Federal or State Court shall be stricken out and the remaining portion of this Agreement shall be considered binding between the MCESC and the Union, any other employer bound to this Agreement and anyone hiring workers covered by this Agreement and anyone hiring workers covered by this Agreement, and the MCESC and the Union agree to immediately negotiate as to any items declared void or illegal.
+31
+IN WITNESS WHEREOF, we have hereunto set our hand and attached the official seals of our respective organizations this 1st day of May, 2001.
+THE NEGOTIATING COMMITTEE OF THE BRICKLAYERS LOCAL UNION NO. 4 OF CALIFORNIA, I.U.of B.A.C. for 4-A, Orange County; 4-B, San Bernardino and Riverside Counties; 4-E, Ventura County; 4H, Los Angeles County, 4-G, Kern, Inyo, Mono & Tulare Counties.
+9350 Flair Drive, Suite 201 El Monte, California 91731
+The EXECUTIVE COUNCIL of the MASON CONTRACTORS' EXCHANGE of SOUTHERN CALIFORNIA, INC.
+386 Beech Avenue, Unit #4 Torrance, California 90501-6202 Telephone: 310/533-4014 Fax: 310/533-6922
+INDIVIDUAL EMPLOYER AGREEMENT
+The undersigned Employer agrees to abide by all the terms and conditions of the current collective bargaining agreement (Agreement) between Bricklayers & Allied Craftsmen, Local number 4, for, 4-A, Orange County, 4-B, San Bernardino & Riverside Counties; 4-E, Ventura County, 40, Kern, Inyo, Mono and Tulare Counties; 4-H, Los Angeles County (Union) and the Executive Council of the Mason Contractors' Exchange of Southern California, Inc. (MCESC), as well as by all amendments, extensions, and new Agreements between the Union and MCESC, unless either the Union or the Employer gives written notice of intention to terminate, not more than 90 nor less than 60 days prior to the termination date of the current or my subsequent Agreement Notice to the Union shall be effective only upon receipt by he Union.
+Employer:  Date: 
+Owner, Partner or Officers’ names: ______________________________________________
+Address: _________________________________________________________
+City:  Zip: 
+Telephone: (	)  License No.: 
+Classification: __________________________________________________
+Signature of Owner, Partner, Officer or Representative
+REPRESENTATIVE OF THE BRICKLAYERS AND
+ALLIED CRAFTSMEN LOCAL NUMBER 4
+Cash DepositofS _______________________
+Received in Cash or Check No. 
+Signature of Local Union Representative
+33
+INDIVIDUAL EMPLOYER AGREEMENT
+The undersigned Employer agrees to abide by all the terms and conditions of the current collective bargaining agreement (Agreement) between Bricklayers & Allied Craftsmen, Local number 4, for, 4-A, Orange County, 4-B, San Bernardino & Riverside Counties; 4-E, Ventura County, 40, Kcm, Inyo, Mono and Tulare Counties; 4-H, Los Angeles County (Union) and the Executive Council of the Mason Contractors' Exchange of Southern California, Inc. (MCESC), as well as by all amendments, extensions, and new Agreements between the Union and MCESC, unless either the Union or the Employer gives written notice of intention to terminate, not more than 90 nor less than 60 days prior to the termination date of the current or any subsequent Agreement. Notice to the Union shall be effective only upon receipt by the Union.
+Employer:  Date: 
+Owner, Partner or Officers’ names: _____________________________________________
+Address: _____________________________________________________________
+City.  Zip: .
+Telephone: (	)  License No.: 
+Classification: ______________________________________________________
+Signature of Owner, Partner, Officer or Representative
+REPRESENTATIVE OF THE BRICKLAYERS AND ALLIED CRAFTSMEN LOCAL NUMBER 4
+Cash Deposit of $ _______________________
+Received in Cash or Check No. 
+Signature of Local Union Representative
+34
+INDIVIDUAL EMPLOYER AGREEMENT
+The undersigned Employer agrees to abide by all the terms and conditions f the current collective bargaining agreement (Agreement) between Bricklayers & dlied Craftsmen, Local number 4, for, 4-A, Orange County, 4-B, San Bernardino & liverside Counties; 4-E, Ventura County, 4-G, Kem, Inyo, Mono and Tulare bounties; 4-H, Los Angeles County (Union) and the Executive Council of the Mason ^Mitractors1 Exchange of Southern California, Ina (MCESC), as well as by all mendments, extensions, and new Agreements between the Union and MCESC, tnless either the Union or the Employer gives written notice of intention to terminate, lot more than 90 nor less than 60 days prior to the termination date of the current or ny subsequent Agreement Notice to the Union shall be effective only upon receipt by re Union.
+Employer:  Date: 
+Owner, Partner or Officers’ names: ____________________________________________
+Address: _______________________________________________________________
+City:  Zip: 
+Telephone: (
+Classification:
+)  License No.: 
+Signature of Owner, Partner, Officer or Representative
+REPRESENTATIVE OF THE BRICKLAYERS AND ALLIED CRAFTSMEN LOCAL NUMBER 4
+Cash Deposit of $ _____________________
+Received in Cash or Check No. 
+Signature of Local Union Representative
+35

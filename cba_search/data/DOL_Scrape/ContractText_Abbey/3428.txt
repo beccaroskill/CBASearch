@@ -1,0 +1,1657 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection
+Title: Cherry Hill Township Board of Education and Cherry Hill Education Association, New Jersey Education Association (NJEA), National Education Association (NEA), (2001)
+K#: 840051
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+The complete metadata for each collective bargaining agreement can be found at -
+http://digitalcommons.ilr.comell.edU/blscontracts/1/
+For a glossary of the elements see - http://digitalcommons.ilr.cornell.edU/blscontracts/2/
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+For more information aboUt the BLS Contract Collection, see http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+4
+Jjf? ^OS/
+February 4, 2002
+AGREEMENT BETWEEN THE CHERRY HILL TOWNSHIP BOARD OF EDUCATION AND THE CHERRY HILL EDUCATION ASSOCIATION
+I
+TABLE OF CONTENTS
+ARTICLE	TITLE	PAGE
+	PREAMBLE	1
+	DISTINCTION OF GROUPS OF EMPLOYEES	1
+1	RECOGNITION AS TO TEACHERS ONLY	2
+1	RECOGNITION AS TO PSYCHOLOGISTS ONLY	2
+1	RECOGNITION AS TO SECRETARIES ONLY	3
+1	RECOGNITION AS TO SUPPORT ONLY	4
+2	NEGOTIATION PROCEDURE	4
+3	GRIEVANCE PROCEDURE AS TO TEACHERS AND PSYCHOLOGISTS ONLY	5
+3	GRIEVANCE PROCEDURE AS TO SECRETARIES AND SUPPORT ONLY	9
+4	EMPLOYEE RIGHTS	13
+5	ASSOCIATION RIGHTS AND PRIVILEGES	14
+6	ASSOCIATION-ADMINISTRATION LIAISON	15
+7	INTRA-SCHOOL COMMUNICATIONS	16
+8	TEACHING HOURS AND LOAD AS TO TEACHERS ONLY	16
+8	HOLIDAY AND VACATIONS AS TO PSYCHOLOGISTS ONLY	20
+8	WORK SCHEDULE AS TO SECRETARIES ONLY	21
+8	WORK SCHEDULE AS TO SUPPORT ONLY	23
+9	SALARIES AS TO TEACHERS ONLY	•	27
+9	SALARY AS TO PSYCHOLOGISTS ONLY	29
+9	SALARIES AND CLASSIFICATIONS AS TO SECRETARIES ONLY	30
+9	SALARIES AND CLASSIFICATIONS AS TO SUPPORT ONLY	32
+10	TEACHER EVALUATION	34
+10	EMPLOYEE EVALUATION AS TO SECRETARIES AND SUPPORT PERSONNEL ONLY	37
+11	TEACHER EMPLOYMENT	37
+12	LEAVES OF ABSENCE AS TO TEACHERS ONLY	38
+12	LEAVES OF ABSENCE AS TO PSYCHOLOGISTS ONLY	41
+12	TEMPORARY LEAVES OF ABSENCE AS TO SECRETARIES AND SUPPORT ONLY	42
+12	EXTENDED LEAVES OF ABSENCE - SECRETARIES AND SUPPORT	44
+12	EXTENDED LEAVES OF ABSENCE - ALL EMPLOYEES	45
+12	MISCELLANEOUS - ALL EMPLOYEES	46
+13	PROMOTION AS TO TEACHERS ONLY	46
+14	BOARD’S FUNCTION AS TO TEACHERS AND PSYCHOLOGISTS ONLY	47
+15	SCHOOL CALENDAR AS TO TEACHERS ONLY	47
+T
+	TABLE OF CONTENTS, continued	
+16	TRANSFER OF PROFESSIONAL PERSONNEL AS TO TEACHERS ONLY	48
+16	INVOLUNTARY TRANSFER AND REASSIGNMENTS AS TO SECRETARIES AND SUPPORT ONLY	51
+17	INVOLUNTARY REDUCTION OF PROFESSIONAL PERSONNEL AS TO TEACHER ONLY	51
+17	NON-RENEW AL OF EMPLOYMENT AS TO SECRETARIES AND SUPPORT ONLY	51
+18	CLASS SIZE	52
+19	CURRICULUM DEVELOPMENT	52
+20	MEDICAL PLAN	53
+21	FACILITATORS	55
+22	COMPLAINT PROCEDURE AS TO SECRETARIES AND SUPPORT ONLY	55
+23	PROTECTION OF EMPLOYEES SECRETARIES AND SUPPORT ONLY	56
+24	EMPLOYEE EQUIPMENT AND EXPENSES AS TO SECRETARIES ONLY	56
+25	EMPLOYEE EQUIPMENT, UNIFORMS AND EXPENSES AS TO SUPPORT ONLY	57
+26	TUITION REIMBURSEMENT	58
+27	MISCELLANEOUS PROVISIONS AS TO TEACHERS ONLY	59
+27	MISCELLANEOUS PROVISIONS AS TO PSYCHOLOGISTS ONLY	60
+27	MISCELLANEOUS PROVISIONS AS TO SECRETARIES AND SUPPORT ONLY	60
+27	AS TO SECRETARIES ONLY	61
+28	AGENCY FEE	61
+29	DURATION OF AGREEMENT	64
+APPENDIX 1	SIDEBAR AGREEMENTS AS TO TEACHERS ONLY	65
+APPENDIX 2	ADDENDUM TO SCHEDULE A AS TO TEACHERS ONLY	65
+APPENDIX 3	INCENTIVE PLAN CONCEPTS	65
+SCHEDULE A-1	TEACHERS’ SALARY GUIDE - 2001-2002	68
+SCHEDULE A-2	TEACHERS’ SALARY GUIDE - 2002-2003	69
+SCHEDULE A-3	TEACHERS’ SALARY GUIDE - 2003-2004	70
+SCHEDULE A-4	TEACHERS - SALARY GUIDE PLACEMENT EXPERIENCE CHART	71
+SCHEDULE A-5	ADDITIONAL TEACHING PERIOD SALARY GUIDE - 2001-2002	72
+				TABLE OF CONTENTS, continued	
+SCHEDULE A-6	ADDITIONAL TEACHING PERIOD SALARY GUIDE - 2002-2003	73
+SCHEDULE A-7	ADDITIONAL TEACHING PERIOD SALARY GUIDE - 2003-2004	73
+SCHEDULE A-8	EXTENDED YEAR TEACHERS’ SALARY GUIDE - 2001-2002	75
+SCHEDULE A-9	EXTENDED YEAR TEACHERS’ SALARY GUIDE - 2002-2003	76
+SCHEDULE A-10	EXTENDED YEAR TEACHERS’ SALARY GUIDE - 2003-2004	77
+SCHEDULE	 B-1	2001-2002 ATHLETIC SALARIES	78
+SCHEDULE B-2	2002-2003 ATHLETIC SALARIES .	79
+SCHEDULE B-3	2003-2004 ATHLETIC SALARIES	80
+SCHEDULE C-1	2001-2002 CO-CURRICULAR SALARIES	81
+SCHEDULE C-2	2002-2003 CO-CURRICULAR SALARIES	84
+SCHEDULE C-3	2003-2004 CO-CURRICULAR SALARIES	87
+SCHEDULE D-1	SECRETARIAL SALARY GUIDE - 2001-2002	90
+SCHEDULE D-2-	SECRETARIAL SALARY GUIDE - 2002-2003	91
+SCHEDULE 	D-3	SECRETARIAL SALARY GUIDE - 2003-2004	92
+SCHEDULE D-4	CLASS I AND CLASS II SECRETARIES - CREDIT FOR EXPERIENCE ON SALARY GUIDE	93
+	TEACHER STIPENDS		 		94
+
+PREAMBLE
+This Agreement entered into this 1st day of July, 2001 between the Board of Education of Cherry Hill Township, Camden County, New Jersey, hereinafter called the “Board" and the Cherry Hill Education association, hereinafter called the “Association”.
+WHEREAS, the Board and the Association recognize and declare that providing a quality education for the children of Cherry Hill Township School District is their mutual aim, and
+WHEREAS, the Board of Education has an obligation pursuant to Chapter 123, P.L. 1974, to negotiate with the Cherry Hill Education Association as the representative of certain employees of said Board as herein after defined, and
+WHEREAS, the parties having reached certain understandings desire to confirm this Agreement as follows:
+DISTINCTION OF GROUPS OF EMPLOYEES
+Throughout this agreement that portion of the ARTICLES contained herein headed or labeled “Teachers or Psychologists or Secretaries or Support” shall apply only to those employees as defined in this Recognition clause as “Teachers or Psychologists or Secretaries or Support” employees. At no time shall a portion of an ARTICLE headed or labeled as one type of employee apply to any other type of employee unless so headed or labeled.
+1
+Article 1 RECOGNITION AS TO TEACHERS ONLY
+The Board hereby recognizes the Association as the exclusive and sole representative for collective negotiation concerning the terms and conditions of employment for all certified personnel whether under contract, on leave, on a per diem basis, employed or to be employed by the Board, including only:
+teachers librarians nurses physical therapists guidance counselors department facilitators summer school teachers summer curriculum developers bedside teachers
+Federal program personnel
+learning disability specialists and all other teachers of special education social workers
+speech and language therapists athletic trainers AFJR ROTC instructors
+Unless otherwise indicated, the term “teachers," when used hereinafter in this Agreement, shall refer to all professional employees represented by the Association in the negotiating unit as above defined, and references to male teachers shall include female teachers.
+RECOGNITION AS TO PSYCHOLOGISTS ONLY
+The Board hereby recognizes the Association as the exclusive and sole representative for the collective negotiation concerning the terms and conditions of employment for all certified psychologists whether under contract or on leave.
+2
+RECOGNITION AS TO SECRETARIES ONLY
+The Board hereby recognizes the Association as the exclusive and sole representative for collective negotiations concerning grievances and terms and conditions of employment for all personnel under contract listed in the classifications herein or on leave, employed by the Board (hereinafter referred to as “employee or employees”), including only:
+Secretary to:	School Principal
+District Director
+District Child Study Team
+Transportation
+And General Secretaries
+Accounting:	Senior Accounts Payable Clerk
+Junior Accounts Payable Clerk Bookkeeper (High School) General Payroll Clerk Payroll Clerk, Benefits Payroll Clerk, Unemployment, Workers’ Compensation, Student Insurance and Benefits
+Technical/Clerical: Bid Coordinator/Expediter
+Senior EDP Order Entry Clerk
+Community Service/WP/Order Entry Clerk
+Switchboard Operator/Receptionist	.
+Timekeeper/Messenger
+Electronic Printing/lmaging Specialist Copy Machine Operator/Clerk-IMC
+and all other secretarial personnel with the exception of the following:
+Secretary to the Superintendent
+Administrative Assistant to the Deputy Superintendent
+Administrative Assistant for Curriculum
+Administrative Assistant for Instruction
+Administrative Assistant for Elementary Education and Human Resources Secretaries to the Deputy and Assistant Superintendents Secretaries to the Board Secretary
+Office Supervisor/Special Education/Student Services
+Human Resources Secretaries
+3
+RECOGNITION AS TO SUPPORT ONLY
+The Board hereby recognizes the Association as the exclusive and sole representative for collective negotiations concerning grievances and terms and conditions of employment for all personnel under contract listed in the classifications herein or on leave, employed by the Board (hereinafter referred to as “employee or employees”), including:
+District Engineer
+Print Shop Operator
+School Media Technician (10 months)
+District Copy Machine Operator - Night Shift *
+Pupil Accounting Technicians
+Assistant Pupil Accounting Technician
+School Copy Machine Operators (40 weeks) **
+Cable TV Specialist
+*Night Shift, Central Administration
+**40 week work schedule: 36 week school calendar: 2 weeks (10 days) before school opens in September; 2 weeks (10 days) after school closes in June
+Article 2
+NEGOTIATION PROCEDURE
+A.	The parties agree to enter into collective negotiations over a successor Agreement in accordance with C. 123, P.L. 1974 and by rules and regulations promulgated in accordance therewith in a good faith effort to reach Agreement on all matters concerning the terms and conditions of employment.
+B.	During negotiations, the Board and the Association shall present relevant data, exchange points of view and make proposals and counter proposals.
+C.	Neither party in any negotiations shall have any control over the selection of the negotiating representatives of the other party. The parties mutually pledge that their representatives shall be clothed with all necessary power and authority to make proposals, consider proposals, and make counter proposals in the course of negotiations.
+D.	Except as this Agreement shall hereinafter otherwise provide, all terms and conditions of employment applicable on the effective date of this Agreement to employees covered by this Agreement shall continue to be so applicable during the term of this Agreement. As to Teachers only: unless otherwise provided in this
+4
+Agreement, nothing contained herein shall be interpreted and/or applied so as to eliminate, reduce or otherwise detract from any teacher benefit existing prior to its effective date. As to Secretarial and Support personnel only: proposed new rules or modifications of existing rules governing working conditions of secretarial and support staff shall be negotiated with the Association before they are established.
+E.	This Agreement incorporates the entire understanding of the parties on all matters which were or could have been the subject of negotiation. During the term of this Agreement, neither party shall be required to negotiate with respect to any such matter whether or not covered by this Agreement and whether or not within the knowledge or contemplation of either or both of the parties at the times they negotiated or executed this Agreement.
+F.	This Agreement shall not be modified in whole or in part by the parties except by an instrument in writing duly executed by both parties.
+Article 3
+GRIEVANCE procedure as to teachers and psychologists only
+A.	Definition
+The term “grievance” means a complaint that there has been an improper application, interpretation or violation of an administrative decision, Board policy or of any term or provision of this contract.
+B.	Procedure
+1.	A grievance may be filed by an individual teacher, a group of teachers or by the Association, either in its own name or as the representative of a group or class whose individual signatures shall not be necessary. Any grievance must be lodged at the proper initiating level within 60 school days of the happening of the event.	.....
+2.	Failure at any step of this procedure to communicate the decision on a grievance within the specified time limits shall permit the grievant to proceed to the next step. Failure at any step of this procedure to appeal a grievance to the next step within the specified time limits shall be deemed to be acceptance of the decision rendered at that step. Time limits may be extended by the mutual consent of the parties.
+3.	It is understood that teachers shall, during and notwithstanding the pendency of any grievance, continue to observe all assignments and applicable rules and regulations of the Board until such grievance and any effect thereof shall have been fully determined.
+5
+a. The purpose of this procedure is to attempt to secure at the lowest possible level, equitable solutions to the grievances, which may from time to time arise, affecting teachers. Both parties agree that filed grievance documents will be kept as confidential as may be appropriate.
+4.	A grievance, which involves a question of salary, shall be filed in duplicate. One copy shall be presented to the principal involved and the other shall be filed with the Director of Human Resources.
+5.	Level One - Informal Presentation
+Except for group, class or policy grievances which shall be initiated by the Association at the Superintendent’s level, any one who has a grievance shall discuss it first with his/her principal (or immediate supervisor, if applicable) in an attempt to resolve the matter informally at that level.
+6.	Level Two - Principal
+If, as a result of the discussion, the matter is not resolved to the satisfaction of the grievant within five (5) school days, he/she shall set forth the grievance in writing to the principal, specifying:
+a.	the nature of the grievance;
+b.	the nature and extent of the injury, loss or inconvenience;
+c.	the results of previous discussions;
+d.	his/her dissatisfaction with decisions previously rendered. The principal shall communicate his/her decision to the grievant in writing within three (3) school days of receipt of the written grievance.
+7.	Level Three - Superintendent
+The grievant, no later than five (5) school days after receipt of the principal’s decision, may appeal the principal’s decision to the Superintendent of Schools. The appeal to the Superintendent must be made in writing reciting the matter submitted to the principal as specified above and his/her dissatisfaction with decisions previously rendered. The Superintendent shall attempt to resolve the matter as quickly as possible, but within a period not to exceed five (5) school days. The Superintendent shall communicate his decision in writing to the grievant and the principal.
+6
+8.	Level Four -Board of Education
+If the grievance is not resolved to the grievant’s satisfaction, he/she, no later than five (5) school days after receipt of the Superintendent’s decision, may request a review by the Board of Education. The request shall be submitted in writing through the Superintendent of Schools, who shall attach all related papers and forward the request to the Board of Education. The Board, or a committee thereof, shall review the grievance and shall, at the option of the Board, hold a hearing with the grievant and render a decision in writing within twenty (20) school days of receipt of the grievance by the Board.
+9.	Arbitration
+a. Notice of intention to proceed to arbitration shall be given to the Board through the Superintendent within ten (10) days after the receipt of the decision that is being appealed. Only the parties signatory to this Agreement shall have the right to proceed to arbitration and said right shall not accrue to an individual teacher or a group of teachers. As to an improper application, interpretation or violation of administrative decisions or board policies said arbitration shall be advisory only. As to an improper application, interpretation or violation of any term or provision of this contract, said arbitration shall be final and binding. All arbitration shall be conducted under the rules of the American Arbitration Association.
+10.	The arbitrator shall limit himself/herself to the issues submitted to him/her
+and shall consider nothing else. He/she can add nothing to, nor subtract anything from, the Agreement between the parties or any policy of the Board of Education. Only the Board, the Association, and the aggrieved shall be given copies of the arbitrator's opinion and award. This shall be accomplished within thirty (30) days of the completion of the arbitrator’s hearings.
+11.	Rights of Teachers to Representation
+a.	Any grievant may be represented at all stages of the grievance procedure by himself/herself, or, at his/her option, by a representative selected or approved by the Association.
+b.	When a grievant is not represented by the Association in the processing of a grievance, the Association shall, at the time of submission of the grievance to the Superintendent or any later level, be notified that the grievance is in process, have the right to be
+•	present and present its position in writing at all hearing sessions held
+concerning the grievance and shall receive a copy of all decisions rendered.
+7
+c.	The Board and the Association shall assure that individual freedom from restraint, interference, coercion, discrimination or reprisal in presenting his/her appeal with respect to his/her personal grievances.
+12.	No meeting or hearing conducted under this procedure shall be public. The only parties in attendance shall be the parties in interest and the designated or selected representatives contemplated in this article.
+13.	All documents, communications and records dealing with the processing of a grievance shall be filed in a separate grievance file and shall not be kept in the personnel file of any of the participants.
+C.	Costs
+1.	Each party will bear the total cost incurred by themselves.
+2.	The fees and expenses of the arbitrator are the only costs which will be shared by the two parties and such costs will be shared equally.
+D.	The following matters shall not be arbitrable:
+1.	For all teachers hired on or before June 30,1975, the failure or refusal of the Board to renew a contract of a first or second year non-tenured teacher (a year shall be considered a full school year, otherwise a calendar year from the date of employment) and for all teachers hired after June 30,1975, the failure or refusal of the Board to renew a contract of any non-tenured teacher.
+2.	In matters where a method of review is prescribed by law, or by any rule or regulation of the State Commissioner of Education or the State Board of Education.
+3.	In matters where the Board is without authority to act.
+4.	In matters where the discretion of the Board may not be unlimited but where,
+after the exercise of such discretion, a further review of the Board’s action is available to teachers under provisions of State Law.
+8
+GRIEVANCE PROCEDURE AS TO SECRETARIES AND SUPPORT ONLY
+A.	Definitions
+1.	Grievance
+A “grievance” is a claim by an employee or the Association based upon an alleged improper interpretation, application or violation of the Agreement, policies or administrative decisions affecting an employee or a group of employees. Any grievance must be lodged at the proper initiating level, in writing, within twenty (20) school days of the happening of the event.
+2.	Aggrieved Person	.
+An “aggrieved person” is the person or persons or the Association making the claim.
+3.	Party in Interest
+A “party in interest” is the person or persons making the claim and any person, including the Unit or the Board, who might be required to take action or against whom action might be taken in order to resolve the claim.
+B.	PURPOSE
+The purpose of this procedure is to secure, at the lowest possible level, equitable solutions to the problems, which may from time to time arise affecting employees. Both parties agree that these proceedings will be kept as informal and confidential as may be appropriate at any level of the procedure. It is understood that employees shall, during and notwithstanding the pendency of any grievance, continue to observe all assignments and applicable rules and regulations of the Board until such grievance and any effect thereof shall be fully determined.
+C.	Procedure
+1.	Time Limits
+The number of days indicated at each level should be considered as a maximum and every effort should be made to expedite the process. The time limits specified may, however, be extended by mutual agreement.
+2.	Level One - Informal Presentation
+An employee with a grievance shall first discuss it with the employee’s principal or immediate supervisor, either directly or through the Association’s designated representative, within five (5) school days of the happening of
+9
+the event with the intent of informally resolving the matter. Failure to informally discuss the grievance within five (5) school days of the happening of the event shall not preclude the Association from commencing formal written grievance proceedings in a timely manner, however, no written grievance shall be accepted for processing unless it is first informally discussed with the immediate supervisor.
+3.	Level Two -- Principal or Immediate Supervisor
+If the aggrieved person is not satisfied with the disposition of the grievance at Level One, or if no decision has been rendered within five (5) school days after the presentation of the grievance, the employee may file the grievance, in writing, with the principal or immediate supervisor and the Association within five (5) school days after the decision at Level One or ten (10) school days after the grievance was presented, whichever is sooner.
+4.	Level Three - Superintendent
+If the aggrieved person is not satisfied with the disposition of the grievance at Level Two, or if no decision has been rendered within ten (10) school days after the grievance was delivered to the principal or immediate supervisor the employee may appeal the grievance to the Superintendent within ten (10) school days after the decision at Level Two or twenty (20) school days after the grievance was presented at Level Two, whichever is sooner. The appeal to the Superintendent must be in writing reciting the matter submitted to the principal or immediate supervisor as specified above and the employee’s dissatisfaction with the decision previously rendered. The Superintendent shall attempt to resolve the matter within a period not to exceed ten (10) school days and shall communicate his/her decision in writing to the aggrieved person, the principal or immediate supervisor and the Association. Whenever “Superintendent” is referred to, it means Superintendent or his/her designee.
+5.	Level Four - Arbitration
+a.	If the Association is not satisfied with the disposition of the grievance at Level Three, or if no decision has been rendered within ten (10) school days after the grievance was delivered to the Superintendent, the Association may proceed to arbitration by giving written notice thereof to the Superintendent within fifteen (15) school days after the decision at Level Three or twenty-five (25) school days after the grievance was presented at Level Three, whichever is sooner. Only the parties signatory to this Agreement shall have the right to proceed to arbitration and said right shall not accrue to an individual employee or group of employees.
+10
+b.	The parties shall be bound by the rules and procedures of the : American Arbitration Association in the selection of an arbitrator and in the conduct of arbitration.
+c.	The arbitrator shall be limited to the issues submitted and shall consider nothing else. The arbitrator shall not have jurisdiction to determine the arbitrability of issues before him/her but rather such issues shall be determined by the appropriate agency, quasi-judicial, or judicial body. The arbitrator can add nothing to nor subtract anything from the Agreement between the parties or any policy of the Board or any administrative decision. The arbitrator shall be without power or authority to make any decision which requires the commission of any act prohibited by law or which is violative of the terms of this Agreement.
+d.	Where the grievance concerns an alleged improper interpretation, application or violation of this Agreement the decision of the arbitrator shall be final and binding upon the parties. Where a grievance concerns an alleged improper application of policies of the Board or administrative decisions, the decision of the arbitrator shall be advisory only. The decision shall be transmitted only to the Board, the Association and the aggrieved person.
+e.	The costs for the services of the arbitrator, including per diem expenses, if any, any actual and necessary travel, subsistence expenses and the cost of the hearing room, shall be borne equally by the Board and the Association. Any other expenses incurred shall be paid by the party incurring same.
+D.	Rights of Employee to Representation
+1.	Employee and Association
+Any aggrieved person may be represented at all stages of the grievance procedure by himself/herself, or, at the employee’s option, by a representative selected or approved by the Association. When an employee is not represented by the Association, the Association shall have the right to be present and to state its views at all stages of the grievance procedure.
+2.	Reprisals
+No reprisals of any kind shall be taken by the Board or by any member of the administration against any party in interest, any representative, any member of the Association, or any other participant in the grievance procedure by reason of such participation
+11
+E.	Miscellaneous
+1.	Group Grievance
+If, in the judgment of the Association, a grievance affects a group or class of employees, the Association may submit such grievance in writing to the Superintendent or his designee directly and the processing of such grievance shall be commenced at Level Three.
+2.	Written Decisions
+Decisions rendered at Levels Two and Three shall be in writing, setting forth the decision and the reasons therefore and shall be transmitted promptly to all parties in interest and to the Association.
+3.	Meetings and Hearings
+All meetings and hearings under this procedure shall not be conducted in public and only the parties in interest, their designated or selected representatives, and appropriate witnesses when called shall be permitted to be in attendance at such meetings and hearings.
+F.	The following matters shall be grievable but non-arbitrable:
+1.	The termination of a contract of an employee.
+2.	Any allegation that the Board has violated a right conferred upon an
+employee or a duty upon the Board by any administrative agency, court decision or the Laws of the State of New Jersey or the United States of America, where a method of review is available under the rules and regulations of said administrative agency or under or through a quasi-judicial or judicial body by virtue of a court decision or the Laws of the State of New Jersey or the United States of America.
+3.	Any alleged violation of an employee’s rights where the relief demanded by the employee is the payment of money damages for alleged wrongful discharge or the reinstatement of employment.
+12
+Article 4
+EMPLOYEE RIGHTS
+A.	Pursuant to Chapter 123, Public Laws 1974, the Board hereby agrees that every employee of the Board shall have the right freely to organize, join and support the Association and its affiliates for the purpose of engaging in collective negotiations and other concerted activities for mutual aid and protection. As a duly selected body exercising governmental power under color of law of the State of New Jersey, the Board undertakes and agrees that it shall not directly or indirectly discourage or deprive or coerce any employee in the enjoyment of any rights conferred by Chapter 123, Public Laws 1974, or other laws of New Jersey or the Constitution of New Jersey and the United States; that is, it shall not discriminate against any employee with respect to hours, wages, or any terms or conditions of employment by reason of membership in the Association and its affiliates, participation in any activities of the Association and its affiliates, collective negotiations with the Board, or institution of any grievance, complaint or proceeding under this Agreement or otherwise with respect to any terms or conditions of employment
+B.	No employee shall be disciplined, reduced in rank or compensation or deprived of any professional advantage without just cause. Any such action asserted by the Board, or any agent or representative thereof, shall be subject to the grievance procedure and the limitations as set forth in Article 3, paragraph A.
+C.	1.	Whenever any employee is required to or given the opportunity to appear
+before the Superintendent, Board, or any committee or member thereof, concerning any matter which could result in the termination of employment of that employee, then said employee and the Association shall be given prior written notice of the reasons for such meeting or interview.
+2.	The Association shall have the right to be present to protect the interests, not only of the individual involved, but also of the organization as the bargaining representative exclusively recognized.
+3.	Suspension, if any, shall be with pay until there has been a formal determination made by the Board of Education.
+D.	As to teachers only:
+No student’s grade or evaluation shall be changed without written notification to the teacher.
+E.	As to teachers only:
+Any criticism by a supervisor, administrator or Board member of a teacher concerning his/her instructional methodology shall be made in confidence and not
+13
+F.
+in the presence of students, parents or other public gatherings unless required by law or requested by the teacher.
+Whenever any employee is mandated to attend a meeting, conference or discussion with building level administration, which may result in action or recommendation inimical to employment, then the employee shall have the right of Association representation. Any provisions of this Agreement concerning employee hours shall not apply to said conferences. The administrator in attendance at the conference shall have the right to have another administrator or person of his/her choice present. This section shall not apply to evaluation conferences held pursuant to Article 10, Subsection F, hereof.
+Articles
+ASSOCIATION RIGHTS AND PRIVILEGES
+A.	The Board agrees to furnish to the Association in response to reasonable requests from time to time all available information concerning the financial resources of the district, including but not limited to annual financial reports and audits, register of certificated personnel, tentative budgetary requirements and allocations, agendas and minutes of all Board meetings, census data, names and addresses of all employees, and such other information that shall assist the Association in developing intelligent, accurate, informed and constructive programs on behalf of the employees and the students, together with information which may be necessary for the Association to process any grievance or complaint.
+B.	Whenever any representative of the Association or any employee is mutually scheduled by the parties to participate during working hours in negotiations, grievance proceedings, conferences, or meetings, the employee shall suffer no loss in pay and/or benefits.
+C.	Representatives of the Association, Camden County Education Association, the New Jersey Education Association, and the National Education Association shall be permitted to transact official Association business on school property at all reasonable times provided that this shall not interfere with or interrupt normal school operations. Such representatives shall notify the principal of their presence on school property as other visitors are expected to do.
+D.	The Association and its representatives shall have the right to use school buildings at all reasonable hours for meetings. Use of the buildings shall be arranged according to Board Policy.
+E.	The Association shall have the right to use school facilities and equipment, including duplicating equipment, and all types of audio-visual equipment at reasonable times, when such equipment is not otherwise in use. The Association
+14
+shall pay for thereasonabie cost of all materials, supplies and equipment repair incident to such use.
+F.	The Association shall have, in each school building, the use of a bulletin board in each faculty lounge and the employees’ dining room. The Association shall also be assigned space on the bulletin board in the central Office for Association notices.
+G.	The Association shall have the right to use the inter-school mail facilities and school mail boxes as it deems' necessary'and without the approval of the building principals or other rhembers of the administration. The Board assumes no responsibility for delivery.
+H.	1. In addition to meeting the requirements of Article 8, the President of the Association shall be granted ninety (90) minutes per day to conduct Association business.
+2.	As long as section 3 of the Sidebar Agreement remains in effect, for the term of this Agreement, the parties agree to extend their October 23, 2000 Sidebar Agreement regarding the schedule of the Association President. Specific terms for each year will be placed into individual sidebars signed by the parties for each year Of the 2001-2004 Agreement.
+3.	The parties agree that efforts shall be made so that the Vice Presidents of CHEA shall be assigned their conference-preparation during the last period of the day, if possible.	"
+4.	The rights and privileges of the Association and its representatives as set
+forth in this Agreement shall be granted only to the Association as the exclusive representative Of the employees as defined in the unit, and to no other organizations.
+Article 6
+ASSOCIATION-ADMINISTRATION LIAISON
+A. Recognizing that any agreement entered into by the Association, the Board of Education and the administrators of Cherry Hill Public Schools will be effective in providing for better educational opportunities for children only if properly implemented by way of effective and continued communication on subjects related to current school practices and problems:
+1.	The school principal and/or assistant principal shall confer with a liaison committee of the individual school selected by the Association from the staff of that school to review and discuss local school matters. The liaison committee shall be composed of no more than two (2) persons in an elementary school having no assistant principal; no more than three (3)
+15
+persons in an elementary and middle school having an assistant principal; and in secondary schools (grades 9 to 12), no more than the number of principals and assistant principals assigned to such schools.
+2.	On each liaison committee shall be at least one CHEA faculty representative or alternate. Meetings shall be held at the request of either party within seven (7) days after request, but not more than once a month, unless by mutual consent of both parties. Meetings shall be scheduled during the school day, during non-working time, unless otherwise mutually agreed and shall be of a reasonable length to discuss areas of concern.
+3.	The president of the Association and/or his/her representative(s) shall meet with the superintendent and/or his designated representative^) at the request of either party within seven (7) days of said request, but these meetings shall not exceed one per month unless by mutual consent These meetings shall be scheduled during the school day during non-working time unless otherwise mutually agreed, and shall be of a reasonable length to discuss the areas of concern.
+Article?
+INTRA-SCHOOL COMMUNICATIONS
+A. Recognizing that, due to diversity of individual school problems and schedules, it is impossible to establish one set of rules and regulations to govern the use of public address systems in all schools, each school principal and liaison committee of each school shall cooperatively establish procedures concerning use of these systems. Such individual school procedures shall be designed to reduce, as much as possible, interruption in the daily instructional program in order that the learning process of the children shall not be unnecessarily disrupted. Grievances under this section may not proceed beyond Level Three of the grievance procedure (Article 3, A. 8.).
+Article 8 TEACHING HOURS AND LOAD AS TO TEACHERS ONLY
+A.	1. Teachers shall indicate each daily arrival for duty and each daily final departure therefrom by initialing the appropriate column on the teachers’ “sign-in” roster. During the course of the school day, if the teacher shall
+leave the building, said teacher shall indicate the time of departure and the expected time of return, and upon return shall initial the appropriate “sign-in” roster. Only disputes concerning leaving the building, docking/deduction of pay, accuracy of attendance/lateness record, and disciplinary disputes shall be subject to binding arbitration.
+16
+2.	Teachers (including summer school teachers) shall not be required to report for duty earlier than fifteen minutes before the time when students will be marked late and shall not be required to remain more than fifteen minutes beyond the close of the student's school day, except that, for any given half year, hurses and librarians may be required to report for duty beginning and ending at a later time than other teachers, provided that the total work day is continuous and ends no later than 5:00 P.M., and further provided that said nurses and librarians so scheduled shall be volunteers in the first instance and if there are no volunteers, as assigned by the building principal. Teachers shall not be required to teach and/or supervise more than thirty-five (35) hours per week, including before and after school time and lunch. It is recognized that weather conditions and emergency situations may extend this period of time.	.
+3.	Teachers may be required to be present for up to twelve (12) hours per school year for related professional functions conducted after normal school hours. Related professional functions shall consist of staff development, Back-to-School Night, Higher Education Night, P.T.A. meetings, art and music festivals and similar educational programs, Career Night, Student Achievement Night, and parent consultations mandated and scheduled for the teachers which must be completed within one hour after the conclusion of the students’ regular school day. Parent consultations scheduled at times mutually convenient to the teacher and to the parent involved shall not be considered part of the twelve (12) hours referred to above.
+4.	Teachers may be required to be present for orientation and staff preparation days at the beginning of the school year, in-service meetings, elementary school parental conferences and school closing responsibilities at the end of the school year when students are not present. Such teacher presence shall be consistent with the in-school work year as defined in Article 15. If a full day is scheduled, it shall begin at 9:00 A.M. and extend to 4:00 P.M., except for inservice days, which shall be scheduled as follows:
+a.	High Schools	8:00	a.m. to 3:00	p.m.
+b.	Middle Schools	8:30	a.m. to 3:30	p.m.
+c.	Elementary Schools	9:00	a.m. to 4:00	p.m.
+d.	Multi-level inservice:	8:30	a.m. to 3:30	p.m.
+(Examples: K-12, Art, K-8 & K-12 Social Studies, District-wide Program)
+If a partial student day is scheduled, the teacher day shall not extend more than fifteen minutes beyond the close of the students’ regular full school day. In any event, one hour for lunch shall be scheduled. This paragraph shall not
+17
+apply to partial student days that may be part of the school calendar immediately preceding holidays.
+5.	In order to allow for the scheduling of parental conferences, which cannot otherwise be held during the school day, each guidance counselor may be scheduled to be available for such conferences one day for each month of the school year, from 7:00 P.M. to 9:00 P.M. inclusive. The date of such assignment shall be established by mutual agreement between the counselor and the principal at least four (4) weeks in advance of such date, except in September, when it shall be established at least one week in advance of such date. Following the date of completion of such evening assignments, compensatory time of two (2) hours may be taken by the counselor affected prior to the date of the next scheduled evening assignment
+6.	Each school may schedule up to two (2) evening parent-teacher conferences per year. These parent-teacher conferences may be up to two (2) hours in length. On the day of a parent-teacher evening conference, teachers in the building shall be released early per practice of early releases. The administration shall schedule evening conferences with parents. An administrator shall be present in the building for entire evening conference time.
+B.	1. Elementary teachers shall have a fifty (50) minute uninterrupted duty-free lunch period, but in accordance with item A.1 of this Article. Elementary teachers may volunteer to supervise lunch periods and be compensated at an annual stipend of $5,969 for 2001-2002; $6,172 for 2002-2003 and $6,394 for 2003-2004.
+2.	Elementary school teachers will have free use of time during which a specialist is teaching their class. Effective September 1, 2002, the first student day at the elementary level shall be a four hour day for students. That day shall be a regular length day for teachers.
+3.	Elementary school teachers will not be required to perform morning bus duty.
+4.	Educational Assistant times may be assigned to each elementary school effective to provide relief as necessary and such para-professional assistance to the teachers as may be determined by the principal after discussion with the liaison committee. Grievances under this section may proceed beyond Level Four of the grievance procedure (Article 3, A. 9.), however, the arbitrator’s ward shall be advisory only.
+5.	Secondary school teachers shall have the equivalent of at least one (1) unassigned preparation-conference period per day.
+18
+6.	Secondary school teachers shall not be required to teach in more than two (2) departmental areas nor more than a total of three (3) teaching preparations per day.
+7.	Every effort will be made to avoid having secondary teachers assigned to teach more than three (3) consecutive periods of approximately forty to forty-five (40-45) minutes each unless double periods are scheduled, in which case, the limit shall be four (4) periods. Changes in teaching stations shall be limited, wherever possible, to two (2) per day.
+8.	Secondary school teachers shall have a continuous duty-free lunch period with a minimum time equivalent to the length of the students' lunch period in conformity with the State Board of Education regulations.
+9.	in elementary schools, each teacher shall have the equivalent of a thirtyminute daily unassigned preparation conference period, which in the case of the kindergarten teacher shall precede the lunch period, but in other instances may vary in length in accordance with B. 2. herein to meet class scheduling problems.
+10.	Every effort will be made to rotate lunchroom supervision amongst available teachers on a yearly basis at the secondary level. The Board and the Association agree that the assignment of such supervision shall be based on the special needs of the school district.
+C.	1. The secondary faculty and departmental meetings beyond the school day shall ordinarily be scheduled no more often than once a month, such meeting to convene directly after the close of the school day and to generally conclude within an hour. The notice of and agenda for any meeting shall be given to the teachers involved at least one (1) day prior to the meetings, except in an emergency as determined by the Administration. No session nor any meeting which teachers are required to attend shall continue beyond one hour without the allowance of a five (5) minute intermission.
+2. At the elementary school level faculty and/or grade level meetings beyond the school day shall be scheduled no more than a total of fifteen (15) meetings per school year. No more than one faculty meeting and one grade level meeting shall be scheduled in any one month. If the meeting is held prior to the opening of the school day it shall commence no earlier than 8:00 A.M. If the meeting is held at the end of the school day it shall convene immediately after the close of the school day and to generally conclude within one hour. The notice of and agenda for any meeting shall be given to the teachers involved at least one (1) day prior to the meeting, except in an emergency as determined by the Administration. No session nor any
+19
+D.
+E.
+F.
+G.
+A.
+meeting which teachers are required to attend shall continue beyond one hour without the allowance of a five (5) minute intermission.
+The “teacher day” defines only the period a teacher is expected to spend in school. Regardless of this specified period, every teacher has the responsibility of assisting students when they require or request help; of conferring with parents about pupil progress or problems; of consulting with colleagues, supervisors, or administrators on professional matters; and of seeking to improve professional competence and classroom skills.
+Despite the provisions of Article 8, B. 5. and B. 9., if a substitute cannot be found to meet the absence of a regular teacher, the principals shall have the right to assign a regular teachers) (who may be a volunteer) to cover the vacancy. Such assigned teacher shall be compensated at the rate of $20.92 for 2001-2002; $21.63 for 2002-2003 and $22.41 for 2003-2004 per each 45 minutes, prorated. In the event the absent teachefs class is split among two or more other regular (receiving) teachers, the above rate of compensation shall be prorated among said receiving teachers. If the normal class load of the receiving teacher is not exceeded, no compensation shall be paid.
+Teachers who may be required to use their automobiles in the performance of their duties shall be reimbursed for all such travel at the rate established by the State of New Jersey.
+Those teachers regularly assigned to special education classes shall have one inservice meeting during the school day per year.
+HOLIDAYS AND VACATIONS AS TO PSYCHOLOGISTS ONLY
+Holidays
+Psychologists are entitled to the following paid holidays:
+New Year’s Day
+Good Friday
+Day during Spring Recess*
+Memorial Day
+July 4
+Labor Day
+Thanksgiving Day and day following
+Christmas
+Day during Winter Recess
+One additional day*
+Two days for attendance at the N.J.E.A. Convention
+*As coordinated with immediate supervisor
+20
+B.	Vacations
+All 12 month psychologists are entitled to twenty (20) vacation days per contract year, to accrue during the year, to be taken during the subsequent contract year and to be noh-cumulative. Scheduling must be approved by the immediate supervisor.
+C.	Separation from Service
+1.	A psychologist who is entitled to vacation days and who dies before his/her
+contract period is completed shall have payment for his/her prorated vacation days given to his estate.
+2.	A psychologist who is entitled to vacation days and who resigns or retires during the contract year shall receive severance pay equal to his/her prorated vacation days.
+WORK SCHEDULE AS TO SECRETARIES ONLY
+A.	Regular Hours of Work
+All employees shall work a thirty-six and a quarter (36.25) hour week, seven and a quarter (7.25) hours per day, on those days when teachers are present, as scheduled by the immediate supervisor. Employees do not work during the school calendar when teachers are not present After the school calendar year ends, all employees shall work a thirty-five (35) hour week, seven (7) hours per day, as scheduled by the immediate supervisor. Lunch time shall not be included in the above hours of work.
+B.	Overtime
+All overtime must be authorized in writing by the Superintendent or his/her designated agent. Compensation shall be paid at time and one-half, calculated by dividing the contract salary by 1820, rounded to the nearest penny. Any hours worked on a holiday as specified in this Article shall be compensated at one and one-half (VA) times the employee’s hourly rate as calculated above, plus holiday pay.
+21
+C.	Vacation Schedule
+All employees shall adhere to the following schedule:
+All employees hired after January 1 and prior to June 30 shall receive one-half day per full month of employment
+6 months up to 1 year	1 Week
+after 2 years completed 2 Weeks
+3 to 12 years completed 3 Weeks after 13 years completed 4 Weeks
+No extended vacation periods without pay shall be granted at any time.
+Employees transferring into this unit with prior continuous service in the district shall receive full credit for years in the district for determining eligibility for vacation time. Prior service as a ten month employee shall receive credit for ten-twelfths (10/12) of each year served.
+D.	Paid Holidays
+The following paid holidays will be in effect for all secretaries:
+July 4th
+Labor Day
+Columbus Day*
+Thanksgiving Day and Friday following
+Christmas Eve
+Christmas Day and day as coordinated with immediate supervisor New Year’s Eve
+New Year’s Day
+Martin Luther King Day
+Presidents’ Weekend (2 days)*
+Good Friday
+During Spring Recess-one day as coordinated with immediate Supervisor Memorial Day
+One additional day as coordinated with immediate supervisor
+*lf school is in session on these days, substitute days shall be scheduled in coordination with the supervisor.
+The Board shall have the right to reassign an employee from the employee’s regular work station to another work station when such employee works on a legal holiday as specified in the school calendar.
+E.	Inclement Weather Davs
+Employees shall not report to work when schools are closed for inclement weather. In an emergency situation (e.g. Board packet day) when an inclement weather closing occurs, an employee(s) may be called in to work if there is a supervisor present in the work location. Said employee(s) shall receive compensatory time off for the time worked.
+F.	Sick Leave
+1.	All employees will receive twelve (12) days paid sick leave per year. The
+unused days shall accumulate from year to year.
+2.	When an employee retires from the Cherry Hill School District after ten (10) years of continuous service pursuant to the provisions of the Teacher’s Pension and Annuity Fund or the Public Employee’s Retirement System, such employees shall be paid $22.12 for each day of unused accumulated sick leave that has been accumulated as a result of employment in the Cherry Hill School District. If termination of employment is due to death, the employee’s estate shall receive such pay. Continuous personal illness absence of five (5) days or more must be certified to by a properly licensed physician.
+G.	Notice of Retirement
+Employees must notify the Board, in writing, thirty (30) days prior to retirement, except in cases of medical or disability retirement or such other unplanned or unanticipated event which results in less than thirty (30) days notice, of the---------
+employee’s intention to retire. This notification is required in order to be eligible for payment for unused accumulated side leave as set forth in paragraph “F" above.
+WORK SCHEDULE AS TO SUPPORT ONLY
+A.	Hours of Work
+1.	Ten (10) month employees shall work a thirty-five (35) hour week, seven (7) hours per day as scheduled by the immediate supervisor.
+2.	The District Engineer shall work a forty (40) hour week, eight (8) hours per day as scheduled by the immediate supervisor.
+3.	As to 12-month employees, except the District Engineer, all employees shall work a thirty-six and a quarter (36.25) hour week, seven and a quarter (7.25) hours per day on those days when teachers are present, as scheduled by the immediate supervisor. Employees do not work during the school calendar when teachers are not present. After the school calendar year
+23
+ends, all employees shall work a thirty-five (35) hour week, (7) hours per day, as scheduled by the immediate supervisor.
+4.	Any lunch time shall not be included in the above hours of work.
+B.	Overtime
+All overtime must be authorized in writing by the immediate supervisor. Compensation shall be paid at time and one-half, calculated by dividing the contract salary by 1820 for those employees working a thirty-five (35) hour week and by 2080 for those employees working a forty (40) hour week, rounded to the nearest penny. Any hours worked on a holiday as specified in this Article shall be compensated at two times the employee’s hourly rate as calculated above, plus one day’s straight pay. Any hours worked on Sunday shall be compensated at two times the employee’s hourly rate as calculated above. Easter Sunday shall be considered a holiday for purposes of calculating overtime pay.
+C.	Call-in Pay
+1.	When an employee is called into work during the employee’s non-working hours, without advance notification, this shall constitute a CALL-IN.
+2.	When an employee is notified during the employee’s working hours to report to work during the employee’s non-working hours, or when an employee is scheduled in advance to work an assignment outside of the employee’s normal tour of duty, this shall be considered an overtime assignment, not a CALL-IN.
+3.	An employee “called-in” to work shall be paid a minimum of two (2) hours pay in accordance with Section B. above (“Overtime.”)
+D.	Special Activities
+Employees scheduled for special activities shall receive two (2) hours pay as calculated in Section B. above (“Overtime”). In the event a special activity schedule for a weekend is canceled an employee scheduled to work said activity shall receive two (2) hours pay as calculated in Section B. above (“Overtime”), if the employee had not been notified of the cancellation prior to reporting to work. If the activity was scheduled for a weekday, the employee shall receive two (2) hours pay as calculated in Section B. above (“Overtime”); if the employee was not notified of cancellation prior to the end of the employee’s regularly scheduled workday.
+24
+E.	Vacation Schedule
+Vacations may be taken in 54 days, full days or weekly segments through the entire school year, total or partial weeks as scheduled with immediate supervisor.
+All 12 month employees will adhere to the following schedule:
+All employees hired after January 1 and prior to June 30 shall receive 54 day per full month of employment.
+6 months up to 1 year	1 Week
+after 2 years completed	2 Weeks
+3 to 12 years completed 3 Weeks
+13 years completed	4 Weeks
+Employees new to the bargaining unit with prior continuous service in the district shall receive full credit for years in the district for determining eligibility for vacation time. Prior service as a 10 month employee shall receive credit for ten-twelfths (10/12) of each year served.
+F.	Paid Holidays
+The following paid holidays will be in effect for all twelve (12) month employees:
+July 4th
+Labor Day
+Thanksgiving Day
+Friday after Thanksgiving
+Christmas Day
+One day during Winter Recess as coordinated with immediate
+supervisor
+New Year’s Day
+Martin LutherKing Day
+Good Friday
+One day during Spring Recess as coordinated with immediate
+supervisor
+Memorial Day
+One additional day as coordinated with immediate supervisor
+Ten (10) month and 40 week employees will follow the school calendar.
+G.	Inclement Weather Davs
+Employees, with exception of district engineers), shall not report to work when schools are closed for inclement weather. In an emergency situation (e.g. Board packet day) when an inclement weather closing occurs, an employee(s) may be
+25
+called in to work if there is a supervisor present in the work location. Said employee(s) shall receive compensatory time off for the time worked. Engineers will work per practice.
+H.	Sick Leave
+All twelve month employees will receive twelve (12) days of paid sick leave per year. Ten month and 40 week employees shall receive ten (10) days of paid sick leave per year. The unused days shall accumulate from year to year. When an employee retires from the Cherry Hill School District after ten (10) years of continuous service pursuant to the provisions of the Teachers’ Pension and Annuity Fund or the Public Employees’ Retirement System, such employee shall be paid $22.12 per day for each day of unused accumulated sick leave that has been accumulated as a result of employment in the Cherry Hill School District If termination of employment is due to death, the employee’s estate shall receive such pay. Continuous personal illness absence of five (5) days or more must be certified to by a properly licensed physician.
+I.	Notice of Retirement
+Employees must notify the Board, in writing, thirty (30) days prior to retirement, except in cases of medical or disability retirement or such other unplanned or unanticipated event which results in less than thirty (30) days notice, of the employee’s intention to retire. This notification is required in order to be eligible for payment for unused accumulated sick leave as set forth in paragraph H. above.
+J.	Ten Month and 40 Week Positions
+Ten (10) month and 40 week positions shall be scheduled according to the academic calendar. The holders of said positions shall not be entitled to any paid vacation but shall not be required to report for work on days when schools are closed for holidays or vacation periods, except see Article 1 for the work year for 40 week employees.
+K.	Pay Davs
+1.	Effective July 1,1998, there shall be a bi-weekly pay period approach.
+2.	When a payday falls on a holiday, employees shall receive their paychecks on the last preceding working day.
+26
+Articled
+SALARIES AS TO TEACHERS ONLY
+A.	The salaries of all ten month teachers covered by this Agreement are set forth in Schedules “A-1", “A-2” and “A-3”. The salaries of all ten month teachers covered by this Agreement who teach an additional period are set forth in Schedules “A-5”, “A-6” and uk-7”. The salaries of all twelve month teachers covered by this Agreement are set forth in Schedules “A-8”, “A-9” and “A-10”.
+Any courses which are taken by a teacher who commenced employment after March 1,1971, will not be credited to column advancement on the Salary Guide unless they are part of a graduate degree program in the educational field offered by a college or university where matriculation and graduation take place at the graduate level and unless they are not courses required to be taken for proper initial certification.
+B.	1. Effective upon mutual ratification of the 1996-1998 Agreement, the Board and the newly-hired employee shall agree on initial guide placement.
+2.	Salary adjustments from column to column will be made effective as of September 1 and February 1 of each year, if transcripts for additional successfully completed courses are filed no later than 60 days after the respective dates. The employee shall notify the Director of Human Resources, in writing, normally prior to September 1 and February 1 of anticipated movement on the guide.
+3.	Credit will be allowed for educational travel in a total amount not to exceed six (6) semester hours. Commencing July 1,1998, the total amount shall not exceed three (3) semester hours. Basis for allowing credit is as follows:
+a.	One semester hour will be allowed for each week of foreign travel, defined as travel requiring a passport.
+b.	One-half semester hour will be allowed for each week of domestic travel, defined as travel not requiring a passport.
+c.	An itinerary and its instructional value in the form of a plan must be presented to the Superintendent or his/her designated representative for approval in advance of the travel. At the conclusion of the trip, a satisfactory report must be filed with the Superintendent or his/her designated representative.
+d.	Travel taken on days when school is in regular session will not be honored or approved for credit.
+27
+4.	Extended year teachers shall be paid according to Schedules A. 8., A. 9. and A. 10.
+5.	All teachers of special education classes on a full time basis will be paid an additional $300.00 per year in excess of their appropriate salary level. Such teachers initially hired for the 1976-77 school year and thereafter shall receive no additional stipend for such assignment.
+6.	Teachers performing bedside instruction will be paid at the rate of $32.56 per hour (2001-2002); $35.00 per hour (2002-2003) and $37.00 per hour (2003-2004).
+7.	Summer school teachers will be paid at the rate of $760.55 per week in 2001-2002; $786.51 per week in 2002-2003; and, $814.82 per week in 2003-2004.
+8.	Co-c.urricular
+c.
+D.
+E.
+a.	Teachers shall be paid at the rate of $18.91 per hour (2001-2002); $19.55 per hour (2002-2003) and $20.25 per hour (2003-2004).for supervision of co-cunricular activities such as student bus supervision before and/or after school, supervising sporting events, bus supervision on the way to and from extra-curricular activities, tickettaking, supervising dances and after school detention duty.
+b.	If a teacher is placed in a position where he/she is to supervise those persons listed in any of the categories mentioned in subsection “a” above, he/she shall be paid an additional stipend equal to 25% of the rate paid to the personnel he/she is supervising.
+c.	Teachers shall be paid $32.39 per hour (2001-2002); $33.50 per hour (2002-2003) and $34.70 per hour (2003-2004) for Saturday School Detention.
+Teachers may independently elect to have a portion of their salary withheld and deposited to their credit in the Camden Teachers Civil Service Federal Credit Union and/or deposited for tax deferred annuities, upon executing appropriate payroll authorization forms which shall be in lieu of a summer payment plan as contemplated in 18A:29-3.
+When a payday falls on a holiday, teachers shall receive their paychecks on the last previous working day.
+Teachers shall receive their final checks on the last working day in June, but not until all work is completed.
+28
+F.	The salaries set forth in Schedules “B-1, “B-2”, and “B-3” will be used in determining the annual remuneration to be paid teachers who are performing services with respect to athletic activities. Adjustments of remuneration within the range of minimum to maximum shall be made at the discretion of the Board, but it is expected that individuals will normally move from minimum to maximum in three (3) years. ,
+G.	The salaries set forth in Schedules “C-1", “C-2”, and “C-3” will be used in determining the annual remuneration to be paid teachers who are performing services with respect to noh-athletic extra-curricular activities. Adjustments of remuneration within the range of minimum to maximum shall be made at the discretion of the Board, but it is expected that individuals will normally move from minimum to maximum in three (3) years.
+H.	Guidance Counselors who perform work in the summer after July 1st shall be compensated at the rate of 1/40th of their respective annual salary per week and those who perform work during the period between the completion of the regular school year and June 30th shall be compensated at the rate of 1/200th per day of their respective annual salary. Commencing July 1,1976, and each July thereafter, such summer employment will be more or less equally divided amongst those Guidance Cpunselors employed in each building desirous of being assigned summer work.
+I.	Teachers given the responsibility of acting elementary principal shall receive an
+annual stipend of $1,575 (2001-2002); and $2,000 (2002-2003 and 2003-2004). This responsibility and stipend shall cease should the Board accept and implement a lead teacher concept.
+J.	The parties agree to set up a joint, committee which will function during the 2001 -2002 school year to develop a plan for the possible 2002-2003 implementation of a school performance plan linked to a form or forms of compensation (separate from the salary increases negotiated by the parties). Each party shall appoint six members to the committee. The committee shall elect a chairperson. The committee shall commence functioning within 30 days of mutual ratification of this Memorandum, shall establish its own schedule, and shall issue a written report, with recommendations, to the parties on or before May 1,2002. Any plan recommended by the committee must be ratified by each party before it can become an addendum to the Agreement.
+SALARY AS TO PSYCHOLOGISTS ONLY
+Salaries for psychologists are as set forth on records in the Human Resources Department. Effective with the ratification of the 2001-2004 Agreement, psychologists first hired by the District after that date shall be placed on the teachers’ salary guide on the relevant column. The Board and the newly-hired psychologist shall agree on initial step placement.
+29
+SALARIES AND CLASSIFICATIONS AS TO SECRETARIES ONLY
+A.	Salaries
+1.	The salaries of all employees covered by this Agreement are set forth on Schedule D attached hereto and made a part hereof. Initial placement on Schedule D shall be pursuant to side letter between the parties.
+2.	Employees hired after January 31st of the school year shall remain on the same step of the salary guide for the next school year.
+3.	All employees shall be employed for twelve (12) months.
+4.	New employees shall be placed on the appropriate salary guide, in accordance with their experience at a step no higher, in the discretion of the Board, than their experience would dictate in accordance with Schedule D attached hereto and made a part hereof.
+5.	In the event an employee is temporarily assigned by the appropriate
+supervisor to work in a higher pay classification, the employee shall be paid an hourly differential based on 1/1820th of the difference between the starting salary in the employee’s classification and the starting salary in the higher classification for a regularly scheduled thirty-five (35) hour week; provided that the employee is assigned to said higher classification and actually works in said classification for seven (7) days in a two (2) week period, in which event said differential shall be paid from the time said work commenced.
+6.	Professional Development and Improvement Reimbursement
+Any employee required or requested by the Board to attend any course, workshop, seminar or conference shall be paid the full cost of tuition and other reasonable expenses incurred (including fees, materials, meals, lodging and/or transportation). Said employee shall also be compensated at the employee’s overtime rate for all time spent in actual attendance at scheduled work sessions beyond the employee’s regular working day.
+7.	When a payday falls on a holiday, secretaries shall receive their paychecks on the last preceding working day.
+8.	Bargaining unit members shall be paid at the rate of $17.76 in 2001-2002, $18.36 in 2002-2003 and $19.03 in 2003-2004 per hour for supervision of co-curricular activities such as sporting events, ticket taking and supervising dances.
+30
+9.	In the preparation of future salary guides, it is recognized by the parties that those individuals on the highest step of the guide shall receive less of a percentage salary increase than other individuals on that guide.
+B.	Classifications
+1.	Secretarial: Secretaries to the following individuals shall be classified as follows:
+I School Principal
+District Director
+District Child Study Team Transportation
+II General Secretaries
+2.	Accounting: The job titles in the accounting area shall be classified as follows:
+I Senior Accounts Payable Clerk Junior Accounts Payable Clerk Payroll Clerk, Benefits General Payroll Clerk Bookkeeper (High School) Payroll Clerk, Unemployment, Workers’ Compensation, Student Insurance and Benefits
+3.	Technical/Clerical: The job titles in the technical/clerical area shall be
+classified as follows:
+I Bid Coordinator/Expediter Senior EDP Order Entry Clerk Electronic Printing/lmaging Specialist Community Service/WP/Order Entry Clerk
+II Switchboard Operator/Receptionist Timekeeper/Messenger Copy Machine Operator/Clerk-IMC
+The title “clerk” shall not be construed to restrict an employee from performing typing duties incident to the performance of the employee’s principal duties.
+4.	Employees shall not dispense prescription drugs, and are relieved from performance of nursing duties except emergency first aid.
+31
+5.	Advancement of Personnel
+Written notice of the intent to fill a vacancy in any of the positions set forth below shall be given to the Association President at least ten (10) days in advance of the application deadline.
+a.	Any classification contained in Article 1.
+b.	Senior Supervisors: Operational
+c.	Assistant Supervisors: Operational, Maintenance, Electrical,
+Mechanical and Transportation
+d.	Secretary to the Superintendent; Administrative Assistant to the Deputy Superintendent; Administrative Assistant for Curriculum; Administrative Assistant for Instruction; Administrative Assistant for Elementary Education and Human Resources; Secretaries to the Deputy and Assistant Superintendents; Secretaries to the Board Secretary; Office Supervisors; and Human Resources Secretaries, provided that it is understood that those positions listed under b through d. inclusive are not unit members.
+Written notice of the intent to fill such vacancy shall also include a list of necessary qualifications. Employees making application shall be given due consideration and where in the Board’s sole discretion qualifications of applicants are equal, seniority shall prevail.
+6.	The parties agree to establish a committee to study the secretary classification system and make recommendations to the parties prior to the next round of negotiations. Each party shall appoint two members to the committee. The committee shall elect a chairperson. The committee shall commence functioning within 60 days of mutual ratification of the Memorandum of Agreement for the 2001-2004 Agreement, shall establish its own schedule, and shall issue a written report, with recommendations, to the parties on or before July 1,2002.
+SALARIES AND CLASSIFICATION AS TO SUPPORT ONLY
+A.	Salary
+1.	The salaries of all employees covered by this Agreement are as set forth on
+records in the Human Resources Office.
+2.	No employee new to the district shall be hired at a salary higher than that of
+an existing employee in the same job title within the classification. All existing positions shall be twelve (12) month positions with the exception of school media technician (10 month), paraprofessionals (10 months), the district copy machine operator - night shift (40 weeks), and the school copy machine operator (40 weeks).
+32
+3.	In the event an employee is temporarily assigned by the appropriate supervisor to work in a higher pay classification, the employee shall be paid an hourly differential based on 1/1820th of the difference between the starting salary in the higher classification for a regularly scheduled 35-hour week and by 1/2080th of the difference between the starting salary in the employee’s classification for a regularly scheduled 40-hour week; provided that the employee is assigned to said higher classification and actually works in said classification for five (5) days in a two-week period, in which event said differential shall be paid from the sixth day worked in said classification.
+4.	Professional Development and Improvement Reimbursement
+Any employee required or requested by the Board to.attend any course, workshop, seminar or conference shall be paid the full cost of tuition and other reasonable expenses incurred (including fees, materials, meals, lodging and/or transportation), Said employee shall also be compensated at the employee’s overtime rate for all time spent in actual attendance at scheduled work sessions beyond the employee’s regular working day.
+/
+5.	The Board shall reimburse each holder of a New Jersey Bus Driver License in a sum not to exceed the cost of the biennial renewal of same.
+6.	In the event the physical examination required for bus driver license renewal is taken outside of regular work hours, the Board will pay up to two (2) hours pay at straight time to the employee.
+B.	Classifications
+1.	The job titles in the support area shall be classified as follows:
+I	District Engineer	.
+II	Print Shop Operator
+School Media Technician (10 month position) Pupil Accounting Technician Assistant Pupil Accounting Technician District Copy Machine Operator-Night Shift (40 weeks) School Copy Machine Operators (40 weeks) Cable TV Specialist
+2.	Except for personnel driving buses, no employees shall supervise any students except in emergencies.
+33
+3.	Advancement of Personnel
+Written notice of the intent to fill a vacancy in any of the positions set forth below shall be given to the Association President at least ten (10) days in advance of the application deadline.
+a.	Any classification contained in Article 1
+b.	Senior Supervisors (operational)
+c.	Assistant Supervisors, operational, maintenance, electrical,
+mechanical and transportation
+Written notice of the intent to fill such vacancy shall also include a list of necessary qualifications. Employees making application shall be given due consideration and where in the Board’s sole discretion qualifications of applicants are equal, seniority shall prevail.
+A.
+B.
+Article 10
+TEACHER EVALUATION
+All evaluation of the work performance of teacher personnel shall be conducted openly and with full knowledge of the teacher involved. Electronic devices and voice taping as part of classroom projects may be used so long as the results of same are not used in the evaluation process.
+Lesson plans shall be maintained in a form consistent with the needs of the supervisory staff and the teacher and shall be regularly submitted as required by the supervisory staff. They shall be in sufficient detail to permit a proper continuance of the instructional program by a substitute in the event of the teacher’s absence.
+C.	The Board of Education and the Administration subscribe to the principle that a teacher has the right to full knowledge regarding the judgment of his/her superiors respecting the effectiveness of his/her performance and that, further, the teacher is entitled to receive such recommendations that will assist him/her in increasing the effectiveness of his/her performance. The Board and the Association further agree that special attention and the supportive help and guidance in classroom techniques shall be provided the new teacher.
+D.	Therefore, the Administration shall establish supervisory procedures that will guarantee a minimum of three (3) written evaluations per year for each non-tenure teacher, and one (1) for each tenure teacher, provided that only two (2) written evaluations need be made for each non-tenure teacher hired after January 1st of the school year.
+34
+E.	Each teacher shall sign all copies of each written evaluation attesting to the fact that the contents of the evaluation are known to him/her and the teacher’s signature shall not be interpreted as any assent to the contents of the evaluation. No written evaluation may become a part of the teacher’s personnel file without the teacher’s signature. Further, each teacher shall be given a copy of any evaluation report prepared by his/her evaluators at least one (1) day before being required to sign it.
+F.	Evaluation and/or observation conferences shall be arranged at a time mutually convenient to the evaluator and evaluates within five (5) school days after receipt of the evaluation by the teacher. At such time, the teacher is entitled to have his/her response to the evaluation heard and noted. A teacher may attach a rebuttal to the evaluation. Evaluations will be conducted within the canons of recognized educational evaluation practice and the Laws and Administrative Code of the State of New Jersey. Any disputes concerning the time of the conference shall be resolved by the Superintendent.
+G.	The parties agree to fully discuss all elements of the teacher evaluation approach in the District. The Board further agrees to negotiate in good faith over any proposals the Association makes concerning the negotiable aspects of teacher evaluation.
+H.	1. Prior to May 31 of each year, a non-tenured probationary teacher shall receive written notice as to whether or not the administration intends to recommend a renewal of contract for the ensuing year.
+2. a. The Board of Education shall give written notice of non-renewal or termination of a non-tenured teacher’s contract of employment, in compliance with the tirneliness parameters set forth above.
+b.	The teacher affected, may request a written statement of reasons for such non-renewal, within fifteen (15) calendar days, following the receipt of the Board’s written notification that such employment will not be offered.
+c.	The Board of Education shall provide written reasons for such nonrenewal within thirty (30) calendar days following the receipt of the formal request.
+d.	The teacher may request an appearance before the Board of Education within ten (10) calendar days following the receipt of the Board’s reasons for such non-renewal. The appearance before the Board shall be set no later than thirty (30) calendar days following the receipt of the requested statement of reasons. The decision of the Board shall be rendered at the next regularly scheduled Public Board meeting.
+35
+I.
+J.
+K.
+Teachers shall be informed of the substance of all complaints acted upon prior to their use in evaluation, and shall have an opportunity to respond thereto.
+If results of standardized tests used for evaluating students are used in evaluating teacher performance, such use will be documented in the teacher evaluation report.
+Personnel Records
+1.	A teacher shall have the right to review the contents of his/her personnel file at any reasonable time upon written request to the Director of Human Resources. The teacher shall be entitled to have representatives of the Association accompany him/her during such review. No information in a teacher’s personnel file will be shared with anyone outside of administrative/supervisory personnel and Board members with legitimate need to know, except name, place of employment, dates of employment, job classification and salary. Additional specified information may be given upon advance written approval of the teacher to the Director of Human Resources. The teacher is entitled to receive copies of any documents in his/her file. The Board may levy a charge for such copying which charge shall bear a reasonable relationship to actual cost. Prior to such examination, any and all communications from a third party regarding employment references shall be removed from the file.
+2.	No material derogatory to a teacher’s conduct, service, character or personality shall be placed in his/her personnel file unless the teacher has had an opportunity to review same. The teacher shall acknowledge that he/she has had the opportunity to review such material by affixing his/her signature to the copy to be filed with the express understanding that such signature in no way indicates agreement with the contents thereof. The teacher shall also have the right to submit a written answer to such material and his/her answer shall be reviewed by the superintendent or his/her designee and attached to the file copy. This section shall not apply to evaluation procedures contained in this Article 10.
+3.	If upon examining his/her personnel file the teacher has reason to believe that there are inaccuracies in documents contained therein, he/she may submit a written memorandum to the Director of Human Resources explaining the alleged inaccuracy. If the Director of Human Resources concurs with the teacher’s contentions, he/she shall either remove the faulty document or attach the teacher’s memorandum to the document in the file and note thereon his/her concurrence with the memorandum’s contents. Disputes over alleged inaccuracies of documents in the teacher’s file, may be processed through the grievance procedure, commencing at level two. This section shall not apply to evaluation procedures contained in this Article 10.
+36
+EMPLOYEE EVALUATION AS TO SECRETARIES AND SUPPORT PERSONNEL
+A.	Personnel Records
+Upon reasonable notice, as scheduled with the Human Resources Office, an employee shall be permitted to examine the employee’s personnel file. Prior to the employee’s examination of the file, the Director of Human Resources shall remove any documents in the file from third parties that could be construed to be employment references.
+B.	Employee performance evaluations shall be conducted in accordance with such policies as established by the Board and in conformity with procedures established after consultation with the Association.
+Article 11 ‘ TEACHER EMPLOYMENT
+A.	1. Tenured teachers will automatically be re-employed for the following year unless otherwise notified in accordance with the Administrative Code and statute. Non-tenured teachers will receive notification of renewal of employment for the following year in accordance with N JSA18A.27-10. Such notification to all shall include:
+a.	School building or annex where duties will	be	carried out;
+b.	General subject area. Broad base term to	be	used,	e.g. - foreign
+language, mathematics, etc.;
+c.	Grade level-K, 1-3,4-5, 6-8, 9-12;
+d.	Salary;
+e.	Term of the contract, including sixty (60) day termination clause
+mutually applicable to the Board and fine non-tenured employee;
+f.	Probable mandated responsibilities beyond the school day;
+g.	The Board will issue teacher contracts or letters of intent on or before June 10th of the school year.
+2.	Ail time spent in addition to those spelled out in the contractual duties to provide specific student activities shall be classified as extra-curricular duties. All extra-curricular duties shall be filled by volunteers. These duties will be covered by separate contract which will provide appropriate remuneration as set forth in Article 9, Paragraphs F. and G.
+B.	Appointments for summer school teaching positions shall be made on or prior to May 15th of each year. At the same time, teachers whose appointments are tentative due to uncertainty in the student population or subject matter requirements will also be notified of possible employment and the order in which they will stand should their services be required. A list of all such appointments will
+37
+be furnished to all persons concerned and to the Association on or prior to May 15th. Notice of proposed summer school teaching positions, including the duration of same, shall be posted in each school building.
+Article 12
+leaves of absence as to teachers only
+A.	Sick Leave
+1.	As of September 1,1970, all full-time teachers shall be entitled to ten (10) days sick leave per year. Unused days of sick leave shall be accumulated from year to year. Extended year teachers who are paid on Schedules A. 8., A. 9. and A. 10. receive 11 accumulative sick leave days per year.
+2.	Teachers who teach a six (6) week summer school program are entitled to two (2) additional non-accumulative sick leave days. Teachers who teach a 15-20 day summer school program are entitled to one (1) additional non-accumulative sick leave day. Teachers who work on a per diem basis in the summer receive no additional sick leave days.
+3.	Termination of employment affects cancellation of accumulated sick leave and subsequent re-employment is not cause for regaining the old accumulation, and the person re-employed must begin anew his/her personal illness benefits.
+4.	The purpose of personal illness benefits is to provide relief in case of personal sickness, personal accident and quarantine. Any other use of sickness allowance is a violation of contract.
+5.	Continuous personal illness absence of five (5) days or more must be certified to by a properly licensed physician.
+6.	When a teacher retires from the Cherry Hill School District pursuant to the provisions of the Teacher’s Pension and Annuity Fund, such teacher shall be paid $57.50 per day for each day of accumulated unused sick leave days that have been accumulated as a result of employment in the Cherry Hill School District. If termination of employment is due to death, the teacher’s estate shall receive such pay.
+7.	Summer school teachers shall be entitled to two (2) days sick leave during summer school session.
+8.	Teachers shall be given a written accounting of accumulated sick leave days no later than October 15th of each school year.
+38
+B.	Temporary Leaves of Absence
+As of September 1,1970, all full-time teachers shall be entitled to the following non-cumulative leaves of absence with pay during each school yean
+1.	In the event of death in the immediate family an allowance up to five (5) consecutive working days leave shall be granted provided the said working days are taken within the seven (7) consecutive weekdays starting the first day after the death. “Immediate family” shall be husband, wife, child, stepchild, father, mother, father-in-law, mother-in-law, brother, sister, grandchild or any member of the employee’s immediate household.
+2.	a.	An allowance of one (1) day shall be granted to attend the funeral of
+other relatives of the employee.
+b. In addition to the one day specifically listed in 2. a. above, teachers shall be allowed to use up to a total two (2) additional days which are deducted from personal leave. The deduction will occur in this order.
+,	first from available personal leave from the current yean and, then,
+from any available unused personal leave from the year immediately preceding the current year.
+3.	Absence for two days per year may be granted to an employee without reduction in pay for personal business which cannot be performed otherwise than during employment hours. Such absence shall be allowed with the approval of the administration provided that such approval shall not be unreasonably withheld. Except in emergencies, it shall be the employee’s responsibility to file the appropriate form with the superintendent five days in advance of the absence. Personal leave will not be granted for either of the two days preceding or following holiday or vacation period except in emergency cases. The number of unused days in any year shall accumulate for the purposes of sick leave from year to year, as long as the employment is continuous. For personnel who begin employment February 1st or thereafter, this leave shall be limited to one (1) day. The purpose of personal business days is to allow the teachers to perform such pressing and immediate business that cannot be postponed or performed after employment hours. Any other use of personal business days is a violation of the contract.
+4.	In case of required jury duty, a teacher shall notify his/her immediate supervisor, and shall be allowed time off for jury service. The teacher shall be paid the difference between his/her regular pay and jury pay.
+5.	In case of a required appearance in a court of law involving no moral turpitude on the part of the teacher, he/she shall be granted time off for such appearance.
+39
+c.
+D.
+E.
+F.
+6.	Attendance of staff members at professional meetings is authorized within the framework of the budget, and with the approval of the Superintendent.
+7.	Up to a total of three (3) days at the end of a school year and/or at the beginning of a school year, as may be required to attend federally sponsored institutes (viz. National Science Foundation Institutes) and/or to travel to the place where such institute is to be held.
+8.	a. Up to three (3) days for a maximum of three (3) representatives of the Association to attend conferences and conventions of state and national affiliated organizations. The foregoing shall not be utilized to exceed 18 man days per year.
+b. The Association shall request leave for this purpose and shall promptly pay the Board the salaries of substitutes employed by it to cover the absent teachers’responsibilities.
+Other leaves of absence, without pay, may be granted by the Board at its discretion.
+Absences due to snow or inclement weather, when school is in session, are considered personal. Salary deductions will be made accordingly. Any deductions that are made are based on 1/200th of the annual salary for each day’s absence. A teacher who has an unused personal day provided for in paragraph B-3 above, may charge such absence due to snow or inclement weather to such personal day, in which case no deduction will be made.
+For each period of absence, a teacher will be required to complete and file an appropriate form with the office of the Superintendent, regardless of the nature of the absence and type of leave involved.
+In the event a teacher is granted leave without pay for a full school year pursuant to this Article, upon return therefrom, he/she shall be placed on the salary schedule at the next succeeding salary level at which he/she was compensated prior to the commencement of said leave, except a teacher for whom the Board grants a leave of absence for a particular teaching experience claimed at the time the request for leave is made.
+A teacher working for the Board at least ninety-two (92) days within any given school year shall receive full credit for that year on the salary guide and a teacher working less than said ninety-two (92) days in any given school year shall not receive credit for that year on the salary guide. Unused accumulated sick leave and credits toward sabbatical-eligibility shall be restored to a teacher upon his return from leave of absence.
+40
+H.	All initial applications, extensions or renewals of leaves of absence shall be applied
+for and responded to in writing.
+LEAVES OF ABSENCE AS TO PSYCHOLOGISTS
+A.	Sick Leave ,. ’.i	.. ,	■	■
+1.	All psychologists shall be allowed twelve (12) days absence in any school year for personal illness, without deduction of pay, with the accumulation at the rate of one (1) day per month. The number of unused days in any year shall accumulate from year to year, as long as the employment is continuous.
+2.	When a psychologist retires from the Cherry Hill School District pursuant to the provisions of the Teacher's Pension and Annuity Fund, such psychologist shall be paid $57.50 per day for each day of accumulated unused sick leave days that have been accumulated as a result of employment in the Cherry Hill School District. If termination of employment is due to death, the psychologist’s estate shall receive such pay.
+B.	Temporary Leaves of Absence
+All full-time psychologists shall be entitled to the following leaves of absence with pay during each school year:
+1.	a. In the event of a death in the immediate family, an allowance up to five (5) days leave shall be granted. “Immediate family” shall be husband, wife, child, stepchild, father, mother, father-in-law, motherin-law, grandchild or any member of the psychologist’s immediate household.
+b.	An allowance of one (1) day shall be granted to attend the funeral of
+other relatives of the psychologist. In addition to the one day specifically listed in 1. a. above, psychologists shall be allowed to use up to a total two (2) additional days which are deducted from personal leave. The deduction will occur in this order: first from available personal leave from the current year; and, then, from any available unused personal leave from the year immediately preceding the current year.
+2.	Absence of two (2) days per year may be granted to a psychologist for personal business which cannot be performed other than during employment hours. The number of unused days in any year shall accumulate for the
+. purpose of sick leave from year to year.
+41
+3.	In case of required jury duty, a psychologist shall be allowed time off for jury service. He shall be paid the difference between his regular pay and jury pay.
+4.	In the event of required appearance in a court of law involving no moral turpitude on the part of the psychologist, he/she shall be granted time off for such appearance.
+5.	On religious holidays, when schools are closed, psychologists are entitled to take the day without being charged a personal or vacation day.
+C.	Professional Development
+Psychologists may make application to their immediate superior for leave to attend professional conventions, conferences and meetings. The Board may, in its discretion, approve such application which may include reimbursable expenses.
+D.	Other Leaves of Absence
+Other leaves of absence, without pay, may be granted by the Board at its discretion.
+TEMPORARY LEAVES OF ABSENCE AS TO SECRETARIES AND SUPPORT ONLY
+A.	Types of Leave
+Employees shall be entitled to the following temporary leaves of absence with full pay each year.
+1.	Personal
+Absence for two (2) days per year shall be granted to an employee without reduction in pay for personal business which cannot be performed otherwise than during employment hours. Such absence shall be allowed with the approval of the administration provided that such approval shall not be unreasonably withheld. Except in emergencies, it shall be the employee’s responsibility to file the appropriate form with the Superintendent five (5) days in advance of the absence. Personal leave will not be granted for either of the two (2) days preceding or following holiday or vacation period except in emergency cases. The number of unused days in any year shall accumulate for the purposes of sick leave from year to year, as long as the employment is continuous. For personnel who begin employment February 1st or thereafter, this leave shall be limited to one (1) day. The purpose of personal business days is to allow the employee to perform such pressing and immediate business that it cannot be postponed or performed after
+42
+employment hours. Any other use of personal business days is in violation of the contract.
+2.	Conference Davs - Secretaries
+a.	Up to twelve (12) employee days for the Association per year shall be allowed for employees to attend conferences and conventions of State or National affiliated organizations.
+Substitutes shall be compensated one-half by the Board and one-half by the Association.
+b.	Two (2) days for the purpose of attending the annual N. J.E.A. Convention.
+3.	Conference Davs - Support
+Up to nine (9) employee days per contract year shall be allowed for employees to attend conferences and conventions of State or National affiliated organizations. Request for attendance shall be made to the School Business Administrator. Substitutes shall be compensated one-half by the Board and one-half by the Association when attendance is requested by the employee or Association.
+4.	Legal
+An employee shall be granted leave for a required appearance in a Court of Law or before an Administrative Agency, provided the employee is not a defendant in a criminal action, and provided further that the appearance does not involve an adversary action between the Board and the employee. In an adversary proceeding between the Board and the employee, or where the employee is a defendant in a criminal action, the Board will grant the employee time off without pay for such appearance. ;
+5.	Other Leaves
+Other leaves of absence with or without pay may be granted at the discretion of the Board.
+B.	Leaves taken pursuant to Section A. 1 above shall be in addition to any sick leaves to which the employee is entitled.
+C.	Funeral Leave
+1.	In the event of a death in the immediate family, an allowance of up to five (5) days leave with pay shall be granted. “Immediate family” shall be spouse,
+43
+child, stepchild, father, mother, father-in-law, mother-in- law, brother or sister, grandchild or any member of an employee’s immediate household.
+2.	a.	An allowance of one (1) day with pay shall be granted to attend the
+funeral of other relatives of the employee.
+b. In addition to the one day specifically listed in 2. a. above, secretaries and support shall be allowed to use up to a total two (2) additional days which are deducted from personal leave. The deduction will occur in this order first from available personal leave from the current yean and, then, from any available unused personal leave from the year immediately preceding the current year.
+EXTENDED LEAVES OF ABSENCE - SECRETARIES AND SUPPORT
+A.	Workers’ Compensation
+Whenever any employee, entitled to sick leave under this Agreement, is absent from his/her post of duty as a result of personal injury caused by an accident arising out of and in the course of employment, the Board shall pay to such employee the full salary or wages for the period of such absence for up to one calendar year without having such absence charged to the accumulated sick leave provided in this Agreement. Salary or wage payments provided herein shall be made for absence during the waiting period and during the period the employee received or was eligible to receive a temporary disability benefit under Chapter 15 of Title 34, Labor and Workers Compensation, of the Revised Statutes. Any amount of salary or wages paid or payable to the employee as provided herein shall be reduced by the amount of any workers compensation award made for temporary disability.
+B.	Good Cause
+Other leaves of absence, with or without pay, may be granted by the Board at its discretion.
+C.	Return from Leave
+1.	Salary
+Upon return from leave granted pursuant to Section A or B of this Article, an employee shall be considered as if the employee were actively employed by the Board during the leave and shall be placed on the salary and vacation schedule at next succeeding level the employee was compensated at prior to commencement of said leave.
+44
+2.	Benefits
+Unused accumulated sick leave, personal days and vacation days to which an employee was entitled at the time the leave of absence commenced shall be restored to said employee upon return to work* provided however, sick leave days, personal days and vacation days shall not accrue during the leave of absence.
+D.	All initial applications, extensions or renewals of leaves of absence shall be applied for and responded to in writing.
+EXTENDED LEAVES AS TO ALL EMPLOYEES
+A.	Extended Disability Leave . j
+1.	Due to a medical disability, an employee shall be granted an extended leave of absence without pay (subject to paragraph 4 hereof) if any one of the following conditions exist:
+a.	A notable and substantial decrease in work performance;
+b.	The production of a certification from a medical doctor that the employee is medically unable to continue to work.
+2.	The Board shall have the right to have such an employee examined by its own physician and in the event of a disagreement between the Board’s physician and the employee’s physician on such ability or inability, the question shall be referred to a physician engaged at the joint expense of the employee and the Board for final and binding resolution.
+3.	In the event of pregnancy, the health of the child, either perspective or otherwise, shall be considered when making the determination of whether the employee is medically able to continue to work.	<
+4.	During the period of the employee’s personal medical disability, accumulated sick leave benefits in accordance with Section A. 1. above shall be paid until such benefits are exhausted or the personal medical disability has terminated.
+5.	When the seeking of an extended leave of absence for medical disability can be anticipated, an employee shall file a written request for such leave with the Superintendent or his/her designee at least thirty (30) days in advance of the anticipated date on which said leave is to commence.
+The request shall specify therein the date upon which, subject to medical confirmation, the employee proposes to return. Upon the termination of the medical disability, (subject to paragraph 3 above) the employee shall return
+45
+to work, resign, retire or apply for other leave. In the event of disagreement, the date of said termination shall be established as set forth in paragraph 2 above.
+6.	Applications for extended medical disability shall not be granted beyond June 30 of the current school year, in the event an employee wishes to continue on extended medical disability for all or part of the ensuing school year, an application for such status Shall be made during the month of June accompanied by appropriate medical certification and shall be granted by the Board. In the event the continued extended medical disability is for a part of the ensuing year and there is a change in the employee’s medical status during the school year, the Board shall, upon submission of an additional application and appropriate medical certification, make appropriate changes in said leave. In the event of a question concerning the certification it shall be resolved in accordance with paragraph 2 above.
+7.	This section shall not be construed to require the Board to grant tenure to any non-tenured teacher or secretary who has not been granted tenure in the absence of this contract or to offer a contract for a new school year for any employee who would not otherwise have been offered such a contract.
+B.	Child-Rearing Leave
+An employee may make application to the Board for a child rearing leave of absence. Upon application, said leave shall be granted by the Board for a period not to exceed one (1) calendar year from the date of birth of the child. The date of requested return by the employee may be adjusted by the Board, in its discretion, to commence in January or September following the end of the requested leave.
+MISCELLANEOUS AS TO ALL EMPLOYEES
+All employees are expected to report for work on every workday designated by the official school calendar unless properly excused. Unexcused absences are to be treated as acts of insubordination and may be constituted as cause for dismissal.
+Article 13
+PROMOTION AS TO TEACHERS ONLY
+A.	A notice of vacancy for any position for which a teacher may qualify shall be sent to each school, and a copy shall be sent to the Association fifteen (15) days before the final date any applications must be submitted, except in the case of acting positions, notice shall be sent seven (7) days before the final date any applications must be submitted. The notice of vacancy shall clearly set forth the position, its qualifications, its duties and the rate of compensation. It is understood that the
+46
+qualifications for any such position shall not be changed while applications therefore are pending.
+B.	When there is a vacancy for any position for which a teacher may qualify, all qualified teachers shall be given an opportunity to make application for such position. The Board agrees to give due consideration to the professional background and qualifications of all applicants and other relevant factors. The Association will be notified of the identity of the person for the position within sixty (60) days of the last day for the filing of applications, or if the position has not been filled within that period, of the reason for the delay. This paragraph shall not apply to co-curricular activity positions.
+C.	1. When there is a vacancy in any position on Schedules “B” and “C” attached hereto, notice of said vacancy shall be advertised in the building in which said vacancy exists.
+2.	Vacancies in any position in Schedule “B" shall be advertised in all schools in the district, and mailed to the Association, if not filled as a result of advertising in C. 1.
+3.	During summer recess if any vacancy exists in any position in Schedule “B”, the vacancy shall be posted on the Bulletin Board at Central Administration building and a copy mailed to the Association.
+Article 14
+BOARD’S FUNCTION AS TO TEACHERS AND PSYCHOLOGISTS ONLY
+Except as limited by the provisions of this Agreement, the Board of Education reserves all rights and functions vested in it pursuant to applicable laws and regulations and all other functions as are normally and customarily exercised by boards of education in the management of the affairs of the school district.
+Article 15
+SCHOOL CALENDAR AS TO TEACHERS ONLY
+A.	The in-school work year of teachers employed on a ten (10) month basis shall not exceed 185 days, with a maximum of 181 instructional days. The in-school work year shall include days when pupils are in attendance, orientation days, and any other days on which teacher attendance is required. Effective July 1, 2002, the inscribe! work year of teachers employed on a ten (10) month basis shall not exceed 186 days, with a maximum of 181 instructional days. The additional day is for inservice purposes. Effective July 1, 2003, the in-schoo! work year of teachers employed on a ten (10) month basis shall not exceed 187 days, with a maximum of 182 instructional days.
+47
+B.	In addition to A. above, those LDTC’s social workers, facilitators, colleague teachers, instructional support specialists, as approved by the Board, and other positions approved by the Board may, as approved by the Board shall work an additional 20 work days. These positions shall be posted by April 1 for the succeeding July 1 through June 30 school year.
+1.	These positions shall be entitled “Extended Year Teachers”.
+2.	The scheduling of the additional days shall be developed by the employee and his/her immediate supervisor in order to meet the needs of the District and the employee.
+3.	Compensation for these individuals shall be as per Schedules A. 8., A. 9. and A. 10.
+4.	Payment shall occur as follows: individuals shall receive five percent (5%) of their salary figure as stated in Schedules A. 8., A. 9. and A. 10., on the last District pay day prior to August 1; and, an additional five percent (5%) on the last District pay day prior to September 1. Thereafter, these individuals shall receive payment of the remaining 90% of the annual salary over the remaining paychecks in the year.
+C.	New Teachers
+1.	Effective July 1,2001, new personnel may be required to attend up to five (5) additional days over the work year set forth in A. above during their first work year. These additional days shall be for orientation and in-service purposes.
+2.	Effective July 1,2002, teachers who are beginning their second full year with the District and who had less than five (5) years of prior teaching experience upon initial hire in the District may be required to attend up to two (2) additional days over the work year set forth in A. above during their second work year. These additional days shall be for orientation and in-service purposes.
+Article 16
+TRANSFER OF PROFESSIONAL PERSONNEL AS TO TEACHERS ONLY
+The transfer of professional personnel would normally take place at the request of a staff member. Circumstances could exist, however, where the need for administrative action was indicated.
+48
+A.	A request for transfer will be granted if:
+1.	A vacancy exists.
+2.	The qualifications of the staff member involved meet the requirements of the available position in terms of professional preparation, experience and certification.
+3.	The qualifications of the candidate meet the requirements of the available position and are superior to those of all other candidates.
+B.	In granting a request for transfer, one or more of the following criteria will be applicable:
+1.	Transfers are needed to assure a well-balanced staff in terms of professional
+qualifications and experience, in the case of a new school, experienced personnel may be needed to permit an effective implementation of the educational program and staff stability.
+2.	The assigned school cannot make effective use of the particular qualifications of the candidate.
+a.	Resignations may have created an imbalance of teachers best equipped to meet the particular needs of an instructional program at a particular grade level or for a specific ability group.
+b.	Additional professional preparation has qualified a candidate for a specialized area such as guidance.
+3.	Transfer includes a potential for advancement.
+4.	Enrollment decrease necessitates a reduction in staff.
+5.	A transfer would be in the best interests of the individual and/or the school. A personality conflict may exist that does not permit a reasonable solution and has an undesirable effect on the instructional program.
+C.	Procedure for Processing Transfer Requests
+1.	Four copies of the Transfer Request Form and a completed updated application shall be submitted to the building principal by the staff member requesting transfer.
+2.	The building principal shall add his/her recommendation and shall include the reasons for his/her decision to approve or disapprove the request.
+49
+3.	The completed request and application shall be forwarded to the offices of the Director of Human Resources for endorsement.
+4.	The Director of Human Resources shall acknowledge the receipt of a transfer request and, in the case of disapproval, advise the transfer candidate of the reasons for the action. A copy of the letter shall be sent to the building principal.
+5.	A copy of the request, together with the new application, shall be forwarded to the receiving principal for personnel approved for transfer consideration. A copy also shall be sent to the Human Resources Office to advise that office of tiie staff member’s candidacy.
+6.	The receiving principal will schedule an interview with the transfer candidate as soon as possible and advise the Director of Human Resources of his/her decision in writing.
+7.	The Director of Human Resources shall inform the transfer candidate of the final decision and advise the Human Resources Office and the principals concerned of the successful candidates.
+D.	Step 1. The administration shall place on a RIF list all non-tenured personnel except in those positions where assignments are known due to specialized certification.
+Step 2. May 1st - posting of list of known vacancies.
+Step 3. Receive transfer requests from tenured personnel. All requests must be submitted within the period May 1 to May 10th.
+Step 4. Tenured teachers requesting transfers, tenured teachers transferred due to RIF (volunteers and non-volunteers) and tenured teachers who are returning from leaves of absence will be considered for placement in positions that are available as of May 1.
+Step 5. Non-tenured personnel who were on the RIF list (#1 above) will be considered for open positions.
+Step 6. Tenured teachers who have requested transfer will continue to be considered for vacancies that occur up through August 15th.
+Step 7. The Association will be sent a list of known vacancies as of May 1 st and July 30th.
+50
+E.	When a teacher is to be transferred due to a reduction in the number of teachers in
+a school or to fili a vacancy which occurs during the school year, every effort will be made to secure a volunteer who can meet the criteria provided for above.
+INVOLUNTARY TRANSFER AND REASSIGNMENTS AS TO SECRETARIES AND SUPPORT ONLY
+Notice and reasons for an involuntary transfer or reassignment shall be given to employees by the immediate supervisor, as Soon as possible prior to Board action on the same.	>	'
+Article 17
+INVOLUNTARY REDUCTION OF PROFESSIONAL PERSONNEL -	AS TO TEACHERS ONLY
+A.	The Association’s President shall receive written notice of the layoff before notification is given to any of the individual teachers affected.
+B.	The Association shall be supplied at all times with an accurate list of all personnel who are currently on layoff.
+C.	If a reduction becomes necessary, a layoff list shall be established on or before May 1st of each school year and an individual's name shall be retained on the list until September 15th of the next succeeding calendar year.
+NON-RENEW AL OF EMPLOYMENT AS TO SECRETARIES AND SUPORT ONLY
+A.	An employee who has received a notice of non-renewal of employment may, within five (5) calendar days thereafter, request in writing a statement of reasons for such non-renewal from the School Business Administrator which shall be given to the employee within ten (10) days after receipt of such request
+B.	Said employee may request in writing an informal appearance before the Board provided a written request for same has been received in the office of the Secretary of the Board within five (5) days after receipt by the employee of the statement of reasons.
+C.	The appearance before the Board shall not be an adversary proceeding but shall be for the purpose of convincing the Board to offer re-empioyment.
+D.	The Board shall exercise its discretion in determining a reasonable length of time for the proceeding.
+E.	The Board shall provide adequate written notice to the employee of the date, time and place of the informal appearance.
+51
+F.	The employee may be represented by counsel or one representative of the employee’s choosing.
+G.	Within three (3) days following the informal appearance, the Board shall notify the affected employee in writing of its final determination.
+Article 18
+CLASS SIZE
+A.	The Board and the Association recognize that overcrowded classrooms are detrimental to the educational process, and that reduction of class size is an important step toward solution of this problem.
+B.	The Board will make every effort to establish and maintain appropriate class size.
+C.	Problems relating to class size shall be the subject for discussion by the Association-Administration Liaison Committee.
+Article 19
+CURRICULUM DEVELOPMENT
+A.	Should the Board finance the development or revision of a course of study, the decision shall be made by the Superintendent and/or administration relative to the skills, abilities and talents of the teachers involved.
+B.	Adequate notice of all such development or revision shall be given to the Association prior to such undertaking so that teachers can make application to become involved.
+C.	Teachers involved shall function on released time, or if hours are spent in work beyond the thirty-five (35) hours work week herein otherwise provided for, teachers shall be paid $30.06 per hour (2001-2002); $31.08 per hour (2002-2003) and $32.20 per hour (2003-2004) for such hours.
+D.	Alleged violations of the above shall be subject to Article 3 hereof.
+52
+Article 20 MEDICAL PLAN
+A.	Health and Hospitalization Insurance
+1.	Effective July 1,1999, all otherwise-eligible employees shall be enrolled in the Blue Cross-Blue Shield PPO program at Board cost The blue Card PPO shall not contain the Green Springs option. Said employees may elect to enroll in any other available plan. If the premium cost of any other plan chosen by the employee exceeds that of the Blue Cross-Blue Shield Blue Card PPO plan, the employee shall pay that difference by pay deductions spread over the year under procedures established by the Administration.
+2.	In addition to available HMO’s, eligible employees may enroll in the PACE program. There shall be no duplicating of coverage for psychologists (viz. if psychologists spouse has a medical plan, either for himself/herself and/or dependents, the Board will not be required to duplicate such coverage).
+3.	Effective October 1,2001, the doctor’s visit co-pay shall be $10.
+4.	New Employees:
+a.	All new employees hired on or after the date of ratification of the 1996-1998 Agreement who otherwise qualify for insurance based upon D. below shall receive single! coverage for the first three (3) years of employment in the Blue Cross-Blue Shield Blue Card PPO plan.
+b.	Effective July 1, 2002, the Board shall contribute 100% of the single premium for all new employees otherwise eligible for insurance under D. below and who are in their first three years of employment with the District. The Board shall also contribute 25% of the difference between the additional cost over single enrollment for any other enrollment the employee is eligible for in his/her first year of employment; 50% of the difference between the additional cost over single enrollment for any other enrollment the employee is eligible for in his/her second year of employment; and, 75% of the difference between the additional cost over single enrollment for any other enrollment the employee is eligible for in his/her third year of employment. A “year of employment” is defined to mean twelve months commencing on the first day of work for a first day teacher, or the first anniversary date of initial employment or the second anniversary date of initial employment, as relevant.
+d.	On the first of the month following the third anniversary of initial employment, he/she shall be eligible for any level of Blue Cross-Blue
+53
+Shield Blue Card PPO enrollment for which he/she is eligible, at full Board cost
+B.	Prescription Insurance
+1.	The Board shall provide to an eligible employee and his/her dependents, at no cost to the employee, a prescription plan containing an employee copayment of $12 for brand-name drugs; $6 for generic drugs; and $0 for mailorder drugs.
+2.	Effective on October 1,2001, the Board shall provide to an eligible employee and his/her dependents, at no cost to the employee, a prescription plan containing an employee co-payment of $15 for brand-name drugs; $7 for generic drugs; and one co-payment ($15 for brand-name drugs; $7 for generic) for a 90 day supply by mail-order.
+C.	Dental Insurance
+1.	The Board shall provide to an eligible employee and his/her dependents a dental plan as agreed to by the parties.
+2.	All eligible employees shall be enrolled in the “01” plan.
+3.	a. The dental plan shall have a $25 individual annual deductible to a maximum of $75 annually per family. This deductible is waived for preventive services.
+b.	The Board shall offer the Delta Advantage dental plan with a $1,800
+maximum annual benefit.
+c.	Effective January 1,1999, the maximum benefit level per year per patient shall be $2,000. Effective January 1, 2002, the maximum benefit level per year per patient shall be $3,000.
+D.	“Eligible employee” in A., B. and C. above, as applied to employees employed prior to July 1,1995, is defined by practice.
+New employees hired on or after July 1,1995, must work half time or more in order to be eligible for Board-approved health insurance under his Article.
+E.	Since all medical plans are limited in duration, the parties hereto shall participate jointly in selecting health benefits carriers.
+F.	Effective on the first of the month which is at least 30 days after mutual ratification of the 1998-2001 Agreement, the Board shall provide a Section 125 HSA account approach which allows voluntary participation by employees.
+54
+G.
+There shall be a voluntary waiver incentive plan for insurances under A., B. and C. above. An incentive payment will be made to the employee in the amount of 30% of the relevant premium the Board would have been required to pay under A., B. and C. The waiver period shall be January 1 through December 31. The payment will be made upon the close of the insurance year. In 2001-2002, employees who have not exercised their waiver option before the 2001-2004 Memorandum was ratified, may exercise such an option for January 1,2002 and the waiver payment shall be divided in half. Details of the plan appear in Appendix 3.
+H.	Effective on July 1,2002, there shall be an Employee Assistance Plan for all
+employees. The maximum Board contribution to such a plan shall be $35.00 per eligible employee.
+Article 21
+FACILITATORS
+A.	The following shall be the annual stipends for area facilitators:
+Department Size 2001-2002	2002-2003	2003-2004
+Fewer than 7.1 teachers $2,882	$2,980	$3,088
+7.1 to 13 teachers	$3,603	$3,725	$3,859
+13.1 to 20 teachers	$4,323	$4,470	$4,631
+20.1 or more teachers	$5,165	$5,341	$5,533
+B.	Area facilitators shall receive 1/200th of their annual salary for each day of summer work which is performed.
+C.	The Board shall annually consider on a case-by-case basis additional release time for department facilitators in those circumstances where conditions such as department size or special curriculum needs warrant.
+Article 22 COMPLAINT PROCEDURE AS TO SECRETARIES AND SUPPORT ONLY
+A.	The principal or immediate supervisor shall meet with the employee to apprise the employee of the full nature of any complaint made to any member of the administration by any parent, student or other person, and they shall attempt an informal resolution of the same. At the request of the employee, the employee shall have the right to be represented by the Association at this or any meetings or conferences regarding said complaint. If a request for representation is not made at the informal meeting and it proceeds, any grievance arising out of the resolution of the complaint at the informal level shall not be subject to arbitration.
+55
+B.	Other than material addressed to the employees, no material derogatory to an employee’s conduct, service, character or personality shall be placed in the employee’s personnel file unless the employee had the opportunity to review such material. The employee shall acknowledge such material by affixing the employee’s signature to the copy to be Hied with the expressed understanding that such signature in no way indicates agreement with the contents thereof. In the event an employee refuses to sign the material then an Association representative shall acknowledge in writing that the employee has seen the material and has refused to sign the same. This acknowledgment shall be inserted in the employee’s personnel file. The employee shall also have the right to submit a written answer to such material and the employee’s answer shall be reviewed by the Superintendent and attached to the file copy.
+Article 23
+PROTECTION OF EMPLOYEES AS TO SECRETARIES AND SUPPORT ONLY
+A.	An employee may use reasonable force as is necessary to protect himself/herself from attack. In the absence of a certificated person or special officer, an employee may use reasonable force to protect another person or property, to quell a . disturbance threatening physical injury to others, or to obtain possession of weapons or other dangerous objects upon the person or within control of a pupil. Special officers shall defer to certificated persons when requested.
+B.	1.	Employees shall immediately report cases of assault suffered by them in
+connection with their employment to their principal or other immediate supervisor.
+2.	Such notification shall be immediately forwarded to the Superintendent who shall comply with any reasonable request from the employee for information in the possession of the Superintendent relating to the incident or the persons involved, and shall act in appropriate ways as liaison between the employee, the police, and the courts.
+Article 24
+EMPLOYEE EQUIPMENT AND EXPENSES AS TO SECRETARIES ONLY
+All employees shall be provided with the appropriate equipment necessary to do a high quality of work.
+A.	Electric typewriters shall be replaced, when necessary, as determined by the School Business Administrator/Board Secretary.
+56
+B.	1. Expenses incurred by th e employees that are subject to reimbursement by
+the Board shall be paid upon prior approval by the immediate supervisor and School Business Administrator/Board Secretary.
+2 When Association employees are called upon to use their privately owned vehicles,, they will be reimbursed for their mileage at the rate established in the then current Board policy upon submitting a proper voucher.
+-	Article 25
+employee equipment, uniforms and expenses as to support only
+A.	Employees where applicable shall be provided with the following uniforms and equipment after 90 days of employment in the job classification:
+PRINT SHOP OPERATOR — three shirts, three pairs of trousers and one smock.
+<	SCHOOL MEDIA TECHNICIAN - two smocks
+COPY MACHINE OPERATOR — two smocks.
+B.	1.	Employees shall sign for the above uniforms and equipment and will be
+responsible for the cleaning of the uniforms and replacement cost of uniforms or equipment if lost or stolen.
+2.	Replacement uniforms and equipment shall be made available to employees upon requisition by the employee and return of clean, used uniforms or equipment recognized by the supervisor as unfit for further use. Employees shall return clean uniforms and equipment upon leaving the Board’s employment for any reason.
+3.	The wearing of the uniform shall be limited to the Board’s premises during the course of employee’s workday or in travel to and from the employee’s home to work.
+C.	1. Expenses incurred by the employees that are subject to reimbursement by the Board shall be paid upon prior approval by the immediate supervisor and School Business Administrator/Board Secretary. ..................
+2.	When unit employees are called upon to use their privately owned vehicles, they will be reimbursed for their mileage at the rate established in the then current Board policy upon submitting a proper voucher.
+57
+Article 26
+TUITION REIMBURSEMENT
+Effective July 1, 2002, teachers who take certain graduate level courses shall be eligible to receive reimbursement for the tuition costs associated with the course(s) according to the following provisions:
+1.	a. Maximum District annual cost: $75,000 b. Maximum reimbursement per teacher. $750
+2.	In order to be eligible for reimbursement: 1) the graduate level course must
+be directly related to the assignment of the teacher at the time the course is taken, (except see 3. below); 2) it must be in a traditional, in-classroom course (except, see 4. below); 3) the course must be approved by the Superintendent or his/her designee in writing before registration; 4) the teacher must obtain a grade of B or better in the course; and, 5) the District must obtain a copy of the official transcript and proof of the tuition cost of the course(s) prior to June 30th.
+3.	The Superintendent or his/her designee may approve a course or courses that are not directly related to the assignment of the teacher at the time the course is taken if, in his/her discretion, it is deemed that the course will be of value to the District.
+4.	In addition to traditional, in-classroom courses, tuition reimbursement under this Article may be available to teachers for college-sponsored graduatelevel non-classroom courses such as video courses, Internet courses and other non-traditional courses. Such a course may be approved by the Superintendent or his/her designee when, in his/her discretion, it is deemed that the course will be of value to the District
+5.	The Superintendent’s determinations as to the direct relationship of the course to the assignment of the teacher at the time the course is taken under 2. above, and to the value of courses under 3. and 4. above are not grievable.
+6.	If the terms of 2. are met, the Board shall make tuition reimbursement
+payments before the end of the August following when the course was successfully completed.
+7.	If all tuition reimbursement claims under this provision exceed the cap set forth in 1. a. above, all claims shall be pro-rated. For example, if the cap set forth in 1. a. above can cover 95% of all claims under 2. above, all individual claims will be reimbursed at 95% of the claimed amount, up to the maximum set forth in 1. b. above.
+58
+Article 27
+MISCELLANEOUS PROVISIONS AS TO TEACHERS ONLY
+A.	If any provision of this Agreement or any application of this Agreement to any employee or group of employees is held to be contrary to law, then such provision or application shall not be deemed valid and subsisting, except to the extent permitted by law, but all other provisions or applications shall continue in full force and effect.
+B.	The parties agree to establish a committee to study the stipend system for Schedule B and Schedule C positions and make recommendations to the parties prior to the next round of negotiations. Each party shall appoint three members to the committee. The committee shall elect a chairperson. The committee shall commence functioning within 60 days of mutual ratification of this Memorandum, shall establish its own schedule, and shall issue a written report, with recommendations, to the parties on or before July 1,2002.
+C.	Whenever any notice is required to be given by either of the parties to this Agreement to the other, pursuant to the provision(s) of this Agreement, either party shall do so by fax or e-mail or certified letter at the following addresses:
+1.	If by Association, to Beard at:
+45 Ranoldo Terrace P.O, Box 5015 Cherry Hill, New Jersey 08034
+2.	If by Board, to Association at:
+President
+Cherry Hill Education Association 1998 Springdale Road Cherry Hill, New Jersey 08003
+D.	In case of an accident to an employee while on duty, no matter how slight, it is necessary to notify the immediate supervisor without delay, and then give in writing the details of the accident or injury. The paid absence of an employee due to injury which is compensable under the New Jersey Worker’s Compensation Act shall be subject to deduction of such payments as may be made by the insurance company for loss of wages.
+D.	The Board of Education will pay reasonable expenses, fees, meals, lodging and transportation incurred by teachers who attend sessions which are required and/or requested by the Cherry Hill School District. This paragraph shall not apply to the New Jersey Education Association Convention.
+59
+E.	The Board and the Association agree that there shall be no discrimination, and that all practices, procedures and policies of the school system shall clearly exemplify that there is no discrimination in the hiring, training, and assignment, promotion, transfer, or discipline of teachers or in the application or administration of this Agreement on the basis of race, creed, color, religion, national origin, domicile, or marital status, age or sex.
+F.	Any individual contract between the Board and an individual teacher, hereafter executed, shall be subject to and consistent with the terms and conditions of this Agreement. If an individual contract contains any language inconsistent with this Agreement, this Agreement, during its duration, shall be controlling.
+G.	The Board of Education shall provide additional compensation to teachers who participate in the district’s “Environmental Education” program, at the rate of $160.79 per day (2001-2002); $166.25 per day (2002-2003) and $172.24 per day (2003-2004) to those teachers who stay overnight It is expected that all sixth grade teachers shall participate in the program provided, however, in the event a sixth grade teacher cannot so participate for personal reasons, such teacher shall be excused therefrom.
+H.	Beginning of school year orientation of teachers shall be scheduled to provide a
+uniform normal lunch break for all new professional staff members.
+I.	The Board of Education will maintain an up-to-date, district-wide seniority list of all tenured members of the bargaining unit, which will be available in the Human Resources Office for examination by the Association. Such list shall be consistent with law and/or N.J.A.C. 6:3-1.10.
+MISCELLANEOUS PROVISIONS AS TO PSYCHOLOGISTS ONLY
+A.	Psychologists required to use their own automobiles in performance of their duties shall be reimbursed at a rate consistent with other employees of the district and approved by their appropriate supervisor.
+B.	Psychologists shall have input in the establishment of work assignments for the next school year or changes in work assignments during the school year. This input shall be through meetings with the appropriate supervisor. This input shall not be interpreted as limiting in any way the administration’s prerogative to make final decisions regarding work assignments
+C.	If any provision of this Agreement or any application of this Agreement to any employee or group of employees is held to be contrary to law, then such provision or application shall not be deemed valid and subsisting, except to the extent permitted by law, but all other provisions or applications shall continue in full force and effect.
+60
+MISCELLANEOUS PROVISIONS AS TO SECRETARIES AND SUPPORT ONLY
+A.	If any provision, or any application thereof, of this Agreement is held to be contrary to law; then such provision or application shall not be deemed valid, but all other provisions or applications shall continue in full force and effect.
+B.	This Agreement constitutes Board and Association policy for the term of said Agreement, and the Board and Association shall carry out the commitments contained herein and give them full force and effect as Board and Association policy.
+C.	Dues shall be deducted in accordance with N.J.S. 52:14-15.9 (e) as it may be amended or supplemented.
+MISCELLANEOUS PROVISIONS AS TO SECRETARIES ONLY
+Withholding an Increment
+The provisions of N.J.S.A. 18A:29-14 and all interpretations of it by the Commissioner of Education, the State Board of Education and the Courts of the State of New Jersey shall be a term and condition of employment between the parties hereto. The Board shall have the right to withhold an increment from an employee and the employee shall have the right to appeal such action.
+Article 28 AGENCY FEE
+A.	Purpose of Fee ...............
+If an employee does not become a member of the Association during any membership year (i.e., from September 1 to the following August 31) which is covered in whole or in part by this Agreement, said employee will be required to pay a representation fee to the Association forthat membership year. The purpose of this fee will be to offset the employee’s per capita cost of services rendered by the Association as majority representative.
+B.	Amount of Fee/Notification
+Prior to the beginning of each membership year, the Association will notify the Board in writing of the amount of the regular membership dues, initiation fees and assessments charged by the Association to its own members for that membership. The representation fee to be paid by nonmembers will be determined by the Association in accordance with the law.
+61
+C.	Deduction and Transmission of Fee
+1.	Notification
+On or about the 15th of September of each year the Board will submit to the Association a list of all employees in the bargaining unit. On or about January 1 of each year the Association shall notify the Board of Education as to the names of those employees who are required to pay the representation fee.
+2.	Payroll Deduction Schedule
+The Board will deduct from the salaries of the employees referred to in Section C. 1. the full amount of the yearly representation fee in equal installments beginning with the first paycheck in February
+3.	Termination of Employment
+If an employee who is required to pay a representation fee terminates his or her employment with the Board before the Association has received the full amount of the representation fee to which it is entitled under this Article, the Board will deduct the unpaid portion of the fee from the last paycheck paid to said employee during the membership year in question.
+4.	Mechanics
+Except as otherwise provided in this Article, the mechanics for the transmission of such fees to the Association will, as nearly as possible, be the same as those used for the transmission of regular membership dues to the Association.
+5.	Changes
+The Association will notify the Board in writing of any changes in the list provided for in C.1. above and/or the amount of the representation fee, and such changes will be reflected in any deductions made more than 10 days after the Board received said notice.
+6.	New Employees
+On or about the last day of each month, beginning with the month this Agreement becomes effective, the Board will submit to the Association, a list of all employees who began their employment in a bargaining unit position during the preceding 30 day period. The list will include names, social security number, job titles, dates of employment and places of assignment for all such employees. The Board will also notify the Association of any
+62
+change in the status of an employee regarding transfer, leave of absence, return from leave, retirement, resignation, separation from employment, or death
+D.	Indemnification
+‘	c	■	•	■	'	'	■'
+1.	The CHEA shall indemnify and save harmless the Board against any and all claims, demands, suits, judgments, settlements, or any other forms of liability including reasonable counsel fees and other costs of defense, that shall arise out of or by reason of action taken or not taken by the Board for the purpose of complying with any of the provisions of this Article, including but not limited to, any actions in connection with defending the legality of this indemnification provision.	.
+a.	Neither the Board nor the CHEA will challenge the legality of
+indemnification provisions of this Article. In the event this indemnification of the Board by the CHEA is challenged in any forum by any person or entity, the Board and the CHEA agree to defend the legality of the indemnification provision. In the event that this indemnification provision is deemed to be illegal or against public policy by any court or administrative agency or competent jurisdiction, then effective the date on which the CHEA no longer remits payments to the Board as provided herein above, the CHEA agrees it will eliminate the representation fee in effect at this time.
+b.	The Board shall retain its right to determine its course of conduct, including but not limited to, the right to select counsel and determine strategy, in any action arising out of or by reason of the provisions of this Article.
+c.	The indemnification provisions of this Article shall continue during any extension of this Agreement or during any period in which the CHEA is collecting representation fees in accordance with this Article.
+63
+Article 28
+DURATION OF AGREEMENT
+Unless otherwise provided herein, this Agreement shall be effective as of July 1, 2001 and shall continue in effect until June 30,2004 subject to the Association’s right to negotiate a successor Agreement as provided in Article 2. This Agreement shall not be extended orally and it is understood that it shall expire on the date indicated.
+CHERRY HILL EDUCATION ASSOCIATION
+By Vivian Robinson, President
+Date:
+
+BOARD OF EDUCATION OF THE TOWNSHIP OF CHERRY HILL
+By Pat Koper, President
+Date:
+64
+APPENDIX 1
+SIDEBAR AGREEMENTS AS TO TEACHERS ONLY
+1.	Ona non-contractual basis, the Board will continue its policy of giving consideration to the promotion of teachers in its employ to administrative positions. This is not to be construed as a waiver by the Board of its management functions nor as a commitment that it will not hire administrative personnel from the outside should it determine that the best interests of the district require such action.
+2.	The Board shall allocate annually to each elementary school the sum of $100, to each middle school the sum of $300, and to each high school the sum of $500, to be used for a professional library.
+3.	Following a medical leave of absence or a child rearing leave, it is anticipated that the teacher will return to employment in his/her original position if feasible, or be assigned to a position within the scope of the teacher’s certification. Nothing in the foregoing shall deprive the Board or the employee of rights granted under law.
+APPENDIX 2
+ADDENDUM TO SCHEDULE A AS TO TEACHERS ONLY
+If the holding in In re Neptune, 144 N.J. 16 is reversed by the Court or legislative action, and in the event the Board and the Association do not reach agreement for a successor contract for the 2003-2004 school year prior to July 1, 2004 and the salary schedule attached hereto as Schedule A must, by operation of law, be implemented temporarily for the 2004-2005 school year, each teacher shall receive a salary increase equal to his/her percentage increment on Schedule A; provided however, no teacher shall receive a salary increase greater than 4.76%. The limitation of advancement of a teacher on the salary schedule as a result of this restraint shall not result in the addition of another guide step.
+APPENDIX 3
+INCENTIVE PLAN CONCEPTS
+1.	Which employees are eligible for this incentive?
+Employees who are eligible to receive any enrollment level above single for any of the insurances under Article 20, A., B. and/or C.
+2.	Is the Incentive Plan voluntary?
+Yes. No employee must participate if she or he chooses not to do so.
+3.	What is the purpose of the Plan?
+65
+The purpose of the plan is to encourage eligible employees to waive unnecessary duplicate family coverage.
+4.	What is the "Incentive" portion of the Plan?
+Employees who are eligible for any enrollment and who waive all coverage for any of the three types of insurance for a full calendar year shall receive the percentage set forth in Article 20, G.
+5.	May an employee waive only one type of insurance and not others?
+Yes.
+6.	May an employee who has no other health/hospitalization coverage waive the health/hospitalization coverage?
+No. Such a waiver will not be allowed. An employee waiving coverage under A. (health/hospitalization) must provide proof of alternative coverage or the waiver will not be allowed.
+7.	May an employee who has no other dental or prescription coverage waive any or all of those coverages?
+Yes.
+8.	If an employee waives coverage, may he/she re-enroll?
+Yes, but only at the open enrollment periods, subject to carrier rules. The only exception is that if a spouse’s health/hospitalization coverage (Article 20, A.) is terminated during an insurance year, the employee may re-enroll immediately in the District’s plan. If such re-enrollment occurs during the insurance year, no incentive payment will be made to the employee for that year.
+9.	What happens to the waiver payment if the employee re-enrolls on other than a January 1st?
+No incentive payment will be made for that insurance forthat year.
+10.	If an employee waives coverage for an entire year, may he/she re-enter the plans on the next open enrollment date?
+Yes.
+66
+11.	When do employees receive their incentive payment?
+The payment shall be made upon the close of the calendar year in which the waiver occurs.
+12.	How does an employee sign up for this Plan?
+Each potentially eligible employee will receive a form from the administration. It will contain a final return date and waiver of coverage, and will specify the incentive payment which will be received.
+13.	Are there any other matters which the parties must attend to with respect to this issue?
+Yes. In order, to protect all employees from Federal and State taxation of existing benefits if this plan is in effect, the District is setting up a Section 125 account. Note that employees who receive such a waiver incentive are subject to normal Federal and State withholding on such payment
+67
+Schedule A-1 TEACHERS’ SALARY GUIDE 2001-2002
+Step On Guide	(B) BA	(C) B + 15	(D) BA +30	(E) MA	(F) M + 15	(G) M + 30	(H) DOC
+1	37,000	37,942	38,883	40,360	41,837	43,450	45,725
+2	37,190	38,132	39,073	40,550	42,027	43,640	45,915
+3	37,490	38,432	39,373	40,850	42,327	43,940	46,215
+4	37,890	38,832	39,773	41,250	42,727	44,340	46,615
+5	38,390	39,332	40,273	41,750	43,227	44,840	47,115
+6	38,990	39,932	40,873	42,350	43,827	45,440	47,715
+7	39,690	40,632	41,573	43*050	44,527	46,140	48,415
+8	40,490	41,432	42,373	43,850	45,327	46,940	49,215
+9	41,390	42,332	43,273	44,750	46,227	47,840	50,115
+10	42,390	43,332	44,273	45,750	47,227	48,840	51,115
+11	43,490	44,432	45,373	46,850	48,327	49,940	52,215
+12	44,990	45,932	46,873	48,350	49,827	51,440	53,715
+13	47,790	48,732	49,673	51,150	52,627	54,240	56,515
+14	51,290	52,232	53,173	54,650	56,127	57,740	60,015
+15	57,790	58,732	59,673	61,150	62,627	64,240	66,515
+16	63,090	64,032	64,973	66,450	67,927	69,540	71,815
+17	68,390	69,332	70,273	71,750	73,227	74,840	77,115
+18	71,265	72,207	73,148	74,625	76,102	77,715	79,990
+68
+Schedule A-2 TEACHERS’ SALARY GUIDE 2002-2003
+Step On Guide	(B) BA	(C) B + 15	(D) BA+ 30	(E) MA	(F) M + 15	(G) M + 30	(H) DOC
+1	38,500	39,470	40,440	42,000	43,500	45,200	47,500
+2	38,700	39,670	40,640	42,200	43,700	45,400	47,700
+3	38,990	39,960	40,930	42,490	43,990	45,690	47,990
+4	39,390	40,360	41,330	42,890	44,390	46,090	48,390
+5	39,790	40,760	41,730	43,290	44,790	46,490	48,790
+6	40,290	41,260	42,230	43,790	45,290	46,990	49,290
+7	40,890	41,860	42,830	44,390	45,890	47,590	49,890
+8	;	41,590	42,560	43,530	45,090	46,590	48,290	50,590
+9	42,390	43,360	44,330	45,890	47,390	49,090	51,390
+10	43,290	44,260	45,230	46,790	48,290	49,990	- 52,290
+11	44,490	45,460	46,430	47,990	49,490	51,190	53,490
+12	45,990	46,960	47,930	49,490	50,990	52,690	54,990
+13	48,490	49,460	50,430	51,990	53,490	55,190	57,490
+14	52,090	53,060	54,030	55,590	57,090	58,790	61,090
+15	58,390	59,360	60,330	61,890	63,390	65,090	67,390
+16	63,490	64,460	65,430	66,990	68,490	70,190	72,490
+17	68,990	69,960	70,930	72,490	73,990	75,690	77,990
+18	73,490	74,460	75,430	76,990	78,490	80,190	82,490
+69
+Schedule A-3
+TEACHERS’ SALARY GUIDE
+2003-2004
+Step On Guide	(B) BA	(C) B + 15	(D) BA + 30	(E) MA	(F) M + 15	(G) M + 30	(H) DOC
+1	40,000	41,000	42,000	43,600	45,200	47,000	49,300
+2	40,300	41,300	42,300	43,900	45,500	47,300	49,600
+3	40,600	41,600	42,600	44,200	45,800	47,600	49,900
+4	40,970	41,970	42,970	44,570	46,170	47,970	50,270
+5	41,470	42,470	43,470	45,070	46,670	48,470	50,770
+6	42,070	43,070	44,070	45,670	47,270	49,070	51,370
+7	42,670	43,670	44,670	46,270	47,870	49,670	51,970
+8	43,470	44,470	45,470	47,070	48,670	50,470	52,770
+9	44,370	45,370	46,370	47,970	49,570	51,370	53,670
+10	45,370	46,370	47,370	48,970	50,570	52,370	54,670
+11	46,470	47,470	48,470	50,070	51,670	53,470	55,770
+12	47,670	48,670	49,670	51,270	52,870	54,670	56,970
+13	49,570	50,570	51,570	53,170	54,770	56,570	58,870
+14	53,970	54,970	55,970	57,570	59,170	60,970	63,270
+15	58,770	59,770	60,770	62,370	63,970	65,770	68,070
+16	64,170	65,170	66,170	67,770	69,370	71,170	73,470
+17	69,970	70,970	71,970	73,570	75,170	76,970	79,270
+18	75,975	76,975	77,975	79,575	81,175	82,975	85,275
+SchecSulG
+TEACHERS’ SALARY GUIDE-PLACEMENT EXPERIENCE CHART
+2001-2002 EXPER. AS OF 6/30/01	2001-2002 STEP	• r t	2002-2003 EXPER. AS OF 6/30/02	2002-2003 STEP		2003-2004 EXPER. AS OF 6/30/03	2003-2004 STEP
+						0	1
+		' . •	.V5	0	1		1	2
+o		1		1	2		2	3
+1	2		2	3	ft	3	4
+2	3		3	4		4	5
+3	4		4	5		5	6
+4	5		5	6		6	7
+5	6	xy	6	7		7	8
+6	7	■ ;"	7	8		8	9
+7 .	8		8	9 ... ...		9	10
+8	9	♦J	9	10		10	11
+9	10			10	11		11	12
+10	11		11	12		12	13
+11	12		12	13		13	14
+12	13		13	14		14	15
+13	14		14	15		15	16
+14	15		15	16		16	17
+15	16		16	17		17 or more	18
+16	17		17 or more	18			
+17 or more	18						
+71
+Schedule A-5 ADDITIONAL TEACHING PERIOD SALARY GUIDE 2001-2002
+Step On Guide	(B) BA	(C) B + 15	(D) BA + 30	(E) MA	(F) M + 15	(G) M + 30	(H) DOC
+1	43,167	44,266	45,364	47,087	48,810	50,692	53,346
+2	43,388	44,487	45,585	47,308	49,032	50,913	53,568
+3	43,738	44,837	45,935	47,658	49,382	51,263	53,918
+4	44,205	45,304	46,402	48,125	49,848	51,730	54,384
+5	44,788	45,887	46,985	48,708	50,432	52,313	54,968
+6	45,488	46,587	47,685	49,408	51,132	53,013	55,668
+7	46,305	47,404	48,502	50,225	51,948	53,830	56,484
+8	47,238	48,337	49,435	51,158	52,882	54,763	57,418
+9	48,288	49,387	50,485	52,208	53,932	55,813	58,468
+10	49,455	50,554	51,652	53,375	55,098	56,980	59,634
+11	50,738	51,837	52,935	54,658	56,382	58,263	60,918
+12	52,488	53,587	54,685	56,408	58,132	60,014	62,668
+13	55,755	56,854	57,952	59,675	61,398	63,280	65,934
+14	59,839	60,938	62,035	63,759	65,482	67,364	70,018
+15	67,422	68,521	69,619	71,342	73,065	74,947	77,601
+16	73,605	74,704	75,802	77,525	79,248	81,130	83,784
+17	79,789	80,888	81,985	83,709	85,432	87,314	89,968
+18	83,143	84,242	85,340	87,063	88,786	90,668	93,322
+72
+, J Schedule A-6 ADDITIONAL TEACHING PERIOD SALARY GUIDE 2002-2003
+Step On	(B)	(C)	(D)	(E)	(F)	(G)	(H)
+Guide	BA	B +15	BA+30	MA	M + 15	M + 30	DOC
+1	44,917	46,048	47,180	49,000	50,750	52,733	55,417
+2	45,150	46,282	47,413	49,233	50,983	52,967	55,650
+3	45,488	46,620	47,752	49,572	51,322	53,305	55.988
+4	45,955	47,087	48,218	50,038	51,788	53,772	56,455
+5	46,422		47,553	48,685	50,505	52,255	54,238	56,922
+6	47,005	48,137	49,268	51,088	52,838	54,822	57,505
+7	47,705	48,837	49,968	51,788	53,538	55,522	58,205
+8	48,522	49,653	50,785 ' ' ..	C.;/	52,605	54,355	56338	59,022
+9	49,455	50,587 7	51,718	53,538	55,288	57,272	59,955
+10	50,505	51,637	52,768	54,588	56,338	58,322	61,005
+11	51,905	53,037	54,168	55,988	57,738.	59,722	62,405
+12	53,655	54,787	55,918	57,738	59,489	61,472	64,155
+13	56,572	57,703	58,835	60,655	62,405	64,389	67,072
+14	60,772	61,904	63,035	64,855	66,605	68,589	71,272
+15	68,122	69,254	70,385	72,205	73,955	75,939	78,622
+16	74,072	75,204	76,335	78,155	79,905	81,889	84,572
+17	80,489	81,620	82,752	84,572	86,322	88,305.	90,989
+18	85,739	86,870	88,002	89,822	91,572	93,555	96,239
+73
+Schedule A-7 ADDITIONAL TEACHING PERIOD SALARY GUIDE 2003-2004
+Step On Guide	(B) BA	(C) B + 15	(D) BA + 30	(E) MA	(F) M + 15	(G) M + 30	(H) DOC
+1	46,667	47,833	49,000	50,867	52,733	54,833	57,517
+2	47,017	48,183	49,350	51,217	53,083	55,183	57,867
+3	47,367	48,533	49,700	51,567	53,433	55,533	58,217
+4	47,798	48,965	50,132	51,998	53,865	55,965	58,649
+5	48,382	49,548	50,715	52,582	54,448	56,548	59,232
+6	49,082	50,248	51,415	53,282	55,148	57,248	59,932
+7	49,782	50,948	52,115	53,982	55,848	57,948	60,632
+8	50,715	51,882	53,048	54,915	56,782	58,882	61,565
+9	51,765	52,932	54,098	55,965	57,832	59,932	62,615
+10	52,932	54,098	55,265	57,132	58,999	61,099	63,782
+11	54,215	55,382	56,548	58,415	60,282	62,382	65,065
+12	55,615	56,782	57,948	59,815	61,682	63,782	66,465
+13	57,832	58,999	60,165	62,032	63,899	65,999	68,682
+14	62,965	64,132	65,299	67,165	69,032	71,132	73,815
+15	68,565	69,732	70,899	72,765	74,632	76,732	79,415
+16	74,865	76,032	77,199	79,065	80,932	83,032	85,715
+17	81,632	82,799	83,965	85,832	87,699	89,799	92,482
+18	88,638	89,804	90,971	92,838	94,704	96,804	99,488
+74
+Schedule A-8 EXTENDED YEAR TEACHERS’ SALARY GUIDE 2001-2002
+Step On Guide	(B) BA	(C) B + 15	(D) BA+ 30	(E) MA	(F) M + 15	(G) M + 30	(H) DOC
+1	40,700	41,736	42,771	44,396	46,021	47,795	50,298
+2	40,909	41,945	42,980	44,605	46,230	48,004	50,507
+3	41,239	42,275	43,310	44,935	46,560	48,334	50,837
+4	41,679	42,715	43,750	45,375	47,000	48,774	51,277
+5	42,229	43,265	44,300	45,925	47,550	49,324	51,827
+6	42,889	43,925	44,960	46,585	48,210	49,984	52,487
+7	43,659	44,695	45,730	47,355	48,980	50,754	53,257
+8	44,539	45,575	46,610	48,235	49,860	51,634	54,137
+9	45,529	46,565	47,600	49,225	50,850	52,624	55,127
+10	46,629	47,665	48,700	50,325	51,950	53,724	56,227
+11	47,839	48,875	49,910	51,535	53,160	54,934	57,437
+12	49,489	50,525	51,560	53,185	54,810	56,584	59,087
+13	52,569	53,605	54,640	56,265	57,890	59,664	62,167
+14	56,419	57,455	58,490	60,115	61,740	63,514	66,017
+15	63,569	64,605	65,640	67,265	68,890	70,664	73,167
+16	69,399	70,435	71,470	73,095	74,720	76,494	78,997
+17	75,229	76,265	77,300	78,925	80,550	82,324	84,827
+18	78,392	79,428	80,463	82,088	83,712	85,487	87,989
+75
+Schedule A-9 EXTENDED YEAR TEACHERS’ SALARY GUIDE 2002-2003
+Step On Guide	(B) BA	(C) B + 15	(D) BA+30	(E) MA	(F) M + 15	(G) M + 30	(H) DOC
+1	42,350	43,417	44,484	46,200	47,850	49,720	52,250
+2	42,570	43,637	44,704	46,420	48,070	49,940	52,470
+3	42,889	43,956	45,023	46,739	48,389	50,259	52,789
+4	43,329	44,396	45,463	47,179	48,829	50,699	53,229
+5	43,769	44,836	45,903	47,619	49,269	51,139	53,669
+6	44,319	45,386	46,453	48,169	49,819	51,689	54,219
+7	44,979	46,046	47,113	48,829	50,479	52,349	54,879
+8	45,749	46,816	47,883	49,599	51,249	53,119	55,649
+9	46,629	47,696	48,763	50,479	52,129	53,999	56,529
+10	47,619	48,686	49,753	51,469	53,119	54,989	57,519
+11	48,939	50,006	51,073	52,789	54,439	56,309	58,839
+12	50,589	51,656	52,723	54,439	56,089	57,959	60,489
+13	53,339	54,406	55,473	57,189	58,839	60,709	63,239
+14	57,299	58,366	59,433	61,149	62,799	64,669	67,199
+15	64,229	65,296	66,363	68,079	69,729	71,599	74,129
+16	69,839	70,906	71,973	73,689	75,339	77,209	79,739
+17	75,889	76,956	78,023	79,739	81,389	83,259	85,789
+18	80,839	81,906	82,973	84,689	86,339	88,209	90,739
+76
+Schedule A-10 EXTENDED YEAR TEACHERS’ SALARY GUIDE 2003-2004
+Step On Guide	(B) BA	(C) B + 15	(D) BA +30	(E) MA	(F) M + 15	(G) M + 30	(H) DOC
+1	44,000	45,100	46,200	47,960	49,720	51,700	54,230
+2	44,330	45,430	46,530	48,290	50,050	52,030	54,560
+3	44,660	45,760	46,860	48,620	50,380	52,360	54,890
+4	45,067	46,167	47,267	49,027	50,787	52,767	55,297
+5	45,617	46,717	47,817	49,577	51,337	53,317	55,847
+6	46,277	47,377	48,477	50,237	51,997	53,977	56,507
+7	46,937	48,037	49,137	50,897	52,657	54,637	57,167
+8	47,817	48,917	50,017	51,777	53,537	55,517	58,047
+9	48,807	49,907	51,007	52,767	54,527	56,507	59,037
+10	49,907	51,007	52,107	53,867	55,627	57,607	60,137
+11	51,117	52,217	53,317	55,077	56,837	58,817	61,347
+12	52,437	53,537	54,637	56,397	58,157	60,137	62,667
+13	54,527	55,627	56,727	58,487	60,247	62,227	64,757
+14	59,367	60,467	61,567	63,327	65,087	67,067	69,597
+15	64,647	65,747	66,847	68,607	70,367	72,347	74,877
+16	70,587	71,687	72,787	74,547	76,307	78,287	80,817
+17	76,967	78,067	79,167	80,927	82,687	84,667	87,197
+18	83,573	84,673	85,773	87,533	89,293	91,273	93,803
+77
+Schedule B-1 ATHLETIC SALARIES 2001-2002
+HIGH SCHOOL SPORTS:	Position	MIN	2ND	3rd	MAX
+Football	Head Coach	6,008	7,191	8,374	9,556
+	Assistant	3,414	4,081	4,748	5,414
+Basketball; Wrestling	Head Coach	4,820	6,011	7,202	8,394
+	Assistant	3,037	3,631	4,225	4,820
+Baseball/Softball; Gymnastics; Soccer; Lacrosse; Field Hockey; Swimming; Track	Head Coach	4,820	5,414	6,008	6,601
+	Assistant	3,037	3,631	4,225	4,820
+Indoor Winter Track	Head Coach	2,414	2,999	3,584	4,170
+	Assistant	1,520	2,113	2,706	3,300
+Cross Country	Head Coach	2,414	2,999	3,584	4,170
+Golf	Head Coach	1,820	2,406	2,992	3,577
+Bowling; Tennis; Volleyball	Head Coach	3,037	3,631	4,225	4,820
+	Assistant	2,109	2,399	2,689	2,979
+Cheerleading (Fall)	Director	1,823	2,179	2,535	2,890
+	Assistant	1,267	1,441	1,615	1,788
+Cheerleading (Winter)	Director	2,275	2,721	3,167	3,613
+	Assistant	1,581	1,798	2,015	2,232
+Athletic Trainer		3,606	4,482	5,358	6,234
+MIDDLE SCHOOL SPORTS:	MIN	2ND	3rd	MAX
+Head Coach	3,037	3,631	4,225	4,820
+Assistant Coach	2,109	2,399	2,689	2,979
+Bowling Coach	2,109	2,399	2,689	2,979
+Cross Country 	 ,	2,109	2,399	2,689	2,979
+Cheerleading Director	2,109	2,399	2,689	2,979
+78
+Schedule B-2 ATHLETIC SALARIES 2002-2003
+HIGH SCHOOL SPORTS:	Position	MIN	2^d	3rd	MAX
+Footbali	Head Coach	6,212	7,435	8,658	9,881
+	Assistant	3,530	4,219	4,908	5,598
+Basketball; Wrestling	Head Coach	4,984	6,216	7,448	8,679
+	Assistant	3,140	3,755	4,370	4,984
+Baseball/Softball; Gymnastics; Soccer; Lacrosse; Field Hockey; Swimming; Track	Head Coach	4,984	5,598	6,212	6,825
+	Assistant	3,140	3,755	4,370	4,984
+Indoor Winter Track	Head Coach	2,496	3,101	3,706	4,312
+	Assistant	1,572	2,185	2,798	3,412
+Cross Country	Head Coach	2,496	3,101	3,706	4,312
+Golf	Head Coach	1,882	2,488	3,094	3,699
+Bowling; Tennis; Volleyball	Head Coach	3,140	3,755	4,370	4,984
+	Assistant	2,181	2,481	2,781	3,080
+Cheerleading (Fall)	Director	1,885	2,253	2,621	2,988
+	Assistant	1,310	1,490	1,670	1,849
+Cheerleading (Winter)	Director	2,352	2,813	3,274	3,736
+	Assistant	1,635	1,859	2,083	2,308
+Athletic Trainer		3,729	4,635	5,541	6,446
+MIDDLE SCHOOL SPORTS:	MIN	2nd	3rd	MAX
+Head Coach	3,140	3,755	4,370	4,984
+Assistant Coach	2,181	2,481	2,781	3,080
+Bowling Coach	2,181	2,481	2,781	3,080
+Cross Country	2,181	2,481	2,781	3,080
+Cheerleading Director	2,181	2,481	2,781	3,080
+79
+Schedule B-3 ATHLETIC SALARIES 2003-2004
+HIGH SCHOOL SPORTS:	Position	MIN	2nd	3rd	MAX
+Football	Head Coach	6,436	7,703	8,970	10,237
+	Assistant	3,657	4,371	5,085	5,800
+Basketball; Wrestling	Head Coach	5,163	6,439	7,715	8,991
+	Assistant	3,253	3,890	4,527	5,163
+Basebail/Softball; Gymnastics; Soccer; Lacrosse; Field Hockey; Swimming; Track	Head Coach	5,163	5,799	6,435	7,071
+	Assistant	3,253	3,890	4,527	5,163
+Indoor Winter Track	Head Coach	2,586	3,213	3,840	4,467
+	Assistant	1,629	2,264	2,899	3,535
+Cross Country	Head Coach	2,586	3,213	3,840	4,467
+Golf	Head Coach	1,950	2,577	3,204	3,832
+Bowling; Tennis; Volleyball	Head Coach	3,253	3,890	4,527	5,163
+	Assistant	2,260	2,570	2,880	3,191
+Cheerleading (Fall)	Director	1,953	2,334	2,715	3,096
+	Assistant	1,357	1,543	1,729	1,916
+Cheerleading (Winter)	Director	2,437	2,915	3,393	3,870
+	Assistant	1,694	1,926	2,158	2,391
+Athletic Trainer		3,863	4,801	5,739	6,678
+MIDDLE SCHOOL SPORTS:	MIN	2ND	3rd	MAX
+Head Coach	3,253	3,890	4,527	5,163
+Assistant Coach	2,260	2,570	2,880	3,191
+Bowling Coach	2,260	2,570	2,880	3,191
+Cross Country	2,260	2,570	2,880	3,191
+Cheerleading Director	2,260	2,570	2,880	3,191
+80
+Schedule C-1 CO-CURRICULAR SALARIES 2001-2002
+HIGH SCHOOLS:	Position	MIN	2nd	3rd	MAX
+Senior Class	Advisor				3,280
+Junior Class	Advisor				3,280
+Sophomore Class	Advisor				2,346
+Freshman Class	Advisor				2,206
+School Store	Advisor	1,193	1,348	1,503	1,658
+Publicity	Director	1,520	1,806	2,092	2,378
+Student Council	Director	2,710	2,999	3,288	3,577
+Yearbook	Advisor	3,037	3,631	4,225	4,820
+Yearbook Art	Advisor	1,062	1,205	1,348	1,492
+Yearbook Literary	Advisor	1,062	1,205	1,348	1,492
+Yearbook Business	Advisor	1,062	1,205	1,348	1,492
+School News/Online	Advisor	1,062	1,205	1,348	1,492
+Newspaper	Advisor	2,710	2,999	3,288	3,577
+Newspaper Business	Advisor	948	1,001	1,054	1,108
+World Language Literary Magazine	Advisor	1,353	1,496	1,639	1,782
+Literary Magazine	Advisor	1,353	1,496	1,639	1,782
+Literary Magazine Art	Advisor	592	748	905	1,062
+Forensics	Advisor	1,949	2,092	2,235	2,378
+Photography	Advisor	1,949	2,092	2,235	2,378
+Chess Team	Advisor	1,949	2,092	2,235	2,378
+Natl. Honor Society	Advisor	764	907	1,050	1,193
+Behavioral Science Animal Lab	Advisor	2,167	2,305	2,443	2,580
+Mock Trial Team	Advisor	1,949	2,092	2,235	2,378
+81
+Schedule C-1, continued CO-CURRICULAR SALARIES 2001-2002
+HIGH SCHOOLS, continued:	Position	MIN	2^d	3rd	MAX
+Marching Band	Director	5,414	5,991	6,568	7,146
+	Assistant	3,631	4,225	4,819	5,414
+Peer Leadership	Advisor				2,167
+Co-Curric. Concerts Lab Theater	Director Assistant	1,727 966	1,972 1,212	2,218 1,459	2,464 1,706
+Co-Curricular Music	A	2,414	2,999	3,584	4,170
+	B	1,211	1,504	1,797	2,090
+Work Study Coord.		721	961	1,201	1,442
+Drama/Musicals	Director/Show	2,414	2,999	3,584	4,170
+	Assts./Show	1,353	1,500	1,647	1,795
+Theater Workshop	Director	1,353	1,500	1,647	1,795
+Theater Workshop Technical	Assistant	756	904	1,052	1,200
+Yearly Stage Manager		1,353	1,500	1,647	1,795
+Yearly Light/Sound Manager		1,353	1,500	1,647	1,795
+Pavas	Advisor	1,193	1,348	1,503	1,658
+East/West H.S. Band	Director				941
+Children’s Show	Director	1,353	1,500	1,647	1,795
+Student Activities	Advisor				10,613
+MIDDLE SCHOOLS:	Position	MIN	£ND	3rd	MAX
+Band/Orchestra	Director	1,949	2,093	2,237	2,382
+Glee Club	Director	1,949	2,093	2,237	2,382
+Jazz Band	Director	1,949	2,093	2,237	2,382
+82
+Schedule C-1, continued CO-CURRICULAR SALARIES 2001-2002
+MIDDLE SCHOOLS,	 continued:	Position	MIN	2nd	3rd	MAX
+All Cherry Hill Middle School Band	Director				941
+All Cherry Hill Middle School Orchestra	Director				941
+Student Activities	Advisor				10,613
+Yearbook	Director	1,353	1,496	1,639	1,782
+Student Council	Director	1,658	1,808	1,958	2,109
+Newspaper	Director	1,353	1.496	1,639	1,782
+Publicity	Director	1,353	1,496	1,639	1,782
+Drama	Director	1,353	1,496	1,639	1,782
+	Assistant	765	958	1,151	1,345
+Wind Ensemble		1,949	2,093	2,237	2,382
+Peer Leadership	Advisor				2,131
+	Assistant				1,894
+ELEMENTARY SCHOOLS:	Position	MIN	2nd	3rd		MAX
+Safety Patrol	Director	1,193	1,348	1,503	1,658
+All Cherry Hill Elementary Band	Director	1,949	2,093	2,237	2,382
+	Assistant	1,658	1,808	1,958	2,109
+All Cherry Hill Elementary Orchestra	Director	1,949	2,093	2,237	2,382
+	Asst. Director/ Accomp.	1,658	1,808	1,958	2,109
+All Cherry Hill Elementary Chorus	Director	1,949	2,093	2,237	2,382
+	Asst. Director/ Accomp.	1,658	1,808	1,958	2,109
+Site-Based Staff Development Spec.					2163
+83
+Schedule C-2 CO-CURRICULAR SALARIES 2002-2003
+HIGH SCHOOLS:	Position	MIN	2nd	3rd	MAX
+Senior Class	Advisor				3,392
+Junior Class	Advisor				3,392
+Sophomore Class	Advisor				2,426
+Freshman Class	Advisor				2,281
+School Store	Advisor	1,234	1,394	1,554	1,714
+Publicity	Director	1,572	1,868	2,164	2,459
+Student Council	Director	2,802	3,101	3,400	3,699
+Yearbook	Advisor	3,140	3,755	4,370	4,984
+Yearbook Art	Advisor	1,098	1,246	1,394	1,543
+Yearbook Literary	Advisor	1,098	1,246	1,394	1,543
+Yearbook Business	Advisor	1,098	1,246	1,394	1,543
+School News/Oniine	Advisor	1,098	1,246	1,394	1,543
+Newspaper	Advisor	2,802	3,101	3,400	3,699
+Newspaper Business	Advisor	980	1,035	1,090	1,146
+World Language Literary Magazine	Advisor	1,399	1,547	1,695	1,843
+Literary Magazine	Advisor	1,399	1,547	1,695	1,843
+Literary Magazine Art	Advisor	612	774	936	1,098
+Forensics	Advisor	2,015	2,163	2,311	2,459
+Photography	Advisor	2,015	2,163	2,311	2,459
+Chess Team	Advisor	2,015	2,163	2,311	2,459
+Natl. Honor Society	Advisor	790	938	1,086	1,234
+Behavioral Science Animal Lab	Advisor	2,241	2,383	2,525	2,668
+Living Spec. Maint.	Advisor	2,241	2,383	2,525	2,668
+Mock Trial Team	Advisor	2,015	2,163	2,311	2,459
+84
+Schedule C-2, continued CO CURRICULAR SALARIES 2002-2003
+HIGH SCHOOLS, continued:	Position	MIN	2nd	3rd	MAX
+Marching Band	Director Assistant	5,598 3,754	6,195 4,369	6,792 4,984	7,389 5,598
+Peer Leadership	Advisor				2,241
+Co-Curric. Concerts Lab Theater	Director Assistant	1,786 999	2,040 1,254	2,294 1,509	2,548 1,764
+Co-Curricular Music	A	2,496	3,101	3,706	4,312
+	B	1,252	1,555	1,858	2,161
+Work Study Coord.		746	994	1,242	1,491
+Drama/Musicals	Director/Show	2,496	3,101	3,706	4,312
+	Assts./Show	1,399	1,551	1,703	1.856
+Theater Workshop	Director	1,399	1,551	1,703	1,856
+Theater Workshop Technical	Assistant	782	935	1,088	1,241
+Yearly Stage Manager		1,399	1,551	1,703	1,856
+Yearly Light/Sound Manager		1,399	1,551	1,703	1,856
+Pavas	Advisor	1,234	1,394	1,554	1,714
+East/West H.S. Band	Director				973
+Children’s Show	Director	1,399	1,551	1,703	1,856
+Student Activities	Advisor				10,974
+MIDDLE SCHOOLS:	Position	MIN	2nd	3rd	MAX
+Band/Orchestra	Director	2,015	2,164	2,313	2,463
+Glee Club	Director	2,015	2,164	2,313	2,463
+Jazz Band	Director	2,015	2,164	2,313	2,463
+85
+Schedule C-2, continued CO-CURRICULAR SALARIES 2002-2003
+MIDDLE SCHOOLS, continued:	Position	MIN	2ND	3rd	MAX
+All Cherry Hill Middle School Band	Director				973
+All Cherry Hill Middle School Orchestra	Director				973
+Student Activities	Advisor				10,974
+Yearbook	Director	1,399	1,547	1,695	1,843
+Student Council	Director	1,714	1,870	2,026	2,181
+Newspaper	Director	1,399	1,547	1,695	1,843
+Publicity	Director	1,399	1,547	1,695	1,843
+Drama	Director	1,399	1,547	1,695	1,843
+	Assistant	791	991	1,191	1,391
+Wind Ensemble		2,015	2,164	2,313	2,463
+Peer Leadership	Advisor				2,203
+	Assistant				1,958
+ELEMENTARY SCHOOLS:	Position	MIN	2nd	3rd	MAX
+Safety Patrol	Director	1,234	1,394	1,554	1,714
+All Cherry Hill Elementary Band	Director	2,015	2,164	2,313	2,463
+	Assistant	1,714	1,870	2,026	2,181
+All Cherry Hill Elementary Orchestra	Director	2,015	2,164	2,313	2,463
+	Asst. Director/ Accomp.	1,714	1,870	2,026	2,181
+All Cherry Hill Elementary Chorus	Director	2,015	2,164	2,313	2,463
+	Asst. Director/ Accomp.	1,714	1,870	2,026	2,181
+Site-Based Staff Development Spec.					2,237
+86
+Schedule C-3 CO-CURRICULAR SALARIES 2003-2004
+HIGH SCHOOLS:	Position	MIN	2nd	3rd	MAX
+Senior Class	Advisor				3,514
+Junior Class	Advisor				3,514
+Sophomore Class	Advisor				2,513
+Freshman Class	Advisor				2,363
+School Store	Advisor	1,278	1,444	1,610	V76
+Publicity	Director	1,629	1,935	2.241	2,548
+Student Council	Director	2,903	3,213	3,523	3,832
+Yearbook	Advisor	3,253	3,890	4,527	5,163
+Yearbook Art	Advisor	1,138	1,292	1,446	1,599
+Yearbook Literary	Advisor	1,138	1,292	1,446	1,599
+Yearbook Business	Advisor	1,138	1,292	1,446	1,599
+School News/Online	Advisor	1,138	1,292	1,446	1,599
+Newspaper	Advisor	2,903	3,213	3,523	3,832
+Newspaper Business	Advisor	1,015	1,072	1,129	1,187
+World Language Literary Magazine	Advisor	1,449	1,602	1,755	1,909
+Literary Magazine	Advisor	1,449	1,602	1,755	1,909
+Literary Magazine Art	Advisor	634	802	970	1,138
+Forensics	Advisor	2,088	2,241	2,394	2,548
+Photography	Advisor	2,088	2,241	2,394	2,548
+Chess Team	Advisor	2,088	2,241	2,394	2,548
+Natl. Honor Society	Advisor	818	971	1,124	1,278
+Behavioral Science Animal Lab	Advisor	2,322	2,469	2,616	2,764
+Living Spec. Maint.	Advisor	2,322	2,469	2,616	2,764
+Mock Trial Team	Advisor	2,088	2,241	2,394	2,548
+87
+Schedule C-3, continued CO-CURRICULAR SALARIES 2003-2004
+HIGH SCHOOLS, continued:	Position	MIN	2ND	3rd	MAX
+Marching Band	Director	5,800	6,418	7,036	7,655
+	Assistant	3,889	4,526	5,163	5,800
+Co-Curricular Music	A	2,586	3,213	3,840	4,467
+	B	1,297	1,611	1,925	2,239
+Work Study Coord.		773	1,030	1,287	1,545
+Drama/Musicals	Director/Show	2,586	3,213	3,840	4,467
+	Assts./Show	1,449	1,607	1,765	1,923 -
+Theater Workshop	Director	1,449	1,607	1,765	1,923
+Theater Workshop Technical	Assistant	810	969	1,128	1,286
+Yearly Stage Manager		1,449	1,607	1,765	1,923
+Yearly Light/Sound Manager		1,449	1,607	1,765	1,923
+Pavas	Advisor	1,278	1,444	1,610	1,776
+East/West H.S. Band	Director				1,008
+Children’s Show	Director	1,449	1,607	1,765	1,923
+Student Activities	Advisor				11,369
+MIDDLE SCHOOLS:	Position	MIN	2ND	3rd	MAX
+Band/Orchestra	Director	2,088	2,243	2,398	2,552
+Glee Club	Director	2,088	2,243	2,398	2,552
+Jazz Band	Director	2,088	2,243	2,398	2,552
+88
+Schedule C-3, continued CO-CURRICULAR SALARIES 2003-2004
+MIDDLE SCHOOLS, continued:	Position -	MIN	2nd	3rd	MAX
+All Cherry Hill Middle School Band	Director				1,008
+All Cherry Hill Middle School Orchestra	Director				1,008
+Student Activities	Advisor				11,369
+Yearbook	Director	1,449	1,602	1,755	1,909
+Student Council	Director	1,776	1,937	2.098	2,260
+Newspaper	Director	1,449	1,602	1,755	1,909
+Publicity	Director	1,449	1,602	1,755	1,909
+Drama	Director	1,449	1,602	1,755	1,909
+	Assistant	819	1,026	1,233	.1,441
+Wind Ensemble		2,088	2,243	2,398	2,552
+Peer Leadership	Advisor				2,282
+	Assistant				2,028
+ELEMENTARY SCHOOLS:	Position	MIN	2nd	3rd	MAX
+Safety Patrol	Director	1,278	1,444	1,610	1’776
+All Cherry Hill Elementary Band	Director	2,088	2,243	2,398	2,552
+	Assistant	1,776	1,937	2,098	2,260
+All Cherry Hill Elementary Orchestra	Director	2,088	2,243	2,398	2,552
+	Asst Director/ Accomp.	1,776	1,937	2,098	2,260
+All Cherry Hill Elementary Chorus	Director	2,088	2,243	2,398	2,552
+	Asst. Director/ Accomp.	1,776	1,937	2,098	2,260
+Site-Based Staff Development Spec.					2,318
+89
+Schedule D-1 SECRETARIAL SALARY GUIDE 2001-2002
+STEP	CLASS I	CLASS II
+1	19,500	17,980
+2	19,620	18,190
+3	19,780	18,400
+4	19,990	18,610
+5	20,200	18,820
+6	20,410	19,050
+7	21,250	19,890
+8	22,080	20,730
+9	22,920	21,570
+10	23,750	22,430
+11	24,590	23,240
+12	27,100	25,800
+13	30,450	29,150
+14	33,000	31,556
+Effective July 1 of the year following completion of the tenth year of secretarial service in Cherry Hill, a $600 career increment will be paid each year through the twentieth year.
+Effective July 1 of the year following completion of the twentieth year of secretarial service in Cherry Hill, a $1,100 career increment will be paid.
+90
+Schedule D-2 SECRETARIAL SALARY GUIDE 2002-2003
+STEP	CLASSI	CLASS II
+1	20,320			18,610
+2	20,420	18,835
+3	20,550	19,060
+4	20,720 		19,275
+5	20,940	19,500
+6	21,160	19,720
+7	21,380	19,940
+8	22,260	20,840
+9	23,130	21,720
+10	24,000	22,600
+11	24,880	23,490
+12	27,130	25,810
+13	30,480	29,200
+14	34,050	32,560
+Effective July 1 of the year following completion of the tenth year of secretarial service in Cherry Hill, a $600 career increment will be paid each year through the twentieth year.
+Effective July 1 of the year following completion of the twentieth year of secretarial service in Cherry Hill, a $1,100 career increment will be paid.
+91
+Schedule D-3 SECRETARIAL SALARY GUIDE 2003-2004
+STEP	CLASSI	CLASS II
+1	21,230	19,330
+2	21,330	19,560
+3	21,440	19,790
+4	21,580	20,020
+5	21,750	20,250
+6	21,990	20,480
+7	22,220	20,710
+8	22,450	20,940
+9	23,380	21,890
+10	24,290	22,810
+		11	25,220	23,730
+	12	27,170	25,850	
+13	30,520	29,300
+14	35,200	33,660
+Effective July 1 of the year following completion of the tenth year of secretarial service in Cherry Hill, a $600 career increment will be paid each year through the twentieth year.
+Effective July 1 of the year following completion of the twentieth year of secretarial service in Cherry Hill, a $1,100 career increment will be paid.
+92
+Schedule D-4
+CLASS I AND CLASS II SECRETARIES -CREDIT FOR EXPERIENCE ON SALARY GUIDE
+Read the foilowing chart horizontally for an employee.
+For example, a secretary who had 12 years of credited experience as of June 30,2001, will be on Step 5 in 2001-2002. That same secretary will have 13 years of credited experience as of June 30,2002, and will be on Step 6 in 2002-2003. That same secretary will have 14 years of credited experience as of June 30,2003, and will be on Step 7 in 2003-2004.
+Incremental movement is governed by the terms of this Agreement
+01-02 EXPER as of 6/30/01	01-02 STEP		02-03 EXPER as of 6/30/02	02-03 STEP		03-04 EXPER as of 6/30/03	03-04 STEP
+					Sggg*	0	1
+				0	1		1	2
+0	1		1	2		2	3
+1	2		2	3	s	3	4
+2	3		3	4		4	5
+3-11	4		4-12	5		5-13	6
+12	5		13	6	iii	14	7
+13	6		14	7		15	8
+14	7		15	8		16	9
+15	8		16	9	mg	17	10
+16	9		17	10		18	11
+17	10		18	11		19	12
+18	11		19	12	=£<•53^	20	13
+19	12		20	13		21	14
+20	13		21	14		22	14
+21	14		22	14		23	14
+22+	14		23+	14	Stf	24+	14
+93
+TEACHER STIPENDS
+COORDINATORS:	2001-2002	2002-2003	2003-2004
+Lunchroom/Playground Coordinator	$5,969	$6,172	$6,394
+Coordinator Primary Years Programme of Internal). Bacc.	$5,165	$5,341	$5,533
+Coordinator international Bacc. Program	$3,841	$3,972	$4,115
+Professional Development School Coordinator	$5,165	$5,341	$5,533
+District ITV Coordinator	$5,487	$5,674	$5,878
+District Data Network Coordinator	$5,487	$5,674 -	$5,878
+District Web-Site Coordinator	$5,487	$5,674	$5,878
+CURRICULUM HOURLY RATES:	2001-2002	2002-2003	2003-2004
+Curriculum Development	$30.06	$31.08	$32.20
+Presenters: DAYTIME {1% times curriculum rate}	$45.09	$46.63	$48.30
+Presenters: NIGHT {2 times curriculum rate}	$60.12	$62.17	$64.41
+Saturday Meetings {2% times curriculum rate}	$75.16	$77.71	$80.51
+DEPARTMENT FACILITATORS:			2001-2002	2002-2003	2003-2004
+Fewer than 7.1 teachers:	$2,882	$2,980	$3,088
+7.1 to 13 teachers:	$3,603	$3,725	$3,859
+	13.1 to 20 teachers:	$4,323	. $4,470	$4,631
+20.1 or more teachers:	$5,165	$5,341	$5,533
+MISCELLANEOUS:		2001-2002	2002-2003	2003-2004
+Area of Interaction Leader		$5,165	$5,341	$5,533
+Bedside Instruction	Hourly:	$32.56	$35.00	$37.00
+Classroom Coverage -Teachers	Hourly:	$20.92	$21.63	$22.41
+Community Service Advisor {@ CHHS-West}		$3,292	$3,404	$3,527
+Environmental Education		$160.79	$166.25	$172.24
+Mileage	Per mile:	25'	25'	25'
+Saturday School Detention	Hourly:	$32.39	$33.50	$34.70
+Speech/Language Therapist for Fast ForWord Program		$1,865	$1,928	$1,998
+Teacher in Charge {Elementary teacher subbing for Principal}		$1,575	$2,000	$2,000
+Web Page Editor {@ CHHS-East}		$2,200	$2,275	$2,357
+SICK LEAVE: Unused at Retirement	2001-2002	2002-2003	2003-2004
+Teachers	$57.50	$57.50	$57.50
+School Psychologists	$57.50	$57.50	$57.50
+Secretarial	$22.12	$22.12	$22.12
+Support	$22.12	$22.12	$22.12
+94
+TEACHER STIPENDS, continued
+SUPERVISION HOURLY RATES:	2001-2002	2002-2003	2O03-2OO4
+A. Supervision, Co-Curricular Activities	$18.91	$19.55	$20.25
+B. Supervision of Persons Identified in A	$23.63	‘ $24.44	$25.32
+C. Supervision, Co-Curricular Activities, by secretaries	$17.76	$18.36	$19.03
+SUMMER WORK:		2001-2002	2002-2003	2003-2004
+Scheduling	Hourly:	$12.50	$12.50	$12.50
+Summer School	Weekly:	$760.65	$786.51	$814.82
+Summer School	Hourly:	$38.04	$39.33	$40.75
+Summer Band Director {3 times Summer School Rate}		$2,282	$2,360	$2,444
+Summer Band Asst. Dir. {2 times Summer School Rate}		$1,521	$1,573	$1,630
+Indoor Marching Band {.5 of Director}		$1,141 ~	$1,180	$1,222
+Show Design		$500	$500	$500
+SUMMER WORKSHOPS:	2001-2002	2002-2003	2003-2004
+Teaching/contact with children {includes orientation programs}	Per Diem Rate		
+District Workshop Participation {if requested by supervisor}	$100 per day		
+Presenter of Workshop/Program	Contracted curriculum rate		
+Out of District Workshop Participation {Voluntary} [e.g. Lincoln Center]	Registration; travel expenses and meals.		
+Out of District Workshop Participation {Required}	Registration; travel expenses; meals and $100 remuneration for time.		
+95

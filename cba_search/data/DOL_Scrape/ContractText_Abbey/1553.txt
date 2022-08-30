@@ -1,0 +1,793 @@
+﻿?<Z)e
+2002-2007
+AGREEMENT
+(RESTEEL)
+Entered into between
+IRONWORKERS LOCAL UNION NO. 25
+INTERNATIONAL ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS, AFL-CIO
+and
+RESTEEL CONTRACTORS ASSOCIATION, INC.
+<7^
+EXPLANATION OF CONTRACTOR DEDUCTIONS
+FOR VACATION PAY
+To assist you in determining the proper manner in which Vacation Pay is computed and deducted from each Employee’s pay check the following example is offered as a guide:
+John Doe worked 40 hours at $24.15 per hour which would
+amount to $966.00.
+Gross Earnings........................................$ 966.00
+Vacation Pay 15.53% based on hours paid................. 150.02
+These two items are added in order that the
+Vacation Pay might be taxed ..........................$1,116.02
+Assuming: F.I.C.A.:......................................$ 69.19
+Medicare:...............................$ 16.18
+Federal Income Tax: ....................$219.41
+State Income Tax: .......................$ 46.87
+Combined Total Taxes: ..................$351.24
+Therefore, $351.24 deducted for tax purposes........... -351.24
+Now that taxes have been paid on the Vacation Phy, subtract the amount of Vacation Pay in order to send it in to be funded.......................................... -$150.00
+Amount of Paycheck ...................................$_ 614.76
+Forms for funding contributions may be obtained from the Iron Workers’ Local No. 25 Fringe Benefit Fund Office, P.O. Box 8006, Novi, MI 48376-8006. Telephone: (248)347-3100.
+PLEASE NOTE:
+The tax deductions listed above are fictitious amounts. Please be sure to use your tax tables when calculating the amount to be deducted.
+INDEX TO AGREEMENT
+Page
+Apprentice Rate Schedule ...................................  6
+Apprenticeship Fund .........................................25
+Audit Procedures ............................................15
+Business Representatives.....................................23
+Change And Termination.......................................37
+Coffee Break ................................................23
+Employment................................................... 1
+Equal Treatment..............................................27
+Fines........................................................28
+Foreman......................................................20
+Fringe Benefit Funds .........................................8
+Fund Miscellany..............................................12
+Grievance Procedure .........................................24
+Holidays......................................................8
+Hook Belts.................................................. 21
+Hours ........................................................3
+Industry Advancement Fund ...................................10
+Invalidity...................................................27
+Joint Labor Management Committee.............................36
+Jurisdictional Disputes......................................26
+Market Recovery .............................................32
+Mesh Agreement ..............................................29
+Notification.................................................22
+Parking......................................................27
+Pay Day ...................................................  19
+Reporting Time...............................................27
+Safety.......................................................21
+Shiftwork ....................................................4
+Stewards.....................................................20
+Subcontracting...............................................22
+Successor .................................................. 28
+Supplemental Industry........................................32
+Surety Bonds/Security Deposit ...............................15
+Transferring Employees.......................................24
+Wage And Fringe Benefit Contributions .......................5
+Wire Mesh ...................................................23
+Workers’ Compensation and M.E.S.C............................26
+Working Conditions...........................................23
+ii
+FOR THE INFORMATION OF THE PARTIES AFFECTED HEREIN, ATTENTION IS HEREBY DRAWN TO THE FOLLOWING: Jurisdiction of Work
+Local Union No. 25 lays claim to the following as part of the jurisdiction of the Union:
+Work, in connection with field fabrication, post tensioning, prestressing of, handling by power, racking, sorting, cutting, bending, hoisting, placing, burning, welding and tying of all materials used to reinforce concrete construction.
+Realigning of reinforcing steel, wire mesh and placing steel dowels, as well as re-fastening and resetting same while concrete is being poured.
+Reinforcing steel and wire mesh in roadways and sidewalks in connection with new construction, also erection and fabrication, prestressed and precast joists, beams, columns and slabs, walls, roofs, tanks, man-holes, trenches and covers.
+The handling and place of J or Jack bars on slip form construction. The placing of all clips, bolts and steel rods, and wire fabricator mesh pertaining to the gunite construction, and the placing of Steel Tex or Paper Back mesh used primarily for reinforcing steel.
+The parties agree that the following is the work of the reinforcing iron workers bargaining unit Employee engaged in shear connector stud welding; unloading of necessary cables (lead, ground and gun), timers, tools and materials from truck at job site; hook-up of welding equipment from generator through timers to welding gun; start-up, operation and shut down of all power equipment utilized in shear connector stud welding; layout and marking of beams, including cleaning and grinding of beams when necessary; placing of ceramics (ferrules); welding of studs; breaking of ceramics (ferrules) with chipping hammer; equipment breakdown and stowing.
+Technological changes are constantly occurring in toe manufacturing processes of producing building components which modify the composition (or gauge) of the materials used to achieve the final products, but are still designed and manufactured to function the same as products which are traditionally manufactured products in carbon steel, high strength steel, aluminum, bronze or stainless steel. Where the professional design engineers may substitute a high strength carbon fiber or steel fiber injected into reinforced polymer composites to replace an all metallic product, the carbon or steel fibers provide the strength for the polymer composite product to perform, precisely the same as the load bearing steel or other metallic shapes have performed in the traditional all metal product. In every case, whenever a pultruded or cast fiber reinforced polymer, aramid, epoxy, polyester or other fiber reinforced plastic product (to include, but not limited to, brand names such as NEFMAC, Leadline, Tokyo Rope Mfg.) is replacing or substituting or working in conjunction with traditional metal sections, products or structural shapes, the work of erecting or installing the modified product is the work of the Ironworker, without any exceptions.
+iii
+REINFORCING IRON WORKERS’ AGREEMENT
+THIS AGREEMENT, made as of June 1, 2002, by and between the Resteel Contractors Association, Inc., hereinafter called the “Association” representing its members hereinafter called the “Employer” or “Employers,” and Iron Workers, Local Union No. 25, hereinafter called the “Union” affiliated with the International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers, covering the Counties of Jack-son, Clinton, Gratiot, Isabella, Ingham, Crawford, Otsego, Cheboygan, Montmorency, Alpena, Presque Isle, Oscoda, Alcona, Ogemaw, Iosco, Gladwin, Arenac, Bay, Midland, Shiawassee, Livingston, Washtenaw, Wayne, Oakland, Lapeer, Genesee, Tuscola, Sanilac, Huron, Saginaw, Macomb, Clare, St, Clair and Roscommon. (These Counties are hereinafter referred to as the territorial jurisdiction of Local Union No. 25.)
+It is understood that the Association is acting only as an agent in the negotiations of this contract and that they are an agent only for those individuals, partnerships, and corporations (who have authorized them so to act) and in no event shall they be bound as principal or be held liable in any manner for any breach of this contract by any of the contractors for whom they are acting or any Employee of such contractors, It is further agreed and understood that the liabilities of the contractors who have authorized the negotiation and execution of this Agreement shall be several and not joint.
+ARTICLE I
+Employment
+Section 1.	The Union agrees to furnish competent workers upon notification to the Business Manager of the Union.
+The Employers agree that in the employment of workers to perform the various classifications of labor required in the work under this Agreement, they will not discriminate against applicants, because of membership or non-membership in the Union. Each Employee shall, as a condition of employment thereafter, become and remain a member of the Union for the term of his employment on or after the eighth (8th) calendar day after his employment by any Employer or Employers in the area covered by this Agreement. The above period within which an Employee agrees to join tiie Union shall be computed from the first (1st) day such Employee enters the employment of any member of the Association.
+In the event the National Labor Relations Act is amended, while this contract is in force, so that an Employee may lawfully be required to become a member of a Union as a condition of employment in less than eight (8) days, then such shorter period of time shall immediately become operative under this Agreement, notwithstanding the provisions of die above paragraph.
+The Employer shall not be obligated hereunder to discharge or discriminate against any Employee for non-membership in the Union:
+(1)	If he has reasonable grounds for believing that such membership would not be available to the Employee on the same terms and conditions generally applicable to other members; or
+(2)	If he has reasonable grounds for believing chat membership was denied or terminated for reasons other than the failure of the Employee to tender the periodic dues and the initiation fees uniformly required as a condition of acquiring or retaining membership.
+Section 2.	The Employer agrees that he will not discriminate against any member of the Union or any other Employee in the matter of hire, or termination of employment because of his age, if such member is otherwise qualified and able to perform the work in question.
+Section 3.	The Employer agrees that he will not hold the Union liable for any acts of its members not authorized by said Union. The Union agrees that it will, on written request of the Employer, notify the Employer, in writing, within forty-eight (48) hours after receipt of said request whettier the act of the member or members of the Union so complained of was or was not authorized, and if not authorized, the Union agrees that it will take immediate steps to rectify the situation.
+Section 4.	The Union agrees that it will not hold the Employer liable for any acts of the agents of said Employer not authorized by said Employer. The Employer agrees that he will, on written request by the Union, notify the Union in writing within forty-eight (48) hours after receipt of said request at the office of said Employer, whether or not the act of the Employer’s agent so complained of by the Union was authorized, and if not authorized, the Employer agrees that he will take immediate steps to rectify the situation.
+Section 5.	The Employer and the Union agree that there will be no discrimination in employment based upon race, color, creed, national origin, sex or age, and that nothing elsewhere in this Agreement shall be construed as requiring or permitting such discrimination. The Employer and the Union further agree that each will cooperate with the other in taking such affirmative actions by either or both as are proper and necessary to ensure equality of opportunity in all aspects of employment.
+Section 6.	The Employer agrees to employ only journeymen1, apprentice reinforcing iron workers or trainees1, to perform the work covered by this Agreement. The Employer further agrees that preference for hiring will be given to residents’ of the territorial jurisdiction encompassed by this Agreement and further, that residents of the territorial jurisdiction encompassed by this Agreement shall have preference for retention over all other Employees.
+1 A journeyman for purposes of this agreement is an individual who possesses a journeyman's certificate issued by the International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers AFL-CIO or who has passed a journeyman’s equivalency examination administered under the direction of the Reinforcing Iron Workers Apprentice and Training Fund pursuant to Article AJ.X hereof.
+1A trainee for purposes of this agreement is an individual enrolled in an official government-approved affirmative action program.
+’ Resident is defined as a person who has maintained a permanent home in the territorial jurisdiction of the Union for a period of two years prior to hire or layoff, as applicable.
+2
+Whenever an Employer requests additional Employees from the Union, such Employees shall be referred regardless of their position on any out of the work list maintained by the Employer or the Union. Referrals shall be on a non-discri minatory basis. The Union may, however, take into account in making referrals such factors as the proximity of the job to the Employee’s home, the length of time they have been out of work and their physical capacity to perform the work required; provided, however, when an Employer requires additional Employees and the Union is unable to supply them within seven (7) working days, including Saturdays and Sundays, if worked, then the Employer may hire temporary Employees who may remain on the job until journeymen, apprentice^), trainee(s), reinforcing iron workers), become(s) available, at which time the Employer shall lay off the temporary Employees and replace them with the Employee referred.
+Section 7.	Whenever there is any type of pour over reinforcing material, there shall be at least one (1) Reinforcing Iron Worker on the pour at al] times, who shall perform any work such as tying, aligning or replacing, etc., as required in conjunction with the pour. It is further agreed that a Reinforcing Iron Worker shall be employed on placing of reinforcing steel. Claims of violation of this Section shall be referred to the Grievance Procedure, Article XVIII.
+Further, should it be determined that such work was willfully performed by others than Reinforcing Iron Workers, a fine of not less than one (1) day’s pay, payable to the Ron Workers’ Local No. 25 Health Fund may be imposed.
+Section 8.	A penalty may be imposed on any Employer who uses other than reinforcing iron workers in placing reinforcing material and shall be considered in violation of this Agreement. The penalty shall be the same as provided in Section 7 above, except that jurisdictional disputes shall be governed by reference to the National Joint Board in Article XXI,
+Section 9.	The Employer agrees that the Union has the sole right to determine the qualifications necessary to join the Union and become a journeyman reinforcing iron worker as covered by this Agreement subject to the conditions as spelled out in Article I, Sections 1 and 5 of this Agreement.
+ARTICLE II Hours
+Section 1. Eight (8) hours shall constitute a day’s work and forty (40) hours shall constitute a week’s work Monday through Friday. The regular work day (including any work scheduled for Saturday or Sunday) shall commence at 8:00 a.m. and end at 4:30 p.m., this shall be designated the first shift when additional shifts are worked; with one-half (1/2) hour allowed without pay for lunch except that when an hour lunch period is agreed upon, work shall end at 5:00 p.m.
+Starting time may be varied on a job-to-job basis by mutual consent of the Business Manager of the Union and tire Employer or his representative.
+The first two (2) hours of premium time shall be paid at time and one-half Monday through Friday and for the first eight (8) hours on Saturday. All other overtime shall be paid at double time.
+3
+Any undue delay or lost time caused by the Contractor to the employee shall be paid for by the Employer causing such delay at the regular established rate of pay for the rest of the shift except in the event of civil disturbance or a condition beyond the control of the Employer.
+Section 2.	Lunch Period Change: The usual lunch hour, 12:00 to 12:30 p.m., may be changed by agreement between the business manager of the Union and the Employer or his representative.
+Section 3.	Meal Periods: If job circumstances require the Employee on non-shift work to work during the usual lunch period from 12:00 noon to 12:30 p.m., then the Employee shall be paid at the rate of time and one-half, AND THE EMPLOYEE SHALL RECEIVE A LUNCH PERIOD AT A LATER TIME with pay at straight time. Where Employees are required to work overtime after 4:30 p.m., and where the work is to continue after 6:30 p.m., the period between 6:30 p.m. and 7:00 p.m. shall be allowed for dinner with pay at straight time, [f job circumstances require the Employee to work during the period between 6:30 p.m. and 7:00 p.m., then the work between 6:30 p.m. and 7:00 p.m. shall be paid for at triple time, and if work continues beyond 7:00 p.m., the Employee shall receive a dinner period of one-half (1/2) hour at a later time with pay at straight time. For meal periods on shift work, see Section 4 - Shin work.
+Section 4.	Shift Work: (a) The Employer shall notify the Union within a reasonable time before the start of shift work except in cases of emergency. The Employer shall have the right to designate the shift hours subject to mutual agreement between the parties.
+(b) On shift work the following shall apply:
+If job circumstances require the Employee on shift work to work during the established lunch period, then the Employee shall be paid at double the regular rate for the shift and shall receive a lunch period at a later time with pay at the regular shift rate.
+When three (3) shifts are employed, there shall be three (3) eight (8) hour shifts beginning at 8:00 a.m., 4:00 p.m. and 12:00 midnight with a half-hour (1/2) lunch period with pay for each shift at the shift rate.
+When two (2) shifts are employed, the first shift shall work the regular eight (8) hours between 8:00 a.m. and 4:30 p.m. with the usual lunchperiod without pay. The second shift beginning at or after 4:30 p.m. shall work seven and one-half (71/2) hours and receive a one-half (1/2) hour lunch period with pay at the shift rate.
+Shift workshall be paid in accordance with the wage schedule in Article III. Hours worked on overtime shall be paid at double the regular shift rate. All work performed after a normal shift shall be overtime when continuous work is performed for the same Employer.
+Where shift work is being performed on second or third shift, Employees shall not be requested to work more than five (5) hours without a lunch period.
+Shift work between the hours of 8:00 a.m. Monday and 8:00 a.m. Saturday shall be paid for at the regular shift rate in accordance with the wage schedule in Article III, and shift work between the hours of 8:00 a.m. Saturday and 8:00 a.m. Monday shall be paid for at double the regular shift in accordance with the wage schedule in Article III, except for the first eight (8) hours on Saturday which shall be paid at time and one-half.
+4
+ARTICLE HI Wage and Fringe Benefit Contributions WAGE RATES - Effective June 1, 2002 - May 31, 2003
+Journeyman	1st Shift	2nd Shift	3rd Shift
++Base Wage		. . .$24.15	$24.65	$24.90
+♦Vacation (15.53%) (F) 		... 3.75	3.83	3.87
+Health & Welfare (F) 		.. . 5.77	5.77	5.77
+Pension (21.86%) (F) 		. . . 5.28	5.39	5.44
+I.A.P.(F)		. -. 1.35	1,35	1.35
+AGROSS 		... $40.30	$40.99	$41.33
+Apprenticeship (F) 		.14	.14	.14
+* Advancement (F)		.12	.12	.12
+Nat’l IW Appr. Fund (F)		.05	.05	.05
+Institute of IW Industry (III) (F) .. .	.02	.02	.02
+M.O.S.T.(F) 		.12	.12	.12
+Foreman	1st Shift	2nd Shift	3rd Shift
++Base Wage		. ..$25.15	$25.65	$25.90
+♦Vacation (15.53%) (F) 		... 3.91	3.98	4.02
+Health & Welfare (F) 		... 5.77	5.77	5.77
+Pension (21.86%) (F) 		.. . 5.50	5.61	5.66
+I.A.P. (F)		. . . 1.35	1-35	1.35
+AGROSS 		. ..$41.68	$42.36	$42.70
+Apprenticeship (F) 		.14	.14	.14
+♦Advancement (F)		.12	.12	.12
+Nat’l IW Appr. Fund (F)		.05	.05	.05
+Institute of IW Industry (III) (F) ...	.02	.02	.02
+M.O.S.T. (F) 		.12	.12	.12
++ Subject to Federal Withholding, F.l.C.A. and all other required deductions.
+(F) Funded
+* Where the Employer is precluded from making a contribution to the Industry Advancement and Promotion Fund, a contribution of twelve cents ($.12) per hour shall be made to the jointly administered Manpower Optimization Stabilization and Training Fund (M.O.S.T.). See Article V, Section 11.
+A To be computed at one-half hour increments at the applicable rate.
+5
+APPRENTICE RATE SCHEDULE
+Effective as of June 1, 2002 thru May 31, 2003
+Please be sure to remit your Apprentice Contributions on the separate contribution form titled “Iron Workers’ Local Union No. 25 Reinforced Iron Work Apprentice Contributions Only”. Please remit the same percentages as indicated on the form as the Fund Office will make the proper allocation between the Health Fund and Pension Fund. If you need forms, please contact the Fund Office at (248) 347-3100.
+APPRENTICE RATE SCHEDULE (UNPROTECTED JOBS) EFFECTIVE JUNE 1, 2002 THROUGH MAY 31, 2003
+LEVEL 1: 50% +Base .....................$12.99
++Vacation (16.98%).......... 2.20
+Health & Welfare (44.42%) .. 5.77
+Pension (0.00%) ........... 0.00
+I.A.P. (7.62%) ............ 0.99
+GROSS....................$21.95
+LEVEL 3: 60% ♦Base......................$15.58
++Vacation (16.98%).......... 2.65
+Health & Welfare (37.86%) .. 5.90
+Pension (6.46%) ........... 1,00
+I.A.P. (7.62%) ............ 1.19
+GROSS.....................$26.32
+LEVELS: 70% +Base......................$18.18
++Vacation (16.98%).......... 3.09
+Health & Welfare (32.46%) .. 5.90
+Pension (11.87%) .......... 2.16
+I.A.P. (7.62%) ........... 1.39
+GROSS....................$30.71
+LEVEL 7: 80% +Base......................$20.78
++Vacation (16.98%).......... 3.53
+Health & Welfare (28.40%) .. 5.90
+Pension (15.92%) ......... 3.31
+I.A.P. (7.62%) ........... 1.58
+GROSS.....................$35.10
+LEVEL 2: 55% +Base......................$14.28
+tVacation (16.98%)......... 2.43
+Health & Welfare (41.31%)., 5.90
+Pension (3.01%)........... 0.44
+I.A.P. (7.62%)............ 1.09
+GROSS....................$24.14
+LEVEL 4: 65% +Base......................$16.88
++Vacation (16.98%)......... 2.86
+Health & Welfare (34.95%).. 5.90
+Pension (9.37%)........... 1,59
+I.A.P. (7.62%)............ 1.29
+GROSS....................$28.52
+LEVEL 6: 75% +Base......................$19,48
++Vacation (16.98%)......... 3,31
+Health & Welfare (30.29%).. 5.90
+Pension (14.03%).......... 2.73
+I.A.P. (7.62%)............ 1.49
+GROSS....................$32.91
+LEVELS: 85% +Base......................$22.06
++Vacation (16.98%)......... 3.76
+Health & Welfare (26.74%).. 5.90
+Pension (17.58%).......... 3.88
+I.A.P. (7.62%)............ 1.68
+GROSS.....................$3728
+Apprenticeship*** ......... 0.19
+* Advancement*** ........... 0.16
+Nat’l IW Appr, Fund*** .... 0.05
+Drug Testing***............ 0.03
+l.I.I.***.................. 0.03
+M.O.S.T.***................ 0.16
++ TAXABLE
+* See Article V, Section 11
+Please Be Advised: As with the Journeyman Structural rates *** All of these funds are due and payable for all apprentice classifications. For space consolidation, they are only being listed once.
+6
+2003 - $1.75 RATE INCREASE EFFECTIVE JUNE 1,2003
+2004 - $1.85 RATE INCREASE EFFECTIVE JUNE 1,2004
+2005 AND 2006 - WAGE RE-OPENER
+PLEASE NOTE
+The distribution of each rate increase on the Gross Wage will become effective June 1st of each year and expire on May 31st of the following year. The allocation of each increase will be determined by a vote of the membership in April of each year.
+The parties agree to reopen the contract for negotiations for the period of June 1, 2007 through May 31,2008.
+7
+ARTICLE IV Holidays
+Section 1.	Double time shall be paid for any and all work in excess of ten (10) hours per shift on any regular workday, for work in excess of eight (8) hours per shift on Saturdays, and for all time worked on Sundays, and holidays listed below except for Article II, Section 1 and Section 4. No work shall be performed on Labor Day except to save life and property.
+The following holidays shall be observed:
+New Year’s Day	Labor Day
+Memorial Day	Thanksgiving Day
+Independence Day Christmas Day
+Any holiday which occurs on a Sunday shall be observed on the following day.
+Section 2.	In the assignment of any unscheduled overtime, first opportunity shall be given to employees who are residents of the territorial jurisdiction encompassed by this Agreement.
+Section 3.	The Employer agrees that he will not call in other Reinforcing Iron Workers to man a job on overtime without first giving the men on the job the first opportunity to perform such overtime work.
+ARTICLE V
+Total Fringe Benefit Funds
+Section L Effective for all work performed on and after June 1,2002, an Employer shall make contributions to the various Iron Workers’ Local No. 25 Fringe Benefit Funds hereinafter described in the respective amounts and under the respective conditions set forth herein.
+Section 2.	a. Monthly contributions to all such Funds are payable and must be received by the bank depository on the 26th day of the month following the month in which the hours are worked and shall be combined and remitted in one check and payable to the “Iron Workers Local No. 25 Fringe Benefit Funds”. Such contributions shall be accompanied by remittance report forms which shall be prescribed and furnished by the Trustees of said Funds and which shall be properly completed in accordance with the instructions issued from time to time by the Trustees. The Trustees shall provide a copy of the contribution form from all contributors to the Union and the Association Office.
+Section 3.	Health Fund. For each Employee covered by this Agreement, an Employer shall contribute to the “Iron Workers’ Health Fund of Eastern Michigan” an amount equal to the percentages as outlined in Article III. Title to all contributions paid into and/or due and owing the Fund shall be vested in and remain exclusively in the Trustees of the Fund. Contributions become vested plan assets at the time they become due and owing to the Fund.
+Section 4.	Pension Fund. For each Employee covered by this Agreement, an Employer shall contribute to the “Iron Workers’ Local No. 25 Pension Fund” an amount equal to the percentages as outlined in Article III. Notwithstanding any other provision in this Agreement, contributions payable to the Pension Fund on behalf of a Retiree who becomes re
+8
+employed, shall be paid into the Iron Workers’ Local No. 25 Individual Account Retirement Fund. Title to all contributions paid into and/or due and owing the Fund shall be vested in and remain exclusively in the Trustees of the Fund. Contributions become vested plan assets at the time they become due and owing to the Fund.
+Section 5.	Individual Account Retirement Fund. For each Employee covered by this Agreement, an Employer shall contribute to the “Iron Workers’ Local No. 25 Individual Account Retirement Fund” an amount equal to the percentages as outlined in Article III. Title to all contributions paid into and/or due and owing the Fund shall be vested in and remain exclusively in the Trustees of the Fund. Contributions become vested plan assets at the time they become due and owing to the Fund.
+Section 6.	Apprenticeship Fund. For actual work performed by Employees in its employ who are covered by this Agreement, an Employer shall contribute to the “Iron Workers’ Apprenticeship Fund of Eastern Michigan” an amount as outlined in Article XIX. Contributions to this Fund shall be used exclusively to defray training costs as provided for in the Joint Apprenticeship Training Program. An apprentice coordinator will be set up and paid for from the Apprenticeship Fund. Title to all contributions paid into and/or due and owing the Fund shall be vested in and remain exclusively in the Trustees of the Fund. Contributions become vested plan assets at the time they become due and owing to the Fund.
+Section?. National Apprenticeship Fund. For each Employee covered by this Agreement, an Employer shall contribute to the National Iron Workers’ and Employers Apprenticeship Training and Journeyman Upgrading Fund (N.I.E.A.T.J.U.F.) five cents ($.05) per hour for each hour worked. The moneys paid into the (N.LE.A.TJ.U.F.) shall be paid in the same manner as other payments made to the Iron Workers’ Local No. 25 Fringe Benefit Funds. The costs of administration and collection shall be paid by the (N.LE.A.TJ.U.F.) on a pro rata basis. This contractual obligation to contribute to the (N.LE.A.TJ.U.F.) shall be for a period of five (5) years and shall terminate on May 31,2007. Title to all contributions paid into and/or due and owing the Fund shall be vested in and remain exclusively in the Trustees of the Fund. Contributions become vested plan assets at the time they become due and owing to the Fund.
+Section 8. Vacation Pay Fund. For each Employee covered by this Agreement, an Employer shall contribute to the “Iron Workers’ Local No. 25 Vacation Pay Fund” an amount equal to the percentages as outlined in Article 111 of the Employee’s gross earnings before taxes. The amount of contributions made on his behalf to this Fund shall be added to the Employee’s gross earnings in computing withholding of his income tax and F.I.C.A. contributions. Title to all contributions paid into and/or due and owing the Fund shall be vested in and remain exclusively in the Trustees of the Fund. Contributions become vested plan assets at the time they become due and owing to the Fund.
+Section?. M.O.S.T. Fund. For each Employee covered by this Agreement, an Employer shall contribute to the “Iron Workers’ Local No. 25 M.O.S.T. Fund” (See Article V, Section 11, last paragraph).
+Section 10.	Institute of !.W. Industry. The Employer agrees to pay the sum of 'I Vo Cents ($.02) per hour for all hours worked by each Employee covered by this Agreement to the Institute of I.W. Industry (I.I.I.).
+9
+Section 11.	Industry Advancement Fund. The Employer agrees to pay the sum of Twelve Cents ($. 12) per hour for all hours worked by each Employee covered by this Agreement to the Reinforcing Iron Workers Industry Fund.
+The parties agree the Industry Funds established by the respective signatory associations shall be administered solely by Employer representatives.
+The contributions of the Employer to the Funds shall be used for industry promotion as set forth in the Agreement and Declaration of Trust adopted by the Resteel Contractors Association, Inc. and such other purposes as permitted by law.
+If it becomes lawful for the Union to have representation on Industry Promotion Funds, the Union will be granted such representation as permitted.
+The Union and the Employer agree that, in the event the Employer is not legally permitted to make contributions pursuant to this Article, the Employer agrees to make the like contribution to the Manpower Optimization Stabilization and Training (MOST) Fund.
+Where the employer is precluded from making a contribution to the Industry Advancement and Promotion Fund, a like contribution of Twelve Cents ($. 12) per hour shall be made to the jointly administered Manpower Optimization Stabilization and Training (MOST) Fund.
+Section 12.	Excess Benefit Fund. The parties hereby agree to create an Excess Benefit Plan Fund (“Fund”) to pay any benefits in excess of the Section 415 Limits.
+a.	The Administrator of the Iron Workers’ Local No. 25 Pension Plan (“Plan”) will, on a mondrly basis determine the amounts to be paid to beneficiaries from the Fund in the following month. Said amount being the mathematical calculated Defined Benefit in excess of the payment permitted under IRC §415. Said amount is to be further increased to reflect the F.I.C.A. taxes due thereon so that the payment net of the F.I.C.A. taxes to be paid to the Employee would be the same amount he would be entitled to without the payment being subject to said taxes.
+b.	Prior to the payment of the Employer contributions to the Plan, the Administrator shall deduct the necessary moneys to pay the aforementioned amount to the Fund.
+c.	The payments to each of the beneficiaries for the month will be first remitted from the Plan in the amount as restricted pursuant to IRC §415, and supplemented by any amount determined to be paid to them from the Excess Benefit Fund.
+Section 13.	Any person who performs work covered by the Collective Bargaining Agreement between the parties having an Employer signatory to the agreement, and who has a financial interest in the Employer, direct or indirect, whether that interest shall be as sole proprietor, partner, shareholder, or similar financial interest, shall pay to each of the Funds set forth in this Article contributions based on one hundred sixty (160) hours per month or the actual hours worked, whichever is greater, for any month in which one or more hour of work has been performed. Contributions will not be owed for any month in which no work was performed,
+10
+provided that the Employer notifies the Trustees of the Joint Funds seven days before the first of each month that no work will be performed: otherwise, the above provisions apply in full.
+Section 14.	The Health, Pension, Individual Account Retirement, Apprenticeship, Vacation Pay and Excess Benefit Funds shall be administered jointly by an equal number of representatives of the Employers and Union, in accordance with the respective Agreements and Declarations of Trust pursuant to which they are established. Said Agreements and declarations of Trust shall conform to all requirements of law and copy of same, together with any amendments thereto, shall be considered as part of this Agreement as though they were set forth herein at length.
+Iron Workers’ Local Union No, 25 shall elect, designate or appoint the Union Trustees, and the Great Lakes Fabricators and Erectors Association shall elect, designate appoint the Employer Trustees to the Health, Pension, Individual Account Retirement, Apprenticeship. Vacation Pay, M.O.S.T, and Excess Benefit Funds,
+Section 15.	If, in doing work outside the geographical jurisdiction of the Union, an Employer is required to make contribution to another Health, Pension, Individual Account Retirement, Apprenticeship, Vacation Pay and Excess Benefit Funds on behalf of Employees covered by this Agreement, he shall not be required to make duplicate contributions for the same man hours of work to the similar Fund or Funds described herein.
+Section 16.	By execution of this Agreement, an Employer, whether or not a member of an Employer Association which is a party hereto, authorizes such Employer Association to enter into appropriate Trust agreements necessary for the administration of the foregoing Fringe Benefit Funds and to designate the Employer Trustees under such agreements and hereby waives all notice thereof and ratifies all actions already taken or to be taken by such Trustees within the scope of their authority,
+Section 17.	An Employer who fails or refuses to make required contributions by the 26th of the month as per Section 2 of this Article, agrees to pay all costs of collection charges and/or attorney fees resulting from the late payment of delinquent contributions. The cost of collection charges and/or attorney fees shall be based on the length of time such contributions are due and the date payment is actually made for liquidated damages to cover die cost of collection charges and/or attorney fees. The cost of collection charges and/or attorney fees shall be calculated in accordance with rules and regulations as promulgated from time to time by the Boards of Trustees of the fringe benefit funds and upon notification to contributors who then shall be bound by such rules.
+If payment is not made by the 26th of the month, cost of collection charges shall be assessed against the delinquent Employer at three percent (3%) over the prime rate as established by the Coraerica Bank, located in Detroit, Michigan, on the date the delinquency first occurs. If the Fund must seek legal action to collect any contributions or cost of collection assessments, reasonable attorney fees shall be paid by the delinquent Employer.
+Payment of cost of collection charges and/or attorney fees must be made payable to "Iron Workers’ Fringe Benefit Collection Account” and must be remitted along with a regular payment of contributions in accordance with the instructions used by the Trustees of said fringe benefit funds.
+11
+The Trustees of the fringe benefit funds and the administrator of same, acting as their agent, shall have the right to assess and collect the cost of collection charges and/or attorney fees described above. Acceptance of any contributions by the fringe benefit funds or the Trustees or administrator thereof shall not constitute a waiver of the right to assess and collect any cost of collection charges and/or attorney fees due, if such contributions are paid after the due date.
+AU cost of collection charges and/or attorney fees paid and collected in accordance with the foregoing provisions shall be allocated by the Trustees of the fringe benefit funds among the various fringe benefit funds on a proportionate basis.
+The Employer agrees to furnish to the Trustees of the various fringe benefit funds provided for in this Agreement, upon request, such information and reports as the Trustees may require in the performance of their duties. The Employer further agrees that the Trustees, or any Agent authorized by the Trustees, shall have the right to enter upon the premises of the Employer to perform an audit and to have access to such of the Employer’s records as may be necessary to permit the Trustees to determine whether the Employer is complying fully with the provisions of this Agreement regarding Employer contributions.
+The Employer understands and agrees that the Trustees of the fringe benefit funds provided for in this Agreement have the power, as provided in their Trust agreements, to fix a schedule of cost of collection charges and/or attorney fees, in the nature of liquidated damages to be assessed against any Employer who fails to make the contribution required hereunder in the correct amount and when due. The Employer agrees to pay the cost of collection charges and/or attorney fees assessed against him for failure to pay contributions when due.
+Section 18.	MICHIGAN STATUTES ANNOTATED 29.585(1). Any Employer who promises in writing to make payments to an Employee Welfare Plan, Vacation Plan, Health Plan, Dental Plan or Profit Sharing Plan, either by contract with an individual Employee, by collective bargaining agreement, or by agreement with such Employee Plan, and who fails to make such payments within three (3) weeks after they become due and payable, shall be guilty of a misdemeanor. This section shall not apply for the failure to make payments if prevented by an act of God, proceedings in bankruptcy, order or processes of any court of competent control. Conviction for violation of this section does not relieve the Employer of liability for moneys under such contract agreement.
+ARTICLE VI Fund Miscellany
+a.	The Employer agrees to be bound by and to the Trust Agreements of each of the Fringe Benefit Funds, as amended, as though he, she or it had actually signed the same, the Employer irrevocably designates on the Board of Trustees of each Fringe Benefit Fund, those Trustees now serving, or who will in the future serve as Employer Trustees, together with their successors. The Employer further agrees to be bound by all actions taken or to be taken and all rules adopted or to be adopted by the Trustees within the scope of their authority. The Trust Agreement and any perti-nent-by-laws and rules and regulations adopted by the Trustees of the Fringe Benefit Funds, now in effect or subsequently placed in effect, shall be incorporated into this Agreement by reference.
+12
+b.	The Employer agrees to keep accurate books and records reflecting the payment of wages, fringe benefit contribution and any amounts paid to subcontractors, using generally accepted accounting procedures and agrees to preserve such records for not less than six (6) years. Should the Employer fail to keep such records and, as a consequence, the Trustees incur added expense in the auditing of the Employer’s books and records, the Employer agrees to pay such added expense incurred by the Trustees in performing the audit.
+c.	The Employer agrees to promptly furnish to the Trustees, or their designated agent, on request, any and all records of the Employer for the purpose of verifying the accuracy of contributions to the Fringe Benefit Funds including, but not limited to, the following:
+1.	Payroll records of each Employee, regardless of craft or occupation, showing the Employees, name, address, social security number, occupation, straight time and overtime hours worked, rate of pay, gross pay, F.I.C.A. deductions, withholding tax deductions, other deductions, check number and net pay.
+2.	Payroll journals (registers) for each year.
+3-	All workers’ compensation forms and reports.
+4.	All time or clock cards.
+5.	Copies of W-2 forms filed for each Employee, regardless of craft or occupation.
+6.	Copies of W-4 forms filed for each Employee, regardless of craft or occupation.
+7.	Copies of W-3 forms filed for each year,
+8.	Copies of 941 forms filed for each year.
+9-	Copies of 940 forms filed for each year.
+10.	Copies of 1099 forms filed for each year.
+11.	Copies of M.E.S.C. forms 1020 filed for each quarter.
+12.	Contribution reports for each month and canceled checks supporting payment of same.
+The cost of any payroll audit shall be paid by the Employer if the audit reflects additional contributions due in an amount greater than five (5%) percent of total contributions made to the Fringe Benefit Funds during the period of the audit.
+d.	It is expressly understood that nothing contained in this Agreement shall deny Trustees of the Fringe Benefit Funds the right to pursue all legal remedies available to them to collect delinquent contributions or otherwise enforce the Employer’s obligations to the Fringe Benefit Funds. Any actions taken by the Trustees to enforce the Employer’s obligations to the Fringe Benefit Funds shall be expressly excepted from any grievance or arbitration procedure or any “no strike’’ clause which may be set forth elsewhere in this Agreement. The pursuit of such legal remedies by the Trustees shall not render any of the other provisions of this Section inoperative. In the event the Trustees resort to legal processes to collect delinquent contributions or liquidated damages owing, obtain an audit, or otherwise enforce the Employer’s obligations to the Fringe Benefit Funds including, but not limited to, auditor, expert witness or attorney fees, filing fees and deposition costs.
+13
+e.	The Union may engage in a strike against any Employer who is delinquent in its obligations to the Fringe Benefit Funds. Such strike action shall not constitute a violation of any provision of this Agreement and shall be expressly excepted from the provision and requirements of the grievance procedure contained within this Agreement.
+f.	The Union agrees that it shall engage in a strike against any Employer who has violated the rules and regulations or agreements of trust of any of the Funds when such action is required in writing from any of the Boards of Trustees of such Funds. Failure by the Union to act upon a written request of any of the Trustees as provided herein shall constitute a violation of this Agreement by the Union.
+g.	The Union, likewise, agrees that it shall engage in a strike against any Employer who is delinquent in his contributions to any of the Funds as hereinafter provided. In the event of an Employer’s delinquency, the administrator of the Fund to which the Employer is delinquent shall notify one designated Association Trustee and one designated Union Trustee of such delinquency. Upon receipt of this notification, the Union designated Trustee, after consultation and agreement with the Association designated Trustee, shall immediately cause a certified letter to be mailed to said delinquent Employer advising it that, unless ali delinquent cuniribuiiuus, including all late charges as hereinafter provided, are made within three (3) working days of receipt of this letter, the Union shall engage in a strike against such Employer. If the delinquency of an Employer fails to be corrected as hereinafter prescribed, the Union shall then strike such Employer.
+Section 1, Late Payments. Upon failure to pay the total fringe benefit to the designated depository when due, the Employer shall pay as liquidated damages all costs incurred by each of said Trust Funds for the collection of same in accordance with the current rules adopted by the Trustees of the respective Funds. The rules currently in effect provide for the following:
+(a)	Ten (10%) percent of the delinquent payments, if such payments are made later than the twenty-sixth (26th) day of the month immediately following the month in which the work was performed, shall be assessed as liquidated damages, plus interest at the rate of two (2%) percent over the prime rate charged by the Fund’s depository during the period; however, in no event shall the amount of liquidated damages be less than Thirty ($30.00) Dollars.
+(b)	In the event that an audit of the Employer’s payroll records discloses a delinquency in payments of more than five (5%) percent of the payments actually paid by the Employer for the period audited, an additional ten (10%) percent of the outstanding indebtedness shall be assessed as liquidated damages in addition to which the Employer shall be assessed the actual cost of the audit.
+(c)	In the event the Board of Trustees of a Fund finds it necessary to refer the matter of collection, whether of payments, liquidated damages, interest, or a combination thereof, to legal counsel, the Employer shall be required to pay the actual attorney fees and costs incurred by the Fund as a result, including all costs of discovery, auditory or expert witness fees and court costs.
+14
+An audit of any Employer’s payroll records can be made by a person or firm designated by the Board of Trustees of any of the Funds.
+If the Trustees of a Fund amend the rules for collection charges previously described, said revised formula shall replace the foregoing as a part of this Collective Bargaining Agreement.
+Section 2. Assignment for Representation Expense: The parties agree Employees may voluntarily execute a written authorization for an assignment of an amount of their hourly wages for payment of expense of Union representation which is uniformly required of all Employees working within the jurisdiction of the Union. The Employer agrees it shall deduct from the pay of each Employee who shall authorize same, a sum as designated by the Union, of the Employee’s base wage rate which sum shall be transmitted monthly, together with fringe benefit contributions provided for herein to a depository designated by the Association and the Union.
+For an Employee who has not executed an authorization for the assignment of representation expenses, the designated depository will, on request, remit to the Employee, at regular monthly intervals, such a sum as would be remitted to die Union if such an authorization had been executed by the Employee.
+The authorization for the assignment of representation expenses shall be irrevocable for the period of one (1) year, or until the termination of this Collective Bargaining Agreement, whichever period is less, unless written notice is given by the Employee io the designated depository and to the Union not more than seventy-five (75) days before any periodic renewal date.
+The Union shall indemnify and save such contractor, the Association and any Association Trustee harmless against any duplication of payment and any and all claims, demands, suits or other forms of liability that may arise out of or by reason of action taken by or not taken by the contractor, the Association or any Association Trustee for the purpose of complying with this Section; provided, however, the Union shall not be responsible for any liability caused by the gross negligence or intentional misconduct of the contractor or the Association.
+ARTICLE VII
+Surety Bonds/Security Deposit
+The Employer shall, upon becoming a party to this Agreement, deliver to the Trustees of the Joint Funds a surety bond or cash security in the amount set forth below to guaranty payments required to be made to the Iron Workers Local No. 25 Health Fund of Eastern Michigan; Iron Workers Local No. 25 Pension Fund; Iron Workers Local No. 25 Individual Account Retirement Fund; Iron Workers Local No. 25 Excess Benefit Plan; Iron Workers Apprenticeship Fund of Eastern Michigan; National Iron Workers and Employers Apprenticeship Training and Journeyman Upgrading Fund; Iron Workers Local No, 25 Vacation Pay Fund, Manpower Optimization, Stabilization and Training Fund; and Advancement Fund, as well as credit union deductions. The Trustees of the Joint Funds are authorized to make claim against the surety bond or apply against the cash secu
+15
+rity any delinquency or liquidated damage owed by the Employer, and any cost of collection, attorney, or audit fee which arises in connection with such collection activity. The following provisions shall apply:
+A, Effective February 1,2002 each Employer signatory to this Agreement shall obtain a surety bond in the amount of $25,000. If an Employer is unable to obtain a surety bond, it may post surety in the form of cash (cash security) to an account administered by the Joint Funds. The account will be separate from all other accounts and shall not be commingled with accounts for any other purpose. If the Employer substitutes a surety bond for a cash security deposit made under this section, the security deposit will be returned to the Employer upon presentation of the surety bond.
+B.	If an Employer is unable to obtain a surety bond or post the cash security referenced above, the Trustees may, at their sole discretion, place the Employer on a weekly schedule of contribution payments which will require a minimum of three weeks cash security based upon an estimated amount of contributions to be determined by the Trustees.
+C,	If an Employer is delinquent in submitting contributions for two consecutive months, die Tiusiees may, at their discretion, increase the amount of surety bond or cash security required in an amount not to exceed the previous three months of contributions submitted.
+D.	The Union agrees to accept the Resteel Contractors Association, Inc. as surety for each of its members for the payment to the Joint Funds.
+E.	A Guarantor may cancel its surety obligation in its entirety or for any individual member of the association by providing ten (10) days written notice to the Union and the Joint Funds that it will no longer be surety, and thereafter, shall not be liable for accruing defaults,
+F.	Each Employer member of the Guarantor, by becoming a party to this Agreement, authorizes and empowers its association to act on its behalf and, until notice in writing to the contrary to the Union and to its association is received, it shall be prima facie evidence that its association is acting as surety hereunder for said Employer.
+G.	The Union shall have the right to strike the Employer after providing twenty-four (24) hour written notice to the Employer for the following violations: If the Employer has not obtained the appropriate surety bond or cash security deposit within forty-eight (48) hours of signing the Collective Bargaining Agreement; if an Employer’s surety bond has been terminated or canceled; if the surety bond or cash security deposit is no longer in the appropriate amount whether due to claims made against the bond or security or any other reason; any other failure to provide or post the appropriate surety bond/cash security as provided in this Article, including but not limited to, the amount and form of the surety bond/cash security. Such strike action taken by the Union is excepted from the requirements of the grievance procedure provided in this Agreement. It is expressly understood that this provision does not substitute or reduce any other authority conferred upon the Joint Grievance Board under this Agreement.
+16
+H.	The surety bond must be accompanied by the following information:
+1.	The full name of the surety company issuing the bond;
+2.	The address of the surety company issuing the bond;
+3.	The name and the address of the agent for the surety company issuing the bond for service of process;
+4.	The name of the local agent for the surety company issuing the bond;
+5.	The address of the local agent for the surety company issuing the bond.
+I.	The Trustees of the Joint Funds reserve the right to reject a bond offered by an Employer if in its judgment the surety has unreasonably refused to pay claims on any bond previously issued and/or if it is not in the appropriate form, amount, or with die attendant information as set forth herein.
+J.	The surety bond shall be by an insurance or surety company authorized to do business in the State of Michigan and shall be in the form set forth below:
+SURETY BOND CONTRACT
+We,__________________, as Principal, and_______________(Bond-
+ing Company Name), as Surety, are bound unto each of the following Funds and their trustees (hereafter referred to as “Obligee” and/or “Funds”):
+1.	Iron Workers Local No. 25 Health Fund of Eastern Michigan
+2.	Iron Workers Local No. 25 Pension Fund
+3.	Iron Workers Local No. 25 Individual Account Retirement Fund
+4.	Iron Workers Local No. 25 Excess Benefit Plan
+5.	Iron Workers Apprenticeship Fund of Eastern Michigan
+6.	National Iron Workers and Employers Apprenticeship Training and Journeyman Upgrading Fund
+7.	Iron Workers Local No. 25 Vacation Pay Fund
+8.	Manpower Optimization, Stabilization and Training Fund
+9.	Reinforcing Iron Workers Industry Fund
+in the sum of($) dollars.
+It is understood that the Principal employs various personnel who perform work as defined in the Collective Bargaining Agreement between the Principal and Iron Workers Local Union No. 25. The Collective Bargaining Agreement between those parties, among other things, provides for the payment of fringe benefit contributions to the various Funds, as well as liquidated damages, attorney fees, and other costs of collection for the inaccurate, incomplete, or untimely payment of the obligations set forth in that Agreement. The condition of this obligation is that if the Principal completely and timely complies with the provisions of the Collective Bargaining Agreement regarding payment of all fringe benefit con
+17
+tributions, liquidated damages, attorney fees and costs of collection, then this obligation is void and of no effect. However, should the Principal not completely and timely comply with the terms of the Collective Bargaining Agreement regarding the payment of contributions, liquidated damages, attorney fees and costs of collection, then this obligation remains in full force and effect.
+It is agreed that this obligation applies not only to the Principal and Surety, but to their heirs, executors, administrators, successors and assigns, jointly and severally.
+It is further agreed that the Obligee/Funds are not bound by any notice provisions which may be contained in any other document submitted by the bonding company or any other statement issued by the Surety as the Obligee/Funds are bound only by the statute of limitations which applies under the law.
+This bond may be canceled by the Surety giving no less than thirty (30) days written notice to the Obligee/Funds of cancellation sent by reg-istered/certified mail.
+Liability under this bond is effective for the period beginning __________________and ending__________________________ however, liability under the bond may be continued by a Continuation Certificate signed by the Principal and the Surety.
+WITNESS:
+PRINCIPAL (Company Name)
+SURETY (Insurance Co. Name)
+By:
+Attorney in Fact
+(Power of Attorney and Notarial acknowledgment of Surety to be attached)
+18
+ARTICLE VIII Pay Day
+Section 1.	Each Employee shall be paid weekly during working hours by means of a payroll check or cash, which shall be accompanied by a stub or memorandum indicating the dates of the pay period, the gross amount of the check, EI.C.A., income tax withheld and vacation fund contributions. No more than three (3) working days pay shall be held back. Quitting time of the third day is the end of the three-day working period.
+If an Employee is not paid on pay day, Employer shall pay the Employee an additional eight (8) hours pay including fringe benefits provided the Employee remains on the job until the contractually established quitting time.
+In the event pay day falls on a holiday, the employees shall be paid on the day before the Holiday. If the men are not paid on the day before the Holiday, die men shall be paid for the Holiday at straight time.
+Section 2.	When Employees are discharged, they shall be paid* in full in cash or other legal tender on the job immediately and if required to go to some other point or to the office of the Employer such Employees shall be paid for the time required to go to such places at the applicable rate. When the Employee is laid off for a short temporary period, he may demand immediate pay-off or at his option allow the amount due be paid the next regular pay day. However, when Employees are laid off at odd hours when the payroll office is not open, the Employer may pay off the Employee at the time of lay-off without penalty or the Employer must have the Employee’s check ready by noon of the next regular work day with an added two hours' penalty whether the check is picked up or mailed, at the Employee’s option. The Employer agrees to give any Employee who is laid off or discharged not less than one-half (1/2) hour’s notice of the lay-off or the discharge. Employees laid off shall be given their paychecks at 4:00 p.m. and allowed to leave the job. On an extremely large job, or jobs, within a large industrial plant requiring check out of tools, one (1) hour’s notice shall be given. When Employees quit of their own accord, they shall wait until the next regular pay day for the wages due them.
+Section 3.	When an Employee is laid off or discharged he shall be furnished a separation slip at the time, showing the reason for termination. If the Employer fails to furnish a separation slip at the Employee’s request, the Employee shall have the right to report for work and be paid in accordance with the contract until such time as the slip is furnished.
+Section 4.	When weather does not permit work to start on pay day, paychecks shall be issued between the hours of 8:00 a.m. and 10:00 a.m.
+Section 5.	If an Employee is requested by the Employer to remain on the job for any reason other than is covered by Article XXV, Section 1, Paragraph 4, such as waiting for materials to arrive, etc., then he shall be paid for such time at the applicable rate of wages.
+’Hom earned multiplied by current base hourly rate. Fringe Benefits shall be reported and paid in accordance with Article III.
+19
+Section 6.	If the Employer’s payroll check is not honored by the Bank upon which it is drawn, for reason of insufficient funds or no account, the Employer shall, immediately thereafter issue to the Employee in question, payment in cash, money order or certified check the net amount of the dishonored check plus twenty (20%) percent of the net amount. Such payment shall be accompanied by a record showing the standard deductions and cash amount. The Union reserves the right to require cash in all future payrolls if checks are dishonored for insufficient funds.
+ARTICLE IX
+Foreman
+Section 1.	When two (2) or more Employees are employed on any job, one (1) shall be classed as foreman by the Employer. The second Employee shall be classified as the steward who will be appointed by the Business Manager. If, however, only one (I) Employee is employed on a job, he shall be paid the foreman’s rate except on wire mesh.
+Section 2.	On every job with more than six (6) Employees, there will be at least one (1) foreman who shall not perform the work of a journeyman.
+Section 3.	A foreman in charge of more than one (1) foreman shall be known as a General Foreman.
+Section 4.	When there are three Foremen or more on the same job, the General Foreman shall work in a supervisory capacity over the Foreman and receive no less than fifty cents ($.50) per hour above the Foreman’s rate.
+Section 5.	When the foreman and any portion of his crew are temporarily reassigned to another job site, the Steward shall be among those temporarily reassigned.
+Section 6.	There shall be no restriction as to the employment of Foreman and Pushers. The Employer may employ on one piece of work as many Foremen or Pushers as in his judgment is necessary for the safe, expeditious and economical handling of the same.
+ARTICLE X
+Stewards
+Section 1.	There shall be a working steward on every job where reinforcing iron workers are employed who shall be a member of the Union in good standing, who will be appointed by the Business Manager or elected by the reinforcing iron workers on the job when the appointed steward is absent from the job. Said appointee shall be placed on the job by the Business Manager.
+Section 2.	The Union agrees that the Employee who is appointed to act as steward shall be competent to perform a service to both his Employer and the Union. The steward shall perform his usual steward duties with the least interference to the job.
+Section 3.	Efforts shall be made to adjust any matter without the stoppage of work. The steward shall be the last man laid off with the exception of one (1) foreman, provided the steward is capable of doing the work assigned to him. The Employer, or his representatives, agree not to lay
+20
+off, discharge, or transfer the steward so acting on any job, until the matter has been discussed with the Business Manager of the Union, except that the Union shall remain responsible for the actions of the steward on the job at all times. Should the steward cause an unauthorized work stoppage, he shall be immediately subject to dismissal.
+Section 4.	The Employer is responsible for the care of injured Employees, and the steward shall also render assistance in cooperation with the Employer, including accompanying such injured Employee to his home or to the hospital when it is necessary without any loss of time. The steward shall report such injury to the proper officers of the Union.
+An Employee who is injured on the job during working hours, and is physically unable to return to work, as verified by nurse or doctor, shall be paid for the remainder of his normal work shift for that day at his regular hourly rate, fn no event shall the amount exceed eight (8) hours of pay (unless the man is injured in the ninth (9th) hour, etc.)
+ARTICLE XI
+Safety
+Section 1, The steward shall call the foreman’s attention to any unsafe equipment or unsafe working condition. If the foreman and the steward cannot agree on what is unsafe equipment or unsafe working conditions, or if having agreed, action to correct same is not taken by the foreman, the steward must make a report to the Union. The Employer and the Union will then send representatives to the job to observe conditions and agree on corrective measures to be taken. Further, the Employers agree to register with the Michigan Construction Safety Commission and cooperate with its provisions on safety.
+Section 2.	When required by a safety inspector or the foreman, a reinforcing iron worker shall be assigned to a reinforcing iron worker welder or crew, whose duty shall be to service that crew. The Resteel worker may be an apprentice.
+Section 2A. There shall be a minimum of two (2) reinforcing iron workers on stud welding, one as a welder and the other as a helper.
+Section 3.	The Employer and Union agree that a sufficient number of reinforcing iron workers will be used when reinforcing material is handled by power equipment to insure such operation will be safe to avoid possible injury to any Employees on the job. It is the intention that good judgment will be used by both parties in the application of this requirement.
+Section 4.	(Safety Belts — Building of Vertical Wall in Upright Position). In instances where scaffolding is not feasible the Business Manager of the Union and the Employer or his representative shall mutually agree on a satisfactory method of access to the placing of steel. However, two (2) (line) lanyard safety belts/hook belts are acceptable when placing comer bars, shear bars, wall spreaders, and tying splices and diagonals on a vertical wall. NO HOMEMADE BELTS WILL BE ALLOWED.
+Section 5.	In the interest of safety: intoxication, possession, consumption or use of alcoholic beverages or illegal drugs is not permitted on job sites or while driving a company vehicle.
+21
+Section 6.	The Union agrees to abide by the substance abuse program approved by the labor-management committee known as Management and Unions Serving Together (M.U.S.T.)
+ARTICLE XII Notification
+Section 1.	The Employer agrees to notify the Business Manager in writing prior to starting any job on which reinforcing materials is to be installed. If it is deemed by the Business Manager that a contractor is not adhering to this provision, it will be at his discretion to submit a grievance to the Joint Grievance Board for its enforcement. A penalty of $100.00 will be imposed for violation of this section, which penalty shall be paid to the Local No. 25 Health Fund, Repeated offenders of this provision may be imposed an additional fine as levied by the Joint Grievance Board.
+Section 2.	If a pre-job conference is to be held, the General Contractor agrees to notify the Business Manager of Local No. 25 or the Building Trades Council having jurisdiction in the area in sufficient time to allow attendance.
+Section 3.	The Employer will at the request of the Union, and the Union will at the request of the Employer, furnish information available to them regarding the names and addresses of the principals of the Employer’s Resteel subcontractors.
+ARTICLE XIII Subcontracting
+Section 1.	The Employer agrees not to subcontract or sublet any work covered by this Agreement and to be performed at the site of construction to any person, firm, or corporation not having a collective bargaining agreement with the Union; provided, however, that where there is any dispute over work jurisdiction or assignment of work, such dispute shall be governed by the provisions of Article XXI.
+Section 2.	When an Employer subcontracts or sublets work to be done at the site of construction to any person, firm, or corporation not having a current collective bargaining agreement with the Union, he shall pay to the Iron Workers' Local No. 25 Health Fund an amount equal to the wages which would have been earned by a journeyman had he not subcontracted the work to the person, firm or corporation not having a collective bargaining agreement with the Union. The total hours are to be determined by the Joint Grievance Board.
+Section 3.	The Employer agrees that, in order to preserve work traditionally performed by members of the craft, that it will not engage in the pre-assembling of resteel into mats, columns, beams, walls off the job site, unless such work is performed by Employees covered by this Agreement,
+22
+ARTICLE XIV
+Working Conditions
+Section 1.	The Employer shall provide a change shed or box on jobs under lock and key and losses of tools and clothing due to burglary or fire shall be replaced by the Employer providing a written itemized list of such tools and clothing is submitted to die Employer at his request prior to loss and certified by him as to the value of such tools and clothing. Itemized tools shall remain on the job during the entire period of employment.
+Section 2.	A coffee break, not to exceed ten (10) minutes shall be allowed Employees at their workstations in mid-morning and mid-afternoon and the Union and Employer agree this provision shall not be abused.
+Section 3.	The Employer agrees that he shall furnish clear, cool drinking water from proper dispensers and such water shall be properly cooled with ice.
+Section 4.	The Employer shall provide on jobs of sufficient size and duration to justify same, a shed or room, heated when necessary for the exclusive use of Reinforced Iron Workers to change their clothes, store their personal tools, and eat their lunch.
+Section 5.	The Employer will furnish safety hats, liners, reels, overshoes when working in concrete, rain gear when necessary, and all tools other than pliers and a six-foot rule. All safety equipment legally required to be furnished by the Employer, shall be furnished by said Employer. Such tools and equipment shall be returned upon lay-off in reasonable condition subject to normal wear. Upon failure to return the said articles the Employer may deduct cost of said articles from any pay owing to the Employee provided the Employee has checked out such items.
+Section 6.	Employees shall be allowed adequate time to pick up Employer’s tools, their own tools and change clothes on all jobs and all shifts. The Union agrees that this condition shall not be abused. (Not to exceed 15 minutes prior to the end of the shift.)
+ARTICLE XV
+Business Representatives
+Section 1. The Business Representative of the Union shall be permitted on all jobs providing he complies with owners’ rules and regulations, but will in no way interfere with the Employees during working hours unless permission is granted by the Employer. The Employer will assist the Business Representative of the Union in securing the necessary gate passes and/or permits in accordance with Owner’s Rules and Regulations so that access to the job can be accomplished on a timely basis.
+ARTICLE XVI
+Wire Mesh
+Section 1. Not less than two men will be required on #8 gauge or heavier rolled mesh or sheet mesh or rolled mesh over five (5) foot widths. The Employer is expected to observe standard safety procedures where required, and, if the area requiring mesh creates an abnormal condition
+23
+because of shape, dimension or obstructions, the Employer shall discuss requirements with the steward and reach mutual agreement on sufficient manpower to alleviate unsafe conditions.
+ARTICLE XVII
+Transferring Employees
+Section 1.	If transfers from one job to another are necessary within the working day, such Employee using personal transportation shall receive his regular time plus reimbursement at the rate of twenty-one cents ($.21) per mile for use of his automobile. If Employer transportation is furnished, adequate insurance shall be provided. Good judgment and honest intent shall be used to prevent abuses and curtail unwarranted transfers. Willful violation of this clause shall be ground for arbitration procedures.
+Section 2.	If an Employee refuses a transfer from one job to another, his paycheck shall be mailed to him and must be postmarked by A.M. of the following business day or the Employee shall be paid an additional two (2) hours’ pay for each twenty-four (24) hours’ delay.
+ARTICLE XVIII
+Grievance Procedure
+Section 1.	First stage. In the event any dispute occurs due to an alleged violation of this Agreement, or any section thereof, or any dispute as to the proper interpretation of this Agreement, the matter shall be handled in the first instance by a representative of the Union and of the Employer. Provided however, that where there is any dispute over work jurisdiction or assignment of work, such dispute shall be governed by the provisions of Article XXI. A grievance must be presented within seven (7) days of the time that the aggrieved party first becomes aware, or reasonably should have become aware, of the claim subject of the grievance. The grievance procedure is amenable to claims of either the Union or the Employer. In the event the parties fail to settle the grievance in the first stage, it shall be reduced to writing and submitted to the second stage, or, in the case of a non-Associated represented Employer, to the third stage as thereinafter provided.
+Section 2.	Second stage. Within three (3) days following completion of first stage proceedings, an unresolved grievance may be submitted by the aggrieved party to second stage proceedings. A representative of the affected Employer’s Association and a representative of the Union shall meet within three (3) days of submission of a grievance to second stage proceedings, unless the parties mutually agree to a longer period of time, to consider and attempt to resolve the dispute. In the event the parties are unable to settle the grievance at second stage proceedings, it may be submitted to the third stage.
+Section 3.	Third stage. Within seven (7) days of completion of second stage proceedings (or first stage proceedings in the case of a non-Asso-ciation represented Employer) or within seven (7) days after the time allotted for a meeting of the parties in the second stage proceedings without the parties having met, an unresolved grievance may be submitted to final and binding arbitration before an impartial Arbitrator from the panel of impartial arbitrators selected by the parties. In the event that no panel of
+24
+impartial arbitrators is selected by the parties, or, in the event that none of the arbitrators on the panel is satisfactory to a non-Association represented Employer, the Arbitrator shall be selected by the parties to the dispute in accordance with the procedures of the American Arbitration Association.
+The Decision of the Arbitrator shall be final and binding on all parties concerned. The Decision shall be in writing, but reasons therefore shall not be required; provided, however, if, follow Decision, either party shall desire a written opinion from the Arbitrator in explanation of the Decision, it may so request. The expense incurred in connection with the preparation of such a written opinion shall be borne exclusively by the party making the request. All other expenses of the arbitration proceedings shall be borne equally by the parties to the dispute. The Decision of the impartial Arbitrator shall be final and binding. The Arbitrator shall confine his decision to the dispute in question and he shall not have authority to add to, subtract from or in any way modify the terms of this Agreement.
+Section 4.	The Union and the Employer agree that there shall be no strikes or lockouts during the term of this Agreement, and no action will be taken by either party which will halt the Employer’s business.
+ARTICLE XIX
+Apprenticeship Fund
+Section 1.	The parties signatory to this Agreement agree to abide by the Apprenticeship Standards of the Local Union No. 25 Joint Apprenticeship Committee as approved by the U.S. Department of Labor Bureau of Apprenticeship and Training. It is further agreed that all rules and actions taken by the Joint Labor Management Apprenticeship Committee and agreed to by the Labor, Management Negotiating Committees should be abided by.
+Section 2.	The contribution into the Apprentice Training Fund shall be at the rate of Fourteen Cents (140) per hour worked, for each Employee. The Administrator is authorized to make a reporting form which includes all Fringe Benefit contributions and an added space for Apprenticeship Fund.
+Section 3.	It is agreed that the Apprentice shall be required to attend classes at the Apprenticeship School once every two weeks as scheduled by the Apprenticeship Coordinator and his wages and fringes shall be paid by the Employer for the days he attends such classes, provided, however, that the Apprentice is regularly employed at the time he is scheduled to attend Apprentice School.
+Section 4.	It is further agreed that should an Apprentice be employed on a job and is laid off the day before his established school day and said job is not completed, he shall be paid for his school day by the Employer as if he were still regularly employed.
+Section 5.	Each Apprentice shall serve a term as established by the Joint Apprenticeship Committee and his wages shall be based on the Journeyman’s scale. See Section III.
+25
+Section 6.	Monies collected by the Administrator for the Apprenticeship Fund shall be deposited in accordance with direction of the Trustees of the Apprenticeship Fund.
+Section 7.	Any one Employer shall be permitted to employ Apprentices on structural, reinforcing or rigging jobs at the ratio of not more than one (1) Apprentice to every four (4) Journeymen and shall be permitted to employ Apprentices on ornamental jobs at the ratio of not more than one (1) Apprentice to every one (1) Journeyman, and on the spinning of cables on suspension bridges, one (1) Apprentice shall be permitted to each Journeyman.
+Section 8.	The parties agree that in the event Iron Workers Local 25 is unable to furnish manpower to an Employer signatory hereunder, the Employer is free to hire a pre-apprentice to be paid fifty percent (50%) of the Structural Journeyman’s base wage. However, in the event Journeymen Iron Workers and/or Apprentices become available, the Employer shall be obligated to lay off Pre-Apprentices and hire Journeymen Iron Workers and/or Apprentices within two (2) weeks’ notice provided by Iron Workers Local No. 25.
+Section 9.	There is a 45 calendar day probationary period in which these Pre-Apprentices win not receive any fniige ocuchl cuutiiuuiiuns. However, on the 46th calendar day, payment of all fringe benefit contributions begins for these Pre-Apprentices. In no way shall more than one employer take a full 45-day probationary period credit on contributions. From the Pre-Apprentice’s first day permitted, if he works for more than one (1) employer during this 45-day period, whomever he is employed by on the 46th calendar day will be responsible for funding fringe benefit contributions on his behalf from that day forward.
+It is also the Employer’s responsibility to inform the Iron Workers Local 25 Apprentice Coordinator, in writing, of the Pre-Apprentice work status (i.e. date of hire) and of all credit being taken on his/her contributions.
+ARTICLE XX
+Workers’ Compensation and M.E.S.C.
+Section 1. Employers shall provide Workers’ Compensation Insurance for all Reinforcing Iron Workers employed and shall, regardless of the number of men employed become a subject Employer under the Michigan Employment Security Act, and shall exhibit proof of both such coverages to the Union upon request.
+ARTICLE XXI
+Jurisdictional Disputes
+Section 1.	The work under this Agreement covers reinforced steel work coming under the jurisdiction of the Reinforcing Iron Workers by determination of the National Joint Board for the Settlement of Jurisdictional Disputes and by area practices in the territorial jurisdiction of Local Union No. 25.
+Section 2.	It is further agreed that the Employer will insert similar language in the purchase order or contract when reinforcing steel is sublet to a subcontractor.
+26
+Section 3.	It is further agreed by the parties hereto that in the event of jurisdictional disputes unresolved on a local level, they will abide by the decision of the National Joint Board for the Settlement of Jurisdictional Disputes, established with the authority and consent of the National Labor Relations Board for the purpose of settling jurisdictional disputes in the construction industry.
+Section 4.	It shall not be a violation of this Agreement for the Employees in the Union to refuse to cross the picket line and perform work in any instance:
+(a)	Where the purpose of the picketing is lawful and is duly authorized by the Union so picketing; and
+(b)	Where the establishment thereof is not contrary to or in violation of any valid law.
+ARTICLE XXII
+Equal Treatment
+Section 1. In the event the Union enters into any agreement with another Employer or Employers containing more favorable terms and/or conditions (including wage rates) than those contained herein relative to work to be performed at the job site of commercial or industrial construction, but excluding project agreements, road building, and underground construction, the Union agrees that such more favorable terms and conditions shall automatically be extended to Employers covered by this Agreement.
+ARTICLE XXIII
+Invalidity
+Section 1. In the event that any portion of this Agreement is declared to be or becomes inoperative under State or Federal Law, the balance of the Agreement remain in full force and effect, and the parties hereto agree to meet and renegotiate the inoperative portion of the Agreement.
+ARTICLE XXIV
+Parking
+Section 1. If free parking is not available, the Employer will provide same or pay the Employee for same not to exceed $5.00 per day.
+ARTICLE XXV
+Reporting Time
+Section 1.	Recognizing that the large geographical area covered under the jurisdiction of the Union represents unusual travel requirements which are not common to other trades, the following reporting procedure is agreed:
+When work is affected by weather, each employee who has reported in at the starting time of his shift shall receive two (2) hours pay at the applicable rate, provided he remains on the job for the first two (2) hours of his shift.
+27
+When the job is directed to start by the Employer within the first two (2) hours of a shift, each Employee will start work forthwith. Refusal to start work as directed, when not affected by weather, will release the Employer from the provisions of this clause.
+When an Employee reports on the job at the request of the Employer, and is not put to work, weather permitting, he shall be paid not less than four (4) hours for reporting to work, provided the Employee remains on the job during the said four (4) hours.
+If an Employee starts to work and works past his designated lunch period; and there is no more work, he shall be paid for eight (8) hours, weather permitting. For the purposes of this Article, lunch period is four (4) hours into work shift.
+Section 2.	When an employee has started work during the first half of his regularly designated shift, he shall be paid for the full half-shift, weather permitting, provided he remains on the job for the full half-shift unless transferred.
+Employees reporting to work at 12.00 noon or later at the request of an Employer shall be paid not less than eight (8) hours pay for work performed unless prevented by weather in which case the Employee shall be paid four (4) hours nay plus pay for hours actually worked.
+ARTICLE XXVI Fines
+All fines provided under this collective bargaining agreement shall be paid to the Health Fund.
+ARTICLE XXVH
+Successor
+In the event any person, firm or corporation, hereinafter “successor” succeeds in any manner to the business interests of any person, firm or corporation, hereinafter “predecessor,” bound by this agreement, such predecessor shall be responsible for compliance with this Agreement by such successor until such successor adopts and signs this Agreement, and further, until all obligations of the predecessor under this Agreement are fully satisfied.
+28
+ARTICLE XXVIII
+REINFORCING WIRE MESH ADDENDUM to the
+REINFORCING IRON WORKERS’ LOCAL NO. 25 BUILDING AND CONSTRUCTION AGREEMENT
+Section 1.	Jurisdiction. This Addendum covers the loading and unloading, transporting, placing, pulling and maintaining of reinforcing wire mesh and all preparatory and incidental work thereto and, if requested by the Employer, site preparation including fine grading, erection of rails, placing of visquene or other vapor barriers but shall not include mesh in walls, fireproofing, structural columns, and pan decks or mesh installed on jobs where the Employer shall have the responsibility for the installation of other work referred to in this Agreement under “for the information of parties affected herein, attention is hereby drawn to the following.’’
+Section 2.	Wages and Fringe Benefits. The wages and fringe benefits of all employees employed under this Addendum shall be as indicated for Mesh Agreement (ONLY).
+Fringe benefits reported for hours worked under this Agreement shall be reported separately from hours worked under the other provisions of this Agreement.
+Section 3.	Coffee Breaks. There shall be no organized coffee breaks for work performed under this Addendum; however, an Employee shall be permitted to take coffee at his workstation at reasonable intervals as conditions shall permit.
+Section 4.	Stewards. Stewards shall be compensated at the journeyman rate on all jobs, except jobs which involve installation of mesh exclusively.
+Section 5.	Productivity. In the interest of productivity, it is anticipated that the Employer’s employees will be employed in all phases of the work described in Section 1 hereof, including the pulling of mesh during concrete pours. However, if by reason of the specification, the mesh shall be placed on chairs, or, because the slab is above ground level or for other reasons, it is not required that the mesh be pulled into the concrete, it shall not be necessary to man the pour as provided in Article I, Section 7 of this Agreement and the Employee may be placed on any other work. On all other pours, however, it shall be the specific responsibility of the Employer’s reinforcing iron worker employees to pull, place or maintain the mesh into the concrete.
+29
+ARTICLE XXIX
+MESH AGREEMENT (ONLY)
+Wage and Fringe Benefit Contributions Rates Effective As of June 1, 2002 thru May 31, 2003
+Rested Journeyman
++Base Wage...................
++Vacation (15.20%) (F) ......
+Health & Welfare (F) .......
+Pension (22.61%) (F) .......
+I.A.P.(F)...................
+AGROSS.......................
+Apprenticeship (F) .........
+♦Advancement (F).............
+Nat’l 1W Appr. Fund (F).....
+Institute of 1W Industry (III) (F)
+M.O.S.T. (F) ...............
+1st Shift	2nd Shift	3rd Shift
+$20.52	$21.02	$21.27
+3.12	3.20	3.23
+5.77	5.77	5.77
+4.64	4.75	4.81
+1.35	1.35	1.35
+$35.40	$36.09	$36.43
+.14	.14	.14
+.12	.12	.12
+.05	.05	.05
+.02	.02	.02
+.12	.12	.12
+Resteel Journeyman	1st Shift	2nd Shift	3rd Shift
++Base Wage		.. .$21.52	$22.02	$22.27
++Vacation (15.20%) (F) 		... 3.27	3.35	3.39
+Health & Welfare (F) 		.. . 5.77	5.77	5.77
+Pension (22.61 %) (F) 		... 4.87	4.98	5.04
+I.A.P. (F)		... 1.35	1.35	1.35
+AGROSS		... $36.78	$37.47	$37.82
+Apprenticeship (F) 		.14	.14	.14
+♦Advancement (F)		.12	.12	.12
+Nat’l IW Appr. Fund (F)		.05	.05	.05
+Institute of IW Industry (III) (F) . . .	.02	.02	.02
+M.O.S.T. (F)		.12	.12	.12
+Contributions for work under the Mesh Agreement must be funded on a separate contribution form. If you need forms, please contact the Fund Office at (248) 347-3100.
++ Subject to Federal Withholding, F.LCA. and all other required deductions.
+(F) Funded
+A To be computed at one-half hour increments at the applicable rate.
+* See Article V, Section 11
+30
+2003 - $1.75 RATE INCREASE EFFECTIVE JUNE 1,2003
+2004-$1.85 RATE INCREASE EFFECTIVE JUNE 1,2004
+2005 AND 2006 - WAGE RE-OPENER
+31
+ARTICLE XXX Market Recovery
+It is recognized by the parties that in certain areas of the State of Michigan, the construction market organized by the building trades unions has encountered strong competition. Where the mutual interest of both the Employer and the Union are served by cooperating to compete more effectively, it is agreed that the Employer and the Union will meet to negotiate a Market Recovery Rate on a job-by-job basis or an area-by-area basis. The Market Recovery Rate will apply only to the job or area designated and Article XXII “Equal Treatment,” shall not apply to extend the Market Recovery Rate beyond the designated location. The Union will notify the Resteel Contractors Association, Inc. of all Market Recovery Rates and the Association shall notify its members.
+ARTICLE XXXI Supplemental Industry Advancement Program Agreement
+A. The Association shall establish an Industry Advancement Program whose activities shall be financed by the payments provided for in Article I" of this Agrccmcrit. No Employer ui Union has or shaii have any right, title, interest or claim, legal or equitable, in or to any payments made or to be made for allocation to said Industry Advancement Program, or any part of any payments allocated to the Industry Advancement Program, at any time be paid to any Employer or to any other employer who is a party to an agreement with the Union requiring the same payments as provided for in Article V, Section 11, or to any Employee, or to the Union except to finance such activities or benefits as are or shall be carried on in accordance with the provisions of this Supplemental Agreement, or except as part, and in the form of, the activities and the benefits thereunder which the Association, as administrator of said Industry Advancement Program, may undertake in accordance with the provisions of this Supplemental Agreement; and provided further nothing herein before contained shall be deemed in any wise to limit or affect the right of the Union to compel any Employer or such other employer by legal or equitable action or otherwise to fulfill his obligation to make payments to said Industry Advancement Program, or to collect in any bankruptcy, reorganization or similar proceeding any such payments due from and unpaid by any Employer or other employer, and provided further, that nothing hereinbefore contained shall affect the Association’s rights to subrogation. Upon termination of payments allocable to the Industry Advancement Program, by reason of the expiration of this Agreement or because of the absence, or any other reason, of a contractual obligation upon the Employer to make payments so allocable, the assets and fitnd of the Industry Advancement Program shall not be distributed among any Employers or other employers, or among Employees, or to the Union but shall be held by the Association, which shall continue to administer and expand said assets and fund for the purposes, and subject to all the conditions, set forth herein.
+The Association may use the monies allocated and paid into the fund of the Industry Advancement Program, and the income from the investment thereof, for the purpose of meeting all costs to the Association (including, but not limited to rent, salaries of staff and legal counsel fees, office
+32
+expense, cost of equipment, printing, stationery and items in the nature thereof), for carrying out the following industry-wide activities with the thirty-four counties covered by this Agreement, for the benefit of building and construction industry as a whole within said counties and particularly for the benefit of employers making payments allocated to the Industry Advancement Program, except as an expenditure for any such activity is prohibited by subsection B of this Supplement.
+(1)	ACCIDENT PREVENTION - for example, the costs for promoting a Safety Campaign to help prevent personnel accidents in the industry. The Association shall designate one of its staff to act on all matters pertaining to safety, whose duties shall be, among others, to distribute to Employers and Employees literature advocating, explaining and promoting accident prevention; to meet with authorized representatives of the Union when necessary for discussion of matters of safety and accident prevention; to attend meetings and conferences dealing with safety and accident prevention; and to engage in similar activities for the promotion of safety and accident prevention.
+(2)	EDUCATION - for example, to create, operate and maintain programs for the benefit of the building and construction industry as a whole within the thirty-four counties aforesaid, such as schools for Estimators, Construction Superintendents, Foremen and other supervisory personnel.
+(3)	RESEARCH INTO NEW METHODS AND MATERIALS -for example, to investigate new methods and new materials for use in the building and construction industry and establish the necessary machinery to see to it that the assignment of work with or upon such methods or materials is made, subject to the applicable provisions of Jurisdiction of Work, page iii, of this Agreement, to the correct Trade in order to avoid jurisdictional disputes.
+(4)	PUBLIC RELATIONS - for example, to conduct a Public Relations Program for the benefit of die building and construction industry in the aforesaid counties, particularly to make an effort to obtain the work in industrial plants.
+(5)	INDUSTRY RELATIONS with architects, engineers, building owners, government officials, subcontractors, material and equipment suppliers, manufacturers, and insurance and bonding companies.
+(6)	LABOR RELATIONS - for example, to pay the compensation of the representatives of the Association participating in collective bargaining negotiations and grievance meetings with representatives of the Union; to pay die compensation of the representative or representatives of the Association in the presentation of any dispute to an arbitrator, as well as Management’s share of the expenses and compensation of the arbitrator; to pay the expenses and compensation of witnesses in any grievance or arbitration proceedings; and to defray the expenses of said representatives in connection with the foregoing services and the cost to the Association of informative literature and other publications and usual sources of information relevant to collective bargaining and the processing of grievances, as well as the cost of dis
+33
+seminating such information among the members of the Association and other employers in the building and construction trades industry.
+(7)	MANAGEMENT PARTICIPATION IN UNION HEALTH AND WELFARE FUNDS AND SIMILAR FUNDS - for example, to pay the compensation and the necessary expenses incurred in connection with their services as such, of the representatives of the Employers upon the Reinforcing Iron Workers Insurance Fund, Reinforcing Iron Workers Pension Fund, the Reinforcing Iron Workers Vacation and Holiday Fund, and upon any other body composed jointly of representatives of Employers and representatives of Employees.
+(8)	MARKET DEVELOPMENT - for example, to educate industrial owners and government awarding authorities and agencies to contract out construction maintenance and repair work.
+(9)	STANDARDIZATION OF CONTRACTS AND SPECIFICATIONS - for example, to see to it that the architect states in the specifications at the proper place and with sufficient particularity an adequate definition of the work to be performed thereby eliminating many needless jurisdictional disputes by improper assignment of work in the first instance.
+(10)	DISASTER RELIEF AND CIVILIAN DEFENSE
+B. No part of this Fund allocated to the Industry Advancement Program shall be spent directly or indirectly for any of the following or similar purposes:
+(I)	Lobbying, publicity or other endeavors in the promotion of legislation, existing or proposed, opposed by either the AFL-CIO, Iron Workers Local 25, or in opposition to legislation, existing or proposed, which is sponsored or favored by die AFL-CIO, Iron Workers Local 25 or their International Union.
+(2)	Subsidies, indemnities or payments of any kind to contractors, during, for, or in connection with a period or periods of strike, lockout or work stoppage, or payments to any fund, insurance carrier, or other person or entity as a premium for, or in consideration of payment by such fund, insurance carrier, or other person or entity, of such subsidies or indemnities or payments to contractors.
+(3)	Litigation of any kind before any court or administrative body against the Union, or any of the members of the Union, or the payments of any costs or expenses directly or indirectly involved in such litigation.
+(4)	Payment of dues to, or the making of any other contribution, directly or indirectly, to the Resteel Contractors Association, Inc. or to its successor or to any like organization.
+(5)	Publicity or public relations campaigns in support of Management’s position respecting pending or prospective collective bargaining negotiations with the Union or in support of Management’s point of view on any matter involving the industry which could, directly or indirectly, affect the availability of work or employment for, or the wages or conditions of employment, of, the members of the Union, when such point of view is opposed by the Union.
+34
+(6)	Any activity injurious to the Union or any of its affiliated locals. In the event that any activities of a program commenced by the Association were not apparent at the time of their commencement to be injurious to the Union, but later a complaint is made by the Union to the Association that any such activity is injurious to the Union, then, whether such activities or activities shall be continued and whether said activity or activities shall be financed out of monies already paid into the Industry Advancement Program or to be paid into the Industry Advancement Program, shall if there is no agreement between die Association and the Union as to the complaint made, on the demand of either side, made no later than 30 days after the date of the complaint, be submitted for arbitration to an arbitrator selected by lot from a list supplied by the American Arbitration Association. The arbitrator shall hold the hearing and render his award within five days after his selection, which award shall be final and binding upon the parties hereto. In arriving at his award, the arbitrator shall be governed as follows:
+(A) In the event that the Association’s obligation is only to pay for the activity of said program on a current basis as the activity progresses.
+(i)	Then if the Association alters or discontinues the program pending the arbitration of the Union’s complaint, the Association shall have no obligation to reimburse the funds of the Industry Advancement Program for any monies it has paid or may be obligated to pay for such of said activities as preceded the date of Union’s complaint.
+(ii)	If pending such arbitration the Association does not discontinue or alter the program to meet the Union’s complaint, then the question to be decided by the arbitrator, in addition to whether the program or some phase of it was injurious to the Union, shall be as follows:
+(a)	Was it within the control of the Association to discontinue or modify the program? If the answer is that it was not within the Association’s control, then the Association shall not be obligated to reimburse the funds of the Industry Advancement Program for the monies spent during the period between the date of the complaint and the date of the arbitrator’s award.
+(b)	If the award is that it was within the control of the Association, then the arbitrator shall be asked to decide an additional question, viz., would the discontinuance or alteration of the program have caused more harm to the Association than it would have caused to the Union. If the answer is in the affirmative, then, again, the Association shall be absolved of any liability to reimburse the funds of the Industry Advancement Program for payments made between the date of the Council’s complaint and the date of the award. If the answer is in the negative, Association shall reimburse to the funds of the Industry Advancement Program such expenditures as were made and incurred between the date of the Union’s complaint and the date of the award.
+(B)	Where the financing of the activities of the program is by prepayment either at the inception of the program or at various points after its inception, or is provided for by a contract which would impose upon the Association an irreducible obligation for a fixed amount irrespective of continuance or discontinuance of the program, then if the Union
+35
+complains that any of the activities of the program are injurious to the Union and the Association does not discontinue or modify such activities to meet the Union’s complaint, and if the arbitrator awards that any of the activities of the program are injurious to the Union, then the Association shall be obligated to reimburse the funds of the Industry Advancement Program for a portion of such prepayment or fixed amount as the quantity of service or time utilized in said program’s activities after Union's complaint and until compliance with the arbitrator’s award bears to the whole quantity of the service to be rendered or to the whole of the time to be utilized for the activities so prepaid or contracted for.
+In any event, if the arbitrator’s award is that any of the activities of the program were injurious, then, from the date of the award the Industry Advancement Program’s funds may not be used to continue such activities of the program unless altered to obviate injury to the Union, although the program may be continued in its original form by the Association out of its own funds.
+(C)	None of the provisions in Section B of this Supplement shall operate to prohibit any communication from the Association to its members at any time, nor to prohibit the expression by such of the Association’s Lcpicsciiiauvcs as aic paiu wiin i'nc mvnics uf the iiidusiiy Advancentciti Program of any position of the Association or its members in collective bargaining or in the adjustment or arbitration of grievances or in negotiations of any matter affecting wages or conditions of employment of the members of the Union.
+(D)	An Annual Audit listing the actual expenditures made during the preceding year out of the funds of the Industry Advancement Program will be made and certified by a Certified Public Accountant. This audit will be made available to the Union.
+ARTICLE XXXII
+Joint Labor Management Committee
+Section 1.	There shall be a Joint Labor Management Committee established for the purpose of promoting cooperation and understanding between the parties with respect to the interpretation and operation of the collective bargaining agreement. The Joint Labor Management Committee shall be composed of three representatives appointed by Local Union No. 25 and three representatives appointed by Resteel Contractors Association, Inc.
+Section 2.	The Joint Labor Management Committee shall have no authority to bind another party to a particular contract interpretation, nor shall it have authority to alter, amend, modify, delete, or add to any of the terms of the collective bargaining agreement. It is the intention of the parties hereto that the Joint Labor Management Committee shall be advisory only, and that it shall not in any way affect the authority and jurisdiction of the Joint Grievance Board.
+36
+ARTICLE XXXIII
+Change and Termination
+Section 1. This Agreement shall remain in full force and effect through the 31st day of May, 2007 and thereafter shall be renewed from year to year unless any party hereto shall notify the other party, in writing, at least one hundred and twenty (120) days prior to any anniversary date of this Agreement of its desire to change in any way or terminate the Agreement, Such written notice shall be sent by registered or certified mail to the other party. In the event of notice by either party to change and/or terminate, and no agreement on such changes is reached prior to June 1, 2007, this Agreement shall be deemed to have terminated as of Midnight, May 31, 2007.
+37
+2002 - 2007 AGREEMENT BETWEEN BRIDGE, STRUCTURAL, REINFORCING & ORNAMENTAL IRON WORKERS LOCAL NO. 25 (RESTEEL)
+This Agreement has been agreed to by the parties effective June I, 2002.
+For and on behalf of IRON WORKERS’ LOCAL NO. 25:
+Frank D. Kavanaugh
+Patrick Gleason
+Jack O’Donnell
+Pat Buck
+Nick Bosak
+Zane Walker
+Ed Vallee
+Phillip Vaughn
+INTERNATIONAL ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING
+IRON WORKERS AFL-CIO, LOCAL NO. 25
+Frank D. Kavanaugh, Business Manager, ES. T.
+RESTEEL CONTRACTORS ASSOCIATION, INC.
+William Livingston, President
+Date: June 1, 2002
+38
+2002 - 2007
+AGREEMENT BETWEEN BRIDGE, STRUCTURAL, REINFORCING & ORNAMENTAL IRON WORKERS
+LOCAL No. 25 (RESTEEL)
+We, the undersigned, hereby agree to be bound by all the terms and conditions set forth in the foregoing agreement and to become a party thereto. It is also agreed by the undersigned Employer that any notice given by the Union to the Association pursuant to Article XXXIII of the Agreement shall be notice to the Employer and shall have the same legal force and effect as though it were served upon the Employer personally. Finally, the Employer agrees that, unless he notifies the Union to the contrary by registered mail at least one hundred and twenty (120) days prior to the termination date of this Agreement or any subsequent Agreement, the Employer will be bound by and adopt any agreement reached by the U nion and the Association during negotiations following the notice by the Union referred to in the preceding sentence.
+THIS AGREEMENT is made and entered into this____day
+of__________________________, 20_. by and between Iron Work-
+ers Local No. 25, 25150 Trans-X Drive, Novi, Michigan 48376.
+Attested to by _______________________________________
+For Iron Workers Local No. 25
+FOR THE CONTRACTOR:
+Company
+Company Address
+City	State & Zip Code
+Print Name of Company Officer	Title
+Sign Name of Company Officer
+Telephone No.	Fax No.
+Workers’ Compensation and Policy No.
+Name of Insurance Carrier
+Unemployment Compensation No.
+Stele License No,
+Federal I,D, No.
+39
+		
+	IRON WORKERS LOCAL 25	
+	2002-2007	
+		RESTEEL (ROD) CONTRACT		 J
+10
+'Fax	* l£WJ5,ira&5&	,
+«r.	•*,
+SETTLE
+l&laiclll
+l^3l.JiCHJ
+(ROD CONTRACT)
+1.	This is a settlement of the June 1, 2005 re-opener in the 2003-2007 Resteel Agreement between Iron Workers Local No. 25 (Union) and the Resteel Contractors Association, This settlement does not resolve the June lr 2006 re-opener in the 2003-2007 Resteel Agreement. This settlement was agreed to on June 10,2005,
+2.	Effective June 1,2005, there will be a $1.84 increase under the Rested Agreement which will be allocated to the Pension Fund.
+3.	Effective December 1,2005, there will be a $J8 increase under the Resteel Agreement which will be allocated to the Pension Fund.
+4,	Effective July 4,2005, Article H, Section 1, paragraph 3 of the Resteel Agreement will be modified to provide that: The first 2 hours of premium time shall be paid at time-and’One-half Monday through Friday and the first 10 hours on Saturday. All other overtime shall be paid at double time.
+5.	The $2,00 increase effective June 1,2005 under the GLFEA/AGC/Conveyor Manufacturers
+Agreement will be allocated to the Petition Fund,
+6,	.	The $2,00 increase effective June 1,2005 under the Riggers Agreement will be allocated to
+the Pension Fond.
+7.	The $1.65 increase effective April 1, 2005 under the Pre-Engineered Metal Building Agreement will be allocated to the Pension Fund.
+8.	Effective October 1, 2005, the Union will re-allocate $1.00 per hour from the Health &. Welfare Fund to the Pension Fund under the Rested Agreement, the GLFEA/AGC/Conveyor Manufacturers Agreement, the Riggers Agreement and the Pre-Engineered Metal Building Agreement.
+9.	The Union will continue in good faith its efforts to support all available and legally permissible Pension Plan modifications to stabilize the Pension Fund.
+10.	This Settlement Agreement is conditioned on the agreement of the employer associations party to the GUFEA/AGC/Coti veyore Manufacturers Agreement, the Riggers Agreement, and the Pre-Engineer Metal Building Agreement agreeing, by no later than June 24r 2005, to a December 1,2005 increase proportional to the December 1,2005 $.38 Increase under the F t Resteel Agreement Each such December 1,2005 increase will be allocated to the Pension Fund,
+Corrected
+6/15/05 4:30 p.m.
+Fax semt U; ; !Z4835436bb
+RLinioi nuxnibnt
+11.	This Settlement Agreement 1« conditioned on the approval of the Union’s members.
+
+Corrected
+6/15/05 4:30 p.m-
+2
+MEMORANDUM OF UNDERSTANDING
+This Memorandum of Understanding is made and entered into this At. day of by and between the Resteel Contractors Association, Inc. (hereinafter referred to as the “Association”) and Iron Workers Local Union No. 25 International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers, AFL-CIO (hereinafter referred to as the “Union”).
+WHEREAS, the parties wish to amend the language of Article V, Section 4 for the 2002 - 2007 contract to provide that retirees who return to work shall have their contributions to the Pension Fund paid to the Pension Fund and not the Individual Account Retirement Fund.
+NOW, THEREFORE, IT IS AGREED that Article V, Section 4 shall be amended and restated in its entirety as follows:
+Section 4.	Pension Fund. For each Employee covered by this Agreement, an Employer shall contribute to the “Iron Workers5 Local No.
+25 Pension Fund” an amount equal to the percentages as outlined in Article III. Notwithstanding- any ether-provkioR -in -this- agreement; eentributions payable to the-Pension-Fund on behalf of a Retiree who becomes reemployed-shall-be-paid into the Iron-Workers1-Local No. 25 Individual -Account -Retirement-Fund-r Title to all contributions paid into and/or due and owing the Fund shall be vested in and remain exclusively in the Trustees of the Fund. Contributions become vested plan assets at the time they become due an owing to the Fund.
+WHEREAS, the parties have been advised by the actuary for the Pension Fund that the Pension Fund is not adequately funded to meet future benefit obligations. The actuary has further recommended that the contributions to the Individual Account Retirement Fund be temporarily diverted to the Pension Fund to provide for the adequate funding of pension benefits. Pursuant to the recommendation of the Pension Fund’s actuary, the parties wish to amend the language of Article V, Section 5 for the 2002 -2007 contract to provide that contributions to the Individual Account Retirement Fund will be temporarily diverted to the Pension Fund to provide for the adequate funding of pension benefits.
+NOW, THEREFORE, IT IS AGREED that Article V, Section 5 shall be amended and restated in its entirety as follows:
+Section 5.	Individual Account Retirement Fund. For- each Employee covered by-this Agreement;-an Employer-shaU-contribute -to -the “Iron Workers- Local No. 25 Individual Account RetiremenfFund-an-amouRt equal to the percentages as outlmed-ift Article III-. -Title to all contributions paid-into and/or due-and owing the Fund, shall be vested-m-ond-remain exelusively-in-the Trustees of the Fundr Contributions become vested plan
+assets-at-the time they-become due and-owmg-te the Fund. Contributions to the. Individual Account Retirement Fund shall be temporarily suspended. JtisjiPtthe intent of the parties to this Agreement to terminate the Individual Account Retirement Fund, rather, it is the intent that the contributions to the Individual Account Retirement Fund be temporarily diverted to the Pension Fund until such time as the actuary for the Pension Fund certifies that the Pension Fund is sufficiently funded to meet benefit obligations. Furthermore, while this temporary suspension is in effect, the Board of Trustees are not authorized to terminate the Plan pursuant to Article XL Section 11.1 of the plan document. This temporary suspension of benefits shall have no effect on the administration or payment of plan benefits pursuant to the plan document.
+WHEREAS, the parties wish to amend the contribution rates set forth in Article III to reflect the wage and fringe benefit rates provided under Exhibit A to be effective October 1, 2003 through May 31,2004.
+NOW, THEREFORE, IT IS AGREED that Article III shall be amended and restated to reflect the wage and fringe benefit rates provided under Exhibit A to be effective October 1, 2003 through May 31, 2004.
+RESTEEL CONTRACTORS	IRON WORKERS LOCAL UNION NO.
+ASSOCIATION, INC.	25 INTERNATIONAL ASSOCIATION
+OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS, AFL-CIO
+W0301554
+2
+For 2005 there were 3 rate increases for each classification and all increases were allocated to the Pension Fund.
+These increases take effect:
+June 1,2005
+September 30,2005
+October 1,2005
+November 30,2005
+December 1,2005 - March 31,2006
+IRON WORKERS LOCAL UNION 25 REINFORCED IRON WORK
+RATES EFFECTIVE June 1, 2005 THROUGH Sept. 30,2005
+Effective: June 1, 2005
+Journeyman	Shift	First	Second	Third		Foreman	Shift	First	Second	Third
+Base Wage (T)	Rates	$25.55	$26.05	$26.30	Base Wage (T)	Rates	$26.55	$27.05	$27.30
+Vacation (T)	13.35%	3.41	3.48	3.51	Vacation (T)	13.35%	3.54	3.61	3.64
+Health & Welfare (F)	6.52	6.52	6.52	6.52	Health & Welfare (F)	6.52	6.52	6.52	6.52
+Pension (F)	40.16%	10.26	10.46	10.56	Pension (F)	40.16%	10.66	10.86	10.96
+A Gross Wage		$45.74	$46.51	$46.89	Gross Wage		$47.27	$48.04	$48.42
+Apprenticeship (F) ***		0.14	0.14	0.14	Apprenticeship(F) ***		0.14	0.14	0.14
+Advancement (F) ***		*0.12	*0.12	•0.12	Advancement (F) ***		*0.12	*0.12	*0.12
+Nat’l I.W. Appr Fund (F) ***		0.05	0.05	0.05	Nat’l I.W. Appr. Fund (F)	! **★	0.05	0.05	0.05
+l.l.l. (F) ***		0.02	0.02	0.02	l.l.l. (F) ***		0.02	0.02	0.02
+M.O.S.T. (F)***		0.12	0.12	0.12	M.O.S.T. (F) ***		0.12	0.12	0.12
+* Where the employer is precluded from making a contribution to the Industry Advancement and promotion Fund, a contribution of twelve cent ($.12) per hour shall be made to the jointly administered Manpower Optimization Stabilization and Training fund (M.O.S.T.)
+Article XXX, MESH AGREEMENT (ONLY), Wage and Fringe Benefits contributions.
+Contributions for work under the Mesh Agreement must be funded on a separate contribution form.
+Effective June 1, 2005 J umeyman	Shift	First	Second	Third		Foreman	Shift	First	Second	Third
+Base Wage (T)	Rates	$21.92	$22.42	$22.67	Base Wage (T)	Rate	$22.92	$23.42	$23.67
+Vacation (T)	12.68%	2.78	2.84	2.88	Vacation (T)	12.68%	2.91	2.97	3.00
+Health & Welfare (F)	6.52	6.52	6.52	6.52	Health & Welfare (F)	6.52	6.52	6.52	6.52
+Pension (F)	43.89%	9.62	9.84	9.95	Pension (F)	43.89%	10.06	10.28	1039
+A Gross Wage		$40.84	$41.62	$42.02	Gross Wage		$42.41	$43.19	$43.58
+A To be Computed at one - half hour increments at the applicable rate
+(T) - Taxable	(F) - Funded If you need forms please contact the Fund Office at (248) 347-3100
+*** These Funds are due and payable under all classifications for space consolidation they are only being listed once.
+7/8/2005
+LR: opeiu42afl-cio
+IRON WORKERS LOCAL UNION NO. 25 APPRENTICE RATE SCHEDULE EFFECTIVE 06/01/2005 THROUGH 09/30/2005 For Work Performed Under The Following contracts:
+Structural, Conveyor, Fence, Glazing, Reinforced, Rigging and Siding Decking ii I
+When Funding Health & Welfare and Pension contributions on your apprentices, please remit the same percentages as Indicated on the contribution form. Do Not use the Health & Welfare and Pension Percentages Listed Below. The Fund Office will make the proper allocation between the Health Fund and the Pension Fund for each apprentice after you have submitted your contributions. Any questions please call the Fund Office at: (248) 347-3100.
+1st Level - 50%			2nd Level - 55% Base Wage (T) Vacation (T) Health & Welfare Pension Gross	16.47% 43.41% 18.90% Package	$15.30 2.52 6.64 | 2.89 ; $ 27.35	: 3rd Level - 60% Base Wage (T) Vacation (T) Health & Welfare Pension Gross!	16.47% 39.79% 22.52% Package	$16.69 2.75 6.64 3.76 $29.84	4th Level • 65%		
+Base Wage (T) Vacation (T) Health & Welfare Pension Gross	16.47% 47.73% 14.59% Package	$13.91 2.30 6.64 2.03 $24.88							Base Wage (T) Vacation (T) Health & Welfare Pension Gross I	16.47% 36.73% 25.57% Package	$18.08 2.98 6.64 4.63 $32.33
+5th Level - 70%			6th Level - 75%		I I, I-	7th Level - 80%			8th Level - 85%		
+Base Wage (T)		$19.47	Base Wage (T)		$20.86 '■	Base Wage (T)		$22.25	Base Wage (T)		$23.64
+Vacation (T)	16.47%	3.21	Vacation (T)	16.47%	3.45	Vacation (T)	16.47%	3.66	Vacation (T)	16.47%	3.89
+Health & Welfare	34.11%	6.64	Health & Welfare	31.84%	6.64	Health & Welfare	29.85%	6.64	Health & Welfare	28.09%	6.64
+Pension	28.20%	5.49	Pension	30.46%	6.36 ;	Pension	32.46%	7.22	Pension	34.23%	8.09
+Gross Package		$34.81	Gross Package		$37.31 ;	Gross Package		$39.77	Gross Package		$42?26
+(T) - Taxable Apprenticeship ***	0.19
+Advancement ****	0.20
+Drug Testing ***	0.06
+Impact***	0.08
+Please be sure to acquire the proper Apprentice Contribution Form for funding their Benefits. (i.e.. - Structural, Conveyor, Fence, Glazing and Siding and Decking Apprentices - Use Form #3002, Rigging Apprentices - Use Form #2016 and Reinforced Apprentices - Use Form #4020)
+Pleas e be Advised: As with the Journeyman Structural rates *** All of these funds are due and payable for all apprentice classifications. For space consolidation they are only being listed once.
+*Where the employer is precluded from making a contribution to the Industry Advancement and Promotion Fund, an additional contribution of twenty cents ($.20) per hour shall be made to the jointly administered (Apprenticeship Fund)
+i'
+7/7/200!
+afl-cio
+IRON WORKERS LOCAL UNION 25 REINFORCED IRON WORK RATES EFFECTIVE October 1, 2005 THROUGH November 30, 2005
+Effective: October 1,2005
+Journeyman	Shift	First	Second	Third		Foreman	Shift	First	Second	Third
+Base Wage (T)	Rates	$25.55	$26.05	$26.30	Base Wage (T)	Rates	$26.55	$27.05	$27.30
+Vacation (T)	13.35%	3.41	3.48	3.51	Vacation (T)	13.35%	3.54	3.61	3.64
+Health & Welfare (F)	5.52	5.52	5.52	5.52	Health & Welfare (F)	5.52	5.52	5.52	5.52
+Pension (F)	43.80%	11.19	11.41	11.52	Pension (F)	43.80%	11.63	11.85	11.96
+A Gross Wage		$45.67	$46.46	$46.85	Gross Wage		$47.24	$48.03	$48.42
+Apprenticeship (F) ***		0.14	0.14	0.14	Apprenticeship(F) ***		0.14	0.14	0.14
+Advancement (F) ***		*0.12	*0.12	*0.12	Advancement (F) ***		*0.12	*0.12	*0.12
+Nari I.W. Appr Fund (F) ***		0.05	0.05	0.05	Nat’l I.W. Appr. Fund (F)	I***	0.05	0.05	0.05
+U.l. (F) ***		0.02	0.02	0.02	I.I.L(F) ***		0.02	0.02	0.02
+M.O.S.T. (F)***		0.12	0.12	0.12	M.O.S.T. (F) ***		0.12	0.12	0.12
+* Where the employer is precluded from making a contribution to the Industry Advancement and promotion Fund, a contribution of twelve cent ($.12) per hour shall be made to the jointly administered Manpower Optimization Stabilization and Training fund (M.O.S.T.)
+Article XXX, MESH AGREEMENT (ONLY), Wage and Fringe Benefits contributions.
+Contributions for work under the Mesh Agreement must be funded on a separate contribution form.
+Effective October 1,2005			Second	Third		Foreman	Shift	First	Second	Third
+Journeyman	Shift	First							
+Base Wage (T)	Rates	$21.92	$22.42	$22.67	Base Wage (T)	Rate	$22.92	$23.42	$23.67
+Vacation (T)	12.68%	2.78	2.84	2.88	Vacation (T)	12.68%	2.91	2.97	3.00
+Health & Welfare (F)	.5.52	5.52	5.52	5.52	Health & Welfare (F)	5.52	5.52	5.52	5.52
+Pension (F)	48.12%	10.55	10.79	10.91	Pension (F)	48.12%	11.03	11.27	11.39
+A Gross Wage		$40.77	$41.56	$41.97	Gross Wage		$42.38	$43.18	$43.58
+A To be Computed at one - half hour increments at the applicable rate
+(T) - Taxable	(F) - Funded If you need forms please contact the Fund Office at (248) 347-3100
+*** These Funds are due and payable under all classifications for space consolidation they are only being listed once.
+9/22/2005
+LR: opeiu42afl-cio
+i;
+IRON WORKERS LOCAL UNION NO1 25 APPRENTICE RATE SCHEDULE EFFECTIVE 10/01/2005 THROUGH 11/30/2005 For Work Performed Under The Following contracts:
+Structural, Conveyor, Fence, Glazing, Reinforced, Rigging and Siding Decking
+When Funding Health & Welfare and Pension contributions bn your apprentices, please remit the same percentages as Indicated on the contribution form. Do Not use the Health & Welfare and Pension Percentages Listed Below. The Fund Office will make the proper allocation between the Health Fund and the Pension Fund for each apprentice after you have submitted your contributions. Any questions please call the Fund Office at: (248) 347-3100.
+1 st Level - 50%			2nd Level ■ 55%			3rd Level - 60%			4th Level - 65%		
+Base Wage (T)		$13.91	Base Wage (T)		$15.30	Base Wage (T)		$16.69	Base Wage (T)		$18.08
+Vacation (T)	16.47%	2.30	Vacation (T)	16.47%	2.52	Vacation (T)	16.47%	2.75	Vacation (T)	16.47%	2.98
+Health & Welfare	40.55%	5.64	Health & Welfare	36.87%	5.64	Health & Welfare	33.80%	5.64	Health & Welfare	31.20%	5.64
+Pension	21.77%	3.03	Pension	25.44%	3.89	Pension	28.51%	4.76	Pension	31.10%	5.63
+Gross Package		$24.88	Gross Package		$ 27.35	Gross Package		$29.84	Gross Package		$32.33
+5th Level - 70%			6th Level - 75%			: 7th Level - 80%			8th Level - 85%		
+Base Wage (T)		$19.47	Base Wage (T)		$20.86	Base Wage (T)		$22.25	Base Wage (T)		$23.64
+Vacation (T)	16.47%	3.21	Vacation (T)	16.47%	3.45	1 Vacation (T)	16.47%	3.66	Vacation (T)	16.47%	3.89
+Health & Welfare	28.97%	5.64	Health & Welfare	27.04%	5.64	Health & Welfare	25.35%	5.64	Health & Welfare	23.86%	5.64
+Pension	33.33%	6.49	Pension	35.26%	7.36	Pension	36.96%	8.22	Pension	38.46%	9.09
+Gross Package		$34.81	Gross Package		$37.31	Gross Package		$39.77	Gross Package		$42.26
+(T) - Taxable
+Apprenticeship ***	0.19
+Advancement ****	0.20
+Drug Testing ***	0.06
+Impact***	0.08
+j
+Please be sure to acquire the proper Apprentice Contribution Form for funding their Benefits,
+(i.e.. - Structural, Conveyor, Fence, Glazing and Siding and Decking Apprentices - Use Form #3002, Rigging Apprentices - Use Form #2016 and Reinforced Apprentices - Use Form #4020)
+i,
+Please be Advised: As with the Journeyman Structural rates *** All of these funds are due and payable for all apprentice classifications. For space consolidation they are only being listed once.
+*Where the employer is precluded from making a contribution to the Industry Advancement and Promotion Fund, an additional contribution of twenty cents ($.20) per hour shall be made to the jointly administered (Apprenticeship Fund)
+9/13/2^
+i
+LGR:op
+•afl-cio
+DECEMBER 1,2005 - MARCH 31,2006 RATE SHEET
+RATE INCREASE (TO BE ALLOCATED TO THE PENSION FUND) FOR THE FOLLOWING CLASSIFICATION:
+REINFORCING (ROD) CONTRACT $ .38
+Rate sheet to follow at a later date

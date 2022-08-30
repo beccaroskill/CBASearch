@@ -1,0 +1,573 @@
+﻿0 -1 & (
+0<Q " oG>
+AGREEMENT . AND WORKING RULES
+Governing the
+ELECTRICAL INDUSTRY OF GREATER BOSTON
+Between
+ELECTRICAL WORKERS UNION LOCAL 103,1.B.E.W. OF GREATER BOSTON and
+ELECTRICAL CONTRACTORS ASSOCIATION OF GREATER BOSTON, INC. BOSTON CHAPTER, NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION
+SEPTEMBER 1, 2003 - AUGUST 31,2006
+TABLE OF CONTENTS
+Inside Construction Agreement
+	Section	Page
+Fundamental Principles		4
+Article 1		
+Effective Dates of Agreement	1.1	6
+Grievances-Disputes	1.4	7
+Article II Violation Clauses	2.1	7
+'This Agreement Shall Prevail" Clause	2.2	8
+Rendering Assistance Clause	2.3	8
+Job Access Clause	2.4	8
+Annulment & Subcontracting Clauses	2.5	8
+Article III Apprenticeship & Training	3.1	9
+Article IV National Electrical Benefit Fund	4.1	12
+Health &. Welfare	4.2	12
+Local 103 Pension Fund	4.3	12
+Deferred Income Fund	4.4	12
+Electrical Industry Labor Management Cooperation Trust (Equality Fund)	4.5	13
+Working Assessment	4.6	14
+National Electrical Industry Fund	4.7	14
+Administrative Maintenance Fund	4.8	14
+Collection of Delinquent Payments	4.9	15
+Credit Union Payroll Deduction	4.10	15
+COPE/PAC Voluntary Deduction	4.11	15
+Article V Referral Procedure	5.1	16
+Reverse Layoff	5.20	19
+Repeated Discharge	5.21	19
+Article VI Catastrophic Unemployment & Work Sharing	6.1	20
+Employer Qualifications	6.2	20
+Manual Work by Employer	6.3	20
+Favored Nations Clause	6.4	21
+Management's Rights Clause	6.5	21
+Work Preservation Clause	6.6	22
+Working Hours	6.7	22
+Overtime/Holidays Apprentice/Second Shift 	Wage Payments ~	„			6.8(a)	23 6.8(d)	23 6.9	24
+Shift Work	6.10	24
+Union Membership	6.11	25
+General Foreman	6.12	25
+Foreman Call By Name	6.12(a)	25
+Employee Recall	6.12(b)	25
+Foreman	6.13	25
+Steward	6.14	26
+Age Ratio Clause	6.15	26
+Material & Equipment Handling	6.16	26
+Island & Harbor Work	6.17	27
+Auto Expenses	6.18	27
+Employee Training	6.19	27
+Joint Safety Committee	6.20	27
+Energized Circuits - 440 Volts & Over	6.21	27
+Powder Actuated Tools	6.22	27
+Height Related Work	6.23	28
+Welder	6.24	28
+Shafts, Tunnels, Tunnel Jacking & Subways	6.25	28
+Work Standards Clause	6.26	29
+Business Manager - Owner Communication	6.27	29
+Employee's Tools & Responsibility	6.28	29
+Change Shack	6.29	30
+Installation & Fabrication	6.30	30
+Temporary Light & Power	6.31	30
+Atomic Energy	6.32	31
+Security Work	6.33	32
+Alternative Energy	6.34	32
+Non-Resident Workers	6.35	32
+Wages & Fringe Benefits	6.38(a)	33
+Apprentice Percentage Rates	6.38(d)	33
+Contributions	6.38(e)	34
+Deductions	6.38(f)	34
+Payroll Records Access	6.38(g)	34
+Article VII National Labor Management Cooperation Committee	7.1	35
+Article VIII
+Separability Clause
+Signature Page
+36
+37
+This Agreement consists of thirty-six (37} pages of text and Appendix "A" consisting of wages and benefits.
+INSIDE CONSTRUCTION AGREEMENT
+Agreement by and between the Electrical Contractors Association of Greater Boston, Inc., Boston Chapter, NECA, and Local Union No. 103 of the International Brotherhood of Electrical Workers, AFL-CIO-CLC.
+It shall apply to all firms who sign a Letter of Assent to be bound by this Agreement.
+As used hereinafter in this Agreement, the term "Chapter" shall mean the Electrical Contractors Association of Greater Boston, Inc., Boston Chapter of NECA, and the term "Union" shall mean Local Union No. 103, IBEW.
+The term "Employer” shall mean an individual firm who has been recognized by an Assent to this Agreement.
+FUNDAMENTAL PRINCIPLES
+This Agreement is based upon the following set of fundamental principles affirmed by the Parties hereto.
+1.	The vital interests of the Public and Employer in the electrical industry are inseparably bound together. All will benefit by a continuous peaceful operation of the industrial process.
+2.	The facilities of the electrical industry for service to the Public will be developed and enhanced by the recognition that the overlapping of the function of the various groups in the industry is wasteful and should be eliminated.
+3.	Close contact and a mutually sympathetic interest between Employee and Employer will develop a better working system which will tend constantly to stimulate production while improving the relationship between Employee, Employer and the Community.
+4.	Strikes and lockouts are detrimental to the interests alike of Employee, Employer and the Public and should be avoided.
+5.	Agreements or understandings which are designed to obstruct, directly or indirectly, the free development of trade, or to secure to special groups, special privileges and advantages, are subversive of the public interest and cancel the doctrine of equality of rights and opportunity and should be condemned.
+6.	The public interest is conserved, hazard to life and property is reduced and standards of work are improved by fixing an adequate minimum of qualifications in knowledge and experience as a requirement precedent to the right of an individual to engage in the electrical construction industry, and by the rigid inspection of electrical work, old and new.
+7.	Public welfare, as well as the interests of the trade, demands that electrical work be done by the electrical industry.
+4
+8.	Cooperation between Employee and Employer acquires constructive power as both Employees and Employers become more completely organized.
+9.	The right of Employees and Employers in local groups to establish local wage scales and local working rules is recognized.
+10.	Technological advances are in the interest of the industry and public welfare and shall be so encouraged.
+11.	Employment practices shall conform to all state and/or federal fair practice laws.
+12.	Whereas, the Joint Conference Committee of Greater Boston, comprised of Local Union 103,1.B.E.W., and Electrical Contractors Association of Greater Boston, Inc., Boston Chapter, NECA, Representatives are vitally concerned with safety and job site performance of all employees on construction projects; and,
+Whereas, the committee has studied the drug problems and recognizes that alcoholism, drug dependence and other medical/behavioral conditions are highly complex illnesses which normally can be successfully treated; and,
+Whereas, the committee also realizes the necessity of providing a safe and healthy work environment for all employees; and,
+Whereas, substance abuse alters acceptable behavior in the work place; and,
+Whereas, substance abusers cause accidents resulting in injury to themselves and fellow employees; and,
+Whereas, we realize that successful safety programs focus primarily on the accident prevention rather than the post-accident stage and that this same approach is essential in a drug program to identify drug users and initiate action before serious accidents occur; and,
+Whereas, employees' physical and mental health are integral parts of job safety and productivity; and,
+Whereas, abusers need and may want help; and
+Whereas, we are concerned that the purchaser of construction labor and services continue to receive products of the finest quality and economy; now,
+Therefore, be it resolved, that the Joint Conference Committee, as set forth in this Agreement, formulate and support a Substance Abuse and Assistance/Rehabilitation Program.
+The dangers and costs which alcohol and other chemical abuses can create in the electrical contracting industry in terms of safety and productivity are significant. The parties to this Agreement resolve to combat chemical abuse in any form and agree that to be effective, programs to eliminate substance impairment should contain a -strong rehabilitation component..The par.ties.recognize that the Employer at times must
+5
+adopt and implement a customer required drug and alcohol policy subject to all applicable laws and regulations, procedural safeguards, scientific principles, and legitimate interests of privacy and confidentiality. However, the Union reserves the right to negotiate regarding the terms of the Employer's policy before the policy is implemented by the Employer. When drug and alcohol testing is performed, all testing shall be conducted in accordance with the procedures outlined in the aforementioned policy.
+ARTICLE I EFFECTIVE DATES OF THE AGREEMENT
+1.1	This Agreement shall take effect September 1,2003, and shall remain in effect until August 31,2006, unless otherwise specifically provided for herein. It shall continue in effect from year to year thereafter from September 1 through August 31 each year, unless changed or terminated in the way later provided herein.
+1.2	(a) Either party or an Employer withdrawing representation from the Chapter or not represented by the Chapter, desiring to change or terminate this Agreement must provide written notification at least ninety (90) days prior to the expiration date of the Agreement or any anniversary date occurring thereafter.
+(b)	Whenever notice is given for change(s), the nature of the change(s) desired must be specified in the notice, or no later than the first negotiating meeting unless mutually agreed otherwise.
+(c)	The existing provisions of the Agreement, including this Article, shall remain in full force and effect until a conclusion is reached in the matter of the proposed change(s).
+(d)	In the event that either party, or an Employer withdrawing representation from the Chapter dr not represented by the Chapter, has given a timely notice of proposed change(s) and an agreement has not been reached by the expiration date or by any subsequent anniversary date to renew, modify or extend this Agreement or to submit the unresolved issues to the Council on Industrial Relations, either party, or such Employer, may serve the other a ten (10) day written notice terminating this Agreement. The terms and conditions of this Agreement shall remain in full force and effect until the expiration of the ten (10) day period.
+(e)	By mutual agreement only, the Chapter, or any Employer withdrawing representation from the Chapter or not represented by the Chapter may jointly, with the Union, submit the unresolved issues to the Council on Industrial Relations for the Electrical Contracting Industry for adjudication. Such unresolved issues shall be submitted no later than the next regular meeting of the Council following the expiration date of this Agreement or any subsequent anniversary date. The Council's decision shall be final and binding.
+(f)	When a case has been submitted to the Council, it shall be the responsibility of the negotiating committee to continue to meet weekly in an effort to reach a settlement on the local level prior to the meeting of the Council.
+6
+(g)	Notice of a desire to terminate this Agreement shall be handled in the same manner as a proposed change.
+1.3	This Agreement shall be subject to change or supplement at any time by mutual consent of the parties hereto. Any such change or supplement agreed upon shall be reduced to writing, signed by the parties hereto, and submitted to the International Office of the IBEW for approval, the same as this Agreement.
+GRIEVANCES - DISPUTES
+1.4	During the term of this Agreement, there shall be no stoppage of work either by strike or lockout because of any proposed change(s) in this Agreement or dispute over matters relating to this Agreement. All such matters must be handled as stated herein.
+1.5	There shall be a Labor-Management Committee of three (3) representing the Union and three (3) representing the Employers. It shall meet regularly at such stated times as it may decide. However, it shall also meet within forty-eight (48) hours when notice is given by either party. It shall select its own Chairman and Secretary. The Local Union shall select the Union representatives and the Chapter shall select the management representatives.
+1.6	All grievances or questions in dispute shall be adjusted by the duly authorized representatives of each of the parties to this Agreement. In the event that these two are unable to adjust any matter within forty-eight (48) hours, they shall refer the same to the Labor-Management Committee.
+1.7	All matters coming before the Labor-Management Committee shall be decided by majority vote. Four (4) members of the Committee, two (2) from each of the parties hereto, shall be a quorum for the transaction of business but each party shall have the right to cast the full vote of its membership and shall be counted as though all were present and voting.
+1.8	Should the Labor-Management Committee fail to agree or to adjust any matter, such shall then be referred to the Council on Industrial Relations for the Electrical Contracting Industry for adjudication. The Council's decisions shall be final and binding.
+1.9	When any matter in dispute has been referred to conciliation or arbitration for adjustment, the provisions and conditions prevailing prior to the time such matter arose shall not be changed or abrogated until agreement has been reached or a ruling has been made.
+ARTICLE II
+VIOLATION CLAUSES
+2.1	(a) The Employer shall not, directly or indirectly, induce, or attempt to induce, any Union Member to violate any contract or to disregard the rules and regulations of the Union.
+7
+(b) The Union shall not, directly or indirectly, induce, or attempt to induce, any member of the Association to violate any contract or to disregard its rules and regulations.
+"THIS AGREEMENT SHALL PREVAIL" CLAUSE
+2.2	If there is any contradiction between the rules and regulations of the Union and this Agreement, then this Agreement shall prevail.
+RENDERING ASSISTANCE CLAUSE
+2.3	(a) This Agreement does not deny the right of the Union, or its representatives, to render assistance to other labor organizations in a strike or workstoppage, duly authorized by the Union requesting assistance by removal of its members from jobs when necessary and when the Union or its proper representatives decide to do so. No removal shall take place until twenty-four (24) hours' notice is first given to the Employer involved.
+(b) When such a removal takes place, the Union, or its representatives, shall direct the employee on such job to carefully put away all tools, material, equipment or any other property of the Employer in a safe manner.
+JOB ACCESS CLAUSE
+2.4	The Business Manager of the Union and his/her Assistants shall be allowed access to any shop or job at any reasonable time where Employees covered under the terms of this Agreement are employed. This shall not be construed to authorize Union meetings at the job site.
+ANNULMENT AND SUBCONTRACTING CLAUSES
+2.5	(a) Local Union No. 103 is a part of the International Brotherhood of Electrical Workers, and any violation or annulment by an individual Employer of the approved Agreement of this or any other Local Union of the IBEW, other than violations of Section 2.5 (b) of this Article, will be sufficient cause for the cancellation of his Agreement by the Local Union, after finding has been made by the International President of the Union that such violation or annulment has occurred.
+(b)	The subletting, assigning or transferring by an individual Employer of any work in connection with electrical work to any person, firm or corporation not recognizing the IBEW or one of its Local Unions as the collective bargaining representative of its Employees on any electrical work in the jurisdiction of this or any other Local Union to be performed at the site of the construction, alteration, painting, or repair of a building, structure or other work, will be deemed a material breach of this Agreement.
+(c)	All charges of violations of Section 2.5 (b) shall be considered as a dispute and shall be processed in accordance with the provisions of this Agreement covering the procedure for the handling of grievances and the final and binding resolution of disputes.
+8
+ARTICLE III
+APPRENTICESHIP AND TRAINING
+3.1	There shall be a local Joint Apprenticeship and Training Committee (JATC) consisting of a total of members who shall also serve as trustees to the local apprenticeship and training trust. An equal number of three (3) members shall be appointed, in writing, by the local chapter of the National Electrical Contractors Association (NECA) and the local union of the International Brotherhood of Electrical Workers (IBEW).
+The local apprenticeship standards shall be in conformance with the national guideline standards and policies. All apprenticeship standards shall be registered with the NJATC and thereafter submitted to the appropriate registration agency.
+The JATC shall be responsible for the training of apprentices, journeymen, installers, technicians and all others (unindentured, intermediate journeymen, etc.)
+3.2	All JATC member appointments, reappointments and acceptance of appointments shall be in writing. Each member shall be appointed for a three (3) year term, unless being appointed for a lesser period of time to complete an unexpired term. The terms shall be staggered, with one (1) term from each side expiring each year. JATC members shall complete their appointed term unless removed for cause by the party they represent or they voluntarily sign. All vacancies shall be filled immediately.
+The JATC shall select from its membership, but not both from the same party, a Chairman and a Secretary who shall retain voting privileges. The JATC will maintain one (1) set of minutes for JATC committee meetings and a separate set of minutes for trust meetings.
+The JATC should meet on a monthly basis, and also upon the call of the Chairman.
+3.3	Any issue concerning an apprentice or an apprenticeship matter shall be referred to the JATC for its review, evaluation and resolve; as per standards and policies. If the JATC deadlocks on any issue, the matter shall be referred to the Labor-Management Committee for resolution as outlined in Article I, one of this agreement; except for trust fund matters, which shall be resolved as stipulated in the local trust instrument.
+3.4	There shall be only one (1) JATC and one (1) local apprenticeship and training trust. The JATC may, however, establish joint subcommittees to meet specific needs such as residential or telecommunications apprenticeship. The JATC may also establish a subcommittee to oversee an apprenticeship program within a specified area of the jurisdiction covered by this agreement.
+All subcommittee members shall be appointed, in writing, by the party they represent. A committee member may or may not be a member of the JATC.
+9
+3.5	The JATC may select and employ a part-time or a full-time Training Director and other support staff, as it deems necessary. In considering the qualifications, duties and responsibilities of the Training Director, the JATC should review the Training Director’s Job Description provided by the NJATC. All employees of the JATC shad serve at the pleasure and discretion of the JATC.
+3.6	To help ensure diversity of training, provide reasonable continuous employment opportunities and comply with apprenticeship rules and regulations, the JATC, as the program sponsor, shall have full authority for issuing all job-training assignments and for transferring apprentices from one employer to another. The employer shall cooperate in providing apprentices with needed work experiences. The local union referral office shall be notified, in writing, of all job-training assignments. If the employer is unable to provide reasonable continuous employment for apprentices, the JATC is to be so notified.
+3.7	All apprentices enter the program through the JATC as provided for in the registered apprenticeship standards and selection procedures.
+An apprentice may have their indenture canceled by the JATC at any time prior to completion as stipulated in the registered standards. Time worked and accumulated in apprenticeship shall not be considered for local union referral purposes until the apprentice has satisfied all conditions of apprenticeship. Individuals terminated from apprenticeship shall be assigned to any job in any classification, or participate in any related training, unless they are reinstated in apprenticeship as per the standards, or they qualify through means other than apprenticeship, at sometime in the future, but no sooner than two years after their class has completed apprenticeship, and they have gained related knowledge and job skills to warrant such classification.
+3.8	The JATC shall select and indenture a sufficient number of apprentices to meet local manpower needs. The JATC is authorized to indenture a total number of apprentices not to.exceed a ratio of one (1) apprentice to three (3) Journeymen Wiremen normally employed under this Agreement. The JATC shall indenture a larger number of apprentices provided the individuals are entering the program as the result of direct entry through organizing; as provided for in the registered apprenticeship standards.
+3.9	Though the JATC cannot guarantee any number of apprentices; if a qualified employer requests an apprentice, the JATC shall make reasonable efforts to honor the request. If the JATC is unable to fill the request within ten (10) working days, and the JATC has fewer indentured apprentices than permitted by its allowable ratio; they shall select and indenture the next available person from the active list of qualified applicants. An active list of qualified applicants shall be maintained by the JATC as per the selection procedures.
+3.10	To accommodate short-term needs when apprentices are unavailable, the JATC shall assign unindentured workers who meet the basic qualification for apprenticeship. Unindentured workers shall not remain employed if apprentices become available for OJT assignment. Unindentured workers shall be used to meet job - site-ratios on-wage-and-hour-(prevailing wage)-job-sites. —	_ -----------— - -
+10
+Before being employed, the unindentured person must sign a letter of understanding with the JATC and the employer - agreeing that they are not to accumulate more than two thousand (2,000) hours as an unindentured, that they are subject to replacement by indentured apprentices and that they are not to work on wage-and-hour (prevailing wage) job sites.
+Should an unindentured worker be selected for apprenticeship, the. JATC will determine, as provided for in the apprenticeship standards, if some credit for hours worked as an unindentured will be applied toward the minimum OJT hour of apprenticeship.
+The JATC may elect to offer voluntary related training to indentured; such as Math Review, English, Safety, Orientation/Awareness, Introduction to OSH A, First-Aid and CPR.
+3.11	The employer shall contribute to the local health and welfare plans and to the National Electrical Benefit Fund (NEBF) on behalf of all apprentices and unindentured. Contributions to other benefit plans may be addressed in other sections of this Agreement.
+3.12	Each job site shall be allowed a ratio of two (2) apprentices for every three (3) Journeymen Wiremen or fraction thereof as illustrated below.
+Number of Journeymen	Maximum Number of Apprentices/Unindentured
+1 to 3
+4 to 6
+7 to 9
+2
+4
+6
+97 to 99 etc.
+66 etc.
+The first person assigned to any job site shall be a Journeyman Wireman.
+A job site is considered to be the physical location where employees report for their work assignments. The employer's shop (service center) is considered to be a separate, single job site.
+Physical locations where workers report for work are each considered to be a single, separate job site.
+3.13	An apprentice is to be under the supervision of a Journeyman Wireman at all times. This does not imply that the apprentice must always be in-sight-of a Journeyman Wireman. Journeymen are required to constantly watch the apprentice. Supervision will not be of a nature that prevents the development of responsibility and initiative. Work may be laid out by the Employer's designated supervisor or journeyman based on their evaluation of the apprentice’s skills and ability to perform the job tasks. Apprentices shall be permitted to perform job tasks in order to develop job skills and trade competencies. Journeymen are permitted to leave the immediate work area without being accompanied by the apprentice.
+11
+3.14	Upon satisfactory completion of the apprenticeship, the JATC shall issue all graduating apprentices an appropriate diploma from the NJATC. The JATC may also require each apprentice to acquire any electrical license required for journeymen to work in the jurisdiction covered by this Agreement.
+3.15	The parties to this Agreement shall be bound by the Local Joint Apprenticeship and Training Trust Fund Agreement which shall conform to Section 302 of the Labor-Management Relations Act of 1947 as amended, ERISA and other applicable regulations.
+The Trustees authorized under this Trust Agreement are hereby empowered to determine the reasonable value of any facilities, materials or services furnished by either party. All funds shall be handled and disbursed in accordance with the Trust Agreement.
+3.16	All Employers subject to the terms of this Agreement shall contribute the amount of funds specified by the parties’ signatory to the local apprenticeship and training trust agreement. The current rate of contribution is 1.1 percent (1.1%). This sum shall be due the Trust Fund by the same date as is their payment to NEBF under the terms of the Restated Employees Benefit Agreement and Trust.
+ARTICLE IV NATIONAL ELECTRICAL BENEFIT FUND
+4.1	It is agreed that in accord with the Employees Benefit Agreement of the National Electrical Benefit Fund ("NEBF"), as entered into between the National Electrical Contractors Association and the International Brotherhood of Electrical Workers on September 3, 1946, as amended, and now delineated as the Restated Employees Benefit Agreement Trust, that unless authorized otherwise by the NEBF, the individual Employer will forward monthly to the NEBFs designated local collection agent, an amount equal to three percent (3%) of the gross monthly labor payroll paid to, or accrued by, the employees in this bargaining unit, and a completed payroll report prescribed by the NEBF. The payment shall be made by check or draft and shall constitute a debt due and owing to the NEBF on the last day of each calendar month, which may be recovered by suit initiated by the NEBF or its assignee. The payment and the payroll report shall be mailed to reach the office of the appropriate local collection agent not later than fifteen (15) calendar days following the end of each calendar month.
+The individual Employer accepts, and agrees to be bound by, the Restated Employees Benefit Agreement and Trust.
+An individual Employer who fails to remit as provided above shall be additionally subject to having this Agreement terminated upon seventy-two (72) hours’ notice, in writing, being served by the Union, provided the individual Employer fails to show satisfactory proof that the required payments have been paid to the appropriate local collection agent.
+The failure of an individual Employer to comply with the applicable provisions of the Restated Employees Benefit Agreement and Trust shall also constitute a breach of this Labor Agreement.
+12
+HEALTH & WELFARE FUND
+4.2	To finance the Local 103, IBEW, Health & Welfare Trust Fund, it is mutually agreed between the parties hereto that the Employer will contribute for each actual hour worked by the employees in the bargaining unit, represented by the Union under this Agreement the applicable sum designated in Appendix "A" of this Agreement.
+These contributions are to underwrite the cost of the Health & Welfare Fund established by a declaration of trust dated December 28, 1950.
+All payments are due monthly, not later than the fifteenth (15th) day of the month following the incurring of the obligation.
+LOCAL 103 PENSION FUND
+4.3	To finance the Local 103, IBEW, Pension Trust Fund, it is mutually agreed between the parties hereto that the Employer will contribute for each actual hour worked by the Employees in the bargaining unit, represented by the Union under this Agreement, the applicable sum designated in Appendix "A" of this Agreement.
+These contributions are to underwrite the cost of the Local 103, IBEW, Pension Trust Fund established by a declaration of trust dated August 1, 1958.
+All payments are due monthly, not later than the fifteenth (15th) of the month following the incurring of the obligation.
+DEFERRED INCOME FUND
+4.4	To establish a Deferred Income Fund under a declaration of trust, which became effective August 3, 1970, it is mutually agreed that the Employer will contribute for each actual hour worked by the employees in the bargaining unit, represented by the Union under this Agreement, the applicable sum designated in Appendix "A" of this Agreement.
+ELECTRICAL INDUSTRY LABOR MANAGEMENT COOPERATION TRUST (EQUALITY FUND)
+4.5	To establish an Equality Fund under a declaration of trust, which became effective September 1, 1997, it is mutually agreed that the Employer will contribute for each actual hour worked by the employees in the bargaining unit, represented by the Union under this Agreement, the applicable sum designated in Appendix "A" of this Agreement.
+13
+WORKING ASSESSMENT
+4.6	The Employer agrees to deduct upon receipt of a voluntary written authorization, the additional working dues from the pay of each IBEW member. The amount to be deducted shall be the amount specified in the approved Local Union By-Laws. Such amount shall be certified to the Employer by the Local Union upon request by the Employer.
+NATIONAL ELECTRICAL INDUSTRY FUND
+4.7	Each individual Employer shall contribute an amount not to exceed one percent nor less than .2 of one percent of the productive electrical payroll, as determined by each Local Chapter and approved by the Trustees, with the following exclusions:
+(1)	Twenty-five percent of all productive electrical payroll in excess of 75,000 man-hours paid for electrical work in any one (1) Chapter area during any one calendar year, but not exceeding 150,000 man-hours.
+(2)	One hundred percent of all productive electrical payroll in excess of 150,000 man-hours paid for electrical work in any one (1) Chapter area during any one (1) calendar year.
+(Productive electrical payroll is defined as the total wages [including overtime] paid with respect to all hours worked by all classes of electrical labor for which a rate is established in the prevailing labor area where the business is transacted.)
+Payment shall be forwarded monthly to the National Electrical Industry Fund in a form and manner prescribed by the Trustees no later than fifteen (15) calendar days following the last day of the month in which the labor was performed. Failure to do so will be considered a breach of this Agreement on the part of the individual Employer.
+ADMINISTRATIVE MAINTENANCE FUND
+4.8	Administrative Maintenance Fund (AMF) - Effective September 1, 1997 each employer signatory to this agreement shall contribute ten cents ($.10) per hour, up to a maximum of 150,000 man-hours per year, for all hours worked by all employees covered by this Agreement to the AMF.
+The fund shall be administered solely by the Boston Chapter, National Electrical Contractors Associations, Inc. and shall be utilized to pay for the Association's cost of the labor contract administration including negotiations, labor relations, disputes and grievance representation performed on behalf of the signatory employers. In addition, all other administrative functions required of the management such as service on all funds as required by federal law.
+The AMF contribution shall be submitted with all other benefits as delineated in the Labor Agreement by the fifteenth (15th) of the following month in which they are due to the administrator receiving funds. In the event any Employer is delinquent in submitting Jhe.required Administrqtive^AQintenarice Fund to the designated_____
+14
+administrator, the administrator shall have the authority to recover any funds, along with any attorney fees, court costs, interest at one percent (1%) per month and liquidated damages receiving such funds. The enforcement for the delinquent payments to the fund shall be the sole responsibility of the fund or the employer, not the Local Union. Theses monies shall not be used to the detriment of the i.B.E.W.
+COLLECTION OF DELINQUENT PAYMENTS
+4.9	The Electrical Construction Trust Funds as contained herein shall serve, under the direction of the Trustees or their designees, as collection agent for all jointly administered trust funds and any other funds assigned by the Joint Conference Committee. The individual Employer, as defined herein, shall be bound by rules and regulations promulgated by the Trustees of the Trust Funds as regards collection procedures, including but not limited to legal fees and interest charges.
+To the extent an individual Employer becomes delinquent, as determined by the Joint Conference Committee, in making trust fund payments as set forth in this Section, such Employer shall be required to furnish employment records as allowed under Section 6.37 (gj of this Agreement and a current list of projects to include the names and addresses of the project owner, construction manager, general contractor, or any other subcontractor for whom the Employer has performed work.
+The required report and payment by check shall be sent or delivered to the Electrical Construction Trust Funds office to arrive not later than the fifteenth (15th) of the month following the incurring of the obligation.
+CREDIT UNION PAYROLL DEDUCTION
+4.10	Upon written authorization for payroll deduction, the Employer will deduct the amount specified by Employees and forward such amount to the Delta-Wye Federal Credit Union bi-weekly on the fifteenth (15th) of the month and the thirtieth (30th) of the month following the incurring of obligation. The Credit Union will bear all costs in payroll deduction forms and such other material as they may require for such deductions. The parties will make reasonable attempt to implement weekly electronic deposits of credit union deductions on a voluntary basis.
+By the execution of the provisions of this Section, the Credit Union agrees to hold harmless the Boston Chapter, NECA, and its signatory Employers, collectively and severally, and the International Brotherhood of Electrical Workers and its Local, 103, for any and all liabilities that might occur in the enforcement of this provision or lack thereof or for any other reason in which the Parties lack right of control.
+COPE/PAC VOLUNTARY DEDUCTION
+4.11	Upon receipt of written voluntary authorization for payroll deduction, the Employer will deduct four ($.04) cents per hour from IBEW Employees and forward such amount to COPE/PAC headquarters. The Union will bear all costs in payroll deduction forms and such other material as they may require for such deductions.
+15
+ARTICLE V
+REFERRAL PROCEDURE
+5.1	In the interest of maintaining an efficient system of production in the industry, providing for an orderly procedure of referral of applicants for employment, preserving the legitimate interests of the Employees in their employment status within the area and of eliminating discrimination in employment because of membership or nonmembership in the Union, the parties hereto agree to the following systems of referral of applicants for employment:
+5.2	The Union shall be the sole and exclusive source of referral of applicants for employment.
+5.3	The Employer shall have the right to reject any applicant for employment.
+5.4	The Union shall select and refer applicants for employment without discrimination against such applicants by reason of membership or non-membership in the Union and such selection and referral shall not be affected in any way by rules, regulations, bylaws, constitutional provisions or any other aspect or obligation of Union membership policies or requirements. All such selection and referral shall be in accord with the following procedure:
+5.5	The Union shall maintain a register of applicants for employment established on the basis of the groups listed below. Each applicant for employment shall be registered in the highest priority Group for which he/she qualifies.
+JOURNEYMAN WIREMAN - JOURNEYMAN TECHNICIAN
+Group I: All applicants for employment who have four (4) or more years’ experience in the trade, are residents of the geographical area constituting the normal construction labor-market, have passed a journeyman wireman's examination given by a duly constituted Inside Construction Local Union of the IBEW or have been certified as a Journeyman Wireman by any Inside Joint Apprenticeship and Training Committee and who have been employed for a period of at least one year in the last four (4) years in the geographical area covered by this Collective Bargaining Agreement.
+Group II: All applicants for employment who have four (4) or more years' experience in the trade and who have passed a Journeyman Wireman's examination given by a duly constituted inside construction Local Union of the IBEW or have been certified as a Journeyman Wireman by any Inside Joint Apprenticeship and Training Committee.
+Group III: All applicants for employment who have two (2) or more years' experience in the trade, are residents of the geographical area constituting the normal construction labor market and who have been employed for at least six (6) months in the last three (3) years in the trade under this Collective Bargaining Agreement between the parties to this Agreement.
+Group IV: All applicants for employment who have worked at the trade for more than one (1) year.
+16
+5.6	If the registration list is exhausted and the Local Union is unable to refer applicants for employment to the Employer within forty-eight (48) hours from the time of receiving the Employer's request, Saturdays, Sundays, and holidays excepted, the Employer shall be free to secure applicants without using the referral procedure, but such applicants, if hired, shall have the status of "temporary employees."
+5.7	The Employer shall notify the Business Manager promptly of the names and Social Security numbers of such "temporary employees" and shall replace such "temporary employees" as soon as registered applicants for employment are available under the referral procedure.
+5.8 "Normal Construction Labor Market" is defined to mean the following geographical area plus the commuting distance adjacent thereto, which includes the
+area from which the normal labor supply is secured.		
+Acton	Groveland	North Andover
+Amesbury	Hamilton	North Reading
+Andover	Haverhill	Norwood
+Arlington	Hingham	Peabody
+Bedford	Holliston	Quincy
+Bellingham	Hull	Reading
+Belmont	Ipswich	Revere
+Beverly	Lawrence	Rowley
+Billerica	Lexington	Rockport
+Boston	Lincoln	Salem
+Boxborough	Littleton	Salisbury
+Boxford	Lowell	Saugus
+Braintree	Lynn	Sharon
+Brookline	Lynnfield	Sherborn
+Burlington	Malden	Somerville
+Cambridge	Manchester	Stoneham
+Canton	Marblehead	Sudbury
+Carlisle	Maynard	Swampscott
+Chelmsford	Medfield	Tewksbury
+Chelsea	Medford	Topsfield
+Cohasset	Medway	Tyngsboro
+Concord	Melrose	Wakefield
+Danvers	Merrimac	Walpole
+Dedham	Methuen	Waltham
+Dover	Middleton	Watertown
+Dracut	Millis	Wayland
+Dunstable	Milton	Wellesley
+Essex	Nahant	Wenham
+Everett	Natick	West Newbury
+Foxborough	Needham	Westford
+Framingham	Newbury	Weston
+Franklin	Newburyport	Westwood
+Georgetown	Newton	Weymouth
+Gloucester- -		—- -	- . Norfolk- — 		Wilmington- -
+17
+Winchester
+Winthrop
+Woburn
+Wrentham
+The above geographical area is agreed upon by the parties to include the area defined by the Secretary of Labor to be the appropriate prevailing wage areas under the Davis-Bacon Act to which the Agreement applies.
+5.9	"Resident" - means a person who has maintained his/her permanent home in the above defined geographical area for a period of not less than one [1) year or who having had a permanent home in this area, has temporarily left with the intention of returning to this area as his/her permanent home.
+5.10	"Examinations" - An "examination" shall include experience rating tests if such examination shall have been given prior to the date of this procedure, but from and after the date of this procedure, shall include only written and/or practical examinations given by a duly constituted Inside Construction Local Union of the I.B.E.W. Reasonable intervals of time for examinations are specified as ninety (90) days. An applicant shall be eligible for examination if he/she has four (4) years' experience in the trade.
+5.11	The Union shall maintain an "Out of Work List," which shall list the applicants within each Group in chronological order of the dates they register their availability for employment.
+5.12	An applicant who is hired and who receives, through no fault of his/her own, work of forty (40) hours or less shall, upon reregistration, be restored to his/her appropriate place within his/her Group.
+5.13	Employers shall advise the Business Manager of the Local Union of the number of applicants needed. The Business Manager shall refer applicants to the Employer by first referring applicants in GROUP I in the order of their place on the "Out of Work List" and then referring applicants in the same manner successively from the "Out of Work List" in GROUP II, then GROUP III, and then GROUP IV. Any applicant who is rejected by the Employer shall be returned to his/her appropriate place within his/her GROUP and shall be referred to other employment in accordance with the position of his/her GROUP and his/her place within his/her GROUP.
+5.14	The only exceptions, which shall be allowed in this order of referral, are as follows:
+(a)	When the Employer states bona fide requirements for special skills and abilities in his/her request for applicants, the Business Manager shall refer the first applicant on the register possessing such skills and abilities.
+(b)	The age ratio clause in the Agreement calls for the employment of an additional employee or employees on the basis of age. Therefore, the Business Manager shall refer the first applicant on the register satisfying the applicable age requirements provided, however, that all names in higher priority groups, if any, shall first be exhausted before such over-age reference can be made.
+18
+5.15	An Appeals Committee is hereby established composed of one member appointed by the Union, one member appointed by the Employer or by the Associations, as the case may be, and a Public Member appointed by both these members.
+5.16	It shall be the function of the Appeals Committee to consider any complaint of any Employee or applicant for employment arising out of the administration by the Local Union of Section 5.04 through 5.14 of this Agreement. The Appeals Committee shall have the power to make a final and binding decision on any such complaint, which shall be complied with by the Local Union. The Appeals Committee is authorized to issue procedural rules for the conduct of its business, but it is not authorized to add to, subtract from, or modify, any of the provisions of this Agreement and its decisions shall be in accord with this Agreement.
+5.17	A representative of the Employer or of the Association, as the case may be, designated to the Union in writing, shall be permitted to inspect the Referral Procedure records at any time during normal business hours.
+5.18	A copy of the Referral Procedure set forth in this Agreement shall be posted on the Bulletin Board in the offices of the Local Union and the offices of the Employers who are parties to this Agreement.
+5.19	Apprentices shall be hired and transferred in accordance with the apprenticeship provisions of the Agreement between the parties.
+REVERSE LAYOFF
+5.20	When making reductions in the number of employees due to lack of work, Employers shall use the following procedure:
+(a)	Temporary employees, if any are employed, shall be laid off first. Then Employees in GROUP IV shall be laid off next, if any are employed in this GROUP. Next to be laid off are Employees in GROUP III, if any are employed in this GROUP, then those in GROUP II, and then those in GROUP I.
+(b)	Paragraph (a) will not apply as long as the special skills requirement as provided for in Section 5.14 (a) is required.
+(c)	Supervisory Employees covered by the terms of this Agreement will be excluded from layoff as long as they remain in a supervisory capacity. When they are reduced to the status of Journeyman, they will be slotted in the appropriate GROUP in paragraph (a) above.
+19
+REPEATED DISCHARGE/FIRE
+5.21	An applicant who is discharged for cause three times within a twelve month period shall be referred to the neutral member of the Appeals Committee for a determination as to the applicant's continued eligibility for referral. The neutral member of the Appeals Committee shall within three business days, review the qualifications of the applicant and the reasons for the discharges. The neutral member of the Appeals Committee may, in his/her sole discretion: (1) require the applicant to obtain further training from the JATC before again being eligible for referral; (2) disqualify the applicant for referral for a period of four weeks, or longer, depending upon the seriousness of the conduct and/or repetitive nature of the conduct; (3) refer the applicant to an employee assistance program, if available, for evaluation and recommended action; or (4) restore the applicant to his/her appropriate place on the referral list.
+ARTICLE VI WORKING RULES CATASTROPHIC UNEMPLOYMENT AND WORK SHARING
+6.1	In the event that the referral records indicate more than 20 percent of the Journeymen in the bargaining unit become unemployed for a period of thirty (30) days, the Union shall so inform the Employer of such fact. Thereafter, the Employer shall utilize any of the following procedures so that available work may be shared equally among the members of the bargaining unit:
+1.	Reduce the number of hours per week of its general workforce to thirty-two (32) hours per week - four (4) consecutive days Monday through Friday; or
+2.	Rotate work weeks of its general workforce so that all employees covered by this Agreement will have four (4) weeks on, one (1) week off; or
+3.	Any other method mutually agreed upon between the Employer and the Union.
+When the Employer institutes one of the aforesaid methods of work sharing, it is understood that all employees covered by the terms of this Agreement will be included, unless excluded by the parties to this Agreement. The Catastrophic Unemployment and Work Sharing Program shall terminate upon mutual consent of the parties to this Agreement.
+EMPLOYER QUALIFICATIONS
+6.2	(a) Certain qualifications, knowledge, experience, and financial responsibility are required of everyone desiring to be an Employer in the electrical industry; therefore, an Employer who contracts for electrical work is a person, firm or corporation having these qualifications: maintaining a permanent place of business; maintaining a suitable financial status to meet payroll requirements and to meet compensation requirements for injured and other insurance or protective requirements; must possess a Master Electrician's License (Certificate A) as required by Chapter 141 of the GeneralLawsof 'Massachusetts, and employingnot less than one (T) Journeyman-----
+continuously.
+20
+(b)	An Employer shall maintain a permanent place of business, with a business telephone, open to the public during normal business hours. This place of business shall not be connected with or be part of a domestic establishment.
+(c)	Employers shall be required to carry insurance under the Worker’s Compensation Act.
+(d)	Employees employed under the terms of this Agreement, except those meeting the requirements of "Employers," as defined herein, shall not contract for any electrical work or engage in electrical work unless as an employee of an Employer signatory to this Agreement.
+(e)	New Employers, traveling contractors and signatory contractors, with a known pattern of tardiness with respect to Trust Fund Payments under Section 4.9, as determined by the Joint Conference Committee, shall be required to post sufficient and acceptable bond as determined by the Committee, to insure payments on all wages and benefits required by this Agreement.
+MANUAL WORK BY EMPLOYER
+6.3	No individual connected with the Employer or Contractor, as an officer, stockholder or owner, shall perform any manual work except that the owner may work with the tools in shops employing six (6) employees or less, provided he/she is or becomes a member in good standing of the Union in accordance with Section 6.11 of this Agreement, and approved by the duly authorized representatives of the parties to this Agreement. In the event that these two are unable to adjust the matter within fortyeight (48) hours they shall refer the same to the Joint Conference Committee.
+FAVORED NATIONS CLAUSE
+6.4	The Union agrees that if during the life of this Agreement, it grants to any other Employer in the Electrical Contracting Industry on work covered by this Agreement, any better terms or conditions than those set forth in this Agreement, such better terms or conditions shall be made available to the Employer under this Agreement and the Union shall immediately notify the Employer of any such concession.
+MANAGEMENT'S RIGHTS CLAUSE
+6.5	The Union understands the Employer is responsible to perform the work required by the owner. The Employer shall, therefore, have no restrictions, except those specifically provided for in the Collective Bargaining Agreement, in planning, directing, and controlling the operation of all his/her work, in deciding the number and kind of employees to properly perform the work, in hiring and laying off employees, in transferring employees from job to job within the Local Union's geographical jurisdiction, in determining the need and number as well as the person who will act as foreman, in requiring all employees to observe the Employer’s and/or owner's rules and regulations not inconsistent with this Agreement, in requiring all employees to observe all safety regulations, and discharging employees for proper cause.
+21
+WORK PRESERVATION CLAUSE
+6.6	In order to protect and preserve, for the Employees covered by this Agreement, all work heretofore performed by them, and in order to prevent any device or subterfuge to avoid the protection and preservation of such work, it is agreed as follows:
+If and when the Employer shall perform any on-site construction work of the type covered by this Agreement, under its own name or under the name of another, as a corporation, company, partnership, or any other business entity including a jointventure, wherein the Employer, through its officers, directors, partners or stockholders, exercises either directly or indirectly, management control or majority ownership, the terms and conditions of this Agreement shall be applicable to all such work. All charges or violations of this Section shall be considered as a dispute and shall be processed in accordance with the provisions of this Agreement covering the procedure for the handling of grievances and the final and binding resolution of disputes.
+(b)	As a remedy for violations of this section, the Labor-Management Committee, the Council on Industrial Relations for the Electrical Contracting Industry, and/or an independent arbitrator^ as the case may be, are empowered, in their discretion, at the request of the Union to require an Employer to (1) pay to affected employees covered.by this Agreement, including registered applicants for employment, the equivalent of wages lost by employees as a result of the violations; and (2) pay into the affected joint trust funds established under this Agreement any delinquent contributions to such funds which have resulted from the violations. Provision for this remedy herein does not made such remedy the exclusive remedy available to the Union for violation of this Section nor does it make the same or other remedies unavailable to the Union for violations of other Sections or other Articles of this Agreement.
+(c)	If, as a result of violations of this Section, it is necessary for the Union and/or the trustees of the joint trust funds to institute court action to enforce an award rendered in accordance with subsection (b) above, or to defend an action which seeks to vacate such award, the Employer shall pay any accountants' and attorneys’ fees incurred by the Union and/or fund trustees, plus cost of the litigation, which have resulted from the bringing of such court action.
+WORKING HOURS
+6.7 (a) Eight (8) hours shall be a day's work, Monday to Friday, inclusive.
+(b)	Five (5) days, forty (40) hours shall be the workweek.
+(c)	The hours shall be from 7:00 a.m. to 12:00 noon and from 12:30 p.m. to 3:30 p.m. When the starting and finishing hours are changed, according to Section 6.7 (d), the lunch break may also be changed, by mutual consent, to between 11:00 a.m. and 11:30 a.m. or 11:30 a.m. and 12:00 noon. N
+______(d)JThe_starting_and finishing hours may be changed to up to one (1) hour either way to adjust to weather, traffic, or job conditions uponwritten“consent of the Business-
+Manager of the Local Union.
+22
+(e)	When employees report to the job and do not start work due to weather conditions, lack of material or other such causes, they shall receive a minimum of two (2) hours' pay unless notified before 7:00 a.m. not to report to the job. This in no way limits the right of the Employer to transfer employees from one job to another under the terms of this Agreement. When not so notified, the employees shall remain on the job site for the two (2) hours unless transferred by the Employer.
+(f)	Employees shall notify the Employer or Employer’s designated representative at least one (1) hour before starting time if unable to report for work.
+(g)	All time, properly employed in traveling during regular working hours, shall be paid for at the single-time rate in accordance with the terms of this Agreement.
+(h)	Employees requested by the Employer to remain in the shop one (1) hour after the normal starting time shall receive not less than two (2) hours' pay.
+(I) In case of layoff, employees shall be paid in full, receive their referral slip and released one {1) hour in advance of the regular quitting time.
+(j) A coffee break, not to exceed fifteen (15) minutes, approximately midway between the starting time and lunch and approximately midway between completion of lunch and quitting time shall be allowed with the understanding that only those designated by the Employer or his/her agent shall be allowed to go for refreshments and all other employees shall not leave his/her work place. The break shall start when the coffee or refreshments are brought to his/her work place. In the event overtime is worked, an additional fifteen (15) minute coffee break shall be allowed for any day in excess of ten (10) hours.
+OVERTIME/HOLIDAYS
+6.8 (a) All work performed outside the stated hours, and on Saturdays, Sundays, New Year's Day, Washington's Birthday, Patriot's Day, Memorial Day, Fourth of July, Labor Day, Columbus Day, Veteran's Day, Thanksgiving Day, and Christmas Day, or the day celebrated for any of these, or any day determined by the Parties to this Agreement, shall be paid for at the rate of double time except the following:
+All overtime on electrical jobs for maintenance, repairs, remodeling and alterations, and temporary wiring shall be at the time and one-half (1-1/2) rate, except for Sundays and legal holidays as listed above.
+(b)	Employees working on the job shall be given preference on overtime work and shall not be replaced by employees from other jobs. All overtime work shall be divided equally, as far as practical.
+(c)	Emergency calls to an employee's home require a minimum of four (4) hours' pay in accordance with the terms of this Agreement, the time to start when called.
+APPRENTICE/SECOND SHIR
+- -	6.8 (d) When apprentices-are employed on jobs-where shifts are.required.they_
+shall not be assigned to second shift work if it effects their ability to attend school.
+23
+WAGE PAYMENTS
+6.9	(a) All employees shall be paid in cash or check at the option of the Employer; in no case shall more than three (3) days' pay be withheld.
+(b)	Any Employer paying wages to an employee by check or draft shall provide facilities for such employee for the cashing of such check or draft at a bank or elsewhere without charge by deductions from the amount thereof.
+(c)	When employees are not paid during working hours on the job, they shall report to the shop at the regular quitting time for their wages.
+SHIFTWORK
+6.10	When so elected by the contractor, multiple shifts of eight (8) hours for at least five (5) days' duration may be worked. When two (2) or three (3) shifts are worked:
+The first shift (day shift) shall consist of eight (8) consecutive hours worked between the hours of 8:00 a.m. and 4:30 p.m. Workers on the day shift shall be paid at the regular hourly rate of pay for hours worked.
+The second shift (swing shift) shall be worked between the hours of 4:30 p.m. and 1:00 a.m. Workers on the "swing shift" shall receive eight (8) hours' pay at the regular hourly rate plus 17.3 percent for all hours worked.
+The third shift (graveyard shift) shall consist of eight (8) consecutive hours worked between the hours of 12:30 a.m. and 9:00 a.m. workers on the "graveyard shift" shall be paid at the regular hourly rate plus 31.4 percent for all hours worked.
+The employer shall be permitted to adjust the starting hours of the shift up to one (1) hour in order to meet the needs of the customer.
+If the parties to the agreement mutually agree, the shift week may commence with the third shift (graveyard shift) at 12:30 a.m. Monday to coordinate the work with the customer’s work schedule. However, any such adjustment shall last for at least a five (5) consecutive day duration unless mutually changed by the parties to this agreement.
+An unpaid lunch period of thirty (30) minutes shall be allowed on each shift.
+All overtime work required before the established start time and after the completion of eight (8) hours of any shift shall be paid at one and one-half times the "shift" hourly rate.
+There shall be no pyramiding of overtime rates and double the straight time rate shall be the maximum compensation for any hour worked. There shall be no requirement for a day shift when either the second or third shift is worked.
+24
+UNION MEMBERSHIP
+6.11	All employees covered by this Agreement who ore members of the Union on the effective date of this Agreement shall, as a condition of employment, maintain their membership in the Union during the term of this Agreement, and all employees who become members of the Union shall, as a condition of employment, maintain their membership in the Union during the term of this Agreement from and after the thirty-first (31st) day following their employment or the effective date of this Agreement.
+GENERAL FOREMAN
+6.12	General Foreman is a person who has passed an approved industry course within the last three (3) years and in charge of a construction project where twenty (20) or more journeymen and apprentices are employed, or in charge of more than one (1) job, each of which has a Foreman in charge. He/She shall be responsible to his/her
+Employer.
+FOREMAN CALL BY NAME
+6.12	(a) All Foremen, including General Foremen, shall be selected by and be the agent of Employer. The Employer will be allowed to request Foremen by name from the "Out of Work List" provided the employee has registered on the "Out of Work List" for a minimum of ninety (90) calendar days. The employee requested must remain in the capacity of Foreman for a minimum of 1,000 hours or until he has received a reduction in force. After 1,000 hours of employment, the Employer may exercise his discretion as to whether he desires to retain the employee as a Foreman or as a Journeyman.
+EMPLOYEE RECALL
+6.12	(b) The Employer shall be allowed to recall for employment any former employee within ninety 90 calendar days of said employee's lay-off provided that the Employer has not hired any additional manpower during the recall period, unless mutually agreed to by the parties to this Agreement. Said employee shall not be placed on or be eligible for recall for a period of twelve (12) months from the date of recall. The Employer agrees not to utilize any reduced workweek, workday or furlough program except under the terms of this paragraph or as mutually agreed to by the parties to this Agreement.
+FOREMAN
+6.13	(a) A Foreman is a person who has passed an approved industry course within the last three (3) years, or scheduled to attend an approved industry course, and in charge of five (5) or more journeymen and apprentices, including himself, on one active job. He/She shall be responsible to the Employer for the job placed in his/her charge. He/She shall receive orders from the General Foreman, Superintendent or Employer and shall have the direction of the employees under him/her.
+(b)	When there are nine (9) employees or less under his/her direction, including himself, the foreman shall be permitted to work with the tools.____
+25
+(c)	Where a Foreman is not required under these Rules, the Employer shall designate on each job a journeyman who shall be responsible for and be in charge of the job.
+(d)	All Foremen/General Foremen who have completed the approved three-day course, and hold completion certificates, shall update each three-year cycle with an industry approved one-day update course as per Section 6.19.
+(e)	Foremen/General Foremen certificates may be suspended or revoked by a majority vote of the Joint Conference Committee for inappropriate conduct.
+STEWARD
+6.14	(a) The Business Manager of the Union may appoint a Steward regardless of his position on the unemployment list on any job when he/she deems it necessary to protect the interest of the Union and the Employer. When hiring, such Steward shall be the next person placed on the job following written notification to the Employer. Such Steward shall not be terminated without first meeting with the Business Manager of the Union. The Steward shall be a working journeyman, except when actually performing his/her duties as Steward. The Business Manager shall inform the Employer when a Steward is appointed. Stewards shall complete an industry approved course.
+(b) Steward certificates may be suspended or revoked by a majority vote of the Joint Conference Committee for inappropriate conduct.
+AGE RATIO CLAUSE
+6.15	On all jobs requiring five (5} or more journeymen, at least every fifth (Sth) journeyman, if available, shall be fifty (50) years of age or older.
+MATERIAL AND EQUIPMENT HANDLING
+6.16	(a) Electrical materials and apparatus shall be handled from the building line to its permanent location, erected and connected by employees employed under the terms of this Agreement, in accordance with International Agreements and in accordance with Chapter 141 of the General Laws of Massachusetts.
+This paragraph shall not apply to persons making small deliveries to a single destination on the job site. These deliveries shall not be more than can be normally carried on a public conveyance.
+(b) No employees shall use his/her automobile, motorcycle or other vehicle for the transportation of material that could not normally be carried in a public conveyance.
+26
+ISLAND AND HARBOR WORK
+6.17	Employees working on the islands in the Harbor shall be paid from the time of taking the boat to the time of arriving back. In no case shall an employee receive less than one (1) day's pay. All employees shall be reimbursed for actual expenses incurred if applicable, for travel to and from such islands, plus parking fees.
+AUTO EXPENSES
+6.18	Employees who are transferred from one job to another during working hours are to be paid according to present IRS regulations, which will be updated annually to concur with IRS allowances during the life of this Agreement, plus tolls and parking fees for the use of their cars.
+EMPLOYEE TRAINING
+6.19	Employees who are required to have training as a requirement of law or this agreement shall be trained during normal work hours and be paid in accordance with wage and fringe benefits provisions of this Agreement and shall be in compliance with the applicable rate; should the training be conducted after normal work hours, Monday through Friday or on Saturday, then the rate of pay shall be time and one half the applicable base rate of pay excluding all fringe benefits. Apprentice training, as well as journeyman training skill and code update classes, shall be excluded.
+JOINT SAFETY COMMITTEE
+6.20	It is the Employer's exclusive responsibility to insure the safety of its employees and their compliance with its safety rules and standards.
+All jobs should make an effort to have a weekly safety meeting of not more than ten (10) minutes in duration and the records shall be kept by the Foreman or Journeyman in charge.
+The Employer shall implement a safety program, as required by OSHA, equivalent to the NECA Safety Program, and which shall include distribution of the NECA/IBEW/OSHA Digest (Index No. 5044) to employees and the Business Manager of Local 103.IBEW.
+ENERGIZED CIRCUITS - 440 VOLTS AND OVER
+6.21	On all energized circuits or equipment carrying 440 volts or over, as a safety measure, two (2) or more journeymen must work together. All standard safety laws shall be complied with on jobs where employees employed under the terms of this Agreement are required to work.
+POWDER ACTUATED TOOLS
+6.22	When employee(s) are required by the Employer to use Powder Actuated Tools, such employee(s) shall be properly certified.
+27
+HEIGHT RELATED WORK
+6.23	On jobs where employees are required to work on bosun chairs, swing scaffolds, trusses, JLG's, articulating boom lifts, electric articulating boom lifts, and telescopic boom lifts, whose platforms are more than forty (40) feet in the air, and all work in or on stacks and towers above forty (40) feet in the air, employees shall receive 7.5 percent, (adjusted to the nearest five ($0.5) cents) per hour more than the straight-time regular rate for Journeymen, unless a substantial staging is provided so that the risk is no greater than normal.
+This rule does not apply to bucket trucks, scissor lifts, upper floors of buildings, protected catwalks or railed-in sections of permanent structures.
+WELDER
+6.24	Any employee who is required to do certified welding and is rightly certified as a welder by the Employer, or his/her designee, will be paid five percent (5%) per hour above the Journeyman's rate of pay, adjusted to the nearest five cents ($.05). This section excludes tack welding, stud welding, and all non-certified welding.
+SHAFTS, TUNNELS, TUNNEL JACKING & SUBWAYS
+6.25	(a) Hours of work per shift shall conform to Section 6.7 and 6.8 of this Agreement and all applicable State and Federal rules and regulations for Tunnels, Tunnel Jacking, Shafts, and Subways, and for work under compressed air. However, not less than eight (8) hours* pay each day shall be paid.
+All overtime work after the regular shift shall be at the double time rate, except when shift work for Shafts, Tunnels, Tunnel Jacking and Subways is scheduled on four (4) consecutive Saturdays, the rate shall be time and one-half (1-1/2). Sundays and holidays shall be at the double-time rate.
+If an employee is called in for emergency work or extra duty, he/she shall be paid no less than a day's pay for the work.
+(b) 1. Alt employees assigned to Shaft, Tunnel, Tunnel Jacking or Subway jobs or projects shall receive 10 percent (10%) per hour above the applicable Journeyman rate as established in this Collective Bargaining Agreement for all hours worked, adjusted to the nearest five cents ($.05). This rate shall apply to all work performed in conjunction with the operation and construction of a Shaft, Tunnel, Tunnel Jacking or Subway job or project.
+2.	There shall be a Journeyman Wireman topside at all times.
+3.	Where a heading or tunnel is 1,500 feet or more long, it shall require two (2) Journeymen Wiremen to work in pairs at all times.
+4.	Journeymen Wiremen will receive a sixteen (16) hour break before shifts or shall be paid at the rate of double-time for working such additional shift.
+SrEmployer shall provide all workers working under this section with a change-
+room, including showers, sinks, toilets and at least two lockers per worker.
+28
+6.	Two Journeymen to work in pairs on all tunnel boring machines and concrete equipment in the tunnel.
+(c)	1. Regular shifts in atmosphere of compressed air may be set up to meet job requirements in the following manner: five (5) consecutive days, Monday through Friday, eight (8) hours per day shall constitute a shift.
+2.	The rate of pay for Journeymen working under compressed air in excess of five (5) pounds above normal atmospheric pressure shall be time and one-half-(1-1/2).
+3.	If an employee works one (1) hour under pressure, he/she shall be paid the same rate for the remainder of the shift.
+(d)	This section does not apply to existing subways, subway stations, or jobs using an open-cut method.
+WORK STANDARDS CLAUSE
+6.2	6 (a) A Journeyman shall be required to make any necessary corrections in work when so decided by the Business Manager, for which he/she is responsible, on his/her own time during the regular working hours.
+(b)	Work Standards: The Union agrees that it will not limit the amount of work that may be performed within a stated time by any employee nor shall the Employer designate an amount of work for any employee which must be performed within a stated time.
+(c)	Employees shall install all electrical work in accordance with municipal rules and code requirements, Massachusetts Electrical Code, and the contract specifications, in a safe and workmanlike manner.
+. BUSINESS MANAGER - OWNER COMMUNICATION
+6.27	Any communication from the Business Manager or Assistant Business Managers of the Union to the Employees on the job site affecting the interest of the Employer shall be channeled through the Employer or a representative of the Employer designated by the Employer.
+EMPLOYEE'S TOOLS AND RESPONSIBILITY
+6.28	(a) Employees employed under the terms of this Agreement shall provide a suitable toolbox containing the following tools:
+Knife
+Tape Measure
+Two (2) Pair Adjustable Pliers
+9" Lineman Pliers
+Diagonal Pliers
+Needle Nose Pliers
+Crescent Wrench
+3/8" - 9/16” Open End Wrenches
+Hacksaw
+Allen Wrenches to 3/8" Nut Drivers to V?"
+Pencil Awl Plumb Bob Claw Hammer Center Punch Voltage Tester Flashlight Square Small File" Tool Pouch Keyhole Saw
+29
+Six (6) Screwdrivers Torpedo Level Tin Snips
+Top Wrenches
+The Employer shall be responsible for the replacement of employee's tools lost or damaged while on the job site due to fire or theft during and after work hours, within five (5) days, upon receipt of a written, approved claim form under the following terms and conditions:
+(b) 1. The liability of the Employer shall be limited to the tools listed above, less the first ten dollars ($10). This amount will be the responsibility of the employee.
+2.	The Employer shall provide a suitable locker for the protection of all tools and clothing.
+3.	Foremen shall be responsible for making sure that all employees have a complete kit of tools on the job site as listed in this Agreement.
+4.	The Employer shall have the right to reject any employee not having a complete set of tools on the job site.
+5.	The Employer shall replace all tools with Union-made and American-made tools. Every reasonable effort will be taken to replace tools by brand names of comparable quality.
+CHANGE SHACK
+6.29	The Employer shall furnish a shack, trailer, room or arrange for similar location that has heat and light for the storage of tools, clothes and a place to eat lunch on all jobs exposed to the elements; unless mutually agreed that such a facility is not practical.
+INSTALLATION & FABRICATION
+6.30	(a) The work referred to in these working rules consists of the fabrication and installation of electrical distribution systems for power, light, heat and communications and the installation of all devices which by law are required to be installed by licensed electricians including the installations of such devices in the stock forms in which they are available from suppliers.
+(b)	The policy of the Union is to promote the use of materials and equipment manufactured, processed or repaired under economically sound wages, hours and working conditions by fellow members of the IBEW.
+(c)	All cutting and channeling for the installation of electrical equipment is specifically a part of the electrical work of installing distribution systems.
+TEMPORARY LIGHT AND POWER
+6.31 The following conditions pertaining to temporary light and/or power are the - - work of the-electrician-and shall be strictly adhered to: - -	-------------------
+30
+1.	The installing, maintaining, connecting, and shifting or repairing of all wiring for temporary lighting and power and the maintenance of pumps, fans, electrical welding apparatus, stress relief apparatus, and blowers and all other electrical equipment on all construction projects, in new buildings in the course of construction, older buildings, undergoing alterations, subways, bridges, roadways, and railways shall be performed by employees under the terms of this Agreement who are employed by a recognized Electrical Contractor. It is agreed that trailer connections or extension lights shall consist of a socket, attachment plug and not more than fifty (50) feet of flexible wire. Such extension lights shall be made up and repaired by employees under the terms of this Agreement but may be placed in various sockets or receptacles by the trades using them. This applies to either lighting or power appliances.
+2.	When an electrical contract has been signed by an Electrical Contractor, said Contractor shall maintain the temporary light and power system on site with employees employed under the terms of this Agreement.
+3.	When temporary lights are installed in stairways, hallways, for gauge lights, watchman's lights or job shack lights and are used for safety purposes only, are properly protected with guards and on circuits separate from other temporary lighting, no maintenance will be necessary.
+4.	All overtime on temporary lights and power shall be equitably allotted to employees employed under the terms of this Agreement working on the job.
+ATOMIC ENERGY
+6.	32 (a) Employers contemplating doing work in the so-called "Hot" areas of the atomic laboratories, atomic plants, or on the premises of anyone engaged in handling or storing of radioactive materials shall inform, and receive permission from the Union before sending into such "Hot" areas.
+(b)	Unless a responsible approved government authority provides protection where employees are exposed to radioactive materials and/or radiation in excess of 1 /10 of the maximum permissible limits (MPL) as established by the National Commission on Radiation Protection, or Title 10, Part 20 CRF Atomic Energy Commission, the Employer shall employ a qualified radiation monitor journeyman. Such radiation monitors shall determine the location of the hazardous zones and shall be responsible for the radiation hazard therein. He/She shall maintain permanent and accurate time checks, records and pertinent data on all employees entering or leaving such zones, including radiation dose rates to all personnel going into or emerging from radiation zones. He/She shall be in charge of any decontamination of personnel, their tools, materials or equipment. The monitors shall have the authority to stop any employee(s) who is not properly equipped or authorized from entering any radiation zone.
+He/She shall record all surveys and data and report to his/her supervisor and the Union. It is agreed that before any such work is started a proper measurement of the amount of radioactivity present shall be made by a radioaction monitor journeyman. Radiation measurements shall be taken and a proper analysis made before the work is started and at proper intervals during the progress of the job. These tests shall meet all the standards set by municipal, state, federal and other codes in the area for protection of personnel. Physical checkups, including blood count, shall be made avqilabJeAo_Q1^02PlQy®es_engaged in this ty pe of work before parting and at the completion of the job. These examinations are to be made by a qualified graduate” physician.
+31
+(c)	Proper protective clothing (Anti-C) and radiation protective equipment shall be furnished by the Employer.
+(d)	If an employee reaches his/her maximum allowable exposure in any one quarter (as allowed in applicable government regulations) he/she shall be offered employment in a non-radiation area for the remainder of said quarter or the duration of job, whichever is longer.
+(e)	If an employee is terminated because he/she received his/her maximum allowable radiation exposure as set by the applicable government regulation, he/she shall be paid for the work lost for the duration of the job, providing the worker cannot find or be furnished with other employment.
+(f)	The industry shall provide the necessary educational courses to qualify journeymen as radiation monitors.
+(g)	The Employer shall furnish each employee and the Local Union with a report of the employee’s radiation exposure upon termination of employment or when a request is received from an Employee or the Local Union.
+(h)	The Union and the Employer agree to adopt those standards now included in the OSHA legislation and those that shall subsequently be added to the Act.
+SECURITY WORK
+6.33	The installation of pipe, wire and mounting of field devices for security systems installed in new buildings or projects that are mutually agreed, prior to bidding, to be under Building Trades control, and are bid under the base bid, shall be done under the wages and fringe benefits set forth in this Agreement.
+ALTERNATIVE ENERGY
+6.34	This Agreement shall govern the performance of the following jobs by the Employer and its employees: All electrical work covered under the terms of this Agreement for power generation systems, including the installation, operation, inspections, maintenance, repair, and service of these alternative energy sources including, but not limited to solar, photovoltaics, geothermal wind, hydro, tidal, or any primary source of power generation or distribution.
+NON-RESIDENT WORKERS
+6.35	An employer signatory to a collective bargaining agreement or to a letter of assent to an agreement with another IBEW Local Union, who signs an assent to this Agreement, may bring up to four bargaining unit employees employed in that Local Union’s jurisdiction into this Local's jurisdiction and up to two bargaining unit employees per job from that Local’s jurisdiction to this Local’s jurisdiction for specialty or service and maintenance work. All charges of violations of this section shall be considered as a dispute and shall be processed in accordance with the provisions of this agreement for the handling of grievances with the exception that any decision of a local labormanagement committee that may be contrary to the intent of the parties to the National Agreement on Employee Portability, upon recommendation of either or both the appropriate IBEWInternational Vice President orNECA Regional Executive Director, ■ -is subject to review, modification, or rescission by the Council on Industrial Relations.
+32
+6.36	The Union recognizes its responsibility to police its jurisdiction so that those Employers signatory to this Agreement are able to compete in a fair competitive market. The Employer recognizes its responsibility to assist the Union in this endeavor. Therefore, the Employers agree to notify the Chapter Manager of all construction projects awarded to them. The Chapter Manager shall furnish such information to the Business Manager.
+6.37	Any violation of the terms and conditions of this Agreement and Working Rules by any individual Employer shall be sufficient cause to declare the individual Employer not fair to the Union.
+WAGES AND FRINGE BENEFITS
+6.38	(a) The hourly wages for Journeyman, Foreman, General Foreman, and Apprentices, within the bargaining unit set forth in this Agreement, for the period from September 1,2003, through August 31, 2006, is as set forth in Appendix "A," which is made part of this Agreement by reference. Increments may vary depending on any allocation to fringe benefits, see 6.38(e).
+(b)	The Foreman's rate of pay shall be ten percent (10%) above the Journeyman's rate of pay, and adjusted to the nearest five cents ($.05).
+(c)	The General Foreman's rate of pay shall be twenty percent (20%) above the Journeymen's rate of pay, and adjusted to the nearest five cents ($.05).
+(d)	Apprentice rates shall be set at a percentage of the Journeyman rate as follows, and adjusted to the nearest five cents ($.05).
+UNIFORM PERCENTAGE FOR APPRENTICES
+For Apprentices Starting before 2003			For Apprentices Starting in 2003 and thereafter		
+A.	1st 1000 Hours	30%			
+B.	2nd 1000 Hours	35%	A.	1 st 1000 Hours	40%
+C.	1st 1000 Hours	40%	B.	2nd 1000 Hours	40%
+D.	2nd 1000 Hours	45%	C.	1st 1000 Hours	45%
+E.	3rd 1000 Hours	50%	D.	2nd 1000 Hours	45%
+F.	4th 1000 Hours	55%	E.	3rd 1000 Hours	50%
+G.	5th 1000 Hours	65%	F.	4th 1000 Hours	55%
+H.	6th 1000 Hours	70%	G.	5th 1000 Hours	60%
+1.	7th 1000 Hours	75%	H.	6th 1000 Hours	65%
+J.	8th 1000 Hours	80%	1.	7th 1000 Hours	70%
+			J.	8th 1000 Hours	75%
+* Increments may vary depending on any allocation to fringe benefits, see 6.38(e).
+33
+CONTRIBUTIONS
+6.38 (e) Contributions will be established thirty (30) days prior to each increment for all funds listed below. The applicable amount of contribution for each fund is as listed on Appendix "A" of this Agreement.
+Health & Welfare Fund
+Local Pension Fund
+Deferred Income
+Apprentice & Training Fund
+Equality Fund
+National Labor-Management Cooperation Committee
+Administrative Maintenance Fund
+National Electrical Benefit Fund(NEBF) 3%
+National Electrical Industry Fund(NEIF) 0.6%
+DEDUCTIONS
+6.38 (f) The Employer agrees to deduct and forward to the Financial Secretary of the Local Union -- upon receipt of a voluntary written authorization - the additional working dues from the pay of each IBEW member. The amount deducted shall be the amount specified in the approved Local Union Bylaws. Such amount shall be certified to the Employer by the Local Union upon request by the Employer.
+Working Assessment.......	$0.92/hour
+COPE/PAC..................... $0.04/hour
+Total payment of all contributions and deductions for actual hours worked shall be by one check payable to a designated bank and shall be sent to the Electrical Construction Trust Funds, 256 Freeport Street, Boston, Massachusetts 02122, and shall be paid monthly no later than the fifteenth (15th) of the month following the incurring of the obligation. Allpayments made after the fifteenth (15th) of the month shall pay a delinquent fee. The amount to be determined by the Trustees of the Jointly Administered Funds for implementation, subject to a seven (7) day notification period.
+Payments for hours worked under Article VI, Section 6.10, exclusively, shall be made for the actual hours paid without regard to premium rates.
+Employers who are delinquent in their payments, in compliance with Article IV, Section 4.9, of this Agreement, shall be subject to having this Agreement terminated upon seventy-two (72) hours notice in writing being served by the Union, or having manpower withheld or withdrawn until the Employer becomes current tn its Trust Fund obligations, provided the Employer fails to show proof that delinquent payments have been paid.
+PAYROLL RECORDS ACCESS
+6.38 (g) The parties to this Agreement, upon reasonable request, shall be allowed to examine the Employers’ payroll records of all employees working under the terms of this Agreement.
+34
+ARTICLE VII NATIONAL LABOR MANAGEMENT COOPERATION COMMITTEE
+7.1	The parties agree to participate in the NECA-IBEW National Labor-Management Cooperation Fund, under authority of Section 6(b) of the Labor-Management Cooperation Act of 1978, 29 U.S;C. 175(a) and Section 302(c)(9) of the Labor-Management Relations Act, 29 U.S.C. 186(c)(9). The purposes of this Fund include the following:
+1.	to improve communication between representatives of labor and management;
+2.	to provide workers and employers with opportunities to study and explore new and innovative joint approaches to achieving organizational effectiveness;
+3.	to assist workers and employers in solving problems of mutual concern not susceptible to resolution within the collective bargaining process;
+4.	to study and explore ways of eliminating potential problems which reduce the competitiveness and inhibit the economic development of the electrical construction industry;
+5.	to sponsor programs that improve job security, enhance economic and community development, and promote the general welfare of the community and the industry;
+6.	to encourage and support the initiation and operation of similarly constituted local labor-management cooperation committees;
+7.	to engage in research and development programs concerning various aspects of the industry, including, but not limited to, new technologies, occupational safety and health, labor relations, and new methods of improved production;
+8.	to engage in public education and other programs to expand the economic development of the electrical construction industry;
+9.	to enhance the involvement of workers in making decisions that affect their working lives; and
+10.	to engage in any other lawful activities incidental or related to the accomplishment of these purposes and goals.
+7.2	The Fund shall function in accordance with, and as provided in, its Agreement and Declaration of Trust, and any amendments hereto and any other of its governing documents. Each Employer hereby accepts, agrees to be bound by, and shall be entitled to participate in the NLMCC, as provided in said Agreement and Declaration of Trust. ______ _
+35
+7.3	Each employer shall contribute one cent ($0.01) per hour worked under this Agreement up to a maximum of 150,000 hours per year. Payment shall be forwarded monthly, in a form and manner prescribed by the Trustees, no later than fifteen (15) calendar days following the last day of the month in which the labor was performed. The Boston Chapter, NECA, or its designee, shall be the collection agent for this Fund.
+7.4	If an Employer fails to make the required contributions to the Fund, the Trustees shall have the right to take whatever steps are necessary to secure compliance. In the event the Employer is in default, the Employer shall be liable for a sum equal to 15% of the delinquent payment, but not less than the sum of twenty ($20), for each month payment of contributions is delinquent to the Fund, such amount being liquidated damages, and not a penalty, reflecting the reasonable damages incurred by the Fund due to the delinquency of the payments. Such amount shall be added to and become a part of the contributions due and payable, and the whole amount due shall bear interest at the rate of ten percent (10%) per annum until paid. The Employer shall also be liable for all costs of collecting the payment together with attorneys' fees.
+ARTICLE VIII
+SEPARABILITY CLAUSE
+8.1	Should any provision of this Agreement be declared illegal by any court of competent jurisdiction, such provision shall immediately become null and void, leaving the remainder of the Agreement in full force and effect and the parties shall, thereupon, seek to negotiate substitute provisions which are in conformity with the applicable laws.
+36
+Approval of this Agreement has been given with the understanding that any section that does not conform to existing State and/or Federal Laws will be corrected by the parties signatory thereto. Such changes, if any, must be reduced in writing in the form of an amendment and forwarded in the usual manner for approval.
+IN WITNESS THEREOF, the parties have executed this Agreement this 1st day of September, 2003.
+INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 103
+Joh
+zLL-. Dumas
+
+onald Sheehan
+A. \j2.
+Philip DeC/ola
+37

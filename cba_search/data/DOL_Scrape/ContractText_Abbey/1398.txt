@@ -1,0 +1,722 @@
+﻿
+
+AREA
+by and between
+Adopted and Effective
+October 1,2001
+This Agreement is made as of the first day of October, 2001, by and between Mechanical Contractors Association of Chicago, Illinois, (hereinafter for convenience referred to as "Association"), for and on behalf of Employers, and Pipe Fitters Association of Chicago, Illinois, (hereinafter for convenience referred to as "Union"), for and on behalf of Employees. The Union is further identified as Local Union 597 in its affiliation with the United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry in its affiliation with the A.F.L.-C.I.O.
+Mechanical Contractors Association
+1530 Merchandise Mart, Chicago, Illinois 60654 Phone: 312/670-6740
+&
+Pipe Fitters Association, Local Union 597, U.A. 45 North Ogden Avenue, Chicago, Illinois, 60607 Phone: 312/829-4191
+fw?*
+TABLE OF CONTENTS
+ARTICLE I:	Purpose and Intent, Recognition, and Definitions ............................... 1
+Section 1	— Purpose and Intent......................................................... 1
+Section 2	— Recognition ............................................................... 1
+Section 3	— Definitions................................................................ 1
+ARTICLE II:	Jurisdiction .................................................................. 6
+Section 1	— Territorial Scope of Agreement............................................. 6
+Section 2	— Trade Jurisdiction ........................................................ 6
+Section 3	— Pipe fitters’ Welding...................................................... 8
+Section 4	— Fabrication..............................................................   8
+ARTICLE III:	Wages, Welfare, Retirement, Training and 401(k) Plan......................... 10
+Section 1—Wage Rates .................................................................. 10
+Section 2	— Rates: Other Territories.................................................. 10
+Section 3	— Welfare, Retirement and Training Fund Contributions and 401 (k) Plan Payments ............................................................ 11
+Section 4	— Wage-Work Assessment and Education Fund Contribution...................... 11
+Section 5	— Failure to C'omply-Penalty................................................ 11
+Section 6	— Failure to Pay............................................................ 11
+Section 7	— Renegotiation...........................................................   12
+ARTICLE IV:	Working Hours and Rates...................................................... 12
+Section 1	— Definition................................................................ 12
+Section 2	— Standard Work Week and Standard Work Day.................................. 12
+Section 3	— Overtime ................................................................. 13
+Section 4	— Holidays.................................................................. 13
+Section 5	— Shift Time: Construction Work............................................. 13
+Section 6	— Temporary Operation of any Mechanical System Installed By an Employer Signatory to this Agreement.................................. 16
+ARTICLE V:	Working Conditions ............................................................ 17
+Section 1	— Shop...................................................................... 17
+Section 2	— Non-discrimination ....................................................... 17
+Section3 —	Tools ................................................................... 17
+Section 4	— Contracts ................................................................ 17
+Section 5	— Limitations: Subcontracting............................................... 17
+Section 6	— Uniformity of Conditions by Union......................................... 18
+Section 7	— Uniformity of Conditions by Association................................... 18
+Section 8	— Health and Safety......................................................... 18
+Section 9	— Education................................................................. 19
+Section 10	— Inspection............................................................... 19
+Section 11	— Reporting for Construction Work: Compensation (Show-Up Time) ............ 19
+Section 12	— Employer’s and Employee’s Work: Restraints on Dual Capacity.............. 19
+ARTICLE VI:	Transportation of Tools and Material (Construction Only)..................... 20
+Section 1 — Automobile ................................................................ 20
+ARTICLE VII:	Work Outside Jurisdiction ............................................... 20
+Section 1	— Employee Responsibility: Expense, Wages and Fund Contributions......... 20
+Section 2	— Employees: Rates...................................................... 20
+Section 3	— Disputes or Disagreements ............................................ 21
+ARTICLE VIII:	Supervisors ............................................................. 21
+Sectionl—Selection ................................................................ 21
+Section 2	— Health and Safety Requirements........................................ 21
+Section3 —	Reporting Accidents .................................................. 21
+Section 4	— Union................................................................. 21
+ARTICLE IX:	Hiring and Notice......................................................... 21
+Sectionl—Responsibility ........................................................... 21
+Section 2	— Hiring Hall........................................................... 22
+Section 3	— Determination of Residence ........................................... 22
+Section 4	— Non-Discrimination.................................................... 22
+Section 5	— Applicants ........................................................... 22
+Section 6	— Intent ............................................................... 22
+Section 7	— Hiring Hall Committee ................................................ 22
+ARTICLE X:	Union Security............................................................. 23
+Sectionl—Maintenance of Membership................................................. 23
+Section 2 — Union Membership Status................................................ 23
+ARTICLE XI:	Insurance ................................................................ 23
+ARTICLE XII:	Joint Arbitration Board.................................................. 24
+Section 1	— Arbitration Board...................................................... 24
+Section 2	— Meetings and Quorum................................................... 24
+Section 3	— Powers and Duties..................................................... 24
+Section 4	— Application and Interpretation of Agreement .......................... 25
+Section 5	— Procedure............................................................. 25
+Section 6	— Vacancies............................................................. 25
+Section 7	— Failure of Board to Meet.............................................. 25
+Section 8	— Compensation and Expense.............................................. 26
+ARTICLE XIII:	Conflicting Agreements.................................................. 26
+Section 1	—Conflicting Agreements.................................................. 26
+Section 2	— Conflicting By-Laws and Working Rules................................. 26
+ARTICLE XIV:	Duration of Agreement.................................................... 26
+ARTICLE XV:	Acceptance and Nontransferability of Agreement ........................... 27
+Section 1	— Subscription Acceptance................................................ 27
+Section 2	— Nontransferability ................................................... 27
+ARTICLE XVI:	Legality................................................................. 27
+ARTICLE XVII:	Jurisdictional Disputes ................................................ 27
+Section 1	— Standard Agreement .................................................... 27
+Section 2	— Impartial Jurisdictional Disputes Board .............................. 27
+SERVICE AND MAINTENANCE ADDENDUM
+ARTICLE SA-I: Defined Terms........................................................ 29
+ARTICLE SA-II: Scope of Work — Residential/Appliance Service Technicians .......... 30
+ARTICLE SA-III: Scope of Work — Metal Trades Service Technicians................... 30
+ARTICLE SA-IV: Scope of Work — Building Trades Journeyman When Performing Mechanical Service Maintenance Work................................................ 31
+ARTICLE SA-V: Scope of Work — Probationary Service/Appliance Technicians .......... 31
+ARTICLE SA-VI: Service Hours and Overtime ......................................... 32
+ARTICLE SA-VII: Union Membership — Metal Trades Division .......................... 33
+ARTICLE SA-VIII: Tools for Performance of “Mechanical Service and Maintenance Work” .. 33
+ARTICLE SA-IX: Service and Maintenance Vehicles/Trucks/Vans........................ 34
+ARTICLE SA-X: Service Managers/Supervisors......................................... 34
+ARTICLE SA-XI: Conflicting Provisions.............................................. 35
+TABLE 1: Minimum Basic Kit of Hand Tools........................................... 36
+ARTICLE I
+Purpose and Intent, Recognition, and Definitions
+Se	ction 1 — Purpose and Intent
+(a)	It is the express purpose and intent of the parties to this Agreement: to promote and improve the relationship between the Association and the Union, and between Employers and Employees; to eliminate strikes and lock-outs and the causes thereof; to facilitate peaceful and orderly resolution of disagreements and disputes; and to enter into contractual relations with respect to wages, hours of work, and other conditions of employment to be faithfully observed by both parties.
+(b)	The parties recognize their respective responsibility for, and mutual interest in, continuity of employment, gained through efficient service to the customer and sincere fulfillment of their joint obligation to the public in promoting the best interests of the Pipe Fitting Industry.
+(c)	It is agreed that during the time of this Agreement, and any extension thereof, there shall be no lockout by any Employer nor any strike, stoppage, slowdown, picketing or boycott by the Union, any of its members or any Employees.
+(d)	This Agreement shall not apply to Industrial Maintenance Work as defined in Section 3 of this Article I.
+Se	ction 2 — Recognition
+The Association recognizes the Union, and the Union recognizes the Association, as the exclusive bargaining agency, respectively for Employees and Employers, for the purpose of collective bargaining in respect to rates of pay, wages, hours of employment and other conditions of employment for all Employees who perform, and with respect only to, work, other than Industrial Maintenance Work, which comes within the Trade and Territorial Jurisdictions of the Union.
+Se	ction 3 — Definitions
+The following defined terms, as used in this Agreement shall have the following meanings:
+1.	“Agreement.” This Area Agreement.
+2.	“Alternate Starting Time.” The starting time established pursuant to Article IV, Section 2(c) in lieu
+of the Standard Work Day starting time for that same day, but which, when so established, shall establish the time period which shall constitute the Standard Work Day for the specific job.
+3.	“Appliance Equipment.” Manufactured products such as freezers, refrigerators, room coolers, packaged ice makers, water coolers, gas ranges, and other similar appliances which come within the Trade Jurisdiction.
+4.	“Apprentice.” An Employee indentured to the Joint Apprentice Committee, for the purpose of
+1
+learning the trade and working under the terms of this Agreement and the terms of the Apprenticeship Agreement between the Union and the Association.
+5.	“Association.” Mechanical Contractors Association, Chicago, Illinois.
+6.	“Benefit Funds” or “Benefit Fund.” The Welfare Fund, the Retirement Fund, the Training Fund, and/or 401(k) plan collectively or individually as the context shall require.
+7.	“Building Trades Journeyman.” A journeyman union pipe fitter performing work within the Trade
+Jurisdiction.
+8.	“Certified Welding Bureau.” An organization which assists with welding and brazing testing, as well as development of welding and brazing procedures, for the primary benefit of Local Union 597 Pipe Fitters and contractors who are signatory with Local Union 597, Chicago, Illinois.
+9.	“Commercial and Industrial Maintenance Work.” Mechanical Service and Maintenance Work on any part of an existing and previously operating Mechanical System providing air conditioning and/or heating to office, retail, hotel, motel, business, commercial, research, educational, institutional, medical, industrial and manufacturing space.
+10.	“Day Shift.” (First Shift) 8-hour work period, established pursuant to Article IV, Section 2(b).
+11.	“D.D.C.” Installation and calibration of direct digital control systems and their appurtenances for
+any piping, heating or air conditioning system.
+12.	“Education Fund.” Chicago Area Mechanical Contracting Industry Improvement Trust created by Trust Agreement dated January 13, 1981.
+13.	“Education Fund Trustees.” Trustees of the Education Fund, also known as the Industry Fund.
+14.	“Employee.” An Employer’s employee who performs work in the Territorial Jurisdiction falling
+within the Trade Jurisdiction or who is sent by the Employer from within the Territorial Jurisdiction to perform such work outside the Territorial Jurisdiction pursuant to Article VII.
+15.	“Employer.” A member of the Association or a non-member of the Association who subscribes to this Agreement.
+16.	“Evening Shift” (Second Shift) or “Evening Shift Hours.” 71/2-hour work period established pursuant to Article TV, Section 5(b).
+17.	“Fuel Burning Equipment.” Mechanical apparatus for the burning of fossil fuel in heating systems.
+18.	“Health and Safety Requirements.” Safety and health statutes, standards, rules, regulations and orders as referred to in Article VIII, Section 2.
+19.	“Holiday.” A day specified in Article IV, Section 4(a), and an alternate day to be observed as a Holiday in accordance with Article IV, Section 4(b).
+2
+20.	“Industrial Maintenance Work.*’ Work, other than new construction work, assigned by the owner to the Employer, for industrial maintenance, modification, repair, replacement and renovation performed for an owner at the owner’s request for conditions similar to an agreement between the owner and an Employer under an Industrial Maintenance Agreement Policy Committee, Inc. agreement. As used in this definition: ‘modification’ means addition to or improvement of existing systems or facilities; ‘repair’ means restoration of existing facilities to efficient operating condition, by replacement of parts; “renovation” means improvement and/or restoration of existing facilities to efficient operating condition by replacement or revamping of parts; ‘existing facilities” means a constructed unit already completed and does not mean a new unit to be constructed even though such unit is to be constructed on the same property or premises on which completed units already exist. Any dispute over whether work falls within this definition shall be resolved by the Joint Arbitration Board.
+21.	“Joint Arbitration Board.” The entity consisting of an equal number of members appointed by the Union and by the Association to conduct bargaining negotiations and to arbitrate disputes and disagreements in accordance with Article XII.
+22.	“Machine Cutting.” The use of any type of equipment designed for precision cutting for piping systems.
+23.	“Mechanical Service and Maintenance Work.” The work normally performed by contractors, either by contract or on an emergency call basis, to keep a Mechanical System and controls of a refrigeration, air conditioning, heating and/or ventilation or any other Mechanical System in operational order. This includes, but is not limited to, maintaining, cleaning, adjusting, repairing, overhauling, starting and balancing any such system or component part thereof, regardless of size or location, and, where expressly provided in this Agreement, installation, modification and renovation.
+24.	“Mechanical System.” A combination of any mechanical equipment components and/or controls that fall within the Trade Jurisdiction, including the interconnecting piping.
+25.	"Medical Gas.” Piping systems used for transportation of medical gases.
+26.	“Metal Trades Service Technician.” A Metal Trades Division Employee when performing the
+work described in Service Addendum, Article HI.
+27.	“Night Shift” or “Night Shift Hours.” 7-hour work period established pursuant to Article IV, Section
+5(c).
+28.	“Orbital Welding ” The setup, operation, and repair of automatic G.T.A.W. and/or G.M.A.W. orbital welding equipment.
+29.	“Probationary Service/Appliance Technician.” A temporary trial basis worker employed pursuant
+to Article V, of the Service Addendum, and who shall nor be considered an Employee as defined herein, and for whom fringe benefits shall not be paid.
+30.	“Refrigeration and Air Conditioning System.” A Mechanical System composed of the cooling
+3
+unit, evaporator, blower, coil apparatus and related mechanism, piping and controls.
+31.	“Residential/Appliance Service Technician.” A Metal Trades Division Employee when performing
+the work described in Service Addendum, Article II.
+32.	“Residential Work.” Mechanical Service and Maintenance Work on a Mechanical System providing air conditioning and/or heating to a single residential unit in a structure containing one or more residential units.
+33.	“Retirement Fund.” Pipe Fitters’ Retirement Fund, Local Union 597, created by Declaration of Trust, date June 25, 1953, as amended thereafter.
+34.	“Service Employee.” A Building Trades Journeyman when performing Mechanical Service and Maintenance Work, a Metal Trades Service Technician, a Residential/Appliance Technician, and a Probationary Metal Trades Service/Appliance Technician.
+35.	“Service Manager/Supervisor.” A supervisory Employee for Mechanical Service and Maintenance
+Work employed pursuant to Service Addendum, Article X.
+36.	“Show-Up Time.” Compensable non-working time as provided in Article V, Section 11.
+37.	“Special Use Shift.” A non-standard shift established pursuant to Article IV, Section 5(i).
+38.	“Standby Duty.” An Employee holding himself in readiness to perform Mechanical Service and Maintenance Work when called upon by the Employer to do so between the end of the particular Employee’s Standard Work Day and the commencement of the Employee’s next succeeding Standard Work Day.
+39.	“Standard Work Day.” The eight and one-half consecutive hours period established pursuant to Article IV, Section 2(b) or, as to Service Employees, the eight and one-half hours period established pursuant to Service Addendum, Article VI, Section (b).
+40.	“Standard Work Week.” The seven consecutive day period established pursuant to Article IV, Section 2(a) or, as to Service Employees the five days specified in the Service Addendum, Article VI, Section (a).
+41.	“Straight Time Rate.” The hourly rate established by the Joint Arbitration Board for the respective
+job classification.
+42.	“Supervisory Personnel.” General Superintendent, Superintendent, General Foremen, and Foremen.
+A Journeyman Employee who is so classified by the Employer. The selection of supervisory personnel is solely the responsibility of the Employer. The Employer may request from Employees a resume to aid them in the selection of supervisory personnel. (Article VIII, Section 1)
+43.	“Territorial Jurisdiction.” The geographic area within which jurisdiction has been assigned to the Union by the United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry, as set out in Article n, Section 1.
+4
+44.	“Trade Jurisdiction.” The work over which the Union has jurisdiction, as set out in Article II, Section 2, or jurisdiction of work that may in the future be awarded to them.
+45.	“Training Fund.” Pipe Fitters Training Fund, Local Union 597, created by Declaration of Trust, dated May 21, 1964, as amended thereafter.
+46.	“Trustees — Welfare, Retirement, Training, 401(k) Plan.” A board consisting of an equal number of persons appointed by the Union and by the Association to manage the Benefit Funds pursuant to the applicable trust agreements.
+47.	“Union.” Pipe Fitters Association Local Union 597, an affiliate of the United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry, an affiliate of the A.F.L.-C.I.O.
+48.	“Valve Repair.” All work associated with the repair of all valves and all valve actuators.
+49.	“Wage-Work Assessment.” The amount to be deducted from an Employee’s wage pursuant to
+Article III, Section 4(a).
+50.	“Welfare Fund.” Pipe Fitters’ Welfare Fund, Local Union 597, created by Declaration of Trust, dated October 27, 1949, as amended thereafter.
+51.	“401(k) Plan.” Pipe Fitters’ Association, Local 597, 401(k) Plan created by Declaration of Trust
+dated December, 1998, as amended thereafter.
+5
+ARTICLE II
+Jurisdiction
+Section 1	— Territorial Scope of Agreement
+The area in which this Agreement shall apply shall cover all operations in the counties of Cook, Lake, Will, McHenry, LaSalle, Bureau, Putnam and those portions of Kendall, Marshall, Livingston, Grundy, DuPage and Kane Counties in the State of Illinois to which Territorial Jurisdiction has been assigned or may in the future be assigned to the Union by the United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry and in the counties of Lake, LaPorte, Porter, Newton and Jasper in the State of Indiana, and all counties or areas to which Territorial Jurisdiction has been assigned or may in the future be assigned to the Union by the United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry.
+Section 2	— Trade Jurisdiction
+This Agreement shall apply to Employees who (other than when performing Industrial Maintenance Work) perform work which comes within the trade jurisdiction of the Union in the Pipe Fining Industry in ail its divisions, branches and aspects, and more particularly described as follows:
+Pipe Fitters’ Jurisdiction
+(a)	The handling, setting, moving, fabricating, assembling, installation, maintenance, repairand service
+of all piping systems and their associated equipment used for the transfer of heat, fluids, solids, chemicals or gas. This shall include but not be limited to, industrial process piping, hydraulic power piping, steam and hot water heating, refrigerating, air conditioning, power piping, pneumatic temperature control piping, high and low pressure boilers, stokers, gas, oil or coal burning units, sewage disposal plants, central distribution and booster stations, water filtration plants and sterilization equipment.
+(b)	The handling, setting, moving, erecting, fabricating, assembling and installation of all piping, pipe supports, guides, restraints, and anchors of or for all equipment, vessels, pumps, apparatus, and appurtenances in all fossil-fueled, nuclear-fueled generating stations, and in all solar energy and geothermal power systems.
+(c)	The handling, setting, moving, fabrication, assembling, maintenance, repair, service and installation of all equipment, apparatus and appurtenances in the connection of all hydronic solar heating and/or cooling systems.
+(d)	The handling, assembling and setting of sectional steam, hot water and packaged boilers, boiler fronts, soot blowers, all circulating piping, economizers and superheaters when not component parts of a boiler, and other boiler component parts. The installation and piping of instruments, panel boards and attaching of all boiler and trim.
+(e)	The rigging, handling, and setting of all equipment including heat exchangers, submerged heat exchangers, self-contained vessels and all other equipment with piping connected to and/or from for heat transfer purposes.
+6
+(f)	All piping, regardless of material, for fire quenching purposes, by water, steam, gas chemicals or other methods.
+(g)	The fabrication and installation of all pipe joints of piping systems described in this Agreement, regardless of method or mode, including cutting, end preparation, assembling, threading, welding and mechanical. Operation and set-up of onsite machining equipment used for piping cut-off and pipe end and fitting preparation.
+(h)	The set-up, operation and repair of automatic G.T.A.W. and G.M.A.W. orbital welding equipment.
+(i)	Fusion welding, cementing and all methods of combining plastic piping.
+(j)	The unloading, handling, and installation of hangers, supports, brackets, guides, restraints and anchors, consisting of any and all types of materials, for the support of or directly attached to a piping system or any part or component of a piping system.
+(k)	The dismantling of piping and equipment to be reinstalled that is preliminary or incidental to, or connected with the performance of the Employer’s work.
+(1)	The cutting necessary on all types of construction for the reception of all piping or setting of sleeves, inserts, and thimbles for piping and hangers and boxes for hangers for piping in this trade. The operation of any and all equipment, mechanical, electrical or manual, in conjunction with cutting, coring, or destructing of any type of construction in order to create a piping passageway at the job site.
+(m)	Where it is necessary for the erection of piping work to utilize special rigging equipment, helicopters, or other specialized lifting facilities not reasonably available to the Employer, and where it is necessary to employ others to operate said equipment, Pipe Fitters shall be employed to supervise and assist said erection.
+(n) Installation and calibration of all mechanical control devices, direct digital control systems and their appurtenances for a building management system.
+(o)	Installation of fiber optic cables and controls for refrigeration and heating systems.
+(p)	All piping work associated with the testing, flushing, balancing, calibration and adjusting of piping
+systems.
+(q)	Fabrication and installation of all medical gas and de-ionized water systems. Fusion of medical gas fittings shall be done by certified Pipe Fitters.
+(r)	Repairing and packing of all valves including control valves and actuators at the job site, except when sent to the manufacturer or Owner’s designated representative.
+(s)	Performance of quality control of all piping work performed within the Pipe Fitter’s Trade Jurisdiction including but not limited to inspections and recording of fit-ups, welds and mechanical joints. This includes the verification of materials, dimensions, welding requirements and pressure
+7
+testing, but excluding any engineering work.
+(t)	The non-destructive examination of pipe welds by the diepenetrant method.
+(u)	The use and handling of tools, machinery and appliances necessary in the performance of work
+within the Pipe Fitters Trade Jurisdiction.
+(v)	All other work as may be determined to be within the Pipe Fitters Trade Jurisdiction.
+Section 3	— Pipe Fitters’ Welding
+(a)	In the interest of public safety, no Employer shall require an Employee to do any welding unless the welding is performed under a recognized welding procedure specification; and said Employee shall be required to perform welding in accordance with an appropriate process at intervals as governed by the ASME Code and said Employee shall pass a requalification test at intervals as required by the ASME Code or the Certified Welding Bureau and/or U.A. certification test.
+(b)	The Employer shall provide competent supervision and proper equipment and shall operate under acceptable procedures as provided above.
+(c)	An Employee shall be paid the negotiated wage while taking a welding qualification or requalification test when required by the Employer to do so.
+Section 4	— Fabrication
+(a) Heating, Air Conditioning and Refrigeration Systems: All piping for heating, air conditioning and refrigeration systems shall be fabricated on the JOB SITE or in a shop within the Territorial Jurisdiction, subject to the following conditions:
+1.	Piping TWO AND ONE-HALF INCHES (21/2") and over — The Employer will give written notice to the Joint Arbitration Board 72 hours prior to the start of offsite fabrication and may then proceed with said fabrication without further approval, provided such off-site fabrication shall be performed by the Employer at any site within the Territorial Jurisdiction.
+2.	Piping TWO INCHES (2") and under — The Employer may petition the Joint Arbitration Board in writing for exception to the job-site fabrication requirement. Upon receipt of such request for exception, the Joint Arbitration Board may, after due consideration and in its sole judgement and discretion, waive the requirement of job-site fabrication as it relates to fabrication of comfort heating, comfort cooling, and comfort refrigeration piping only, and provided such off-site fabrication shall be performed by the Employer at any site within the Territorial Jurisdiction of the Union. Under no circumstances shall the Employer proceed with the fabrication without the written approval of the Joint Arbitration Board.
+(b)	Process Piping: Piping systems for purposes other than comfort heating, comfort cooling, and comfort refrigeration systems:
+1.	may be fabricated on the job site or in the shop, except piping 2" and under shall be
+done on the job site. Where the word “shop” is used in this Section 4(b) it shall be defined as the shop of the direct Employer, or a pipe fabricating shop under
+8
+agreement with the United Association or one of its local unions. A pipe fabricating shop is further defined as one that by reason of a collective bargaining agreement or by reason of company policy, pays its Journeymen Pipe Fitters and their Apprentices performing such shop fabrication, a wage rate at least equal to the building and construction trade’s wage rate established for building and construction work in the geographical area in which the shop is located.
+2.	Process Piping TWO INCHES (2") and under — The Employer may petition the Joint Arbitration Board in writing for exception to the job-site fabrication requirement. Upon receipt of such request for exception, the Joint Arbitration Board may, after due consideration and in its sole judgement and discretion, waive the requirement of job site fabrication as it relates to fabrication of process piping and provided such off-site fabrication shall be performed by the Employer at any site within the Territorial Jurisdiction. Under no circumstances shall the Employer proceed with the fabrication without the written approval of the Joint Arbitration Board.
+(c)	Fabrication Shop
+1.	Not withstanding the foregoing clauses (a) and (b), the employer may petition the Joint Arbitration Board in writing to establish an “approved fabrication shop” at any location within the Territorial Jurisdiction (other than a job site) for the fabrication of piping configurations under the provisions of this Agreement. The Joint Arbitration Board may, after due consideration and in its sole judgement and discretion, waive the requirement of separate job requests for exception, and permit piping of any size and application to be fabricated in said “approved shop” on an ongoing basis.
+2.	Upon request by the Union, the Employer will notify the Union of the names and Social Security Numbers of all persons working on off-site fabrication permitted under this Section 4.
+9
+ARTICLE III
+Wages, Welfare, Retirement, Training and 401(k) Plan
+Section 1	— Wage Rates
+(a)	Establishment of Rates. The hourly rate of wages to be paid by Employers to Employees shall at all times be at the rate currently established through negotiations conducted by the Joint Arbitration Board, or pursuant to negotiations properly concluded through said Board which may hereafter be adopted from time to time.
+(b)	Manner of Wage Payment: Wages shall be paid weekly to all Employees. Payment may be made in person to the Employee, by mailing, or by direct bank deposit (if offered by the Employer and accepted by the Employee), In instances where payment is made by personal delivery, such payment must be delivered to the Employee within three regular working days immediately following the termination of each pay period.
+(c)	Payment by Mail: In instances where payment is made by mailing, the Employer shall within three regular working days immediately following the end of each pay period, deposit Employee’s pay in the United States mail, in an envelope properly addressed to the Employee, postage prepaid. However, if the check is not received by the end of the next pay period, the Employer, at the request of the Employee, will re-issue the check. The Employer shall have the check delivered to the Employee’s home by overnight mail, or made available for pick-up by the Employee at the job site or Employer’s office.
+(d)	Payment in Cases of Quitting and Termination for Cause: In instances where the Employee terminates the Employee’s employment, or where the Employee is terminated for any of the following causes: intoxication , drug abuse, tardiness, absenteeism, failure to perform reasonable work assignments, or failure to observe safety rules, the Employee’s wages shall be paid on the next regular pay day as provided for in clause (c) above.
+(e)	Payment When Employer Terminates for Other than Cause: In instances where the Employer terminates an Employee for other than cause, the Employer shall pay all monies, wages and expenses due to the Employee up to the hour of termination, subject to the provisions of this Agreement. Payment shall be made at the time of termination on the job site. If termination of an Employee should come on Saturday, Sunday or a Holiday, payment for all work through the time of termination shall be mailed on the next Standard Work Day as provided in item (c), above, or be made available for pick-up at the Employer’s office at the terminated Employee’s discretion.
+Section 2	— Rates: Other Territories
+In the event an Employer contracts for work outside the Territorial Jurisdiction, the wages paid to an Employee shall be that set forth in Article VII, Sections 1 and 2.
+10
+Section 3	— Welfare, Retirement and Training Fund Contributions and 401(k) Plan Payments
+The Agreements and Declarations of Trust between the parties for Welfare, Retirement, 401 (k) Plan and Training are hereby continued in full force and effect for the term of this Agreement. Each Employer shall continue to: (A) contribute, in addition to the established wages rates, into the Welfare Fund, the Retirement Fund, and the Training Fund, such sum or sums as may be properly determined from time to time through negotiations conducted by the Joint Arbitration Board with contributions computed only on hours actually worked; and (B) deduct from the pre-tax pay of any participating Employee such sums as he or she may properly designate and forward these sums to the 401(k) Plan.
+Section 4	— Wage-Work Assessment and Education Fund Contribution
+(a)	Each Employer shall deduct from the wages of each Employee, other than Employees who (in accordance with a written notice from the Union to the Employer) have not authorized such deduction, such amount of Wage-Work Assessment as the Union shall have given notice to the Employer is due to the Union, and shall remit said monies to the Union monthly. The Union hereby represents and warrants that it has and will maintain signed written authorization for such wage deduction from all Employees except only such Employees as it shall have notified the Employer, in writing, have not signed such authorization. The Union agrees to and shall indemnify and hold each Employer harmless from and against all claim, expense and liability with respect to any wage deductions made in accordance herewith.
+(b)	Each Employer shall pay to the Education Fund contributions at the rate currently established through negotiations conducted by the Joint Arbitration Board, or pursuant to negotiations properly concluded through said Board hereafter.
+Section 5	— Failure to Comply-Penalty
+a)	It shall be considered a violation of the terms and conditions of this Agreement, and shall be a cause for cancellation of this Agreement as to an Employer, if an Employer shall fail, after reasonable notice from the Trustees, or the Union or the Education Fund Trustees, as the case may be, to furnish reports, pay Benefit Funds or Education Fund contributions or Wage-Work Assessments or to comply with the rules and regulations formulated and promulgated by the Trustees, or by the Union, or by the Education Fund Trustees, as the case may be.
+b)	Cancellation of this Agreement as to any Employer, under Section 5(a) may be effected only as authorized by a majority of the members of the Joint Arbitration Board and shall be effected by written notice from the Joint Arbitration Board to the Employer, the Union and the Association.
+Section 6	— Failure to Pay
+(a)	Any Employer who fails to pay contributions to the Benefit Funds pursuant to Section 3, or to pay contributions to the Education Fund under Section 4(b), in the correct amount and in a timely manner shall pay liquidated damages in such amount as shall be established by the respective Benefit Funds and the Education Fund. In addition thereto, such Employer shall pay interest in an amount equal to one percent per month of the delinquent contributions, or such other rate of interest as may be established by the respective Benefit Funds and the Education Fund. Finally, such Employer shall be responsible for the Benefit Fund’s and/or the Education Fund’s
+11
+attorney’s fees and costs in collection of unpaid contributions, liquidated damages and interest.
+(b)	Any Employer who fails to pay Wage-Work Assessments in a timely manner shall be liable for such interest and damages as authorized by the National Labor Relations Board.
+(c)	The Trustees, the Union and the Education Fund Trustees, as the case may be, shall have authority to waive all or part of such liquidated damages, interest or attorney’s fees respectively due them. Such waiver shall not act to waive any other liquidated damages, interest or attorney’s fees which either are due or which become due.
+(d)	Any suit or charge for failure to make payments under this Article by the Trustees, the Union and/or the Education Fund Trustees, as the case may be, shall not require prior resort to the Joint Arbitration Board under Article XU of this Agreement.
+Section 7	— Renegotiation
+The wages, hours, funds contributions, and Wage-Work Assessment and the effective periods thereof shall be by agreement determined through negotiations by the Joint Arbitration Board. They shall be subject to renegotiation upon notice given to either the Union or the Association to the other not later than January 1 of any year during the term of this Agreement. Upon the service of said notice the parties hereto agree to negotiate through the Joint Arbitration Board and endeavor to complete such negotiation before the first day of the following April. The results of negotiations by the Joint Arbitration Board under the conditions and within the time specified in this section shall become effective on the first day of June or at such subsequent time as the Board may determine following such negotiation.
+ARTICLE IV
+Working Hours and Rates
+Section 1	— Definition
+The term “Straight Time Rate” shall mean the hourly rate established by the Joint Arbitration Board through negotiations for each classification.
+Section 2	— Standard Work Week and Standard Work Day
+(a)	The Standard Work Week will begin on Monday at 8:00 A.M. or at such other time as established by the Employer for the specific job in accordance with Subsection (c) of this Section 2, and shall consist of seven (7) successive days which thus will make Saturday the sixth (6th) day and Sunday the seventh (7th) day in the Standard Work Week.
+(b)	Subject to Article V, Section 11, the Standard Work Day shall begin at 8:00 A.M., or such earlier time as established by the Employer for the specific job site in accordance with Subsection (c) of this Section 2, and end eight and one-half (816) hours later, with one-half hour unpaid lunch period; and the regular work week shall be forty (40) hours of work per week, consisting of five (5) days of eight (8) hours of work each from Monday to Friday inclusive, which period shall constitute a regular week’s work.
+12
+(c)	An Employer may establish an Alternate Starting Time, other than 8:00 A M., for any specific job or job site from 6:30 A.M. to 8:00 A.M. An Alternate Starting Time commencing prior to 6:30 A.M. may be established with the prior approval of the Joint Arbitration Board. When the Alternate Starting Time approved by the Joint Arbitration Board is prior to 6:30 A.M., the Employer shall post notice of the variation in the Standard Work Day at the job site and all Employees working on the specific job or job site shall work the alternate schedule.
+(d)	Holidays shall not constitute Standard Work Days.
+Section 3	— Overtime
+(a)	All work performed beyond, or in excess of eight (8) hours during the Standard Work Day or variation thereof, or in excess of forty (40) hours during the Standard Work Week, as defined in Section 2 above in this article IV, shall be considered overtime.
+(b)	There shall be no scheduled overtime work without approval of the Joint Arbitration Board except in case of an emergency to preserve life or property if, in the judgment of the Employer, such work is necessary, in which case there shall be a prompt report to the Joint Arbitration Board.
+(c)	The Joint Arbitration Board shall establish procedures for joint administration and enforcement of the foregoing clause (b). The Joint Arbitration Board shall also establish methods for observation of said procedures for National Agreement Contractors.
+(d)	All work performed before and after the established Standard Work Day or variations thereof, Monday through Friday, and all work performed between 12:01 A.M. and midnight on Saturday shall be paid for at the rate of time and one-half times the Straight Time Rate. All work performed between 12:01 A.M. and Midnight on Sundays and Holidays and days observed as Holidays as set forth in Article IV, Section 4 (b), shall be paid for at the rate of double the Straight Time Rate.
+(e)	The provisions of this Section 3 shall not apply to Shift Time governed by Section 5 of this Article FV, or to Temporary Operation, governed by Section 6 of this Article TV, or to Mechanical Service and Maintenance Work, governed by the Service Addendum.
+Section 4	— Holidays
+(a)	The following days shall be recognized as Holidays and shall not be regular work days: New Year’s Day, Memorial Day, Fourth of July, Labor Day, Thanksgiving Day, and Christmas Day.
+(b)	When a Holiday, as defined, falls on a Sunday, the following Monday shall be observed as that Holiday.
+Section 5	— Shift Time: Construction Work
+(a)	Shifts. The Employer may establish an “Evening Shift” and/or a “Night Shift” in addition to a Standard Work Day (“Day Shift”) as defined in Section 2. Said Shifts shall be established for a
+13
+minimum of three (3) consecutive working days for each such shift that is established. If there is no Day Shift, and an Evening Shift and/or a Night Shift is required, all hours worked on said Evening or Night Shifts shall be at the appropriate overtime rate in lieu of the provisions in clauses (b), (c) and (e) through (h) of this Section 5.
+(b)	Evening Shift The Evening Shift shall consist of 7*/2 hours of work (“Evening Shift Hours”) beginning at any time between 3:00 P.M. and 4:30 P.M., which shall be paid for at eight times the Employee’s Straight Time Rate, plus overtime pay computed in accordance with Clause (h) for work in excess of Evening Shift Hours.
+(c)	Night Shift. The Night Shift shall consist of 7-hours of work (“Night Shift Hours”) beginning at any time between 11:00 P.M. and 12:30 A.M., which shall be paid for at eight times the Employee’s Straight Time Rate, plus overtime pay computed in accordance with Clause (h) for work in excess of Night Shift Hours.
+(d)	Lunch Period for Evening and Night Shifts. In addition to Shift Hours, each Employee on the Evening or Night Shift shall be entitled to a one-half hour unpaid lunch period. The lunch period shall occur approximately four (4) hours after the start of any such shift.
+(e)	Evening and Night Shifts including a Saturday, Sunday, or Holiday. Evening and Night Shifts worked entirely on, or overlapping on, a Saturday, Sunday or a Holiday shall be paid for as follows in lieu of the pay provided in Clauses (b) and (c) of this Section 5:
+1.	The Employee’s Straight Time Rate for all hours worked on a Monday through Friday that is not a Holiday or days observed as a Holiday; plus
+2.	One and one-half times the Employee’s Straight Time Rate for all hours worked on Saturday; plus
+3.	Two times the Employee’s Straight Time Rate for all hours worked on Sunday, or a Holiday or days observed as a Holiday; plus
+4.	Pay at the Employee’s applicable rate for the day on which the work is performed equal to:
+(a)	One-half hour for the Evening Shift, or
+(b)	One hour for the Night Shift.
+(f)	10-Hour Shift
+1.	(a) Day 10-Hour Shift — shall consist of a lOVz-hour period commencing at a
+time determined in accordance with Section 2(a) or 2(b) of Article IV. The first 8-hours of work shall be paid for at the Employee’s Straight Time Rate and all hours of work in excess of 8-hours shall be paid for at one and one & half (P/2) times the Employee’s Straight Time Rate;
+(b) Night 10-Hour Shift — shall consist of a 10-hour period commencing on or after 4:30 P.M. The first 7 hours of work shall be paid for at eight (8) times the Employee’s Straight Time Rate and all hours of work in excess of 7J4 hours shall be paid for at one and one-half times (P/i) the Employee’s Straight Time Rate;
+2.	There shall be an unpaid one half hour lunch period commencing approximately at the end of the first four (4) hours of the Shift;
+3.	Hours worked on 10 Hour Shifts which are entirely on, or overlap, a Saturday, Sunday, or Holiday shall be paid for as follows:
+14
+1.	If on a Saturday, at one and one-half times (P/2) the Employee’s Straight Time Rate;
+2.	If on a Sunday, or a Holiday, at two times the Employee’s Straight Time Rate;
+3.	Fringes and wage assessments shall be paid on 10 hours for each shift.
+(g)	12-Hour Shifts: shall not be worked without prior written approval of the Joint Arbitration Board.
+1.	Payment for hours worked shall be “by the clock” with straight time applicable for the first eight (8) hours of work Monday through Friday and one and one-half (IV2) times thereafter with the exception of the hours falling on, or overlapping, a Saturday, Sunday, or Holiday, which shall be paid one and one-half (P/2) times on Saturday and two times on Sunday, or a Holiday, or days observed as a Holiday;
+2.	There shall be a paid one-half hour lunch in the first four hours of each shift;
+3.	There shall be a paid 20-minute “safety break” after eight (8) hours of each shift;
+4.	Fringes and wage assessments shall be paid on 12 hours for each shift.
+(h)	Overtime. All hours, before or after, or in excess of, Evening Shift Hours or Night Shift Hours that are worked on Monday through Friday shall be paid for at one and one-half (V/2) times the Employee’s Straight Time Rate.
+(i)	Special Use Shift. At the request of an Employer the Joint Arbitration Board may establish a
+Special Use Shift for a particular job and shall establish the hours and rates of pay therefor.
+(j)	Incomplete Shift Work. An Employee who works less than all Shift Hours at the request of the
+Employer, shall be paid as follows in lieu of any other pay provisions:
+(a)	The Employee’s Straight Time Rate for all hours worked on Monday through Friday; plus
+(b)	One and one-half times the Employee’s Straight Time Rate for all hours worked before or after Shift Hours, or in excess of 8 hours, worked on Monday through Friday and for all hours worked on Saturday; plus
+(c)	Two times the Employee’s Straight Time Rate for all hours worked on Sunday or a Holiday or days observed as Holidays, plus
+(d)	Pay at the Employee’s applicable rate for the day on which the work is performed equal to:
+(a)	One-half hour for the Evening Shift, or
+(b)	One hour for the Night Shift.
+(k)	No Two Successive Shifts. No employee shall work in two successive shifts except Supervisory Personnel who, if working, shall receive the regular overtime for all time in excess of one shift per day.
+(1)	Payment of Funds and Assessments: Benefit Funds and Education Fund contributions shall apply only to hours actually worked. On Evening and Night Shifts, if a full shift is worked the Wage Work Assessment shall be paid on eight (8) hours (or time actually worked if less than a full shift).
+15
+Section 6 — Temporary Operation of any Mechanical System Installed By an Employer Signatory to this Agreement
+The Pittsburgh Decision on Temporary Heat rendered on August 3,1923, is hereby incorporated by reference and shall govern as to rates of pay for shift time on any Mechanical System which provides comfort heating or cooling and which is operated on a temporary basis and installed by an Employer.
+The use and operation of any such Mechanical System on a temporary basis, during installation and prior to completion or acceptance by the Owner, shall be under the control and jurisdiction of the Employer, and shall be operated by journeymen Pipe Fitters, subject, however to the following provisions:
+(a)	If during the course of construction and prior to acceptance by the Owner, request is made by the Owner to use and operate on a temporary basis, any such Mechanical System installed by Pipe Fitters, such request may be granted by the Employer only after the permanent mains, arms and risers have been installed and a general test has been made, and provided further that the Owner shall by written instrument assume full responsibility for such use and operation, relieve the Employer of all liability, and shall state in said instrument that the Owner will use his own regular operating force and that all guarantees covering such system shall commence as of the date of commencement of such use and operation. Prior to implementation a copy of the aforesaid instrument shall be delivered in person or by registered mail to the Joint Arbitration Board by the Employer.
+(b)	Should the Owner request the Employer to temporarily operate any such Mechanical System and continue to assume responsibility for the system, then journeymen Pipe Fitters shall be employed in its operation.
+(c)	When journeymen Pipe Fitters are so employed by the Employer, and the time of such employment extends beyond a period of seven consecutive days, then such employment shall come under the temporary heat shift time agreement, and the wages paid to journeymen Pipe Fitters shall be the Straight Time Rate for any work performed out of each twenty-four (24) hours of any working day, including Saturday and Sunday, excepting Holidays, which shall be double the Straight Time Rate.
+(d)	Where the Federal “Fair Labor Standards Act” applies to employment under this section, one and one-half (I'/z) times the Straight Time Rate shall be paid for all hours worked in excess of forty (40) hours in one week.
+16
+ARTICLE V
+Working Conditions
+Section 1	— Shop
+Each Employer shall maintain an established shop with the necessary equipment to carry on business and each Employer shall employ not less than two Pipe Fitters for a period of ten (10) months of each calendar year in order to qualify as an operating Employer.
+Section 2	— Non-discrimination
+No discrimination shall be exercised by an Employer against any Employee on account of any basis proscribed by applicable law.
+Section 3	— Tools
+(a)	The handling of tools, machines and equipment necessary in the performance of the work covered by this Agreement shall be done by Employees. There shall be no restriction as to Supervisory Personnel handling tools. No Employee shall be allowed to carry any tools or materials in the Employee’s automobile for their Employer unless authorized to do so by the Employer and the Union. No Employee shall carry any tools or equipment in the Employee’s car which cannot fit into the trunk of a car. In cases where the Employee uses their own tools, the Employee shall be reimbursed by their Employer for the loss thereof when such loss is accompanied by a police report and not occasioned by the negligent act of the Employee.
+(b)	The Employer may require Employees to give receipts for Employer’s tools and equipment in the Employee’s possession, provided that central tool cribs are used and the Employee is required to pick up and return tools daily. The Employer may utilize a security system or procedure to guard against loss.
+Section 4	— Contracts
+(a)	All work undertaken by Employers shall be in conformity with the jurisdiction conferred in this Agreement to the extent applicable and to the extent the Employer has control, include all items within the Territorial and Trade Jurisdictions set forth in Article II of this Agreement.
+(b)	In order to preserve all work on the job site as set forth in Article II of this Agreement, Employees shall not be required to perform work on any equipment or materials if such equipment or materials have previously been handled, set or prepared by others in any manner infringing upon the Trade Jurisdiction and if the Employer has a right of control in the selection of such equipment or materials.
+Section 5	— Limitations: Subcontracting
+(a)	No Employer shall contract or subcontract any work, to be done at a specific job site of construction, alteration or repair of a building, structure or other work, which comes within the Territorial and Trade Jurisdictions, to any person, firm or corporation not covered by a collective
+17
+bargaining agreement with the Union, if Employer or any subcontractor of Employer will at any time have an Employee at work at that specific job site.
+(b)	No Employer shall contract or subcontract any other work to be done at any specific job site of construction, alteration or repair of a building structure or other work, to any person, firm or corporation that does not have a collective bargaining agreement with a union or unions affiliated with the AFL-CIO if Employer or any subcontractor of Employer will at any time have at work at that particular job site an Employee affiliated with the AFL-CIO.
+(c)	Each Employer agrees to employ at least one Employee at each job site with respect to which the Employer subcontracts work within the trade jurisdiction .
+Section 6	— Uniformity of Conditions by Union
+The Union agrees that if during the life of this Agreement it enters into any kind of agreement with an individual employer or group of employers which shall establish or cause terms or conditions more favorable to any employer than are expressed in this Agreement, or rates less than those established by negotiation through the Joint Arbitration Board, then such more favorable terms or conditions, or lower rates, shall, at the election of the Association, be applicable hereunder. This Section shall not apply to Probationary Service/Appliance Technicians.
+Section 7	— Uniformity of Conditions by Association
+No Employer shall employ an Employee for less than the rates established by negotiations through the Joint Arbitration Board nor under any terms and conditions less favorable to such Employee than are expressed in this Agreement.
+Section 8	— Health and Safety
+(a)	Each Employer shall furnish non-prescription safety glasses or goggles, face shields, welding hoods, hard hats and such other safety equipment as required to be furnished by the Employer by the Occupational Safety and Health Act, state laws and specific user work site requirements concerning safety, with the exception of the items set forth in (c) below.
+(b)	Each Employee shall sign a receipt for all safety equipment issued to them by the Employer. The signed receipt shall be valid proof of Employer compliance with the Occupational Safety and Health Act safety regulations as to issuance of such safety equipment.
+(c)	Employees shall furnish and wear their own gloves and appropriate work shoes, and shall strictly observe the Occupational Safety and Health Act and all health and safety Requirements (as defined in Article VIII, Section 2). Additional foot protection (i.e. steel-toed shoes), if required, shall be provided by the Owner.
+(d)	The Employers and the Union recognize the importance of drug and alcohol abuse programs. Where such programs require testing as a condition of employment such programs shall be negotiated with the Union.
+18
+Section 9	— Education
+The Joint Arbitration Board cooperating with officers or business representatives of the Union and the Association is empowered to arrange for educational lectures and practical instruction to be delivered from time to time to members of either or both parties.
+Section 10	— Inspection
+A duly authorized and accredited representative of either principal to this Agreement shall be permitted to visit the premises on which work is being performed during working hours, but in doing so they shall in no way interfere with the progress of the work (and if the visit is to a controlled access job site, the Owner’s approval shall be obtained through the Employer).
+Section 11	— Reporting for Construction Work: Compensation (Show-Up Time)
+(a)	Any Employee ordered to report to the job for construction work by an Employer and not being put to work shall not remain longer than a period of two (2) hours, and shall receive two (2) hours show-up pay which shall be at the Employee’s Straight Time Rate on Monday through Friday, at one and one-half times the Employee’s Straight Time Rate on Saturday or double the Employee’s Straight Time Rate on Sundays, Holidays, or days observed as Holidays.
+(b)	Any Employee who reports for work and who commences work which is provided for the Employee shall receive not less than four (4) hours pay and, if more than four (4) hours are worked, the Employee shall receive pay for the actual time worked; provided if an Employee leaves work without the Employer’s permission the Employee shall only receive pay for the actual time worked.
+(c)	If work on a job is interrupted due to an unforeseen circumstance, and if the Employee is required by the Employer to remain at the job site, the Employee shall be paid at the Employee’s applicable pay rate for all hours spent at the job site in accordance with such request, whether or not working during all of such hours, with a minimum of four (4) hours paid at the Employee’s applicable pay rate if less than four (4) hours were spent at the job site. If the Employee, after being requested to remain at the job site, leaves the job site without the Employer’s permission, the Employee shall be paid only for the hours the Employee remains at the job site at the Employer’s request.
+(d)	If an Employee is notified by the Employer prior to 11:00 P.M. that there is a possibility of a job interruption the following day, it shall be the responsibility of the Employee to contact the Employer the following day to ascertain if the Employee should report for work. If the Employee fails to do so, and reports for work and there is no work, the Employee shall not receive show up pay.
+(e)	No Benefit or Education Fund contributions shall be paid with respect to the unworked hours paid under this Section 11, but the Wage-Work Assessment shall be deducted for all Show Up Time compensation and remitted to the Union.
+Section 12	— Employer’s and Employee’s Work: Restraints on Dual Capacity
+19
+An Employer or their authorized Executive Representative engaged in the business of contracting for work shall not perform the work of a journeyman Pipe Fitter, or be a member of the Union, nor shall a journeyman Pipe Fitter or a member of the Union contract or sub-contract for, or do piece work that includes work under the Trade Jurisdiction.
+ARTICLE VI
+Transportation of Tools and Material (Construction Only)
+Section 1 — Automobile
+An Employee may receive permission from their Employer to use the Employee’s automobile to transport tools and material required for construction work. When such permission is given, the Employer agrees to reimburse the Employee for the use of said automobile in the amount of $20.00 per tool and material move (round trip). This reimbursement shall cover all vehicle costs of the Employee including, but not limited to, depreciation, maintenance, repair, fuel, lubrication and insurance. The Employee shall, at the Employee’s expense, provide insurance acceptable to the Employer. The Employer also agrees to pay reasonable and necessary parking, tolls and telephone charges incurred by the Employee in the course of such employment. It is the responsibility of the Employee to furnish the Employer with dated paid receipts. Such rates may be adjusted from time to time by the Joint Arbitration Board.
+ARTICLE VII
+Work Outside Jurisdiction
+Section 1	— Employee Responsibility: Expense, Wages and Fund Contributions
+An Employer, when performing work located outside the Territorial Jurisdiction, agrees that the journeyman Pipe Fitter assigned by them to be in charge of the work in such area shall be a qualified and competent craftsman from the Territorial Jurisdiction and shall be paid not less than Foreman’s rate. The wages paid to the journeyman in charge of the work shall be at the Foreman’s rate current under this Agreement or current in the territory where the work is being performed, whichever is the higher rate, The board and expense of such journeyman shall be paid by the Employer. Such board and expense are not to be considered wages. In addition to wages and expenses, the Employer agrees to contribute to the Benefit Funds and the Education Fund, and to remit the Wage-Work Assessment, as provided in this Agreement.
+Section 2	— Employees: Rates
+In the event an Employer contracts for work outside the Territorial Jurisdiction of the Union, the wages paid to an Employee sent by the Employer, shall be the current rate under this Agreement, or current in the territory where the work is being performed, whichever is the higher rate. The board and expense of such journeymen shall be paid by the Employer. Such Board and expense are not to be considered wages. The Employer shall remit the Wage-Work Assessment as provided in this Agreement.
+20
+Section 3	— Disputes or Disagreements
+Any dispute or disagreement arising under this Article VII remaining unsettled after being processed under the provisions of the prevailing local agreement in the other area, may be reported by the Employer involved, to the Union, or to the Joint Arbitration Board.
+ARTICLE VIII
+Supervisors
+Section 1	— Selection
+Each Employer shall select and classify such Supervisory Personnel (General Superintendent, Superintendent, General Foremen, Foremen), as the Employer deems necessary for proper supervision of the work and they shall be subject to the terms of this Agreement. The Employer shall have the sole discretion to classify, and to determine the duties and responsibilities of, the Supervisory Personnel, including work within the Trade Jurisdiction.
+Section 2	— Health and Safety Requirements
+Each Employer shall designate health and safety oversight personnel who shall reasonably endeavor to acquaint each Employee with all safety and health statutes, standards, rules, regulations and orders (collectively “Health and Safety Requirements”) applicable to Employees’ conduct such as, but not limited to, those issued under the Occupational Safety and Health, Hazardous Substances and Drug and Alcohol Abuse statutes and regulations. Each Employer shall, to the extent reasonably possible, acquaint said oversight personnel with Health and Safety Requirements.
+Section 3	— Reporting Accidents
+Any work-related accidents shall immediately be reported by Supervisory Personnel to the Employer. In the absence of supervisory personnel, the journeyman in charge shall report the accident to the Employer,
+Section 4	— Union
+The Union shall not be liable in any way for any violations, by an Employer or its health and safety oversight personnel or Employees acting in the course of their employment, under the Health and Safety Requirements, but the Union hereby agrees to cooperate fully to promote safety and health standards and compliance with Health and Safety Requirements.
+ARTICLE IX
+Hiring and Notice
+Section 1	— Responsibility
+(a)	The Employer shall have the sole and exclusive responsibility for hiring and shall, subject to Section 5 of Article IX, hire all Employees, except Apprentices and Probationary Metal Trades
+21
+Service/Appliance Technicians, in accordance with the provisions of Article IX of this Agreement and the Hiring Hall Rules of Operation.
+(b)	Each Employer shall employ Apprentices in accordance with the requirements established by the Apprenticeship Agreement between the MCA and the Union.
+Section 2	— Hiring Hall
+The Union shall maintain one or more Hiring Halls, and refer applicants for employment to the Employer, in accordance with the provisions of Article IX of the Agreement and the Hiring Hall Rules of Operation.
+Section 3	— Determination of Residence
+In determining whether an individual is from within the Territorial Jurisdiction, the records of the Benefit Funds or other credible evidence shall be conclusive as establishing such individual’s residence.
+Section 4	— Non-Discrimination
+There shall be no priority given with reference to opportunities for employment to any person because of membership in the Union or non-membership in the Union, nor shall there be any discrimination made because of reason proscribed by law. The Union shall advise applicants for work about available jobs on a non-discriminatory basis and this advice shall not be based on, or in any way be affected by, Union membership, by-laws, rules, regulations, constitutional provisions or any other aspect or obligation of Union membership, policies or requirements, except as otherwise provided in the Hiring Hall Rules of Operation.
+Section 5	— Applicants
+The Employer shall have the sole and exclusive right of accepting or rejecting applicants for work, however, Employers shall not reject applicants on any basis proscribed by law.
+Section 6	— Intent
+Nothing in this Article shall be construed, nor is it the intention of the parties to so apply it, as to encourage or discourage membership in the Union.
+Section 7	— Hiring Hall Committee
+(a)	The Union and the MCA shall establish a Hiring Hall Committee (“Committee”). The Committee shall consist of two persons appointed by the Union and two persons appointed by the MCA. The Committee shall make decisions by majority vote, however at least one Committee member appointed by the Union and one Committee member appointed by the MCA must approve any resolution in order for it to carry. In the event of a deadlock, the matter shall be referred to the Joint Arbitration Board. Further, the Joint Arbitration Board shall have the power to override any action taken by the Committee. Expenses of the Committee shall be paid in the same manner as expenses of the JAB.
+22
+(b)	The Committee shall have the authority to (1) create written and binding operation rules for the Hiring Hall; (2) hear and adjudicate disagreements arising under such rules; and (3) to police the effective operation of the Hiring Hall for effectiveness and compliance with all applicable legal requirements.
+ARTICLE X
+Union Security
+Section 1	— Maintenance of Membership
+(a)	All Employees now included in the bargaining unit represented by the Union and having membership
+therein must maintain their membership in the Union as long as this Agreement or any successor agreement is maintained, without hiatus, between the Association and the Union.
+(b)	All other Employees shall, as a condition of employment, become members of the Union after the seventh day following the beginning of such employment, or the effective date of this Agreement, whichever is later.
+Section 2	— Union Membership Status
+An Employee to whom membership in the Union is denied by reason of the failure of such Employee to tender or pay initiation fees and dues uniformly required as a condition of acquiring membership, or whose membership is terminated by the Union for failure to tender or pay periodic dues uniformly required as a condition of retaining membership, shall not be continued in the employ of any Employer under this Agreement.
+ARTICLE XI
+Insurance
+Each Employer shall carry or cause to be carried, the following insurance to fully protect Employees:
+(a)	Workmen’s Compensation: Each Employer must insure their entire liability to pay Workers* Compensation claims with an insurance carrier licensed to do such business in states within which it operates. Each Employer shall file with the Union, if requested by the Union, a certificate of such insurance containing no less than a ten-day notice of cancellation.
+(b)	Unemployment Compensation: In order to insure all Employees covered by this Agreement against
+the hazards of unemployment resulting through no fault of their own, it is agreed that all Employers shall elect coverage under all applicable state unemployment compensation acts, and be liable for the payment on contributions thereunder in the manner provided under such acts.
+(c)	Surety Bond: Each Employer shall procure and maintain a Surety Bond in the principal sum of ten thousand dollars, payable to the Benefit Funds with respect to Benefit Funds payments required by
+23
+Article III, Section 2; payable to the Union with respect to Wage-Work Assessments; and payable to the Education Fund with respect to Education Fund contributions. Such surety bond shall be conditioned upon the Employer paying any and all wages, expense allowance, Wage-Work Assessments and fund payments with respect to all Employees and shall guarantee payment of those items to the extent of the principal of said Bond. Such Bond shall be executed only on a uniform Union-approved bond form, and filed with the Union. The Union shall, upon request, make said bond forms available to the Trustees of the Funds.
+ARTICLE XII
+Joint Arbitration Board
+Section 1	— Arbitration Board
+A Joint Arbitration Board shall be established consisting of ten members, five from the Union and five from the Association. On the second Monday of January of each year the Board shall meet and from its members elect a Chairman who shall preside at the meetings, and a Secretary-Treasurer (who need not be a member of the Board).
+Section 2	— Meetings and Quorum
+(a)	The Board shall meet upon forty-eight hours written notice given to the other by either the Union or the Association.
+(b)	Four members of the Board (two from the Union and two from the Association) shall constitute a quorum for the transaction of business, but the Union and the Association shall each have the right on a roll call vote to cast a full vote for all of its representatives and it shall be counted as though all were present and voting.
+Section 3	— Powers and Duties
+(a)	The Joint Arbitration Board shall have jurisdiction to carry out the terms of this Agreement and to conduct bargaining negotiations covering all disputes (including Welfare, Retirement, Training and Education Fund contributions as well as Wage-Work assessment deductions), that might arise between Employers and Employees with respect to wages, hours, and conditions of employment. Notwithstanding, anything in this Agreement to the contrary, the Joint Arbitration Board shall also have jurisdiction, at any time, to amend and modify this Agreement and/or to create Supplements to apply to special situations or conditions that are not of general application but are only of limited application as set forth in such Supplement.
+(b)	It shall have the right to summon any individual subject to this Agreement as principal or witness to a dispute. Such summons may be served in a manner to be prescribed by the Board.
+(c)	The Joint Arbitration Board has established, and may continue through negotiations: a fund (“Education Fund”) for programs and services to advance the industry with contributions paid to the Education Fund Trustees; and a Wage-Work Assessment to be deducted from Employees’ wages and paid to the Union.
+24
+(d)	Any Employer, although not a member of the Association, shall become bound by this Area Agreement by signing a Subscription Agreement, and by so doing, it appoints the Association and the Association members of the Joint Arbitration Board as its sole and exclusive bargaining agent in any and all negotiations with the Union with respect to work covered by this Agreement.
+Section 4	— Application and Interpretation of Agreement
+(a)	All disagreements concerning the application or interpretation of this Agreement (including those concerning Welfare, Retirement, Training and Education Fund contributions as well as Wage-Work Assessments) must be arbitrated. The Board shall be the arbitration forum and shall have full power to enforce this Agreement and enforce working rules for the parties subject to this Agreement. It shall have the power to impose such penalties from time to time as it may deem advisable, including fines. The arbitral decision of the Board shall be final and binding on all parties subject to this Agreement.
+(b)	Nothing contained herein shall prevent any Employer from dealing with their Employee with respect
+to any disagreement or dispute.
+Section 5	— Procedure
+(a)	Should a dispute or disagreement arise between: the Union and the Association; an Employer and an Employee; an Employer and the Union; or an Employer and any Fund Trustees; such dispute or disagreement shall be submitted in writing to the respective President and Business Manager of the parties hereto with a copy to the Joint Arbitration Board within three business days after the dispute or disagreement arises. Should the President and Business Manager fail to agree and dispose of the matter within twenty-four hours, the dispute or disagreement shall then be taken up by the Joint Arbitration Board for adjudication. The Board shall hear the evidence and render its decision as expeditiously as possible. All decisions shall be determined by a majority vote, and shall be final and binding on all parties.
+(b)	Under no circumstances is work to be stopped or the manner of performing same interfered with pending the result of the arbitration.
+(c)	Should the foregoing procedures fail to resolve any dispute or disagreement, the parties to the dispute or disagreement shall submit the dispute or disagreement to the Industrial Relations Council for the Plumbing and Pipe Fitting Industry in accordance with its rules and regulations. All terms and conditions of this Agreement shall continue in full force and effect, pending final decision by the Industrial Relations Council, which decision shall be final and binding on all parties.
+Section 6	— Vacancies
+Should a member of the Joint Arbitration Board be unable to serve because of suspension, resignation or any other reason, a successor shall be selected by and from the organization in which they hold membership.
+Section 7	— Failure of Board to Meet
+Failure on the part of the Joint Arbitration Board to meet as provided in this Agreement and to have present
+25
+and maintain a quorum for the consideration of any matter referred to it shall be a violation of this Agreement on the part of the Association or the Union whose members failed to have present sufficient representation to transact business as provided for in this Agreement.
+Section 8	— Compensation and Expense
+Compensation for services rendered by members of the Joint Arbitration Board may be fixed, determined and paid by the respective appointing entity. Expenses incurred by the Board, outside of compensation to its members, in carrying out its functions shall be borne equally by the Union and the Association.
+ARTICLE XIII
+Conflicting Agreements
+Section 1	— Conflicting Agreements
+The Union and the Association, and all Employers hereby agree that they will not, within the Territorial and Trade Jurisdictions of the Union, enter into any agreement which affects work performed under this Agreement, and which contains a provision in conflict with this Agreement, unless such Agreement is approved by the Joint Arbitration Board.
+Section 2	— Conflicting By-Laws and Working Rules
+The parties agree that neither will pass or enforce by-laws or working rules conflicting with this Agreement.
+ARTICLE XIV
+Duration of Agreement
+This Agreement, and all amendments and modifications thereto, shall remain in full force and effect until June 1, 2006, and from year to year thereafter unless terminated effective on any June 1 on and after June 1,2006, by written notice given by either the Union or the Association to the other at least six (6) calendar months prior to the effective date of termination. Either the Union or a non-member of the Association may terminate this Agreement as to said non-member by like written notice given by either the Union or such nonmember to the other, effective on a date as above specified. Any such notice with regard to a non-member of the Association shall also be given to the Association and shall effect a termination of the Association’s representation of such non-member and of such member being a part of the collective bargaining unit, effective on said effective date of termination, provided, however, such non-member may not give such notice, and said notice shall be of no effect, while negotiations are in process between the Union and the Association or by the Joint Arbitration Board. The foregoing notwithstanding, this Agreement may be reopened for limited renegotiation as provided in Article III, Section 7, and for supplements as provided in Article XU, Section 3(a). In all other respects, this Agreement shall remain in full force and effect unless changed or modified by mutual consent of the Union and the Association.
+26
+ARTICLE XV
+Acceptance and Nontransferability of Agreement
+Section 1	— Subscription Acceptance
+The Union and the Association hereby accept the subscription to this Agreement, in accordance with the terms thereof.
+Section 2	— Nontransferability
+This Agreement shall not be transferable by any Employer either by action of such Employer or by operation of law. In the event any Employer (whether an individual, partnership or corporation) merges, consolidates or transfers a controlling interest in the business, this contract may be canceled as to such Employer by the Union.
+ARTICLE XVI
+Legality
+Should any of the terms and conditions of this Agreement be found in violation of any Federal or State Laws (e.g., based on published court decisions or rulings of authorized governmental agencies) then such terms and conditions shall become void and ineffective immediately on written notice to this effect from one party to the other, but all other provisions of this Agreement shall continue in full force and effect. In the event there is disagreement on the legal interpretation of statutory amendments, governmental regulations, or decisions by courts or administrative agencies, the subject matter shall be promptly referred to the Joint Arbitration Board for final determination through legal counsel.
+ARTICLE XVII
+Jurisdictional Disputes
+Section 1	— Standard Agreement
+The parties to this Agreement shall be bound by the provisions of the Standard Agreement establishing the Joint Conference Board (“JCB”) of the Construction Employers’ Association and the Chicago and Cook County Building and Construction Trades Council, as adopted and amended from time to time, which said Agreement, and all past and future amendments thereto, are incorporated herein as though fully set forth herein. All jurisdictional disputes shall be submitted to the JCB in accordance with the Standard Agreement. The foregoing submission to the jurisdiction of the JCB shall not be effective as to any dispute in which all of the parties involved therein, employers and unions, have not submitted to the jurisdiction of the JCB for such dispute.
+Section 2	— Impartial Jurisdictional Disputes Board
+All jurisdictional disputes not resolved by the parties and not within the jurisdiction of said JCB shall be
+27
+submitted for final and binding arbitration to the Impartial Jurisdictional Disputes Board for the Construction Industry (“Board”), or any successor thereto adopted by the Building and Construction Trades Department of the A.F.L.-C.I.O. and participating employers. The parties hereto agree to and accept and shall be bound by the rules, regulations and procedures of the Board or its successor as in effect from time to time. The foregoing submission to the jurisdiction of the Board shall not be effective as to any dispute in which all of the parties involved therein, employers and unions, have not submitted to the jurisdiction of the Board for such dispute.
+28
+SERVICE AND MAINTENANCE ADDENDUM
+Adopted and Effective
+October 1,2001
+SERVICE AND MAINTENANCE ADDENDUM
+Building Trades Journeyman Service and Maintenance Work Metal Trades Service Technician Residential/Appliance Service Technician Probationary Service/Appiiance Technician
+The Union and the Association hereby modify and amend this Area Agreement to provide for this Service and Maintenance Addendum, which shall apply to all Service and Maintenance Work which comes within the Trade and Territorial Jurisdictions of the Union. All provisions of the Area Agreement not specifically modified herein shall remain in full force and effect and are incorporated by reference. Where any provision of the Area Agreement conflicts with any provision herein, this Service and Maintenance Addendum shall control.
+ARTICLE SA-I Defined Terms
+(a)	“Mechanical Service and Maintenance Work” is the work normally performed by contractors, either by contract or on an emergency call basis, to keep a Mechanical System and controls of a refrigeration, air conditioning, heating and/or ventilation or any other Mechanical System in operational order. Service and maintenance includes, but is not limited to, maintaining, cleaning, adjusting, repairing, overhauling, starting and balancing any system or component part thereof, regardless of size or location, and, where expressly provided hereinafter, installation, modification and renovation.
+(b)	“Appliance Equipment” — manufactured products such as freezers, refrigerators, room coolers, packaged ice makers, water coolers, gas ranges, and other similar appliances which come within the Trade Jurisdiction of the Union.
+(c)	“Refrigeration and Air Conditioning System” — a Mechanical System composed of the condensing unit, evaporator, blower, coil apparatus and related mechanism, piping and controls.
+(d)	“Fuel Burning Equipment” — mechanical apparatus for the burning of fossil fuel in heating
+systems.
+(e)	“Residential Work” — “Mechanical Service and Maintenance Work” on a Mechanical System providing air conditioning and/or heating to a single family residence or in a structure containing one, but no more than four, residential units.
+(f)	“Commercial Maintenance Work” — Mechanical Service and Maintenance Work on any part of an existing and previously operating Mechanical System providing air conditioning and/or heating to office, retail, hotel, motel, business, commercial, research, educational, institutional, medical, industrial and manufacturing spaces.
+(g)	“Service Employee” — A Building Trades Journeyman when performing Mechanical Service and
+Maintenance Work, a Metal Trades Service Technician, a Residential/Appliance Service Technician, a Probationary Service/Appiiance Technician.
+29
+(h)	“Standby Duty” — an Employee holding themselves in readiness to perform Mechanical Service and Maintenance Work when called upon by the Employer to do so between the end of the particular Employee’s Standard Work Day and the commencement of their next succeeding Standard Work Day.
+ARTICLE SA-II
+Scope of Work — Residential/Appliance Service Technicians
+Residential/Appliance Service Technician may be employed to perform the following:
+(a)	Installation, service, repair, maintenance and replacement work on:
+1.	All window heating/air conditioning units (room coolers).
+2.	Residential type through the wall, self contained heating/air conditioning units.
+3.	Residential Work, as defined in this Article I, Section 1 (e).
+4.	Appliance Equipment, as defined in this Article I, Section 1 (b).
+(b)	Filter changing and maintenance.
+(c)	Oiling and greasing.
+(d)	Belt adjusting or replacement.
+(e)	Cleaning cooling towers, coils, evaporator and condenser tubes and water treatment equipment.
+(f)	General housekeeping.
+(g)	Delivery of parts or equipment.
+(h)	Replacement of heating and/or air conditioning equipment in any single family residence, not to
+exceed four residential units in a single structure.
+ARTICLE SA-HI
+Scope of Work — Metal Trades Service Technicians
+Metal Trades Service Technicians may be employed to perform the following:
+(a)	All of the Scope of Work set forth for Residential/Appliance Technicians in Article n.
+(b)	Installation, service, repair, maintenance and replacement work on water treatment systems for cooling towers.
+(c)	Service, repair, maintenance and replacement of defective equipment on:
+1.	Commercial Maintenance Work.
+2.	Mechanical Systems providing air conditioning and/or heating to multifamily
+30
+dwellings, including but not limited to, condominiums, town houses and apartment buildings.
+3.	Roof top units of all sizes.
+4.	Low pressure steam and water boilers and the “Fuel Burning Equipment” thereof.
+5.	All package air handling units.
+6.	Built-up Refrigeration and Air Conditioning Systems, up to 100 tons.
+(d)	Operation of existing Mechanical Systems providing air conditioning, and/or heating under contract with the customer, consisting of operation watch, standby and logging.
+(e)	Inspection and adjusting, testing, balancing, re-commissioning and startup of heating, refrigeration and air conditioning systems/equipment referred to in Articles II and III.
+ARTICLE SA-IV
+Scope of Work —
+Building Trades Journeyman When Performing Mechanical Service Maintenance Work
+Building Trades Journeyman may be employed to perform any and all work within the Trade Jurisdiction, including, but not limited to, all of the Scope of Work set forth herein for Metal Trades Service Technicians, and Residential/ Appliance Service Technicians, and installation, service, repair, maintenance, replacement, inspection, modifications, retrofitting and renovation work.
+ARTICLE SA-V
+Scope of Work — Probationary Service/Appliance Technicians
+(a)	Scope of Work: A Probationary Service/Appliance Technician may be assigned by the Employer to perform any work referred to in Articles II and III which is within the capability of the individual, except new construction.
+(b)	Hiring, Notice, Probation and Compensation Rate: Employers may hire employees on a temporary trial basis as Probationary Service/Appliance Technicians, from any source, subject to the employment limitation ratio set out in Article V(c), without regard to membership in the Union, for the purpose of determining the technical and skill qualifications of such employees.
+Any Employer hiring a Probationary Service/Appliance Technician and failing to notify the Union, upon audit, shall be required to pay all fringe benefits to the Trust Funds, back to the original date of hire, and the employee must also pay all monies therefore owed to the Union. Employers shall, upon hiring a Probationary Service/Appliance Technician, within 7 days give written notification to the Union of the individual’s name, Social Security number, and employment date. The probationary period of employment shall not exceed one year, at or before the end of which time the Employer shall state in writing to the Union either: (1) that the individual is satisfactory and possesses the technical and skill qualifications as an Residential/Appliance Service Technician, or (2) if the individual is not found to be satisfactory and so qualified, and that the Employer will discharge said individual. Upon Termination of any Probationary Service/Appliance Technician the Employer shall immediately notify the Union either: (1) that the individual is satisfactory and
+31
+possesses the technical and skill qualifications as a Residential/Appliance Service Technician or Metal Trades Service Technician, and the type of equipment the individual has been working on or (2) if the individual is not found to be satisfactory and so qualified, that the Employer will discharge said individual in writing and state the date of termination. The Employer is free to establish: the rate of compensation for each individual Probationary Service/Appliance Technician based on experience and training; and if any Employer fringe benefits will be provided during the probationary period. Probationary Service/Appliance Technicians shall not be considered Employees as defined in the Area Agreement, shall not be members of the Union and the Union does not represent them, fringe benefit contributions shall not be paid on them, and Article V, Section 6 of the Area Agreement shall not apply to them.
+(c)	Employment Ratio: Probationary Service/Appliance Technicians may be employed in accordance with the following ratios: Two (2) Probationary Technicians for the first five (5) Service Employees (other than Probationary Technicians). One (1) additional Probationary Technician may be employed for each Apprentice employed in Mechanical Service and Maintenance Work.
+ARTICLE SA-VI
+Service Hours and Overtime
+Service Employees may be employed at any time to perform the work within their respective Classification, as set out in Articles 11, III, IV, and V in accordance with the following conditions and limitations:
+(a)	The Standard Work Week shall begin on Monday and end on Friday and shall consist of five (5) days of eight (8) hours of work each for a total of forty (40) hours of work.
+(b)	The Standard Work Day shall be eight (8) hours of work during a consecutive eight and one-half (8’/2) hour period (which period shall include a one-half hour unpaid lunch period) commencing at such time from 6:30 A.M. to 9:30 A.M. as agreed between the Employer and the individual Employee.
+(c)	On a Standard Work Day, a Service Employee called to work shall receive a minimum of four (4) hours work for such day (which hours need not be consecutive) provided any of such four (4) hours worked after 4:30 P.M. shall be paid for at the rate of one and one-half times the Employee’s Straight Time Rate. Once a Service Employee reports at the Employer’s office, shop or job site, at the Employer’s request, the Employee’s pay period starts.
+(d)	One and one-half times the Straight Time Rate will be paid for all Mechanical Service and Maintenance Work performed: Monday through Friday before and after the Standard Work Day agreed upon by the Employer and the individual Employee; and between Midnight Friday and Midnight Saturday.
+(e)	Double the Straight Time Rate shall be paid for all Mechanical Service and Maintenance Work performed between Midnight Saturday and Midnight Sunday, except that only one and one-half times the Straight Time Rate shall be paid for all non-scheduled emergency work performed during said time period.
+32
+(f)	Double the Straight Time Rate shall be paid for all Mechanical Service and Maintenance Work performed on Holidays or days observed as Holidays.
+(g)	Voluntary Standby Duty During the Standard Work Week — Employees may volunteer for listing for Standby Duty. Submission to voluntary Standby Duty listing shall not be a condition of employment. Compensation, if any, for such voluntary listing shall be as agreed between the Employer and the individual Employee. If the Employee is actually called to work, the Employee shall receive only the greater of the agreed Voluntary Standby Duty compensation, if any, or pay for the hours actually worked, portal to portal.
+(h)	Mandatory Standby Duty — An Employee assigned on a mandatory basis to Standby Duty shall be guaranteed a minimum of the following, depending upon which time the Employee is so assigned: unless otherwise mutually agreed upon, the Employee shall receive one (1) hour of pay per night for the period between 8:00 A.M. Monday and 8:00 A.M. Saturday; and two (2) hours of pay per day for the period between 8:00 A.M. Saturday and 8 :00 A.M. Monday and for Holidays. The guarantee shall be paid at the Employee’s Straight Time Rate. If an Employee is actually called to work, the Employee shall receive only the greater of the minimum guarantee or pay for the hours actually worked, portal to portal. Assignments outside the Standard Work Day shall only be for bona fide calls and shall not be held over from the Day Shift.
+ARTICLE SA-VII
+Union Membership — Metal Trades Division
+Individuals other than Probationary Service/Appliance Technicians employed to perform the work covered in this Service Addendum shall, as a condition of employment, become members of the Union after the seventh (7th) day following the beginning of such employment. Employers, upon hiring individuals to perform work covered by this Addendum, shall notify the Union of said employment. Failure of the Employer to report any such individual shall be cause for discipline by the Joint Arbitration Board which may include a fine.
+ARTICLE SA-VIII
+Tools for Performance of “Mechanical Service and Maintenance Work”
+(a)	Employees doing Mechanical Service and Maintenance Work shall be required to furnish a basic kit of hand tools to perform normal duties as shown on Table 1. Tools furnished by the Employees shall be itemized on an inventory sheet and, where possible, personally identified.
+(b)	The Employer may not, as a condition of employment, require the technician to supply any tools other than those listed.
+(c)	All other tools, equipment, instruments, meters, and communication devices required for Employees
+for Mechanical Service and Maintenance Work shall be furnished by the Employer.
+(d)	Tools furnished by the Employee that are broken or damaged in the course of employment (other
+33
+than through fault of the Employee) shall be repaired or replaced (in like kind) by the Employer, if possible.
+(e)	Employee’s tools that are stolen shall be replaced by the Employer, if: they are stolen from a mutual security arrangement made in the form of a locked job box, in either the truck/service vehicle, or on the jobsite or loss is due to forced entry to such security arrangement; and there has been a police report.
+When tool theft occurs from a truck/service vehicle, Table 1, “Tool Replacement,” shall apply.
+(f)	Employees shall be responsible for all tools, equipment, vehicles, instruments, meters, communication devices and other items supplied by the Employer. The Employee shall be liable for replacement of tools, whether furnished by the Employer or the Employee, which are damaged, lost or stolen due to carelessness or negligence of the Employee.
+(g)	The Employer may, at its option, insure Employee furnished tools against loss or theft, and the Employee shall receive no further reimbursement for their use in the course of employment other than repair or replacement as provided herein.
+(h)	The Employer shall not require an Employee to secure an insurance policy against loss of the Employee’s tools or against loss of the Employer’s tools in the Employee’s control.
+ARTICLE SA-IX
+Service and Maintenance Vehicles/Trucks/Vans
+(a)	Employers shall provide a vehicle/tnick/van to Employees performing Mechanical Service and Maintenance Work, and it shall not be a condition of employment that an Employee furnish or use their own service vehicle, unless the Employee’s driving record makes it prohibitive for the Employer to provide the service vehicle.
+(b)	Employees assigned company owned vehicles shall cooperate with service supervisors with respect to completing scheduled maintenance and/or repair of said vehicles.
+(c)	Compensation for the use of the Employee’s vehicle while the Employee’s assigned company vehicle is in for service/repair shall be as negotiated between the Employer and the Employee.
+ARTICLE SA-X
+Service Managers/Supervisors
+(a)	The Employer may appoint Service Managers/Supervisors for the proper and necessary supervision of Mechanical Service and Maintenance Work performed by the Employer’s Employees, and they shall be agents of the Employer.
+(b)	A member of the Union when promoted/hired to perform in the position of Service
+34
+Manager/Supervisor may assist, supervise and work with other members of the Union, conditional upon said individual’s maintaining membership in the Union.
+(c)	An individual who is not a member of the Union may perform in a position of Service Manager, but said individual shall not perform manual work that is within the Union’s Trade Jurisdiction, except for purposes of instruction or demonstration that does not displace employment of a Union member.
+(d)	A member of the Union when promoted/hired to perform in the position of Service Manager/Supervisor may, at their option, elect to continue or terminate their Union membership. If an Employee terminates their Union membership to accept a position as a Service Manager/Supervisor, said Employee may no longer perform manual work that is within the Union’s Trade Jurisdiction, except for purposes of instruction or demonstration that does not displace employment of a Union member.
+ARTICLE SA-XI
+Conflicting Provisions
+In the event of any conflict between provisions of this Section and any other provisions of this Agreement, the provisions of this Section shall prevail and be applicable to Mechanical Service and Maintenance Work.
+35
+TABLE 1: Minimum Basic Kit of Hand Tools
+1 Three-hose refrigeration manifold
+1 Extra charging hose
+1 *4"-Refrigeration wrench
+1 3/s"-Refrigeration wrench
+1 Channel lock pliers
+Lineman’s pliers
+1 Electronic Leak Detector
+1 Grease gun and fittings kit (grease supplied by employer)
+1 Oil can (pump type)
+1 Soldering gun
+1 Wheel puller (small)
+1 Vise grip
+3 Tin snips-1 right, 1 left, and 1 straight
+1 Plumb bob
+1 Torpedo pocket level
+1 Set electrical nut drivers
+1 Chain wrench
+I Vacuum hand oil pump
+1 Tube crimper-pliers
+1 Set tube benders (W through 3/e")
+1 Wire crimper and cutter
+1 Box/end combination wrenches 3/a" thru 1*4"
+1 Swedging tool
+1 set Allen wrenches of various lengths-
+*/16" thru *4” sizes
+1 Pocket thermometer (0 to 220 F)
+1 Sling psychrometer
+1 Hare set
+1 Copper cutter — *4" thru 1 1/b"
+1 Fuse puller
+4 Crescent wrenches 6", 8", 10", 12"
+1 Hacksaw with two extra blades
+3 Pipe wrenches 6", 10", and 14"
+1 set Sockets *4" drive
+I set Sockets %" drive
+1 set Sockets *4” drive
+1 Long nose pliers
+1 Side cutter pliers
+2 sets Screwdrivers-1 flat and 1 Phillips (stubby, pocket, 6", 8" and 10")
+2 hold screwdrivers 1 -flat and 1- Phillips
+1	Holding screwdriver
+2	Hammers-1 ball peen-2# and 1 claw
+1 inspection minor
+1 Drop light
+1 flashlight-(Batteries supplied by employer)
+1 25' Tape measure
+1 Tool box for hand tools
+50' Extension cord
+1 3/e" Electric (or cordless) drill
+and 12 piece drill bit set
+1 Pocket Knife
+6 Metal files-various types thru 14"
+1 Scratch awl
+1 Keyhole saw
+1 Pocket thermometer (-40 to + 160 F)
+1 torch (tanks to be supplied by employer)
+1 6" Center punch
+1 Set of 4 easy-outs
+6 Small chisels, various sizes not over 14"
+1 Multimeter
+1 Clamp-on ammeter
+Tool Replacement
+(a)	Tools stolen from a Truck or Service Vehicle — The Employer will replace stolen tools from burglarized vehicles provided the following conditions (where applicable) are met:
+1.	All locks must have been installed and functioning on both the side and rear doors of the vehicles and the security system(s) must be activated.
+2.	The entrance way of the truck from the front cab area must be closed and locked.
+3.	A complete and updated tool list of all the Employee’s personal tools must be filled out and
+signed by the Employee’s manager.
+4.	A police report must be filed.
+5.	No tools or valuables should be stored or kept in the cab portion of the vehicle. Any items whether tools or valuables, stolen from the front cab portion of the vehicle, will not be reimbursed.
+(b)	Tools Stolen from Other Than a Truck or Service Vehicle — The Employer will replace stolen tools
+in accordance with Article VIII (e) through (g).
+36
+IN WITNESS WHEREOF, the Association has caused this instrument to be signed by its President and attested by its Secretary and the corporate seal affixed thereto, and the Union has caused this instrument to be signed by its duly authorized agents as of the day and year first above written.
+Attest: MECHANICAL CONTRACTORS ASSOCIATION
+Robert F. Lawinger, Secretary	By Frank Reid, President
+Attest: Pipe Fitters’ ASSOCIATION, LOCAL UNION 597
+Curt L. Cade, Secretary
+By James Buchanan, Business Manager
+Approved and adopted by unanimous action of the Joint Arbitration Board this 10th day of May A.D. 2001, to become effective as of October 1, 2001.
+JOINT ARBITRATION BOARD
+MECHANICAL CONTRACTORS ASSOCIATION
+J. H. McCauley, Chairman S.'?'
+J. D. Curran, P. L. Troyke
+F.	S. Oyer, K. Condon
+G.	Kearney, J. Nowicki,
+T. Smerz
+S. L. Lamb, Recording Secretary
+PIPE FITTERS’
+ASSOCIATION LOCAL UNION 597
+: r :R.-klicker, JAB Secretary-Treasurer ’J.'Buchanan, C. Cade,
+M K. Eee,;T. Burke,
+J. Kuszynski, E. Paulsen, Sr.
+37
+Chicago, Illinois ,20
+SUBSCRIPTION
+In consideration of the benefits to be derived from the foregoing Area Agreement, the undersigned Employer, although not a member of the Mechanical Contractors Association (“Association”), does hereby: recognize Pipe fitters Association Local Union 597 (“Union”) as the sole and exclusive bargaining representative for and on behalf of Employees of the Employer coming within the Trade and Territorial Jurisdiction of the Union; appoint the Association as its sole and exclusive bargaining representative in any and all negotiations with the Union, in accordance with the Constitution and By-Laws of the Association ; and consents to join the multi-employer bargaining unit represented by the Association. The undersigned does hereby subscribe to the foregoing collective bargaining agreement (Area Agreement) between said Association and the Union, and agrees to abide by, and be bound by, all the terms and conditions thereof and by all amendments and extensions thereof, and hereby ratifies and accepts said collective bargaining agreement and the terms and conditions of said agreement and the action taken by the Association, now or hereafter, on behalf of the undersigned as fully and completely as if made by the undersigned.
+Firm Name
+Street Address
+City
+( )
+Telephone
+Please indicate if your firm is a
+□ corporation
+□ partnership
+□ sole owner or proprietorship
+Copies to be filed with:
+Pipe Fitters Association Local Union 597 45 North Ogden Avenue Chicago, Illinois 60607
+Mechanical Contractors Association 1530 Merchandise Mart
+Chicago, Illinois 60654
+L\DOCS\INDUSTRAJAB\Area Agreement July 2001.wpd
+38
+Mechanical Contractors Ass o c i a t i o n
+1 530 Merchandise Mart Chicago, IL 60654 (3 1 2) 670-6740 www.mca.org
+Pipe Fitters Association, Local Union 597, U.A.
+45 North Ogden Avenue Chicago, IL 60607 (3 1 2) 829-4 1 9 1 www.pf597.org

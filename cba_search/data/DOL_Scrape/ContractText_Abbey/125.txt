@@ -1,0 +1,402 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca. NY 14853 607-254-5370 ilrref@cornell edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Jefferson Smurfit Corporation and Paper, Allied-Industrial, Chemical and Energy Workers International Union (PACE) AFL-CIO Local 498, 807, 1250 and 1258 (2002)
+K#: 1245
+Employer Name: Jefferson Smurfit Corporation
+Location: OH PA
+Union: Paper, Allied-Industrial, Chemical and Energy Workers International Union (PACE) AFL-CIO
+Local 498, 807, 1250, 1258
+SIC: 2650	NAICS: 322211
+Sector: P	Number of Workers: 1300
+Effective Date: 06/19/02	Expiration Date: 06/19/09
+Number of Pages: 37	Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.comell.edu/library/research/
+For additional information on the ILR School, http://www.ilr.cornell.edu/
+Agreement
+by and between
+Jefferson Smurfit Corporation
+A wholly owned subsidiary of Smurfit - Stone Container Corporation
+and the
+Paper, Allied-Industrial, Chemical and Energy Workers International Union
+A.F.L. - C.I.O.
+June 19, 2002
+June 19,2009
+12
+
+Index
+Article	Page	
+one	Recognition	1
+two	Union Security	2
+three	Purpose	3
+four	Check-off	3
+five	Seniority	5
+six	Starting Time	7
+seven	Wages	7
+eight	Transfers .	8
+nine	Overtime	8
+ten	Holidays Not Worked	9
+eleven	Holidays Worked	1)
+twelve	Rules for Computing Pay	12
+thirteen	Call Time and Reporting Time	12
+fourteen	Vacations	13
+fifteen	Union Committee	15
+sixteen	Grievance Procedure	16
+seventeen	Hire and Discharge	17
+eighteen	Responsibilities	18
+nineteen	Responsibility for Presence at Work	18
+twenty	Leave of Absence	19
+twenty-one	Strikes and Lockouts	20
+twenty-two	Notices Re Management and Union Personnel	21
+twenty-three	Bulletin Boards	22
+twenty four	Employees' Addresses	22
+twenty-five	Retirement Plan	22	!
+twenty-six	Funeral Leave	24
+twenty-seven	No Discrimination	25	;
+twenty-eight	Re-Employment of Persons in the Armed Forces	26
+twenty-nine	Jury Pay	27
+thirty	Production Work By Supervisors	27
+thirty-one	Severance Pay	27
+thirty-two	Renewal Clause	27
+thirty-three	Termination	28
+Exhibit A	Military Re-Employment Policy	31
+Exhibit B	Check-Off Authorization Form	33
+ii
+AGREEMENT
+This Agreement is made and entered into by and between the Cincinnati, Ohio, Container Plant, the Oaks, Pennsylvania, Valley Forge, Folding Carton Plant, the Solon, Ohio, Folding Carton Plant, and the Ravenna, Ohio, Container Plant of Jefferson Smurfit Corporation (A wholly owned subsidiary of Smurfit-Stone Container Corporation), hereinafter called the “Company” and the Paper, Allied-Industrial, Chemical and Energy Workers International Union, and its Local Unions No 498,807,1250, and 1258, hereinafter called the “Union"
+Article 1-RECOGNITION
+Section I.	The Company recognizes as the sole and exclusive bargaining agent in all matters relating to wages, hours and working conditions the Paper, Al tied-Industrial, Chemical and Energy Workers International Union and its Local 498 for all production and maintenance employees at the Company's Container Plant in Cincinnati, Ohio excluding all cafeteria employees, aU office and factory clerical employees, ail operating engineers, all firemen, all power plant oilers, all boiler room maintenance employees, all boiler room helpers and all guards, professional employees, and all supervisors, as defined in the National Labor Relations Act; and its Local 807 for all employees in its Oaks Pennsylvania, Valley Forge Folding Carton Plant, including the Roll Stock, Storage, and Shipping Departments in such Division, except for timekeepers, clerics, office employees, professional employees, guards and supervisory employees as defined in tbe National Labor Relations Act; and its Local 1250 for all of the Company’s employees at its Solon, Ohio, Folding Carton Plant, but excluding time keepers, clerks, office employees, Cafeteria Cashier, watchmen, professional employees and supervisors as defined in Section 2 of tbe National Labor Relations Act as amended; and its Local 1258 for all production and maintenance employees employed at the Company’s Ravenna,
+1
+Ohio, Container Plant, excluding all office and plant clerical employees, custodians, and janitorial employees and supervisors as defined by the National Labor Relations Act.
+Section 2.	The employees at the above described locations who are covered by the Union as listed above shall constitute a single multi-plant unit for the purpose of collective bargaining, and no separate tabor agreement shall be made at or for any mill(s) or factory(ies) at the above locations covering the employees belonging to the organization as listed.
+Arricfe 11-UNION SECURITY
+Section 1.	All present employees represented by the Paper, Allied-Industrial, Chemical and Energy Workers International Union and its affiliated Local 498, 807, 1250 and 1258, who are members of the Union on the effective date of this Agreement, or the date of execution, whichever occurs later, shall, as a condition of employment, remain members in the appropriate Local Union.
+Section 2.	All present employees represented by the above Union who arc not members on the effective date of this Agreement or the date of execution, whichever occurs later, shall, as a condition of employment, on or after the thirtieth day following the effective date of this Agreement or the date of execution, whichever occurs later, become and remain members in the appropriate Local Union.
+Section 3.	All new employees represented by the Union who are hired on or after the effective date of this Agreement or the date of execution, whichever occurs later, shall, as a condition of employment, on or after the thirtieth day following such employment, become and remain members in the appropriate Local Union.
+2
+' Section 4. In case there is any interference with production in the collection of Union monies, the Company reserves the right to
+। prohibit any collection on Company property.
+Section 5. It is agreed that there will be no electioneering or other Union activity on Company property, except the orderly work of Union Committee members as is provided in this । Agreement.
+Article HI- PURPOSE
+♦
+’ The genera) purpose of this Agreement is, in the interest of the employer and the employee, to provide for the operation of the
+-> Company’s plants under methods which will further to the fullest extent possible, the safety of the employees, stability of employment and employees* earnings, economy of operation, quality and quantity of output, cleanliness of plant, and protection of property. It is recognized by this Agreement to be the duty of the Company and the employees to cooperate fully, individually and collectively for the advancement of said conditions.
+Article IV-CHECK-OFF
+. Section 1. The Company agrees, for and on behalf of the employees covered by this Agreement who have furnished the Company with a properly signed authorization card. Exhibit B, 1, (which shall not be irrevocable for a period of more than one (I) year, or beyond the termination of this Agreement, whichever occurs sooner), to deduct initiation fees and monthly dues out of the wages of such employees from the first paycheck each month, such deduction to be in payment of dues and/or initiation fee for that month.
+3
+Section 2.	If an employee does not have sufficient earnings in said paycheck to pay his dues and/or initiation fee, then such dues and/or initiation fee shall be deducted from wages subsequently earned during that calendar month; if he does not have sufficient subsequent wages in said month, then the Company shall have not obligation to make deductions for such month.
+Section 3.	For new employee’s who furnish properly signed authorization cards, deductions shall start within 15 days following the end of the employee’s probationary period, consistent with the provisions of Section 2 above.
+Section 4.	Each Local Union agrees to advise its respective local plant management as to whether it will avail itself to the check-off service made available by this Article. Such advise shall be in writing, over the signature of the duly authorized officers of the Local Union; shall state the amount of the current monthly dues and initiation fee to be deducted; and shall certify that such dues and initiation fees were set in accordance with the Local’s By-Laws. The Company agrees to remit such deductions so collected to the Financial Secretary of the Local Union payable to the Local Union. The Union shall advise the Company in writing as to the name of the Financial Secretary and as to the address to which such funds shall be sent.
+Section 5.	In any case any member of the Union who fails to furnish a proper authorization card, or who revokes his authorization card, becomes in arrears in tbe payment of hts Union dues or initiation fee, the Union agrees to promptly notify the Company in writing prior to suspension of any member for nonpayment of the Union dues or initiation fee. If the Union should fail to notify the Company promptly in writing of such arrearage, the Company shall be relieved of any obligations to terminate
+4
+I
+employment of any employee not in good standing with the Union because of such arrearage.
+Article V- SENIORITY
+Section 1.	The Company recognizes the principle of seniority in the administration of promotions, demotions, lay-offs or recalls.
+Section 2.	In application where fitness and ability between |	employees are relatively equal, seniority shall prevail.
+Section 3.
+(a)	Application of the principles of seniority are provided for ,	in the contract Exhibits attached hereto.
+(b)	It is understood that present application of seniority as negotiated at the local level may continue to the extent that such negotiated changes conform to the principles established in this Article.
+Section 4.	Probationary Period: A probationary period of sixty (60) days continuous service must be accumulated before an employee acquires seniority status. After serving such probationary period seniority shall revert to the date of ' employment.
+i	Section 5. Seniority and job rights shall be terminated when:
+(a)	An employee quits or is discharged,
+(b)	An employee who has been laid off fails to report within five (5) days his intention to return to work, after having been notified by registered letter, mailed to his last known
+1 5 I
+address. A copy of such letter shall be sent to the Local Union. In every case the employee must report to work within ten (10) days but this period may be waived by the Company, providing a satisfactory explanation is given.
+(c)	An employee is absent from work for three (3) consecutive workdays without notification to the Company unless it was impossible to give such notice.
+(d)	An employee fails to report to work at the termination of a leave of absence.
+(e)	An employee has been laid off for six (6) months because of lack of work, unless he shall notify the Company in writing before the end of such six (6) months period and quarterly thereafter of his intention to return to work when recalled. Employees when laid off shall be notified in writing of this requirement.
+Section 6.	Seniority Lists
+(a)	When an employee acquires seniority, his name shall be placed on the seniority list in the order of the hiring date.
+(b)	The Company and the Union have previously cooperated in drawing up local plant seniority lists which have been posted in suitable locations within each department of the several plants. Up-to-date seniority lists will be posted from time to time, and any employees appearing on such revised seniority fists who did not appear on the previous lists, must file any objections they may have within thirty (30) calendar days after they are posted. If an employee is not at work when such list is posted, he then must file any
+6
+objection he may have to said revised list within thirty (30) calendar days after he returns to work. Otherwise they will be considered as true lists.
+Section 7.	This article shall not preclude provisions for special seniority in event of layoff, for Union Officers or Stewards who are capable of satisfactorily performing the work available in their respective departments.
+Section 8.	An employee transferred to a job outside the bargaining unit and who maintains good standing in his Local Union, may be reinstated in his former production job within the following nine (9) months without loss of seniority.
+Article VI - STARTING TIME
+Section 1.	The Company will post on its plant bulletin boards, notices stating the regular starting time of the various shifts and will endeavor to continue with present starting times.
+Section 2.	Before any permanent or temporary (in excess of one (1) week) change is made in the starting times of the various shifts, the local plant management and Union, will, in good faith, discuss the situation.
+Section 3.	During extended slack periods in any department, when shorter hours are worked the Company will discuss the situation with the Union and will regulate the hours to the best advantage of all considered.
+Article VII-WAGES
+Section 1.	The Minimum Hourly Base Rates and Job Classifications for employees covered by this Agreement are set forth in Exhibits C through F and made a part thereof.
+7
+!
+I	Section 2. Shift Differential. The Company agrees to pay a
+I shift differentia] effective June 19,2002, of twenty (20) cents per 1 hour to workers on the second shift and a shift differentia] of thirty-three (33) cents per hour to workers on the third shift in accordance with die principle set forth in Article IX, Section 7.
+Article W/-TRANSFERS
+Section 1, an employee temporarily transferred, for the Company's convenience, to a job carrying a lower base rate than his present rate, shall continue to be paid at his present rate.
+Section 2.	An employee temporarily transferred, to make work for such employee, to a job carrying a lower base rate than his present rate, shall be paid at such lower rate.
+Article IX-OVERTIME
+Section 1.	The workweek shall start on Monday. The workday will start at the beginning of the regular morning shift schedules and end the following morning.
+Section 2.	Overtime of half time, in addition to regular straight-time hourly earnings, will be paid for hours worked over eight (8) hours per day, and for all consecutive hours worked in excess of eight (8). Daily overtime for second (2nd) and third (3rd) shift employees will be computed in the same manner as through they were first (1st) shift employees.
+Section 3.	Overtime of half time, ait addition to regular straight-time hourly earnings, will be paid for hours worked over forty (40) hours per week.
+8
+(
+j	Section 4. Overtime shall not be'paid on both daily and
+weekly hours, but merely on whichever is greater.
+। Section 5. If employees trade shifts for their own convenience, the Company will not be liable for daily overtime pay under Section 2 above.
+Section 6.	If the rotation and changing of shifts require employees to work more than (8) hours in a workday the I Company will not be liable for daily overtime as provided for in , * Section 2 above.
+Section 7.	Shift differential, and premium rates set forth in Exhibits C through F, will be paid only for hours actually worked * on the designated shifts or premium days.
+Sections. Saturday and Sunday
+Saturday: The Company agrees to pay, in addition to regular straight-time hourly earnings, premium pay of half time for all worked performed on Saturday.
+Sunday: The Company agrees to pay, in addition to regular straight-time hourly earnings, premium pay of full lime
+•	for all work performed on Sunday.
+Rules far Governing Saturday and Sunday Pay: An employee .	absent on one of his regular scheduled workdays during
+the workweek shall not receive Saturday or Sunday premium pay in such workweek unless his absence was for justifiable cause.
+Article X - HOLIDAYS NOT WORKED
+1	Section 1. After an employee has been with the Company for
+9
+a period of thirty (30) days, be shall be entitled to receive, if be is not scheduled to work, holiday pay at the rate of eight (8) tiroes his regular hourly base rate plus applicable shift differential for each of the following holidays:
+New Year’s Day	40 Hours	Probable
+Decoration Day	24 Hours	downtime
+Independence Day	32 Hours	hours
+Labor Day	48 Hours	if plant
+Thanksgiving Day	24 Hours	shuts down
+Christmas Days	40 Hours	for holiday.
+For Seventh, Eighth, Ninth, Tenth and Eleventh Holidays see Exhibits.
+Such downtime hours shall begin in conformity with various shift schedules.
+Holidays falling on Sunday shall be observed on the following Monday.
+Section 2.	If an employee is scheduled to work on any such holidays and fails to report without justifiable cause, he shall not receive such holiday pay.
+Section 3.	If an employee is not scheduled to work on one of the above holidays, he shall receive pay for any such holiday plus applicable shift differential unless he fails to report for work, without justifiable cause, on his scheduled workday preceding, and his scheduled workday following any such holiday.
+Section 4.	Any employee on lay-off status, and who is eligible under Article X, Section 1, Paragraph 1, and Sections 2 and 3, who worked during the holiday week or during the three (3)
+10
+weeks preceding the holiday week, shall open returning to work, be entitled to receive such holiday pay.
+Section 5.	Any employee otherwise eligible and not on layoff status, who is absent on account of continuous disabling illness, shall be entitled to receive pay for contract holidays that occurred during such absence, but not to exceed six (6) holidays during any such absence. Any employee, otherwise eligible and not on layoff status, who is absent on account of occupational injury sustained in the course of employment with the Company, shall be entitled to receive pay for contract holidays that occurred during such absence, but not co exceed eight (8) holidays during any such absence.
+Section 6.	Further, in the event that any of the above enumerated holidays falls during an employee’s vacation period, he shall receive pay for the holidays plus applicable shift differential which fall during the vacation period, in addition to his regular vacation pay.
+Article XI	- HOLIDAYS WORKED
+Section 1.	The Company agrees to pay, in addition to regular straight-time hourly earnings, premium pay of full time for all work performed on the following holidays, plus eight (8) hours pay at straight-time plus applicable shift differential to employees eligible for pay for holidays not worked:
+New Year’s Day	Labor Day
+Decoration Day	Thanksgiving Day
+Independence Day	Christinas Day
+For Seventh, Eighth, Ninth, Tenth and Eleventh Holidays see Exhibits.
+Section 2.	A holiday shall consist of the probable downtime hours as shown in Article X, Section 1, Paragraph 2. AH work
+1!
+performed during these hours will be paid in accordance with Section 1 of this Article XI.
+Article XII	- RULES FOR COMPUTING PAY
+Section 1. Premium and overtime pay provided for in this Agreement shall be computed in accordance with the following:
+(a)	Premium pay or overtime rates may not be pyramided on any given day of work. If, for example, weekly overtime, daily overtime, holiday premium, or Saturday or Sunday premium occur on the same day, the employee shall not be paid all of them. He shall receive only one such premium or overtime rate on a given day, whichever is higher.
+(b)	AU overtime or premium pay required to be paid under this Agreement, in addition to regular straight-time hourly earnings for the day or week, shall be paid at the employee's average straight-time hourly rate for the workweek, which shall be determined by dividing weekly straight-time earnings by the number of hours worked in the workweek.
+Article XIII	- CALL TIME AND REPORTING TIME
+Section 1.	Call Timer Any employee called to work shall be guaranteed four (4) hours pay at straight-time for each call.
+Section 2.	Reporting Time; All employees reporting for regularly scheduled work shall be guaranteed not less than four (4) hours work unless they have bear previously notified not to report Employees reporting for regularly scheduled third shift work shall be guaranteed a full shift if they start to work, provided, however, 12
+that this paragraph shall not apply in case of breakdown or other I extenuating circumstances beyond the control of the Company. I Grievances arising from the operation of this proviso shall be handled as provided herein.
+|	Article XIV- VACATIONS
+Section 1.	An employee shall be eligible for a vacation of one '	(1) week with pay if he has twelve (12) months, but less than three
+(3)	years of continuous service with the Company.
+f
+Section 2.	An employee shall be eligible for a vacation of two (2) weeks with pay if he has three (3) years, bdt less than eight (8) fl years of continuous service with the Company,
+Section 3,	An employee shall be eligible for a vacation of three (3) weeks with pay if he has eight (8) years, but less than fifteen (15) years of continuous service with the Company.
+Section 4.	An employee shall be eligible for a vacation of four (4) weeks with pay if he has fifteen (15) years, but less than twenty (20) years of continuous service with the Company.
+i	Section 5. An employee shall be eligible for a vacation of
+‘ five (5) weeks with pay if he has twenty (20) years of continuous service with the Company.
+1
+Section 6. An employee shall be eligible for a vacation of six (6) weeks with pay if be has twenty-five (25) or more years of continuous service with the Company.
+। Section 7. Any employee eligible for a vacation, who is (	severed from the payroll of the Company in any calendar year
+,	before he has taken his vacation, except one who before reaching
+his anniversary date is discharged for cause, or who quits without two weeks notice, shall receive vacation pay.
+Section 8.	In case of retirement or death, vacation pay will be allowed. However, if an employee retires or dies in any calendar year, he shall also receive pro-rated vacation pay computed on his earnings, excluding vacation pay if any, since January 1 of that calendar year. No employee represented by this bargaining unit will be required to take his vacation in the year in which he retires. If be so desires, he may elect to receive pay for his vacation at the time he retires.	t
+Section 9.	An employee eligible for a vacation of one (I) week shall receive an amount equal to two (2) percent of his total earnings । for the preceding calendar year, if he was employed prior to January 1 of the preceding calendar year. If not, then he shall receive an amount equal to two (2) percent of his earnings for the first full twelve (12) months of his employment. An employee eligible for a vacation of two (2) weeks shall receive an amount equal to four (4) percent of his earnings for the preceding calendar year. An employee eligible for a vacation of three (3) weeks shall receive an amount equal to six (6) percent of his earnings for the preceding calendar year. An employee eligible for a vacation of four (4) weeks shall receive an amount equal to eight (8) percent of his earnings for	}
+the preceding calendar year. An employee eligible for a vacation of five (5) weeks shall receive an amount equal to ten (10) percent of his earnings for the preceding calendar year. An employee eligible ; for a vacation of six (6) weeks shall receive an amount equal to twelve (12) percent of his earnings for the preceding calendar year.
+For the purpose of this Section, "earnings for the preceding calendar year” shall include (I) Worker’s Compensation weekly indemnity payments received during such year, and (2) Group
+14
+Insurance weekly indemnity payments^received for continuous absence from work for ten (10) days or more, during said preceding calendar year.
+There will be a minimum base of forty (40) hours for each week of vacation for which an employee is eligible, provided he has worked at least one thousand (1,000) hours in the preceding 1	calendar year.
+Section 10.	The scheduling of vacations shall be as set forth t	in the attached exhibits.
+■	Section 11. Returning Servicemen
+*	(a) Length of service for vacation eligibility accumulates
+while an employee is in the armed forces.
+(b) Following reinstatement, the returning serviceman will 1	receive 1,2,3,4,5 or 6 weeks’ vacation allowance at his
+.	base rate. After such employee has 12 months' earnings,
+।	be will receive an additional amount if due under 2,4,6,
+1	8,10 or 12% of the plan,
+< Article XV-UNION COMMITTEE ft
+Section 1.	It is agreed that each Local Union will establish a .■ Union Committee at each plant made up of plant employees who are Union members, for the purpose of presenting or adjusting grievances as described in Article XVI of this agreement. ,
+Section 2.	The members of the Union Committee will be paid ' at straight-time at tbeir minimum hourly base rate for all time spent in grievance meetings with the Company.
+i
+I	>5
+Each Local Union will cooperate with their local plant management in keeping at a minimum the number of members of the Union Committee sitting in on grievance meetings.
+Section 3.	Monthly meetings between the Union Committee and Committees from management should be held to discuss mutual problems, and at times when grievances are not the main topic of the meeting.
+Article XVI	- GRIEVANCE PROCEDURE t
+Section 1.	should grievances arise, a diligent effort shall be ' made to settle all grievances as soon as possible after they have j-been presented either by the Union or an employee.	I
+Any employee having a grievance shall submit same as promptly as possible after its occurrence, but no grievance shall be valid if not presented within fifteen (15) days from the time the cause for complaint arose.
+If at any time a grievance remains at any step below Step 5 for more than seven (7) working days, the Local Union may, by written notice to local management, request that such grievance be heard at the next step.	>
+f
+Section 2.	When grievances arise, the following steps shall be -followed, each to be exhausted before resorting to the next	«’
+Step 1. Between the immediate supervisor and the aggrieved employee; the appropriate Union representative shall be given an opportunity to be present
+Step 2. Between the Plant Superintendent and the Union Committee, and at which time the grievance shall have
+16
+been reduced to writing upon a proper grievance blank and signed by the aggrieved in triplicate, Step two (2) of the grievance procedure may be modified in the local exhibit.
+Step 3. Between the Plant Manager and/or General Manager and the Union Committee.
+Step 4. Between the Divisional Vice President of the Company, or his representative, and the President of the International Union, or his representative.
+Section 3, In the event that a grievance based upon the interpretation, application or compliance with the terms of this Agreement shall not have been satisfactorily settled, the Union d may submit the matter to the American Arbitration Association under their rules then in effect provided such submission is within ninety (90) days (except June, July and August when the local Unions do not meet) after the Company answer has been given to the Union at Step 4 of the Grievance Procedure. Expenses of the arbitrator shall be shared equally by the Company and the Union.
+The decision of the arbitrator shall be binding upon both parties to this Agreement. Such decision shall be wittun the scope and terms of this Agreement, but Shall not change any of its terms or conditions, nor deprive the Company or the Union of any rights expressly or implied reserved herein.
+Article XVII	- HIRE AND DISCHARGE
+Section 1.	The Company reserves the full right to discharge, transfer, suspend, promote, demote or relieve employees from duties because of lack of work or other justifiable reasons.
+17
+However, it is understood and agreed that the above are subject to the grievance procedure herein.
+Section 2.	If an employee is discharged, the employee or tbe Union shall, upon request, receive in writing, fall and complete reasons therefore, and his steward shall be notified. If the employee involved desires to file a grievance he must submit it within five (5) days from the time of discharge. If it is found that he should not have been discharged, he shall be reinstated to his former position, without the loss of seniority, and shall be compensated for such lost time as shall be determined by the facts in the case,
+Article XVIII-	RESPONSIBILITIES
+Section 1.	The parties recognize that the operation of the various plants and the direction of the work force therein is the sole responsibility of the Company, subject to the terms and conditions of this Agreement, the respective Plant Exhibits and Letters of Understanding.	:
+Section 2.	The Union agrees that every member will ■ endeavor to do all work to the best of his ability and will ; cooperate with the local management to the fullest extent possible : to improve housekeeping, safety, quantity of output, efficiency, | and to further customer relationships by helping to maintain । acceptable quality and service.
+Article XIX	- RESPONSIBILITY FOR
+PRESENCE AT WORK
+Section 1. All employees are required to be at their stations ready for wort at the commencement of their shifts and shall remain at their stations until the termination of their shift Employees have
+18
+an obligation to notify their local management as soon as possible if, for sickness or other legitimate reasons, they will be unable to report for work at the commencement of their shifts.
+I Section 2. Employees on operations that by their nature are ! continuous, for efficient operation of the plant, such as paper mills, | power plants, combiners, and elsewhere defined in the Exhibits, , shall not leave their stations at the end of their shifts, unless directed by their Foreman, or until someone has taken over the responsibility of their respective position, but no employee will be required to remain more than two (2) hours unless it is mutually acceptable. Under such conditions the local management will make every reasonable effort to secure a replacement within the shortest possible time.
+Section 3. Any employee whom the local management finds i is not fulfilling his obligations, as mentioned in Section 1 of this : Article, shall be subject to disciplinary action. Such action will ; first be discussed with the proper Local Union officials.
+j Article XX - LEAVE OF ABSENCE
+i Section 1. An employee requesting a leave of absence shall 1	make written application in triplicate to his immediate supervisor. A
+' leave of absence may be granted for good cause upon approval of the Company. Except for reasons of health, no leave shall be granted to accept employment of any kind with another company. Such leave may be extended if good reason is shown. Seniority may accumulate during such extended leave if agreed upon by the Company and the Local Union. Approved copy of a leave of absence shall be furnished to the employee and the Union. Any employee overstaying a leave shall be considered as having voluntarily left the employ of the Company.
+19
+Section 2- Any employee, who on behalf of the Local Union, is called upon to transact business or to attend meetings and conventions which require his absence from duty shall, upon request to his immediate Supervisor, be allowed to absent himself for sufficient time to transact such business. It is understood that such application for leave shall be made in writing at least twenty-four (24) hours in advance, and that the Union will not request the services of more than four (4) people at one time.
+. Section 3. If the International Union requests a leave of absence for a member to serve as representative of the International Union, it shall, upon the serving of adequate notice and written application to the Company, also signed by such member, be granted a leave of absence not to exceed nine (9) months, it is being understood that upon the expiration of such leave the employee shall return to his former status or he shall be considered as having voluntarily left the employ of the Company.
+Article XXI	- STRIKES AND LOCKOUTS
+Section 1.	During the term of this Agreement the International Union and its Local Unions signatory to this Agreement agree that they will not cause, give their approval to, nor participate in any strike, slowdown, sympathy strike or other concerted stoppage of work in any or all of the plants and, correlative with this provision, the Company agrees that it will engage in no lockout.
+Section 2.	In the event any employee or group of employees covered by this Agreement shall, during the term of this Agreement, participate in any strike, slowdown, sympathy strike or other concerted stoppage of work in any plant, both the International and Local Union involved agree immediately upon
+20
+being notified by the Company to direct such employee or group of employees to resume work. Should such employee or group of employees fail to resume work immediately upon being so directed, or should the International Union and its Local fail immediately to give such direction, such failure shall be cause for discharge or such disciplinary action as the Company may care to take with regard to the employees concerned.
+Section 3.	The Company agrees that is will not hold the International Union liable by reason of any provisions of this Article tor any strike, slowdown, sympathy strike or other concerted stoppage of work in the plant by employees in the bargaining unit during the term of this Agreement, provided the International Union has abided by the covenants of this Agreement.
+Section 4.	The Company further agrees that it will not hold the Local Union liable by reason of any provisions of this Article for any strike, slowdown, sympathy strike or any other stoppage of work in the plant by employees in the bargaining unit during the term of this Agreement, provided the Local Union has abided by the covenants of his Agreement.
+Article XXII-	NOTICES RE MANAGEMENT AND UNION PERSONNEL
+Section 1.	The Company will send to the appropriate Local Union, written notice identifying its local management and supervision.
+Section 2.	The Company will submit in writing to each Local Union the names and position of management personnel to be contacted each step in the grievance procedure herein.
+21
+Section 3.	Each Local Union will submit to the Company written notice stating the names of its stewards, officers and Union Committee members.
+Section 4.	It is understood and agreed that the parties hereto will endeavor to maintain such lists on an up-to-date basis, and that such lists will be posted on plant bulletin boards.
+Article XX11I	- BULLETIN BOARDS
+The Company will provide for the use of plant bulletin boards by the Local Union for the posting of official Union notices, signed by the proper Union officers. All other material posted shall have plant management approval before being posted.
+Article XXIV-	EMPLOYEES’ ADDRESSES, ETC.
+Each employee covered by this Agreement is at all times responsible for having his correct address and telephone number on file at the plant office. All notices to employees expressly or impliedly to be given under this Agreement shall be deemed to have been properly given if mailed to the last given address on file or if made by telephone to the last phone number on file, where no written notice is required.
+Article XXV	- RETIREMENT PLAN
+Section I.	Tbe Company and the Union agree that the Jefferson Smurfit Corporation (US) Retirement Plan for Hourly Employees, ($22.50 Formula) as negotiated in 1997, shall be applicable to the employees represented by this Multiple Bargaining Unit.
+22
+I
+Section 2.	The Company and the Union agree that the Jefferson Smurfit Corporation (US) Retirement Plan for Hourly Employees, effective July 1,2002 ($24.50 Formula) as negotiated in 2002, shall be applicable to the employees represented by this Multiple Bargaining Unit
+Section 3,	The Company and the Union agree that the Jefferson Smurfit Corporation (US) Retirement Plan for Hourly Employees, effective July 1, 2003 ($26.50 Formula) as negotiated in 2002, shall be applicable to the employees represented by this Multiple Bargaining Unit.
+Section 4.	The Company and the Union agree that the Jefferson Smurfit Corporation (US) Retirement Plan for Hourly Employees, effective July 1,2004 ($28.50 Formula) as negotiated in 2002, shall be applicable to the employees represented by this Multiple bargaining Unit.
+Section 5.	The Company and the Union agree that the Jefferson Smurfit Corporation (US) Retirement Plan for Hourly Employees, effective July 1,2005 ($29.50 Formula) as negotiated in 2002, shall be applicable to the employees represented by this Multiple Bargaining Unit.
+Section 6.	The Company agrees that it will not withhold its consent from any member of this bargaining unit who is eligible for and requests early retirement under the terms of this Jefferson Smurfit Corporation (US) Retirement Plan for Hourly Employees.
+Section 7.	If during the term of this Agreement the Company should terminate said retirement plan then and in such event the Union is free to request that the Company enter into collective bargaining on the subject of pensions.
+23
+Article XXVI-FUNERAL LEAVE
+Section 1, In the case of death of a member of the immediate family of an employee having seniority, the Company will grant an excused absence not to exceed three (3) consecutive working days (four (4) consecutive working days in the case of a death of a Husband, Wife, Son, Daughter or Step-children) to be taken within seven (7) calendar days from the date of the death. In the case of death of a Step-Parent, the Company will grant an excused absence of three (3) days, one (1) of which will be paid. Any excused absence for this purpose shall be paid at the rate of the employee’s classification for eight (8) hours per day.
+Section 2.	A member of the immediate family is defined as Mother or Father, Husband or Wife, Brother or Sister, Son or Daughter, Step-Children, Grandchildren, current Mother-In-Law or Father-iu-Law, employee’s and spouse's Grandmother or Grandfather and notice of such death must be given by the employee to the personnel department as soon as it is reasonably possible. No absence or allowance will be granted in the case where because of distance or other causes the employee does not attend the funeral or memorial service of the deceased. Should more than one death occur in the family within any three (3) day period no more than one (1) excused absence will be given.	i
+Section 3.	This clause is written for the purpose of supplementing pay that an employee may lose and is not intended as extra pay for days the employee would not normally work.
+Section 4.	In the event death occurs to any member of the immediate family as defined above, proof of death must be furnished to the Company, if and when requested.
+24
+Section 5.	Immediately upon acquiring seniority, the employee is requested to furnish names and addresses of the members of his or her immediate family as listed above.
+Article XXVIi - NO DISCRIMINATION
+Section 1.	The Company agrees that it will not
+(a)	fail or refuse to hire or discharge any individual, or otherwise discriminate against any individual with respect to his compensation, terms, conditions or privileges of employment because of such individual's race, color, religion, sex, age, handicap or national origin; or
+(b)	limit, segregate or classify its employees in any way which would deprive or tend to deprive any individual of employment opportunities or otherwise adversely affect his status as an employee, because of such individual's race, color, religion, sex, age, handicap or national origin.
+Section 2.	The International Union, and its respective Local Unions, parties hereto, together with the members of such Local Unions, agree that they will not
+(a)	exclude or expel from membership, or otherwise discriminate against, any individual because of his race, color, religion, sex, age, handicap or national origin; or
+(b)	limit, segregate, or classify its membership, or classify or fail to refuse to refer for employment any individual, in any way which would deprive or tend to deprive any
+25
+individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's race, color, religion, sex, age, handicap, or national origin; or
+(c)	cause or attempt to cause the Company to discriminate against an individual in violation of this section.
+Section 3.	The parties recognize that in complying with this Article they are subject to the specific provisions and exemptions of the Title VII of the Civil Rights Act of 1964, as amended; for the Age Discrimination tn Employment Act of 1967, as amended; of the Rehabilitation Act of 1973, as amended; of tire Americans with Disabilities Act; as well as the specific statutes of the various states and pertinent Executive Orders issued by the President of the United States.
+Section 4.	Nothing in the Articles shall be deemed to impose obligations on either party not required by the applicable statutes.
+Article XXVIII-RE-EMPLOYMENT OF PERSONS IN THE ARMED FORCES
+The Company and the Union agree to recognize and abide by all Federal laws, interpretations and regulations issued under such laws covering the reinstatement of persons who left the services of the Company to enter the various Armed Forces of the country. The Union recognizes and agrees with the Company’s established policy covering the reinstatement of such persons returning from the various Armed Forces referred to in such policy, a copy of such policy being attached hereto as Exhibit A.
+26
+Article XXIX-JURY PAY
+Any regular employee who loses hours of work because of service on a jury shall, upon presentation of a statement signed by an officer of the court involved signifying the time he so served on the jury, be reimbursed al his hourly base rate for the hours lost from work by so serving, less the amount of jury pay received.
+Article XXX-PRODUCTION WORK BY SUPERVISORS
+Under normal operating conditions, salaried employees shall not do work regularly assigned to hourly paid employees except for instructional purposes.
+Article XXXI - SEVERANCE PAY
+If any of the plants, parties to this Multiple Agreement, are ever permanently shut down by the Company for economic reasons and not for reasons such as labor disputes, acts of God, war, etc., the Company agrees that it will meet with the Union and, as was done in the case of McKeesport, discuss the matter of severance pay.
+Article XXXH - RENEWAL CLAUSE
+Section I. Change or Modification of Agreement
+(a)	This Agreement shall be in effect June 19, 2002 and shall remain in effect until lune 19,2009 and from year to year thereafter, unless terminated in accordance with the provirions of Article XXXIII below.
+(b)	If either party shall desire to change any provision of the
+27
+1-------------------------------------------------------------------
+I
+1	Agreement, it shall give written notice of such desire to
+tbe other party at least sixty (60) days in advance of any anniversary date.
+(c)	The giving of notice provided in subsection (b) above shall constitute an obligation upon both parties to negotiate in good faith all questions at issue, with the intent of reaching written agreement prior to the anniversary date.
+(d)	If the parties have not reached an agreement on or before the anniversary date, all the provisions of the Agreement shall remain in effect, unless specifically terminated in accordance with the provisions of Article XXXIII below.
+Article XXXIII - TERMINATION
+Section 1. Termination of Agreement
+(a)	At any time after the anniversary date, if no agreement on the questions at issue has been reached, either party may give written notice to the other party of intent to terminate the Agreement in not less than ten (10) days. Such notice shall state the intended termination date. All the provisions of the Agreement shall remain tn full force and effect until the specified time has elapsed. During this period, attempts to reach an agreement shall be continued.
+(b)	If the parties have failed to resolve their differences before the specified date, all obligations under this Agreement are automatically cancelled.
+28
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement this 9th day of January, 2003.
+Jefferson Smurfit Corporation (US)
+The Cincinnati, Ohio, Container Plant
+The Oaks, Pennsylvania, Valley Forge Folding Carton Plant The Solon, Ohio. Folding Carton Plant The Ravenna, Ohio, Container Plant
+By/s/ TIMOTHY D. HAAR_______________
+Regional Employee Relations Manager
+By 1st___T. MICHAEL HOPE
+Director Human Resources Consumer Packaging
+By 1st___DENISEAL FRANKLIN________
+Labor Data Analyst
+By 1st___TERRIE ANDERSON___________
+Cincinnati Container Plant
+By 1st___DOROTHY ASBERT___________
+Valley Forge Folding Carton Plant
+By 1st___BABBABAjM4ABSHALL________
+Solon Folding Carton Plant
+By(s(	TONYA G. EAULUS__________
+Ravenna Container Plant
+29
+1
+I
+1	Paper, AHied-Industriai, Chemical and Energy Workers
+.	International Union
+By	—GE&ALPP, JOHNSON
+Wee President, Region 8
+Bv/sf KENNETH O. TEST
+Vice President, Region 3
+By/fiZ__ANTHONY ALLEN
+Local No. 5-498
+By /s/ K. SHANNON SMITH
+Local No. 2-807
+Bv /sJ___JAMBS C. NICHOLAS
+Local No. 5-1250
+By/s/ JENNIS MCKAY.
+Laced No. 5-1258
+30
+Exhibit A
+jsccca
+MILITARY RE-EMPLOYMENT POLICY
+Every Container employee who satisfactorily completes his period of training and service in the Army, Navy, Air Force, Marines, or Coast Guard, desiring to continue employment with the Company, shall, after making proper application, be reinstated without unnecessary delay in his former position, or one of like seniority, status and pay, in accordance with the provisions of Federal laws and regulations or policies issued under such laws. In complying with such laws and regulations all reasonable doubts shall be resolved in favor of the returning veteran.
+Application of Policy
+The following principles will be observed by the Company in operating under the above policy;
+. 1. All Company employees who entered military service are to be considered as coming within the above policy, unless they were hired specifically as temporary employees.
+2.	The seniority of persons in military service shall accumulate during such service to the same extent and in the same manner as if such persons had remained in continuous employment
+3.	If the reinstatement of returning veterans makes changes in the work force necessary, such changes will be made in accordance with the seniority rights, fitness and ability of Ure persons involved.
+31
+4.	The returning veteran, after he has been reinstated, shall be permitted to advance, as fast as his seniority, fitness and ability warrant, to such position as be might reasonably have advanced to were it not for his entry into the armed forces.
+5.	If the returning veteran has acquired new skills which he did not have when he entered military service he should be given every opportunity, consistent with his seniority, fitness and ability to advance to a position where he can use such skills.
+6.	If the returning veteran has become handicapped because of war service and is unable to perform the duties of the position to which he would normally be entitled, then he should be given duties which, in the opinion of the Company Doctor, he is able to perform.
+7.	All of tbe Company’s returning veterans shall receive all of the help and assistance which it is possible for the Company to give them in securing all of the benefits which the Congress and the various states have provided.
+32
+Exhibit B
+This Is the Form of Authorization
+Agreed to Between the Parties
+VOLUNTARY ASSIGNMENT AND AUTHORIZATION FOR INITIATION FEE AND DUES DEDUCTION
+JSC
+Plant
+You are hereby authorized and directed to deduct from my wages tny Union initiation fee.
+You are also hereby authorized and directed to deduct from my wages each month for the duration of this Agreement my Union membership dues, and to remit the amount so deducted to the
+Financial Secretary of Local...........................
+erf....................................................
+(Insert name of international Union)
+I reserve the right to revoke this authorization during the two-weck period preceding the next anniversary date. This authorization shall be self-renewing thereafter from year to year subject to revocation during the said two-week period preceding the anniversary date.
+This authorization shall not be irrevocable for a period of more than one (1) year, or beyond the termination of this Agreement, whichever occurs sooner.
+33
+Signature..................................................
+Financial Secretary........................................
+Dated......................................................
+Clock Number...............................................
+34

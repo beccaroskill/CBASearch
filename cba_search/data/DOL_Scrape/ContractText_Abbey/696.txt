@@ -1,0 +1,779 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Minneapolis Automobile Dealers Association and Garage Maintenance, Machine Warehousemen, Repairmen, Inside Men, Helpers and Plastic Employees, International Brotherhood of Teamsters (IBT), Local 974 (2003)
+K#: 6917
+Employer Name: Minneapolis Automobile Dealers Association
+Location: Minneapolis MN
+Union: Garage Maintenance, Machine Warehousemen, Repairmen, Inside Men, Helpers and Plastic Employees, International Brotherhood of Teamsters (IBT)
+Local: 974
+SIC: 5511	NAICS: 441110
+Sector: P	Number of Workers: 1800
+Effective Date: 04/16/03	Expiration Date: 04/15/06
+Number of Pages: 65	Other Years Available: N
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School, http://www.ilr.cornell.edu/
+Note Concerning Dues For Members Off Due to Illness or Accident:
+IF A MEMBER IS OFF SICK FOR THIRTY (30) DAYS, LOCAL 974 WILL PAY THE DUES FOR A PERIOD OF UPTO THREE (3) MONTHS. (Be advised after the first week in the month and dues have already been taken out if you are on the sick list, we retain this amount; however, we will pay the next month and tihe month thereafter if you are still off due to illness or accident. If you are off and the union pays three (3) months’ dues you will then be put on honorable withdrawal card until such time as you return to work. In order to be eligible for this benefit you must furnish proof of dates you were off in writing to the union office and have it verified by your supervisor or payroll clerk.)
+UNION DUES AND INITIATIONS
+Your union dues, initiation fees and other payments due the union are deducted the first week of each month and must be remitted by the employer no later than the 15th day of the month.
+WITHDRAWAL CARD
+Do not fail to take out a withdrawal card when leaving craft FOR ANY REASON.
+1
+INDEX	Page
+Apprenticeship * XX............................. 33
+Classification and Wage Rate • XXI.............. 34
+Coverage & Exclusion from Contract • III .__ i
+Credit Union • XXX.............................  41
+Daily Guarantee of Work of Pay * XI........	21
+Definition of Classifications • XXII ........... 34
+Exhibit A * Classifications and Wages......	45
+Exhibit B • Contract Clarifications........	52
+Expiration • XXXII.............................. 43
+Grievance Procedure • XVIII..................... 29
+Health & Welfare and Pension Funds • XXV ,	38
+Health Questions..................Inside	Front Cover
+Holidays ’VII .................................. 11
+Incentive Option * VIII......................... 13
+Interns ..................................	50
+Jury Duty • XXIV................................ 37
+Labor Management Committee and
+Study of Incentive System • XXXI.............. 42
+Lay-offs and Discharges • IX.................... 18
+Leaves of Absence • XIV ........................ 23
+Labor, Management Committees.................... 44
+MADA Participating Members...................... 54
+Maintenance of Standards * XXVII...........	40
+New Classifications • IV ........................ 8
+No Discrimination • XVI ........................ 26
+Officers ........................ Inside	Back Cover
+Pay-Day * XXIII................................. 37
+Payment of Wages for All Work Performed, and Shop Meetings • XII........................ 22
+Posting ofVacant Positions • XIII............... 22
+Preamble * II.................................... 4
+Protection of Rights * XXVI..................... 40
+Reclassification and Payroll Inspection * XV . .	25
+Recognition •!................................... 3
+Regular Employees - Probationary	Period • X	21
+Separability and Savings Clause • XXIX.....	41
+Sub-contracting • XXVIII........................ 40
+Ibols, Uniforms and Tbol Insurance	•	XIX ....	31
+Union Meetings.................................. 60
+Union Security • V............................... 6
+Vacations • XVII................................ 26
+Vacation Interpretation ........................ 27
+Withdrawal Card ..............................65&67
+Work Week'VI..................................... 8
+2
+Working Agreement
+THIS AGREEMENT, entered into between MINNEAPOLIS AUTOMOBILE DEALERS ASSOCIATION for and on behalf of all its members through its Labor Committee, hereinafter referred to as the "Employer Committee," and LOCAL UNION NO, 974, GARAGE MAINTENANCE, MACHINE WAREHOUSEMEN, REPAIRMEN, INSIDE MEN, HELPERS AND PLASTIC EMPLOYEES, Minneapolis and vicinity, Minnesota, an affiliate of the INTERNATIONAL BROTHERHOOD OF TEAMSTERS, for itself and on behalf of the employees of the Employer covered by this Agreement, hereinafter referred to as the "Union Committee".
+The dealer members of the Association are hereinafter referred to as the “Employer" or “Employers.”
+ARTICLE I Recognition
+Section 1.	The Employer agrees to recognize, and does hereby recognize, the Union, its agents and representatives, as the exclusive bargaining agency for all of the employees of theEmployer as herein defined.
+Section 2.	The term "employee" as used in this Agreement shall include automotive technicians, heavy duty truck technicians, automobile machinists, electrical machinists, ignition and battery repairmen, radiator men, body technicians and fender men, blacksmiths, automotive trimmers, painters, assemblers, speedometers, carburetors and axle straightening, radio men, washers, greasers, simonizers, sanders, tapers, prep employees, detailer/pol-ishers, drivers, service salesmen, floor men, working foremen, assistant managers who work four (4) hours or more in any department
+3
+i
+supervisory, and clerical employees in the body shop shall not be covered by the collective bargaining agreement, so long as their duties do not include the performance of body repair work on a vehicle.
+Section 6. Management Trainees. It is agreed that the Employer can employ management trainees who shall be considered excluded personnel not represented by the Union. However, such management trainees cannot be used to (a) displace employees from work without compensating the employee for lost work; or (b) cause the layoff of an employee. If a layoff is anticipated and a management trainee is working in the department in which the layoff is to occur, the management trainee will be removed from the department before it is determined whether a layoff is necessary.
+ARTICLE IV New Classifications
+Section 1. New classifications created through the handling of new and different merchandise not traditionally or customarily sold and serviced by a dealer in our industry, and confined to service and mechanical operations only, shall be subject to negotiation and agreement by and between the Employer Committee and Union Committee.
+ARTICLE V Union Security
+Section 1.	All employees of the Employers subject to the terms of this Agreement shall, as a condition of continued employment, become and remain members in the Union, and all such employees subsequently hired shall become members of the Union within thirty-one (31) calendar days, within the requirements of the National Labor Relations Act.
+6
+Union membership is required only to the extent that employees must pay either (i) the Union’s initiation fees and periodic dues or (ii) service fees which in the case of a regular service fee payer shall be equal to the Union’s initiation fees and periodic dues and in the case of an objecting service fee payer shall be the proportion of the initiation fees and dues corresponding to the proportion of the Union’s total expenditures that support representational activities.
+Section 2.	The Employer will present to each employee hired (on the first day of employment) application for membership in the Union and, at the same time, present such employee with checkoff authorization for checkoff of dues, initiation fees and other payments due Union. The Employer, for all said employees who submit individually signed authorization, shall during the life of this contract deduct from their first pay of each month the Union dues for the current month and remit the same to the appropriate officers of the Union. The initiation fee and delinquent dues of the Union shall be deducted by the Employer and remiV ted to the appropriate officer of the Union in the same manner as dues collections.
+Section 3.	Dues deducted are to be remitted not later than the 15th of the current month. A statement indicating names of employees, date of employment, amount of dues deducted, classification and wage scale shall be attached in duplicate. Any employer that is five days or more delinquent in remitting dues shall be subject to a ten percent penalty on the past due amount.
+Section 4.	The Union agrees to indemnify and hold the Employer harmless from any claims that arise out of the terms and conditions of this Article.
+7
+Section 5,	Notification to Union. On all new employees, Union or non-Union, hired to perform work in the service department, parts department, body shop, or to work as a used car lot man, the following information will be given in writing by the Employer to the Union within thirty (30) days from the date of hiring new employees: (1) Name, home address of employee, classification; and (2) Date employed. New employees shall be given a copy of the Working Agreement which shall be presented to and initialed by the steward.
+ARTICLE VI Work Week
+Section 1.	Section I.
+(a)	Eight (8) hours of work performed between 7:00 a.m. and 6:00 p.m. Monday through Friday, shall constitute a work week of forty (40) hours. Provided, however, that new hires who are first employed after April 16, 1989, and volunteers from those on the payroll prior to that date, may be scheduled to work Tuesday through Saturday at straight time. Should an employee hired prior to April 16, 1989 be laid off from a Monday through Friday schedule, the employee will, however, have the option to bid the work schedule of any junior employee whose work week includes Saturday as a regular straight time work day.
+(b)	Saturday work may be rotated in a classification among employees who are subject to 1 being scheduled Tuesday through Saturday provided that there are at least four (4) employees involved in the rotation, and that seniority will be recognized in establishing the rotation.
+(c)	Service sales employees may be scheduled to work between 6:30 a.m. ana 6:00 p.m.
+(d)	It will be permissible to set up a split shift operation for janitors only.
+8
+Section 2.	Exceot as provided in Section 1 above, employees snail not be required to work on Saturday. (Shall be at employee's option.)
+Section 3.	The standard hours for employees working on the 6th day of a week shall be four (4) hours Saturday morning to 1:00 p.m. All work performed on Sunday shall be paid for at the rate of double time. All work performed on the legal holidays listed in the contract shall be paid for at the rate of double time plus straight time. Working past midnight to complete a regular shift will not be considered working on the holiday.	-
+Section 4.	Overtime shall be divided according to seniority as equally as practicable among regular employees performing a similar class of work.
+For employees scheduled to work on a five day, eight hour work schedule, overtime at the rate of time and one-half the guaranteed hourly rate shall be paid for all time worked in excess of eight (8) hours per day, and for all time worked in excess of 40 hours per week. Overtime at the rate of two (2) times the hourly guaranteed rate shall be paid for all time worked in excess of ten (10) hours per day, not to exceed twelve (12) hours in any one day.
+For employees scheduled to work on a four (4) day ten (10) hour basis, time and one-half the guaranteed hourly rate shall be paid for all hours worked in excess of ten hours per day or 40 hours per week, and double the guaranteed hourly rate shall be paid for all hours worked in excess of 60 hours per week.
+In calculating an employee’s weekly earnings, one-half of the guaranteed hourly rate shall he added to incentive earnings for each hour of overtime worked at the time and one-half rate. The entire guaranteed hourly rate shall be
+9
+added to incentive earnings for each hour of overtime worked at the double time rate. Overtime pay is not required if an incentive technician voluntarily remains at work to complete a repair at the end of a shift.
+Section 5.	Employees working on a regular established night shift shall receive a premium of ten percent over the applicable guaranteed hourly wage set forth in Exhibit A. Incentive paid employees working on a regularly established night shift shall receive a five percent differential added to their incentive earnings. Any shift ending after 6:00 p.m. or beginning before 7:00 a.m. on a standard work day shall be considered a night shift. However, the night differential will not apply to service sales employees whose shift is scheduled between 6:30 a.m. and 6:00 p.m.
+Night shift employees may not be required to return to work on a day shift unless allowed a minimum of ten (10) hours between shifts.
+Section 6.	The Employer will have the option to schedule employees on a four (4) day ten (10) hour basis with two (2) consecutive days off which can be either Saturday and Sunday or Sunday and Monday.
+Section 7.	The Employer may schedule employees to work four (4) nine (9) hour days and one four (4) hour day provided the four (4) hour day will be either Friday or Saturday.
+Section 8.	When an Employer establishes a work week of less than five (5) days, notice will be given to all employees in the classifications involved at least five (5) working days in advance of the effective date. Openings on that shift will be posted on a bulletin board and aualified employees will be allowed to bid for le shift by seniority. In the event there are insufficient bids from qualified employees.
+10
+junior employees will be assigned to the shift by seniority and qualifications.
+Five (5) working days’ notice will also be given in the event the Employer discontinues the four (4) or four and one-half (4W) day work week.
+Section 9.	Shift Preference. Employees, upon changes in shift operations, new hire, etc., shall have the right to bid for either day or night shifts in accordance with their seniority. When employees do not indicate their preference, the Employer shall assign employees with the least seniority to the night shift.
+If an Employer establishes a Tuesday through Saturday work shift, employees will be permitted by seniority within classifications to bid for shift preference between the Monday through Friday and Tuesday through Saturday shifts on June 1 on an annual basis.
+Section 10.	Coffee Breaks and Lunch. A break period of fifteen (15) minutes during the first four (4) hours and fifteen (15) minutes during the second four (4) hours of work will be provided to regular full time employees. The breaks will be scheduled in any manner that supervision wishes them to be taken.
+Lunch periods will consist of thirty (30) minutes with the exception of service sales and tower operators who may be scheduled for up to one (1) hour.
+ARTICLE VH Holidays
+Section 1. All full time employees on the seniority list shall be paid eight (8) hours of pay at their basic pay rate as outlined in Exhibit "A" for each of the following eight (8) legal holidays when no work is performed: New Year's
+11
+Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Day after Thanksgiving, Christmas Eve and Christmas Day, If a holiday falls on a Sunday, the day observed by the State or Nation shall be considered the holiday for the purpose of this Section.
+With respect to the day after Thanksgiving holiday, the Employer will have the option to schedule up to one-half of each classification to work on that day at straight time. Volunteers will first be requested to work by seniority. If there are insufficient volunteers, the junior employees will be required to work. Those employees who work on that day will be given a floating holiday of the employee's choice to be scheduled later by mutual agreement provided the employee was otherwise eligible for holiday pay for the day after Thanksgiving.
+In addition to the foregoing paid holidays, a floating holiday is established to be scheduled by mutual agreement with seniority preference. Employees will be eligible for this holiday on the employee’s anniversary date of employment if the employee has worked one thousand (1,000) hours in the preceding year.
+Employees scheduled on a four day, ten hour schedule will be paid ten hours of pay at their basic rate of pay outlined in Exhibit “A” if the holiday falls within the employee’s scheduled work week. Holiday pay will be eight hours of pay if the holiday falls outside the employee’s scheduled work week.
+In order to qualify for holiday pay, an employee must be present for work on the employee's regular work day immediately preceding and the employee’s regular work day immediately following such holiday. Any new employee who has not been employed for fifteen calendar days immediately preceding such
+12
+holiday shall not qualify for holiday pay. Regular employees who are absent because of an industrial injury that occurred within a 30 calendar day period prior to the holiday shall not be disqualified for holiday pay. However, such an employee will not qualify for more than two successive holidays. A layoff of employees in the week containing the holiday specified above, or such employee’s absence from work during the week immediately preceding such holiday, when written permission for the absence has been given by the Employer, shall not deprive that employee of holiday pay.
+Part time employees on the seniority list who normally work less than eight (8) hours per day or forty (40) hours per week will be paid for the hours they would normally have worked on one of the foregoing holidays.
+Should a paid holiday fall during an employee’s vacation, the holiday will be scheduled as a floating holiday or paid for in lieu of the day off by mutual agreement.
+ARTICLE Vin Incentive Option
+Section 1.	Only straight hourly or weekly rates shall apply, except that any Employer shall adopt flat rate if his employees in their respective classification vote by a majority rule ana secret ballot to adopt same.
+Section 2.	Employees shall be guaranteed the minimum hourly rate of pay for every hour worked, to be computed on a weekly basis. Overtime rates as specified in Article VI, entitled "Work Week" shall apply to the hourly guarantee for employees on an incentive basis.
+Section 3.	Incentive Automotive Technicians will be paid on the following basis:
+13
+		4/1W4	VW
+0 to 39.9 hours produced	$19.74	$20.53	$21,36
+40 to 44,9 hours produced	20.32	21.13	21.98
+45 to 49.9 hours produced	20.62	21.45	22,31
+50 to 54.9 hours produced	20.91	21.75	22.62
+55 to 59.9 hours produced	21.22	22.06	22.95
+60 hours or more	21.52	22,38	23,27
+The foregoing wage rates will apply retroactive to the first hour produced. For example in the first year of the contract an employee will be paid $20.32 for each hour produced when the employee reaches forty (40) hours of production and $20.91 per hour when fifty (50) hours of production is achieved.
+Hours of production will be computed in accord with the applicable manufacturer's flat rate manual for the model year involved.
+If, however, on April 15, 2003 an Employer was paying a higher time allowance to teclini-cians for any operation than the factory flat rate manual allows, that allowance will not be reduced.
+The factory flat rate manual for 2003 will be "red circled" as to customer work (not factory work) for the term of the Agreement.
+The guarantee for automotive technicians will be as specified in Exhibit "A" for all clock time worked.
+Internal work for the Employer will be at no more than $.75 per hour less than the above rates and internal hours will count in determining the hours produced for the week. For example, if an employee produces forty (40) hours in the first year of the contract and five (5) of those hours are internal work, the employee will be paid $20.32 per hour produced for the thirty-five (35) hours and $19.57 for the five (5) hours of internal work.
+14
+In the operation of the incentive system for Automotive Technicians, a minimum payment of four-tenths of an hour per car or truck will be made on any customer vehicle that has a repair order written on it. (The four-tenths minimum shall not apply to the installation of head and tail lights, windshield wiper blades, circuit breakers, fuses, turn signals and four way flashers. The four-tenths minimum will also not apply to factory recalls and campaigns.)
+There will be a minimum of one-half ('A) hour for emission work on any customer vehicle. This will not apply to warranty work.
+Section 4. Heavy Duty Truck Technicians as defined in Article XXII (c) will be paid on the following basis:
+	4/16/03	4/16/04	4/16/05
+0 to 39.9 hours produced	$20.62	$21.45	$22.31
+40 to 44.9 hours produced	21.22	22,06	22.95
+45 to 49.9 hours produced	21.52	22.38	23.27
+50 to 54.9 hours produced	21.82	22.69	23.60
+55 to 59.9 hours produced	22.11	22.99	23.91
+60 hours or more	22.40	23.30	24.23
+In all other Respects the conditions of Section 3 will apply to Heavy Duty Thick Technicians.
+Section 5.	The forty (40) hour production requirement set forth above will be reduced to thirty-two (32) hours when an employee is absent due to illness or accident for one day during the work week. This will not apply (unless excused by management in writing) in the case of absences on Monday or Friday or the day before or after a holiday. The forty (40) hour production requirement also will be reduced when technicians are working on a reduced work week pursuant to Article IX, Section 1 of this Agreement.
+Section 6.	If an incentive technician, body technician, or painter is sent to school for a day
+15
+or is paid for a holiday or day of vacation in accord with this Agreement, he will be credited with those hours (the hours he would have normally been scheduled to work, but not less than, eight hours for a full day of school, or a full day of vacation) as hours produced in determining the number of hours produced for the week. Provided, however, that such employees will be paid the incentive rate of pay set forth above for the first 39.9 hours produced times the hours he would have normally worked for each day of schooling.
+Section 7.	Body Technician/Painter Incentive Rates:
+4/16703 4/16704 4716/06
+For each estimated hour produced Body Technicians shall be paid $15,80 $16.43 $17.09 For each estimated hour produced Painters shall be paid	$15.39 $16.01 $16.65
+Provided, however, that there will be a $5.00 per estimated hour premium for warranty work produced by Body Technicians and Painters.
+The incentive hourly rate for body technicians (not painters) will be increased $.25 per hour retroactive to the first hour produced in any work week in which the employee produces sixty (60) or more hours. An additional $.25 per hour increase will be paid in any week in which the employee produces eighty (80) or mere hours retroactive to the first hour produced.
+The guarantee for body shop personnel is set forth in Exhibit "A."
+There will be a $2.00 per estimated hour premium for frame work (including upper supports on I cars).
+16
+Internal work for the Employer will be paid at $.75 per hour less than the above rates.
+Section 8.	The Employer may establish advertised specials to be run for not more than one hundred twenty (120) days at a time for the following items: alignment (including wheel bearing pack), shocks, air conditioning servicing, brakes, transmission change and adjust, radiator drain and flush and tune-up. Technicians working on these specials will share in the promotion but may not have their time allowance reduced by more than thirty percent (30%). No more than five (5) specials may be run at one time.
+Tire installation, mufflers and lubrication may be scheduled at any time and are not subject to the time limitation set forth above. All other advertised specials are subject to the limitation that they may not be repeated for an amount of time equal to the time that the specials are run.
+Section 9.	Upon request the Employer shall furnish the Union a copy of the applicable flat rate manual.
+Section 10.	An Incentive Committee shall be established of three (3) members from the Employers and three (3) from the Union with power to act in all grievances submitted. This Committee shall meet at least once quarterly or at the call of either the Employers or Union representatives.
+Should an abnormal incentive problem regarding estimating procedures in the body shop occur on a continuing basis in any individual dealership, the problem shall be referred to the Incentive Committee.
+The Incentive Committee is authorized to revise or establish menu tune allowances if the parties are in disagreement over an established
+17
+practice. The standard for considering a change will be:
+a. changes in procedures, b, changes in equipment, and/or c. the impact of competitive conditions. If the Committee cannot agree either party may demand arbitration of the issue under Article XVIII, Section 3.
+Section 11.	Whenever possible, work orders shall be written and attached to the automobile before jobs are assigned.
+ARTICLE IX
+Layoffs and Discharges
+Section 1.	The Employer may schedule a thirty-five (35) hour week for up to four (4) weeks per year. The reduced work week may be extended beyond four (4) weeks by a majority vote of the classification affected. Any work, week of less than thirty-five (35) hours must be established by unanimous agreement of the affected employees.
+Section 2.	Employees may be disciplined or discharged for just cause. Dishonesty, drunkenness, drinking or being under the influence of intoxicating liquor while on the Company's premises or during working hours, possession, use, sale, or being under the influence of controlled substances, insubordination, or the violation of any of the terms and provisions of this Agreement shall be grounds for immediate discharge, Employees discharged for other reasons shall receive at least one (1) week’s notice before being discharged, or one (1) week's pay in lieu thereof. Notice for discharge shall be in writing with copy given to the Union Steward,
+Section 3> Any employee who feels that he is unjustly discharged must file a written protest with the Employer within five (5) working days
+18
+from the time of such discharge in order to receive consideration. Should an investigation prove that he was unjustly discharged, he shall be entitled to reinstatement with compensation at his regular rate of pay for all time lost.
+Section 4.	Seniority status is based upon length of service of the employee in a classification contained in Exhibit A of this Agreement. When reductions in the working forces became necessary because of fluctuations in business or other conditions beyond the control of the Employer, the Employer shall give proper recognition to the length of the employee's service. Employees (excluding apprentices) who are essential to the efficient operation of the business because of special training or ability may be retained regardless of other factors involved. When the force is again increased, the employees will be returned to work based upon classification seniority, Provided, however, that employees who are on layoff or on disability for a period of time equal to the employee's length of service (with a minimum of twenty-four (24) months and a maximum of forty-eight (48) months) will not be entitled to recall.
+When layoffs are required, employees shall be given two days notice before being laid off, or two days nay in lieu thereof, except in instances of a fire, flood, or emergency or such a nature as to make it impractical for the employer to operate.
+An employee laid off from a classification may bid the position of an employee in a lower paid classification based upon length of service with the Employer, if the bidding employee is immediately qualified to perform the work of that classification without further training. The employee will receive the pay rate set forth in Exhibit A, or the incentive rate for the job he is
+19
+fdaced in after displacing the employee in the esser paid classification oy seniority.
+If an employee hired prior to April 16, 1989 is laid off from a Monday through Friday schedule, the employee may not be required to work on Saturday but will have the option to bump a junior employee's schedule which includes Saturday (see Article VI, Section 1),
+Section 5.	A man on recall for work after a layoff shall be given five (5) working days to report for work after notice is sent by Certified Mail with receipt to his last known address. Employee's seniority rights shall not be lost because of illness or failure to report for work of a temporary nature. Temporary work shall mean anything under thirty (30) days.
+Section 6.	No regular employee shall solicit or perform work of the character performed by his Employer for any persons, person or organization other than in connection with his regular duties and under the supervision and management of his Employer. Any employee so doing shall be discharged immediately. The Union shall also have the right to order the discharge of any employee for the above reasons.
+Section 7.	All employees covered by this Agreement shall produce the quantity and quality of work established as standard in the industry and will perform and carry out the duties assigned to them and shall cooperate with the Employer in every way possible. Suggestions where possible as to improved methods, acceptance of and cooperation in establishing new methods for increased efficiency in production introduced by the Employer, elimination of all unnecessary waste, and at all times will promote the welfare and progress of the Employer's business.
+Section 8.	Uninsurable Employees. For
+20
+those classifications that require an employee to operate a vehicle, the parties recognize that eligibility for coverage under the Employer’s liability insurance policy is a necessary requirement of the job. In the event that the Employer’s insurer refuses to cover an employee under such policy, the Employer may assign such an employee to a vacant position within the bargaining unit that does not require the employee to operate a vehicle, or, if no such position exists, the Employer may place such employee upon an unpaid leave of absence. Such a leave of absence shall be subject to the same time limitations set forth for layoffs in Article IX, Section 4.
+ARTICLE X
+Regular Employees - Probationary Period
+Section 1. A regular employee is one with thirty-one (31) continuous days* employment with a single Employer. The Employer shall have the right to request an additional thirty (30) days probationary period for the employees from the Shop Committee.
+Provided, however, that it will be the joint responsibility of the Union Steward and the Service Manager to meet at or near the expiration of the thirty (30) day probationary period. They will at that time be required to put the employee on the seniority fist or grant an extension of the probationary period in writing. If an extension is requested, the employee will be included in the meeting. Seniority will not be established until the meeting occurs.
+ARTICLE XI
+Daily Guarantee of Work or Pay
+Employees who report for work at their regular starting time, unless notified the previous day not to report, shall be guaranteed four (4)
+21
+hours’ work or pay, based on their established rate of pay and an employee called into work outside of his regular shift or schedule shall be guaranteed four (4) hours’ work or pay at the rate of double time. (The minimum of four (4) hour call in at double time does not apply to work on the sixth day)- This is not meant to include evening meetings.
+ARTICLE XU
+Payment of Wages for All Work Performed, and Shop Meetings
+All employees shall be paid for every hour spent on the premises at the Employer's request. This section shall not pertain to shop meetings. Said shop meetings shall not be held over once a month. Attendance at shop meetings is not mandatory but it is fully supported by the Union and Employer Committees as beneficial to employees.
+ARTICLE XIII
+Posting of Vacant Positions
+Section 1.	When openings occur within classifications covered by this Agreement, notice of such openings will be posted to permit employees to express a desire to transfer to the involved classification. Final selection shall be at the option of the Employer.
+Section 2.	It is further understood and agreed that the Employer shall continue to inform the Union when they have need of additional or replacement employees and that the Union may nave the right and privilege to refer to the Employer its members and the Employer shall have the right of selection or rejection ef such members based on the same selection or rejection principle in effect for applicants for employment not members of the Union.
+22
+ARTICLE XIV Leaves of Absence
+Section 1.	If an employee is transferred from one classification to another within the bar* gaining unit, the employee will retain seniority in his previous classification for thirty (30) calendar days during which period of time the employee can voluntarily choose to return to his previous classification or be involuntarily returned in the event the Employer disqualifies the employee.
+Section 2.	In the event a bargaining unit employee transfers to a position outside of the bargaining unit, a leave of absence, which will not exceed six (6) months’ duration, may be arranged by mutual agreement between the employee, the Union acting through the Shop Steward and the Employer. This leave must be in written form signed by the employee. Employer and Union Steward with a copy sent to the Union Office. Such leave may be extended for an additional six months upon mutual agreement of all parties, with the total amount of leave not to exceed one year.
+Section 3.	Leaves of absence for personal reasons in excess of thirty (30) calendar days shall be in written form and shall not exceed one (1) year's duration. Such leaves are subject to mutual agreement by the employee, the Union acting through the Shop Steward and the Employer. The foregoing will not apply to leaves which are legally required. The dates of the leave, length of rime and purpose of the leave will be specified and signed by the employee, the Union Steward and the Employer and a copy shall be sent to the Union office.
+Section 4.	In the event of a death in an employee's immediate family the employee will
+23
+be entitled to up to three (3) days of leave with pay to attend and make arrangements for the funeral on the following conditions:
+a.	The employee must have established seniority and be actively at work at the time involved as a full time or regular part time employee.
+b.	The leave will be paid based upon the number of hours the employee was scheduled to work at the employee’s regular hourly rate of pay set forth in Exhibit "A."
+c.	The last day of the leave will be the day of the funeral and the employee will not be paid for any days when he was not scheduled to work. If, however, the funeral is one hundred (100) or more miles from the employee's residence, the last day of the funeral leave will be the day after the funeral to allow for travel.
+Immediate family, for the purpose of this article, means the parent, spouse, child or grandparent of the employee and the parent of the employee's spouse.
+In addition to the foregoing, a one day paid leave will be available to employees to attend the funeral of the employee's brother, sister, brother-in-law or sister-in-law.
+Section 5.	Military leaves of absence, and an employee’s rights upon return from a military leave, shall be as provided by law.
+Section 6.	The Employer agrees to grant reasonable time off without pay and without discrimination to any employee designated by the Union to attend labor conventions and other meetings pertaining to the Local No. 974, but not to exceed one man from each shop, provided, however, that in case of a key man, such absence will not interfere with the proper or efficient operation of the Employer's business.
+24
+ARTICLE XV Reclassification and Payroll Inspection Section 1. Employees shall receive the rate of pay established for the job classification to which they are assigned in accordance with Exhibit "A", except any employee whose present basic straight time hourly rate is higher than set forth in Exhibit "A" shall not have such rate reduced as a result of this Agreement.
+Section 2.	The Employers agree not to reclassify employees as a subterfuge to defeat the purpose of this Agreement.
+Section 3.	An employee who is transferred to a lower classification at his request to provide said employee with employment shall receive the rate of pay of the classification to which he is assigned. When an employee so transferred is reinstated to his former classification, he shall receive the rate of pay he received before the original transfer but in no event less than the minimum set forth in Exhibit "A”.
+Section 4.	With approval of the Employer Committee, shop payroll records and ail records bearing on payrolls will be open for inspection by the representative of the Union authorized to make such inspections.
+Section 5.	Upon the request of the Employer Committee, the Union will provide the Employer Committee with either a copy of the contract or have open for inspection copies of all contracts entered into with automobile dealers in Minneapolis who are not a party or parties to this contract.
+Section 6.	No agreement shall be entered into with the employees individually or collectively by any individual Employer which in any way conflicts with the terms of this Agreement, except in cases where the Employer Committee
+25
+and the Union committee reach an agreement by the process of the grievance machinery.
+ARTICLE XVI No Discrimination
+Section 1. The provisions of this contract shall be applied to all employees without discrimination on account of sex, race, color, creed, national origin, age, or sexual orientation. No employee shall be in any way discriminated against for giving information or testifying concerning alleged violation of this Agreement.
+ARTICLE XVII Vacations
+Section 1.	Eligibility: Employees shall be eligible for vacation benefits under the conditions set forth in this Article. Employees may utilize accrued vacation benefits only after their anniversary date of employment.
+Section 2.	Vacation Eligibility for FullTime Employees: Full-time employees shall be eligible for the following vacation benefits:
+Years of Continuous
+Full-Time Service Weeks of Vacation Since the Most Recent Benefits Earned
+Date of Employment	Per Year
+1	1
+2	2
+8	3
+20	4
+Section 3.	Service Requirements for FullTime Employees: In order to be eligible for full vacation benefits, full-time employees must have worked at least one thousand six hundred (1600) hours during the year preceding their anniversary date of employment. If such employees have not worked at least one thou
+26
+sand six hundred (1600) hours, they shall receive one-ten th (1/10 th) of their normal vacation for each one hundred sixty (160) hours worked during the twelve (12) months preceding their anniversary date of employment
+Section 4.	Computation of Vacation Pay:
+Incentive Employees: Full-time technicians, body technicians, and painters who work under the incentive program shall receive vacation pay, with one (1) week of vacation pay being computed at forty (40) hours times the incentive rate of pay for up to 39.9 hours of production.
+Hourly Compensated Employees: Fulltime hourly compensated employees shall receive vacation pay, with one (1) week of vacation being computed at forty (40) times their regular straight-time hourly rate of pay, as set forth in Exhibit A. Provided, however, that employees who are regularly scheduled to work in excess of forty (40) hours per week will be paid their regular straight time rate of pay times the number of hours in the employee’s regular scheduled work week for each week of vacation.
+Section 5.	Pro Rata Vacation Pay for Part-time Employees: Eligible part-time employees shall receive pro rata vacation benefits, based upon the average number of hours worked per week during the twelve (12) months preceding their anniversary date of employment
+Section 6.	Payment Upon Termination: Upon the completion of one (1) year of continuous service, employees that are terminated, or who voluntarily quit their employment and have given at least one (1) week’s written notice to the Employer and the Steward, shall be eligible to receive prorated vacation benefits.
+27
+Such prorated vacation benefits shall be based upon one-twelfth (l/12th) of the employee’s vacation for each month worked since their most recent date of employment. For purposes of computing prorata vacation benefits under this section, an employee will be considered to have worked a full month in any month in which he has worked at least one hundred sixty (160) hours.
+Section 7.	Scheduling of Vacation: The Employer shall post a vacation schedule by May 15th, setting forth the number of employees that will be permitted to take vacation at any time. For vacations scheduled within thirty (30) days of the posting of the vacation schedule, vacations shall be selected on the basis of seniority. Thereafter, remaining vacations shall be scheduled on a first come, first served basis.
+Vacations shall be scheduled so as to cause a minimum of disruption to the business. Once vacations have been scheduled, changes to the vacation schedule may be made only upon mutual agreement between the dealership and the affected employees.
+Section 8.	Loss of Vacation Pay and Option to Receive Vacation Pay: Vacation shall be taken within twelve (12) months following the date upon which such vacation was earned. If an employee does not take all of the vacation earned within the twelve (12) month period, the Employer will have the option of paying the employee the remaining vacation pay due in cash or scheduling the employee to take the vacation on dates determined solely by the Employer. In all other circumstances, there shall be no vacation pay in lieu of actual time off. Employees shall have the option of drawing their vacation pay on the working day before or after their vacation. Employees shall designate their option at the time the vacation is scheduled.
+28
+Section 9.	Military Service: Employees who leave their employment because of military service shall be paid vacation benefits on the same basis as an employee that has been terminated.
+When an employee returns from military service, and is reemployed by the same Employer, the employee will be given credit for time in the military service for the purpose of determining the amount of vacation the employee earns in the year in which he is returned to employment.
+ARTICLE XV1H Grievance Procedure
+Section 1.	A grievance is defined as an alleged violation of the terms of this Agreement. All grievances shall be adjusted in the following manner: (a) The grievance shall be taken up by the employee and/or the shop steward with the foreman of the department involved. The foreman must give his answer within three (3) working days. If no satisfactory settlement is reached, then (b) The employee may file a written grievance specifying the Articles and Sections of the Agreement which he believes have been violated- After the written grievance is filed, the employee, with a Union representative, will meet with the authorized representative of the Employer, In the event no satisfactory agreement is reached, the matter may be referred to the Compliance Committee.
+Section 2.	The Compliance Committee shall consist of the Labor Committee designated by the Employers. The Committee shall be designated and shall be authorized to act on behalf of the Employer in an effort to settle any grievance or dispute coming within the terms of this Agreement. Upon proof that a violation
+occurred, the Compliance Committee shall require the offending Employer to cease and desist or take whatever action is necessary to correct the violation. No settlement involving wages shall be retroactive for more than thirty (30) days except if the wage provisions of this Agreement are violated during a covered employee's probationary period and a com* plaint is filed within thirty (30) days after the completion of the probationary period, payment of such wages as are found owing shall be retroactive to the inception of the particular violation.
+In the event an Employer refuses or fails to abide by an order of the Compliance Commit* tee, such Employer shall be obligated to pay all costs incurred in any arbitration or other proceedings required to enforce the order of the Compliance Committee, including reasonable attorneys’ fees. This shall not be construed to require an Employer to pay for any lost time in the event strike action is utilized by the Union or employees in an attempt to enforce compliance.
+Section 3, There shall be no strikes or stoppages of work because of misinterpretation or violations of this Agreement. Any controversy arising over the interpretation of or adherence to the terms and provisions of this Agreement which cannot be settled between the parties involved shall be settled by the Union and Compliance Committee, except that the Employer shall not be required to consider any grievance not submitted to it in writing within thirty (30) days (except for discharge which must be submitted within five (5) working days of the time of its original occurrence.) If the grievance is not settled it may he referred to Hie Compliance Committee established in Section 2 of this Article. If the controversy cannot
+30
+be so settled such controversy shall be referred to a Board of Arbitration composed of one representative of the Union and one representative of the Employer and a third neutral member to be selected by the first two. In the event the parties are unable to agree upon a third neutral member, the services of the Federal Mediation and conciliation service will be utilized to accomplish the selection. A request will be made from the service for a list of no less than five (5) names and the parties will alternately strike names from that list to select the neutral member. The party to strike first will be determined by lot. A majority decision of the Board of Arbitration shall be final and binding upon both the Union and the Employer, and such decision shall be rendered in writing, provided, however, that the terms of this Agreement, or any Agreement made supplementary hereto, and provided that no decision of the Board shall be retroactive beyond the date of the original occurrence of the grievance.
+ARTICLE XIX
+Tools, Uniforms, Tool Insurance
+Section L Employers shall furnish all cutting tools such as files, hacksaw blades, electric drills, reamers, creepers, drop cords and all special tools.
+Section 2.	The cost of coats or coveralls required to be worn lw the employees on the job and the expense of laundering or cleaning these garments shall be divided equally between the Employer and the employee, except that any signatory Employer who now bears the full cost of furnishing and laundering such required work garments shall continue to do so. It shall be just cause for discipline or discharge of any covered employee if he wears the work garments so furnished for purposes other
+31
+than to perform his work for his Employer or at any time when not performing work for his Employer except established lunch or relief periods. Each employee shall be permitted to change such work garments up to three (3) times a week. When other than a rental service is used and work garments are purchased on a fifty-fiftv basis, and when an employee is terminated, then one-half (1/2) of these work garments shall become the property of the employee on the effective date of termination. It shall not be considered a violation of this Agreement if, during the probationary period of his employment, any covered employee is not furnished work garments by his Employer.
+The employee’s share of the cost of uniforms will be deducted from the employee’s wages. In addition, if an employee terminates employment, a deduction for the cost of the uniforms may be made if the employee does not return any uniforms required to be returned.
+The Employer shall pay any start-up costs if the Employer determines to obtain uniforms from a different source.
+Section 3.	The Employer shall furnish fire insurance to a maximum limit of Eighteen Thousand Dollars ($18,000.00) for each employee's tools used on an Employer's premises. In addition, the Employer will furnish burglary insurance to the extent of Eighteen Thousand Dollars ($18,000.00) covering theft of an employee's tool box resulting from forcible entry. In addition, coverage will be provided for loss of tools when there is dear evidence of theft, i.e. evidence that the tool box has been forced open. Employees will, however, be required to supply an accurate inventory annually and update the inventory when they add to or remove tools. In the event of a claim under either form of insurance any recovery
+32
+will be subject to a One Hundred Dollar ($100.00) deductible to be paid by Hie employee.
+The Employer will provide an arrangement by which technicians can chain their tool box to the bench or building provided the employees in the dealership request it and agree to lock up at lunch hour and when they leave work at the end of the day.
+ARTICLE XX Apprenticeship
+Section 1.	Apprentices are those who have been employed to learn the trade. They will be given every opportunity to do so ana will be advanced as rapidly as their knowledge and fitness merits. One apprentice may be employed for each five (5) journeymen ana shall be paid according to the terms of Minneapolis Dealers Association Apprenticeship Agreement.
+The Joint Apprenticeship Committee established by Section 2 of this Article is authorized to grant additional apprentices on request when the committee is satisfied that the dealership is properly training apprentices.
+Section 2.	This apprenticeship training program was formulated by the Minneapolis Automobile Dealers Association's Joint Apprenticeship Committee, representing the Association and Local Union No. 974, Garage Maintenance, Machine Warehousemen, Repairmen, Inside Men, Helpers and Plastic Employees, in cooperation with the Minnesota Apprenticeship Council, and is based on the Minnesota State Standards for apprenticeship training, and shall become a part of this Agreement.
+Section 8. Apprentices will be subject to the same work rules and disciplinary procedures including discharge as all other classifications.
+33
+ARTICLE XXI Classification and Wage Rate
+Section 1. The classification of work covered by this Agreement and minimum wage scale are designated in Exhibit "A", attached hereto and made a part hereof, the same as if they were written herein.
+ARTICLE XXII Definition of Classifications
+Section 1.
+(a)	Non-Union Service Runners. The work of Service Runners shall be defined so as to include the following miscellaneous work: Calls for and delivers cars, drives tow truck or motorcycle; picks up parts; changes tires, wheels and batteries; performs lot duties, such as changing batteries and tires, starting cars, wiping cars, but such employee shall not perform skilled mechanical work. Wherever a regular lot man is now employed, Service Runners shall not perform work to the extent of causing lot men to lose time. In time of peak periods Service Runners may assist washers, greasers or polishers, providing that in any one day such work shall not exceed fifty percent (50%) of the Service Runner’s time.
+(b)	Semi-Skilled Automotive Technicians. Only employees hired after April 15, 1971, shall qualify for this classification. The work to be performed by this classification will be limited to internal work for the Employer, new car get-ready, used car get-ready and certain installation functions as follows:
+(1)	Exhaust System (replacement and alignment)
+(2)	Tire Changing and Rotating
+(3)	Battery Installation
+(4)	Battery Cable Replacement
+34
+(5)	Accessary Installation (except air conditioning), This category will include radios, stereo-tape players, floor mats, hubcaps, etc.
+(6)	Shock Absorber Installation (except air shocks, and with the understanding that if shock absorbers are a part of a job which comes in for front-end work, it will go to the Incentive Technician who is assigned to front-end work at his option.)
+(7)	Head Lamp, Bulb and Courtesy Switch Replacement and Head Lamp Alignment
+(8)	Signal Flasher Replacement
+(9)	Replacement of all Beits
+(10)	P.C.V. clean or replace
+(11)	Squeaks and Rattles
+(12)	Wind Noise and Water Leaks
+(13)	W/S Washer Pump Replacement
+(14)	Door and Window Adjustments
+(15)	Cigarette and Clock Replacement if dash doesn't have to be disassembled
+(16)	Mirror Replacement
+(17)	Brake Inspections
+(18)	Wheel Balancing when done as a maintenance item
+(19)	Drain and flush when no parts are involved
+Semi-skilled Automotive Technicians do not participate in the incentive program.
+(c) Heavy Duty Truck Work: Heavy Duty Truck Work is defined as work on the power train, or suspension, of any four wheel drive track of 6,200 pounds gross vehicle weight or more, or any two wheel drive truck of 7,000 pounds or more, or any diesel powered truck.
+35
+Work on the power train or suspension shall include the following:
+I.	work;
+2.	tire mounting and balancing;
+3.	work on the steering linkage;
+4.	work on the port fuel injectors, and the fuel tank or fuel pump, excluding fuel filters when done as normal maintenance;
+5.	work on the cooling system, excluding powerflushes, drain and fill when done as normal maintenance;
+6.	work on the differential, excluding fluid changes or fills that may be performed by removal of the drain plug;
+7,	work on the starter of any Diesel powered truck;
+8.	work on the ignition system, excluding such work when done as normal maintenance;
+9.	electrical work on the engine or transmission management systems;
+10.	work on the exhaust system or the catalytic converter;
+11.	diagnostic work on the power control module, but only when the necessary repair is to a power train component.
+Automotive technicians will be paid the heavy duty wage differential for performing heavy duty truck work even though the individual is not classified as a Heavy Duty Truck 'Ifechnician.
+Whether an employee is properly classified as a heavy duty truck technician, and therefore, eligible to receive the heavy duty truck rate for all mechanical work performed at the dealer-
+36
+ship, shall be determined bv application of a calendar quarter test. If, during a calendar quarter, a mechanic spends 50% or more of his time performing mecnanical repair on heavy duty trucks, as defined in this collective bargaining agreement, that individual shall be classified as a heavy duty truck technician at the commencement of the next calendar quarter. Once classified as a heavy duty truck technician, he shall then receive the heavy duty truck rate of pay set forth in the collective bargaining agreement The employee shall continue to be classified as a heavy duty truck technician until he fails to spend 50% or more of his time performing mecnanical repair on heavy duty trucks during any subsequent calendar quarter. In that event, at the commencement of the next calendar quarter, the individual shall no longer be classified as a heavy duty truck technician, for purposes of receiving the heavy duty truck differential on aU work.
+ARTICLE XXIII
+Payday
+Section 1.	Wages shall be paid on Tuesday of each week or any other day by mutual agreement in cash or negotiable check with not more than four (4) days held back.
+Section 2.	Employees shall receive their pay one (1) hour before employee's regular quitting time on pay day.
+ARTICLE XXIV
+Jury Duty
+Section 1. The difference between jury duty pay and straight time pay for regular employees shall be absorbed by the Employer with a maximum of ten (10) days.
+37
+ARTICLE XXV
+Health and Welfare and Pension Funds
+Section 1. Effective May 1, 2003, the Employer will pay $353.03 per month to the Health and Welfare Plan (including the Dental Program) for single coverage health insurance, and $373.03 for family coverage. The contributions will be paid on behalf of all employees actively engaged on the first work day of each month. In addition, the Employer shall make an additional contribution of $1.73 per month on behalf of each employee eligible for a contribution to the Plan. The Plan shall forward the additional contribution to the Teamsters Service Bureau tn defray the cost of services provided to employees by the Bureau. Payments will be due to the Fund no later than the IOth day of each month.
+Effective May 1,2003, the employee contribution for family coverage will be One Hundred Ten Dollars ($110.00) per month and the employee contribution for single coverage will be Sixty-five Dollars ($65.00) per month. Employee contributions will be deducted from their pay.
+In the event an additional increase in contribution is required in the judgment of the Trustees, the Employer and employees covered by this Agreement will each pay fifty percent (50%) of the amount determined to be necessary by the Trustees to maintain benefits.
+When an employee is unable to work by reason of absence due to illness or injury, the Employer will continue to contribute to the trust fund for up to thirteen (13) calendar weeks. An employee must return to work for thirty (30) work days to requalify for thirteen (13) weeks of contribution for the same illness or injury.
+38
+Each employer bound by this Agreement shall install a Section 125 Plan to permit employees to pay their contribution towards the cost of health insurance benefits, child care expenses, and out-of-pocket medical, dental, and eye care expenses on a pre-tax basis. The Employer’s obligation to maintain such a plan is contingent upon such plans remaining permissible under the Internal Revenue Code.
+Section 2, Any Employer who becomes delinquent on welfare premium payments or Pension contributions as required by this Article shall be subject to work stoppages or strikes ten (10) days after a notice of delinquency has been sent to the Employer, and such work stoppages or strikes shall not be in violation of this Agreement.
+Section 3.	Signatory Employers will pay the following amounts to Central States Southeast and Southwest Area Pension Plan:
+Effective April 16, 2003 - $85.00 per week Effective October 1, 2005 - $91.00 per week
+Section 4.	No contributions will be required to either the Health and Welfare Plan or the Pension Fund on behalf of part time employees who are scheduled to work twenty (20) or less hours per week.
+Provided, however, that a contribution will be required to the Pension Plan if such an employee works one thousand (1,000) ours or more in any twelve (12) month period. Contributions on behalf of such an employee shall be required, thereafter, for any weeK in which the employee is on the payroll.
+No contributions shall be required to the Pension Fund on behalf of any employee in a classification covered by this Agreement during the prob at ionap' period set forth in Article X, or any extension thereof.
+39
+ARTICLE XXVI Protection of Rights
+Section 1.	It shall not be a violation of this contract and it shall not be a cause for discharge if any employee or employees refuse to go through the picket line of a Union.
+Section 2.	The Union agrees that, in the event the Employer becomes involved in a controversy with any other Union, the Union will do all in its power to help effect a fair settlement.
+Section 3.	The insistence by any Employer that his employee go through a picket line after they have elected not to, and if such refusal has been approved in writing by the responsible officials of the Minnesota Teamster Joint Council No. 32, shall be sufficient cause for an immediate strike of all such Employer's operations without any need of the Union to go through the grievance procedure herein.
+ARTICLE XXVH Maintenance of Standards
+Section 1.	Protection of Conditions. The Employer agrees that all conditions of employment in his individual operation relating to wage guarantee, hours of work, overtime differentials and general working conditions shall be maintained at not less than the highest minimum standards in effect at the time of the signing of this Agreement.
+ARTICLE XXVIII Sub-contracting
+Section 1.	None of the work coming within the classifications covered by this Agreement shall be performed within the Employer's shop
+40
+as contract work on a regular basis. This shall not be interpreted to prevent an Employer from hiring an outside contractor to perform special jobs when irregularly required by the Employer.
+Section 2.	AU things being equal, the Employer is urged to send any sublet work of the nature performed by employees as covered by the Agreement to the Union shops.
+ARTICLE XXIX
+Separability and Savings Clause
+Section 1.	If any Articles or Sections of this contract or of any riders thereto should be held invalid by operation of law or by any tribunal of competent jurisdiction, or if compliance with or enforcement of any Article or Section should be restrained by such tribunal pending a final determination as to its validity, the remainder of this contract and of any rider thereto or the application of such Article or Section to persons or circumstances other than those as to which it has been held invalid or as to which compliance with or enforcement of has been restrained, shall not be affected thereby
+Section 2.	In the event that any Article or Section is held invalid or enforcement of or compliance with which has been restrained, as above set forth, the parties affected thereby shall enter into immediate collective bargaining negotiations, upon the request of the Union, for the purpose of arriving at a mutually satisfactory replacement for such Article or Section during the period of invalidity or restraint. If the parties do not agree on a mutually satisfactory replacement, further negotiations shall be in accordance with Article XVIII, Grievance Procedure.
+41
+ARTICLE XXX Credit Union
+Section 1, The Employer shall make available a payroll checkoff program for the Employees’ Credit Union. Employer will remit to the Credit Union no later than the 15th day of the month following the date of the deduction.
+ARTICLE XXXI
+Labor Management Committee and Study of Incentive System
+Section 1.	A Labor Management Committee will be established by the parties to meet at least quarterly for the purpose of studying and attempting to resolve industry problems.
+Section 2.	The Minneapolis Automobile Dealers Association and the Teamsters Union, Local 974, agree to meet during the term of the collective bargaining agreement to discuss possible modifications to the current incentive system. Such meetings shall be conducted by those representatives designated by the Association and Local 974, at mutually agreeable times, The objective of those discussions shall be to arrive at mutually agreeable language;
+1.	Ib pennit those technicians performing the more difficult technically challenging procedures to receive equitable compensation tinder the incentive system, in relation to those procedures requiring leas skill, and
+2.	To accomplish that objective, while increasing the employer's ability to be competitive in obtaining customer work.
+It is the objective of the Association and Local 974 to conclude such discussions by January 1 of 2004. This date may be extended upon mutual agreement of the Association and Local 974. If such discussions result in an agreement to revise the current incentive system, the col-
+42
+iective bargaining agreement shall be modifier accordingly, upon mutual agreement of the pa-ties. If no agreement is readied, all terms of tfe collective bargaining agreement shall reme in full force and effect, including Article XV“ Section 3. Any failure to reach agreement not be subject to the grievance/arbitration cedures of the collective bargaining agreen^=
+ARTICLE XXXII Expiration
+Section 1.	This Agreement shall, upo^^M ration, become binding on the hereto, their successors and assigns a^^= be in ndl force from April 16, 2003 to 2006, and from year to year thereaft<^=^= either party shall notify the other i^^^M sixty (60) days prior to the expiratu year or subsequent year of their ify or change the same. Upon rece-----
+notice, a conference shall be ar------
+within ten (10) days.
+Section 2.	In the event such no-----
+and the parties have not agreed to----
+ment upon the expiration of this contract nevertheless shall rema and effect during such negotiat^^^^^^^ continue to be binding upon hnt.t until such time as a new agree^^^^^^^ been negotiated and signed.
+f
+*
+L_
+MINNEAPOLIS AUTOMOBILE DEALERS ASSOCIATION
+STEVE BLOOMER, Village Chevrolet 'OM GROSSMAN, Metropolitan Corporation ARY LEHMAN,. Lupient Automotive Group ’AVID LUTHER, Motors Management Corp.
+)AM STANZAK, Key Cadillac Oldsmobile
+STEVE BURTON, GMADA Attorney WILLIAM ABRAHAM, GMADA Executive Vice President
+AGE MAINTENANCE, MACHINE REHOUSEMEN. REPAIRMEN, SIDE MEN, HELPERS AND PLASTIC EMPLOYEES, LOCAL NO, 974 Affiliated with the ?nal Brotherhood of Teamsters
+TWEET, Secretary-Treasurer 374 AM ZIEMBO, President 974 REAVING, Vice President 974 UNE, Sears Imported Auto SULLEN, Village Chevrolet HOUGH, Borton Volvo
+Brookdale Buick-Pontiac-GMC »BS, Metropolitan Ford
+44
+EXHIBIT “A"
+Classification		4/1&1M	dflfiSS
+Heavy Duly Thick technician	$1151	$37.36	$1811
+Automotive technician	17.03	1737	17.71
+Straight Time Automotive "technician	18.451	18.55	19.11
+Body technicians	17.03	1737	IT.71
+Painter	17.03	17.37	17.71
+Service Sates 0-S Months-See 1 below	13.®	13.49	13.89
+9-18 Monihs-See 1 below	14.44	14.87	1532
+Over 18 Months -See 2 below	15.93	16.41	16.90
+Ttwertnen	15.86	1633	16.82
+SembSkiUed Automotive Technician	11.®	1234	12.72
+Partsmen 0-12 months	9.®	9.27	9.55
+12 - 24 months	10.01	10.31	10.62
+After24 months-See3below	13.15	13.55	13.96
+Counterman with 3 Years In the Industry	1G.D2	16.81	17.32
+Counterman with 5 Years in the Industry	17.44	18.95	18.59
+Quick Lubemen Customer Service Rep.	10.76	11.09	11.42
+Lubemen - See 4 below	10.51	10.82	11.15
+Sanders, tepers and Prep Employees -See 4 below	10.51	10.82	11.15
+Underwater - See 4 below	10.51	10.82	11.15
+DeteiiewTolisher - See 4 below	W.U	10.42	10.73
+DeriveraTartaTow - See 4 below Interns	9.76 10.01	10.05 10.30	1035-
+			10.6C
+Janitor	8.92	9.19	9.4~
+Washers/Lotaen Start	6.94	7.15	v=
+After £ Months	7.59	7.82	8.™
+After 1 Year	8.20	8.44	8	
+45
+(1) The progression rates for service sales applies to new hires after April 15,1995 who do not have eighteen (18) months of work experience with franchised automobile dealers prior to their employment. Employees hired prior to April 15, 1995 will be paid the eighteen (IS) month wage rate.
+£2) Service sales'employees who are employed by the same dealer for seven (7) years in the same classification will receive a fifty cent ($.50) per hour wage premium and that premium will be increased by an additional fifty cent ($.50) per hour after fifteen (15) years of service as a service salesman with the same dealer.
+(3)	The rate for partsmen after twenty-four (24) months is a permanent rate. Such employees do not progress to the 3-year or 5-year counterman rate unless they are assigned to the counter and work on the counter for three (3) years or five (5) years, respectively.
+(4)	The starting rate for these classifications will be $8.85 the first year of the contract, $9.11 the second year, and $9.38 the third year for any employee hired after April 15, 1995. Full scale will be paid after twelve (12) months of Employment.
+Factory Sponsored Trainee
+Student trainees under factory sponsored programs such as ASEP or ASSET and the like vill be employed on the following terms and onditions:
+a.	The student trainee will be subject to the Union security provisions of the Agreement.
+b.	Students will be paid for holidays which occur while they are working for the dealership on the active payroll in the week in
+46
+which a holiday occurs. In addition, they will earn pro rata vacation pay based on hours worked in the dealership.
+c.	They will not be entitled to coverage under the health and welfare program during the training period and pension contributions will not be required.
+Provided, however, that a contribution will be required to the pension plan if such a student trainee works one thousand (1,000) hours or more in any twelve (12) month period. Contributions on behalf of such an employee shall be required thereafter for any week in which the employee is on the payroll.
+d.	On completion of the training program, the student will became an apprentice.
+e.	The student will have a seniority date within the Automotive Technician classification effective on the date the training program is completed. They will be given retroactive credit for benefit purposes based on accumulated hours worked in the dealership. Since students work approximately half time, this would mean they would have retroactive seniority for vacation purposes of approximately one (1) year when they become an apprentice.
+f.	Each student will be assigned to work with a technician who will receive 100% of the trainee's production for the first six months of the program, 75% for the second six months, 50% for the third six months, and 25% for the fourth six months of th^=^= program. After six months into the pro------------
+gram the trainee will be credited for incen—— uve purposes with 25%, after one yes^^^m with 50% and after eighteen months wife 75% of his own production.
+47
+g.	The starting rate for students will be 50% of the journeyman guaranty which will be increased to 55% in the second year of the student's program.
+h.	There will continue to be a limit of two (2) students per dealership and layoff will be by seniority within the student trainee classification. The students will, however, be permitted to work at various unskilled jobs during the period of time when they are attending school even though another student is employed at that time.
+i.	No more than two (2) students, whether they are factory sponsored or Votech, may be employed at the same time.
+Votech Student Trainee
+Votech Student Trainees may be employed on the following terms and conditions:
+a.	The student trainee will be subject to the Union security provisions of the Agreement.
+b.	Students will be paid for holidays which occur while they are working for the dealership on the active payroll in the week in which a holiday occurs. In addition, they will earn pro rata vacation pay based on hours worked in the dealership.
+c.	They will not be entitled to coverage under the health and welfare program during the training period and pension contributions will not be required.
+Provided, however, that a contribution will be required to the pension plan if such a student trainee works one thousand (1,000) hours or more in any twelve (12) month period. Contributions on behalf of such an employee shall be required thereafter for any week in which the employee is on the payroll.
+48
+d.	On completion of the training program, the student will become an apprentice.
+e.	The student will have a seniority date within the Automotive Technician classification effective on the date the training program is completed. They will be given retroactive credit for benefit purposes based on accumulated hours worked in the dealership. Since students work approximately half time, this would mean they would have retroactive seniority for vacation purposes of approximately one (1) year when they become an apprentice.
+f.	Each student will be assigned to work with a technician who will receive 100% of the trainee's production for the first six months of the program, 75% for the second six months, 50% for the third six months, and 25% for the fourth six months of the program. After six months into the program the trainee will he credited for incentive purposes with 25%, after one year with 50% and after eighteen months with 75% of his own production.
+g.	The starting rate for students will be 50% of the journeyman guaranty which will be increased to 55% in the second year of the student's program.
+h.	There will continue to be a limit of two (2) students per dealership and layoff will be by seniority within the student trainee classification. The students will, however, be permitted to work at various unskilled jobs during the period of time when they are attending school even though another student is employed at that time.
+i.	No more than two (2) students, whether they are factory sponsored or Votech, may be employed at the same time.
+49
+L
+In terns
+Interns shall be employed subject to the following terms and conditions.
+a.	Interns shall be subject to the Union Security provisions of the Agreement. Interns shall be eligible far a reduced initiation fee as provided for in the Union’s Constitution.
+b.	Interns may be scheduled on a flexible basis in order to accommodate the employee’s schooling.
+c.	Individuals are eligible for employment as interns only while enrolled in an approved educational program for the automotive industry.
+d.	Interns working twenty hours or less per week shall be ineligible for participation in the health and welfare or pension plan. However, if the intern works one thousand (1,000) hours or more in any twelve (12) month period, pension contributions shall be required thereafter for any week in which the employee is on the payroll.
+e.	Interns shall be subject to the normal probationary period, and shall acquire seniority rights as an intern upon completion of probation.
+*	The straight time Automotive Technician classification is available only under circumstances where the Employer and employee agree that the individual is to work at straight time and will not be a participant in the incentive program.
+*	* Employees in the Parts Department will be given credit for previous experience in the Parts Department of a franchised auto dealer for the purpose of wage progression provided the experience is stated in the employee's application for employment. Providing, how
+50
+ever, that the counterman rate for five (5) years only applies to those individuals who acquire five <5j years of experience as a counterman within the Employer's Parts Department and/or as set forth specifically in the employee's application for employment.
+*	** Employees hired prior to 4/16/86 in the following classifications will be paid as follows:
+Classification	40MM	40fiJH	4/16*05
+Semi-Skilled Automotive			
+Technicians	$12.97	$13.36	$13.76
+Partsmen			
+After 24 months	14.24	14.67	15.11
+Lubeman	11.35	11.69	12 04
+Sanders	11.35	11.69	12.04
+Undercoaters	11.35	11.69	12.04
+Lotmen	10.84	11.16	11.49
+Washers	10.39	10.70	11.02
+Polishers	10.91	11.24	11.57
+Drivers assigned to parts			
+or tow vehicles	10.57	10.88	11.21
+Janitor	9.65	9.94	10.24
+51
+EXHIBIT “B"
+Contract ClarificationH
+1.	The following is intended to clarify the application of the incentive system to leased vehicles which are owned by a signatory dealership or a wholly owned subsidiary of the dealership which is created for the purpose of processing leased cars! It is agreed that the repair of a leased vehicle during the term of the lease will be treated as customer work under the incentive system. However, prior to the time that a vehicle is put out to a customer under a lease it will be considered the dealer’s property and treated as internal work. When the vehicle is returned to the dealership at the expiration or cancellation of a lease, any repair work prior to the sale of the vehicle or to a subsequent iease of the vehicle vVill cllsi? be considered as internal work.
+2.	In clarification of the application of the minimum payment of .4 of an hour per truck or per car, it is understood that the .4 applies to each vehicle and is not affected by the fact that more than one order may be required by the factoiy in a particular dealership. For example, Chrysler Motors requires a separate order to be written for warranty as distinguished from customer work. The employee is not entitled to .4 for each order but is entitled to .4 for working on that vehicle.
+3.	This is to clarify the payment of certain employees for the floating holiday which was previously scheduled in connection with an employee’s scheduled vacation period. When the change was made a number of dealers established a uniform practice of paying for that holiday on the basis of the flat rate hourly rate of pay instead of the guaranteed rate. It has been agreed that any employee who received holiday pay for that holiday based on
+52
+the flat rate hourly rate will continue to receive that benefit. Any employee who was hired after April 16,1980 is excluded froni that agreement and may be paid holiday pay for the floating holiday on the basis of the guaranteed hourly rate of pay set forth in Exhibit "A". This formula does not apply to the new floating holiday established in 1983 in lieu of the nay after Thanksgiving holiday which will be paid at the guarantee rate.
+53
+MINNEAPOLIS AUTOMOBILE DEALERS ASSOCIATION PARTICIPATING EMPLOYEE MEMBER
+ANDERSON CADILLAC	i
+7400 Wayzata Boulevard	:
+Minneapolis, MN 55426 ... 763-544-3501
+APPLE FORD OF SHAKOPEE	i
+PO. Box 240419 Apple Valley, MN 55124 ... 952-445-2420	!
+BLOOMINGTON CHRYSLER-JEEP 8000 Penn Avenue South Bloomington, MN 55431 .... 952-888-9541
+BORTON VOLVO INC. (Golden Valley) 905 Hampshire Avenue South Golden Valley, MN 55426 ... 612-827-3666	i
+BORTON VOLVO INC. (Minneapolis)	’
+5428 Lyndale Avenue South	i
+Minneapolis, MN 55419......612-827-3666	I
+BROOKDALE DODGE	!
+6800 Brooklyn Boulevard Brooklyn Center, MN 55429 ... 763-560-8000
+BROOKDALE FORD
+2500 County Road 10
+Brooklyn Center, MN 55430 . . .763-561-5500
+COON RAPIDS CHRYSLER-JEEP	■!
+2500 Woodcrest Drive NW	i
+Coon Rapids, MN 55433 .... 763-421-8000	i
+DODGE OF BURNSVILLE, INC. 12101 Highway 35W South	i
+Burnsville, MN 55337 .... 952-894-9000
+54
+FREEWAY FORD
+9700 Lynd ale Avenue South Bloomington, MN 55420 ....952-888-9481
+GROSSMAN CHEVROLET
+1200 West 141st
+Burnsville, MN 55337 .... 952-435-8501
+KEY CADILLAC-OLDSMOBILE
+6825 York Avenue South
+Edina, MN 55435 ..........952 920-4300
+KEY COLLISION (Key Cadillac)
+480 W. 79th Street
+Minneapolis, MN 55420 ....952-884-6272
+LENZEN CHEVROLET-BUICK
+480 Highway 212
+Chaska, MN 55318 .........952-448-2850
+LUPIENTS AUTOMALL
+7100 Wayzata Boulevard Minneapolis, MN 55426 ... 763-546-2222
+LUPIENTS HAROLD CHEVROLET
+AND SOUTHTOWN SUZUKI
+1601 Southtown Drive
+Bloomington, MN 55431 ....952-884-3333
+LUTHER BROOKDALE BUICK-
+PONTIAC-CMC
+8188 Brooklyn Boulevard
+Brooklyn Park, MN 55445 . 763-549-1500
+LUTHER BROOKDALE HONDA
+6801 Brooklyn Boulevard
+Brooklyn Center, MN 55429 .... 763-561-8111
+LUTHER BROOKDALE MAZDA
+6700 Brooklyn Boulevard
+Brooklyn Center, MN 55429 ... 763-561-8800
+55
+LUTHER DOWNTOWN JAGUAR
+222 Hennepin Avenue Minneapolis, MN 55401 ....612-371-1400
+LUTHER LINCOLN-MERCURY
+3901 Vinewood Lane
+Plymouth, MN 55441 .......763-550-7200
+LUTHER NORTH COUNTRY FORD
+10401 Woodcrest Drive
+Coon Rapids, MN 55433 .... 763-427-1120
+LUTHER WEST SIDE VOLKSWAGEN
+1820 Quentin Avenue South
+St. Louis Park, MN 55416 .952-377-4100
+METROPOLITAN FORD
+12790 Plaza Drive
+Eden Prairie, MN 55344 ... 952-943-9000
+MORRIE’S MINNETONKA FORD
+13400 Wayzata Boulevard Minnetonka, MN 55305 .....952-546-5441
+NEW BRIGHTON FORD
+1100 Silver Lake Road
+New Brighton, MN 55112 ...651-633-9010
+PRESTIGE LINCOLN-MERCURY INC.
+6661 Wayzata Boulevard Minneapolis, MN 55426 .... 952-544-6661
+RUDY LUTHER HOPKINS HONDA
+499 Main Street Hopkins, MN 55343 ........ 952-938-1717
+RUDY LUTHER TOYOTA
+8801 Wayzata Boulevard Minneapolis, MN 55426 .... 763-544-1313
+56
+SAXON MOTORS, INC,
+17354 Zane Street NW, Box 340
+Elk River, MN 55330 ....763-441-1922
+SEARS IMPORTED AUTO
+13500 Wayzata Boulevard Minnetonka, MN 55305 .. 952-546-5301
+SHAKOPEE CHEVROLET-OLDSMOBILE-
+PONTIAC, INC.
+1206 E. First Avenue
+Shakopee, MN 55379 .... 952-445-5200
+SUPERIOR FORD
+9700 - 56th Avenue North
+Plymouth, MN 55442 .... 763-559-9111
+VILLAGE CHEVROLET
+16200 Wayzata Boulevard
+Wayzata, MN 55391 ......952-473-5444
+WALSER BLOOMINGTON DODGE
+8011 Penn Avenue South Bloomington, MN 55431...952-888-8891
+WALSER BLOOMINGTON TOYOTA
+1750 West 80th Street Bloomington, MN 55431...952-888-5581
+WALSER BU1CK-PONTIAC-GMC
+4401 West 80th Street Bloomington, MN 55437...952-345-9200
+WALSER BURNSVILLE MAZDA
+14720 Buckhill Road Burnsville, MN 55306 .. 952-892-9800
+WALSER CHEVROLET
+9825 - 56th Avenue North Plymouth, MN 55442 .....763-559-9300
+57
+WALSER CHRYSLER-JEEP
+314 Main Street
+Hopkins, MN 55343 ....... 952-935-2400
+WALSER LINCOLN MERCURY
+1001 Clover Drive Bloomington, MN 65420 ....952-888-2271
+WAYZATA COLLISION (Village Chevrolet)
+1755 E. Wayzata Boulevard
+Wayzata, MN 55391 .........952449-6760
+WAYZATA MITSUBISHI
+16000 Wayzata Boulevard Wayzata, MN 55391 ........952-473-8111
+58
+WITHDRAWAL CARDS
+If for some reason you sever employment within the jurisdiction of Local 974, be sure to contact the Union office either by phone, call 331-2200, or by mail. In order to be eligible for a withdrawal card YOUR DUES MUST BE PAID FOR THE CURRENT MONTH IN WHICH YOU LEAVE. Example, if you leave on the 1st of the month, your dues for that month must be paid plus 50« for the withdrawal card. THIS REQUEST MUST BE IN THE UNION OFFICE WITH THE CORRECT AMOUNT OF MONEY WITHIN 90 DAYS FROM THE LAST DAY OF THE MONTH THROUGH WHICH DUES ARE PAID. If your request and money are received after 90 days, you wifi be required to pay a re-initiation fee plus one month’s dues to receive withdrawal card.
+INSTRUCTIONS FROM INTERNATIONAL UNION AS FOLLOWS;
+A withdrawal card shall be issued if the unemployed member applies within 90 days from the last day of the month through which dues are paid. See example below,
+Member stopped work the 15th of July and paid dues through July. He applied for a withdrawal card the 30th of October. Because he was within 90 days of the end of the month through which he paid dues, he can be issued a withdrawal card.
+EXECUTIVE BOARD, LOCAL 974
+59
+	
+$ M T W T ft	$
+t 1 3	4
+S 4 ? ft • fe ti 11 11 M IS to IT II H to II @11 >4 23 KIT Kit Hit
+2003
+Mmutt
+I MT WT P $
+J
+1 J 4 J 4 ? t I to H 111) to II it i? » to ton 22 11 u 15 @17 to
+
+S M T WT f s
+z j 4 i « r • I II II II 11 14 IS 14 I? II If to 21 » UMlS@17»n ton
+s H T WT t S 12 14 3 t ? ft » toll ji (J M to 14 IT to to to ii n@to u to 37 If to to
+3 H T W T ft * t 3 3
+4 I 4 7 ft ft to (t (1 |i H fl to 17 II to to 21 » » to Uto 2>@toto 31
+$ HT WT f 1 12 14 3 4 1 ft ft to H 12 to M to to it to 1* to it » to 34 to » 17 V 2*»
+I MT WT F 1 13 14 1
+A 7 t ft to to 11 to J4 is u to m it to If 22 U 24 IS U 33 » 2ft to 31
+feptamW
+S H T wt F J J M T WT 7 S ft I 1 3 4 S I
+1 4	U ) I	>	7	8	ft	to II	11 13
+to ii	n	ii H to	to	m to	m	to it	to to
+n fl	it	to ii n	u	ai u	u® is	» ar
+34 is	to	27 to »	to	to 3ft	to
+si
+Qc^gfeW $ NT WT M 12 2 4 S I 7 I 1 1011 11to 14 B 54 H 11 Ift to 21 @23 to to 14 2? 21 to to 31
+J H1 WT ft S I
+1 3 4 5 ft 7 8 1 re n n u h is h r? m « to if u ai to to® it to to to
+D**6W $ M T WT ft ft
+U i 4 M 7 I ft to II 12 13 h to i> to to If UU@BMW Vto K31
+O - General membership meeting - 4th Wednesday of every month at 7 p.m. except during June, July and August.
+Stewards meeting 4^ Wednesday of every month at 6;30 p.m. except during J one, July and August 4th Wednesday, All Night Shift Employees, 1:30 p.m, except during June) July and August.
+If a meeting date should fall on a holiday, the members will be notified as to the change of date.
+60
+2004
+		fed
+t M T WT 7 1	J mtwti $	t fl T WT f $
+1 1 I	1 2 J ♦ 5 * ?	12 2 0 1
+4 S 4 7 ■ 7 10	M to II □ 13 H	7 1 » IP H U IJ
+11 11 IS 14 IS 44 IT	U tt P H to » 1«	to (1 ti 17 to l» to
+It It » 11 H 11 74 is M ti®» n si	H x>	n a B	n nzjQ«»n nunii
+am	»*v
+I M T WT r 1 t M T WT f I S M T WT f s lit	)	iii4i
+4 I 4 T I	4	10	114 14 11	4 1 ■ » W 14	11
+II 11 II 14 11	M	17	1 M II 11 11 M IS	IS 14 IS 14 11 It	II
+ts is» jia ms	is n it is m >t ii	»n a »m aa
+bmw ®n	k	um w®ir an	w » n »
+an
+SMTWTSI	I M T WT 7	S	I Hl WT I	I
+111 I 1 1 4 S 4 7	1114
+4 5 4 7 I 4 IM	> 4 M II II 11	14	I 4 7 ( t tt	II
+It 11 >1 >4 01 14 17	1} 14 t7 It n Ml	11	01 11 14 IS 04 I?	It
+UHMlinUM	HUM ISM ITU	lt»ll@UMU
+is»17»ltwi)	1SK1I	U»M»M
+Oilton	Mwwwtow	Otcwnfcw
+$ hr	f s	1	WT f 1	3 ftT WT I 3
+i :	(Mill	11*4
+2 4 117 11	? 1 1 to H tl 0	) I 7 1 > M tl
+K111 11 tl H tl to	M 11 14 47 It to to	n u u ii it n to
+17 It It M u 11 U 11 u U 0U M 17 it 10 11 @U M M
+M»M®lll»X	»17»n»ll
+II
+O - General membership meeting - 4^ Wednesday of every month at 7 p.m. except during June, July and August.
+Stewards meeting 4th Wednesday of every month at 6:30 p.m. except during June, July and August. ■i01 Wednesday, Ail Night Shift Employees, 1:30 p.m. except during June, July and August.
+If a meeting date should fall on a holiday, the members will be notified as to the change of date.
+61
+	2005
+1 MT*YTf S 1 1 3 4 S 4 7 t f ft )| 4] 12 14 IS M >7 It Ct M 11 U » M M M W@»lall	SKTWTFS	$ KT WT 1 $ 112 4 4 17	1 J M J ♦ t ♦ 10 IF	11 11 14	7 t ? W	II U	11 IS IS 17 Ft	IS 20 21	14 IS U I?	It rt	2ft HUMgtotzrift	iiUDftuun it	a »son
+S H T WT T i 1 1 ) 4 J 1 ? 1 1 14 it n ti u is is ir tt ir»u u um	S M T WT F 4	I Pt T^W*T f J 1	11)42 2 J 4 5 4 7 t	« M 1 UIHl » ioii nit 14u	nittswI?»a it nui}»u u	»ii unwUM 2)WU®2?itlt	B? It UN
+Wf 1 K T WT 7 1 : 1 1	Aefwt	SwrtwiMr S M T WT T I	J KTWTH i i i 1 i < r	list
+4 S 4 2 I 9 10 t T 10 U 12 M H i 4 ? J I WN
+Ct 11 1> M IS ft 17 If I) 20 11 12 2) M H Ml? 71 21 10 11	IS It n m IS 20 21	12 IS 14 IS H 17 II a W 24 22 M IT a	Ft 10 li@H H W 2* >0)1	24 17 2*27)0
+October S MT WT F J 1 1 14 h ? n it rt a u m ts H 17 11 IT 3111 12 21 m is i*@r» r» j#	S M T^W F S	J HT WT f 1 1 1 3 4 S 4	C I J 4 7 1 t |M|	IS	H	S 4 ? « I	fell 14 H 14 17 It	If	»	12 IS 14 IS IS	17 II HUD @2S	U	27	II 8 »	14 2S 24 27 » »)0	)F
+O - General membership meeting - 4^ Wednesday of every month at 7 p.m. except during June, July and August.
+Stewards meeting 4* Wednesday of every month at 6:30 pun, except during June, July and August. 4“> Wednesday, All Night Shift Employees, 1:30 p.m. except during June, July and August.
+If a meeting date should fall on a holiday, the members will be notified as to the change of date.
+62
+2006
+Jill ■?		Mwdi
+i n r wr f t	$ mtwtf J	2 ft T WT f 5
+1 1 J 1 3 * 3	1114	1 1 M
+It It II 11 13 U	* 4 r 1 * w il	1 i 7 M ton
+IS H 17 It I* M u	ft u « tt « cr «	u n h ri m rr ct
+nu m@)u wu » »>i	1* JP2I@Z>M2S	ft » 21 @21 24 IS
+		14 27M nft H
+AM	•*T	fWft
+t M T wr 3 t	> ft T WT F 1	1 ft Y WT 7 4
+1	1 1 » 4 1 4	t 2 1
+i i t S 4 > 1	? r r it ct u tt	4 3 4 7 t 7 ft
+* 10 It 11 13 M If	H ft il i? it n»	n n t> it » H n
+10 17 11 >»»ll »	iiiiuftuur	it is » n a u m
+» U	W >0 31	tt ft Mil	a unit it io
+	AnfMt	Btfftwnbw"
+i H T wr » s	1 nr wt f t	1 KT WT F 1
+<	t 2 2 4 J	1 1
+3 3 4 3 0 3 0	4 ? 1 4 ft 11 >2	1 4 2 4 7 t t
+0 10 » >113 14 IS	1> 14 ft 14 IT ft ft	ft H ft t| 14 ft ft
+K IT H it »ll n	M 21 21U 24 21 24	17 It ft » 21 21 U
+uauoss 30 31	ya »mji	W
+(Mwwr	Mvwwitar	
+S H T WT F S	J KT WH 1	2 MT WT M
+1114 14?	12 2 4	1 2
+M it 1) 1) U M	1 4 ? t > 10 il	) 4 J i 7 1 1
+ft ft 1? It ft B 21	1111 M ft ft 1? ft	ft ti ft u ft ft tt
+U D M@M v n	!1»1I®U)4U	17 ft ft 2t 2f 12 11
+910 21	24 27 IfKx	»11	2» » 11
+0 - General membership meeting - 4* Wednesday of every month at 7 p.m. except during June, July and August.
+Stewards meeting 4“* Wednesday of every month at 6:30 p.m. except during June, July and August. 4th Wednesday, Ail Night Shift Employees, 1:30 p.m. except during June, July and August
+If a meeting date should fall on a holiday, the members will be notified as to the change of date.
+63
+Get a Withdrawal Card
+When You Leave Your Job
+Be sure to request a Withdrawal Card if you are laid* off, going on leave-of-absence, lengthy medical leave, or terminating your employment. A Withdrawal Card must be requested within 90 days of your last day worked. Dues must be paid current through the last month you were employed.
+Stop by your Local or complete this form and mail it to your Local Union office along with 50 cents. It is your responsibility to obtain a Withdrawal Card in order to avoid being suspended from the Union and subject to paying back dues and/or a re-initiation fee.
+Name __.
+Local No. ________________________________
+S.S.#_____________________________________
+Phone_____________________________________
+Address __________________________________
+Last Employer_______________________________________
+Last Day Worked ____________________________________
+Reason for Leaving__________________________________
+(quit. layoff, terminated, etc.)
+Signature
+Date
+65
+[
+Get a Withdrawal Card
+When You Leave Your Job
+Be sure to request a Withdrawal Card if you are laid-offi going on leave-of-absenee, lengthy medical leave, or terminating your employment. A Withdrawal Card must be requested within 90 days of your last day worked. Dues must be paid current through the last month you were employed.
+Stop by your Local or complete this form and mail it to your Local Union office along with 50 cents. It is your responsibility to obtain a Withdrawal Card in order to avoid being suspended from the Union and subject to paying back dues andfor a re-initiation fee.
+Name________________________________________
+Local Na ___________________________________
+SS#_________________________________________
+Phone_______________________________________
+Address ____________________________________
+Last Employer_______________________________
+Last Day Worked ____________________________.
+Reason for Leaving__________________________
+(quit, layoff, terminated, etc.)
+Signature
+Date
+67

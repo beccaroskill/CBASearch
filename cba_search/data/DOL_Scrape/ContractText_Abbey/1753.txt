@@ -1,0 +1,702 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Pipe Line Contractors Association and Laborers International Union of North America (LIUNA), (1999)
+K#: 9011
+Employer Name: Pipe Line Contractors Association
+Location: National
+Union: Laborers International Union of North America (LIUNA)
+Local:
+SIC: 1623	NAICS: 23712
+Sector: P	Number of Workers: 10000
+Effective Date: 05/01/99	Expiration Date: 05/01/04
+Number of Pages: 38	Other Years Available: N
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School, http://www.ilr.cornell.edu/
+dWUCftTt
+fCtoKf JfyOOOlWrik^
+NATIONAL PIPE LINE AGREEMENT	1
+AGREEMENT made by and between the PIPE LINE CONTRACTORS ASSOCIATION and those of its contractor members and such other Main Line Pipe Line Contractors who execute an acceptance of the terms and provisions of this Agreement, hereinafter referred to as the "Employer," and the LABORERS' INTERNATIONAL UNION OF NORTH AMERICA, hereinafter referred to as the "Union,"
+WITNESSETH:
+That, WHEREAS, the parties hereto desire to stabilize employment in the Main Line Pipe Line Industry, agree upon wage rates, hours and conditions of employment;
+NOW, THEREFORE, the undersigned Employer and the Union, in consideration of the mutual promises and covenants herein contained agree as follows:
+I.
+COVERAGE
+(A)	This Agreement shall apply to and cover all transportation main line pipe line and underground cable work coming within the jurisdiction of Union, contracted for or performed by Employer within the United States, as such work is more fully described in paragraphs (B), (C) and (D) below. Before any such work is done in the States of Alaska and Hawaii, Employer and Union shall meet to agree upon the wage rates and any special conditions which may be necessary in those states. By mutual agreement, this contract may be extended to cover other territory.
+(B)	Transportation main line pipe lines coming under this Agreement are those defined as follows:
+The construction, installation, double-jointing, rebeveling, treating, insulating, reconditioning, testing, taking-up, re-laying or relocation of cross-country pipe lines or any segments thereof transporting coal, gas, oil, water or other transportable materials, vapors or liquids including portions of such pipe lines within private property boundaries, up to the first metering station or connection.
+The phrase "first metering station or connection" means that point where a valve, consumer connection, or town border station divides main line transmission lines or higher pressure lateral and branch lines from lower pressure distribution systems. If a metering station or connection is located on such main line transmission line or higher pressure lateral or branch line or between two or more main line transmission lines or higher pressure lateral or branch lines then such work is covered by this Agreement.
+1
+I
+(C)	Gathering lines which connect directly from the wells to the main line pipe lines, gathering lines, to or from gasoline extraction or gas dehydration plants, gathering lines to or from gas storage fields, and water flood lines are included.
+(D)	All marine pipe line work, including push-jobs in-shore and work done from barges in-shore and off-shore is covered by this Agreement.
+(E)	Such pipe line construction, installation, repair, maintenance, replacement or reconditioning as may be combined with or associated or comprising an integral part of other work more particularly and usually defined as engineering or building construction, or work covering pumping stations, tankfarms, refineries, plant-to-plant connection lines within city limits and city distribution lines are not covered by this Agreement.
+(F)	If and when Employer shall perform work covered by this Agreement under its own name, under the name of another, as a corporation, company, partnership, enterprise, or any combination, including a joint venture, this Agreement shall be applicable to all such work performed under the name of Employer or the name of any other corporation, company, partnership, enterprise, combination or joint venture.
+(G)	In no event shall Employer be required to pay higher rates of wages, or be subject to more unfavorable working rules than those established by Union for any other employer engaged in similar work.
+(H)	If any provision of this Agreement is in conflict with the laws or regulations of the United States or of the State in which the work is to be performed, such provision shall be superseded by such law or regulation, but all other provisions of this Agreement shall continue in full force and effect; provided that in no case shall wage rates be paid which are lower than those set out in this Agreement.
+(I)	Employer and Union agree that neither of them shall take any action or refuse to take any action which shall discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment because of such individual's race, color, religion, sex, national origin or disability.
+(J)	All personal nouns or pronouns used in this Agreement refer to both the male and female gender.
+(K)	This Agreement shall supersede all other agreements between the parties or between Employer and any local of the Union for any work covered herein and described above.
+2
+IL NOTIFICATION OF PRE-JOB CONFERENCE AND ENFORCEMENT
+(A)	Employer agrees to immediately notify the ’Union of jobs obtained by Employer, including unloading, racking and stringing of pipe. Such notification shall include the size and length of the proposed job, the states and counties and the proposed starting date. The Union agrees to notify the Employer of its Regional Office which shall participate in the pre-job conference. It is a violation of this Agreement to start a job without prior notification and a prejob conference.
+(B)	The Employer and representatives of the International Union, Local Union or Local Unions involved shall hold a pre-job conference so that the start and continuation of the work may progress without interruption, and the Union representatives at such conference shall be authorized by the Union to represent Union for the entire area covered by the job. It shall be the purpose of the pre-job conference to notify the Union of the tentative number of warehouses to be used and the location of each, to agree upon such matters as the length of the work-week, the approximate number of men to be employed, including the number of key men, the method of referral, the check-off of Union initiation fees, dues or agency shop fees, the applicable wage rates in accordance with the contract and any other matters, not including interpretation of the clauses of this Agreement, it being agreed that interpretation of this Agreement should be made between the Pipe Line Contractors Association and the Laborers' International Union of North America, so that proper application thereof may be made on the jobs.
+(C)	If any individual Employer pays any wages in excess of the wages negotiated in the National Pipe Line Agreement with any other Union in the form of extra money, extra hours, extra travel or stand-by time or in the form of a bonus by any subterfuge, and if the Pipe Line Contractors Association and the Laborers' International Union of North America shall jointly determine that such bonus is for the purpose of pirating men from other individual employers or results in conditions injurious to the pipe line construction industry, then such individual
+For purpose of notification, Union office to be contacted shall be the Laborers' International Union of North America, 905 - 16th Street, N.W., Washington, D. C. 20006
+3
+Employer shall be required to pay a proportionate additional compensation to all employees covered by this Agreement and such requirement shall continue until that particular job is completed. It is understood and agreed, however, that any profit-sharing, retirement or pension plan which an individual Employer may have in effect which has not been set up for that particular job shall not be considered a bonus.
+(D)	The Union and the Pipe Line Contractors Association agree to send a copy of this Agreement to all of their affiliates so that the work covered by this Agreement may be performed in an effective and peaceful manner and the Union agrees that the terms of this Agreement shall be recognized by its affiliated Local Unions. The individual Employer agrees as well to furnish its supervisory personnel copies of this Agreement so that they may be familiar with the terms.
+in.
+UNION RECOGNITION, UNION SECURITY AND EMPLOYMENT
+(A)	The Employer hereby recognizes and acknowledges that the Union is the exclusive representative of all employees in the classifications of work covered by this Agreement for the purpose of collective bargaining as provided by the Labor Management Relations Act of 1947.
+(B)	All employees covered by this Agreement, as a condition of continued employment, shall, commencing on the 8th day following the beginning of such employment or the effective date of this Agreement, whichever is later, acquire and, for the duration of this Agreement, maintain membership in the Union. This provision shall not apply in any state where such a requirement for continued employment is prohibited by law; provided, however, that where an Agency Shop is lawful in any such state, conformity therewith shall be a condition of employment on the 8th day following the beginning of such employment or the effective date of the Agreement, whichever is the later period.
+(C)	Upon request of the Local Union or District Council having jurisdiction of the job, and upon presentation of the proper authorization form executed by the individual employee, the Employer agrees to deduct from the wages of such employee Union fees, dues or agency shop fees and remit to the Local Union or District Council the amount so deducted.
+IV.
+EMPLOYMENT, LAYOFF AND DISCHARGE
+(A)	It is recognized that because of the special nature of pipe line construction work, it is necessary that Employers have available experienced and qualified employees, and that both parties shall cooperate to the end that all of the employees hired hereunder shall be capable of performing pipe line construction work in an experienced manner.
+(B)	The Employer shall have the right to hire directly approximately fifty per cent
+4
+(50%) of the first 30 employees hired and forty per cent (40%) after the 31s1 employee with the 31st employee being dispatched by union depending upon the type of work, the location of the job and the existence of an exclusive referral procedure. Employer hired employees shall be known as "Key Employees." If the local union is unable to provide qualified skilled pipe line employees then the Employer shall immediately notify the International Union. The words "Key Employees" shall mean those who are regularly and customarily employed by the individual Employer whenever he has work or who, because of their special knowledge, skill and experience in pipe line construction work, are considered necessary by Employer to the efficient performance of the work to be done under this Agreement.
+(C)	At the pre-job conference Employer shall notify the Union of the number and classifications of Key Employees. At any time during the job, Employer shall have the right to replace Key Employees whose employment may have been terminated by employing other Key Employees, it being the intention of both Employer and Union that the ratio of Key Employees to those hired locally or dispatched by Union shall remain substantially the same as that agreed upon at the start of the job.
+All employees in addition to Key Employees shall be hired in accordance with the provisions of Paragraph (D) as set out below.
+(D)	The hiring of employees in addition to Employer's Key Employees, either at the start of the job, or later, shall be conducted in the following manner.
+(1)	Training and certification procedures concerning all work and safety factors involved on the job will be instituted for all laborers by the Local Union or the Laborers International Union of North America. Union will work to develop certification program to show dispatched employees are trained and qualified to work in the pipeline industry.
+(2)	In the event a valid non-discriminatory exclusive referral procedure has been established by collective bargaining between a local of the Union and an association of highway and heavy contractors in the area in which the job is to be performed, Union shall notify the Association from time to time as to the existence of such exclusive referral procedure, and Employer agrees to utilize such referral procedures upon the following conditions:
+(a)	Nothing in this Agreement shall affect the Employer's inherent right to determine the competency and qualifications of any applicant or employee and his right to reject and discharge applicants or employees accordingly.
+(b)	The selection of applicants for referral to jobs shall be on a non-discriminatory basis and shall not be based on or in any way affected by race, color, religion, sex, national origin, disability or union membership, by-laws, regulations, constitutional provisions, or any other aspect or obligation of union membership, policy or requirement.
+(c)	Qualified applicants required by Employer at the start of the job must be referred by a local referral office within 48 hours of the receipt of Employer's
+5
+request; those required by Employer after a job has started must be referred by a local referral office within 24 hours of the receipt of Employer's request. If the local referral office fails to comply with this condition, Employer may secure qualified applicants from any other source.
+(d)	Any person who feels aggrieved in any way through the operation of this hiring plan shall have the right to appeal to a Board consisting of a representative of the Employer, the Local Union, and, if necessary, an impartial umpire, provided he does so within five days of the alleged discrimination. This Board may hear such grievances and render decisions which shall be final and binding.
+Any such appeals must be in writing, stating the date and place of the alleged offense and a brief summary of the facts thereof, and shall be mailed or delivered to either the PLCA or LIUNA at the following address:
+Pipe Line Contractors Association	Laborers International Union
+1700 Pacific Avenue, #4100	905 - 16th Street, N.W.
+Dallas, Texas 75201-4675	Washington, D.C. 20006
+(3)	In the event there is no valid exclusive referral procedure established in the area where the particular job is to be done or the proper conditions set out hereinabove have not been met by the referral procedure which has been established, Employer will at the pre-job conference notify Union, as one of the sources from which laborers are to be recruited, as to the number of laborers who will be needed in addition to his Key Employees. It is understood that Employer shall also recruit laborers from other sources, will hire all employees at the job site in a non-discriminatory manner, and shall have the absolute right to determine the competency and qualification of applicants and employees and to reject and discharge accordingly.
+(4)	Once the original crew has been employed, Employer shall have the right to keep such crew on all the work throughout the territory covered by the particular job for which the pre-job conference was held, regardless of local union jurisdiction.
+(E)	The Union shall post in places where notices to employees and applicants for employment are customarily posted all provisions relating to the functioning of this hiring arrangement, including the provisions herein set forth. The Employer shall similarly post in places where notices to employees and applicants for employment are customarily posted all provisions relating to the functioning and operation of the hiring arrangements, including these provisions.
+(F)	The business representative of the Union shall have access to any job at any time, but shall notify the field office of his presence on the job.
+6
+V.
+STEWARDS
+The Union may select one of its members who shall be recognized as job steward. If the steward selected by the business agent is objected to by Employer for any valid reason, the business agent shall select another steward to whom Employer has no reasonable objection. The steward shall perform his duties the same as any other worker and shall not be discharged for union activities. The steward shall be allowed a reasonable amount of time during the working hours to perform the work of the Union, but shall not abuse this privilege. A steward may not be discharged without forty-eight (48) hours previous notice to the Union.
+VI.
+SUBCONTRACTORS
+The Employer agrees to make the terms and conditions of this Agreement a part of all subcontracts let on covered work. The names and business addresses of all subcontractors on work covered by this Agreement shall be transmitted to the Union by the Employer; provided, however, that die Employer will not be held responsible for the labor policies of stringing contractors where such contractors are employed direcdy by the owner; further provided, that where heavy specialized marine equipment not customarily used by Employer in the performance of the work herein defined, is leased, rented or borrowed and the labor to operate such equipment is wholly or partially to be furnished by the owners of such equipment, or the work to be done by said equipment is subcontracted the provisions of this paragraph shall be inoperative as to the labor furnished; but any labor furnished by Employer in the operation of said equipment shall be covered by the terms of this Agreement. In regard to suppliers and vendors who furnish and/or deliver finished goods and materials to the Employer the terms and conditions of this Agreement shall not apply and the Employer signatory to this Agreement shall have no obligation to see that the terms and conditions of this Agreement apply to any equipment or employees of such vendor or supplier.
+VII.
+WORKING RULES
+(A)	The Employer shall select a warehouse in or near a city, town or community where living accommodations are available. Employer shall make suitable and prompt transportation available from the warehouse to the work site and back to the warehouse. The time of the men shall start when the men leave the warehouse for the job site and shall end at quitting time on the job site; however, the lunch period shall be excluded. Employer shall return the men to the warehouse in the shortest possible time.
+(B)	The pay day shall be once each week, unless the Employer agrees to allow employees to draw on money earned; under such conditions, pay day may be once every two weeks. Employees are to be paid at the end of their regular shift whether working in Employer's yard or in the field. When employees are laid off or discharged they must be paid wages due
+7
+them at the time of the layoff or discharge. Deductions from employee's pay will be itemized on all checks.
+(C)	Employer shall make arrangements in each locality where employees are employed to enable such employees to cash their pay checks, at no cost to the employees.
+(D)	There shall be no inequitable minimum or maximum amount of work which an employee may be required to perform during the working day, and there shall be no restriction imposed against the use of any type of machinery, tools, or labor saving devices. At the discretion of Employer, employees may be changed from one classification to another within the jurisdiction of the Union. During emergencies, any employee of Employer may be assigned to any work; provided, however, that no employee's hourly rate shall be lowered under this provision, and provided further that in the event an employee is assigned to work calling for a higher rate of pay, he shall receive such higher rate for the entire day.
+(E)	Employer shall have the right to make and revise from time to time safety and working rules which are not inconsistent with the above or any other of the terms of this Agreement or with existing laws. Union agrees to cooperate in the enforcement of safety and working rules.
+(F)	The furnishing of tools or equipment shall not be a condition of employment. Where special safety equipment is required by the circumstances under which the employee is working, it shall be the responsibility of the Employer to furnish such equipment at no cost to the employee.
+VIII.
+WAGE RATES AND CLASSIFICATIONS
+(A)	The classifications and wages to be paid for all work covered by this Agreement are set out in Appendix "A".
+(1)	In those States or Zones marked by a “PL”, the wages and fringe contributions are negotiated by the Pipe Line Contractors Association and the Laborers’ International Union of North America, and shall become effective on work in such areas and on the dates indicated in Appendix “A”.
+(2)	In all other States or Zones effective January 1, and June 1, each year, the Employer will initially recognize and put into effect highway construction wages (including welfare, pension and other fringe benefits) which have been negotiated during the 6-month periods immediately preceding January 1, and June 1, each year, provided copies of such highway construction agreements are furnished to the Association office in Dallas in accordance with the following provisions and conditions:
+(a)	The highway construction agreements furnished to the Association office must be negotiated between a local of the Laborers’ International Union of North America and a recognized Employer’s Association.
+8
+(b)	Said highway agreements must be furnished to the Association office on or before January 1 and June 1 of each year in order to be recognized; or the Union may notify the Association prior to January 1 and June 1 of each year that a particular local is still in negotiations, and that copies of the completed highway agreements will be sent to the Association office within thirty (30) days after the applicable January 1 or June 1 date.
+(c)	In the event no current or recognized highway agreements have been furnished to the Association office in accordance with the provisions of Paragraphs (a) and (b) above, then the last published or recognized wages (including welfare, pension and other fringe benefits) will be published and recognized until the next applicable January 1 or June 1 date.
+(d)	After initial recognition on January 1 or June 1, subsequent increases in wages and fringes called for and set out in such local highway agreements will be put into effect in accordance with the dates negotiated locally.
+(e)	It is understood that Employer will not be required to recognize or put into effect any highway construction wages (including welfare, pension, and other fringe benefits) received in the Association office after January 1, or 30 days after January 1, if applicable, of each year until the following June 1 of that year, nor those received after June 1, or 30 days after June 1, if applicable, of each year until the following January 1.
+(f)	The parties to this Agreement specifically recognize that only the wages and fringe benefits from the applicable highway agreements will be recognized for inclusion in this National Pipe Line Agreement. All other terms and conditions of the National Pipe Line Agreement will remain in effect for covered work.
+(B)	The rates to be paid for intermediate classifications shall be as set out below and the amount indicated shall be the amount per hour to be paid over and above the basic wage rate set out in the Appendix to this Agreement, and is payable only for the days that employee is performing the work covered by the intermediate classification.
+Buffing Machine Man------------------------------------ .60
+Dope Pot Firemen (hot or cold, nonmechanical)--------	.75
+Drillers---------------------------------------------- 1.25
+*EM Scope--------------------------------------------- 1.25
+* (Laborers entitled to the premium only when a Laborer is assigned to operate the EM Scope. Contact PLCA or LIUNA for Guidelines)
+Form Builder/Concrete Finisher----------------------- 1.00
+Hazardous Waste Specialist---------------------------- 1.00
+*Hot Dope Man-------------------------------------------- .75
+*(main dope crew only—contact PLCA or LIUNA for Guidelines
+9
+Hot Pay-------------------------------------------- .75
+(where employee required to be in the area of danger and there is the possibility of fire or explosion because of a cut or weld being made)
+Jackhammermen---------------------------------------- .75
+Loaders and Tampers-------------------------------- 1.25
+Nozzleman on Sandblasting---------------------------- .75
+(sandblasting for Laborers will include all sandblasting except that which is done in preparation of the welding or completing the welding process which is the jurisdiction of the UA)
+Powdermen, Blasters-------------------------------- $1.75
+Power Saw Operators-------------------------------- 1.25
+Swamper (tractor pipe gang only)--------------------- .75
+(C) The work coming under the jurisdiction of the Union and covered by terms of this Agreement includes but is not limited to, the Laborers' work, for the clearance of right-of-way preparatory to the installation of the pipe line, the demolition and removal of fences, the digging and trimming of trenches and ditches for pipe lines; work in connection with the bending of pipe except the mechanical work involved; Laborers' work in connection with the distribution of pipe and skids and pipe over the trench; the cleaning, scaling, etc., of pipe; all Laborers' work in connection with the lineup crew; the cleaning, wrapping and doping of the pipe as well as the covering of pipe for any and all purposes before lowering after the welding of joints has been made; the cleaning, wrapping and doping of the pipe in all yards; the work in connection with the lowering of the pipe and the removal of the skids; in connection with the backfilling of trenches after the pipe has been laid; all work in connection with clean-up after the pipe has been laid and the trenches backfilled; demolition, take-up and reconditioning of old pipe; Laborers' work on barges and floating equipment; and all other general and miscellaneous Laborers' work in connection with the entire operation, falling within the jurisdiction of the Union.
+IX.
+OVERTIME AND HOLIDAY PAY
+(A)	In all states, the work-week shall begin on Monday and end on Sunday, and all hours worked by an employee in excess of eight hours per day and in excess of forty straight time hours per week and all hours worked on Sunday shall be paid for at the rate of time-and-one-half the straight time rate. In all states after an employee has worked eight hours, he will be on overtime until he is relieved. Converting back to straight time at midnight, under above circumstances, shall not be recognized.
+(B)	In all states, work performed on Christmas, Thanksgiving, Labor Day, New Year's Day and July Fourth shall be paid for at double the straight time hourly rate; provided, however, that in the event one of the holidays named hereinabove occurs during the first forty hours of any work-week, hours worked on such holidays shall not be counted in computing the forty hours after which the employee is entitled to a rate of time-and-one-half the straight time rate.
+10
+(C)	If one of the holidays named in Paragraph (B) above falls on Sunday, it shall be observed on Monday. Accordingly, if such an event occurs, work performed on Sunday shall be paid for at the regular rate for that day; work performed on Monday shall be paid for at double the straight time hourly rate. If no work is performed on Monday, no pay shall be required.
+X.
+REPORTING TIME PAY
+(A)	After a person has been hired and ordered to report for work at the regular starting time, and no work is provided for him on that day he has so reported, he shall receive pay equivalent to four (4) hours at the rate applicable for that day. This pay shall be provided, although the person has not been ordered to report for work on that particular day if the person has been working regularly and the Employer fails to give sufficient notification. Sufficient notification shall mean notice that there will be no work performed on a particular day to the steward during working hours, and he is afforded a reasonable opportunity to notify the men involved during working hours, or the Employer notifies the men involved not to report to work at or before 8:00 P.M. the preceding day. No fringe benefit contributions will be paid on the four (4) hours reporting time pay and such hours will not be used in computing the forty hours after which overtime is payable.
+(B)	Any employee who reports to work and is transported to the job site or for whom any work is provided, regardless of the time that he works, shall receive the equivalent of not less than four hours' pay at the rate applicable for that day. Fringe benefit contributions shall be paid on such hours and they will be used in computing the forty hours after which overtime is payable.
+(C)	Any person who reports to work and who works more than four (4) hours in any one day shall receive the equivalent of not less than eight hours’ pay at the rate applicable for that day. Fringe benefit contributions shall be paid on such hours and they will be used in computing the forty hours after which overtime is payable.
+(D)	It is expressly provided, however, that when a person refuses to work or to continue to work or work stoppage conditions brought about by a third party or third parties prevent or make ill-advised in the opinion of the Employer the performance of any work or the continuance of work once started, no pay for time not worked shall be required under any of the above enumerated conditions.
+XI.
+JURISDICTIONAL DISPUTES
+The Pipe Line Contractors Association and the four International Unions with which National Pipe Line Agreements have been negotiated have established a Policy Committee, for the purpose of hearing and considering matters of concern to the pipe line construction industry, such as jurisdictional disputes and any other matters affecting the welfare of the industry.
+11
+Whenever a jurisdictional dispute arises between Union and any other union over proper jurisdiction of work assigned by an individual contractor, no work stoppage shall occur, and the individual signatories hereto agree to abide by any decision reached by the Policy Committee.
+The Policy Committee decisions are incorporated and made a part of this Agreement and should be referred to specifically as if set out herein. The Policy Committee decisions may be obtained by contacting the Union or the Pipe Line Contractors Association.
+XII.
+WORK STOPPAGES
+(A)	No local union nor the International Union, nor any representative of either, shall cause or promote a strike, slowdown, stoppage of work or any interference, directly or indirectly, with the operation and progress of the work; nor shall any Employer or the Pipe Line Contractors Association engage in any lockout during the life of this Agreement, it being the good faith intention of the parties hereto that by the execution of this Agreement industrial peace shall be maintained. All grievances, disputes, differences of opinion and other questions concerning this Agreement shall be settled in accordance with the procedure for settlement of grievances and disputes set out in Article XIII below. Any settlement where hours of pay are involved shall be retroactive.
+(B)	If the local union or any representative thereof causes or promotes a strike, slowdown, stoppage of work or any interference with the operation or progress of the work, or if the Employer breaches this Agreement, then the Employer (where the local union interfered with the work) or the local union (where Employer has breached the Agreement) may at its option declare the provisions of Article XM inoperative and seek whatever remedy may be available from the National Labor Relations Board or any Federal or State court having jurisdiction of the matter.
+(C)	If the International Union or any representative thereof causes or promotes a strike, slowdown, stoppage of work or any interference with the operation or progress of the work, or if the Employer breaches this Agreement, then the Employer (where the International Union interfered with the work) or the International Union (where Employer has breached the Agreement) may at its own option declare the provisions of Article XIH inoperative and seek whatever remedy may be available from the National Labor Relations Board or any Federal or State court having jurisdiction of the matter.
+(D)	It shall not be a violation of this Agreement or of the no-strike clause if members of the Laborers' International Union refuse to cross a picket line established by another craft union within the pipe line industry.
+12
+XIII.
+PROCEDURE FOR SETTLEMENT OF GRIEVANCES AND DISPUTES
+(A)	Any grievances, disputes or differences of opinion which arise between the contractors' supervisory personnel and Union representatives in the field shall be settled on the job whenever possible; provided that such settlements shall not vary any of the wages, terms or conditions of this Agreement.
+(B)	If a grievance, dispute or difference of opinion cannot be settled on the job within forty-eight (48) hours, then such matter must be referred within ten (10) days by the Union representative in the field to the appropriate International Union representative, and the contractors' supervisory personnel must within the same time period refer the matter to the contractors' executive personnel and, if necessary, to the Managing Director or Executive Director of the Pipe Line Contractors Association. These parties shall immediately make every effort to settle the grievance, dispute or difference of opinion.
+(C)	Any grievance, dispute, difference of opinion or controversy of any kind or character between the Union and the Association and/or individual Employer signatory hereto involving or relating to the interpretation, construction or application of the terms of this Agreement, and the relations between the parties arising during the term of this Agreement, which cannot be settled by the parties, shall be settled by the arbitration procedure which is set out below.
+(D)	If, within forty-eight (48) hours no adjustment or settlement is reached by the procedure set out above, the matter shall immediately be referred in writing to an Arbitration Board consisting of six (6) members, all of whom shall be familiar with the mainline, crosscountry pipe line construction industry, three (3) to be appointed by the International Union, and three (3) by the Pipe Line Contractors Association. These six (6) individuals shall constitute the Arbitration Board.
+(E)	The Members of the Arbitration Board shall not have the power to amend or alter the provisions of this Agreement but shall within fourteen (14) days of their appointment determine the procedure that they will use in considering the evidence and render a decision based on the evidence submitted by the parties, such decision to be consistent with the terms and provisions of this Agreement. The decision of the Arbitration Board shall be binding upon both parties.
+(F)	In the Unlikely Event that the six (6) member Arbitration Board is unable to reach a decision, then either party may institute the following procedure:
+(1)	Within seven (7) days after notification by the Arbitration Board that it is unable to reach a decision, the Pipe Line Contractors Association and the International Union shall attempt to mutually agree upon one (1) person to whom the matter shall be referred.
+(2)	If within forty-eight (48) hours no mutual agreement has been reached by
+13
+the procedure set out above, the Association will immediately contact the Federal Mediation & Conciliation Service to obtain a list of three (3) individuals with as much experience and knowledge as possible in the pipe line construction industry. A copy of this list will be furnished to the Union, and thereafter, the Association and Union shall attempt to mutually agree upon one (1) of the individuals listed. If no agreement can be reached, the Union and the Association will each strike one (1) name from the list and the remaining individual will be the Arbitrator.
+(3)	A statement of the facts shall be presented to the Arbitrator within fortyeight (48) hours after his selection either:
+(a)	Jointly, if the Union and the Association mutually agree; or
+(b)	Separately, if no mutual agreement, and the Association will submit a written statement setting out the Employer's position and the Union will submit a written statement setting out the Union's position.
+(4)	All information submitted to the Arbitrator will be in writing. No personal appearances or oral testimony will be allowed. The Arbitrator will then issue, within five (5) days, a decision based upon the evidence submitted.
+(G)	The Union and Employer involved shall bear the expense of their appointed Arbitrators. In the event an Arbitrator from the Federal Mediation & Conciliation Service is selected, then the Union and the Employer shall be jointly responsible for that person's expenses.
+(H)	In the event Employer fails or refuses to comply with the grievance procedure set out hereinabove, the provisions of Article XII shall not be binding upon Union. If Union fails or refuses to comply with the grievance procedure set out hereinabove, then Employer shall have the right to declare this entire Agreement null and void.
+XIV.
+FRINGE BENEFIT FUND CONTRIBUTIONS
+(A)	All Fringe Benefit Fund Contributions and authorized dues deductions as set out in Appendix "A" shall be submitted to the Laborers-Employers Benefit Plan Collection Trust. Fringe benefit contributions shall be made for each hour worked by each employee covered by this Agreement.
+(B)	Enforcement
+(1)	All contributions due and owing to any of the fringe benefit funds mentioned in this Article are deemed, and are considered to be, trust funds.
+14
+(2)	In order that Employer may legally contribute to the Fringe Funds called for in Appendix "A" of this Agreement and in order that employees may legally participate as beneficiaries of such Fringe Funds, The National Participation Agreement, a copy of which is set out in Appendix "B", shall be signed by each individual Employer and filed with Union in Washington, D.C. By signing The National Participation Agreement, Employer will not be required to sign any local Participation Agreement.
+(3)	In the event any individual Employer is delinquent in his payment for any Health and Welfare, Pension or other fringe benefit contribution as set out in Appendix "A" of this Agreement for more than thirty days, it is agreed that the principal officer of that particular Employer, the Laborers' International Union of North America and the Pipe Line Contractors Association shall be notified as to such delinquency. If after five days from such notice all delinquencies have not been paid up in full, it is agreed that the Union may take any appropriate action it deems necessary in order to collect such delinquent contributions, and will not be considered in violation of Article XII of this Agreement should a work stoppage occur.
+XV.
+MARSH AND MARINE OPERATIONS
+(A)	In marsh or marine pipe laying operations, in the event the employees are required to live on quarter boats, room and board shall be furnished at no cost to the employees.
+(B)	Employer shall make suitable marine transportation available to and from the landing dock location. The time of the men shall start when they leave this dock site and shall end when they are returned to the dock site.
+XVI.
+SPECIAL AMENDMENTS
+In order to be more competitive in certain areas of the country, the Pipe Line Contractors Association and the Union may mutually agree to put into effect special wages and conditions for specific areas or projects. These special wages and conditions will apply to the areas or projects involved for the period of time to be established by the principal parties. Please contact the designated representatives of the Pipe Line Contractors Association and the Laborers' International Union of North America for further information.
+XVII.
+DRUG AND ALCOHOL TESTING
+A Substance Abuse Policy has been negotiated by the Pipe Line Contractors Association and the Laborers' International Union of North America and is attached hereto and made a part of this Agreement as Appendix "C".
+15
+XVIII.
+INDIAN PREFERENCE IN EMPLOYMENT
+The hiring procedures contained in this Agreement shall not apply in the “territorial jurisdiction” of any Indian Nation which has adopted an Indian Preference in Employment Law, provided that those persons covered by the law and seeking covered employment under this Agreement possess the “necessary qualifications” which are essential to the performance of that specific job.
+XIX.
+HISTORICAL PRECEDENT
+Since the inception of the National Pipe Line Agreements, which cover all mainline, cross-country pipe line construction, only four (4) Unions have been recognized, and all work relating to such pipe line construction has been performed by these four (4) Unions. They are: The International Brotherhood of Teamsters, Chauffeurs, Warehousemen and Helpers of America, The United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry of the United States and Canada, The International Union of Operating Engineers, and The Laborers’ International Union of North America. The recognition of only these four (4) Unions on such work is hereby reaffirmed.
+XX. EFFECTIVE DATE, TERMINATION AND RENEWAL
+(A)	This Agreement shall become effective May 1, 1999, when signed by the parties hereto and shall remain in full force and effect until its termination as provided below.
+(B)	The provisions of this Agreement shall continue in full force and effect until May 1, 2004, and thereafter from year to year unless terminated at the option of either party after sixty (60) days' notice in writing to the other. Notwithstanding the preceding language, any Signatory Employer shall have the option to terminate this agreement on either May 1, 2002 or May 1, 2003, after sixty (60) days' notice in writing to the Union. Absent any termination notification by a Signatory Employer as set out above, this Agreement shall continue in full force and effect until May 1, 2004, and thereafter from year to year unless terminated at the option of the Union or Signatory Employer after sixty (60) days' notice in writing to the other.
+XXI. LIABILITY
+(A)	It is further understood that no liability shall arise on the part of the International Union herein by reason of any unauthorized act by any employee of the said Employers or any Local Union or official thereof affiliated with the International Union unless and until such unauthorized act is brought to the attention of the International Union and a reasonable opportunity given to the Union to correct such act or ratify same.
+16
+(B)	It is understood that the Pipe Line Contractors Association is acting merely as collective bargaining agent in the negotiation of this Agreement and that it is agent only for those of its members, and none other, who accept and sign this Agreement, and in no event shall it be bound as principal or be held liable in any manner for any breach of this contract by any of the Employers signing the same.
+IN WITNESS WHEREOF the parties hereto have executed this Agreement this 27th day of January, 2000.
+LABORERS' INTERNATIONAL UNION OF NORTH AMERICA
+PIPE LINE CONTRACTORS ASSOCIATION
+(yUHL
+By:
+H. Charles Price, President
+Terence M, O’Sullivan, President
+Carl E. Booker, General SecretaryTreasurer
+By:
+J. Patrick Tielborg^MtSEgfirg^ifector and General Counsel
+17
+‘ t'
+2000-2004 16” AND UNDER ADDENDUM TO THE NATIONAL PIPE LINE AGREEMENT BETWEEN THE PIPE LINE CONTRACTORS ASSOCIATION AND THE LABORERS' INTERNATIONAL UNION OF NORTH AMERICA
+The wage rates, fringes and conditions set out herein will apply in the states and for the type of work described below through completion of jobs involving such work where the Laborers' International Union of North America receives a job notification for work bid or awarded on or after January 1, 2000, through May 1, 2004 (subject to wage re-opener in the fourth [4*] and fifth [5th] year of the Agreement). This Addendum applies only to jobs for which both a signatory(ies) to the National Pipe Line Agreement and a non-signatory(ies) are bidding the work. Unless this Addendum is extended by mutual agreement of the parties prior to May 1, 2004, this Addendum shall expire on that date for all jobs not started prior to that date.
+A. States
+Alabama Arizona Arkansas Colorado Florida Georgia Kansas Louisiana Mississippi Nebraska
+New Mexico North Carolina North Dakota Oklahoma South Carolina South Dakota Tennessee Texas Utah Virginia Wyoming
+B.	Scope of Work
+16" and under.
+C.	Wage Rates. Fringes	and Conditions:
+1.	Wages and Fringes
+a. In all states set out in A above, the following wage rates and fringes will apply for work bid and let after January 1, 2000 through May 1, 2004:
+General Laborer - $12.00 Total Package with $1.00 minimum fringe
+Deduction up to $2.00 maximum
+Steward - $ 0.50 premium above rate
+16” Addendum wage re-opener in fourth and fifth year of Agreement.
+18
+2.	Conditions. 16" Addendum. The following conditions will apply for all states set out in A:
+a.	Contractor has the right to hire 75% of employees direct for all states and scope of work set out above.
+b.	Intermediate classifications will have a cap of $.50.
+c.	Employees who are required to report to the warehouse will receive four (4) hours show-up pay when no work is provided; if work is started, employees will receive pay for actual hours worked, with a minimum payment of four (4) hours.
+d.	Contractor may establish an assembly point which will not exceed 25 miles from living accommodations and in no event will the assembly point be on the right-of-way or move along the right-of-way.
+e.	The parties involved have agreed that Teamsters driving vehicles transporting crews to the jobsite will be allowed to work in Laborers Classifications after reaching the jobsite and vice versa insofar as the Laborers are concerned.
+2000-2004 12” AND UNDER ADDENDUM TO THE
+NATIONAL PIPE LINE AGREEMENT BETWEEN THE PIPE LINE CONTRACTORS ASSOCIATION AND THE LABORERS' INTERNATIONAL UNION OF NORTH AMERICA
+The wage rates, fringes and conditions set out herein will apply in the States and for the type of work described below through completion of jobs involving such work where the Laborers’ International Union of North America receives a job notification for work bid or awarded on or after January 1, 2000 through May 1, 2004 (subject to wage re-opener in the fourth [4th] and fifth [5th] year of the Agreement). This Addendum applies only to jobs for which both a signatory(ies) to the National Pipeline Agreement and non-signatory(ies) are bidding the work. Unless this Addendum is extended by mutual agreement of the parties prior to May 1, 2004, this Addendum shall expire on that date for all jobs not started prior to that date.
+A.	States:
+Delaware	Ohio
+D.C.	Pennsylvania	(excluding counties
+Iowa	Buck, Chester, Delaware, Montgomery
+Kentucky	and Philadelphia)
+Maine	Vermont
+Maryland	West Virginia
+♦Michigan
+New Hampshire
+19
+B.	Wage Rates, Fringes and Conditions:
+1.	In all states set out in A, the following wage rates and fringes will apply for work
+bid and let after January 1, 2000 through May 1, 2004:
+Deduct $3.00 from current full base rate plus fringes at the time of bid (contact PLCA or LIUNA).
+2.	Conditions. 12” Addendum: The following conditions will apply for all states set out in A:
+a.	Employees who are required to report to the warehouse will receive four (4) hours show-up pay when no work is provided; if work is started, employees will receive pay for actual hours worked, with a minimum payment of four (4) hours.
+b.	Contractor may establish an assembly point which will not exceed 25 miles from living accommodations and in no event will the assembly point be on the right-of-way or move along the right-of-way.
+♦Michigan - Wages and Fringes for 12” and Under Addendum.
+	January 1, 2001	June 1, 2000	June 1, 2001	June 1, 2002
+Rate*	$18.11	$18.59	$19.12	$19.59
+Welfare	$ 2.45	$ 2.55	$ 2.65	$ 2.75
+Pension	$ 1.70	$ 1.80	$ 1.90	$ 2.00
+Vacation*	$ 1.45	$ 1.45	$ 1.45	$ 1.45
+Training	$ 0.15	$ 0.17	$ 0.17	$ 0.20
+Pipeline LECET	$ 0.10	$ 0.10	$ 0.10	$ 0.10
+MILECET	$ 0.10	$ 0.10	$ 0.12	$ 0.12
+Annuity	$ 0.60	$ 0.70	$ 0.80	$ 1.00
+LEBPCT	$ 0.04	$ 0.04	$ 0.04	$ 0.04
+♦Vacation is a deduction from the Rate. Michigan to provide 2003 and 2004 rates and fringes.
+There are special jobs within the scope of work of this Agreement for which all the wages and conditions contained herein may not be appropriate due to competition or other reasons. In such cases, adjustments will be made in accordance with recognized principles agreed to by the parties during negotiations. For additional clarification on work to be covered, please contact the designated representatives of the Pipe Line Contractors Association and the Laborers' International Union of North America.
+20
+All other terms and conditions of the National Pipe Line Agreement between the Pipe Line Contractors Association and Laborers' International Union of North America will remain in effect.
+IN WITNESS WHEREOF, the parties hereto have executed these Addenda (16” and 12”) for Small Diameter Pipe this 27fll day of January, 2000.
+LABORERS' INTERNATIONAL UNION OF NORTH AMERICA
+Terence M. O’Sullivan, General President
+Carl E. Booker, General Secretary - Treasurer
+PIPE LINE CONTRACTORS ASSOCIATION
+By. W	—_________
+H. Charles Price, President
+By:________ ___________ _______________
+^Patrick Tielborg, Managing-Director
+• & General Counsel
+21
+NATIONAL PIPE LINE AGREEMENT Acceptance of Agreement
+The undersigned has read and hereby agrees with the Union to accept and be bound by all of the terms and conditions of the National Pipe Line Agreement for the United States of America, between the Laborers’ International Union of North America, AFL-CIO, and the Main Line Pipe Line Contractors operating in the United States, and also agrees to be bound by all renewals, changes or extensions thereto made by the original parties, unless notice of termination is given in writing by either the Union or the Employer t the other party not less than sixty (60) days nor more than ninety (90) days prior to any termination date.
+FOR THE EMPLOYER: Please type or print the following information
+COMPANY NAME:
+SIGNATURE
+NAME/TITLE
+ADDRESS
+CITY, STATE, ZIP ___________________________________________________
+TELEPHONE/FAX ______________________________________________________
+DATE	________________________________________
+FOR THE UNION:
+General President
+DATE: ________________________________________
+Please forward this document to the following address: Laborers’ International Union of North America
+Construction Department
+905 - 16th Street, N.W.
+Washington, D.C. 20006
+40110 plca/agreements/LIUNA Agreement
+22
+APPENDIX B NATIONAL PIPE LINE PARTICIPATION AGREEMENT
+WHEREAS, the undersigned Employer has entered into a National Pipe Line Agreement with the Laborers International Union of North America, which requires said Employer to make contributions into designated funds, approved by the National Labor Relations Act, 1947, Section 302(c), at a stipulated rate and under certain conditions;
+NOW, THEREFORE, IT IS AGREED by and between the undersigned Employer and the Laborers' International Union of North America, that such Employer hereby subscribes to the various agreements and declarations of trust of the particular funds into which such Employer will be required to make contributions pursuant to the National Pipe Line Agreement, and agrees to be bound thereby and to amendments made or to be made thereto; and authorizes the parties to such trust agreements to name the trustees and successor trustees, and to administer the trusts; and does hereby ratify and accept such trustees and the terms and conditions of said trusts as fully and as completely as if made by said undersigned Employer; provided, however, that no amendments or provisions of said trust agreements shall bind the Employer for any financial obligations beyond that set forth in the National Pipe Line Agreement pursuant to which such contributions are made. Said Employer's obligations shall also be considered within and limited by the construction industry exception of the Employee Retirement Income Security Act, as amended by the Multiemployer Pension Plan Amendments Act of 1980.
+DATED this day of, 19_.
+EMPLOYER:
+By:___________________________________________________________________________________
+Name of Company
+Address
+City and State
+Title
+"By the execution of this agreement on behalf of its affiliated local unions, the Laborers' International Union of North America does so for convenience only and does not assume any liabilities with respect to such agreements and declarations of trust or with respect to local union
+23
+contracts to which the Laborers' International Union of North America is not a party.
+ACCEPTED:
+LABORERS' INTERNATIONAL UNION OF NORTH AMERICA
+ON BEHALF OF ITS AFFILIATED LOCAL UNIONS
+By:-----------------------------------------------------------
+Title
+ACCEPTED:
+BY THE TRUSTEES OF THE FOLLOWING
+Name of Fund
+Local Union
+By:_______________________________________________________________________________________
+Authorized Business Agent
+24
+(B)	It is understood that the Pipe Line Contractors Association is acting merely as collective bargaining agent in the negotiation of this Agreement and that it is agent only for those of its members, and none other, who accept and sign this Agreement, and in no event shall it be bound as principal or be held liable in any manner for any breach of this contract by any of the Employers signing the same.
+IN WITNESS WHEREOF the parties hereto have executed this Agreement this 27th day of January, 2000.
+LABORERS' INTERNATIONAL UNION OF NORTH AMERICA By:	 Terence M. O’Sullivan, President Bv: Carl E. Booker, General SecretaryTreasurer	PIPE LINE CONTRACTORS ASSOCIATION -	By:		 H. Charles Price, President c .	By: J. Patrick Tielborg, ManagffigZB«^t6r and General Counsel
+17
+2000-2004 16” AND UNDER ADDENDUM TO THE NATIONAL PIPE LINE AGREEMENT BETWEEN THE PIPE LINE CONTRACTORS ASSOCIATION AND THE LABORERS' INTERNATIONAL UNION OF NORTH AMERICA
+The wage rates, fringes and conditions set out herein will apply in the states and for the type of work described below through completion of jobs involving such work where the Laborers' International Union of North America receives a job notification for work bid or awarded on or after January 1, 2000, through May 1, 2004 (subject to wage re-opener in the fourth [4lh] and fifth [5th] year of the Agreement). This Addendum applies only to jobs for which both a signatory(ies) to the National Pipe Line Agreement and a non-signatory(ies) are bidding the work. Unless this Addendum is extended by mutual agreement of the parties prior to May 1, 2004, this Addendum shall expire on that date for all jobs not started prior to that date.
+A. States
+Alabama Arizona Arkansas Colorado Florida Georgia Kansas Louisiana Mississippi Nebraska
+New Mexico North Carolina North Dakota Oklahoma South Carolina South Dakota Tennessee Texas Utah Virginia Wyoming
+B.	Scope of Work
+16" and under.
+C.	Wage Rates, Fringes	and Conditions:
+1.	Wages and Fringes
+a. In all states set out in A above, the following wage rates and fringes will apply for work bid and let after January 1, 2000 through May 1, 2004:
+General Laborer - $12.00 Total Package with $1.00 minimum fringe
+Deduction up to $2.00 maximum
+Steward - $ 0.50 premium above rate
+16” Addendum wage re-opener in fourth and fifth year of Agreement.
+18
+2,	Conditions. 16" Addendum. The following conditions will apply for all states set out in A:
+a.	Contractor has the right to hire 75 % of employees direct for all states and scope of work set out above.
+b.	Intermediate classifications will have a cap of $.50.
+c.	Employees who are required to report to the warehouse will receive four (4) hours show-up pay when no work is provided; if work is started, employees will receive pay for actual hours worked, with a minimum payment of four (4) hours.
+d.	Contractor may establish an assembly point which will not exceed 25 miles from living accommodations and in no event will the assembly point be on the right-of-way or move along the right-of-way.
+e.	The parties involved have agreed that Teamsters driving vehicles transporting crews to the jobsite will be allowed to work in Laborers Classifications after reaching the jobsite and vice versa insofar as the Laborers are concerned.
+2000-2004 12” AND UNDER ADDENDUM TO THE
+NATIONAL PIPE LINE AGREEMENT BETWEEN THE PIPE LINE CONTRACTORS ASSOCIATION AND THE LABORERS' INTERNATIONAL UNION OF NORTH AMERICA
+The wage rates, fringes and conditions set out herein will apply in the States and for the type of work described below through completion of jobs involving such work where the Laborers’ International Union of North America receives a job notification for work bid or awarded on or after January 1, 2000 through May 1, 2004 (subject to wage re-opener in the fourth [4lh] and fifth [501] year of the Agreement). This Addendum applies only to jobs for which both a signatory(ies) to the National Pipeline Agreement and non-signatoiy(ies) are bidding the work. Unless this Addendum is extended by mutual agreement of the parties prior to May 1, 2004, this Addendum shall expire on that date for all jobs not started prior to that date.
+A.	States:
+Delaware	Ohio
+D.C.	Pennsylvania (excluding counties
+Iowa	Buck, Chester, Delaware, Montgomery
+Kentucky	and Philadelphia)
+Maine	Vermont
+Maryland	West Virginia
+♦Michigan
+New Hampshire
+19
+B.	Wage Rates, Fringes and Conditions:
+1.	In all states set out in A, the following wage rates and fringes will apply for work
+bid and let after January 1, 2000 through May 1, 2004:
+Deduct $3.00 from current full base rate plus fringes at the time of bid (contact PLCA or LIUNA).
+2.	Conditions. 12” Addendum: The following conditions will apply for all states set out in A:
+a.	Employees who are required to report to the warehouse will receive four (4) hours show-up pay when no work is provided; if work is started, employees will receive pay for actual hours worked, with a minimum payment of four (4) hours.
+b.	Contractor may establish an assembly point which will not exceed 25 miles from living accommodations and in no event will the assembly point be on the right-of-way or move along the right-of-way.
+♦Michigan - Wages and Fringes for 12” and Under Addendum.
+	January 1, 2001	June 1, 2000	June 1, 2001	June 1, 2002
+Rate*	$18.11	$18.59	$19.12	$19.59
+Welfare	$ 2.45	$ 2.55	$ 2.65	$ 2.75
+Pension	$ 1.70	$ 1.80	$ 1.90	$ 2.00
+Vacation*	$ 1.45	$ 1.45	$ 1.45	$ 1.45
+Training	$ 0.15	$ 0.17	$ 0.17	$ 0.20
+Pipeline LECET	$ 0.10	$ 0.10	$ 0.10	$ 0.10
+MI LECET	$ 0.10	$ 0.10	$ 0.12	$ 0.12
+Annuity	$ 0.60	$ 0.70	$ 0.80	$ 1.00
+LEBPCT	$ 0.04	$ 0.04	$ 0.04	$ 0.04
+♦Vacation is a deduction from the Rate. Michigan to provide 2003 and 2004 rates and fringes.
+There are special jobs within the scope of work of this Agreement for which all the wages and conditions contained herein may not be appropriate due to competition or other reasons. In such cases, adjustments will be made in accordance with recognized principles agreed to by the parties during negotiations. For additional clarification on work to be covered, please contact the designated representatives of the Pipe Line Contractors Association and the Laborers' International Union of North America.
+20
+t
+All other terms and conditions of the National Pipe Line Agreement between the Pipe Line Contractors Association and Laborers’ International Union of North America will remain in effect.
+IN WITNESS WHEREOF, the parties hereto have executed these Addenda (16” and 12”) for Small Diameter Pipe this 27th day of January, 2000.
+LABORERS' INTERNATIONAL UNION OF NORTH AMERICA
+y*. O'JJbL
+Terence M. O’Sullivan, General President
+Carl E. Booker, General Secretary - Treasurer
+PIPE LINE CONTRACTORS ASSOCIATION
+By:	__________________
+H. Charles Price, President
+21
+I
+NATIONAL PIPE LINE AGREEMENT Acceptance of Agreement
+The undersigned has read and hereby agrees with the Union to accept and be bound by all of the terms and conditions of the National Pipe Line Agreement for the United States of America, between the Laborers’ International Union of North America, AFL-CIO, and the Main Line Pipe Line Contractors operating in the United States, and also agrees to be bound by all renewals, changes or extensions thereto made by the original parties, unless notice of termination is given in writing by either the Union or the Employer t the other party not less than sixty (60) days nor more than ninety (90) days prior to any termination date.
+FOR THE EMPLOYER: Please type or print the following information
+COMPANY NAME:
+SIGNATURE
+NAME/TITLE
+ADDRESS
+CITY, STATE, ZIP
+TELEPHONE/FAX
+DATE
+FOR THE UNION:
+General President
+DATE: ____________________________________
+Please forward this document to the following address: Laborers’ International Union of North America
+Construction Department
+905 - Ifi1" Street, N.W.
+Washington, D.C. 20006
+40110 plca/agreements/LIUNA Agreement
+22
+„ * 1 ’ I ’
+APPENDIX B NATIONAL PIPE LINE PARTICIPATION AGREEMENT
+WHEREAS, the undersigned Employer has entered into a National Pipe Line Agreement with the Laborers International Union of North America, which requires said Employer to make contributions into designated funds, approved by the National Labor Relations Act, 1947, Section 302(c), at a stipulated rate and under certain conditions;
+NOW, THEREFORE, IT IS AGREED by and between the undersigned Employer and the Laborers' International Union of North America, that such Employer hereby subscribes to the various agreements and declarations of trust of the particular funds into which such Employer will be required to make contributions pursuant to the National Pipe Line Agreement, and agrees to be bound thereby and to amendments made or to be made thereto; and authorizes the parties to such trust agreements to name the trustees and successor trustees, and to administer the trusts; and does hereby ratify and accept such trustees and the terms and conditions of said trusts as fully and as completely as if made by said undersigned Employer; provided, however, that no amendments or provisions of said trust agreements shall bind the Employer for any financial obligations beyond that set forth in the National Pipe Line Agreement pursuant to which such contributions are made. Said Employer's obligations shall also be considered within and limited by the construction industry exception of the Employee Retirement Income Security Act, as amended by the Multiemployer Pension Plan Amendments Act of 1980.
+DATED this day of, 19______________________.
+EMPLOYER:
+By:___________________________________________________________________________________
+Name of Company
+Address
+City and State
+Title
+"By the execution of this agreement on behalf of its affiliated local unions, the Laborers' International Union of North America does so for convenience only and does not assume any liabilities with respect to such agreements and declarations of trust or with respect to local union
+23
+contracts to which the Laborers' International Union of North America is not a party."
+ACCEPTED:
+LABORERS' INTERNATIONAL UNION OF NORTH AMERICA
+ON BEHALF OF ITS AFFILIATED LOCAL UNIONS
+By:---------------------------------------------------------------
+Title
+ACCEPTED:
+BY THE TRUSTEES OF THE FOLLOWING
+Name of Fund
+Local Union
+By:______________________________________________________________________________________
+Authorized Business Agent
+24
+Gentlemen:
+We have been awarded a contract by
+(Nine of Company)
+
+i
+ijrriHT
+for the following work: (List type of work, size of pipe, miles, counties and
+state.)
+Headquarters
+Superintendent
+Approximate Starting Date
+Please advise who to contact concerning pre-job conference.
+Very truly yours.
+(Mum of Coocnctor)			
+(Telephone No.)	(Fax Number)		
+(Sum Addreu)	(Ciry)	(SHU)	(Zip)
+(OSB)
+* NOTE: Telegrams or Fax should be used to supply above information.
+Rev. 11/99
+(B-2)
+Date
+JOB NOTIFICATION INFORMATION
+ASSOCIATION:
+Mr. John Budzinski, Director of Pipeline and Gas Distribution, 901 Massachusetts Avenue. Washington. D.C., 20001. Ph: (202) 628-5823 FAX: (202) 628-5024.
+INTERNATIONAL UNION OF OPERATING ENGINEERS-
+Mr. Frank Hanley, General President, 1125 Seventeenth Street N W Washington, D.C. 20036. Ph: (202) 429-9100. FAX: (202) 778-2618.
+LABORERS INTERNATIONAL, UNION OF NORTH AMERICA:
+Mr. Terence J. O'Sullivan. General President, 905 16th Street, N.W., Washington, D.C. 20006. Ph: (202) 737-8320. FAX: (202) 737-2754.
+INTERNATIONAL BROTHERHOOD OF TEAMSTERS:
+Mr. Richard Stem, International Brotherhood of Teamsters. 25 Louisiana Avenue, N.W., Washington, D.C. 20001. Ph: (202) 624-6885. FAX: (202) 624-8107.
+PIPE LINE CONTRACTORS ASSOCIATION:
+Mr. J. Patrick Tielbotg, Managing Director and General Counsel, 1700 Pacific Avenue, Suite 4100, Dallas, Texas 75201-4675. Ph; (214) 969-2700. FAX: (214) 969-2705.
+Rev. 11/99
+(B-1)
+PIPE LINE CONTRACTORS ASSOCIATION OFFICERS
+PETER M. BILLEY, President PAUL C. GREGORY, J st Vice President ROBERT H. WESTPHAL, 2nd Vice President DAVE STOTZ, Treasurer
+PETER M. BILLEY	LARRY SABO
+BRIAN L. GANSKE	PAUL SOMERVILLE
+PAULC. GREGORY	DAVE STOTZ
+ROBERT JOHNSTON	SCOTT E. SUMMERS
+W. A. "Bill" LEONE	DON W. THORN
+M. DAN MURPHY	ROBERT H. WESTPHAL
+JAMES H. NOLAN, Il	
+LABOR COMMITTEE
+CHARLES P. JOYCE, Chairman Otis Eastern Service, Inc, Wellsville, New York 14S95
+PETER M. BILLEY
+Righi-of-Way Clearing &. Maintenance, Inc. Greensburg. Pennsylvania 15601
+PAUL C, GREGORY Gregory C<x»k Construction, Ine, Houston. Texas 77063
+ROBERT JOHNSTON Henkels & McCoy, Inc. Norman, Oklahoma 73070
+MIKE MURPHY
+Murphy Bros., Inc. East Moline, Illinois 61244
+JAMES H. NOLAN, II Sheehan Pipe Une Con.srruciion Co. Tulsa, Oklahoma 741 (M
+SCOTT E. SUMMERS
+ARB, Inc.
+Like Forest, California 92636
+DON W. THORN
+Welded Consinsclion. LP Perrysburg. Ohio 43557
+J. TOM WHITE
+H.	C. Price Co. Dallas, Texas 75248
+J PATRICK TIELBORG
+Managing Director and General Counsel
+Dallas, Texas 73201-4673
+Office Telephone: (214) 969-2700	'
+Hume Telephone: (214) 350*119$
+Rev. 2/2003	(C)
+NATIONAL PIPELINE INDUSTRY
+JOINT POLICY COMMITTEE
+RULES AND REGULATIONS FOR
+POLICY COMMITTEE
+PLCA Pipa Un* Contractor* Auoctetion
+LIUNA Laborers' fntemattonal Union o! North America
+COMMITTEE
+HOWARD L. EVANS (IUOE) JOHN BUDZINSKI (UA)
+EDWARD M. SMITH (LIUNA)
+CHARLES P. JOYCE (PLCA) RICHARD STERN (IBT)
+J. PATRICK TIELBORG, Secretary
+IUOE ' International Union of Operating Engineer*
+Interrwtkmal Brotherhood -of T*nm*t*r*. AFL-CIO • '•
+Rev. 11/99
+United Association ot Journeymen11 and Apprentices of th* Plumbing and' - Pip* Fitting Industry of the United States and Canada
+500
+These rules and regulations as amended this 10th day of November, 1999 represent the continuation of Rules and Regulations approved by the National Pipe Line Industry Joint Policy ' Committee July 11, 1968, as amended herein, and adopted for the guidance of such Committee that is composed of the Pipe
+. Line Contractors Association, the Laborers International Union of North America, the International Brotherhood of Tbamsters, AFL-CIO, the International Union of Operating Engineers and the United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry of the United States and Canada.
+The National Pipe Line Industry Joint Policy Committee has been formed to promote harmony among all the parties to the National Pipe Line Agreements, to encourage the continuation of collective bargaining, to prevent work stoppages and to provide for the settlement of disputes which have not been or cannot be settled through the grievance procedure set out in the National Pipe Line Agreements negotiated by the Pipe Line Con- ■ tractors Association with the four International Unions named above who represent the employees employed on mainline, cross- -country pipe line construction throughout the United States.- -
+1; The procedures of the Policy Committee shall be available to' ‘ any pipe line contractor engaged in work covered by the National .< ( . Pipe line Agreements and to anylocal union having jurisdiction' , • over such work; provided, however, that any request by a cdhtrac- . c.: ■. tor for resort to the Policy Committee shall be made only through f the Pipe Line Contractors Association, and any request by a local' . union for resort to the Policy Committee shall be made only through i. -its International Union. Upon referral to the Policy Committee, the - ,., parties.agree that the existing or agreed-upon conditions and terms	. -
+of employment and assignment made by the contractor shall con- - ' . • tinue in fuU.force and effect during the period that the matter is - -J being considered and decided by the Policy Committee. . ■	. r >-
+• ■. 2.The Policy, Committee shall meet annually and also upon ■ call of any one:of the five members at such place or places'and	y
+aVsuch time as may be mutually agreed upon.'	(■ .• *> t.n-r
+t : ' I /?«: i 7' •	>	■	> a- i
+3. The Policy Committee may consider any matter of con- .	,.
+cern to the mainline pipe line construction industry, whether - ' ’• or not a specific matter has been referred to it by one of the parties to the agreements. Only the five (5) members of the Policy	' -.
+s ■	•	•
+Rev. 11/99	501	'
+.Committee shall be entitled to vote. A majority decision of the 'Policy Committee in any dispute shall be final and binding on all parties.
+4.	The procedures provided by thia Policy Committee sh^l not be used where existing grievance procedures set out in one of the National Pipe Line Agreements govern the matter.
+5.	The Policy Committee shall select one of its members to act as Chairman, whose term shall last for three (3) years and who shall not be eligible for reelection until the representative of each of the other parties has served as Chairman. There shall also be a Secretary designated who may or may not be a member of the Policy Committee, but only the five (5) princicpal members of the Policy Committee shall be entitled to vote.
+6.	Each of the respective organizations shall bear the cost of expenses of their representatives on the Policy Committee, and any other parties in attendance at meetings of the Policy Committee shall bear their own cost of expenses.
+7.	Each member of the Policy Committee shall have the right to appoint an alternate representative should that member be unable . to attend a scheduled meeting. The alternate shall have the same authority hereunder as if he was the original member and his vote shall be binding as if cast by the original member.
+8.	' These rules and regulations may be amended at any time and from time to time by the Policy Committee upon unanimous ./ vote of its members . J	’■
+9.	' The National Pipe Line Industry Joint Policy Committee will ■ remain in effect concurrently with the terms of the National Pipe<
+• 1 ■ Line Agreementsbetwcen the PLCA and the four (4) International' । Unions set out above.	<
+3.	After the presentation of evidence, the Policy Committee shall consider the matter and attempt to reach a consensus opinion and, if necessary, shall vote upon the matter. A majority decision of the Policy Committee in such jurisdictional dispute shall be final and binding on all parties.
+4.	The Policy Committee shall decide whether the decision will have general applicability throughout the industry or be restricted to the particular job involved.
+5.	Parties to disputes shall have a right to a hearing or to provide evidence to or before the Policy Committee only upon the terms and conditions set out herein.
+6.	All parties agree that a Policy Committee decision in such jurisdictional disputes shall be final and binding on all parties concerned.
+■ " EXECUTED this 10th day of November, 1999.
+SIGNED BY
+UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES
+-.1
+OF THE
+7 /"Edward
+Bud
+By:_
+LABO
+’IVK
+ING AND PIPE FITTING INDUSTRY OF. THE AND CANADA i
+Policy Committee Representative ^ATIONXl UNIQN OF NORTH AMERICA
+Committee Representative' J1-’
+
+IATI0NAL BROTHERHOOD OF,TEAMSTERS, AFL-CIO'’’ f A-'
+PROCEDURAL RULES FOR POLICY COMMITTEE REGARDING JURISDICTIONAL DISPUTES
+/•T.i'tt.cj'L.A'Kciaard.Stern, Policy Committee Representative; ■<.'7 '^"INTERNATIONAL ’’ ON OF OPERATING ENGINEERS
+■1. Whenever a dispute arises between two or more Unions over .	.
+■ proper jurisdiction of work assigned by a contractor, then one of the.	<
+■ ■. , parties to the dispute may refer it to the Policy Committee for.deci-t .; r. ■ sion. Pending the decision the work shall continue to be done by .the'. .t-.r one to whom it is assigned by the contractor. . -.. .*r ;
+2. Any of the disputants may submit'any evidence desired, for / 'y ‘ the purposes ;of substantiating its claim to the work in ques-;
+- tion, and the Policy Committee shall consider all such evidence ■ i -j. submitted by any of the parties. Such presentation to be in ac-
+•1 cordance with procedures established by the Policy Committee.. v.-
+Hr
+I Byij
+PIP]
+Rov. 11/99
+502
+□ward L/Evans, Policy Committee Representative
+ASSOCIATION
+• By:	- - ■ ■
+^Charles P. Joyce/Policy Committee Representative
+• 'Acknowledged by;	_ _
+- jr.Ti '	. I JfPatrick Tielborg.JJ’.'
+Managng Director and Gene
+.	.... ■ Secretary,! Policy Commit
+'. f? ,
+T
+Rsv. 11/99
+503
+“ .	NATIONAL PIPELINE INDUSTRY JOINT
+POLICY COMMITTEE
+Decision No. 1
+HYDROSTATIC TESTING
+Because a controversy has arisen throughout the Pipe Line Construction Industry as to the proper manning of hydrostatic testing of pipe lines, the question was referred to the Policy Committee for decision.'Having considered the claims and respective interests of all parties involved, the Policy Committee has decided that on all hydrostatic testing of pipe lines throughout the United States:
+1.	The installation of temporary lines other than flexible lines will be handled by the U.A.
+2.	The installation of flexible lines will be handled by the Operating Engineer.	.	.
+3.	The operation of pumps, gauges and dead weights will be handled by the Operating Engineer. .
+4.	The fabrication and installation of manifolds and valves will be done by the U. A.; the attachment of the flexible lines will be done by the Operating Engineer. '	.
+'	5. Nothing herein is intended to affect in any way the work ordinarily and customarily done by the Laborers and the Teamsters. ■
+July 25,1968 (See Decision #5, as amended)	■ -
+Decision No. 2
+.	■ OPERATING ENGINEER'S EQUIPMENT	.	.
+• ’ . In view of conflicting claims which have arisen in the Pipe Line ■	;.
+■ Construction Industry, the Policy Committee has made the follow- , ' irig decision:	. ■ ■.
+I .: ■' The welding, maintenance and repair of any equipment ■	■	: within the jurisdiction of the International Union of Oper- ■ ;
+1 1 ating Engineers will be done by Operating.Engineers..This
+' decision is not intended to interfere with.the practical co- <■ .	■	operative attitude.among all crafts involved.	■ ■	.
+i > ’July 25. 1968 ..	■ n' !< ..	■■ •	...v-'• 1 *4 •.	■f ‘‘'
+.	■' ■. Decision No.3.	.	• .■
+'	'	'' ' PORTABLE yard double jointing racks ' '
+■" -It is recognized that on yard double jointing racks there is certain;
+J., repaurworktobedonewhichbeldngstothe,UriitedAssociatiqnofJoui> . ...., .:' ' neymen and Apprentices of the, Plumbing and Pipefitting Industry of
+; the United States and'Ca'nada, arid that there is certain repair.work	•
+' which belongs to the International Union'of Operating Engineers.' r ' It is the decision ofthe'Pipeline Industry Policy Committee that one.. ' ' ' " i;mechanic from each Union be employed on each rack, and all repair , <. '( ■ i t."< and maintenance work necessary will be done by these two median- ...... . ‘ ‘ ics unless additional help is' needed, in which case it shall be drawn .. ■ froin the established crew,’	” ’ ’
+. July 22, 1969	.	• ,	■■ .■■	•
+504
+Decision No. 4
+portable yard double jointing racks
+In the operation of a portable yard double jointing rack, welder helpers from the United Association of Journeymen and Appren-। tices of the Plumbing and Pipefitting Industry of the United States and Canada are required to be employed by the National Pipe Line Agreement between the U.A. and the PLCA in the rolling of the pipe from the grinders through inspection. Therefore, if employees are needed to roll the pipe from the end of the rack up to the grinding station, such employees need not be U.A. welder helpers, and the contractor may assign the work to the members of the Laborers International Union of North America.
+Decision No. 5
+hydrostatic testing
+The pipe line contractor may set up a separate testing crew or use employees performing other duties to also do the testing work without setting up a separate crew for that purpose. In some cases the testing work is performed by another contractor, either by subcontract from the pipe line contractor, or by direct contract with the owner. In any event, during the preparation, fill, discharge and dismantling process connected ■ with the pressurization testing of a new or old section of pipe line:
+1. The provisions;of Policy Committee Decision No. 1 dated July	■.
+25,1968 concerning hydrostatic testing will apply to those situations when the contractor elects not to set up a separate	■
+■■ . •; ■ ■ hydrostatic testing crew in connection with the pressurization ■
+.. testing of the pipe line. These provisions are as follows:
+A. The installation of temporary lines other than flexible lines ■
+• will be handled by the UA.	...	.
+■ ■	,, B. The installation of flexible' lines will .be handled by the ,■
+, ^OperatingEngineer. ...■ . ... . ; ।	. . r	t
+- C.'The operation of pumps, gauges and dead weights will be
+■ ■ 'handled by the Operating Engineer.
+'	, D. The fabrication arid installation of manifolds and valves " ‘
+< , .>>..■ will be done by the U.A./the attachment of the flexible
+' lines will be done by tile Operating Engineer. ;
+'‘ , E. Nothing herein is intended to affect in anyway the -
+-1 work 'ordinarily-and customarily done by the Laborers
+'	arid Teamsters.	1 '	..	.
+‘	;2. When the contractor elects to set up.a separate hydrostatic
+■ ; ■ testing crew for the pressurization testing of the pipe . ;, ‘, line,.the manning requirements will normally consist of , one U.A. Journeyman, orie.Operating Engineer, one Laborer 1.
+?	arid one Teamster.’ • •'	‘-L ’ ’	.	'' .
+~ A, In the event more employees are needed, they will be ,, . employed for the work required under the terms of the ... '	’ ’ appropriate National Pipe Line Agreement:'
+■	505
+„ < -B. iDnce the manning requirements have been determined, ’ * all employees may be used as a composite crew, it being recognized that the nature of the work is such that at times it is impossible to adhere strictly to the craft jurisdictional lines.	।
+C. It is intended that the composite crew will be used during the preparation, fill, discharge and dismantling process connected with the hydrostatic testing of a new or old pipe line.
+D, When the line is under pressure and "on test’orwhen the contractor has night work to be performed in connection with filling or discharging the line, an Operating Engineer will be employed to monitor the test, watch the pumps, and swing and read the dead weight.
+E. When night work is performed as set out in D,above, the U. A. Journeyman assigned to the composite crew during the day will receive two additional hours of pay in lieu of being called out to perform any U.A. work which might be necessary during the night time operation. No additional compensation will be paid to Laborers or Teamsters since there is not work performed at night that would be long to these unions.
+- 3. When welding is performed by Welders assigned to a seperate hydrostatic testing crew set up by the pipe line contractor, premium pay of 50c per hour above the journeyman rate will be paid to the Weiders. This requirement for premium -pay will not apply when the pipe line contractor has not set : ■ up a separate hydrostatic testing crew or when Welders on the pipe line contractor's payroll are merely used by the testing contractor.	<	,
+' *.' 4. All other provisions concerning hiring, waiting time, travel " vi'1. time, reporting time, and moving time will be applicable
+• । > • as set out in the National Pipe Line Agreements.
+Dated January 26, 1970, ais:amended October 26, 1971. . : ,
+. Decision No. 6 .
+i ‘	.' LOCAL' INDUSTRYADVANCEMENT FUNDS ■
+. ..:	. In certain areas of the United States, Local Unions have i,. ,
+negotiated Industry Advancement Funds with contractors for the .;
+“ purpose of advancing or .promoting the Building; Heavy or High- ; -way Construction Industry.,Contributions to such funds are not
+' -negotiated in lieu of wage; increases such as Welfare; Pension,,,.
+Vacation and the like. .. '’ ”
+..	‘ Since .the Pipe Line Construction Industry does not benefit
+from the contributions to such local funds throughout the'United
+< > ^States,- it is agreed that there is no requirement under,any of;the.
+‘ " National Pipe Line Agreements for signatories to those Agree--ments to contribute to such funds.
+August 13, 1970
+Decision No. 7
+BUFFING AND GRINDING
+In order to clarify the proper jurisdiction between the Laborers' International Union of North America and the United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry of the United States and Canada over work involving the buffing and grinding of pipe, the folowing decision has been reached:
+Buffing, grinding, filing, or brushing of the bevel in preparation for welding, or in connection with making or completing the weld, is in the jurisdiction of United Association.
+Buffing, grinding, filing or brushing not done in connection with the preparation or completion of the welding process shall be the jurisdiction of the Laborers International Union ofNorth America.
+Dated October 21,1970 and amended October 26, 1971.
+Decision No. 8
+DRESSING THE PIG
+"Dressing the Pig’ means changing the rubber squeegees or brushes or appurtenances which are attached to the body of the “pig”. The “pig" is inserted and travels inside the pipe for the purpose of cleaning or clearing the pipe line of all rust, scale, foreign objects, liquids and solids, and is normally used in connection with the cleaning and testing process.
+The contractor will assign the work of “dressing the pig" to whatever	.
+employee is readily available at the time, and all four unions agree to abide by the contractor’s assignment
+Dated October 26,1971.	... r, ■ ■ ;	,,
+'■■i 1Decision No. 9
+'<>' ' l <’ ■	< v..	.	.	-	4	■
+, >-,-q •	, HOOKING AND UNHOOKING
+■ •; ;.■ " । i “The hooking and unhooking of the pipe under the National Pipe .... -
+„ . ..’ . : Line Agreements is the work of the Laborer.” , ..	..........■
+a; ■, Dated January 29,19.75. n,	,	j.- .	\>(!..-.
+s •?. rpecteipn No. W	. ■■ ■■ ; i
+■!	'	’/" * / URETHANE foam*applicator	~
+The urethane' foam applicator will be manned with a Group 2	■
+■ ■ Operating Engineer dn'the bed or platform handling the valves, mix-, .
+‘ ring the contents and servicing the generators when handled from the \ ;	> ,i';-,bed qr.platfqrm; a Laborer will be. on the ground or in the’ditch.oper-/, .
+.id'.'ir^ting^the nozzle of.theiapplicator.”	, . .. .,
+• Mt .'Dated July 6, 1978:.''!.. <n < i,,. ■.	.,	r.,< .
+C	’DecisionNo. ll' " •	” ■	; -•••
+i 1 *.. '.I IAO.	.	, '	'. ,	‘	. ..
+-.i’■‘.Ai L “0 r ,],i:?E“0V*L9’;,cf’NCRE5E-
+'<' ,-i vs. I’.’ 'r •. j^Tlhe'rough removal of concrete from the pipe will bedqneby Laborers.,; -. ....
+. .'. v ')..' , However,' the balance of the preparation of thepipe for making the cut, .	-.
+. bevel or the welding process is the jurisdiction of the United Association.” . ... Dated July 6,1978.
+506
+507

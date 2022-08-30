@@ -1,0 +1,1400 @@
+﻿H
+u[
+I \
+Cornell University ILR School
+
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@comell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Charlotte County School Board (Instructional Employees Agreement) and Charlotte Florida Education Association, National Education Association (NEA), (2005)
+K#: 800140
+Employer Name: Charlotte County School Board (Instructional Employees Agreement)
+Location: FL Port Charlotte
+Union: Charlotte Florida Education Association, National Education Association (NEA)
+Local:
+SIC: 8211
+Sector: P
+NAICS: 611110
+Number of Workers: 1000
+Effective Date: 07/01/05
+Expiration Date: 06/30/08
+Number of Pages: 52
+Other Years Available: N
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School, http://www.ilr.cornell.edu/
+CFEA TABLE OF CONTENTS
+I	DEFINITIONS	1
+II	BARGAINING UNIT	1-2
+A.	Inclusions	1
+B.	Exclusions	2
+C.	Changes	2
+D.	Parties to the Agreement	2
+E.	Exclusivity	2
+III	BOARD RIGHTS AND RESPONSIBILITIES	2
+A.	Management Rights	2
+B.	Authority	2
+C.	School Board Materials and Agendas	2
+IV	ASSOCIATION RIGHTS AND RESPONSIBILITIES	2-4
+A.	Rights	2-4
+1.	Association Leave	2-3
+2.	Individual Employee Meetings	3
+3.	Faculty Meetings	3
+4.	Notices	3
+5.	Communications	3
+6.	Public Records	3
+7.	Elected Officers and Representatives	4
+8.	School Visitation by Association Representatives	4
+9.	New Teacher Orientation	4
+10.	Technology	4
+11.	Extended School Year	4
+B.	Responsibilities	4
+1.	Recognize Board Authority	4
+2.	Duties of Employees	4
+V	THE PARTNERSHIP AND PERFORMANCE COUNCIL	5-6
+A.	Charlotte County Public Schools District Partnership and Performance Council	5
+B.	Charlotte County Public Schools School Based Partnership Committees	5-6
+VI	LOW PERFORMING SCHOOLS; PROCESS FOR INTERVENTION/SUPPORT 6-7
+The Process	6
+Intervention Teams	7
+VII	POSTING	7-8
+A.	General	7
+B.	Vacancies	7
+1.	Promotion	7
+2.	Resignation	7
+3.	Retirement	7
+4.	Termination	7
+5.	New Staffing	7
+6.	New operation start-up	7
+7.	School-to-school transfer	7
+CFEA Table of Contents July 1, 2005 - June 30, 2008
+I
+8.	Summer school programs	7
+9.	Before/after school programs at the worksite	7
+10.	Supplemented positions	7
+C.	Time of Posting	7
+D.	Positions Not in the Bargaining Unit	7
+E.	Posting Inclusions	8
+1.	Position title	8
+2.	Location	8
+3.	Position qualifications	8
+F.	End of Posting	8
+G.	Posting as a Result of Reassignment	8
+VIII	HIRING AND ASSIGNMENT	8
+A.	Board Rights	8
+B.	Certification	8
+C.	Summer School	8
+1.	Elementary School Programs	8
+2.	Seniority	8
+IX	INDIVIDUAL CONTRACTS	8-9
+X	EMPLOYEE PROFESSIONAL APPRAISAL AND DEVELOPMENT	9-13
+A.	Purpose	9
+B.	Annual Contract Employees	9
+C.	Continuing Contract and Professional Service Contract Employees 9
+D.	Responsible Instructors	9
+E.	Florida Statutes	9
+F.	Appraisal Procedures	9
+G.	Domains	9-10
+1.	Planning	9
+2.	Management of Student Conduct	9
+3.	Instructional Organization and Development	9-10
+4.	Presentation of Subject Matter	10
+5.	Communication	10
+6.	Appraisal	10
+H.	Procedures	10-12
+1.	Pre-Conference	10
+2.	Observation	10
+3.	Knowledge of Observation	10
+4.	Post-Conference	10-11
+5.	Rebuttal	11
+6.	Annual Appraisal Form	11-12
+I.	Alternate Appraisal Process	12
+J.	Goal Setting Conference	12
+K.	Alternative Appraisal Interim Conference	12
+L.	Alternative Appraisal Conference	12
+M.	Employees Do Not Appraise	12
+N.	No Renewal Right	12-13
+O.	Special Circumstance Appraisal	13
+P.	Forms	13
+Q.	Fourth-Year Annual	13
+CFEA Table of Contents July 1, 2005 - June 30, 2008
+II
+XI	NOTICE OF NON-RENEW AL	13
+XII	PERSONNEL FILES	13
+XIII	WORKDAYS AND HOURS	13-14
+A.	Length of Workday	13
+B.	Starting and Ending Time	13
+C.	Duty-free Lunch	13
+D.	Supervision of Students	13-14
+E.	Planning Period	14
+1.	Elementary Level	14
+2.	Secondary Level	14
+3.	Additional Periods	14
+F.	Additional Days	14
+G.	Student and Parent Conferences	14
+H.	Faculty Meetings	14
+I.	Emergency Reassignments	14
+J.	Pre-School Teacher Workdays	14
+XIV	CONTROL AND DISCIPLINE	OF STUDENTS	14-15
+A.	Control of Students	14-15
+B.	Teacher Protection	15
+1.	Support and Assistance	15
+2.	Disruptive behavior	15
+XV	TRANSFERS AND REASSIGNMENTS	15-16
+A.	Voluntary Transfers	15
+1.	Employee Requests	15
+2.	Qualifications	15
+3.	Updating Requests	15
+4.	Filing of Vacancies	15
+5.	No Bumping	16
+B.	Involuntary Transfers	16
+C.	Voluntary Reassignment	16
+1.	Employee Requests	16
+2.	Posting	16
+3.	No Bumping	16
+D.	Involuntary Reassignments	16
+E.	Special Assignments	16
+XVI	UNIT LOSS	16-17
+No later than March 15th - number of certificated positions allocated 16
+1.	Annual Contract teacher no position at site	16
+2.	Annual Contract teacher at site that has loss of units	16
+3.	Criteria for identifying individuals for the pool	16
+Process for placing surplus pool of teachers	16-17
+1.	April 15th schools to submit to HR names of surplus teachers 16
+2.	Hiring and Transfers in surplus areas	16
+3.	Pool to meet with representatives from HR and CFEA	16
+4.	Vacancies remain unfilled by May 1st	17
+5.	One position one surplus teacher	17
+6.	On or after May 2nd	17
+7.	Prior to last day of post planning	17
+CFEA Table of Contents July 1, 2005 - June 30, 2008
+III
+8.	Teachers in the pool	17
+XVII REDUCTION IN FORCE	17-18
+A.	Reduction	17
+1.	Board Rights	17
+2.	Definition	17
+B.	Order of Reduction	17
+1.	Annual Contract Employees	17
+2.	Annual Contract Employees Criteria	17
+3.	Non-Renewal	17
+4.	Continuing Contract	17
+5.	Continuing Contract Criteria	17
+6.	Employees retained	17
+C.	Recall	18
+1.	Recall List	18
+2.	Notice of Recall	18
+3.	Response to Notice of Recall	18
+4.	Loss of Recall Rights	18
+5.	Acceptance	18
+6.	Final Offer of Recall	18
+7.	Certification	18
+8.	Restored Rights	18
+9.	Continuation of Benefits	18
+XVIII NEW EDUCATOR TRAINING - NET\PEERCOACH	18-19
+A.	Notice	18
+B.	Selection	18
+C.	Selection Criteria	19
+D.	Roles & Responsibilities	19
+E.	Seniority	19
+F.	No Qualified Volunteers	19
+G.	Supplemental Pay	19
+XIX	LEAVES	19-26
+A.	Sick Leave	19-20
+1.	Purpose	19
+2.	Accrual	19-20
+3.	Notice	20
+4.	Claims	20
+B.	Family Medical Leave	20
+1.	Employee Applies for Leave	20
+2.	Maternity Leave	20
+C.	Illness-in-Line-of-Duty	20-21
+D.	Personal Leave	21
+1.	With Pay	21
+2.	Without Pay	21
+3.	Limitations	21
+E.	Sabbatical Leave	22-23
+1.	Eligibility	22
+2.	Educational Preference	22
+3.	Half Pay	22
+CFEA Table of Contents July 1, 2005 - June 30, 2008
+IV
+4.	Reinstatement	22
+5.	Application for Leave	22
+6.	Obligation to Return	22
+7.	Limitation on Numbers of Leaves	22
+8.	Selection Process	22-23
+9.	Confirmation	23
+F.	Professional Leave	23
+1.	Summer Session Scheduling Problems	23
+2.	Pre-School/Post-School Schedule Conflicts	23
+3.	Professional Leave Without Compensation	23
+G.	Military Leave	23-24
+1.	Purpose	23
+2.	Reinstatement	24
+3.	Reserves and National Guard	24
+4.	Reserves and National Guard as of 9/12/01	24
+H.	Duty Leave	24-25
+1.	Purpose	24
+2.	Requests for Leave	24
+3.	Pay	24
+4.	Confirmation	24-25
+I.	Judicial Leave	25
+1.	Purpose	25
+2.	Pay and Fees	25
+3.	Exceptions	25
+4.	No Accrual	25
+J.	Insurance	25
+K.	Return from Leave of Absence, Ten Weeks or less	25
+L.	Return From Leave of Absence, Longer Than Ten Weeks	25-26
+1.	Annual Contract Employees	25
+2.	Continuing Contract and Professional Services	25-26
+3.	Replacement Employee(s)	26
+4.	Leave Longer than Ten Weeks	26
+M.	Sick Leave Bank	26
+XX	COMPENSATION	26-32
+A.	Salaries	26
+B.	Supplements	26-27
+C.	Experience Credit	27
+D.	Advanced Degrees	27
+E.	Student Teachers	27
+F.	Absences	27
+G.	Holidays	27
+H.	Terminal Pay for Accumulated Sick Leave	28
+I.	Mileage, Meals, and Rates Per Diem	28
+J.	Pay Checks	28-29
+1.	Pay Options	28
+2.	Payday	28-29
+3.	Pay Dates	29
+CFEA Table of Contents July 1, 2005 - June 30, 2008
+V
+K.	Educational Compensation	29-30
+1.	Advanced Degree	29
+2.	In-Field Expertise	29-30
+L.	Extra Days of Employment	30
+M.	Teacher Induction Program (T.I.P)	30
+N.	Summer School	30
+O.	Guidance Counselors and Community School Directors	30
+P.	Inservice Pay	31
+Q.	Attendance Incentive	31
+R.	ESOL	31
+S.	Supplemental Positions	31
+T.	Playoff Supplements	31
+U.	Performance Appraisal	31-32
+1.	Competencies for Teachers	(0-5 years Experience)	31
+2.	Competencies for Teachers	(6 + years Experience)	31-32
+V.	Five Percent (5%) Performance Pay Plan	32
+XXI	INSURANCE	32-33
+A.	Qualifications	32
+B.	Group Hospitalization	32
+C.	Life Insurance	32-33
+D.	Continuation of Benefits	33
+XXII	EMPLOYEE RIGHTS AND RESPONSIBILITIES	33-38
+A.	Rights	33-37
+1.	Membership	33
+2.	Privacy	33
+3.	Substitutes	33
+4.	Reimbursement	33
+5.	Employee Information	33-34
+6.	Telephones	34
+7.	Facilities	34
+8.	Interruptions	34
+9.	Absences	34
+10.	Fund Raising Activities	34
+11.	Parking	34
+12.	Access to Buildings	34
+13.	Inservice Education	34-35
+14.	Tentative Assignments	35
+15.	Rights of Representation	35
+16.	Academic Freedom	35
+17.	Student Grades	35
+18.	Charlotte EXCEL “Excel in Educating Leaders” Program 35
+19.	Reprimands	35-36
+20.	Discipline	36
+21.	Complaint(s)	36
+22.	Professional Service Contract	36-37
+23.	Test Security	37
+24.	Attendance Reporting	37
+CFEA Table of Contents July 1, 2005 - June 30, 2008
+VI
+B.	Responsibilities	37
+1.	Evening Meetings	37
+2.	Area Responsibility	37
+3.	Safeguarding Funds	37
+4.	Pilot Programs	37
+5.	Record Keeping and Reports	37
+6.	Fingerprinting	37
+C.	Mainstreaming and Inclusion	37
+D.	Terms and Conditions of Employment Unique Year Round School 37-38
+1.	Transfers	37
+2.	Sick Leave	38
+3.	Intersession	38
+XXIII	PAYROLL DEDUCTIONS	38-39
+A.	Association Dues	38
+1.	Authorization	38
+2.	Board Held Harmless	38
+3.	Changes	38
+4.	Transmittal	38
+5.	Limitations	38
+6.	Time of Request	38
+7.	Board Fee	38
+8.	Duration	38
+B.	Other Voluntary Deductions	39
+1.	Tax Sheltered Annuity	39
+2.	Credit Union	39
+3.	Insurance	39
+C.	Termination of Voluntary Deductions	39
+D.	Termination of Association Deduction	39
+E.	Equal Amounts	39
+XXIV	GRIEVANCE PROCEDURE	39-42
+A.	Exclusivity	39
+B.	Definitions (Grievance - Grievant - Days)	39
+C.	Time Limits	39-40
+D.	Representation	40
+E.	Reprisal	40
+F.	Filing	40
+G.	Meetings	40
+H.	Procedure	40-42
+1.	Informal Level	40
+2.	Level One	40
+3.	Level Two	40
+4.	Level Three-Arbitration/Grievance Review Committee	41-42
+I.	Miscellaneous	42
+XXV	SCHOOL CALENDAR	42
+XXVI	PROGRAM PLANNER/TEAM LEADER/PEER TEACHER	42-43
+A.	Appointment	42
+B.	Duties	42
+C.	Pay	42
+CFEA Table of Contents July 1, 2005 - June 30, 2008
+VII
+D.	Notice	42
+E.	Additions and Deletions	42
+F.	Equal Opportunity	43
+G.	Supplements	43
+XXVII	FORMS	43
+XXVIII	FAIR PRACTICES	43
+XXIX	NO STRIKE CLAUSE	43
+XXX	NEGOTIATIONS	43-44
+A.	Ground Rules	43
+1.	Selection of Teams	43
+2.	Time of Next Meeting	43
+3.	Location	43
+4.	Tentative Agreements	43
+B.	Permissive Reopening	43
+C.	Scheduled Reopening	44
+D.	Severability Clause Reopening	44
+XXXI	PRINTING AND DISTRIBUTION OF THE CONTRACT	44
+XXXII	SAFETY	44
+A.	Employee Obligation	44
+B.	Board Obligations	44
+C.	Bomb Threats	44
+D.	Notification of Accidents	44
+XXXIII	SEVERABILITY	44
+XXXIV	ZIPPER CLAUSE	44-45
+XXXV	TERM OF CONTRACT	45
+CFEA Table of Contents July 1, 2005 - June 30, 2008
+VIII
+CONTRACT BETWEEN
+THE SCHOOL BOARD OF CHARLOTTE COUNTY, FLORIDA AND CHARLOTTE FEA FOR INSTRUCTIONAL EMPLOYEES
+July 1, 2005 - June 30, 2008
+ARTICLE I	- DEFINITIONS
+Association - Charlotte FEA
+Board - The School Board of Charlotte County, Florida
+Contract - The entire document herein
+Day - A workday of the employee, unless otherwise stated
+Emergency/Emergencies - an unforeseen circumstance or combination of circumstances which calls for immediate action
+Employee - Any member of the recognized bargaining unit
+Individual Contract - As defined in Section 230.23 (5) (d), Florida Statutes Principal or Immediate Supervisor - The administrator or his/her designee directly responsible for the employee
+Rank - Salary schedule placement according to Bachelor’s Degree, Specialist’s Degree, Master’s Degree or Doctor’s Degree
+Reassignment - A move within the same school
+School Day - A day when students are scheduled to attend classes
+The length of the school day is the period of time between when classes begin and end for students.
+Senior or Seniority - Length of continuous employment by the Board in any bargaining unit position. Approved leaves in excess of one-half school year (except sick leave) do not count toward seniority. Seniority resumes accumulation on return from leave.
+Superintendent - The Superintendent of the Charlotte County School System
+Term of Contract - The duration of this contract
+Transfer - A move from one work site to another
+Workday - A day when an employee works or is scheduled to work
+The length of the workday is the period of time between when employees report to school and leave school each day.
+Year of Service - As defined in Section 228.041 (20), Florida Statutes
+ARTICLE II	- BARGAINING UNIT
+The designated bargaining unit is described as all regular certified full-time employees of the Charlotte County School Board in any of the following positions:
+A.	Inclusions
+Basic K-12 program teachers
+Vocational education teachers
+Compensatory education teachers
+Guidance counselors
+Occupational specialists
+ESE teachers
+Title I teachers
+Media specialists
+Deans
+Teachers on special assignment
+Elementary resource teachers
+NJROTC
+All position listed herein, filled or unfilled, shall remain bargaining unit positions for the term of this contract.
+B.	Exclusions
+CFEA Contract July 1, 2005 - June 30, 2008
+1
+Superintendent, executive directors, assistant to the superintendent, coordinators, directors, assistant administrators, the personnel specialist, principals, assistant principals, psychologists, and all non-certified personnel, temporary personnel, casual personnel, part-time personnel, and all managerial, confidential, and supervisory employees
+C.	Changes
+Bargaining unit inclusions and exclusions are subject to ultimate determination as provided by law.
+D.	Parties to the Agreement
+The School Board/Association contract shall be the document that governs compensation, hours, and terms and conditions of employment for employees in the unit.
+E.	Exclusivity
+The School Board grants the certified bargaining agent all rights and privileges pursuant to Chapter 447 of Florida Statutes and the Public Employee Relations Act of 1974. No other rights or privileges not extended to the certified bargaining agent shall be granted to any other teacher organization or group except as provided for in F.S. 447.307.
+ARTICLE III	- BOARD RIGHTS AND RESPONSIBILITIES
+A.	Management Rights
+The Board retains and reserves the right to manage and control its business, its equipment, and its operations; adopt rules and policies; determine qualifications and assignments of employees; direct its personnel; determine the number of employees and schedule their work; discipline employees for just cause; direct the working forces, including hiring, evaluating, promoting, suspending, discharging, transferring and laying off employees as long as there is no conflict with the other provisions of this contract.
+B.	Authority
+The Board is legally responsible for the operation of the school system within the boundaries of the school district and the Board has the authority to discharge all of its responsibilities as long as such authority does not conflict with the other provisions of this contract.
+C.	School Board Materials and Agendas
+The Superintendent shall notify the Association of the date, place and hour of the Board meetings and provide the Association with a complete agenda and supporting data no later than the Friday morning prior to all regular meetings. The Association shall be notified of any incomplete or further anticipated agenda items. Any materials absent from the package shall be provided to the Association upon release to the School Board. Complete committee reports sent to the board shall be available to the Association.
+ARTICLE IV	- ASSOCIATION RIGHTS AND RESPONSIBILITIES
+A.	Rights
+1.	Association Leave
+a.	Association Business - Leaves of absence with pay, not to exceed a cumulative total of thirty (30) days per school year, shall be given to the Association on application, for Association purposes. Application must be made at least five (5) work days in advance of the anticipated absence. Such leave shall only be used on advance authorization and notice by the Association president or his/her designees. Such leave may not create major disruptions on ongoing programs. The cost of substitutes under this provision shall be paid entirely by the Association. The time limit may be waived with the consent of the Superintendent or designee. No one-association member will exceed fifteen
+CFEA Contract July 1, 2005 - June 30, 2008
+2
+(15)	association leave days during the school year.
+b.	District Business - Members of the Association serving on district committees and/or taskforces, attending district meetings, bargaining and insurance meetings, school board meetings or work shops, or when acting as a representative of the Association shall be considered on duty leave.
+2.	Individual Employee Meetings
+Officers or other Association representatives designated by the Association may meet with Board employees who consent voluntarily to attend such meeting on school premises before the workday of the employee begins, or during the lunch period of the employee, for the purpose of conducting Association business, if such meeting does not interfere with any employee's duties.
+3.	Faculty Meetings
+The Association faculty representative from a school shall be given, upon request to the principal, an opportunity at the end of a faculty meeting at least once each month to present brief reports and announcements to those employees who wish to stay for such reports and announcements. The Association may conduct additional meetings not to be scheduled to interfere with the direct instruction of the students or duties of the employees.
+4.	Notices
+The Association shall have the right to post notice of activities and matters of Association concern in a designated/common area maintained by the Association. The Association representative and principal/site manager shall mutually agree to a designated/common area.
+5.	Communications
+The Association shall have exclusive right to post notices of activities and matters of Association concern on designated bulletin boards, at least two of which shall be provided at each work site. The Association shall have the exclusive right to use employee mailboxes for communications to employees. The Association shall have exclusive right to post/manage notices of activities and matters of Association concern on a designated electronic folder. The electronic folder shall be visible on each individual employee’s “first class” account.
+The Board reserves the right to discontinue the electronic folder for just cause. District administrative staff may monitor items posted on either a bulletin board or the electronic folder for content. The following procedures shall be followed should the Administration have concerns about the content of an item:
+1.	The Administration shall immediately notify the Association and cite the reasons and rationale for such concerns.
+2.	Following review of the posted item and discussion of the concerns, the Association shall determine whether or not to remove the item.
+3.	In the event that CCSPA fails to respond or declines to remove the item, then the District may remove the item for just cause.
+The District recognizes that the Association’s right to communicate with its members is not to be abridged and/or interfered with in any way except as outlined above.
+6.	Public Records
+The Board shall make available for review all public documents which are not of a privileged or confidential nature. Said availability shall also include Board agendas at the same time agendas are publicly distributed. The principal of each school, or his designee, shall post one copy of the Board agenda when received.
+7.	Elected Officers and Representatives
+CFEA Contract July 1, 2005 - June 30, 2008
+3
+Elected officers and representatives of the Association are exempt from involuntary transfer with the following exceptions: If an entire program is eliminated, or if circumstances would cause the Board to consider an involuntary transfer, a written identification of the reasons with the means stated to correct the concerns shall be provided. Upon request, a conference shall be granted. Once concerns are so identified, a period of one year will be specified to correct them. It is the responsibility of Administration to give notice in writing during the year if further concerns arise. An involuntary transfer will be made only after these procedures have been unsuccessful in correcting the identified concerns.
+8.	School Visitation by Association Representatives
+Association representatives shall be allowed to visit teachers during non-student contact times.
+a.	The Association shall provide a list, in advance, to the district of any Florida Education Association representatives or officers who wish to visit work sites.
+b.	The Association representative must sign in at the office and let the office know the purpose of the visit.
+c.	The Association agrees not to disrupt the normal operation of the school.
+9.	New Teacher Orientation
+The Association will sponsor a breakfast for all involved in the New Teacher Orientation. The Association will have the thirty (30) minutes immediately following the breakfast to conduct a presentation.
+10.	Technology
+a.	The School Board shall provide the Association information about the administration’s technology strategies and specific technological initiatives.
+b.	No employee shall be held accountable for any developed standards for technological competency until such time as the Board offers training. Such training shall be offered at reasonable times and dates.
+11.	Extended School Year
+a.	Should the state allocate extended school year funds, the parties agree to negotiate all issues of salary, benefits and working conditions.
+b.	Negotiations shall begin immediately upon state approval of such funds.
+B.	Responsibilities
+1.	Recognize Board Authority
+It is the responsibility of the Association, its representatives, and members to carry out administrative directives and administrative regulations. Neither the Association nor its representatives shall assume Board administrative or supervisory authority.
+2.	Duties of Employees
+Employees have the direct and indirect responsibility of providing instructional programs which fall within the scope of specific curriculum. The employee's primary responsibility is the classroom or regular facility in which his/her basic assignment occurs and, in addition, the employee has general unscheduled supervision and guidance responsibilities throughout the building and grounds during regular school hours.
+ARTICLE V-	THE PARTNERSHIP AND PERFORMANCE COUNCIL
+A.	Charlotte County Public Schools District Partnership and Performance Council
+1.	The Charlotte County Public Schools Partnership and Performance Council (CCPSPPC) is the chief policy making body for our collaborative initiative. It will
+CFEA Contract July 1, 2005 - June 30, 2008
+4
+be a forum for communication and cooperation in support of our mission to deliver high quality education; to maintain a high quality work environment for employees of CCPS; and to generate gains in efficiency, effectiveness, and accountability through policies, programs and services that are economically feasible and justifiable.
+2.	The Council will define goals, set priorities, and designate appropriate timelines, responsibilities, and resources to achieve a prompt response. The Council will also develop a more long-term agenda and work plan, while continuing to be responsive to emerging issues.
+3.	The Partnership and Performance Council will use the FMCS Interest-Based Process outlined in FMCS training modules as the method by which decisions are made. The Charlotte County Schools FMCS/IBPS Procedure and Guidelines Manual is part and parcel of this contract.
+4.	Members of the CCPSPPC will consist of representatives of management, including the Superintendent and 7 members of the administration along with representatives of Labor, including the CFEA President, the Service Unit Executive Director and 5 other teacher members.
+a.	The Superintendent and the President of CFEA shall serve as co-chairs of this Council.
+b.	No alternates will replace absent members. It is the responsibility of all members to attend.
+c.	Additional resource people may be invited to attend meetings for informational purposes, but will not participate in decision-making by members of the Council.
+d.	Management shall provide a Recording Secretary who shall be responsible for publishing and distributing the agenda prior to the meeting, and recording, publishing, and distributing the minutes following the meeting.
+5.	Meetings of the CCPSPPC
+a.	The Council shall meet monthly. Special meetings may be scheduled as needed. All Council and sub-committee meetings will be considered district business as defined by contract.
+b.	All meeting participants, including sub-committee members, will have received FMCS, IBPS training as a condition of participation.
+c.	Costs associated with meetings will be shared, covered by contract or grant.
+B.	Charlotte County Public Schools School Based Partnership Committees
+1.	A School-Based Partnership Committee shall be created in every school. It will be a forum for communication and cooperation in support of our mission to deliver high quality education; to maintain a high quality work environment for employees of CCPS; and to generate gains in efficiency, effectiveness, and accountability through policies, programs and services that are economically feasible and justifiable.
+2.	The Committee will define goals, set priorities, and designate appropriate timelines, responsibilities and resources to achieve a prompt response. The Committee will also develop a more long-term agenda and work plan, while continuing to be responsive to emerging issues.
+3.	School Based Committees will use the FMCS Interest-Based process outlined in FMCS training modules as the method by which decisions are made.
+4.	Membership on the School-Based Partnership Committee
+a.	Teacher members of the committee shall be appointed by the CFEA president in consultation with building administration and teachers at the school site with high school committees having six teacher members;
+CFEA Contract July 1, 2005 - June 30, 2008
+5
+middle schools having five teacher members, and elementary/special schools or centers having four teacher members of the committee.
+b.	Each committee shall have at least one administrative member.
+c.	Vacancies shall be filled consistent with the original selection process.
+5.	Meetings of the School-Based Partnership Committee (CCPSSBPC) a. The Committee shall meet monthly. Special meetings may be scheduled as needed.
+b.	All meeting participants will have received FMCS, IBPS training as a condition of participation.
+c.	Costs associated with meetings will be shared, covered by contract or grant.
+d.	At least half the time blocked for meetings shall take place during the regular workday. SBPC meetings shall be considered duty leave.
+ARTICLE VI - LOW PERFORMING SCHOOLS: PROCESS FOR INTERVENTION/SUPPORT Beginning the 2006-2007 school year, the designation of “Low Performing” will apply to schools earning a “D” or “F” grade designation by Florida’s A+ Plan or to a Title I school not making adequate yearly progress for two out of three years in the federal No Child Left Behind program. This process for Interest Based Problem Solving intervention/support will be activated upon notification from the DOE as to which schools fall into one or both of the categories given above.
+The Process
+1.	The school officials examine the Florida A+ Plan report and/or the NCLB Adequate Yearly Progress report to determine the exact nature of the school’s low performance.
+2.	The appropriate intervention team is formed the 1st day of school.
+3.	Follow the interest based process and ensure all participants are trained in the interest based process.
+4.	The analysis is taken to the appropriate intervention team for discussion. The intervention team reviews the analysis and draws conclusions as to the cause(s) of the problem(s) and appropriate possible solutions.
+5.	The intervention team meets with representatives from the school and examines the Student Learning Plan to determine what strategies worked and what strategies did not work.
+6.	The intervention team develops an Adequate Yearly Progress Plan that parallels the Student Learning Plan and timeline.
+7.	AYP plan implementation and progress monitoring of student achievement is the responsibility of the appropriate director, CFEA representative, and school principal. This group has the authority to reconvene the team to address concerns that arise during the school year.
+8.	Collaboration is the theme!
+The Intervention Teams
+Elementary Team	High School Team
+Director of Elementary Learning	Director of Secondary Learning
+Principal	Principal
+CFEA Contract July 1, 2005 - June 30, 2008
+6
+CFEA representative
+(Determined by CFEA President) Human Resources representative (Appointed by Supt.) SAC chairperson or designee Curriculum Resource Teacher or AP One K-2 teacher* One 3-5 teacher* One ESE teacher*
+CFEA representative (Determined by CFEA President) Human Resources representative (Appointed by Supt.) SAC Chairperson or designee Assistant Principal for Curriculum Four Core teachers*
+One ESE teacher*
+Middle School Team
+Director of Secondary Learning
+SAC Chairperson or designee
+Principal
+Assistant Principal
+CFEA Representative (determined by CFEA President)
+Three Core teachers*
+Human Resources Representative (appointed by Supt.)
+One ESE teacher*
+*Determined collaboratively by the principal and CFEA president.
+ARTICLE VII - POSTING
+A.	General
+The Board shall post notice of job vacancies as set forth below provided, however, that if the Superintendent determines that it is urgent to fill a vacancy without posting, he/she may do so after notifying the Association and explaining the urgency.
+B.	Vacancies
+Vacancies occurring for the following reasons shall be posted:
+1.	Promotion
+2.	Resignation
+3.	Retirement
+4.	Termination
+5.	New staffing
+6.	New operation start-up
+7.	School-to-school transfer
+8.	Summer school programs
+9.	Before/after school programs at the worksite
+10.	Supplemented positions at the worksite
+C.	Time of Posting
+All new vacancies in the bargaining unit shall be posted weekly. Peer teacher shall not be considered a vacancy for purposes of posting, voluntary transfer, or promotion.
+D.	Positions Not in the Bargaining Unit
+Vacancies not in the bargaining unit, for which employees may be qualified, shall be posted weekly.
+E.	Posting Inclusions
+Posting shall include:
+1.	Position title
+2.	Location (if applicable)
+3.	Position qualifications such as (non-ordered)
+a.	Certification
+b.	Subject area experience
+c.	Seniority
+CFEA Contract July 1, 2005 - June 30, 2008
+7
+d.	Willingness to perform in supplemental positions
+F.	End of Posting
+The posted list shall remain posted until replaced by a new list. Reductions in force shall not require posting. Positions filled after a posting shall be listed on the next posting so as to provide notice to applicants of positions no longer available.
+G.	Posting as a Result of Reassignment
+Positions to be filled by reassignment within a site shall be posted for three (3) days at the site where the vacancy exists.
+ARTICLE VIII	- HIRING AND ASSIGNMENT
+A.	Board Rights
+The right to hire, assign, and reassign personnel is vested in the Board. However, the Board, in exercising such rights, shall continue to do so in a non-arbitrary and non-capricious manner.
+B.	Certification
+Employees shall be hired, assigned, or reassigned in keeping with their certification and applicable Florida certification statutes as are in effect whenever possible, except in the case of a reduction in force or in extenuating circumstances at which time the Board shall make such decisions as are necessary for the efficient operation of the schools.
+C.	Summer School
+Employees being considered for employment in summer school must be certified and experienced in the area of employment. The exception shall be for areas that no person can be found with certification. Employees shall be paid their hourly rate. Any additional training required for summer school employment shall be available to all employees prior to the beginning of summer school employment. All employees shall be given an opportunity to take such training prior to the application period. Employees taking such training shall be compensated. If two (2) applicants are of equal qualifications as outlined in the paragraph above, seniority shall be the deciding factor. Filling of summer school vacancies is contingent upon enrollment.
+1.	Elementary School Programs shall be posted for the purpose of bidding on summer school assignments as being split between primary and intermediate grades. Primary grades shall include kindergarten to third grade. Intermediate grades shall include grades four and five.
+2.	Seniority shall be decided as the date of hire in Charlotte County as found in the collective bargaining agreement. In order to be eligible for a position in either of the above two (2) described areas, the individual teacher shall have taught in one of these areas in the last three years.
+ARTICLE IX	- INDIVIDUAL CONTRACTS
+Annual contracts, continuing contracts, and professional service contracts shall be governed according to the provisions of Section 231.36, Florida Statutes, as currently enacted or as hereafter amended. An employee whose contract is terminated by the Board during the term of the contract may contest the termination by electing to use either the grievance procedure contained in this contract or the administrative hearing procedure provided in Section 231.36.
+ARTICLE X	- EMPLOYEE PROFESSIONAL APPRAISAL AND DEVELOPMENT
+A.	Purpose
+The central purpose of professional appraisal and development is the improvement of the performance of all instructional personnel through a comprehensive program of support, training, and documentation of generic teaching competencies. It is the right and responsibility of the Board to establish the criteria and method of appraisal. It shall be the responsibility of Administration to do all written appraisals of employees and make recommendations for the future employment of all bargaining unit members.
+CFEA Contract July 1, 2005 - June 30, 2008
+8
+No administrator shall conduct an appraisal until he/she is a certified FPMS observer and has knowledge of the Instructional Personnel Performance Appraisal Process.
+B.	Annual Contract Employees
+The following guidelines must be met by the administration for performing appraisals of annual contract instructional personnel:
+(1.) The designated administrator shall conduct one (1) appraisal of each annual contract employee during the three (3) months after that employee's beginning date of employment.
+(2.) One (1) additional appraisal must be completed. The final appraisal must be submitted to the Director of Human Resources no later than eight (8) weeks prior to the last day of school.
+Additional appraisals may be conducted at the discretion of the administrator.
+C.	Continuing Contract and Professional Service Contract Employees
+The following guidelines must be met by the administration for performing appraisals of all continuing contract or professional service contract instructional personnel: (l.)One (1) appraisal must be completed by the designated administrator no later than seven (7) months after the opening of school.
+(2.) Additional appraisals, utilizing observations, may be conducted at the discretion of the principal.
+(3.)An annual appraisal form must be submitted to the Director of Human Resources no later than eight (8) weeks prior to the last day of school.
+D.	Responsible Instructors
+Any teacher’s name submitted to the DOE to comply with the “Responsible Instructor - Reading, Writing, and Mathematics” initiative shall be informed by the site administrator that his/her name has been submitted.
+E.	Florida Statutes
+Employee appraisals shall be conducted in accordance with Florida Statutes 1012.34.
+F.	Appraisal Procedures
+Appraisal procedures are intended to measure the instructional employee's ability to master the sixteen (16) desirable, effective qualities for educators in accordance with Florida Statute. 1012.52 as demonstrated by satisfactory teacher performance in the six (6) domains.
+G.	Domains
+The teacher's effectiveness as a professional educator will be assessed in each of the following six (6) domains:
+1	.) Planning - This refers to teacher performance in daily, weekly, and long-range program planning in the preactive phase of teaching.
+2	.) Management of Student Conduct - This includes teacher activities that minimize the frequency of disruptive student conduct.
+3	.) Instructional Organization and Development - This refers to teacher performance that provides for conservation of class time, organization and delivery of instruction, and teacher/student interaction.
+4	.) Presentation of Subject Matter - This refers to manipulation of the content of instruction to induce learning.
+5	.) Communication: Verbal and Nonverbal - This refers to teacher behavior that evokes or expresses affective personal relationships or communicates cognitive information.
+6	.) Appraisal,- This refers to the how teacher’s handle such matters as examinations, tests, and written work.
+H.	Procedures
+The principal or other administrative personnel will be directly involved in orienting the instructional personnel to all phases of the appraisal process. Orientation activities
+CFEA Contract July 1, 2005 - June 30, 2008
+9
+for instructional personnel involved in the appraisal process will include introduction to the appraisal process and review of the appraisal components.
+This orientation should be completed no later than two (2) weeks after the opening of school. New personnel entering after the beginning of the school year should receive an orientation prior to the first observation.
+New personnel will be asked to sign the Instructional Personnel Appraisal Plan Receipt Log and the Instructional Personnel Appraisal Plan Orientation Log to ensure they have received a copy of the plan and the orientation.
+The following procedures shall apply to all Instructional Personnel Appraisals:
+1.	Pre-conference - Prior to the actual observation, the administrator responsible for the observation will arrange a pre-conference with the teacher. If an Instructional Personnel Planning Data Form has been issued to the teacher, the administrator and the teacher shall then discuss the Planning Data Form.
+2.	Observation - The administrator will make an observation of the teacher and record his/her observations on the Summative Observation Instrument. If the teacher prefers, at least one observation may be scheduled for a mutually agreed upon, predetermined time. An Employee Formative Assistance Instrument may also be used as an additional data collection document.
+3.	Knowledge of Observation - At least one formal observation shall be conducted with the prior knowledge of the employee being appraised. The principal has the right to conduct subsequent appraisals without prior notice if there is a concern about the employee’s performance. Nothing in this contract shall prevent or limit the principal or designee from access to any classroom or performing any appraisals deemed necessary. Employees shall be notified in advance of any offsite personnel scheduled to observe/assess. All formal assessments, appraisals and observations of an employee shall be conducted with the full knowledge of the employee.
+4.	Post-conference - Within ten (10) days after the observation, the administrator responsible for preparing the report will provide the employee with a copy of the appraisal instrument and arrange for a post-conference. The post-conference shall take place within ten (10) days following receipt of the appraisal. At the request of the administrator or the employee, the conference to discuss the appraisal may be delayed for up to ten (10) additional days after the report is delivered. During the postconference, the administrator will discuss the Instructional Personnel "Conference Planning Guide" with the employee. It is the responsibility of the administrator to complete the Summative Observation Instrument/Formative Assistance Instrument and obtain the employee's signature for submittal to the Human Resources department.
+Any concerns or considerations will be discussed with the employee. The evaluator shall thereafter confer with the employee and determine if a Teacher Assistance Plan should be implemented. The employee shall sign a file copy only to acknowledge receipt.
+5.	Rebuttal - The employee shall have the right to initiate a written response to the appraisal, and the response shall become a permanent attachment to his/her personnel file.
+6.	Annual Appraisal Form - Each administrator must make a recommendation about the employee's employment status for the following year on the Instructional Personnel Annual Appraisal Form. Annual appraisal ratings are explained below:
+S - Satisfactory Performance: This designation indicates that there is sufficient evidence to support the occurrence of the effective behaviors associated with
+CFEA Contract July 1, 2005 - June 30, 2008
+10
+the Domain.
+A - Area for Development: This designation indicates that there is evidence to support the need for growth in a particular Domain. An “A” rating in any Domain indicates that a Teacher Assistance Plan may be initiated by the administrator.
+If, through documented evidence, an employee is identified as in need of development in a particular Domain(s), the evaluator shall notify the employee in writing of such determination and describe such area for development. The evaluator shall thereafter confer with the employee, make recommendations with respect to specific area(s) for development and provide assistance in helping to correct such deficiencies within a reasonable, prescribed period of time.
+U - Unsatisfactory Performance: This designation indicates that there exists evidence that the teacher demonstrates ineffective behavior related to the Instructional Domain indicated. A rating of “U” will require written documentation supporting that rating. If, through documented evidence, an employee is not performing his/her duties in a satisfactory manner, the evaluator shall notify the employee in writing of such determination and describe such unsatisfactory performance. The evaluator shall thereafter confer with the employee and implement a Teacher Assistance Plan. No employee shall receive an overall “unsatisfactory” appraisal without adequate opportunity and time to improve an area(s) of unsatisfactory performance. Any observation which results in a rating of “Unsatisfactory” in any Domain will substantiate the need for Teacher Assistance- Plan. The plan will be initiated by the administrator. Failure to successfully achieve the goals of the Teacher Assistance Plan, as determined by the administrator, will result in an unsatisfactory rating for that Domain on the Annual Appraisal.
+N - Not Observed: This designation indicates that the Domain or Area of Professional Responsibility was not observed.
+Overall Performance Evaluation
+S - This designation indicates that there is sufficient evidence to support the occurrence of effective behaviors associated with satisfactory teacher performance.
+U -This designation indicates that there exists sufficient evidence that the teacher demonstrates unsatisfactory teacher performance. A rating of “U” will require written documentation supporting that rating.
+The district may assign a National Board Certified teacher or mentor teacher to assist the employee in need. It is the responsibility of the principal to obtain the employee's signature for submittal to the personnel office. The Annual Appraisal Form is then forwarded to the superintendent or his/her designee for the purpose of reviewing the employee's contract. The superintendent shall notify the Department of Education of any instructional personnel who receive two consecutive unsatisfactory annual appraisals and who have been given written notice by the district that their employment is being terminated or is not being renewed or that the school board intends to terminate, or not renew, their employment. The Department shall conduct an investigation to determine whether action shall be taken against the certificate holder pursuant to F. S. 1012.795 (l)(b).
+I.	Alternate Appraisal Process
+The Alternative Appraisal Process is an optional appraisal process available to PSC/CC instructional personnel who have previously completed an Annual Appraisal with a summary rating of satisfactory and ratings of satisfactory in all domain areas.
+CFEA Contract July 1, 2005 - June 30, 2008
+11
+The Alternative Appraisal Process is designed to encourage instructional personnel commitment to professional and educational growth. In the IAAP option administrators and instructional personnel collaboratively set one or more goals aligned with student learning plans/school improvement plans that are intended to positively impact the instructional participant, the students, department/grade level, and other professionals. Continued participation in this appraisal option requires the maintenance of the desirable effective qualities of educators, and the identification and development of advanced educational competencies and practices. In the event that unsatisfactory performance is confirmed on the instructional employee, the employee will be evaluated by the Comprehensive Appraisal Procedures.
+J.	Goal Setting Conference: The development and agreement by the administrator and employee on objectives for a goal focused appraisal plan shall be completed by the last working day in October.
+K.	Alternative Appraisal Interim Conference: If requested, the administrator or employee may schedule a conference to discuss progress and/or any modifications to the plan. This conference shall be scheduled by the last working day in January.
+L.	Alternative Appraisal Conference: A conference between the administrator and teacher will be conducted no later than seven (7) months after the opening of the school year to review the progress/completion of the plan objectives and complete Comprehensive Appraisal Ratings on the Alternative Annual Appraisal Form. The annual appraisal form must be completed no later than the last day of school. Note: During the Alternative Appraisal Process, informal visits are expected and need not be followed by a conference or a written record unless problems are observed. It is important that the instructional employee be given the benefit of whatever advice and planned programs the appraiser can offer. The advice and main points of a discussion shall also be included in the written record. The employee shall be given a copy of the written record that should be filed for future reference. A satisfactory rating on the formal observation allows the employee to continue participation in the Alternative Appraisal Process.
+M.	Employees Do Not Appraise
+No employee covered by this agreement shall be required to make formal written appraisals of other bargaining unit employees, however, employees serving as department heads, peer teachers, or in like capacities, are expected to assist in the development of employees and are expected to fully contribute information as requested to that end.
+N.	No Renewal Right
+Nothing in this Article shall be construed to grant an annual contract employee a right to continued employment beyond the term of his/her contract nor shall anything in this Article be construed to grant any right to continued employment for employees serving within the 97-day probationary period of their initial annual contract, pursuant to 1012.33(l)(b), Florida Statutes.
+O.	Special Circumstance Appraisal
+Due consideration shall be given to an employee’s appraisal in the following circumstances:
+a.	When the employee is assigned out of field.
+b.	When the employee has invoked the teacher protection act.
+P.	Forms
+The appraisal form shall not be part of this contract. The form shall be created by the Board. However, upon written request, the Association may establish an appraisal form committee to provide advisory input to the Superintendent concerning the form to be used for appraisal. The committee shall be advisory only and shall have an equal number of employees and administrators and/or designees. The committee shall
+CFEA Contract July 1, 2005 - June 30, 2008
+12
+complete its work and submit a written report to the Superintendent within sixty (60) workdays. The Superintendent shall make the final recommendation to the Board concerning the final form to be used for appraisal. In the interim period, the present form shall be utilized for appraisals.
+Q.	Fourth-Year Annual
+Teachers placed on fourth-year annual contracts shall be fully informed of the specific criteria to be met that would result in professional service contract status.
+ARTICLE XI	- NOTICE OF NON-RENEW AL
+Any employee whose contract will not be recommended for renewal the next school year shall be notified of such recommendations not later than six (6) weeks before the close of the post-school conference period. Such employee shall be granted a conference with the Superintendent or principal upon written request.
+ARTICLE XII	- PERSONNEL FILES
+Personnel files shall be maintained according to the provisions of Section 231.291, Florida Statutes, as currently enacted or as hereafter amended.
+ARTICLE XIII	- WORKDAYS AND HOURS
+A.	Length of Workday
+The workday shall consist of seven and one-half (7.5) hours, including an unpaid lunch of thirty (30) minutes. Inservice activity and faculty meetings may extend beyond the workday. Exceptions to the workday, on occasion, may be made for unusual circumstances.
+B.	Starting and Ending Time
+Recommendations concerning the starting time and ending time of the workday for employees at each school may be submitted by the faculty to the principal. The principal shall consider such recommendations and determine the starting time and ending time for the workday unless otherwise provided by the Superintendent.
+C.	Duty-free Lunch
+All employees shall have a duty-free lunch of at least thirty (30) minutes during each regular workday. The time for lunch periods will be determined by the principal. The principal shall consider the desires of employees. In urgent, unscheduled circumstances, the principal may require the performance of some duties during a lunch period.
+D.	Supervision of Students
+Although the primary responsibility of the employee is concerned with the classroom, the responsibility of supervising students at all times is necessary. Auxiliary personnel will be utilized to perform non-instructional duties as much as possible. If it is necessary to assign employees non-instructional duties, it shall be on an equitable basis. The faculty may submit recommended duty assignments to the principal who will consider such recommendations when making duty assignments.
+E.	Planning Period
+1.	Employees at the elementary level shall have a planning period of at least thirty (30) minutes daily as long as the faculty has devised a plan to assure that students are supervised at all times. In the absence of such a plan, employees will have a planning period in accordance with the time of special area instruction provided for their students.
+2.	Teachers at the secondary level shall have a continuous planning period equal in time to one (1) class period during the student day.
+3.	Teachers shall be paid their hourly rate for teaching additional periods.
+F.	Additional Days
+Nothing herein shall be construed to prohibit the Board from offering an extended contract to an individual employee. Such additional days shall be paid according to CFEA Contract July 1, 2005 - June 30, 2008
+13
+the contract salary schedule.
+G.	Student/Parent Conferences
+Except as required by law, all parent/teacher conferences shall be held at district facilities. However, with consent of the teacher and the presence of an administrator at the facility, a parent/teacher conference may be scheduled outside the teacher’s duty day
+H.	Faculty Meetings
+Employees must attend faculty meetings. Faculty meetings shall be confined to issues necessary for the operation of the site which cannot be communicated through written and/or electronic means or program planners. Faculty meetings will be scheduled as often as the principal, immediate supervisor, or the Superintendent deem necessary. A minimum notice of one (1) workday shall be given prior to each meeting, except in emergency situations.
+I.	Emergency Reassignments
+The principal may reassign any employee duties to meet any emergency situation.
+J.	Pre-School Teacher Workdays
+Fifty percent (50%) of pre-school workdays shall be available to teachers for their planning and preparation time. Such time shall be given in whole day increments; any time above whole day increments shall also be scheduled in a block. The principal may call a meeting of no longer than sixty (60) minutes each day during the planning and preparation time allocated to teachers.
+ARTICLE XIV	- CONTROL AND DISCIPLINE OF STUDENTS
+A.	Control of Students
+Subject to law and to the rules of the Board, each employee shall have such authority for the control and discipline of students as may be assigned to him/her by the principal or his/her designated representative and shall keep good order in the classroom and in other places in which the employee is assigned to be in charge of students. Employee actions under this Article shall be in conformance with the duly adopted Code of Student Conduct, which shall be distributed to employees at the beginning of each school year. Additionally, actions shall conform to applicable provisions of Florida Statute 1003.32, and specifically implementing the below referenced sections of 1003.32 (4.) (5.) as follows:
+1.	When a teacher invokes the Teacher Protection Act, the affected student shall be immediately removed from the teacher’s classroom.
+2.	The Placement Review Committee shall be immediately convened and make a recommendation within the required five day (5) (business days) time period.
+3.	In the case of ESE students, the IEP committee shall be immediately convened and make a recommendation to the Placement Review Committee within the required five day (5) (business days) time period. If, however, the removal of an ESE student constitutes a change in placement within the meaning of the IDEA, the principal and teacher will meet to discuss other options.
+4.	If a situation arises that may necessitate variance from the agreed upon procedures, the CFEA shall be informed and consulted prior to the implementation of any alternative strategies or actions.
+Also pursuant to section 1003.32 (6.), the teacher representatives (reserved for selection by instructional personnel) to serve on a Placement Review Committee shall be elected by the instructional bargaining unit members at each site. The district shall provide to the CFEA a list of the members of the Placement Review Committees from each work site no later than September 1st of each year.
+B.	Teacher Protection
+1.	The Board acknowledges the desirability of giving reasonable support and assistance to teachers with respect to proper maintenance of control and
+CFEA Contract July 1, 2005 - June 30, 2008
+14
+discipline in the classroom.
+2.	A teacher shall have the right to temporarily exclude a student from class when the misbehavior or disruptive effect of the behavior makes the continued presence of the student in the classroom detrimental to the success of other students after the exercise and conclusion of an assertive discipline plan.
+ARTICLE XV	- TRANSFERS AND REASSIGNMENTS
+A.	Voluntary Transfers
+1.	Employee Requests
+Any employee may, at any time throughout the school year, request a voluntary transfer by submitting a properly completed transfer request form to the principal or immediate supervisor for consideration along with other applicants in keeping with the qualifications established for the position. Requests for voluntary transfer, made pursuant to Section 1012.33 (3) (f) (2), Florida Statutes, by an employee who has a professional service contract, may be made by the employee and shall be considered by the Superintendent without regard to any other provisions of this Article.
+2.	Qualifications
+Qualifications shall be as listed in Article VI, paragraph E, 3. If two applicants are of equal qualifications, seniority shall be the deciding factor.
+3.	Updating Requests
+Voluntary transfer requests are accepted for normal, routine transfers, and such requests, when submitted properly shall be valid for a maximum of three (3) years, provided that the employee completes and submits an updated form no later than the anniversary date for each of the subsequent years after the first year.
+4.	Filling of Vacancies
+Voluntary transfer requests may be submitted to fill positions made vacant by promotion, termination, retirement, resignation, additional staff, and creation of new schools/centers. Upon acceptance by the receiving principal, the teacher shall be released; however, the date of such release will be the decision of the receiving and sending principals. The time frame for such release shall not exceed thirty (30) workdays. The teacher will not be denied a transfer at a regular break in instruction (i.e. semester or grading period) due to the failure of the principals to reach an agreement.
+5.	No Bumping
+This procedure for voluntary transfer shall not apply to reduction in force and does not permit bumping in any of the foregoing provisions.
+B.	Involuntary Transfers
+Involuntary transfers shall not be made for arbitrary and capricious reasons. However, at times, involuntary transfers may be necessary. Such times reflect extenuating circumstances that would necessitate such action for cause.
+C.	Voluntary Reassignment
+1.	Employee Requests
+Voluntary reassignment requests for changes in grade level and other assignments within a school shall be submitted by personnel assigned to that school. Such requests shall be subject to approval by the building principal.
+2.	Filling of Vacancies
+Vacancies filled under this provision must be of like positions for example: teacher to teacher or guidance to guidance. The resultant vacancy shall be posted and filled according to the provisions stated in Article VII and Article XV A.
+3.	No Bumping
+CFEA Contract July 1, 2005 - June 30, 2008
+15
+This procedure for voluntary reassignment shall not apply to reduction in force and does not permit bumping in any of the foregoing provisions.
+D.	Involuntary Reassignments
+Involuntary reassignments are not made for arbitrary and capricious reasons. The principal may involuntarily reassign personnel for sound educational reasons.
+E.	Special Assignments
+A teacher who has been placed on special assignment shall be returned to the school they left and to a position for which they are qualified when the assignment ends.
+ARTICLE XVI	- UNIT LOSS
+No later than March 15th each year, the finance department will provide to each school principal, a list of the total number of certificated positions allocated for the upcoming school year. Should a school lose positions from the current year’s allocation, the following will apply:
+1.	Any annual contract teacher for whom there is no position at the site shall be placed in a pool of surplus teachers, provided the teacher has received a satisfactory evaluation and has been recommended for contract renewal.
+2.	In the event there are no annual contract teachers at a site that has a loss of units, PSC/CC teachers will be placed in the pool.
+3.	The criteria for identifying individuals for the pool of surplus teachers at a site shall be certification, grade level/subject area experience, and seniority in the district.
+The process for placing the surplus pool of teachers is as follows:
+1.	By April 15th schools shall submit to Human Resources the names of their surplus teachers and vacancies for the coming year. Representatives from HR and the CFEA shall notify teachers of their placement in the surplus pool.
+2.	Hiring and transfers in the surplus area(s) of certification and/or positions for which the surplus teachers are certified, shall be frozen until the surplus teachers are placed.
+3.	The pool shall meet with representatives from HR and the CFEA during mid-April to view the vacancies in the district. Members of the pool shall apply to the principals for vacancies for which they are interested. Principals shall select from those applicants. The application, interview, and selection process shall be completed by April 30th. During this period, teachers have the option of declining positions that are offered to them by principals.
+4.	For any vacancies that remain unfilled on May 1st, teachers in the pool shall select from the list based on certification(s), grade level/subject area experience, and seniority. After May 1st, any surplus teacher who refuses to select a position for which they are certified shall no longer be in the surplus pool and said teacher’s employment shall be terminated.
+5.	In the event there is one position in the district and one surplus teacher who is certified for that position, the teacher shall be placed in that position.
+6.	On or after May 2nd, the district may lift the freeze for positions in which there are no certified surplus teachers.
+7.	Prior to the last day of post planning, representatives from HR and the CFEA shall meet with the remainder of the surplus teachers to update contact information for the summer. As positions become available the surplus pool shall be notified and those teachers shall select from among the positions available di strict-wide, based upon certification(s), grade level/subject area experience, and seniority.
+8.	Any teachers in the pool who have not been placed in positions for which they are qualified based on the criteria listed in #4, may be placed as teachers-on-special-assignment until an appropriate position is available. In the alternative those teachers may be offered a teaching position out-of-field.
+CFEA Contract July 1, 2005 - June 30, 2008
+16
+ARTICLE XVII	- REDUCTION IN FORCE
+A.	Reduction
+1.	Board Rights
+Upon the recommendation of the Superintendent the right to reduce the size of the instructional staff work force is vested in the Board. The Association shall be notified in writing five (5) days before the School Board acts upon the Superintendent’s recommendation.
+2.	Definition
+Any reduction in the number of district-wide positions in one or more teaching areas, which would result in one or more employees being laid off.
+B.	Order of Reduction
+Reductions shall be announced and take place as follows:
+1.	Annual Contract employees shall be laid-off before continuing contract or professional service contract employees.
+2.	When annual contract employees are to be laid-off the criteria shall be:
+a.	Certification
+b.	Subject area experience within the district
+c.	District-wide seniority
+3.	Non-renewal of an annual contract employee or employee termination, not as a part of an announced reduction in force, shall not be construed to be a reduction in force.
+4.	Continuing contract and professional service contract employees shall be subject to lay-off only after all possible reduction has occurred in annual contract employees.
+5.	When Continuing or Professional Service contract employees are laid-off, the criteria shall be:
+a.	Certification
+b.	Subject area experience within the district
+c.	Di strict-wide seniority
+6.	Employees retained must be certified for the position held or currently working toward certification.
+C.	Recall
+1.	Recall List
+Employees who have been laid-off shall be placed on a recall list for a period of one (1) year. Employees who accept another position in the unit shall be removed from the recall list.
+2.	Notice of Recall
+The Board shall give notice to employees on the recall list before hiring a new employee. Notice shall be sent by certified mail or by other confirmed means to the employee address shown in personnel department records. Employees must notify the Board of address changes. The notice will specify the position being offered. Employees shall be recalled in inverse order of lay-off.
+3.	Response to Notice of Recall
+Employees must respond to a notice of recall within ten (10) days after the notice is received by sending a letter by certified mail (or by other confirmed means) to the Board stating that the employee accepts or rejects the position offered.
+4.	Loss of Recall Rights
+If an employee does not respond within ten (10) days as provided above, the employee shall lose all rights to recall and shall be deemed to have voluntarily resigned, unless the employee can demonstrate an emergency.
+CFEA Contract July 1, 2005 - June 30, 2008
+17
+5.	Acceptance
+If an employee is certified and meets the other qualifications established for the position, the employee shall take the position offered or decline to take said position.
+6.	Final Offer of Recall
+If the position offered is declined, the employee shall have waived his/her right to the position offered and shall remain on the preferential hiring list until a second position for which said employee is certified and qualified is offered. If the employee declines the second offer, no further offer need be made, and the employee shall lose all right to recall.
+7.	Certification
+Employees are not required to accept positions for which they are not certified, and the Board incurs no obligation to offer such positions to employees. Teachers who hold more than one certification shall be entitled to positions other than the one for which they were laid-off subject to the lay-off criteria.
+8.	Restored rights
+Upon reemployment, all rights to salary, fringe benefits, and seniority shall be fully restored.
+9.	Continuation of Benefits
+Laid-off teachers may pay the total premium(s) for health, life, and any other benefits for a period of eighteen (18) months.
+ARTICLE XVIII	- NEW EDUCATOR TRAINING - NETVPEER COACH
+A.	Notice
+When a peer coach position becomes available, employees at the worksite will be notified.
+B.	Selection
+Selection shall be made from within the building where possible or through the office of teaching and learning if the position must be filled on a system-wide basis, temporarily or permanently. Qualified volunteers may apply for and be considered for the position of peer coach. In reviewing the qualifications of volunteers, the following criteria roles and responsibilities of peer coaches shall be considered.
+C.	Selection Criteria
+1.	PSC/CC Teachers with at least 3 years in the District
+2.	Is accomplished in the use of listening techniques, reflective questioning, collaborative planning, reflection and the use of case studies.
+3.	Understands the content requirements of the Charlotte County NET Program.
+4.	It is highly recommended that the peer coach has successfully completed one of the following activities: Clinical Educator, Peer Teacher, or Collegial Coaching Training.
+D.	Roles & Responsibilities
+1.	Provides collegial and technical support to program participant.
+2.	Participates in professional development activities, which support the coach’s role.
+3.	Meets regularly with participant to support his/her development by providing instruction, feedback and counseling as well as recommending/providing resources.
+4.	Attends support team meetings.
+5.	Gives guidance in effective instructional practices and in making everyday decisions required in the classroom.
+6.	Models effective teaching behaviors.
+7.	Maintains a professional attitude toward all aspects of teaching at all times.
+8.	Maintains a Peer Coach Log.
+CFEA Contract July 1, 2005 - June 30, 2008
+18
+9.	Participates in annual NET Program Review.
+10.	Is not a participant in the teacher’s evaluation process.
+E.	Seniority
+If two or more eligible applicants are equally qualified according to the criteria stated in Section B above, seniority shall be the deciding factor.
+F.	No Qualified Volunteers
+If no qualified volunteers are available, the Board shall reserve the right to assign a qualified teacher from among the total certified bargaining unit staff.
+G.	Supplemental Pay
+Peer coaches will receive supplemental pay as provided in the salary-negotiated schedule.
+ARTICLE XIX	- LEAVES
+No leave granted under this Article may be used for Association purposes.
+A.	Sick Leave
+1.	Purpose
+Sick leave may be used only by an employee who is unable to perform his/her duty because of injury or illness or because of illness or death of their father, mother, brother, sister, husband, wife, child, or other close relative or member of his/her own household.
+2.	Accrual
+a.	Each employee on a full-time basis shall be entitled to four (4) days of sick leave as of the first day of employment of each contract year and shall thereafter earn one (1) day sick leave for each month of employment which shall be credited to the employee at the end of that month and which shall not be used prior to the time it is earned and credited to the employee. If any employee terminates his/her employment before he/she has earned the four (4) sick days available to him/her, the Board may withhold the average daily amount for sick days used but not earned by the employee. No employee shall earn more than one (1) day of sick leave times the number of months of employment during the year of employment. Such leave shall be cumulative from year to year. There shall be no limit on the number of days of sick leave an employee may accrue except that at least one-half (1/2) of accumulated leave must be earned in this district. Whenever the Board hires an employee from another Florida district, that employee may transfer sick leave from that district at the same rate they earn sick leave from Charlotte County Public Schools. Employee must provide documentation from the previous district to the payroll department.
+b.	Transfer of Sick Leave
+A district employee may authorize a spouse, child, parent, or sibling who is also a district employee to use sick leave that has accrued to the authorizing employee. The recipient may not use the donated sick leave until all of his/her sick leave has been depleted, excluding sick leave form a leave pool, if the recipient participates in a sick leave pool. Employees shall submit an initial request for a specific number of hours. Thereafter, additional requests may be submitted based on the number of hours needed. Unused sick leave shall be returned to the donating party.
+Donated sick leave shall have no terminal pay value.
+3.	Notice
+Any employee who finds it necessary to be absent from his/her duties because of injury or illness shall notify his/her principal, if possible, the day before or at least one (1) hour before the beginning of the workday on which he/she must be absent.
+4.	Claims
+Claims for sick leave must be filed in writing within five (5) workdays
+CFEA Contract July 1, 2005 - June 30, 2008
+19
+following the employee's return from sick leave. The written claims must set forth the day or days absent, that such absence was necessary, and whether the employee is entitled to paid sick leave.
+B.	Family Medical Leave
+1.	An employee who applies for leave under the Family Medical Leave Act may elect to retain no more than five (5) days of accumulated sick leave.
+2.	Maternity Leave
+Maternity leave without pay may be taken by any employee who is physically disabled by reason of pregnancy. Employees on maternity leave are entitled to return to work when they are no longer physically disabled. At the request of a pregnant employee, maternity leave of up to a maximum period of one (1) year shall be granted without regard to disability. As with other physical disabilities, sick leave days may be used when a pregnant employee is physically disabled.
+C.	Illness-in-Line-of-Duty
+Any employee shall be entitled to illness-in-line-of-duty leave when he/she has to be absent from his/her duties because of personal injury received in the discharge of duty or because of illness from any contagious or infectious disease, other than the common cold, contracted in school work. Leave of the employee shall be authorized for a total of not to exceed ten (10) days during any school year for illness contracted or injury incurred from the causes described above. However, in the case of sickness or injury occurring under such circumstances as in the opinion of the Board warrant it, additional emergency sick leave may be granted out of local funds for such term and under such conditions as the Board deems proper. Benefits shall be coordinated between this provision, Workers' Compensation insurance, and the Sick Leave Bank, according to provisions agreed to by the Board and FEA. The use of illness-in-line-of-duty leave or emergency sick leave shall result in no reduction of the employee's accumulated sick leave. Employees claiming benefits under this provision must file a claim on the appropriate form provided by the Board within five (5) working days following their return to work. The Board shall approve such claims and authorize the payment thereof if the Board is satisfied that the claim correctly states the facts, and that such claim is entitled to payment in accordance with the provisions herein and Section 231.41, Florida Statutes.
+D.	Personal Leave
+1.	With Pay
+Employees may take up to six (6) days personal leave with pay, chargeable to sick leave, if approved by the superintendent, subject to the following conditions:
+a.	A written request for personal leave must be submitted to the principal at least two (2) workdays before the leave would begin. The reason for the leave does not have to be stated.
+b.	Any employee may reserve through non-use one (1) personal leave day to be used for bona fide emergency reasons, subject to the approval of the Superintendent. The determination of the Superintendent shall be final as to whether payment shall be made for said day. Said leave day, if utilized by the employee, shall require no prior approval other than that notice which can reasonably be expected under the circumstances. Emergencies such as canceled airline flights with no opportunity for rescheduling, or major weather conditions such as flood or hurricane, can be acceptable based on the facts of the situation and the proof submitted by the employee. In all cases where this section is involved, acceptable verifiable proof is required in order for consideration for payment to be made by the Superintendent. If such day is not used as called for herein, it may be used
+CFEA Contract July 1, 2005 - June 30, 2008
+20
+as a personal day as provided in paragraph one (1) above.
+c.	Personal leave with pay is non-cumulative.
+d.	Personal leave shall not be used the day before or the day following a holiday or vacation period without the express consent of the principal or immediate supervisor. The principal may waive the two-(2-) day advance notice requirement. Approvals or rejections by the principal shall be tentative, and final approval or rejection must be made by the Superintendent.
+e.	Personal leave may not be used for days when an employee is receiving consulting fees or other compensation.
+2.	Without Pay
+a.	Personal leave without pay, not exceeding five (5) days, may be granted by the Superintendent.
+b.	The Superintendent may recommend that the Board approve personal leave of up to one (1) year where the leave seems warranted and will not create disruption within the school program.
+c.	Personal leave shall not be granted to an employee for the purpose of accepting any other employment. If an employee accepts other employment during a personal leave, the Board shall have the option to continue the leave or recall the employee to work by canceling the leave.
+3.	Limitations
+Any request for personal leave may be denied if the granting of such leave would disrupt the normal operation of a school or if personal leave requests exceed ten percent (10%) of a school's staff. Requests for extension of personal leaves may be granted or denied at the discretion of the Board.
+E.	Sabbatical Leave
+Sabbatical leave may be approved by the Board under the following conditions:
+1.	Eligibility
+After three (3) consecutive years of satisfactory service in Charlotte County, an employee may apply for a school year's leave of absence for the purpose of professional advancement.
+2.	Educational Preference
+First consideration for sabbatical leave shall go to those applicants seeking professional advancement through graduate study.
+3.	Half Pay
+A person granted sabbatical leave may receive up to one-half (1/2) the contractual gross monthly salary which would be paid to him/her if he/she were not on sabbatical leave. Any employee granted sabbatical leave shall be required to sign a voluntary deduction/garnishment form and/or promissory note and/or contract to repay as per the option of the Board, which shall then take effect if said employee does not fulfill the conditions of the sabbatical leave as contained herein.
+4.	Reinstatement
+Sabbatical leave of absence is not to be considered a termination or breach of employment. If the employee's course of study while on sabbatical is directly related to his/her work responsibility, he/she shall be returned to the same building and department he/she was in before going on sabbatical if he/she makes such a request in writing at the time he/she applies for the leave.
+CFEA Contract July 1, 2005 - June 30, 2008
+21
+Otherwise, he/she shall be returned from such leave in compliance with "return from leave of absence" provision. The period of such leave shall count as regular service for the purpose of retirement. However, the leave period does not apply to movement on the salary schedule or accrual of vacation or sick leave.
+5.	Applications for Leave
+Applications for sabbatical leave must be filed with the Superintendent no later than four (4) calendar months prior to the beginning of the semester during which the leave would commence.
+6.	Obligation to Return
+All employees granted sabbatical leave must sign contracts for the school year following the expiration of their leave. Failure to return from sabbatical leave will require participant to refund salary and the cost of benefits paid for term of leave.
+7.	Limitation on Number of Leaves
+The number of sabbatical leaves granted per year will be determined by the School Board but shall not exceed one percent (1%) of the total number of employees.
+8.	Selection Process
+Applications shall be considered by the Board and the selection made on the basis of the following criteria:
+a.	Past service to the Charlotte County School System
+b.	Potential for future contributions to the Charlotte County School System c. Qualifications and aptitude for graduate study or other professional improvement
+d.	As long as all qualifications are met by the applicant and the quota of one percent (1%) is not exceeded, leave shall be granted unless in the judgment of the Board the economic condition in the district for the sabbatical year would not warrant such an expenditure.
+9.	Confirmation
+Each employee applying for sabbatical leave to attend college must file, with his/her application, detailed information as to the type of college work anticipated for approval of the Board. Each employee on sabbatical leave shall earn not less than the number of hours credit required of the average student enrolled at that institution taking graduate work for an advanced degree. A record of all credits earned shall be filed in the superintendent's office at the end of each semester or school term. Should the Board have evidence at any time that the employee is not earning the required semester hours or that he/she is regularly employed by another school system or agency or that he/she is violating his/her agreement in obtaining sabbatical leave, the salary payments may be discontinued. Any overpayments shall be repaid.
+F.	Professional Leave
+Professional leave is leave granted for the purpose of improving the job skills of an employee in the field of the employee's certification or in a field in which the employee has been assigned and is working. Such leave must be of direct and immediate benefit to the Charlotte County schools. The following conditions may be applied if necessary:
+1.	Summer Session Scheduling Problems
+a.	If summer classes to be attended by an employee begin prior to the close of the post-planning period, the employee, if unable to schedule otherwise, may be released during the post-planning period if he/she has completed all requirements for closing school.
+CFEA Contract July 1, 2005 - June 30, 2008
+22
+b.	If summer classes to be attended by an employee begin prior to the last day of student attendance, the employee shall be released upon presentation of written evidence that he/she will not be permitted to enroll late for those summer classes which are part of a degree program or certification requirements without academic penalty. Payment may be made upon authorization by the Superintendent.
+2.	Pre-School/Post-School Schedule Conflicts
+The superintendent may authorize professional leave with compensation during pre-school or post-school work periods if the planned leave activity conflicts with the work schedule.
+3.	Professional Leave Without Compensation
+The Superintendent may authorize professional leave without compensation during the school year. No professional leave shall be granted at one time for a period greater than one (1) year. Automatic renewals of leave shall not be allowed. A new application for leave must be filed at the expiration of leave, and a new leave may be granted at the discretion of the Board.
+G.	Military Leave
+1.	Purpose
+Military leave shall be granted without pay, except as provided below, to an employee of the Board who is required to serve in the Armed Forces of the United States or this state in fulfillment of obligations incurred under selective service laws or because of membership in reserves of the Armed Forces or National Guard and may be granted at the discretion of the Board, without pay, to any employee volunteering for military duty.
+2.	Reinstatement
+An employee granted such leave for military service shall upon verification of the tour of duty be returned to employment without prejudice, provided application for reemployment is filed within six (6) months following the date of discharge or release from active military duty and provided further that the Board shall have a reasonable time, not to exceed forty-five (45) days, to reassign the employee to duty in the school system. Military leave shall not be counted as years of service toward a continuing contract or professional service contract or for pay purposes. A reasonable effort shall be made to expedite reemployment in less than forty-five (45) days.
+3.	Reserves and National Guard
+All employees who are commissioned reserve officers or reserve enlisted personnel in the United States military or naval service or members of the National Guard shall be entitled to a leave of absence from their respective duties without loss of pay time or efficiency rating on all days during which they shall be engaged in field or coast defense exercise or other training ordered under the provisions of the United States military or Navy Training Regulations for such personnel when assigned to active duty, provided that leaves of absence granted as a matter of legal right under the provisions of this section shall not exceed seventeen (17) days in any one annual period.
+4.	Beginning September 12, 2001 all full-time regular employees who are reservists/Florida National Guard called to full-time Federal or State military service and are unable to complete contractual obligations to the Board shall be paid according to the salary schedule plus supplements and benefits for the first thirty (30) days of service.
+Thereafter, any such reservists shall have his/her total gross military pay
+CFEA Contract July 1, 2005 - June 30, 2008
+23
+supplemented up to the amount he/she was earning on the salary schedule plus supplements and benefits at the time they were called to active duty.
+Failure to return upon discharge from military leave will require participant to refund salary and the cost of benefits paid for term of leave.
+H.	Duty Leave
+1.	Purpose
+Duty leave may be granted to an employee by the Board for the purpose of short-term, temporary absence from the regular duty and place of employment of the employee.
+2.	Requests for Leave
+Employees applying for duty leave must file a complete application on an authorized form and submit said form in a timely fashion to the principal who shall recommend approval or denial of such leave to the Superintendent. The Superintendent shall approve or deny the request. If the Superintendent denies the request, the employee may appeal to the Board.
+3.	Pay
+Employees on duty leave shall receive their regular daily rate of pay. Expenses may or may not be paid at the discretion of the Board. Duty leave shall not be subtracted from sick leave.
+4.	Confirmation
+Employees who receive duty leave shall, if asked, be required to submit detailed information as to the nature and purpose of the leave and subsequently what educational activity took place that was of direct benefit to the Charlotte County schools as well as how that benefit will result in improved program implementation in the Charlotte County schools. Valid duty leave reasons include workshops, study courses, school surveys, and, in some instances, professional meetings.
+I.	Judicial Leave
+1.	Purpose
+Any employee who is called to serve as a member of a jury panel or is subpoenaed as a witness may be granted leave of absence with pay upon approval of the Superintendent.
+2.	Pay and Fees
+Juror's pay may be retained by the employee. Witness fees or expenses reimbursed by the court for travel, meals, and lodging shall be turned over to the Board in all cases where such expenses are paid by the Board. Otherwise, such fees may be retained by the employee.
+3.	Exceptions
+In no case shall judicial leave with pay be granted for court attendance when an employee is the defendant or is engaged in personal litigation unless such actions are a result of an act performed by the employee as part of his/her official duties as an employee. Judicial leave with pay may not be taken by employees who are suing the Board.
+4.	No Accrual
+Judicial leave shall not be accruable to an employee.
+J.	Insurance
+Any employee granted a leave of absence as provided herein shall be entitled to the opportunity to continue insurance coverage in existing school programs during the leave, provided that the premiums for such insurance coverage shall be paid by the employee according to procedures developed by the Board.
+K.	Return From Leave of Absence, Ten Weeks or Less
+Notice of intent to return is not required. Returning employees will be reinstated to
+CFEA Contract July 1, 2005 - June 30, 2008
+24
+their former position.
+L.	Return From Leave of Absence, Longer Than Ten Weeks
+1.	Annual Contract Employees
+a.	Reinstatement After Notice
+If the returning employee first notifies the Board at least ten (10) weeks in advance that he/she intends to return at the end of the leave, the employee will be employed in the first available position for which he/she is qualified.
+b.	Reinstatement Without Notice
+If the returning employee has not notified the Board at least ten (10) weeks in advance that he/she intends to return at the end of the leave, the employee forfeits all reinstatement rights and may be considered for subsequent employment to the same extent as other applicants.
+2.	Continuing Contract and Professional Services Contract Employees
+a.	Reinstatement After Notice
+If the returning employee has at least ten (10) weeks in advance notified the Board of intent to return, the employee will be reinstated to his/her former position if it is vacant. If that position is not vacant, the employee will be employed in a similar position and will have first choice of returning to his/her former position if it later becomes vacant.
+b.	Reinstatement Without Notice
+If the returning employee has failed to notify the Board ten (10) weeks in advance that he/she intends to return, the employee will be employed in the first available position for which he/she qualifies.
+c.	Reinstatement After Extension With Notice
+If an employee requests that a previously granted leave be extended so that the total leave exceeds one (1) year and the employee at least ten (10) weeks in advance has notified the Board of intent to return at the end of the leave, the employee will be employed in the first available position for which he/she qualifies.
+d.	Reinstatement After Extension Without Notice
+If an employee to whom an extension of leave has been granted as described in paragraph c above fails to notify the Board at least ten (10) weeks in advance that he/she intends to return at the end of the leave, the employee forfeits all reinstatement rights and may be considered for future employment to the same extent as other applicants.
+3.	Replacement Employee(s)
+The employee replacing a continuing contract or professional service contract employee who is on leave of absence longer than ten (10) weeks shall be informed in writing that the employee on leave shall return to his/her previous position if no other like vacancy exists and if notice has been given by the returning employee as provided in paragraph 2, a above. All parties involved will be informed in writing accordingly when leave begins and the replacement is hired. The replacement employee's assignment shall be considered permanent pending satisfactory performance unless there is no vacancy in a like position for the returning employee. In that event the replacement employee shall forfeit the position.
+4.	Leave Longer Than Ten Weeks
+Employees on leave for longer than ten (10) weeks shall be contacted by the School Board through certified mail no later than April 1 as to their intent to return for the next school year. Employees who do not respond by May 15 shall be considered to have tendered their resignation. Employees on leave
+CFEA Contract July 1, 2005 - June 30, 2008
+25
+shall be responsible for insuring that the School Board has a correct address. The Superintendent shall make exceptions only for serious extenuating circumstances.
+M.	Sick Leave Bank
+The Sick Leave Bank, School Board Rule 6.911 shall not be changed without prior notice to the Association and negotiation of the impact of any changes made.
+ARTICLE XX	- COMPENSATION
+A.	Salaries
+The negotiated salary schedules will be listed annually in the district’s Salary Schedule Book.
+B.	Supplements
+The negotiated supplement amounts will be listed annually in the district’s Salary Schedule Book.
+A list of those persons selected by the principal for supplemented duties shall be posted in the faculty lounge within ten (10) days prior to School Board approval. The following guidelines shall be adhered to in the administration of supplements: 1. Supplements are generally for extra-duty assignments outside the regular day.
+2.	No more than four (4) supplements may be granted to any one employee without the written approval of the Director of Human Resources. FEA will be notified with the names of any people receiving more than four (4) supplements.
+3.	An employee assigned the athletic director supplement shall not be eligible to receive the athletic business manager supplement.
+4.	During the 2005-06 school year the Coaching Supplements shall be assigned to Groups ranging from I to IX. and indexed to the base teacher salary. During the same year, all Academic/Club Supplements shall receive a 3.75% increase.
+5.	During the 2006-07 school year all Academic/Club Supplements shall be placed in a group and indexed to the base teacher salary, During the same year, a longevity pay system shall be implemented for all supplemented positions.
+6.	No individual currently receiving a supplement shall receive less than their 2004-05 supplemental pay. At such time when the indexed rate of pay exceeds the current rate of pay, said individual will be placed on the new indexed amount.
+C.	Experience Credit
+Upon written verification, all prior teaching or related experience shall be credited. Written verification of such prior experience or service must be received within sixty (60) days after employment. Verification received after sixty (60) days will not be considered for pay purposes for that school year but will in no way preclude its use in subsequent years. Any employee who works one (1) day more than fifty percent (50%) of a designated work year shall receive credit for a full year of experience. The handbook entitled “Non-degree Part-time/Full-time Vocational Instructional Personnel Employment/Certification Handbook” (adopted 2/10/98) is incorporated as part and parcel to the collective bargaining agreement.
+Committee to be established to examine placement on salary Schedule for R.O.T.C. instructors - All current employees to remain at their present placement, notwithstanding step increases and across-the-board raises.
+D.	Advanced Degrees
+Adjustments for advanced degrees shall be made upon submission by the teacher of official transcripts. These adjustments shall be included in the first paycheck practicable following submission of the transcripts and shall be paid to the date the degree was conferred within the fiscal year. Such transcripts shall be submitted within ninety (90) days or any retroactive payment shall be reduced pro-rata by each day that such transcripts are not received.
+CFEA Contract July 1, 2005 - June 30, 2008
+26
+E.	Student Teachers
+Participation in programs of student teaching in cooperation with teacher training institutions is a desirable role of members of the profession. The regular employee is at all times responsible for the class and is to see that the quality of instruction does not suffer. Each employee who is asked by the Board to work cooperatively with representatives of teacher training institutions has the final determination as to his/her acceptance of an intern teacher. Employees shall receive the compensation offered by the university unless otherwise stipulated by the cooperating university.
+F.	Absences
+Deductions for daily absences not covered by paid leave will be determined by their regular hourly rate.
+G.	Holidays
+Paid holidays shall be provided to all employees on an equitable basis. Employees shall earn paid holidays according to the following formula: Days of Employment Paid Holidays 180 -216	6	days
+217 -230	7	days
+231 -250	8	days
+251+	11	days
+In order to be eligible for a paid holiday, an employee must be at work or on paid leave at least one day in the pay period before and at least one day in the pay period after the paid holiday.
+H.	Terminal Pay for Accumulated Sick Leave
+The Board shall provide terminal pay for accumulated sick leave to all employees upon the employee's retirement through an approved Florida retirement system or Social Security or to the employee's beneficiary if service is terminated by death. Such terminal pay may not exceed an amount determined as follows: During the first three (3) years of service, the daily rate of pay multiplied by thirty-five percent (35%) times the number of days of accumulated sick leave; during the next three (3) years of service, the daily rate of pay multiplied by forty percent (40%) times the number of days accumulated sick leave; during the next three (3) years of service, the daily rate of pay multiplied by fifty percent (50%) times the number of days of accumulated sick leave; and, during and after the thirteenth year of service, the daily rate of pay multiplied by one-hundred percent (100%) of the number of days accumulated sick leave.
+Beginning December 18, 2001, the parties agree to participate in a “Special Pay Plan” for terminal pay as administered by Bencor. The terms and conditions shall be governed by the agreement between the Charlotte County School Board and Bencor dated December 18, 2001. Any changes shall be subject to negotiations with the CFEA.
+I.	Mileage, Meals, and Rates Per Diem
+1.	Employees authorized to use their privately owned vehicle for approved travel shall be paid at the IRS designated rate as of January of each calendar year.
+2.	Employees who are assigned to more than one (1) school per day shall be reimbursed for the mileage driven between schools for actual miles driven. Such mileage reimbursement will not include routine travel to and from the assigned school and the employee's residence. Employees shall also be reimbursed for mileage when attending in-service training or when assigned to temporary duty elsewhere.
+3.	Pay for out of county meals is as follows
+a.	Breakfast - $5.00
+b.	Lunch -	$8.00
+CFEA Contract July 1, 2005 - June 30, 2008
+27
+c.	Dinner- $18.00
+4.	When traveling overnight an employee may elect to receive a per diem rate of $80.00 or if actual expenses exceed $80.00, the amounts for meals, plus actual expenses for lodging at a single occupancy rate must be substantiated.
+J.	Pay Checks
+1.	Pay Options
+All new employees, and all current employees paid on Option I, will be paid in 26 equal checks. Current employees on pay Option II will be allowed to remain on this option or convert to pay Option I; however, current employees on pay Option I will no longer be permitted to change to pay Option II.
+a.	Option I
+Annual salary will be divided into twenty-six (26) equal paychecks.
+b.	Option II
+Employees will receive paychecks every other week for all time actually worked.
+c.	Employees shall have the option to select automatic payroll deposit.
+2.	Payday
+Payday will be every other Wednesday. However, when a regular payday is not a regular workday for the bargaining unit, paychecks will be issued on the last workday before the regular payday. For employees paid according to Option II, this may require that the pay be estimated. Overpayment or underpayment adjustments will be made in the following paycheck. The last paycheck of the year shall be made available to the employee at their job site on the normal payday.
+3.	Pay Dates
+a.	Beginning of the year pay checks - First equal pay checks for 196-day employees will be distributed not later than thirteen (13) workdays from their first day of work. If the thirteenth day falls on a holiday or weekend, checks will be distributed on the last workday prior to the weekend or holiday. (26 equal pay employees only)
+b.	End of the year pay checks - 196-day employees will receive all but two (2) of the remaining paychecks on the last student day. The final two (2) paychecks will be distributed no later than ten (10) calendar days after the last-teacher day. If the tenth day falls on a holiday or weekend, checks will be distributed on the last workday prior to the weekend or holiday. (26 equal pay employees only)
+c.	Summer Pay Checks
+Summer paychecks for employees shall be paid on the last student day of the school year.
+d.	Summer School Holiday Pay
+Pay for the holiday shall be included in the last pay check for summer school.
+K.	Educational Compensation
+Eligible employees who achieve further education in keeping with school system requirements and goals shall receive compensation as follows:
+1.	Advanced Degree
+Employees who attend a certified, state-recognized, accredited college or university for the purpose of achieving an advanced degree in the employee's field of certification or that directly relates to the employee's instructional responsibilities shall, at the option of the Superintendent, be compensated as follows:
+a.	Upon completion of one-half of the course requirements and the submission of acceptable proof of such completion, a total sum of $500 will be paid to the employee.
+CFEA Contract July 1, 2005 - June 30, 2008
+28
+b.	Upon satisfactory completion of the course requirements and the submission of acceptable proof of such completion, the employee's salary will be adjusted to the appropriate level of the salary schedule to reflect such achievement if the employee also:
+(1)	Initiates the advanced degree program after full-time, regular employment in the Charlotte County School System.
+(2)	Places on file with the executive director for instruction a copy of the approved degree program from the college or university attended by the employee
+(3)	Satisfactorily completes the course requirements so that an effective contribution can be made to the educational program of the Charlotte County schools
+2.	In-Field Expertise
+Employees who attend a certified, state-recognized, accredited college or university for the purpose of achieving in-field expertise directly related to the employee's instructional responsibilities shall be compensated as follows: a. Upon satisfactory total completion of an approved course, the employee shall receive reimbursement, for tuition expenses only, up to a total maximum payment of $500 per employee over the life of this contract.
+b. In order to receive reimbursement, the employee must satisfy the following requirements:
+(1)	Request in writing, and receive, approval to attend a course from the appropriate assistant superintendent for instruction and the Superintendent, prior to enrolling or attending a course offering. In extenuating circumstances, the request for approval may be submitted as late as the third week after the course has started. Approval will be at the discretion of the assistant superintendent for instruction and the Superintendent.
+(2)	Show to the satisfaction of the assistant superintendent for instruction that (a) A course request is directly related to the employee's instructional responsibilities
+(b)	A course request is not being made to fulfill any other requirement for which compensation will be paid under the Educational Compensation Plan
+(c)	A course request is not being made to receive payment to fulfill initial certification, re-certification, or other upgrading required by the State of Florida to maintain a teaching certificate
+(3)	Submit a written request for tuition reimbursement to the office of the assistant superintendent for instruction showing satisfactory evidence of successful completion of the course and a paid receipt for the tuition expense. The Superintendent shall have the final authority to approve or disapprove any request made under this program. Disapproval, if made, shall not be arbitrary or capricious. Disapproval may not be grieved under Article XXIV.
+L.	EXTRA DAYS OF EMPLOYMENT
+Employees required to work more than 196 days shall be compensated for such time according to their regular hourly rate.
+M.	TEACHER INDUCTION PROGRAM (T.I.P.)
+Employees who are hired two (2) weeks or more prior to the first duty day for employees beginning their first year of employment in the district, are required to attend the four (4) day in-service program in order to complete the T.I.P. program. Exceptions to attendance shall be granted based upon individual housing situations, travel difficulties, department and program conflicts, and/or new hire related
+CFEA Contract July 1, 2005 - June 30, 2008
+29
+conditions. In lieu of participating in the four (4) day T.I. P. program or any portion thereof, employees must complete the program within their regular one hundred ninety six (196) day work year outside of the duty day and shall be paid at the hourly inservice rate of pay for said attendance.
+N.	Summer School
+Summer school employees shall receive salary proportional to their salary during the regular school year. That rate is determined as follows:
+The regular annual salary shall be divided by 196 days and the product divided by seven (7) hours to yield an hourly rate. That rate will be multiplied by the number of teaching hours assigned during summer school, and the result will be the employee's summer school salary. Once the hourly rate of pay is established, that rate shall be fixed for the duration of the summer program and will not change in the event the summer program is in operation during two separate fiscal years. Employees will continue to work hours in addition to scheduled classroom hours, as provided in this contract, without additional salary and shall be regarded as salaried exempt employees under the Fair Labor Standards Act.
+O.	Guidance Counselors
+Guidance counselors shall be paid on the instructional salary schedule at the step equaling their acceptable experience. The normal workday for guidance counselors shall be as specified in Article XIII.
+P.	Inservice Pay
+Instructional personnel inservice activities funded by the School Board will be paid at the rate of fifteen dollars ($15) per hour effective July 1, 2003.
+Q.	Attendance Incentive
+Teachers who use no sick leave during their regular contract year shall be paid an incentive by the first, regular teacher paycheck in August.
+10	months - $200
+11	months - $250
+12	months - $300
+Summer school shall not be considered part of a regular contract year.
+R.	ESOL/Reading Endorsement
+A one-time $1,000 supplement shall be paid for completion of the requirements for.the Reading Endorsement and/or completion of the requirements of 300 hours of inservice or fifteen (15) semester hours of ESOL training and/or graduate course work. Both the Reading and ESOL supplements may be paid within the same fiscal year.
+S.	Supplemental Positions
+Supplements shall be posted at the worksite and offered to interested and qualified teachers, then to qualified school staff prior to seeking outside applicants. All supplements are to be filled or not filled at the discretion of the principal.
+T.	Playoff Supplements
+Coaches/sponsors of teams and other groups representing a high school in events sponsored by the Florida High School Activities Association, and who, at the conclusion of the normal schedule of activities, proceeds to additional levels of competition (playoffs, etc.) shall receive compensation for the additional time spent in the amount of $78 per game in such expanded activities. This additional compensation shall also apply to groups that are directly involved in supporting the primary competitive team, such as the cheerleading sponsors and band directors.
+U.	Performance Appraisal
+Student performance is appropriate for grade level and subject matter based upon: 1. Professional Competencies for Teachers (0-5 years experience)
+2.	Professional Competencies for Teachers (6+ years experience) Implementation:
+CFEA Contract July 1, 2005 - June 30, 2008
+30
+a.	Teacher will select one (1) Accomplished Practice from either document based upon his/her experience level. Teacher will notify principal NO LATER than six (6) weeks from the first teacher workday as to their participation.
+b.	An initial meeting to agree upon performance appraisal criteria will occur at a mutually agreed time between teacher and principal/designee. The teacher will compile a portfolio of documentation to support attainment of the selected Accomplished Practice. In concert with the PDP midyear review, the portfolio will be reviewed and completion needs determined
+c.	The completed portfolio shall be submitted to the site administrator not later than six (6) weeks prior to the end of the work year.
+d.	The principal/designee will confer with teacher during appraisal conference to determine the completion of the Accomplished Practice. An annual amount of
+$50,000 will be used for this award. The total number of teachers who successfully complete an accomplished practice will be divided into the negotiated amount with the following limitations:
+Maximum award will be $1,000.
+Minimum award will be $50.
+Divisions will round to the nearest $5.
+Example 1:	If 600 teachers qualify, the award will be $50,000
+divided by 600 = $85.
+Example 2:	If 200 teachers qualify, the award will be $50,000
+divided by 200 = $250.
+Example 3:	If 30 teachers qualify, the award will be $50,000
+divided by 30 = $1,000 (maximum agreed)
+Example 4:	If 1100 teachers qualify, the award will be $50,000
+divided by 1100 = $50 (minimum agreed)
+Teachers who successfully completed the requirements shall receive payment in the last June paycheck.
+V. Five Percent (5%) Performance Pay Plan
+In accordance with Florida Statutes 1012.22 (1) (c) 2. and 1012.34 the parties agree that the Five Percent (5%) Performance Pay Plan shall be based upon the seven domains for the Florida Department of Education Educator Accomplished Practices for the Twenty First Century.
+The following conditions shall apply:
+1.	In-service training shall be made available for any individual who applies.
+2.	For individuals who applied previously, different key indicators and documentation must be provided each year.
+3.	Applications shall be reviewed by a committee comprised of equal numbers of members appointed by the CFEA and District. The committee shall review and recommend candidates for approval by the Superintendent.
+4.	The completed application packet must be submitted to the Human Resources Department no later than May 1st of each year.
+5.	In the event more than three percent (3%) of the instructional bargaining unit meet the requirements, the date of submission of the completed application will be used to determine the recipients of the 5% Performance Pay.
+ARTICLE XXI	- INSURANCE
+A.	Qualifications
+Employees who work less than 35 hours per week will be classified as part-time employees and will receive the following prorated contributions toward group hospitalization, life insurance, and flexible benefit plans:
+CFEA Contract July 1, 2005 - June 30, 2008
+31
+30 - less than 35 hours per week = 75% of full-time contribution 20 - less than 30 hours per week = 50% of full-time contribution Less than 20 hours per week = 0% of full-time contribution
+Part-time employees must contribute the balance of the required premium in order to receive any of the identified benefits. The Board's benefit contributions are forfeited if the employee does not contribute the remaining balance.
+Employees hired prior to the ratification of this contract will be considered to be fulltime regular employees if they are working not less than twenty (20) hours per week.
+B.	Group Hospitalization
+For the term of the contract the Board shall contribute toward the cost of group hospitalization insurance, as negotiated annually for all full-time employees. The Board's contribution is deemed waived if the employee does not enroll in the selected group hospitalization insurance plan.
+C.	Life Insurance
+1.	For the term of the contract the Board shall contribute as its total contribution the amount required to provide for each full-time employee a twenty thousand-dollar ($20,000) term life insurance policy.
+2.	In accordance with the Age Discrimination in Employment Act (A.D.E. A.), the following reductions will become effective October 1, 1988: Age at which reduction takes place Amount of Reduction
+At age 70	65	percent
+At age 75	50	percent
+At age 80	35	percent
+This will affect employees who turn 65 after October 1, 1988.
+D.	Continuation of Benefits
+Any employee granted a leave of absence, drawing from Workers Compensation, receiving disability benefits, or who is vested for retirement in a Florida retirement system but has opted to take a deferred retirement and is not actively working shall be entitled to continue insurance coverage during the time they are not actively at work, provided that the premiums for such insurance coverage shall be paid by the employee according to procedures developed by the Board and in conformity with any provisions for waiver of premium which may be in effect for such coverage. Retired employees shall have the right to continue group health insurance coverage for themselves and their dependents provided the premiums for such coverage shall be paid by the employee according to procedures developed by the Board.
+ARTICLE XXII	- EMPLOYEE RIGHTS AND RESPONSIBILITIES
+A.	Rights
+1.	Membership
+Membership of an employee in any employee organization shall be entirely voluntary, and there shall be no discrimination by either the Board or the Association against any employee because of membership or non-membership.
+2.	Privacy
+The private and personal life of an employee is not the appropriate concern of the Board except to the extent it may interfere with his/her responsibilities and effectiveness with students, parents, and/or a school.
+3.	Substitutes
+Employees shall not be required to arrange for substitutes in the event of their absence. Every effort shall be made to secure a substitute for an absent teacher. In the event a substitute cannot be found, a teacher may be required to cover a class during their planning period. This shall be done on an equitable basis so that all teachers share in such coverage. Teachers covering such classes shall be awarded
+CFEA Contract July 1, 2005 - June 30, 2008
+32
+compensatory time, which the teacher may use in lieu of sick leave or personal leave. Compensatory time must be used within a year of being earned. Only in emergencies shall the classes of an absent teacher be divided and placed into other teachers’ classes. The receiving teacher(s) shall also be given compensatory time for the time that such placement is implemented.
+4.	Reimbursement
+The Board agrees to spend up to $5,000 per year, $200 per occurrence, to reimburse any teacher whose personal property is destroyed or damaged during the performance of his/her assigned duties.
+5.	Employee Information
+Each individual employee shall have access to the following personal information:
+a.	Accumulated sick leave
+b.	Accumulated vacation leave
+c.	Salary
+d.	Certificate expiration date
+e.	Inservice credit
+This information shall be available upon request and will be provided annually no later than January 1.
+6.	Telephones
+Teachers shall have access to phones. Long distance calls are permitted only after approval by the building principal/designee.
+7.	Facilities
+a.	Faculty work areas and rest room facilities will be provided for the use of employees.
+b.	Reasonable effort will be made to provide each teacher with a permanent classroom or classrooms appropriate for the subject he/she is assigned to teach.
+8.	Interruptions
+It is necessary for interruptions to be made from time to time during the instructional periods for the efficient operation of the school. Principals will be advised to keep interruptions from maintenance, custodial, and intercom to a minimum.
+9.	Absences
+When an employee finds it necessary to be absent, he/she shall be responsible to notify the principal or immediate supervisor the night before or not later than one (1) hour prior to the time the employee is scheduled to report for duty.
+Emergencies may arise which make sufficient prior notice impossible, and exceptions shall be made in such cases.
+10.	Fund Raising Activities
+Charity drives and fund-raising activities conducted among students and employees should be held to a minimum. The building staff may review requests for charity drives and fund-raising activities and may advise the principal concerning such requests during a faculty meeting prior to the time the principal approves or denies the request. The principal will notify the employees of all approved charity drives and fund-raising activities.
+11.	Parking
+Parking areas shall be designated for employee use.
+12.	Access to Buildings
+When school is not in session, employees may be given access to their building with the approval of the principal.
+13.	In-service Education
+CFEA Contract July 1, 2005 - June 30, 2008
+33
+Participation in inservice education relating to the employee's job assignment offered during paid work hours may be made mandatory at the discretion of the employee's immediate supervisor. Participation in inservice education activities offered outside the workday is voluntary.
+a.	The district agrees to pay teachers the inservice rate and mileage for inservice that is required by their supervisor.
+b.	Required in-service is defined as workshops, seminars, or activities after the teacher’s contract duty day or year that he/she is required to attend.
+The teacher shall not be eligible for additional compensation for required in-service that occurs during the regular workday. The immediate supervisor or district administrator shall submit a memo to the department of staff development affirming the required attendance of the teacher at the inservice activity. A copy of the memorandum shall be provided to the teacher.
+c.	The teacher shall be advised in writing prior to participating in the in-service whether or not the activity will be compensated.
+d.	No payment shall be made for any inservice activity that may result in a negotiated supplemental contract payment, i.e. department chair, ESOL/READING, peer teacher, etc.
+e.	A teacher may decline to attend inservices that extend beyond their contract duty day or year, except as may be required by a Teacher Assistance Plan (TAP).
+f.	All newly hired bargaining unit members in the Charlotte County Public Schools who attend inservice activities beyond 197-day contract shall receive the in-service rate for hours in workshop attendance. New bargaining unit members will be notified of their report-to-work date.
+14.	Tentative Assignments
+Whenever possible, by May 15th of each year a tentative assignment of courses and grades to be taught in the following year will be made by the administration. The administration will attempt to keep changes to a minimum. Teachers shall be notified of any changes as soon as practicable.
+15.	Right of Representation
+If an employee is to be disciplined or dismissed, the employee shall have a right to have a representative present if he/she so desires. In emergency circumstances, the Superintendent may suspend the employee until a representative can be present. However, such suspension shall not be more than five (5) days, at the conclusion of which disciplinary action and/or dismissal shall take place with or without said representative who shall have been considered to have had ample opportunity to be present. By mutual agreement, said five (5) days may be extended.
+No employee shall be disciplined/discharged without just cause.
+16.	Academic Freedom
+Within the limitations of accepted Charlotte County curriculum guides and School Board Rules, instructional employees shall have the freedom to exercise professional judgment in planning learning experiences of their students and assigning grades. Such judgments shall be challenged only when the principal has determined the need for improved methodology and gives the reasons in writing. Disputes regarding the appropriateness of methodology shall be appealed directly to the Superintendent for resolution. Any further appeal, if made, would be filed at Level III of the Grievance Procedure. Each employee shall conduct his/her work in a manner consistent with the Code of Ethics of the Education Profession in Florida, Chapter 6B-1, Florida
+CFEA Contract July 1, 2005 - June 30, 2008
+34
+Administrative Code. Materials selected to support learning activities shall be chosen based on their contributions to students’ attainment of the objectives established for each course by the staff subject to the provisions of Chapter 233, Florida Statutes.
+17.	Student Grades
+The Superintendent and Association shall annually develop a schedule for the submission of grades by teachers to administration. The teacher planning days that follow each of the four (4) grading periods shall be used exclusively for grades and individual teacher planning. One (1) hour of each of these respective days may be scheduled at the discretion of the principal for other activities.
+18.	Charlotte EXCEL “Excel in Educating Leaders” PROGRAM
+The guidelines for this program shall be available on request.
+19.	Reprimands
+No instructional employee shall be reprimanded in the presence of students, parents, or colleagues except when the colleague may be in a representative capacity. This is not intended to prevent more than one administrator from being present at the reprimand in an official capacity.
+20.	Discipline
+a.	Should it become necessary to discipline an employee, it is the District’s intent to do so consistent with the concept of progressive discipline. This process includes as many as six (6) steps. Employees covered by this agreement may be disciplined for just cause in the following ways:
+•	Informal contact
+•	Verbal warning (site record)
+•	Letter of Instruction (district record)
+•	Written reprimand (personnel file)
+•	Suspension - with or without pay
+•	Demotion, involuntary transfer, or termination
+The concept of progressive discipline does not prevent the omission of one or more of the steps if immediate and/or stronger action is necessary.
+b.	All disciplinary actions shall be done in private.
+c.	When an allegation of wrongdoing or a complaint against an employee is investigated the employee shall be notified of the nature of the complaint and shall have the opportunity to seek representation prior to any investigatory meeting. The employee shall have an opportunity to respond to the allegations or complaint during the investigation. In a meeting for the record from which the employee believes that discipline may follow, the employee may request representation. When a request for representation has been made, no such meeting shall take place until a representative shall have the opportunity to be present. The employee shall have the opportunity to provide rebuttal witnesses prior to completion of the investigation.
+d.	A copy of a letter of instruction or written reprimand will be hand delivered to the employee by the management representative responsible for that reprimand. The employee’s signature indicates receipt only, not agreement with it.
+e.	If any employee who is to receive a letter of instruction or written reprimand is absent from work or cannot be located, a copy will be mailed to his/her last known address by certified mail, return receipt requested.
+f.	No verbal warning, letter of instruction or reprimand shall be issued based
+CFEA Contract July 1, 2005 - June 30, 2008
+35
+on unverifiable and/or anonymous information or complaints.
+21.	Complaint(s)
+No complaint or reprimand shall be placed in a teacher’s personnel file unless an investigation ensues and the complaint is substantiated. Teachers shall be notified of all complaints prior to the district initiating an investigation. Every effort shall be made to process parent/student concerns.
+a.	The parent shall be encouraged to talk with the teacher first.
+b.	If necessary, a conference with the parent, teacher, and principal shall be held. The teacher must be notified in advance of the conference.
+c.	In no case shall complaints or reprimands be placed in the file that are anonymous or are based on anonymous information.
+22.	Professional Service Contract
+At the discretion of the Superintendent, any teacher coming from another county in Florida with a Professional Service Contract (PSC) or Continuing Contract (CC), having successfully completed one (1) full year of teaching employment in the Charlotte County School District shall be placed on a PSC with the recommendation of the principal.
+23.	Test Security
+Classroom teachers shall have no responsibility for the centralized storing, administration, or collection of standardized test materials.
+24.	Attendance Reporting
+Classroom teachers assigned to direct instruction of students shall not be required to contact parent(s)/guardian(s) to determine the reason for a student’s absence.
+B.	Responsibilities
+1.	Evening Meetings
+Employee attendance at school-affiliated evening meetings is desirable and beneficial. Except for illness, professionally oriented course attendance, family situations, religious considerations or other emergencies, employees will be required to attend evening meetings which include open houses and any other evening sessions where parents visit classrooms.
+2.	Area Responsibility
+Any employee leaving his/her building or assigned supervisory responsibility must obtain the principal's or his/her designee's consent.
+3.	Safeguarding Funds
+Employees shall not be required to safeguard funds.
+4.	Pilot Programs
+Any employee voluntarily accepting a new position in a pilot program during the school year may be required to attend additional inservice orientations and work-study programs.
+5.	Record Keeping and Reports
+Employees shall be required to keep such records and prepare such reports as may be determined by the district to be necessary for the operation of the school system.
+6.	Fingerprinting
+Section 1012.32(3), F.S., requires that all employees shall be subject to a level 2 criminal background check every five (5) years. The statute also requires employees hired prior to 7/1/2004 and whose fingerprints have not been retained in the FDLE data base to be re-fingerprinted. The school district shall pay the costs of re-fingerprinting employees, storing employees’ fingerprints in the FDLE database, and for conducting a level 2 background check every five (5) years for each person who is required to meet level 2 requirements to be certified.
+CFEA Contract July 1, 2005 - June 30, 2008
+36
+Teachers whose fingerprints have not been retained (teachers employed prior to 7/1/2004), shall be re-fingerprinted as they apply for recertification. Teachers fingerprinted after 7/1/2004 (whose fingerprints are retained in the data base) will not have to be re-fingerprinted.
+C.	Mainstreaming and Inclusion
+The Board and the Association agree that the students in the Exceptional Student Education (ESE) program may be mainstreamed into regular classrooms. Students to be mainstreamed shall be assigned on an equitable basis.
+D.	Terms and Conditions of Employment Unique to Year Round Schools
+1.	Transfers
+Employees involuntarily transferred to a year round school or from a year round school shall not suffer a loss in regular salary for the contractual year. Any supplement(s) resigned shall be pro-rated from date of transfer.
+2.	Sick Leave
+Employees who work two (2) intercessions within a school year shall be awarded an additional sick leave day.
+3.	Intersession
+Vacancies shall be advertised within the school along with a deadline for submission of applications. Those employees whose current assignment is the same as the advertised vacancy shall be given priority in filling the available position. In the event that two (2) or more employees are qualified, seniority shall be the determining factor in the selection process.
+ARTICLE XXIII	- PAYROLL DEDUCTIONS
+A.	Association Dues
+1.	Authorization
+The Board shall deduct the dues and uniform assessments of the Association from the pay of any employee who authorizes such deductions in keeping with appropriate Florida statutes. The Association shall furnish to the Board a signed and completed dues authorization card that specifies that the dues to be deducted are as specified on a dues authorization certification list that will be forwarded to the Board by the Association with each request for individual or group deduction.
+2.	Board Held Harmless
+Said authorization card shall also contain a hold-harmless clause as follows: The Association and the employee whose name appears hereon do hereby mutually and severally agree that the Board shall be indemnified and held harmless against any and all claims, demands, suits, torts, or other form of liability that conceivably could arise out of or by reason of action taken or not taken by the Board in reliance on information supplied by the Association to the Board for the purpose of complying with this provision.
+3.	Changes
+It shall be the responsibility of the Association to keep the Board apprised of employee status changes and/or new members as such changes occur and to update the certification list every six (6) months from the date of first dues deduction in any school year.
+4.	Transmittal
+Dues collected by the Board through payroll deductions shall be transmitted to the Association not later than five (5) calendar days from the end of the pay period in which dues deductions were made.
+5.	Limitations
+Dues shall not be collected from an employee after termination of employment, nor shall partial dues be deducted from an employee in any payroll period in which
+CFEA Contract July 1, 2005 - June 30, 2008
+37
+the member's net earnings for that period, after other deductions, are less than the amount of dues to be collected.
+6.	Time of Request
+Dues deduction authorization requests shall be submitted to the Board by the tenth day prior to any pay period. If said authorization requests are not submitted on that date, said deductions shall be effective as of the following pay period.
+7.	Board Fee
+The Board shall have the right to assess a fee to be paid by the Association for dues deduction and uniform assessments. The fee amount will be negotiated between the parties at the option of the Board throughout the term of this contract.
+8.	Duration
+Dues deductions shall be in force and effect during the term of this contract.
+B.	Other Voluntary Deductions
+Upon receipt of signed written authorization from any employee, the Board will withhold specified amounts from the pay of such employee and, within ten (10) days or such other time as may be requested, will pay such withheld amounts for the following purposes:
+1.	Tax Sheltered Annuity
+Deductions will be paid to annuity companies already approved by the Board or to any new annuity companies designated by at least five percent (5%) of all employees of the Board.
+2.	Credit Union
+3.	Insurance
+Deductions will be made for insurance programs currently approved for payroll deduction and for such other programs as the parties designate.
+C.	Termination of Voluntary Deductions
+An employee may terminate voluntary payroll deductions at any time by giving written notice to the Board's payroll officer. Such notice shall become effective not later than ten (10) days after it is received by the payroll officer. The employee should also notify the credit union if such deductions are terminated. Some payroll deductions may be terminated only according to Internal Revenue Service regulations.
+D.	Termination of Association Deduction
+The authorization for Association dues deduction shall remain in effect until a written revocation from the Association is received by the Board. Termination of employment shall constitute a revocation. The dues deduction card must have appropriate language requiring employee to go back through the Association.
+E.	Equal Amounts
+Voluntary payroll deductions authorized by an employee will be deducted from each paycheck in equal amounts when it is practical to do so. If the employee's net wage in any pay check is not sufficient to pay the authorized deductions, no voluntary deductions will be made. If the employee then receives a second paycheck in the same month, double deductions will be made if the net wages are adequate.
+ARTICLE XXIV	- GRIEVANCE PROCEDURE
+A.	Exclusivity
+The right to process grievances, including but not limited to, the right to arbitrate shall be granted to the Association as the sole and exclusive bargaining agent and shall not be granted to any other employee or professional organization except as provided in F.S. 447.307. Nothing in this article shall be construed to prevent any employee from presenting their grievance. The Association will be given the opportunity to be present at any meeting calling for the resolution of a grievance.
+B.	Definitions
+CFEA Contract July 1, 2005 - June 30, 2008
+38
+Grievance - An allegation by a grievant that there has been a misinterpretation or misapplication of a provision of this contract
+Grievant - The Association or a member or members of the bargaining unit Days - A day on which an employee is or was working or scheduled to work For a grievant who does not work during the summer break, any workday of the Superintendent shall be considered a workday of the grievant for determining time limits for grievances occurring, but not resolved, before the start of the summer break.
+C.	Time Limits
+All stated time limits shall be the maximum time limits for grievance processing. In any grievance, each party shall be entitled to one (1) automatic extension of time up to a maximum of ten (10) days if a written request for an extension of time is submitted within the original time limit. Further extensions may be granted by mutual agreement at level one or two. The failure of a supervisor, principal, or other management representative to respond to a grievance with the time limits stated shall be considered a denial of the grievance at that level. The day a grievance occurred shall be counted as the first day. Actions or responses required may be taken any time before five o'clock (5:00) p.m. on the last day of any time limit or extension thereof. Failure of the grievant to comply with any time limit or extension thereof shall render the grievance untimely and shall be grounds for denial of the grievance.
+D.	Representation
+The grievant or the appropriate administrator involved may have representation at any level of the grievance procedure. Either party may be represented by an attorney at any level but must first give the other party two (2) days advance notice of their intent to be represented by an attorney.
+E.	Reprisal
+Neither the Board nor the Association shall take any reprisal against any grievant for filing, failure to file, or withdrawing a grievance at any time.
+F.	Filing
+Grievances must be filed by a grievant on the form provided by the Board within thirty (30) calendar days of the date on which the grievant knew, or should have known, of the action, or lack of action, that is the basis for the grievance. Grievance forms must be fully completed and filed with the principal or immediate supervisor who has authority to resolve the grievance. Grievances will not be prepared or processed by grievants during working hours except with the consent of the principal or Superintendent.
+G.	Meetings
+At the request of either party at any level, both parties shall meet in an effort to resolve the grievance.
+H.	Procedure
+Grievances that comply with the foregoing requirements shall be processed according to the following procedures.
+1.	Informal Level
+Before a dispute enters Level One, the grievant shall have thirty (30) calendar days from the time of the alleged incident to request a conference with the appropriate administrator to discuss and attempt to resolve the problem. This conference shall precede all other steps in the grievance procedure.
+2.	Level One
+Within ten (10) days of the receipt of the properly submitted grievance, the principal or immediate supervisor shall respond to the grievant in writing as provided on the grievance response form.
+3.	Level Two
+CFEA Contract July 1, 2005 - June 30, 2008
+39
+If the grievant is not satisfied with the disposition of the grievance at Level One or if no disposition is timely made, the grievant may appeal the grievance to Level Two by properly completing the appeal section of the grievance form and submitting it to the Superintendent within ten (10) days of the written response or lack thereof from Level One. Such appeal, if timely filed, shall be answered by the Superintendent within ten (10) days. If the grievant is not satisfied with the disposition of the grievance at Level Two or if no disposition is timely made, the grievant may appeal the grievance to Level Three.
+4.	Level Three - Arbitration
+The grievant may select either of the following options to reach a final resolution to his/her grievance. Once the selection is made, the grievant may not change the option.
+The following rules shall apply:
+a.	The grievant must complete and submit the arbitration appeal section of the district grievance form to the Superintendent within fifteen (15) days from the receipt of the disposition at Level Two or lack thereof.
+b.	The grievant must also file a request for arbitration with the American Arbitration Association (AAA) or the Federal Mediation and Conciliation Service (FMCS) within fifteen (15) days after submitting the appeal to the Superintendent as provided in paragraph a. above, and send a copy to the Superintendent and to the Association if the Association is processing the grievance for the grievant.
+c.	An arbitrator will be selected according to the procedures of the selected agency.
+d.	The costs for the arbitrator shall be borne equally by the Board and the Association if representing the grievant or by the grievant if not represented by the Association. If a party withdraws from arbitration, the costs associated with the arbitrator shall, at the option of the remaining party, be borne by the party withdrawing unless both parties agree mutually to withdraw, at which time costs shall be shared equally.
+e.	Either party shall be entitled to request a transcript of the proceeding at the requesting party's expense. The other party may purchase a copy of said transcript if it chooses to do so. If both parties purchase transcripts, the cost will be shared equally. If the arbitrator requests a copy, such copy shall be forwarded, and the cost shall be borne equally by the parties. If the Board first obtains a copy of the transcript and the grievant then obtains a copy pursuant to the Public Records Act, the grievant shall reimburse the Board for one-half of the Board's cost for obtaining the transcript. The parties may agree not to have the testimony recorded if such agreement is made in advance of any arbitration hearing.
+f.	No party shall present new evidence after Level Two without apprising the other party of such material at least two (2) days before the new evidence
+is submitted. If either offers new evidence, the other party may reconsider its position stated at Level Two.
+g.	The Arbitrator shall
+(1)	Hold a hearing with the parties within fifteen (15) days after the arbitrator has been chosen or as soon thereafter as the arbitrator can be available
+CFEA Contract July 1, 2005 - June 30, 2008
+40
+(2)	Establish reasonable rules of conduct for the hearing
+(3)	Inform the parties of said rules and procedures and conduct the meeting (4) Allow any party to submit post-hearing briefs on request, and determine a reasonable time for submitting such briefs
+(5)	Provide the parties with a written decision within fifteen (15) days after the close of the hearing or after the receipt of post-hearing briefs, if any, or as soon thereafter as the schedule of the arbitrator permits
+(6)	With permission of the arbitrator, the above times may be extended h. By mutual agreement the parties may submit documentary evidence and argument to the arbitrator and request that a decision be made without a hearing.
+i.	The arbitrator's decision shall include findings of fact, reasoning, and conclusions on issues submitted.
+j.	The arbitrator shall not have the power to add to, subtract from, or modify in any way any term or provision within this contract, nor shall the arbitrator have the power to change any practice, policy, or rule of the Board, nor to substitute the judgment of the arbitrator for the judgment of the Board.
+k.	The arbitrator shall refer back to the parties, without decision or recommendation on its merits, any grievance in which the arbitrator has no power to rule.
+1.	The decision of the arbitrator shall be final and binding upon the parties. However, no party waives its right to appeal such decision to the appropriate legal forum.
+I.	Miscellaneous
+Letters of reprimand and written allegations shall be placed in a separate grievance file until the grievance timelines have expired or the grievance procedure is exhausted.
+ARTICLE XXV	- SCHOOL CALENDAR
+The Superintendent shall develop a proposed school calendar each year which shall be submitted to the Association for consideration at least fourteen (14) days before the proposed calendar is scheduled for consideration by the Board. If the Association so requests, the Superintendent will meet with Association representatives to attempt to agree on a calendar to be recommended to the Board. The Association shall have the right to submit an alternative calendar or to submit requests for changes in the school calendar recommended by the Superintendent. Such alternative calendar or requests for changes will be submitted to the Board and will be considered by the Board before the Board adopts any school calendar.
+ARTICLE XXVI	- PROGRAM PLANNER/TEAM LEADER/PEER TEACHER
+A.	Appointment
+Each principal will establish the position of program planner per academic program according to the negotiated formula. Employees shall be selected by the principal to fill such positions. In order to be eligible for the supplements of Program Planner, Peer Teacher, or Team Leader, the selected teacher, to the extent possible, must be in a teaching role within the department or grade level as the supplemental assignment.
+B.	Duties
+The principal shall be responsible for establishing the duties to be performed and evaluating the performance of the program planner relative to said duties.
+C.	Pay
+These positions will be paid at the supplemented rate as negotiated.
+D.	Notice
+A candidate for program planner shall be notified prior to acceptance of such position as to the number of program area members to be served and the duties of the position.
+CFEA Contract July 1, 2005 - June 30, 2008
+41
+Further, throughout the course of service by a program planner, the principal shall be responsible to notify said program planner of the addition or deletion of program area members from the area of responsibility of the program planner after such decision has been made by the principal. Such notification shall be timely.
+E.	Additions and Deletions
+In cases of additions or deletions, payment shall be prorated. Pay adjustments shall be made on the first day of the month according to the number of program area members. Additions or deletions of personnel in effect on that date shall determine the number to be paid for by the Board in succeeding months or until further adjustment or conclusion of the period of time for which the program planner is assigned.
+F.	Equal Opportunity
+Any employee may apply for program planner positions and shall be given consideration along with all others being considered.
+G.	Supplements shall be posted at the worksite and offered to interested and qualified teachers, then to qualified school staff prior to seeking outside applicants.
+ARTICLE XXVII	- FORMS
+The parties shall create and provide the necessary forms to implement the contract with the exception of the dues authorization form that shall be provided by the Association. Such forms shall be consistent with the meaning or application of the provisions of the contract.
+ARTICLE XXVIII-	FAIR PRACTICES
+The Association will neither take nor threaten to take any reprisals other than properly filed grievances or judicial challenges, directly or indirectly, against any supervisory or administrative personnel or Board member regarding the administration of this contract. The provisions of this contract shall be applied without regard to race, color, religion, national origin, age, sex, or marital status, providing, however, that nothing in this contract shall prevent the Board from exercising the authority granted by Section 231.031, Florida Statutes.
+ARTICLE XXIX	- NO STRIKE CLAUSE
+Differences between the Board and the Association shall be resolved by peaceful and appropriate means without interruption of the school program. The Association will not condone, aid, or abet (directly or indirectly) any strikes, work stoppages, slowdown, or any other concerted refusal to perform work by the employees covered by this contract during the term of this contract. Upon notification from the Board of any unauthorized work stoppage, the Association shall make public that it does not endorse work stoppage and will use its best efforts to end any unauthorized work stoppage. Such action by the Association shall be full performance of its obligation under this paragraph and shall free it from any further liability hereunder.
+ARTICLE XXX	- NEGOTIATIONS
+A.	Ground Rules
+The following ground rules shall govern all negotiations under this contract during its term:
+1.	Selection of Teams
+Each party shall select its own team members, and each team shall possess all authority necessary to propose, counterpropose, and tentatively agree to proposals or counterproposals subject to final ratification by the Board or Association membership as is applicable.
+2.	Time of Next Meeting
+At each meeting the time and date of the next meeting will be determined.
+3.	Location
+The location for negotiating sessions shall be the School Board Meeting Room.
+CFEA Contract July 1, 2005 - June 30, 2008
+42
+4.	Tentative Agreements
+All tentative agreements reached shall be reduced to writing, initialed by each Chief Negotiator or a designee, and each party shall have a copy of each initialed agreement when said agreement is made.
+B.	Permissive Reopening
+Either party may ask to reopen negotiations at any time on any item, but negotiations shall only be reopened by mutual agreement and then only on those subjects for which there is mutual agreement.
+C.	Scheduled Reopening
+Unless otherwise agreed upon by the parties, negotiations shall be reopened for the following school year at the request of the Association not sooner than April 1 of each year to consider: benefits and three (3) unspecified issues to be determined by the Association and three (3) unspecified issues to be determined by the School Board. Either party may re-open for negotiations either of the negotiated salary schedules for the 2006-07 and 2007-08 school years provided the UWFTE allocation for a given year exceeds or drops below 1.5 % of the necessary amount to fund the schedule. Any other issues must be mutually agreed upon to be considered.
+D.	Severability Clause Reopening
+Negotiations may also be reopened as provided in Article XXXIII, SEVERABILITY. ARTICLE XXXI - PRINTING AND DISTRIBUTION OF THE CONTRACT
+The Charlotte FEA shall be responsible for printing and distribution of the master contract negotiated between the parties.
+ARTICLE XXXII	- SAFETY
+A.	Employee Obligations
+All employees shall exercise care and caution in the performance of their duties and shall not act in a reckless or careless manner that would endanger the safety of any person or present unnecessary risk of personal injury or damage to property.
+B.	Board Obligations
+The Board shall provide safe working conditions by complying with all appropriate federal and state laws and regulations and Board policies pertaining to health and safety. The Superintendent shall be responsible for insuring that a safety inspection consistent with rules of the State Board of Education is made annually for each school facility. In the event that any standard is exceeded, the staff shall be notified within ten (10) working days.
+C.	Bomb Threats
+If a bomb threat is made and a building is evacuated, employees shall not be required to enter the building to participate in any search for a bomb.
+D.	Notification of Accidents
+Employees are required to notify their principal or immediate supervisor of any accidents involving themselves or students as soon as possible after the occurrence of such.
+ARTICLE XXXIII	- SEVERABILITY
+If any provision of this contract is rendered illegal, unenforceable, or invalid by a decision of a court or of the Public Employees Relations Commission or if any provision of this contract is in conflict with any law presently existing or hereafter enacted, such provision shall be deleted. The remainder of the contract shall not be affected but shall remain in full force and effect. The parties will meet at the request of either of them in order to negotiate any changes made necessary by the decisions or legislation referenced above.
+CFEA Contract July 1, 2005 - June 30, 2008
+43
+ARTICLE XXXIV	- ZIPPER CLAUSE
+The Board and the Association acknowledge that during the negotiations which resulted in this contract each had the right and opportunity to make proposals with respect to salaries, hours and terms and conditions of employment, and that the understandings and agreements arrived at by the parties after the exercise of that right and opportunity are set forth in this contract. The Board and the Association for the life of this contract voluntarily and without qualifications waive the right, and each agrees that the other shall not be obligated to bargain collectively with respect to any subject or matter covered by this contract unless otherwise specified herein. This contract supersedes and cancels all previously written agreements based on alleged past practices between the Board and Association and constitutes the entire written contract between the parties. Agreement has been reached between the parties hereto including formal ratification of the terms herein by the Board, by the bargaining unit employees, and by the Association.
+ARTICLE XXXV	- TERM OF CONTRACT
+This contract shall be effective as of July 1, 2005, and shall remain in force and effect through June 30, 2008.
+CFEA Contract July 1, 2005 - June 30, 2008
+44

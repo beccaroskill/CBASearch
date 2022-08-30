@@ -1,0 +1,708 @@
+﻿K9866
+Collective Bargaining Agreement
+1 October 2017 - 30 September 2020
+Alpha-Omega Change Engineering, Inc. (AOCE)
+&
+Syracuse Aircrew Trainer Employee Association (SATEA)
+MQ-9 Formal Training Unit
+Hancock Air National Guard Base Syracuse, New York
+Version 20170808V4
+Table of Contents
+AGREEMENT .....................................................................5
+PREAMBLE ......................................................................5
+NON-DISCRIMINATION ............................................................5
+ARTICLE 1	(MANAGEMENT RIGHTS)................................................5
+Section 1	- Responsibilities of Company..................................... 5
+Section 2	- Waiver of Rights................................................ 6
+ARTICLE 2	(ASSOCIATION RIGHTS) ..............................................6
+Section 1	- Exclusive Bargaining Agent ..................................... 6
+Section 2	- Association Business and Elections ............................. 6
+Section 3	- Association President (Union Steward)........................... 7
+Section 4	- Notice Board.................................................... 7
+Section 5	- Association Security/Membership................................. 7
+Section 6	- Notice ofAgency Shop............................................ 8
+Section 7	- Dues and Agency Fee Collection ................................. 8
+Section 8	- Dues and Agency Fee Delinquency................................. 8
+ARTICLE 3	(NO STRIKE/NO LOCKOUT) ............................................9
+Section 1	- Strikes ........................................................ 9
+Section 2	- Lockouts ....................................................... 9
+ARTICLE 4	(GRIEVANCE PROCESS)................................................9
+Section 1	- Definition...................................................... 9
+Section 2	- Procedure ...................................................... 9
+ARTICLE 5	(ARBITRATION PROCESS).............................................11
+Section 1	- Arbitrator Selection .......................................... 11
+Section 2	- Hearing Time .................................................. 11
+Section 3	- Jurisdiction................................................... 11
+Section 4	- Arbitrator’s Decision ......................................... 11
+Section 5	- Cost Sharing .................................................. 11
+ARTICLE 6	(SENIORITY) ......................................................11
+Section 1	- Definitions ................................................... 11
+Section 2	- Job Classifications ........................................... 12
+Section 3	- Termination of Seniority and Longevity ........................ 12
+ARTICLE 7	(LAYOFFS) ........................................................13
+2 of 38 (20170808V4)
+Section 1	- Definition........................................................... 13
+Section 2	- Application of Seniority during Layoffs ............................. 13
+Section 3	- Recall from Layoff .................................................. 14
+Section 4	- Severance Pay........................................................ 14
+Section 5	- Loyalty Pay.......................................................... 15
+Section 6	- Severance/Loyalty Pay following Contract Termination ................ 15
+Section 7	- Severance/Loyalty Pay for Discharged Employees....................... 15
+ARTICLE 8	(DISCIPLINE AND DISCHARGE).............................................16
+Section 1	- Probation............................................................ 16
+Section 2	- Just Cause and the Application of Discipline......................... 16
+Section 3	- Weingarten Rights ................................................... 17
+Section 4	- Review of Personnel Records.......................................... 17
+ARTICLE 9	(WORK HOURS) ..........................................................17
+Section 1	-	Definitions ........................................................ 17
+Section 2	-	Available Work Schedules ........................................... 18
+Section 3	-	General Scheduling Guidance ........................................ 19
+Section 4	-	Overtime Authorization ............................................. 19
+Section 5	-	Holiday Pay ........................................................ 20
+Section 6	-	Government-Directed Worksite Closures .............................. 21
+Section 7	-	Telecommuting....................................................... 21
+Section 8	-	Part-Time Employment ............................................... 22
+Section 9	-	Waiver for New York State	Statutory Meal Periods ................... 22
+ARTICLE 10	(WAGES)................................................................22
+Section 1	-	Definitions ........................................................ 22
+Section 2	-	Pay Frequency and Method	............................... 23
+Section 3	-	Hourly Pay by Job Classification ................................... 23
+Section 4	-	Reporting Pay ...................................................... 23
+Section 5	-	Overtime Pay ....................................................... 24
+Section 6	-	Pay for Holiday Work................................................ 24
+Section 7	-	Payroll Discrepancies .............................................. 24
+Section 8	-	Timesheet Submission................................................ 25
+Section 9	-	Payment of Final Paycheck	.......................................... 25
+ARTICLE 11	(TRAVEL PAY) ..........................................................25
+Section 1	-	Definitions ........................................................ 25
+3 of 38 (20170808V4)
+Section 2	-	General Travel Guidance.............................................. 26
+Section 3	-	Short Term Travel Compensation ...................................... 27
+Section 4	-	Long Term Travel Compensation........................................ 27
+Section 5	-	Reimbursement Procedure.............................................. 28
+ARTICLE 12	(LEAVE) ...............................................................28
+Section 1	- Normal Paid Time Off (PTO)........................................... 28
+Section 2	- Bereavement Leave ................................................... 29
+Section 3	- Family Medical Leave Act (FMLA).......................................29
+Section 4	- Jury Duty/Witness PTO................................................ 29
+Section 5	- Military Leave ...................................................... 30
+Section 6	- Leave Without Pay (LWOP) ............................................ 30
+Section 7	- PTO Award Discrepancies ............................................. 31
+ARTICLE 13	(UNIFORMS, EQUIPMENT, AND FACILITIES) .................................31
+Section 1	- Uniforms/Dress Code.................................................. 31
+Section 2	- Issued Items ........................................................ 31
+Section 3	- Facilities........................................................... 32
+ARTICLE 14	(BENEFITS) ............................................................32
+Section 1	- Health and Welfare Fringe ........................................... 32
+Section 2	- Insurance Plans ..................................................... 32
+Section 3	- 401(k) Savings Plan.................................................. 33
+Section 4	- Annual FAA Medical Exams and Associated Waiver Exams or Tests........ 33
+Section 5	- Tuition Assistance .................................................. 34
+ARTICLE 15	(PERSONNEL ACTIONS)....................................................34
+Section 1	- Promotions/Special Qualification Upgrades ........................... 34
+Section 2	- Demotions/Elimination of Special Qualification	Duty ................. 35
+Section 3	- Loss of FAA Medical Qualification/Medically	Unable to Perform Duties. 35
+Section 4	- Loss of Security Clearance .......................................... 35
+ARTICLE 16	(CONTRACTING OUT AND GUEST WORKERS) ...................................36
+Section 1	- Contracting Out ..................................................... 36
+Section 2	- Temporary Guest Workers ............................................. 36
+ARTICLE 17	(LEGAL) ...............................................................36
+SENIORITY LIST .....................................................................37
+SIGNATURE PAGE .....................................................................38
+4 of 38 (20170808V4)
+AGREEMENT
+This Agreement made and entered into by Alpha-Omega Change Engineering, Inc. (hereinafter referred to as the Company) and the Syracuse Aircrew Trainer Employee Association (hereinafter referred to as the Association) shall commence on 1 October 2017 and continue in full force and effect until 30 September 2020 unless modified or superseded in writing with the consent of both Parties. Both parties anticipate beginning negotiations for the follow-on agreement on or about 1 April 2020.
+PREAMBLE
+The Parties have entered into this Agreement for the purpose of setting forth, in writing, the understandings they have reached with respect to wages, hours, and working conditions of Pilot Instructors, Sensor Instructors, and Administration personnel covered hereby, as well as to the rights of the Association and the Company, and to provide a peaceful means for the settlement of any disputes that may arise with respect to the interpretation or application of their understandings and agreements as set forth herein.
+For purposes of simplicity, the masculine gender is used throughout this Agreement although it is understood that all references to gender include both sexes.
+Bargaining unit members covered by this Agreement shall hereinafter be referred to as the employees.
+The phrase “medically qualified” shall mean qualified in accordance with the medical qualifications spelled out in the contract or as specified by law.
+Any and all U.S. Government or military officials tasked with administering, implementing, or overseeing the MQ-1 and MQ-9 Contract Aircrew Training and Courseware Development (CAT/CWD) Contract shall hereinafter be referred to as the Government.
+NON-DISCRIMINATION
+The Company and the Association accept their responsibility to ensure non-discrimination in all aspects of employment for all qualified persons regardless of race, creed, religion, color, national origin, age, mental and physical disability, sex, sexual orientation, gender identity, marital status, family relationships, membership or non-membership in the Association.
+ARTICLE 1	(MANAGEMENT RIGHTS)
+Section 1	- Responsibilities of Company
+Except as modified by a specific provision of this Agreement, the Company reserves and retains all of its normal and inherent rights with respect to the management of the business,
+5 of 38 (20170808V4)
+including (without limiting the generality of the foregoing) its right to establish or continue policies, practices, and procedures for the conduct of the business; to select and direct the working force, to create and eliminate job classifications, to establish, eliminate, change, or combine work schedules and work assignments, which are not in conflict with the terms of this Agreement; to transfer, promote or demote employees, or to lay off, terminate or otherwise relieve employees from duty for lack of work or other legitimate reasons; to make and enforce reasonable rules for the maintenance of discipline; to suspend, discharge or otherwise discipline employees for just cause; to establish the methods, processes and means of providing services; and otherwise to take such measures as management may determine to be necessary to the orderly, efficient or economical operation of the business. It is understood and agreed that any of the powers and authority which the Company had prior to the signing of this Agreement are retained by the Company except those specifically modified, delegated or granted by this Agreement.
+Section 2	- Waiver of Rights
+The Company’s failure to exercise any right, prerogative, or function hereby reserved to it, or the Company’s exercise of any such right, prerogative, or function in a particular way, shall not be considered a waiver of the Company's right to exercise such right, prerogative, or function or preclude it from exercising the same in some other way not in conflict with the express provisions of this Agreement.
+ARTICLE 2	(ASSOCIATION RIGHTS)
+Section 1	- Exclusive Bargaining Agent
+The Company hereby recognizes the Association as the sole and exclusive bargaining agent of employees assigned to the Hancock Air National Guard Base MQ-9 Formal Training Unit who perform work for the Company under the MQ-1 and MQ-9 CAT/CWD contract, excluding any employee designated as a manager, for the purpose of collective bargaining (with respect to wages, hours of work, and other conditions of employment as herein defined).
+The specific terms of this Agreement shall be the sole source of any rights that may be asserted by the Association against the Company.
+Section 2	- Association Business and Elections
+The Association shall be allowed to conduct formal business, including elections, during normal working hours in Company-used office space with approval from the Site Manager. Prior to conducting any Association business during normal operations, the Association will notify the Site Manager or his/her designee as to the purpose of such business and the length of time required to conduct such business. Association business shall not unduly interfere with work being performed by employees for the Company.
+6 of 38 (20170808V4)
+The Association shall provide the Company with an updated list of officers following any Association election.
+Section 3	- Association President (Union Steward)
+The Company shall recognize one employee, upon written notification from the Association, to act as Association President and one employee to act as Association Vice President.
+The Association Vice President shall act in the place of the Association President during his absence.
+The Association President shall retain and may exercise all the legal rights of a union steward while performing Association business.
+The Company shall not limit the Association President’s physical access to the workplace.
+Section 4	- Notice Board
+The Company agrees to install a notice board for communicating Association business for the sole use of the Association, in a suitable location that is easily accessible to employees for the purpose of posting notices of interest to the Association. All other information to be posted shall be approved by the Site Lead.
+The Company shall not remove information posted on the notice board without Association consent.
+Section 5	- Association Security/Membership
+All employees covered under this Agreement have the following rights:
+a.	The right not to become members of the Association;
+b.	The right to object to paying for union activities not germane to the Association's duties as bargaining agent and to obtain a reduction in fees for those activities a (by contacting the Association Treasurer and requesting relief).
+All employees covered under this Agreement must choose one of the following two options within 90 calendar days of their hire date:
+a.	Join the Association. Complete both membership and payroll deduction forms (available from the Association Treasurer) in order to have dues deducted from payroll;
+b.	Decline Association membership. Complete a payroll deduction form (available from the Association Treasurer) in order to have agency fees deducted from payroll.
+7 of 38 (20170808V4)
+Employees who decline membership in the Association cannot vote during collective bargaining ratification elections and are barred from Association officer elections, meetings, and other Association-specific activities.
+Section 6	- Notice of Agency Shop
+Upon ratification of this Agreement, the Association and the Company shall jointly provide notice to all employees of the obligation to either join the Association or pay an agency fee.
+Section 7	- Dues and Agency Fee Collection
+The Company shall deduct dues or agency fees, in accordance with the following table, from each employee’s paycheck each pay period. The Association Treasurer shall provide the Company with a membership list that details the amount of time a given employee has been a member of the Association so the Company may know the correct amount to deduct.
+Job Classification	Member of SATEA Less than 2 Years	Member of SATEA 2 Years or More	Non-Member Agency Fee
+Pilot Instructor	$10.00	$8.00	$6.00
+Sensor Instructor	$7.00	$5.00	$3.75
+All Others	$4.00	$3.00	$2.25
+The Company shall send the funds to an account specified by the Association Treasurer within 30 days of the pay period from which the monies were collected.
+The Company shall send the Association Treasurer an invoice detailing how much money was collected from each employee (due at the same time funds are deposited into the Association’s account).
+Section 8	- Dues and Agency Fee Delinquency
+Failure to pay dues or agency fees shall constitute just cause for termination.
+The Association Treasurer shall notify any employee found to be delinquent in their dues or agency fee payment status. Delinquent employees may resolve their status by submitting a check for the full amount due to the Association Treasurer.
+If an employee remains delinquent for more than 30 days after being notified of their status, the Association shall request the Company discharge the employee.
+The Company shall discharge the employee within 60 days of the request unless the delinquency is resolved.
+8 of 38 (20170808V4)
+ARTICLE 3 (NO STRIKE/NO LOCKOUT)
+Section 1	- Strikes
+During the term of this Agreement, the Association, its officers, agents, representatives and members covered by this Agreement, agree that there shall be no strikes (including sympathy strikes), concerted failure to report for duty, concerted absence of employees from their positions, concerted stoppage of work, concerted submission of resignations, concerted abstinence in whole or in part by any group of employees from the full and faithful performance of their duties of employment or acts of a similar nature which would interfere with production.
+Should the Association or employees covered hereunder breach this Article, the Company may discipline the employees involved up to and including discharge. In such event, the Association or affected employee may grieve disciplinary actions taken against any such employee only with regard to a question of an employee's participation in any of the above-described activities.
+However, once participation has been established, management's actions are no longer subject to the grievance procedure.
+In the event that employees cease work in violation of this Article, such employees shall not be entitled to any benefits or wages while they are engaged in such cessation of work.
+Section 2	- Lockouts
+The Company agrees that for the duration of this Agreement there shall be no lockouts.
+A lockout as mentioned herein shall not be construed as the closing down of the operation or any part thereof or curtailing any operations for business reasons.
+ARTICLE 4 (GRIEVANCE PROCESS)
+Section 1	- Definition
+Grievance: A grievance is a complaint, dispute, or controversy in which it is claimed that either the Company or the Association has failed in an obligation under this Agreement and which involves the meaning, interpretation, or application of this Agreement.
+Section 2	- Procedure
+Both Parties agree that all grievances should be dealt with promptly and every effort should be made to settle grievances as close to the source as possible.
+Should the Company fail to comply within the time limits herein, the Association may appeal immediately to the next step. Should the Association fail to comply with the time limits herein, the grievance shall be considered abandoned. Time limits may be extended by written mutual consent.
+9 of 38 (20170808V4)
+For the purpose of this section, the term “day” shall mean a calendar day, excluding Saturdays, Sundays, and federal holidays.
+Step 1. An aggrieved employee must submit a written grievance to the Company’s Site Lead within three days of the incident that gave rise to the grievance, or within three days of obtaining constructive knowledge of the incident.
+The written grievance shall contain the following:
+a.	Current date;
+b.	Name(s) of the employee(s) involved;
+c.	Date of the alleged grievance;
+d.	A statement of the grievance and the facts upon which it is based;
+e.	Provisions of the Agreement considered applicable or alleged to have been violated, if any, and where prevailing rights or a past practice is a basis of the grievance, the specific rights or practices in question;
+f.	The remedy or adjustment sought;
+g.	The aggrieved employee’s signature.
+The Site Lead shall meet with the aggrieved employee, discuss the grievance, and shall respond to him in writing within 10 days (from the date he received the written grievance).
+The Company’s response at this step, and the other steps to follow, shall contain the following:
+a.	An acceptance or rejection of the facts upon which the grievance is based;
+b.	An explanation of the provisions of the Agreement considered applicable;
+c.	A statement of the remedy or adjustment, if any, to be made;
+d.	The signature of the appropriate Company representative.
+Step 2. If the Site Lead’s response at Step 1 is rejected, the Association shall review the grievance. If the Association decides that no grievance exists or that the Site Lead’s response is satisfactory, no further action is required and the Site Lead’s response shall be final and binding.
+If the Association decides that a grievance does exist and the response is unsatisfactory, it shall, within 10 calendar days of receiving the grievance, forward it to the Company’s Director of Training Services at Step 3.
+Step 3. If the grievance is submitted to Step 3, the Company’s Director of Training Services shall meet with the aggrieved employee (via teleconference or in person) to discuss the grievance and shall send a written response to the Association President within 10 calendar days (from the date he received the written grievance).
+If the grievance is not settled at Step 3, either Party may, within 10 days of the Director of Training Services’ decision, certify in writing to the other Party its intention to submit the grievance to arbitration.
+10 of 38 (20170808V4)
+ARTICLE 5 (ARBITRATION PROCESS)
+Section 1	- Arbitrator Selection
+The Parties shall have 30 days (following the receipt of a written declaration of intent to seek arbitration by one of the Parties from the other) to select an arbitrator by mutual agreement.
+If such agreement is not reached, the Company and the Association shall submit a joint request for the direct appointment of an arbitrator to the Federal Mediation and Conciliation Service.
+Section 2	- Hearing Time
+The Parties shall hold the arbitration hearing at a mutually convenient location (or via teleconference, if permitted by the arbitrator) within 30 days of the arbitrator’s first available hearing date.
+Section 3	- Jurisdiction
+The arbitrator shall be expressly limited to the meaning, intent, or application of the provisions of this Agreement. He shall have no power to add to, detract from, or alter in any way the provisions of this Agreement.
+Section 4	- Arbitrator’s Decision
+The decision of the arbitrator shall be in writing and shall be binding on both parties.
+Section 5	- Cost Sharing
+All expenses involved in the arbitration process shall be shared equally between both Parties except for those related to the calling of witnesses or the obtaining of depositions. Those costs shall be borne by the party at whose request such witnesses or depositions are required.
+ARTICLE 6 (SENIORITY)
+Section 1	- Definitions
+Seniority: Seniority shall mean an employee's length of continuous service on current or predecessor contract(s) based on the date they were hired to work at Hancock ANGB (except as described in note 1 below). If application of the preceding sentence results in two or more employees having the same seniority date, the employee with the earliest date of birth shall be deemed most senior.
+Note 1: Seniority dates for current employees shall be in accordance with the seniority list attached to this Agreement. New hires shall be added below the least senior worker already on the list.
+11 of 38 (20170808V4)
+An employee’s seniority shall be used to manage personnel actions, layoffs, shift scheduling, allocations of optional overtime, and other situations for which an alternate procedure has not been specified within this Agreement.
+An employee shall continue to accrue seniority while in layoff status.
+Longevity: An employee's length of continuous service on the current or predecessor contract(s) based on their initial date of hire (regardless of where they were hired or where their service was performed).
+An employee’s longevity shall not be used to manage personnel actions or layoffs.
+An employee shall continue to accrue longevity while in layoff status.
+Seniority List: The Company shall send updated lists showing the current seniority and longevity dates for all employees, by classification, to the Association each January or anytime one of the following situations occur:
+a.	The list changes (e.g., new employees are hired);
+b.	A layoff is being executed
+Transfers: Employees who transfer in from another work site (not covered by this Agreement) that provides service under the current or predecessor contract(s) shall retain their longevity, but shall enter the seniority list below the least senior worker already employed under this Agreement.
+Under no circumstance shall a transfer displace an employee already employed under this Agreement.
+Section 2	- Job Classifications
+All employees shall fall within one of the following job classifications:
+a.	Pilot Instructor;
+b.	Sensor Instructor;
+c.	Administration (Includes Scheduler, Registrar, and Training Specialist positions).
+Section 3	- Termination of Seniority and Longevity
+An employee's seniority shall be terminated and his rights under this Agreement forfeited for the following reasons:
+a.	Discharge for just cause, retirement, or resignation;
+b.	Failure to return to work on the date specified for recall (when the employee has declared their intent to return to work), as set forth in a written notice of recall;
+12 of 38 (20170808V4)
+c.	Failure to return to work upon the expiration of a leave of absence, unless the Company determines that it is legally obligated to extend the leave of absence;
+d.	In layoff status for more than one calendar year (measured from the layoff effective date).
+Anytime an employee’s seniority is terminated, their longevity is also terminated.
+ARTICLE 7 (LAYOFFS)
+Section 1	- Definition
+Layoff: A layoff shall be defined as:
+a.	A reduction in the number of employees that is intended to be permanent or prolonged (longer than 30 days);
+b.	A condition that has the effect of rendering an employee unqualified for their current position and able to report for work. (see Personnel Actions).
+Layoff Status: The period, following an employee’s layoff effective date, during which the employee is ineligible for normal pay and benefits and waiting for recall. All employees in this status shall be added to the rehire list on their layoff effective date.
+Employees may accept full-time employment from other employers while in layoff status.
+Rehire List: A list of employees in layoff status, organized by seniority, showing their layoff effective dates, seniority dates, and longevity dates.
+Employees on the rehire list shall have the right of first refusal for any job vacancy, in any job classification, for which they are medically qualified and meet the contractual hiring requirements.
+New hires or transfers may not displace any employee on the rehire list unless such an employee declines to be recalled.
+Employees shall be removed from the rehire list when they accept recall, refuse a recall offer for which they are qualified (except as permitted in this Agreement), or when their layoff status expires, whichever happens first.
+Section 2	- Application of Seniority during Layoffs
+When it is necessary to implement a layoff, employees shall be laid off in reverse order of seniority (i.e., last hired is first to be laid off) within their respective job classification.
+13 of 38 (20170808V4)
+The Company shall displace less senior employees in favor of more senior employees (provided the senior employee is medically qualified to perform the job). Employees left without a position shall be informed of their layoff effective date and placed on the rehire list.
+Employees designated for layoff shall not displace/bump employees outside of their current job classification.
+Section 3	- Recall from Layoff
+Employees in layoff status shall be recalled in order of seniority.
+Employees laid off due to the loss of medical or security clearance must notify the Company whenever their status changes.
+During a recall, the Company shall forward notice of recall by certified mail to the last known address of the employee (employees shall notify the Company of any change of physical address, telephone number, or e-mail address while in layoff status).
+The employee must reply to the Company within three business days, after receiving the notice, and declare his intent to return to work (on a date that is acceptable to the Company). If the Company does not receive a response within the required time period, they shall assume the employee has declined the offer.
+Employees may decline recall offers, without prejudice, for the following reasons:
+a.	The employee is not qualified for the position due to medical or security clearance reasons;
+b.	The offer is for a lower hourly wage rate than the employee received before being laid off;
+c.	The offer is for fewer hours than the employee worked before being laid off;
+d.	The position is outside the employee’s job classification.
+Employees accepting a recall offer within the same job classification they held when laid off shall retain their original seniority and longevity dates.
+Employees accepting a recall offer for a job classification other than the one they held before being laid off shall retain their original longevity date, but shall have their seniority date permanently changed to match the date they start work in the new classification.
+Section 4	- Severance Pay
+If the Company provides a non-probationary employee with less than 30 calendar days of advance notice before laying them off, the affected employee shall be paid severance pay (if the employee does not resign before their layoff effective date).
+Severance pay shall be in accordance with the following schedule:
+14 of 38 (20170808V4)
+Longevity
+Less than 6 months
+At least 6 months, but less than 1 year
+At least 1 year, but less than 3 years
+3 years or more
+Severance Pay Amount*
+No severance pay
+40 hours of normal hourly wage
+80 hours of normal hourly wage
+160 hours of normal hourly wage
+*Severance pay is not applicable to employees on probation.
+Employees who resign before their layoff effective date are not entitled to severance pay.
+Employees who choose to remain continuously employed with the Company are not entitled to severance pay (e.g. an employee who is bumped and immediately (i.e. within one work day) accepts a lower paying position in lieu of being laid off). In such case, the Company must allow the employee to start work/log paid time in their new position immediately (i.e. within one work day of leaving their old position).
+Section 5	- Loyalty Pay
+If the Company provides a non-probationary employee with more than 30 calendar days of advance notice before laying them off, the affected employee shall be paid loyalty pay (if the employee does not resign before their layoff effective date).
+Loyalty pay shall be in accordance with the following schedule:
+Longevity	Loyalty Pay Amount*
+Less than 6 months	No loyalty pay
+At least 6 months, but less than 1 year	40 hours of normal hourly wage
+1	year or more	80 hours of normal hourly wage
+*Loyalty pay is not applicable to employees on probation.
+Employees who resign before their layoff effective date are not entitled to loyalty pay.
+Employees who choose to remain continuously employed with the Company are not entitled to loyalty pay (e.g. an employee who is bumped and immediately (i.e. within one work day) accepts a lower paying position in lieu of being laid off). In such case, the Company must allow the employee to start work/log paid time in their new position immediately (i.e. within one work day of leaving their old position).
+Section 6	- Severance/Loyalty Pay following Contract Termination
+The severance and loyalty pay provisions shall not apply, and payments shall not be made, if the Government terminates the contract.
+Section 7	- Severance/Loyalty Pay for Discharged Employees
+Employees discharged for cause are not eligible to receive severance or loyalty pay.
+15 of 38 (20170808V4)
+ARTICLE 8 (DISCIPLINE AND DISCHARGE)
+Section 1	- Probation
+All newly hired employees and transfers shall remain on probation for the following time periods:
+Job Classification
+Pilot Instructor or Sensor Instructor
+All Others
+Probation Period
+365 days from their date of hire
+90 days from their date of hire
+Employees on probation are considered to be employed “at-will” and may be dismissed by the Company at any time (during their probationary period) for any reason, without recourse to the grievance and arbitration process.
+Employees on probation shall earn seniority and longevity from their date of hire and are free to accept or decline Association membership in accordance with the provisions of this Agreement.
+Personnel already employed under this Agreement, who are selected to upgrade to a new position, shall not be subject to a probationary period.
+Section 2	- Just Cause and the Application of Discipline
+The Company shall not discipline or discharge any employee (other than those on probation) except for just cause.
+The following questions shall serve as the test for “just cause”:
+1.	Was the worker given advance warning of the consequences of his conduct?
+2.	Was the rule, order, or standard reasonably related to employee performance?
+3.	Was the alleged violation thoroughly investigated before discipline?
+4.	Was the investigation fair and objective?
+5.	Did the investigation reveal convincing proof of guilt?
+6.	Was the employer’s discipline nondiscriminatory?
+7.	Was the discipline reasonably related to the worker’s record and the severity of the conduct?
+Discipline shall be accomplished in a constructive, progressive manner, so as to rehabilitate and correct an offender, if at all possible.
+The Company shall provide affected employees with written documentation of any disciplinary action taken against them.
+The Company shall provide discharged employees with a written record of the reasons for their discharge at the time they are dismissed (unless not possible due to arrest or other mitigating
+16 of 38 (20170808V4)
+circumstances; in which case the information shall be mailed to the employee’s address within two business days).
+Disciplinary matters, including termination, shall be subject to the grievance and arbitration processes.
+Section 3	- Weingarten Rights
+Employees shall have the right to be accompanied and represented by the Association President and/or legal counsel at investigatory interviews, hearings, and/or meetings with the Company that relate to discipline.
+Employees shall not be punished for requesting such representation.
+Section 4	- Review of Personnel Records
+The Company’s Human Resources Department shall maintain each employee’s corporate personnel file.
+The Company’s Site Lead shall maintain each employee’s local personnel file (if such a file is required).
+The Company shall allow employees to examine their personnel files upon request (within two business days of receiving an employee’s request).
+The Company shall fix any errors that an employee detects within their own file or, in cases where the Company disputes such an error, place a written record (digital or physical record) of the employee’s concerns in their file for future reference.
+ARTICLE 9 (WORK HOURS)
+Section 1	- Definitions
+Compensatory Time: Hours taken off to offset an equal number of extra hours worked, within a single workweek, to ensure the total number of hours worked does not exceed 40 (as permitted by law).
+Flexible Report Time: A scheduling condition under which employees determine their own workday report times in an effort to align their workday with applicable events on the flying schedule.
+Flying Schedule: A Government-produced document that details the contract services the Company is required to perform on a given day. The Company schedules employees to service these requirements within the framework of each employee’s schedule week.
+Full-time: Employees hired to work 40 hours per workweek.
+17 of 38 (20170808V4)
+In-lieu-of Holiday: A substitute day off awarded to an employee on a compressed work schedule to compensate for a federal holiday (or the day it is observed by the Government) that happens to fall on the employee’s normal compressed work schedule day off.
+LWOP: Leave without Pay.
+Normal: A long-term scheduling condition that shall only be deviated from, temporarily, if required to accommodate an infrequent exception.
+Overtime: Any hours worked beyond 40 in a single workweek.
+Paid Status: Any status other than LWOP, layoff, or discharge.
+Part-Time: Employees hired to work 30 hours, or less, per workweek.
+PTO: Paid Time Off
+Schedule Week: A series of consecutive workdays (and days off if using a compressed work schedule) within a workweek.
+Workday: A floating eight or ten-hour work period (depending on the type of work schedule used), not including unpaid time for meal breaks, during which an employee is scheduled to work. Meals taken during the work period are acceptable, such as filling out a student gradebook while eating lunch. Normal workdays shall begin no earlier than 6:00 a.m., and end no later than 10:00 p.m.
+Workweek: A fixed and recurring period of seven consecutive 24-hour days beginning at 12:00 a.m., each Sunday and ending at 11:59 p.m. each Saturday.
+Section 2	- Available Work Schedules
+Compressed Work Schedule (4/10): A schedule week consisting of four consecutive 10-hour workdays and one 24-hour day off.
+a.	The normal schedule week shall include workdays from Monday through Thursday with a day off on Friday;
+b.	If required, employees may be assigned an alternate normal schedule week that includes a day off on Monday followed by workdays from Tuesday through Friday;
+c.	Normal workdays are currently 10 hours long (not including meal breaks).
+Conventional Work Schedule (5/8): A schedule week consisting of five consecutive eight-hour workdays.
+a.	The normal schedule week shall include workdays from Monday through Friday;
+18 of 38 (20170808V4)
+b.	Normal workdays are eight hours long (not including meal breaks).
+Part-Time Work Schedule: A schedule week, for part-time employees, consisting of five or fewer workdays (may by non-consecutive) arranged in a pattern such that the total number of work hours within a workweek does not exceed 30.
+a.	The normal schedule shall be defined by the Company on an individual basis;
+b.	Normal workdays are less than or equal to 10 hours long (not including meal breaks).
+Section 3	- General Scheduling Guidance
+Floating Workday: Employees shall use flexible report times and compensatory time to maximize scheduling effectiveness. Employees whose events end prior to 1900 shall ensure their workday covers all scheduled flights and sims to include a two-hour delay plus debrief and gradesheet if feasible. It is understood that personnel performing flights and sims that end at or after 1900 will use judgment to accommodate slip times and still accomplish debrief and gradesheet. The Site Manager shall provide guidance as needed.
+Employees shall notify the Company if they are unable to accommodate all events as scheduled.
+Employees may be entitled to overtime if an event is extended beyond its scheduled end time (if total hours for the workweek exceed 40).
+Interday Rest Period (IRP): The Company shall provide employees with at least 12 hours of non-working (i.e., not part of the workday) rest time between events on consecutive workdays (e.g., if an employee is scheduled to end a simulator at 8:00 p.m. on Monday, the earliest they may report for an instructor meeting on Tuesday morning is 8:00 a.m.).
+Maximum Daily Schedule Load: The Company shall not schedule employees to work longer than 40 hours in a work week unless the Company authorizes overtime. The workday will be eight (8) or ten (10) hours depending on the unit’s scheduling preference.
+No Food or Drink: The longest period the Company may schedule an employee to perform duties without access to food and/or drink is four hours.
+Section 4	- Overtime Authorization
+Employees shall be paid for all overtime hours worked (as required by law).
+Employees shall not voluntarily perform overtime work unless such work has been preauthorized by the Company. However, if the Company cannot be contacted, the employee may perform OT if it meets any of the following criteria:
+a.	Without the overtime, the Company would fail to comply with the contract or violate applicable laws;
+19 of 38 (20170808V4)
+b.	Without the overtime, an unsafe or unhealthful condition would exist for employees, Government personnel, or members of the public;
+c.	Without the overtime, there would be a significant disruption affecting the work of other employees or Government personnel.
+Section 5	- Holiday Pay
+The Company shall recognize the following federal holidays:
+New Year's Day
+Martin Luther King Day
+Presidents' Day
+Memorial Day
+Independence Day
+Labor Day
+Columbus Day
+Veterans' Day
+Thanksgiving Day
+Christmas Day
+Employees shall not normally be required to work on these holidays and will receive payment and/or in-lieu-of time off in accordance with their work schedule type.
+All employees must be on paid status the workday before and the workday after a holiday in order to receive holiday pay.
+Holiday Pay for Full-time Employees on a Compressed Work Schedule (4/10): The Company shall pay 10 hours of normal hourly wages for each holiday and allow the employee to take the applicable day off.
+Any holiday falling on a weekend day shall normally be observed on the day set by the Government.
+If the holiday (or the day it is observed by the Government) falls on an employee’s compressed work schedule day off, the holiday day off shall be adjusted as follows:
+a.	If the holiday falls on a Sunday, the employee shall get the next regularly scheduled workday off (e.g., if the employee’s compressed work schedule day off is Monday, Tuesday shall be observed as the “in-lieu-of” holiday).
+b.	If the holiday falls on any other day, the employee shall get the preceding regularly scheduled workday off (e.g., if the employee’s compressed work schedule day off is a Monday and the holiday falls on Monday, the preceding Friday would be the “in-lieu-of” holiday).
+Holiday Pay for Full-time Employees on a Conventional Work Schedule (5/8): The Company shall pay 8 hours of normal hourly wages for each holiday and allow the employee to take the applicable day off.
+20 of 38 (20170808V4)
+Any holiday falling on a weekend day shall normally be observed on the day set by the Government.
+Holiday Pay for Part-Time Employees: The Company shall only pay part-time employees for holidays (or the days the Government observes the holidays) that fall on the employee’s regularly scheduled workdays. In such a case, the Company shall pay the employee normal hourly wages for the number of hours the employee is regularly scheduled to work that day and allow them to take the day off.
+Section 6	- Government-Directed Worksite Closures
+Employees shall comply with Government directions regarding closure of the Hancock ANGB MQ-9 Formal Training Unit (FTU).
+If the Government closes the FTU (or regional Government authorities impose travel bans which preclude travel between the FTU and employee homes) during a normal workday; affected employees shall delay their report time until the Government-specified time or until the next normal workday (whichever is earlier) without incurring any loss of normal workday hourly wages.
+Reasons for closure may include but are not limited to:
+a.	Inclement weather
+b.	Utility failure
+c.	Natural disaster
+d.	Exercise or protest that block access to the worksite
+If the Government has not closed the FTU, and an employee believes it is not safe to travel due to adverse road conditions, the employee shall refrain from travel and contact the Company to obtain PTO or LWOP.
+Absent a showing of bad faith, employees shall not be disciplined for failing to report to work due to travel safety concerns.
+Section 7	- Telecommuting
+At the sole discretion of the Company, employees shall submit their request to the Site Lead to perform part or all of their workday hours via telecommuting from home (assuming the nature of the work is compatible with telecommuting; e.g., administrative work).
+All telework time must be pre-approved by the Company. If approved, the work hour and other provisions of this Agreement still apply even though the employee is working from home.
+Establishing telecommunication capability shall be voluntary and employees shall be responsible for all costs related to equipping and configuring home computers to make them compatible with telework.
+21 of 38 (20170808V4)
+Section 8	- Part-Time Employment
+The Company may hire employees to work a part-time schedule of 30 hours, or less, per workweek.
+Part-time employees shall not be utilized in any capacity that causes more senior full-time employees to be forced into working less than 40 hours per workweek (or being laid off).
+Part-time employees shall be considered “continuously employed” and shall receive the same benefits and protections (except where specifically exempted in this Agreement) as full-time employees. Their seniority and longevity shall accrue in the same manner as if they were employed full-time.
+Section 9	- Waiver for New York State Statutory Meal Periods
+The Association agrees to waive New York State Labor Law mealtime period requirements.
+Employees shall take meal breaks during open periods in their daily schedule even if those periods do not coincide with New York State-mandated meal times.
+ARTICLE 10 (WAGES)
+Section 1 - Definitions
+Base Pay: The basic hourly wage paid to employees in a given job classification, upon hire, regardless of qualification.
+Normal Hourly Wages: The sum of an employee’s Base Pay + Special Qualification Pay + Health and Welfare Fringe; paid each hour.
+Position: A job within a given job classification that requires a specific set of advanced qualifications to meet contractual requirements.
+Special Qualification Pay (SQP): Hourly wages paid to an employee, beyond base pay, in exchange for the employee maintaining one or more of the following advanced qualifications:
+a.	Live Flight Instructor: An instructor that is qualified to perform mission-specific (e.g., surveillance and/or weapon delivery) instructional tasks using an actual aircraft (as opposed to a simulator);
+b.	Evaluator: An instructor that is qualified to evaluate other individuals during flight or simulator evaluations (employees shall receive this SQP regardless of the number of evaluator qualifications they hold). The Government may choose contract Evaluators without regard to seniority.
+Note: All SQPs are additive.
+22 of 38 (20170808V4)
+An employee shall receive SQP when they are certified (via Government or Company evaluation) to perform an advanced qualification and assigned to a position that requires the use of that advanced qualification.
+a. Exception 1: non-probationary employees selected for upgrade shall continue to draw normal hourly wages (including SQP) for their old position until their upgrade training is completed.
+Employees shall not perform any advanced qualification tasks (as listed in the definition of Special Qualification Pay) for which they do not receive SQP.
+a. Junior employees shall not be permitted to perform/be paid for advanced qualification tasks unless more senior employees, in the same job classification, (who are medically qualified) have declined to be upgraded to perform those same tasks.
+Section 2	- Pay Frequency and Method
+All employees shall be paid at least twice per month, on days designated by the Company, via direct deposit.
+Section 3	- Hourly Pay by Job Classification
+Pilot Instructor	Current	1 Oct 2017	1 Oct 2018	1 Oct 2019
+Base Pay	$57.45	$66.63	$68.63	$70.69
++ Live Flight Instructor SQP	$12.73	$12.98		
++ Evaluator SQP	$1.03	$1.03		
+Sensor Instructor	Current	1 Oct 2017	1 Oct 2018	1 Oct 2019
+Base Pay	$44.63	$51.68	$53.23	$54.83
++ Live Flight Instructor SQP	$7.77	$7.92		
++ Evaluator SQP	$1.03	$1.03		
+Administration	Current	1 Oct 2017	1 Oct 2018	1 Oct 2019
+Base Pay	$29.71	$34.40	$35.43	$36.49
+Section 4	- Reporting Pay
+23 of 38 (20170808V4)
+Employees reporting to work on an assigned workday (or in “travel status” on any day, as described in the Travel Pay Article) shall receive a minimum guarantee of one workday of normal hourly wages.
+Employees directed by the Company to telecommute from home shall receive a minimum guarantee of two hours of normal hourly wages for each request.
+There shall be no reporting pay guarantee for voluntary telework.
+This provision does not apply to employees who are discharged for cause.
+Section 5	- Overtime Pay
+Any employee working more than 40 hours in a work week shall receive overtime pay at the rate of one and one-half times their normal hourly wage for all hours over 40 in accordance with Federal and State Laws.
+Employees may decline to perform overtime work without prejudice (except when safety of flight concerns preclude the employee from stopping work already in progress).
+Section 6	- Pay for Holiday Work
+Employees who perform work on a federal holiday shall receive their normal hourly wages in addition to holiday pay (i.e., their compensation rate shall be equal to twice their normal hourly wage).
+Employees who perform overtime work on a federal holiday shall receive overtime wages in addition to holiday pay (i.e., their compensation rate shall be equal to two and one-half times their normal hourly wage).
+Section 7	- Payroll Discrepancies
+All payroll discrepancies shall be corrected promptly when discovered by the Company or upon notification from the employee:
+a.	If the discrepancy occurred 90 days or less from the effective date of the payroll change, any difference between the incorrect payment/deduction and the correct payment/deduction shall be refunded or collected;
+b.	If the payroll discrepancy occurred more than 90 days from the effective date of the applicable payroll change, the employee will recoup any loss in payment due to Company error in the following payroll. If the Company overpays an employee or deducts an amount that is short of the correct deduction, terms of repayment to the Company will be discussed prior to any action taken. The Company would like to recoup the loss; this would only occur if terms of repayment are agreed upon by both parties. For example, the Company will disperse the repayment over several pay periods to reduce the financial
+24 of 38 (20170808V4)
+burden to the employee. The employee is not required to accept repayment terms proposed by the Company.
+Section 8	- Timesheet Submission
+Employees are required to submit their timesheet at the time designated by the Company. If an employee does not submit their timesheet by the Company’s deadline, the employee shall only be paid, during the upcoming pay period, for hours already logged into the timekeeping system.
+Employees shall notify the Company of any additional hours not logged by the deadline and the Company shall pay the employee for those hours during the next available pay period.
+Section 9	- Payment of Final Paycheck
+The Company shall issue final paychecks to departing employees no later than the next normal pay date following the employee’s layoff/termination/separation effective date.
+The final paycheck shall contain the full amount of compensation owed to the employee by the Company (e.g. wages, loyalty/severance pay, PTO, etc.) in accordance with Federal and State Laws
+ARTICLE 11 (TRAVEL PAY)
+Section 1	- Definitions
+Commute: The out and back journey between an employee’s home and Hancock ANGB or, while on a trip, the out and back journey between an employee’s temporary lodging location and their required work location.
+Lodging Cost: The actual cost, justified by receipt, of any stay in temporary lodging. Employees shall be reimbursed for this expense up to the “Max Lodging” rate specified by the current Government Travel Per Diem Allowance (plus applicable taxes and fees).
+Long-Term Travel: A trip lasting more than 12 hours.
+Mileage: An allowance paid to an employee using privately owned conveyance, for each mile of a trip, to cover the fuel and maintenance costs of their vehicle. When applied, the Company shall reimburse employees using the mileage rate specified in the current Government Travel Regulation. Only vehicle owners are entitled to receive a mileage allowance.
+Per Diem: The full “Local Meals” rate plus the “Incidentals” rate as specified by the current Government Travel Per Diem Allowance (for the locality where an employee’s temporary lodging is located) for each day of the trip.
+Remote Location: A location, other than Hancock ANGB, where an employee is required to perform work for the Company.
+25 of 38 (20170808V4)
+Remote Off-Duty Status: The days during which an employee is living in temporary lodging and waiting to perform work at a remote location (e.g., a weekend at a remote work location).
+Remote Work Status: The days during which an employee is living in temporary lodging and performing work at a remote location.
+Short-Term Travel: A trip lasting 12 or fewer hours.
+Travel Expenses: Any actual expense, justified by receipt, which is not already covered by mileage, lodging cost, or per diem.
+Travel Status: The days during which an employee is actively moving between Hancock ANGB and a remote location (not including commute) regardless of whether the employee is a driver or a passenger.
+Trip: An out and back journey (including time and distance) between Hancock ANGB and a remote location for a set period of time. Trips do not include the time or distance associated with an employee’s commute.
+Section 2	- General Travel Guidance
+Maximum Driving Period: Employees shall not be required to drive for more than eight hours per day while in travel status and must be afforded a rest period of 12 hours between driving days. If multiple employees share the drive, the limit remains the same (i.e., the entire group is limited to a single eight-hour driving period followed by a 12 hour rest period).
+Opting to Drive via Privately Owned Conveyance: Employees should use Government or Company-provided transportation when available. If an employee voluntarily declines to use such means, the Company may restrict the amount of reimbursement the employee receives to a level equal to that which the employee would have received by using Government or Company-provided transport.
+Rental Cars: The Company shall reimburse employees for travel expenses related to a rental car in cases where such a vehicle is required to travel between a public transportation hub and the remote worksite or between the remote worksite and temporary lodging.
+Serving as Driver for Government Personnel in a Government Owned Vehicle: Contractors may be asked to drive government-owned vehicles with Site Manager’s approval.
+Tickets for Public Modes of Conveyance: The Company shall purchase any tickets required for public modes of conveyance (e.g., airline, train, ship) and provide them to the employee, free of cost, before the employee enters travel status.
+Travel Credit Cards: Employees may use their own credit cards, or cash, to pay for any expenses other than those directly paid for by the Company.
+26 of 38 (20170808V4)
+Section 3	- Short Term Travel Compensation
+The Company shall pay employees the following:
+a.	Mileage (if the employee is approved to use privately owned conveyance);
+b.	Normal hourly wages for all hours in travel status (see notes 1 and 2);
+c.	Normal hourly wages for work performed at Hancock ANGB and/or a remote location (see notes 1 and 2).
+Note 1: The Company shall pay either the sum of lines b and c, or reporting pay, whichever is greater.
+Note 2: If the sum of lines b and c exceeds the number of hours in the employee’s normal workday, each excess hour shall be paid as overtime.
+Note 3: Employees may offer to operate the government vehicle under certain contingencies for travel to the remote location.
+Section 4	- Long Term Travel Compensation
+The Company shall pay the following for each day an employee is in travel status:
+a.	Mileage (if the employee approved to use privately owned conveyance);
+b.	Normal hourly wages for all hours in travel status (see notes 1 and 2);
+c.	Normal hourly wages for work performed at Hancock ANGB and/or a remote location (see notes 1 and 2).
+d.	75% of per diem;
+e.	Lodging costs;
+f.	Travel expenses.
+Note 1: The Company shall pay either the sum of lines b and c, or reporting pay, whichever is greater.
+Note 2: If the sum of lines b and c exceeds the number of hours in the employee’s normal workweek, each excess hour shall be paid as overtime.
+The Company shall pay the following for each day an employee is in remote work status:
+a.	Normal hourly wages for work performed at a remote location, or reporting pay, whichever is greater (see note 1);
+b.	100% of per diem;
+c.	Lodging costs;
+d.	Travel expenses (e.g., daily rate for rental car).
+Note 1: If line a exceeds the number of hours in the employee’s normal workday, each excess hour shall be paid as overtime.
+27 of 38 (20170808V4)
+The Company shall pay the following for each day an employee is in remote off-duty status:
+a.	100% of per diem;
+b.	Lodging costs;
+c.	Travel expenses (e.g., daily rate for rental car).
+Section 5 - Reimbursement Procedure
+Employees shall submit travel-related receipts and vouchers to the Company (on voucher forms provided by the Company) within seven calendar days of the date the employee returns home.
+The Company shall pay employees for travel during the next available pay period (provided the Company received the employee’s receipts and vouchers before the timesheet submission deadline for that pay period).
+ARTICLE 12 (LEAVE)
+Section 1	- Normal Paid Time Off (PTO)
+Full-time employees shall earn PTO in accordance with the following chart:
+Longevity	PTO Award Each Pay Period (24 periods/year)
+Less than 5 years	6.67 hours (160 hours per year)
+At least 5, but less than 10 years	8.33 hours (200 hours per year)
+10 years or more	10 hours (240 hours per year)
+Part-time employees shall earn PTO (from the chart above) at a proportion equal to the number of hours they are contracted to work per week divided by 40 (e.g., a part-time employee with less than five years of longevity who is contracted to work 30 hours per week shall receive 30/40 or 75% of the normal PTO award each pay period).
+PTO shall be scheduled by mutual agreement between the Company and the employee. Once scheduled, PTO shall not be cancelled without consent of the employee.
+PTO can be taken in any increment supported by the Company’s timekeeping system (the system must support taking increments of 0.5 hours or more).
+PTO shall be paid at an employee’s normal hourly wage rate.
+Employees may carry over a maximum of their annual award from one anniversary year to the next anniversary year. For example, an employee with less than five years longevity may only carry over 160 hours. Employees may not request pay in lieu of time off for PTO. The intent of this provision is to cause each employee to use PTO awarded for time off. In those situations where excess PTO is accrued beyond the maximum on an employee’s anniversary date, a refund
+28 of 38 (20170808V4)
+payment will be made by the Company. Other arrangements may be made at the discretion of the Company.
+Employees who are laid off shall be paid for all PTO hours accrued through their layoff effective date (in their final paycheck).
+Employees who terminate their employment (regardless of the reason) shall be paid for all PTO hours accrued (in their final paycheck).
+If the Company loses the contract for any reason, employees shall be paid for all PTO hours accrued (in their final paycheck).
+Section 2	- Bereavement Leave
+Section 1	— Definition and Length of Leave.
+a.	Tier 1 Employees shall be given up to five (5) days (40 hours) off with pay, to bereave and attend the funeral of a member of his immediate family. "Immediate family" shall be considered to be: spouse, child/step-child, sibling, or parent.
+b.	Tier 2 Employees who have completed their probationary period with the Company shall be given up to three (3) days (24 hours) off with pay, to bereave and attend the funeral of a member of the family. "Family" shall be considered to be: step-mother, step-father, mother-in-law, father-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law, grandmother, grandmother-in-law, grandfather, grandfather-in-law, and grandchild.
+Section 2	— Additional Time Off. If requested, up to forty (40) additional work hours off may be granted at the discretion of the Company upon request of the employee. The employee may use available PTO in lieu of time off without pay.
+Bereavement Leave shall be scheduled by mutual agreement between the Company and the employee. Once scheduled, Bereavement Leave shall not be cancelled without consent of the employee.
+Bereavement Leave shall be paid at an employee’s normal hourly wage rate. Payment shall only be granted for missed normal workdays.
+Section 3	- Family Medical Leave Act (FMLA)
+The Company is in accordance to the entitlements defined by the FMLA.
+Section 4	- Jury Duty/Witness PTO
+Employees who are required to be absent from work in connection with jury duty, or because they were subpoenaed as a witness, shall be paid for all missed normal work hours (at their normal hourly wage rate) and in accordance with Federal and State Laws.
+29 of 38 (20170808V4)
+Section 5	- Military Leave
+The Company will follow the regulations set forth under the Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA).
+The Company will pay the difference between base pay and military pay per the differential pay chart below. Flight incentive pay, basic allowance for housing, basic allowance for subsistence, hazard/danger pay, and hardship/post differential pay are considered military pay and will be added when calculating differential pay.
+When the employee returns to work from temporary duty, he will have ten (10) business days from the issuance of their final Leave and Earnings Statement (LES) to submit it to the Company to zero out any debts, such as benefit premiums as accrued by the Company due to the employee’s military leave duty. Failure to submit within the timeframe will result in payment delay. After 90 days of no submission, the employee forfeits pay differential.
+Payment will be made with the first payroll cycle after the employee provides the Company his military LES.
+# of Work Days	Employment Length
+10 days	0 years > 2 years
+20 days	2 years > 3 years
+30 days	3 years > 4 years
+40 days	4 years > 5 years
+50 days	5 or more years
+While performing duties as a military member, employees are prohibited from conducting company business or activities.
+Section 6	- Leave Without Pay (LWOP)
+LWOP may be granted to employees at the sole discretion of the Company (unless otherwise dictated by law). PTO shall not be accrued while in LWOP status unless approved by the Site Lead.
+Employees using PTO shall have leave-scheduling priority over employees taking LWOP.
+Employees shall continue to accrue seniority while on Company-approved LWOP.
+The Company shall continue to pay premiums and/or fees for benefits while an employee is on Company-approved LWOP. However, the Company shall deduct the cost of such premiums and/or fees from the employee’s first paycheck following their return from LWOP. If the employee is laid off or discharged, the Company shall deduct the cost of premiums from the employee’s final paycheck. If the final paycheck is not sufficient to cover the debt, the employee agrees to pay the Company directly on any outstanding balance. The Company reserves the right to recoup any outstanding balances via other legal channels (i.e., collection agencies, etc.)
+30 of 38 (20170808V4)
+Section 7	- PTO Award Discrepancies
+All PTO award discrepancies shall be corrected promptly when discovered by the Company or upon notification from the employee:
+a.	When a discrepancy is detected, the Parties shall reconcile the error for a 90-day period starting no more than 90 days prior to the date the error was first reported to both Parties (via e-mail or written letter).
+b.	PTO discrepancies occurring outside of a 90-day window, around the date the error was first reported to both Parties, shall be considered forgiven by both Parties.
+c.	The manner of PTO reconciliation is limited to adjustments to an employee’s current PTO balance or their future PTO award rate.
+ARTICLE 13 (UNIFORMS, EQUIPMENT, AND FACILITIES)
+Section 1	- Uniforms/Dress Code
+As a professional courtesy to our customers, all employees are expected to report to work dressed in a manner that reflects positively on the professional image of the Company. All employees are required to report for work in clean clothing and footwear.
+Employees shall wear Company-issued shirts and other attire suitable to convey a professional image.
+Employees may wear non-corporate jackets and other outerwear when environmental conditions warrant.
+Nametags are not required. However, employees shall display Government-issued restricted area badges (in the manner dictated by the issuing agency) while working in secure areas.
+Section 2	- Issued Items
+The Company shall provide the following clothing items at no cost to employees immediately after hire and then annually each October thereafter:
+d. Five Company logo “wash and wear” shirts
+The Company shall make logo-clothing items available for employee purchase between scheduled free-issue periods.
+The Company shall make issued items available for employee purchase in case replacement is needed for reasons other than normal wear and tear.
+31 of 38 (20170808V4)
+Section 3	- Facilities
+Employees shall keep their assigned office areas orderly and shall report any facilities or furniture needing repair to the Company.
+Employees shall not be required to clean or maintain restrooms, classrooms, briefing rooms, or other common areas. Employees shall not be required to move furniture.
+ARTICLE 14	(BENEFITS)
+Section 1	- Health and Welfare Fringe
+The Company shall provide a Health & Welfare fringe or “Cash In Lieu” amount per hour, in accordance with the following chart, for all hours paid. The payment is intended to be used by the employee to purchase health and welfare benefits. Any unused monies shall remain with the employee, unless otherwise required by law.
+Current	1 Oct 2017	1 Oct 2018	1 Oct 2019
+$6.09	$7.00	$7.21	$7.43
+Section 2	- Insurance Plans
+The Company shall provide employees (and their dependents) with the following benefit options:
+a.	Group health insurance;
+b.	Group dental insurance;
+c.	Group vision insurance;
+d.	Group life insurance and AD&D insurance
+e.	Group short and long-term disability insurance;
+f.	Flexible Spending Account (FSA) - Medical and/or Dependent Care
+Employees may accept or decline participation, at their discretion, immediately after hire and during annual open enrollment periods specified by the Company.
+The Company shall allow employees subject to personnel actions to adjust their participation options immediately following such an action.
+All premiums, deductibles, fees, preconditions of participation, eligibility, and distribution of benefits (not otherwise dictated by this Agreement or by law) shall be governed by the Company’s benefit plan documents.
+With the exception of benefits provided at no cost, premiums for employees’ selected plans shall be deducted from their pay in accordance with Federal and State Laws
+32 of 38 (20170808V4)
+Section 3	- 401(k) Savings Plan
+The Company shall provide a 401(k) savings plan through a qualified defined contribution plan which eligible employees may make voluntary salary deferral contributions within the provisions and limitations of the law.
+The Company shall provide safe harbor matching contributions of 100% of employee pre-tax contributions that do not exceed 4% of the employee’s compensation. Employees joining the plan shall not be subject to any waiting period for Company matches (i.e. the Company shall provide matches from the moment the employee makes their first contribution).
+Employee contributions and Company matching contributions shall be deposited within a reasonable period (as defined by ERISA law) into the employee’s 401(k) accounts after a payroll run.
+Employee contributions and Company matching contributions are 100% vested immediately upon deposit.
+Employees may accept or decline participation, at their discretion, at any time after their hire date. Employees that elect to participate in the 401(k) plan shall be enrolled (i.e. made eligible to make contributions) not later than 30 calendar days after the Company receives the employee’s enrollment/fund election information.
+The Company shall allow employees who are subject to personnel actions to adjust their participation options immediately following such an action.
+All fees, conditions of participation, eligibility, and distribution of benefits (not otherwise dictated by this Agreement or by law) shall be governed by the Company’s 401(k) plan document.
+The Company will confer with the Association regarding any potential change to the retirement plan recordkeeper.
+Section 4	- Annual FAA Medical Exams and Associated Waiver Exams or Tests
+The provisions of this section only apply to employees who are required to hold an FAA flight medical certificate to perform their job.
+The Company shall reimburse employees for their annual FAA Class II flight physical exams plus any additional FAA physical directed test (i.e., EKG).
+FAA medical exams and/or associated tests may be completed during normal working hours at a time that is scheduled by mutual agreement between the Company and the employee. In such case, the employee shall be paid normal hourly wages for work time missed up to four (4) hours.
+Employees must submit a receipt for the cost of their medical exam directly to the Company for reimbursement within 30 days of the exam date.
+33 of 38 (20170808V4)
+If additional medical tests or procedures are required to satisfy FAA medical criteria, employees are required to file a claim with their personal insurance carrier first. After the carrier has paid their portion, the employee must submit a receipt with the FAA medical examination receipt to the Company to obtain reimbursement of the remaining out-of-pocket costs.
+Section 5	- Tuition Assistance
+As an employee of the Company, employees are eligible to receive tuition assistance after they successfully complete their probationary period. The maximum allowance of tuition assistance provided to an employee is $1,500 per calendar year. This plan applies to undergraduate and graduate courses. Courses must be pre-approved by the Company to enhance the current and future contributions to the Company. Reimbursements will not be made for textbooks or other costs not classified as tuition costs. The Company reserves the right to waive the probationary period.
+To be eligible for tuition reimbursement, the employee:
+•	Must acquire pre-approval.
+•	Must submit a receipt for the class or classes and document that indicates he was awarded a passing grade for the class.
+An employee who fails a class, receives an incomplete, or withdraws from a class without Company approval, will not be reimbursed for tuition.
+In exchange for this benefit, employees are committed to continued employment for a minimum of one (1) year from course completion. If employee voluntarily resigns within this period, the Company will recoup the tuition reimbursement monies from his last paycheck.
+ARTICLE 15	(PERSONNEL ACTIONS)
+Section 1	- Promotions/Special Qualification Upgrades
+The Company shall offer upgrades to current employees before seeking new hires or transfers to fill higher-paid vacancies.
+If two or more equally qualified employees are eligible for an upgrade and express an interest, seniority shall govern who is selected.
+An employee may refuse to accept an upgrade without prejudice as long as there is a more junior employee willing to upgrade. In such a case, the offer shall pass down to the next qualified candidate in order of seniority and the employee shall continue in their previous position.
+If an employee’s position is abolished as a consequence of an upgrade, and the employee declines the upgrade, the employee shall be laid off.
+34 of 38 (20170808V4)
+Employees shall continue to be paid the normal hourly wages for their old position while enrolled in upgrade training. They shall be paid the hourly wage rate for their new, upgraded, position after they are fully qualified.
+Duties not listed in the PWS for Hancock shall not be performed nor paid without negotiations resulting in a Memorandum of Understanding (MOU).
+Section 2	- Demotions/Elimination of Special Qualification Duty
+If the Company decides to remove special qualifications from positions within a job classification, it shall apply the removals to employees in reverse order of seniority (i.e., the last employee hired is the first to lose their special qualification).
+In any case, the Company shall give affected employees two weeks of notice before reducing their pay to account for the loss of special qualifications.
+Section 3	- Loss of FAA Medical Qualification/Medically Unable to Perform Duties
+If an employee loses their FAA medical qualification, they shall remain in their current position and continue to earn their normal hourly wages for a period of 90 calendar days while they attempt to regain their qualification.
+If the employee remains unqualified after this term, their pay shall be reduced to base pay plus health and wellness fringe for an additional period at the sole discretion of the Company. When the Company-specified period ends, the employee may be laid off.
+If the employee is medically unable to perform duties associated with his position, he goes on unpaid FMLA status. The Company, in its sole discretion, may extend the Leave of Absence after the employee has exhausted the FMLA leave. This Company-approved Leave of Absence is unpaid.
+If the employee is unable to return from the Company-approved Leave of Absence, the Company reserves the right to terminate the employee.
+Section 4	- Loss of Security Clearance
+It is understood by the Company and the Association that employees shall be subject to investigation for security clearance or national agency check and/or unescorted entry authorization under regulations prescribed by the Department of Defense or other agencies of the
+35 of 38 (20170808V4)
+United States Government as a necessary condition of employment. Employees denied such clearance (and/or unescorted entry authorization) may be laid off at the Company’s discretion.
+ARTICLE 16	(CONTRACTING OUT AND GUEST WORKERS)
+Section 1	- Contracting Out
+The Company shall not contract out work, or bring in temporary guest workers from other worksites, if there are employees already at work (or on the rehire list) who can perform the work in question.
+Section 2	- Temporary Guest Workers
+Temporary guest workers shall be paid wages and earn paid time off in accordance with the provisions of this Agreement. However, such workers shall be exempt from paying dues or agency fees.
+Temporary guest workers shall not earn seniority and cannot exercise seniority-related rights under this Agreement.
+The longest period any temporary guest worker (or series of workers covering a single position) may perform work under this Agreement is 90 calendar days. Longer periods require Association concurrence.
+ARTICLE 17 (LEGAL)
+The Company agrees to indemnify employees with respect to any claims made against them resulting from the performance of their duties, except where it is established that such action arose out of a willful or wanton dereliction of duty.
+In the event that such proceedings result in any judgment or monetary award against such employees, the Company shall indemnify them in respect of payments made pursuant to judgments or monetary awards, and such indemnification shall include the assumption of the costs of any legal proceedings incurred by such employees resulting from the performance of their duties.
+36 of 38 (20170808V4)
+SENIORITY LIST
+Order	Name	Seniority Date	Longevity Date	Classification
+1	Kelso, Christopher	8 May 2009	8 May 2009	Sensor Instructor
+2	Kelso, Cassie	8 Oct 2010	8 Oct 2010	Sensor Instructor
+3	Swisher, Isaac	21 Oct 2011	21 Oct 2011	Sensor Instructor
+4	Marsch, Peter	1 Nov 2011	1 Nov 2011	Pilot Instructor
+5	Thompson, Brandon	7 Nov 2011	7 Nov 2011	Sensor Instructor
+6	Shaffer, Ashleigh	28 Nov 2011	28 Nov 2011	Administration
+7	Anderson, Dean	2 Apr 2012	2 Apr 2012	Pilot Instructor
+8	Brenton, David	18 May 2015	18 May 2015	Pilot Instructor
+9	Liebel, Darec	5 Aug 2015	5 Aug 2015	Pilot Instructor
+10	Mayer, Andrew	18 Aug 2015	18 Aug 2015	Sensor Instructor
+11	Buryanek, Steven	8 Sep 2015	8 Sep 2015	Pilot Instructor
+12	Stewart, Ryan	28 Sep 2015	28 Sep 2015	Sensor Instructor
+13	Shaffer, Alecia	16 Nov 2015	16 Nov 2015	Administration
+14	Godier, Don	1 Aug 2016	1 Aug 2016	Pilot Instructor
+15	Hisel, Cory	17 Apr 2017	17 Apr 2017	Sensor Instructor
+16	May, Dave	1 May 2017	1 May 2017	Pilot Instructor
+17	Schumacher, Casey	1 May 2017	1 May 2017	Sensor Instructor
+18	Collins, Kyle	1 May 2017	1 May 2017	Sensor Instructor
+37 of 38 (20170808V4)
+SIGNATURE PAGE
+IN WITNESS WHEREOF, the Parties have executed this Agreement by their respective representatives duly authorized on 8 August 2017.
+ForAOCE
+For SATEA
+James E. Hartney
+Chief Executive Officer
+Peter M. Marsch President
+Digitally signed by
+MARSCH.PETER.M.1017660990 DN: c=US,o=U.S. Government, □u-DoD, ou=PKI, ou=CONTR ACTOR, cn=M ARSCH .PETER.M. 1017660990 Date; 2017.08.21 16:48:48 -04'00'
+38 of 38 (20170808V4)

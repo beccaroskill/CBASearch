@@ -1,0 +1,1590 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see
+http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Cleveland, City of and Ohio Council 8, American Federation of State, County
+& Municipal Employees (AFSCME), AFL-CIO, Local 100 (1999)
+K#: 810507
+Location: OH Cleveland
+Employer Name: Cleveland, City of
+Union: Ohio Council 8, American Federation of State, County & Municipal
+Employees (AFSCME), AFL-CIO
+Local: 100
+SIC: 9199	NAICS: 921190
+Sector: L	Number of Workers: 1750
+Effective Date: 04/23/99	Expiration Date: 03/31/01
+Number of Pages: 93	Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+
+b io y
+AFSCME
+CONTRACT
+BETWEEN
+THE CITY OF CLEVELAND and
+LOCAL 100, AFSCME
+OHIO COUNCIL 8
+AFL-CIO
+Effective Upon Execution through March 31, 2001
+1
+LOCAL UNION OFFICERS
+'-Juanita Griffin.............President
+Paul R. Gamer.............Vice President Timothy Bankhead................Trustee
+Doris J. Blackmon...Secretary-Treasurer	Glenda J. Pronty..........Trustee
+Valerie D. Brumfield Recording Secretary	James W. Rogers...........Trustee
+COMMUNITY DEVELOPMENT Harley B. Edwards..................................................Chairperson
+Leoceritta M. Faison............................................Secretary
+FINANCE
+Derrick D. Pollard............................................Chairperson
+Cynthia Johnson.................................................Secretary
+PARKS, RECREATION & PROPERTIES Larry Wanzo, Sr....................................................Chairperson
+Chris E. Jones................................................. Secretary
+PORT CONTROL	>
+Ronald K. Pope................................................Chairperson
+Fred H. Jackson.................................................Secretary
+PUBLIC HEALTH Florence R. Harris.................................................Chairperson
+Jessie M. Larkin................................................Secretary
+PUBLIC SAFETY Louise E. Adams....................................................Chairperson
+Carol J. Smith..................................................Secretary
+PUBLIC SERVICE Akil J. Hashim.....................................................Chairperson
+Loanzer D. Gaiter.........................................      Secretary
+PUBLIC UTILITIES Louis D. Brown, III................................................Chairperson
+Donnita Y. Smith................................................Secretary
+UTILITIES INVESTIGATION Lawrence D. Haregsin...............................................Chairperson
+David N. Zock.................................................  Secretary
+UTILITIES MAINTENANCE Rashid M. Jones..................................................  Chairperson
+Derek B. Mitchell...............................................Secretary
+AFSCME Local 100 - 1603 East 27 Street - Cleveland, Ohio 44114-4217
+Phone:(216)781-0408 - Fax:(216)781-7502 - E-mail: afscme100@stratos.net
+2
+INDEX
+Article	Page No.
+Alternative Placement...........................................................32
+Assignment of Work/Temporary Transfers..........................................30
+Bulletin Boards.................................................................20
+CaD-In Pay......................................................................39
+Court Leave.....................,...............................................25
+Definition of Promotion.......................................................  32
+Dental Insurance................................................................49
+Discipline..................................................................    44
+Docking.........................................................................37
+Duration........................................................................85
+Education Leave...............................................................  26
+Equalization of Overtime........................................................37
+Funeral Leave...................................................................24
+General Leave Provisions........................................................29
+Grievance Procedure.............................................................45
+Holidays........................................................................39
+Hospitalization/Health Coverage................................................ 48
+Hours of Work.................................................................  36
+Immediate Family................................................................24
+Job Evaluation and Description..................................................31
+Lateral Transfers, Shift and Workweek Preference................................35
+Lay Offs........................................................................22
+Leaves of Absence...............................................................24
+Legality........................................................................50
+Life Insurance..................................................................49
+Limited Right to Strike.......................................................  15
+Longevity.......................................................................42
+Management Rights...............................................................14
+Maternity Leave.................................................................27
+Mileage.........................................................................43
+Military Leave..................................................................26
+Modification..................................................................  50
+Non-Discrimination..............................................................16
+No-Strike.....................................................................  15
+3
+INDEX
+Article	Page No.
+:	On-Call Pay...................................................................38
+Overtime - Premium Pay........................................................38
+I	Part-Time Employees - Benefits................................................22
+i	Pay Day.......................................................................43
+Personal Leave................................................................26
+Personnel Records............................................................ 44
+P.E.O.P.L.E. Check-Off........................................................18
+{	Posting Procedures..........................................................  32
+s	Probationary Period...........................................................20
+r - Purpose..........................................................................5
+j	Recalls.....................................................................  23
+Recognition....................................................................6
+f	Ratings and Probationary Reports..............................................44
+Report-In Pay.................................................................39
+f	Safety Committee..............................................................50
+[ ; Seniority...................................................................    21
+Shift Premium.................................................................36
+*	Sick Leave With Pay.........................................................  27
+Tax Deferral: Employee Contribution to P.E.R.S................................50
+f	Union Leave...................................................................26
+I	Union Representation..........................................................19
+Union Rights..................................................................14
+Union Security and Check-Off..................................................17
+Union Visitation..............................................................20
+।	Unpaid Medical Leave..........................................................28
+i	Vacations.................................................................    40
+,	Voluntary Sick Leave Contribution.............................................28
+Wages.........................................................................51
+Wage and Salary Schedule......................................................51
+J ; Working Conditions..............................................................49
+4
+ADDENDUMS ADDENDUMS
+Article	Page No.
+Department of Community Development....................................64
+Department of Finance..................................................80
+Department of Parks, Recreation and Properties.........................59
+Department of Port Control.............................................81
+Department of Public Health.......,....................................79
+Department of Public Safety............................................62
+Department of Public Service...........................................61
+Department of Public Utilities....L*...................................71
+General Government.....................................................68
+LETTERS OF UNDERSTANDING
+Article	Page No.
+Career Ladders.............................................................91
+Child Care.................................................................92
+City Drug Testing Policy...................................................87
+General Leave Provisions...................................................87
+Labor-Management Committee.................................................91
+Parking Tickets............................................................87
+Privatization/Subcontracting/Competitive Initiatives.......................90
+Serious Misconduct.........................................................87
+Training - Radio Technicians...............................................92
+Wage and Salary Schedule Committee.......................................  91
+PURPOSE
+1.	This Contract is made between the City of Cleveland (hereinafter referred to as the "City") and Ohio Council 8 and Local 100, AFSCME, AFL-CIO (hereinafter referred to as the "Union"). The male pronoun or adjective where used herein refers to the female also unless otherwise indicated. The term "employee" or "employees" where used herein refers to all employees in the bargaining unit. The purpose of this Contract is to provide a fair and
+5
+reasonable method of enabling employees covered by this Contract to participate, through v.Union representation, in the establishment of the terms and conditions of their employment, to establish a peaceful procedure for the resolution of all differences between the parties and to assure that the operation and services of the City will be conducted efficiently and effectively.
+RECOGNITION
+2.	The Union is recognized as the sole and exclusive representative for all employees of the City in the job classifications of the bargaining unit as set forth for purposes of establishing rates of pay, wages, hours, and other conditions of employment.
+3.	The Union's exclusive bargaining unit shall include all of the employees in the following job classifications and the City will not recognize any other union, organization or person as the representative for any employees within such job classifications:
+Accountant
+Accountant 1
+Accountant 2
+Accountant 3
+Accountant Clerk 1
+Accountant Clerk 2
+Activities Therapist
+Adolescent Counselor
+AIDS Coordinator
+AIDS Educator
+AIDS Support Services Coordinator
+Air Pollution Engineer
+Air Pollution Chemist
+Air Pollution Control Engineer 1
+Air Pollution Control Engineer 2
+Air Pollution Control Engineer 3
+Air Pollution Inspector 1
+Air Pollution Inspector 2
+Air Pollution Technician 1
+Air Pollution Technician 2
+Air Pollution Technician 3
+Airport Information Representative
+Airport Operations Agent 1
+Airport Operations Agent 2
+Airport Safetyman
+6
+Architect
+Assistant Buyer
+Assistant City Planner
+Assistant Engineer - Civil
+Assistant Engineer - Electrical
+Assistant Engineer - Mechanical
+Assistant Minority Business Consultant
+Assistant Plan Examiner
+Associate Programmer
+• Bacteriologist
+Bill Collector
+Boiler Washer
+Building Inspector
+Camera Room Operator
+Caseworker 1
+Caseworker 2
+Cashier Starter
+Chemist
+Chief Miscellaneous Investigator
+Child Development Worker
+Citizen's Information Representative
+Civil Engineer
+Claims Examiner
+Clerk Typist
+Clinical Laboratory Assistant
+Clinical Laboratory Technician 1
+Clinical Laboratory Technician 2
+Cocaine Intake Specialist
+Cocaine Treatment Counselor
+Community Development Code Enforcement Inspector 1
+Community Development Code Enforcement Inspector 2
+Community Development Code Enforcement Inspector 3
+Community Development Code Enforcement Inspector - Heating 1
+Community Development Code Enforcement Inspector - Heating 2
+Community Development Code Enforcement Inspector - Heating 3
+Community Development Code Enforcement Inspector - Refrigeration 1
+Community Development Code Enforcement Inspector - Refrigeration 2
+Community Development Code Enforcement Inspector - Refrigeration 3
+7
+Community Development Code Enforcement Inspector - Trainee
+Community Development Planner
+Community Health Aide
+Community Relations Representative 1
+Community Relations Representative 2
+Community Relations Representative 3
+Composing Equipment Operator
+Computer Monitor Assistant
+Computer Operator
+Consumer Protection Specialist
+Cook
+Copy Center Operator
+Cost Construction Estimator
+Customer Service Representative
+Data Control Clerk
+Data Conversion Operator
+Development Officer
+Dietician
+Drug & Alcohol Counselor
+Electrical Engineer
+Electronic Engineer
+Elevator Inspector
+Environmental Compliance Specialist 1*
+Environmental Compliance Specialist 2*
+Environmental Compliance Specialist 3*
+Environmental Enforcement Specialist 1*
+Environmental Enforcement Specialist 2*
+Environmental Enforcement Specialist 3*
+Environmental Monitoring Specialist 1*
+Environmental Monitoring Specialist 2*
+Environmental Monitoring Specialist 3*
+Environmental Engineer
+Environmental Technician
+Family Planning Clerk Financial Analyst Financial Counselor Financial Consultant
+8
+Fuel System Technician
+General Clerk Typist
+General Health Aide
+General Storekeeper
+Geriatric Aide
+Geriatric Outreach Worker
+Head Cook
+Head Storekeeper	.
+• Health Counselor
+Health Educator 1
+Health Educator 2
+Health Physicist
+Heating Inspector
+HIV Coordinator
+HIV Educator
+House Connection Inspector
+Housing Inspector
+Human Resources Contract Secretary
+Human Resources Contract Specialist
+Human Resources On-the-Job Training Specialist
+Human Resources Planner
+Human Resources Property Control Clerk
+Human Resources Special Projects Coordinator
+Human Resources Training Specialist
+Income Tax Tracer
+Industrial Hygiene Engineer
+Industrial Nuisance Inspector
+Information Control Analyst
+Inspector of Weights & Measures
+Instrument Repairman
+Instrumentation Technician 1
+Instrumentation Technician 2
+Intake Specialist
+Job Development Officer
+Job Retraining Assistant
+Job Training Coordinator
+9
+Junior Cashier
+Junior Chemist
+Junior City Planner
+Junior Civil Engineer
+Junior Clerk
+Junior Draftsman
+Junior Engineering Aide
+Laboratory Assistant
+Laboratory Helper
+Laboratory Coordinator*
+Landscape Architect
+Lead Pressman - Assistant to Printing Foreman
+License Inspector
+Lifeguard
+Lifeguard Captain
+Mechanical Engineer
+Medical Illustrator
+Messenger
+Meter Reader
+Minority Business Consultant
+Miscellaneous Investigator
+Monitor
+Monitoring, Auditing and Evaluation Coordinator
+Office Machine Operator
+Offset Duplicating Machine Operator
+On-the- Job Training Specialist
+Outreach Coordinator
+Park & Recreation Planner
+Parking Attendant
+Parking Meter Collector
+Parking Meter Serviceman
+Permit Processing Specialist
+Pharmacist
+Pharmacodependent Rehabilitation Counselor 1
+Pharmacodependent Rehabilitation Counselor 2
+Photographer
+10
+Photographic Laboratory Technician
+Photo-litho Operator
+Photostater & Blueprinter
+Physical Director
+Plan Examiner
+Play Director
+Police Data Specialist*
+Police Radio Technician
+Power Plant Apprentice
+Pressman
+• Preventive Health Counselor
+Preventive Health Educator
+Principal Cashier
+Principal Clerk
+Print Shop Helper
+Private Secretary
+Programmer
+Programmer Analyst
+Property Clerk
+Psychiatric Social Worker
+Psychologist 1
+Psychologist 2
+Public Information Officer
+Public Health Nursing Aide
+Public Health Nutritionist
+Public Health Sanitarian 1
+Public Health Sanitarian 2
+Public Health Sanitarian 3
+Public Health Sanitarian 4
+Quality Assurance Analyst
+Quality Control Coordinator*
+Radio Technician
+Radio Dispatcher - Water
+Radio Dispatcher - Water Pollution Control
+Receptionist
+Records Manager
+Recreation Aide
+Recreation Instructor
+11
+Recreation Instructor 1
+Recreation Instructor 2
+Recreation Instructor 3
+Recreation Program Supervisor
+Redevelopment Advisor
+Redevelopment Coordinator
+Refrigeration Inspector
+Refugee Outreach Worker
+Registered Animal Health Technician
+Rehabilitation Advisor ;
+Rehabilitation Inspector*
+Rodent Control Aide
+Sanitarian Aide
+Secretary
+Secretary to the Director of Consumer Affairs
+Senior Assistant Architect
+Senior Assistant City Planner
+Senior Assistant Engineer - Civil
+Senior Assistant Engineer - Electrical
+Senior Assistant Engineer - Mechanical
+Senior Assistant Engineer - Traffic
+Senior Bacteriologist
+Senior Cashier
+Senior Chemist
+Senior Clerk
+Senior Computer Operator
+Senior Data Conversion Operator
+Senior Development Officer
+Senior Draftsman
+Senior Engineering Draftsman & Photographer
+Senior Information Control Analyst
+Senior Laboratory Technician
+Senior Landscape Architect
+Senior Site Inspector
+Senior Site Inspector - Demolition
+Sewer Serviceman
+Site Inspector
+Social Worker for Homeless
+12
+S.T.D. Clerk
+Starter - Golf
+Stenographer 1
+Stenographer 2
+Stenographer 3
+Stock Clerk
+Storekeeper
+Street Obstruction Inspector
+Substance Abuse Counselor
+Surveyor	..
+Tax Auditor 1
+Tax Auditor 2
+Technical Specialist
+Technical Specifications Writer
+Telephone Operator
+Telephone Supervisor
+Timekeeper
+Traffic Engineer
+Traffic Sign & Marking Technician
+Typist
+Urban Planning & Development Technician
+Utility Adjuster
+Vector Control Assistant
+Veteran's Counselor
+Water Hydraulic Repairman
+Water Meter Repairman
+Water Pipe Repairman
+Water Serviceman
+Water System Construction Inspector
+4.	The following positions and employees holding these positions are specifically excluded from the bargaining unit. Any job classification or employee permanently assigned to the City's:
+[a]	Office of the Mayor
+[b]	Division of Personnel
+13
+[c]	Civil Sendee Commission
+[d]	Department of Law
+[e]	Office of Budget and Management
+MANAGEMENT RIGHTS
+5.	The Union recognizes the City as the body of authority solely vested with the right to run the City. It shall have the sole right to take any action it considers necessary and proper to effectuate any management policy express or implied, except as expressly limited under this s Contract. Nothing in this Management Rights provision shall be construed to restrict or limit ! any management authority. The City has no duty to bargain over its decisions or the effects of such decisions except as provided by this Contract.
+1 -	6. Except as specifically limited herein, the City shall have the exclusive right to manage
+r the operations, control the premises, direct the working forces, and maintain efficiency of i operation. Specifically, the City's exclusive management rights include, but are not limited to, the sole right to hire, discipline and discharge for just cause, lay off, and promote; to }	promulgate and enforce reasonable employment rules and regulations; to reorganize,
+1	discontinue or enlarge any department or division; to transfer employees; including the
+।	assignment and allocation of work within departments or to other departments; to introduce
+[ ; new and/or improved equipment, methods, and/or facilities; to determine work methods; to privatize or subcontract; to determine the size and duties of the work force; the number of shifts ; required and work schedules; to establish, modify, consolidate, or abolish jobs (or job classifications); and to determine staffing patterns, including, but not limited to, assignment of f employees, numbers employed, areas worked, subject only to the restrictions and regulations I i governing the exercise of these rights as are expressly provided herein and as permitted by law.
+7. The City shall have the right to privatize or subcontract services, provided that thirty (30) calendar days prior to any privatization or subcontracting the City shall meet and confer with the Union and the City will disclose the nature and costs of the proposed contract. Where the City's primary objective is to achieve financial economy, improved operating efficiency, and/or , better quality of service, the Union shall have ten (10) working days to make an offer of a competitive alternative. If that alternative yields financial savings, improved operating efficiency, and/or better quality of service genuinely equivalent to or greater than those the City I : can achieve through privatization or subcontracting, the City will accept the Union's alternative.
+=	8. In the event the Union cannot successfully compete with the subcontractor, prior to any
+layoff, the City would submit the names of the affected employees to the subcontractor for his/her consideration. If the employee is not employed, he shall be subject to layoff.
+14
+9.	In addition, unless otherwise restricted by an express term of this Contract, all rights are vexclusively reserved by the City. Further, the exercise of any enumerated or reserved management rights shall not be the subject of negotiations during the term of this Contract except as provided by this Contract, either with respect to the decision or its effects.
+UNION RIGHTS
+10.	It shall not be a violation of this Contract and it shall not be a cause for discharge or disciplinary action if any employee refuses to enter upon any property involved in a primary labor dispute, refuses to go through or work behind any lawful primary picket line, or refuses to do work normally done by primary striking members of another union, except that the City shall not be required to pay the wages of any such employees. Provided, that in no case shall any employee refuse to do any work, regardless of the existence of a lawful primary labor dispute, if, in the City's judgement, such refusal would be detrimental to the public health or safety unless the City cannot reasonably provide for the personal safety of the employees.
+11.	Any alleged violation of City rights or of Union rights is subject to immediate review by
+the Union and the City at the Step Three (3) level of the Grievance Procedure.
+NO STRIKE
+12.	The Union shall not, directly or indirectly, call, sanction, encourage, finance, and/or assist in any way, nor shall any employee instigate or participate, directly or indirectly, in any strike. For purposes of this paragraph, "strike” means concerted action in failing to report to duty, willful absence from one's position, stoppage of work, slowdown or abstinence in whole or in part from the full, faithful, and proper performance of the duties of employment for the purpose of inducing, influencing, or coercing a change in wages, hours, terms, and conditions of employment for the duration of this Contract or any extension thereof.
+13.	Violation of this paragraph may constitute an unfair labor practice as determined and remediable by the State Employment Relations Board (S.E.R.B.) (hereinafter the "Board"). In the event an unfair labor practice is determined by the Board, the City will not subsequently impose discipline except as recommended by the Board.
+LIMITED RIGHT TO STRIKE
+14.	Upon or after the expiration or termination of this Contact or any extensions thereof, employees have the right to strike under Chapter 4117 of the Ohio Revised Code provided that the Union has given a ten (10) calendar day prior written notice of an intent to strike to the City and to the Board; however, the Board, at its discretion, may attempt to mediate at any time.
+15
+15.	It is understood that all orders of City supervisors shall be complied with during the '. period when a dispute is being processed through the Grievance Procedure; provided, that no employee shall be required to obey an order which would jeopardize his life or cause bodily injury.
+16.	The City shall not lock out any employee for the duration of this Contract.
+NON-DISCRIMINATION
+17.	Both the City and Union recognize their respective responsibilities under federal and state civil rights laws, fair employment practice acts, and other similar constitutional and statutory requirements. Therefore, both the City and the Union hereby reaffirm their commitments, legal and moral, not to discriminate in any manner relating to employment on the basis of race, color, national origin, sexual orientation, handicap/disability or age.
+18.	The City has the legal and moral duty to make a reasonable accommodation to an employee's handicap/disability where such accommodation(s) will enable a handi-capped/disabled employee to substantially perform the essential elements of the job in question. The City will abide by the federal definitions of handicapped/disability as set forth by the Equal Employment Opportunity Commission (E.E.O.C.) and the Americans with Disabilities Act (A.D.A.).
+19.	It is agreed that all employees have a right to a workplace free of verbal and/or physical harassment. If when filing a grievance alleging a violation of this provision, an employee states that he is unable to function in the worksite from which the complaint arose, the City shall conduct a preliminary investigation for the purpose of establishing that a reasonable basis for the employee's concern exists. If such a basis is established, the City may reassign either the grievant or the individual against which the grievance is directed until such a time as the complaint is fully investigated, there is a finding, and corrective action, if required, is implemented.
+20.	All of the employees of the City within the bargaining unit shall receive equitable treatment and share in any and all benefits provided herein.
+21.	The City recognizes the right of all employees and all applicants for employment to be free to join the Union and to participate in lawful concerted Union activities. Therefore, the City agrees that there shall be no discrimination, interference, restraint, coercion, or reprisal by the City against any employee or any applicant for employment because of Union membership or because of any lawful activity in an official capacity on behalf of the Union.
+16
+UNION SECURITY AND CHECK-OFF
+22.	All employees in the bargaining unit covered by this Contract who are members of the Union on the date this Contract is signed and all other employees in such bargaining unit who become members of the Union at any time in the future shall, for the term of this Contract, continue to be members of the Union and the City will not honor dues deduction (check-off) revocations from any such employees except as provided herein.
+23.	The City will deduct regular initiation fees and Union dues from the pay of employees in the bargaining unit covered by the Contract upon receipt from the Union of individual written authorization cards voluntarily executed by an employee for that purpose and bearing his signature provided that:
+[a]	An employee shall have the right to revoke such authorization by giving written notice, with proof of service, to both the City and Union during the first (1st) twenty (20) days of the thirty (30) day period preceding the termination of this Contract and the authorization card shall state clearly on its face the right of an employee to revoke during this period; and
+[b]	The City's obligation to make deductions shall terminate automatically upon timely receipt of notice of revocation of authorization in accordance with Paragraph Twenty-Three-[a], (23a), or upon termination of employment or reclassification to a job classification outside the bargaining unit. The City will notify the employee of his transfer to a job outside the bargaining unit; and
+[c]	Employees in the bargaining unit may join the Union any time from their date of hire.
+24.	All bargaining unit employees who do not become members in good standing of the Union shall be required to pay a fair share fee to the Union. Employees who transfer into the bargaining unit and employees who revoke such authorization pursuant to Paragraph Twenty-Three [a], (23a), shall be immediately required to pay a fair share fee to the Union. This provision shall apply also to any additional titles which may be added to the Contract during its term.
+[a]	The fair share fee amount shall be certified to the City by the Union. The Union shall make every effort to provide the City with thirty (30) days advance notification of any change in the fair share fee amount. The deduction of the fair share fee from any earnings of the employee shall be automatic and does not require a written authorization for payroll deduction.
+17
+[b]	Payment to the Union of fair share fees deducted shall be made in accordance with the regular dues deductions as provided herein.
+25.	Deductions shall be made during each pay period of each month, but, if an employee's pay for a period is insufficient to cover Union dues or fair share fees, the City will make a deduction from the pay earned during the next pay period.
+26.	All deductions, accompanied by two (2) alphabetical lists of all employees containing the names, job classifications, social security numbers, employee identification and organizational numbers along with the amount of the deduction shall be transmitted to the Union no later than the fifteenth (15th) day following the end of the pay period in which the deduction is made and, upon receipt, the Union shall assume full responsibility for the disposition of all funds deducted.
+27.	The City shall place back on check-off those employees who return to the active payroll from a leave of absence, layoff or suspension, or who are transferred from one division to another division. The City shall provide a monthly report of all employees that have been removed from the deduction list.
+28.	The Union will indemnify and save the City harmless from any action growing out of dues and/or fair share fee deductions hereunder and commenced by an employee against the City or the City and the Union jointly.
+P.E.O.P.L.E. CHECK-OFF
+29.	The City will deduct voluntary contributions to the AFSCME International Union's Public Employees Organized to Promote Legislative Equality (P.E.O.P.L.E.) Committee from the pay of employees covered by this Contract upon receipt from the Union of individual written authorization cards voluntarily executed by an employee provided that:
+[a]	An employee shall have the right to revoke such authorization by giving written notice to the City and the Union at any time and the authorization card shall state clearly on its face the right of an employee to revoke; and
+[b]	The City's obligation to make deductions shall terminate automatically upon receipt of revocation of authorization or upon termination of employment or transfer to a job classification outside the bargaining unit; and
+[c]	The contribution amount shall be certified to the City by the Union. The Union
+18
+shall provide the City with thirty (30) days advance notification of any change in the - contribution amount. Contributions shall be transmitted to the Union in accordance with
+the provisions of Paragraph Twenty-Nine, (29), of this Contract. This transmittal shall be accompanied by an alphabetical fist of all employees for whom deductions have been made and the names of employees for whom deductions have been terminated and the reason for termination.
+30.	All P.E.O.P.L.E. contributions shall be made as a deduction separate from the fair share fee and dues deductions.
+UNION REPRESENTATION
+31.	The City recognizes the right of the Union to select local union officers, chapter officers, stewards and alternate stewards to represent employees on grievances arising under this Contract as follows.	.
+I	.
+32.	The alternate steward shall act as steward when the steward is absent from work and the Union must at all times have a steward or alternate steward in each of the locations. When more than three (3) employees are working, a steward will be present and working. A local union officer or chapter officer may act when necessary in place of a steward. Local union officers, chapter officers, stewards and alternate stewards shall not be transferred from their respective work locations and their respective shifts during their terms of office, except upon mutual agreement between the City and the Union. The Union agrees it will not unreasonably withhold its agreement to a transfer from a shift or work location as provided for by this paragraph. The Union will provide, on a divisional basis, an official list of local union officers, chapter officers, stewards and alternate stewards, for the purpose of recognition, to the affected division and the City's Labor Relations Office and notify each of any change in such fists. The City agrees to provide the Union with a current list of divisions and appointing authorities upon request of the Union.
+33.	A local union officer, chapter officer, steward or alternate steward, within a reasonable time from the time he gives notice to his supervisor shall be permitted to investigate and process a grievance within his own location and attend meetings on City property or at a work location provided for by the Grievance Procedure during his working hours without loss of regular (straight-time) pay. Chapter officers shall be permitted to attend grievance-related meetings at the Union Hall upon prior notice by the Union to the City’s Labor Relations Office as to the date, time and person(s) involved. Such activity shall be with proper regard for the City's operational needs and work requirements and additional time is not provided for or compensable for Union-related matters. It is the City's responsibility to provide time to Union
+19
+representatives as provided for in the Grievance Procedure, and it is the Union representative's -responsibility to inform the City of the tentative time and location of his hearings and investigations. All such activity shall be logged on forms provided by the City for that purpose.
+34.	The City and the Union will cooperate in providing for a fair and timely Grievance Procedure and keep to a minimum the time lost due to grievance handling.
+35.	The City shall provide reasonable space for a Union office at the following locations:
+[a] Public Utilities Building
+,	[b] Justice Center
+UNION VISITATION
+36.	Upon notice to the City's Labor Relations Representative or the appropriate appointing authority, non-employee representatives of the Union shall be permitted to enter the City's r........... premises during working hours, but at no time shall such visitation rights interfere with the
+j work requirements of any employee or disrupt operations in any way unless expressly permitted by the City.
+’	BULLETIN BOARDS
+j 37. The City shall provide the Union with bulletin boards at mutually selected locations provided that:
+1	[a] No notice or other writing may contain anything political or critical of the City
+F 5	or any City official of any other institution or any employee or other person; and
+r.7
+[b]	All notices or other materials posted on the bulletin board must be signed by a local officer or chapter officer or steward of the Union or a representative of AFSCME 1	Ohio Council 8 and shall be solely for Union business; and
+[c]	Upon request from the appropriate commissioner, the Union will immediately remove any notice or other writing that the City believes violates this paragraph, but < ;	the Union shall have the right to grieve such action through the Grievance Procedure.
+..	PROBATIONARY PERIOD
+5	38. All new employees shall serve a single initial probationary period of one hundred twenty
+20
+(120	) calendar days beginning with their date of employment with the City. This period can 'be extended an additional sixty (60) calendar days with the consent of the Union. During the initial probationary period the City shall have the sole right to discipline or terminate a new employee provided such action taken shall not violate Paragraphs Seventeen, (17), through Twenty-One, (21), of this Contract.
+39.	This initial probationary period shall be the only probationary period an employee is required to serve within a job classification.
+40.	Employees who are promoted shall serve only a single promotional probationary period for that classification as set forth in Paragraph One Hundred Two, (102), of the Contract.
+41.	No probationary period shall be extended without mutual written agreement of the parties.
+42.	The City will provide timely thirty (30), sixty (60), ninety (90) and one hundred twenty (120) day evaluations and have employees sign for receipt or indicate refusal to sign.
+43.	If an employee is discharged or quits while on probation and is later rehired, he shall be
+considered a new employee and subject to these provisions.
+SENIORITY
+44.	Job classification seniority is defined as an employee's length of service while holding the same job classification. City employment seniority shall be defined as an employee's continuous length of service, effective from his date of hire. The type of seniority applied depends upon the question involved as governed by the provisions of this Contract. An employee who is on an approved leave of absence as provided herein shall accumulate seniority during the entire period. A part-time employee who moves to a full-time position in the same classification shall receive pro-rata job classification seniority and City seniority credit for all time worked as a part-time employee. A part-time employee who moves to a full-time position in a different classification will receive pro-rata City seniority credit for all time worked as a part-time employee. Seniority credited on this basis shall apply only in the case of promotions and/or transfers.
+45.	An employee shall ha*% no seniority for the initial probationary period, but upon completion of the probationary period, seniority shall be retroactive to the date of hire.
+46.	Seniority shall be broken(or terminated) when an employee:
+21
+[a]	Quits or resigns;
+[b]	Is discharged for just cause;
+[c]	Is laid off for a period of more than twenty-four (24) consecutive months;
+[d]	Is absent without leave for five (5) consecutive working days and fails to give proper excuse or notice of the reason(s) for such absence, unless the failure to give notice was beyond the reasonable control of the employee;
+[e]	Fails to report for work when recalled from layoff within ten (10) working days from the date on which the City sends the employee notice by certified mail to the employee's last known address as shown on die City's records;
+[f]	Is promoted to a non-bargaining unit position and successfully completes his promotional probationary period.
+47.	The City shall provide the Union bi-monthly with two (2) computer-generated copies of a current seniority list fisting all bargaining unit employees. The seniority list shall be made up by job classification and shall contain in order of job classification seniority, the name, social security number, organizational number, date of hire, job classification seniority date, employee identification number and hourly rate of pay. The City shall meet with the Union whenever necessary to correct any errors and within twenty (20) working days of the date the errors are brought to the City's attention, corrected copies of the list shall be provided to the Union.
+48.	The City shall furnish a monthly list to the Union showing name, social security number, address, date of hire, job classification seniority, organizational number, job classification and employee identification numbers of new bargaining unit employees.
+49.	It is the obligation of each employee to keep the City advised of his cunent address and, for purposes of this Contract, the City shall rely on the last address supplied by the employee.
+PART-TIME EMPLOYEES BENEFITS
+50.	A part-time employee is defined as one who is regularly scheduled to work twenty-eight (28) hours or less per week on an annual basis. He is not entitled to and does not receive fringe benefits. Seniority shall only be utilized for layoff purposes.
+22
+LAYOFFS
+51.	Whenever it is necessary to reduce the working force of the City, either for lack of work or lack of funds, employees shall be laid off based upon City seniority within their job classification within the division in the following order:
+[a]	Seasonal or casual or emergency or transitory employees;
+[b]	Part-time employees;
+[c]	Full-time employees.
+Ties in City seniority shall be broken by random selection, by lotteiy, with a Union representative present.
+52.	Bargaining unit employees shall be given a minimum of fourteen (14) calendar days’ advance written notice of layoff indicating the circumstances which make the layoff necessary. Exceptions to the above will be provided for by mutual consent between the City and the Union. The Union shall receive a copy of all such layoff notices at the time they are issued.
+53.	In the event an employee is laid off, he shall receive payment for earned but unused vacation as quickly as possible but not later than ten (10) working days after the layoff.
+54.	Before any bargaining unit employee is given notice of layoff under the above paragraphs, the City and the Union will meet immediately for the purpose of attempting to find an available job within the City, within the bargaining unit, which the affected employee is qualified to perform. If any such job is available, the employee will be given the option of accepting it rather than being laid off.
+RECALLS
+5	5. Employees shall be recalled to their job classification within their division in the reverse order of layoff. An employee on layoff will be given ten (10) working days' notice of recall from the date on which the employee receives the recall notice sent by the City by certified mail to his last known address as shown on the City's records. The City shall provide the Union with a copy of the recall notice.
+56.	In the event a job opening occurs in an equal or lower-rated job classification, the most senior employee will be given the option of accepting the job or not, provided the employee has the ability and qualifications to perform the work. If the employee declines the job, the next most senior employee shall be accorded the same rights under the same conditions, and this
+23
+procedure shall continue until the City has exhausted the layoff list or the job opening is filled. • No new bargaining unit employees shall be hired until all qualified employees on layoff status desiring to return to work have been offered recall by regular mail to their last known address, with a copy to the Union. The recall notice shall include a form for the employee to accept or decline the recall.
+57.	In the event a laid-oflf employee accepts recall to a job classification other than the job classification from which he was laid off, he shall be paid at the starting rate of the job classification if the job classification is on the wage and salary schedule. If the job classification is not on the wage and salary schedule, the employee shall be paid at a rate which is not lower than the lowest rate being paid to any other employee in the same job classification.
+58.	Further, he shall have the right to any vacancy in the job classification within the division from which he was laid off for a period of two (2) years from the date of the initial layoff.
+59.	An employee who is recalled to the same position from which he was laid off, but refuses the job, shall be removed from the layoff fist and forfeits all seniority rights, including recall rights.
+LEAVES OF ABSENCE
+Immediate Family
+60.	Immediate family shall be defined as an employee's mother, father, a person who has been in loco parentis to the employee, spouse, child, brother, sister, grandparent, grandchildren, mother-in-law, or father-in-law.
+Funeral Leave
+61.	An employee will be granted a leave of absence with pay, to be charged against his accumulated sick leave with pay in the event of the death of a member of his immediate family as follows:
+[a]	If the funeral is within the State of Ohio - five (5) working days;
+[b]	If the funeral is outside the State of Ohio - seven (7) working days; and
+[c]	To be eligible for funeral leave, an employee must provide the City with a funeral form (to be supplied by the City) and must attend the funeral and/or other obligations related to the death and/or estate, etc.
+24
+Court Leave
+62.	An employee called for jury duty or subpoenaed as a witness shall be granted a leave of absence with pay for the period of jury or witness service as provided herein:
+[a]	An employee must present verification of his call to jury duty or witness duty;
+[b]	If a witness, that his testimony was within the scope of his employment for the City and not of a personal nature; and
+[c]	Turn in the amount received as a jury or witness fee to the City Treasury in order to receive his regular pay for this time period.
+63.	A shift employee who is called for jury duty shall be provided a Monday through Friday day shift schedule. Further, time spent on jury duty leave shall be counted as hours worked for the purpose of computing overtime.
+64.	An employee who is required to appear in court for reasons outside the scope of his employment, other than for jury duty, shall be granted vacation time or an unpaid excused absence provided that documentation is provided either in the form of a subpoena or a letter from a participating attorney and the request for an unpaid excused absence or vacation time is made to the appropriate supervisory person at least twenty-four (24) hours in advance.
+Military Leave
+65.	An employee shall be granted an extended leave of absence without pay for military duty in accordance with state and federal law and, after discharge, shall be restored to employment with the City upon request, in accordance with state and federal law.
+66.	Employees who are drafted or who enlist in the United States Armed Forces shall be granted a one (1) day leave of absence with pay for the purpose of taking a military physical. Upon return from military leave, an employee will be reinstated at the current applicable rate of his job classification in accordance with law and the provisions as set forth herein.
+67.	A non-probationary employee of the City who is temporarily called to active duty (e.g. summer training), shall be granted a leave of absence for the duration of such active duty and shall be paid the difference between his regular pay and his service pay, upon the City’s receipt of a service pay voucher, for a period not to exceed one hundred seventy-six (176) hours in any calendar year and, further, shall accumulate vacation and sick leave with pay credit during the period of such leave.
+25
+68.	Any non-probationary employee who is entitled to the leave provided under Paragraph ‘Three (3) of the Contract and who is called to active military duty for a period in excess of one hundred seventy-six (176) hours in any one (1) calendar year, for each calendar year in which military duty is performed because of an Executive Order issued by the President of the United States or an Act of Congress is entitled, during the period designated in the Order or Act, to a leave of absence and to be paid, during each month of that period, the lesser of the following:
+[1]	The difference between his gross monthly wage or salary as an employee and the sum of his gross military pay and allowances received that month; or
+[2]	Five hundred dollars ($500)
+The employee shall not receive payments under this paragraph if the sum of his gross military pay and allowances received in a month exceeds his gross monthly wage or salary as an employee or if the permanent public employee is receiving his pay pursuant to Paragraph Three (3)-
+[a] Employees on military leave who thereafter return to employment with the City shall receive retirement and longevity credit for all time spent in active military service.
+Union Leave
+69.	At the request of the Union, a leave of absence without pay shall be granted to any employee selected for Union office, employed by the Union, or required to attend a Union convention or perform any other function on behalf of the Union necessitating a suspension of active employment. In each case, notification that any employee shall be on Union Leave shall be provided to the employee's appointing authority, stating the category within which the leave falls, with a copy of said notification provided to the City's Labor Relations Office.
+Education Leave
+70.	An employee may be granted a leave without pay for educational purposes relating to the operations of the City.
+Personal Leave
+71.	For those employees who have completed their probationary period, personal leaves of absence shall be granted without pay, for good cause shown, for a period not to exceed ninety (90) calendar days. The granting of such leaves will be based upon the operational needs of the employee's department.
+26
+Maternity Leave
+*72. Maternity leave shall be granted and treated in all respects like any other medical leave of absence, paid or unpaid, granted by the City.
+Sick Leave With Pay
+73.	All regular full-time employees shall be credited with paid sick leave at the rate of ten (10) hours per month or fifteen (15) work days per year. Unused sick leave shall continue to accumulate without limitations.
+74.	An employee shall be granted sick leave with pay for actual illness or injury of the employee or a member of his immediate family, medically ordered confinement due to exposure to a contagious disease, and for medical, dental or optical examination or treatment of an employee or a member of his immediate family.
+75.	Paid sick leave will be credited but cannot be used until the employee has satisfactorily completed his initial probationary period with the City.
+76.	No paid sick leave shall be granted unless the division authority designated by the City is notified of the illness no later than one (1) hour following the employee's scheduled starting time on the first (1st) day of absence on account of illness. Provided, that for employees who are engaged in a twenty-four (24) hour operation with mandatory relief, no paid sick leave shall be granted unless the division authority designated by the City is notified of the illness no later that the employee's scheduled starting time on the first (1st) day of absence on account of illness. Absences not reported as stated above may be excused by his employer if the appointing authority or his designee determine that there were unusual circumstances which were beyond the employee's control. An employee is required to call in on each day off or notify the City of the duration of his absence.
+77.	A certificate from a licensed physician shall be required immediately upon returning to work from any illness from an employee who has been so notified in writing that he has demonstrated a patterned abuse over the preceding months or after any illness requiring hospitalization. This certificate must include the re-employment date, work capable of being performed, and all restrictions. An employee may be required to submit a doctor's certificate for any illness beyond three (3) working days if so notified, by the division authority designated by the City, prior to the employee's return to work. The validity of all medical excuses and physician's certificates are subject to review by a City physician. Any review or medical examinations ordered by the City shall be done on City time.
+78.	Once an employee has exhausted his accumulated sick leave with pay, he shall be
+27
+* granted sick leave without pay subject to the same provisions as those which govern the use * of sick leave with pay.
+79.	Upon retirement or death, an employee or his legal representative shall have the right to convert his unused accumulated paid sick leave into cash at the rate of one (1) day's pay for each three (3) days of unused accumulated paid sick leave. The pay rate used shall be the three (3) year average of earnings, overtime and longevity pay divided by two thousand eighty (2080) hours.
+80.	Each pay period the employee's pay stub shall show the amount of his unused accumulated sick leave, vacation leave and personal leave (floating holidays) and compensatory time.
+81.	An employee who is injured on the job shall have the option of using his sick leave, workers' compensation benefits or his vacation, whichever he prefers.
+Unpaid Medical Leave
+82.	An employee shall be granted a leave of absence without pay, for a period not to exceed six (6) months, because of personal illness, injury or pregnancy, including postpartum periods, supported by medical evidence satisfactory to the City if the employee is on sick leave without pay in excess of one (1) full pay period and/or the employee has made application in accordance with Paragraph Eighty-Four, (84), of this Contract. If the illness, injury or pregnancy, including postpartum recovery periods, continues beyond six (6) months, the City may grant additional medical leave under this paragraph upon the submission of medical documentation. An employee on unpaid medical leave is expected to keep the City informed as to the progress of his or her illness, injury or pregnancy, including postpartum recovery period, as circumstances allows. Any employee who has been on unpaid medical leave may be required to submit to and pass a physical examination before being permitted to return to work.
+VOLUNTARY SICK LEAVE CONTRIBUTION
+83.	Employees who are not on an absence abuse list shall be entitled to voluntarily contribute earned but unused, accumulated paid sick leave for the use of another bargaining unit employee who must have exhausted his own sick leave, vacation and personal leave. The following conditions shall apply:
+[a]	An employee may contribute up to a maximum of forty (40) hours of his acumulated paid sick leave but must retain at least one hundred (100) hours of
+28
+accumulated leave after any contribution. The employee so contributing his paid sick leave shall have such contributed time deducted from his accumulated sick leave balance.
+[b]	Any agreement to contribute must be in writing and signed by the contributing employee and his Union representative and subject to final approval by the City's Office of Labor Relations. A copy of the agreement will be placed in each employee's file.
+[c]	The City may, at its election, cancel this program by serving notice to the Union three (3) months in advance of said cancellation date. Said cancellation shall not be done on an arbitrary or capricious basis.
+[d]	As appropriate, the City will designate an employee’s use of paid and unpaid time as Family Medical Leave consistent with the Family Medical Leave Act and sick leave and leave of absence polices.
+GENERAL LEAVE PROVISIONS
+84.	All leaves of absence and any extensions thereof must be applied for and granted or rejected within five (5) working days, in writing, on forms to be provided by the City. An employee, upon request, shall be entitled to return to work prior to the expiration of an unpaid medical leave of absence upon submission to the City of acceptable documentation that the employee is able to work.
+[a]	An employee may, upon request, be entitled to return to work prior to the expiration of any other leave of absence if such early return is agreed to by the City.
+[b]	When an employee returns to work after a leave of absence, he will be assigned to the position which he formerly occupied, or to a similar position if his former position no longer exists, at his current rate of pay.
+[c]	The City shall develop and establish uniform procedures including standardized forms and information sheets, governing the application for grant or denial of, extension of and return from leaves of absence. The Union shall be provided an opportunity to review and comment on the procedure before implementation.
+85.	If it is found that a leave of absence is not actually being used for the purpose for which it was granted, the City may impose disciplinary action up to and including discharge.
+86.	An employee who fails to report to work at the expiration or cancellation of a leave of
+29
+absence, or who fails to secure an extension of such leave, shall be deemed to be absent without leave and shall be subject to loss of seniority as set forth in Paragraph Forty-Six [d], (46d), of this Contract.
+ASSIGNMENT OF WORK - TEMPORARY TRANSFERS
+87.	All employees shall be required to perform any and all authorized, temporarily assigned duties regardless of their usual or customary duties or job assignment. A temporary transfer shall not exceed thirty (30) working days except:
+[1]	To fill a vacancy caused by an employee being on sick or other approved leave of absence;
+[2]	To provide vacation relief scheduling;
+[3]	To fill an opening temporarily pending permanent filling of such opening;
+[4]	To meet an emergency situation.
+88.	The employee shall be given a written notice of said transfer and its approximate duration and the reason for the transfer at the time the transfer is made, with a copy of said notice to the Union, if the transfer exceeds two (2) hours. When an employee is temporarily transferred to another job classification:
+[a]	If the rate of pay for such other job classification is lower than his regular rate, he shall receive his regular rate;
+[b]	If the rate of pay for such other job classification is higher than his regular rate of pay, he shall receive a five percent (5%) hourly increase in pay or an adjustment to the bottom of the pay band of such job classification, whichever is greater, for all hours worked;
+[c]	The City will not rotate temporary transfer assignments in order to deprive employees of the opportunity to qualify for a higher rate of pay under these temporary transfer provisions;
+[d]	Temporary transfers and/or assignments shall not be used to avoid the permanent filling of a bargaining unit vacancy or for the purpose of qualifying an employee for future lateral transfer to a different position;
+30
+[e]	Employees shall not be transferred outside the bargaining unit without their consent. If an employee consents to such a transfer, he shall be advised that he is not covered by the provisions of the Contract for the duration of the transfer.
+JOB EVALUATION AND DESCRIPTION
+89.	The City has the sole and exclusive right to make job evaluations and job descriptions and to create job classifications when it deems appropriate. An employee shall be provided with a copy of the job description for his job classification upon request to the division.
+90.	In the event a new job classification is established by the City which may be related to an existing job classification in the bargaining unit, the City will promptly notify the Union in writing prior to placing the job classification into effect. The parties agree to meet within seven (7) calendar days of the notice or at some other mutually agreed upon time to mutually agree upon the new job classification and the rate of pay. The Union shall have the burden of proof before recognition is granted. If an agreement cannot be reached, the matter may be submitted to arbitration for the purpose of determining the rate of pay.
+91.	In the event the name of a job classification in the bargaining unit is changed and the work duties remain substantially unchanged, the City will promptly notify the Union of said change.
+92.	If substantial changes in the method of operations, tools or equipment of a job occurs, the City shall provide the Union with a copy of the changed job description, if one has been written, and shall meet with the Union for the purpose of placing the job into an existing job classification or establishing a new job classification. Said meeting shall take place within ten (10) working days of the request to meet or as otherwise mutually agreed by the parties. In the event the Union proposes that the changed job be placed in a higher-rated job classification or that the rate of pay for the current job classification be increased, the Union shall bear the burden of proof. In the event the City and the Union are unable to reach agreement as to the appropriate job classification and/or rate of pay, the matter may be submitted by the Union directly to Step Four (4) of the Grievance Procedure.
+93.	Upon request of the Union, the City shall provide to the Union the current job description, including the minimum qualifications as established by Civil Service and any special requirements reasonably related to the job being performed for all positions in the bargaining unit. Whenever a change occurs in the description of any such job, the City agrees to provide the Union with a copy of the new job description before it is put into effect. An
+31
+employee whose job description has been changed shall also be provided a copy of the new job - description before it is put into effect.
+ALTERNATIVE PLACEMENT
+94.	Employees seeking alternative placement shall apply on forms provided by the City. Where the City seeks to place an employee from outside the bargaining unit into a bargaining unit position, it shall first notify the Union. The City shall provide the Union with a monthly update of determinations of disability and placement for employees for whom alternative placement has been requested. Such placements shall supersede the posting procedure. Where there is light duty work available, the disabled or handicapped employee shall not be discriminated against in the assignment of such work.
+95.	An employee who is required to have a valid State of Ohio Driver's License as part of his minimum job qualifications must notify the City if his license is suspended, revoked or expires without renewal. If this occurs, he may be given alternative duties not requiring a valid license for the period of the suspension, revocation or period of expiration. If none are available, the employee shall be laid off until such time his license is reinstated or renewed, or a period of six (6) months, whichever is sooner. An additional six (6) months' extension may be granted if necessary. Upon reinstatement or renewal of the license, the employee shall be returned to his regular duties.
+DEFINITION OF PROMOTION
+96.	A promotion is an advancement to a job classification for which the top of the pay band, as established by the City Record, is higher than the top of his former job classification's pay band.
+POSTING PROCEDURES
+97.	Whenever management determines there is a vacancy within the bargaining unit, the City shall post a notice of the opening in the department where the opening exists and provide the Union with a copy of the notice. The notice shall contain the job classification, location, minimum qualifications as established by Civil Service, rate of pay, shift and a brief job description which shall include special requirements reasonably related to the job, if any. The bid notice shall be posted for at least ten (10) consecutive working days. Employees who wish to be considered for selection for the posted position shall submit a job bidding form, provided by the City, copy of same given to the employee. All applications filed will be reviewed by the City within five (5) working days. The City will provide the Union with a copy of the award
+32
+of any job bid.
+98.	For purposes of these provisions, a "vacancy" is defined as a non-seasonal, non-casual
+job opening:
+[1]	Where the City has increased the number of regular jobs available in a particular job classification; or
+[2]	Where an opening occurs in the existing job as a result of a promotion, transfer, resignation, discharge or other termination of employment, and the City has determined that the job is to be filled; or
+[3]	Where an existing job has not been previously filled, and the City has determined that the job is to be filled.
+99.	In order to be awarded a position of any kind outside the employee-applicant's job classification, promotional or non-promotional, an employee-applicant must be qualified. In order to be considered qualified, an employee-applicant must have passed any applicable probationary period, meet the minimum qualifications for the position as established by Civil Service, and meet any special requirements reasonably related to the job being performed. In determining whether or not an employee-applicant is qualified from among employeeapplicants, the City may consider the attendance record if the employee-applicant has been suspended for attendance-related misconduct during the six (6) month period immediately preceding the date of the posting or for violating the City's Absence Without Leave Policy during the twelve (12) month period immediately preceding the date of the posting. The vacancy shall be awarded within ten (10) working days after the last date of the posting in the following order of preference and based upon the criteria set forth. The City shall provide a copy of the award to the successful bidder and the Union.
+[a]	Full-time/non-promotional/same classification:
+A non-promotional vacancy shall be awarded within the division in which the vacancy exists to the employee-applicant with the most job classification seniority. If there is no employee-applicant within the division, the non-promotional vacancy shall be awarded within the department in which the vacancy exists to the employee-applicant with the most job classification seniority.
+[b]	Full-time/non promotional/different classification:
+A non-promotional vacancy shall be awarded within the division in which the vacancy exists to the qualified employee-applicant within the division, the non-promotional
+33
+vacancy shall be awarded within the department in which the vacancy exists to the qualified employee-applicant with the most City seniority.
+[c]	FuII-time/promotional:
+The vacancy shall be awarded within the division in which the vacancy exists to the qualified employee-applicant with the most City seniority. If there is no qualified employee-applicant from within the division, the vacancy shall be awarded within the department in which the vacancy exists to the qualified employee-applicant with the most City seniority.
+[d]	Part-time/non-promotional/same classification:
+A non-promotional vacancy shall be awarded within the division in which the vacancy exists to the employee-applicant with the most job classification seniority. If there is no employee-applicant within the division, the non-promotional vacancy shall be awarded within the department in which the vacancy exists to the employee-applicant with the most job classification seniority.
+[e]	Part-time/non-promotional/different classification:
+Anon-promotional vacancy shall be awarded within the division in which the vacancy exists to the qualified employee-applicant with the most City seniority. If there is no qualified employee-applicant from within the division, the non-promotional vacancy shall be awarded within the department in which the vacancy exists to the qualified employee-applicant with the most City seniority.
+[f]	Part-time/promotional
+The vacancy shall be awarded within the division in which the vacancy exists to the qualified employee-applicant with the most City seniority. If there is no qualified employee-applicant from within the division, the vacancy shall be awarded within the department in which the vacancy exists to the qualified employee-applicant with the most City seniority.
+[g]	Ties in seniority
+Ties in job classification seniority shall be broken by determining which employee has the most City seniority. Ties in City seniority shall be broken by lottery with the Union representative present.
+100.	If no applications are received, or if the vacancy has not been filled after the above procedures have been exhausted, the City may hire a new employee who is qualified.
+34
+* 101. If the award results in a promotion, the employee shall receive the next highest step on ' the new wage and salary schedule for his job classification or a five percent (5%) wage increase or placement at the bottom of the job classification pay band, whichever is greater, but in no event shall this increase exceed the top of the pay band for this new job classification. If the award is non-promotional, the employee shall continue to receive his same rate of pay or if the top rate of the pay band for his new job classification is lower than his current rate of pay, he shall be placed at the top rate of the new pay band.
+102.	An employee selected to fill a vacancy in a classification other than his own shall be given a reasonable period of time riot to exceed ninety (90) calendar days to prove he is able to hold such job on a regular basis. If the employee cannot prove his ability within that period of time, or if the employee is suspended for attendance-related misconduct during that period of time, he will be returned to his former job classification and rate of pay.
+103.	In order to provide continuity of service while filling a job opening, the City shall have the unrestricted right, pursuant to the temporary assignment provisions of the Contract, to fill openings and make transfers on a temporaiy basis pending the selection of employees, including completion of the qualification period, for a job under these provisions.
+104.	No employee shall be eligible for promotion who has not satisfactorily completed the required probationary period. An opening created as a result of this promotion or the lateral transfer provisions, shall be filled based upon management's operational needs.
+LATERAL TRANSFERS, SHIFT AND WORKWEEK PREFERENCE
+105.	An employee may exercise his job classification seniority for the purposes of transferring within his job classification from one job assignment to another, or from one location to another, or from his present shift or work week to another shift or work week, when an opening occurs within his job classification or to a new job, if one is established within his job classification. Ties in job classification seniority shall be broken in the same manner outlined in Paragraph Ninety-nine [g], (99g), of the Contract.
+106.	An employee who requests a lateral transfer, change of shift or change of work week under these provisions must make an advance written application, prior to the vacancy occurring, on forms provided by the City, with a copy provided to the employee and to the Union. With respect to anew job established within an existing job classification, application can be made at the time of the job posting. An employee's preference shall supersede the job posting provisions of the Contract but in no event shall the City act on applications made pursuant to these provisions unless it has determined there is a need to fill the vacancy.
+35
+107.	Within the division in which the vacancy exists, the employee with the most job • classification seniority shall be awarded the transfer. If there are no employee-applicants within the division, the appointing authority shall award the transfer to the employee-applicant with the most job classification seniority within the department in which the vacancy exists. The City shall provide a copy of the transfer award to the successful applicant and to the Union.
+108.	Once an employee has successfully exercised the rights provided herein, he shall not be eligible to exercise such rights again for a period of nine (9) months from the effective date of the transfer.
+SHIFT PREMIUM
+109.	For those employees on the normal eight (8) hour day, five (5) day work week, shifts are defined as follows:
+First (1st) Shift: The majority of hours of work falls after 7:30 a.m. and before 3:00 p.m.
+Second (2nd) Shift: The majority of hours of work falls after 3:00 p.m. and beforel2:30 a.m.
+Third (3rd) Shift: The majority of hours of work falls after 12:30 a.m. and before 7:30 a.m.
+110.	Employees regularly assigned to work the second (2nd) shift shall be paid a shift premium of thirty-five cents ($.35) per hour for all hours worked.
+111.	Employees regularly assigned to work the third (3rd) shift shall be paid a shift premium of thirty-five cents ($.35) per hour for all hours worked.
+112.	Employees regularly assigned to rotate between all three (3) shifts shall be paid a shift premium of thirty-five cents ($.35) per hour for all hours worked.
+HOURS OF WORK
+113.	The normal work week for regular full-time employees shall be forty (40) hours of work in five (5) eight (8) hour days, exclusive of the time allotted for meals, during the period 12:01 a.m. Monday to midnight Sunday, except where different hours are necessary to meet operational requirements. The City reserves the right, as operational needs and conditions require, to establish and change hours of work, shifts and schedules of hours. In the event it is necessary to change the hours of work, shifts or schedules of hours, the City and the Union will discuss at the Step Three (3) level all details of said change(s) as they apply to bargaining unit employees prior to the implementation of said change(s).
+36
+114.	All employees who work a regular work day shall be allowed not less than thirty (30) 'uninterrupted minutes for a scheduled lunch period, except for other schedules mutually agreed upon with the Union.
+115.	There shall be two (2) fifteen (15) minute rest periods on each shift, each work day. The rest periods, to the extent practicable, will be scheduled during the middle two (2) hours of each one-half (XA) shift but they may not be scheduled immediately before or after the meal period or at the start or the end of the shift.
+116.	When an employee works beyond his regular quitting time, the employee shall receive a fifteen (15) minute rest period if the employee works two (2) hours, but less than four (4) hours, for each four (4) hour period and, in addition, a thirty (30) minute meal period if the employee works four (4) hours or longer.
+DOCKING
+117.	The City will dock employees on the basis of one-tenth (1/10), or six (6) minutes per hour.
+EQUALIZATION OF OVERTIME
+118.	The City shall be the sole judge of the necessity of overtime. Overtime shall be offered to employees within the same job classification within the same division in accordance with job classification seniority.
+119.	In cases where the City maintains that the employee's regular work assignment is unique to an operational work unit within the division and cannot be performed by others in the same job classification within the division, the City shall meet with the Union for the purpose of attempting to agree upon a waiver of this provision. If the parties cannot agree, the Union may submit a grievance directly to Step Three (3) of the Grievance Procedure. During the pendency of the grievance, the City may offer the overtime solely within the operational work unit and the grant of this right does not constitute a waiver of any remedy in the event the grievance is sustained.
+120.	Emergency overtime cannot be refused. An emergency is defined as an impairment to City services or operations which cannot be delayed until the beginning of the next regular work day. However, an employee may be excused from emergency overtime provided a replacement can be obtained in time to meet the City's emergency.
+37
+121.	Overtime shall be equalized on a continuing basis. The City shall credit employees for • all overtime hours worked and/or for overtime hours offered for which employees have declined or failed to work for any reason.
+122.	A record of all overtime hours worked and all overtime hours offered which employees declined or failed to work for any reason shall be recorded on a list by the City and the supervisor, timekeeper or payroll clerk keeping the record shall make the overtime record available to the employee or the Union upon request.
+123.	Supervisors shall not be assigned overtime work that is conventionally performed by members of the bargaining unit unless employees in the classification needed for the work who are on the appropriate fist for overtime are unavailable or refuse the overtime work.
+OVERTIME - PREMIUM PAY
+124.	All employees except those on a special work week schedule which has been mutually agreed to by the City and the Union, shall receive one and one-half (1 ¥z) times their regular rate of pay for all hours worked in excess of forty (40) in one (1) week during the period provided for in Paragraph One Hundred Thirteen, (113), of the Contract.
+125.	All employees shall receive one and one-half (1 ¥2) times their regular rate of pay for all hours worked in excess of eight (8) in one (1) day during the period beginning with the start of his scheduled shift. However, this provision shall not be applicable to employees who work rotating shifts where the hours said employees work in excess of eight (8) in one (1) day are directly attributable to a scheduled rotation from one shift to another.
+126.	All employees shall receive one and one-half (1 ¥2) times their regular rate of pay for all hours worked on holidays.
+127.	All paid holiday hours, paid sick leave hours and paid vacation hours shall be counted as hours worked for the purpose of computing overtime.
+128.	There shall be no pyramiding of overtime or other premium pay compensation. Overtime pay shall be computed on whatever total overtime hours are the greater for the week, either on a daily or weekly basis, but not on both.
+ON-CALL PAY
+129.	An employee who is on call shall be paid in accordance with the provisions of the Fair
+38
+Labor Standards Act (F.L.S.A.).
+CALL-IN PAY
+130.	An employee who is called in to work at a time which is non-contiguous to his regularly scheduled hours of work shall receive a minimum of four (4) hours of work at his applicable rate of pay. If an employee is called in and works more than four (4) hours, he shall receive pay for all hours actually worked.
+REPORT-IN PAY
+131.	An employee who reports to work on a regularly scheduled workday or scheduled overtime day without previous notice not to report shall receive a minimum of two (2) hours' work or two (2) hours' pay at the applicable hourly rate.
+HOLIDAYS
+132.	All regular full-time employees shall be entitled to nine (9) paid holidays as follows:
+New Year's Day
+Dr. Martin Luther King, Jr. Day
+President's Day
+Good Friday
+Memorial Day
+Independence Day
+Labor Day
+Thanksgiving Day
+Christmas Day
+133.	Employees are entitled to two (2) floating (personal) holidays in each calendar year. Floating holidays will be granted contingent upon operational needs and a request by the employee being submitted for consideration at least twenty-four (24) hours prior to the date being requested. If the operating needs of the division cannot be met because there are too many requests for a specific day, or for any other reason, the requests will be considered and approved in accordance with City seniority guidelines. Ties shall be broken by random selection, by lottery, with the Union representative present.
+134.	To be entitled to holiday pay, an employee must be on the active payroll, i.e. actually receive pay, on their last regular work day before and their first (1 st) regular work day after the
+39
+holiday.
+135.	If any of the above holidays falls on a Sunday, the following Monday shall be observed as the holiday. If any of the above holidays falls on a Saturday, the preceding Friday shall be observed as the holiday. If a recognized holiday falls on an employee's regularly scheduled off day, he shall be entitled to take another day off with pay. The alternate day off shall be the day before or the day after the holiday or some other day consistent with operational needs. Employees shall select the preferred alternate days off at least one (1) week in advance and preference shall be honored on the basis of seniority consistent with operational needs. An employee who works on a holiday shall receive one and one-half (1 !4) times their regular rate of pay under the provisions of Paragraph One Hundred Twenty-Six, (126), and either holiday pay at their regular straight time rate or another day off, provided the employee, through the Union, has arranged for the alternative day off with his supervisor.
+VACATIONS
+136.	All regular full-time employees shall be granted the following vacation leave with full pay for each year based upon their length of continuous City service as of December 31 of the preceding year, as follows:
+After 1 year of service
+After 8 years of service
+After 12 years of service
+After 22 years of service
+10 days
+15 days
+20 days
+25 days
+137.	The administration of vacations (including eligibility requirements) shall be in accordance with the following rules and regulations:
+[a]	Any employee who has completed less than one (1) year of continuous employment by December 31 of the previous year shall receive one (1) work day off for each month worked prior to December 31 of the previous year, but not to exceed ten (10) days. New employees whose starting date is prior to the sixteenth (16th) of the month shall be credited with one (1) day of vacation.
+[b]	For vacation purposes, an employee's continuous employment is defined as the period of time during which he is continuously listed as an employee on the rolls of the City, including authorized paid leaves of absence.
+40
+[c]	If an employee is discharged for cause or quits and is re-employed at a later date, his length of continuous service will be computed from the date of his reemployment.
+[d]	An employee who is laid off and is later re-employed shall be given credit for his service before the layoff, but no credit shall be given for that period of time during which the employee did not work.
+[e]	Time in an unpaid authorized leave of absence shall be deducted pursuant to Paragraph One Hundred Thirty-Seven, Subsection [g], (37g), for purposes of computing the amount of accrued vacation, but the employee's seniority for vacation preference shall not be affected..
+[f]	An employee transferred from one division to another shall be given credit for his service elsewhere with the City, provided such employment has been continuous.
+[g]	An employee who is on leave of absence without pay for a period totaling more than thirty (30) calendar days in any calendar year shall earn vacation for that year at the rate for which he is eligible based on length of service as follows:
+Less than eight (8) years of service - one (1) day per month, not to exceed ten (10) days;
+Eight (8) years, but less than twelve (12) years of service - one and one-half (1 !4) days per month, not to exceed fifteen (15) days;
+Twelve (12) years, but less than twenty-two (22) years of service - two (2) days per month, not to exceed twenty (20) days;
+Twenty-two (22) years or more of service - two and one-half (2 V2) days per month, not to exceed twenty-five (25) days.
+[h]	An employee may use any vacation leave earned prior to December 31 of the preceding year. Vacation leave being earned currently in any calendar year may not be used until after December 31 of that year.
+[i]	Vacations shall be taken during each current year provided that the City may permit an employee to accumulate and carry over his vacation leave to the following year and it must be taken during that period of time.
+41
+[j]	If an employee is laid off or terminates prior to taking his vacation earned but not used for the previous year, he shall be paid in full for that vacation leave, in addition to receiving pro-rata vacation leave earned during the current year in which he terminates.
+[k]	The estate of a deceased employee shall receive payment for any unused vacation leave, including pro-rata vacation earned during the current year, for which the employee was eligible at the time of death.
+[1]	Any employee eligible for vacation under existing rules who enlists or is inducted into the United States Armed Forces shall, at the time of leaving for military service, be paid in full for all accrued vacation leave earned but not previously taken.
+138.	If a recognized holiday falls within an employee's vacation leave, the employee shall receive an additional paid vacation day in lieu of the holiday, either at the beginning or at the end of his vacation, at his option.
+139.	Employees may take their vacation during the calendar year at the convenience of the City. Beginning October 1 each calendar year employees will be given an opportunity to indicate their vacation leave preference(s) on a form provided by the City. All vacation preferences must be submitted no later than December 1. A written vacation schedule (by operational work unit) will be posted by the City no later than December 15 with priority given to employees according to their City seniority, to the extent consistent with operational requirements. If two (2) or more employees have the same City seniority date, employees shall draw lots to determine who is given priority. Once the operational work unit vacation schedule is determined, it shall not be changed without the consent of the involved employee(s) except in response to an operational emergency. Any employee who fails to make his vacation application during the appropriate period will be given his vacation leave without regard to seniority, based upon when the application was made.
+LONGEVITY
+140.	Longevity is tenure with the City while in pay status. Time in authorized leave of absence shall be deducted for the purpose of computing the amount of employment. For an employee to be eligible to receive longevity pay in a given year, his longevity time must have been accumulated by March 1 of that year and the employee must have been in a pay status at some time between January 2 and March 1 of that year.
+141.	Effective April 1 of each year of this contract, all regular full time employees will receive
+42
+t longevity payments payable on or before March 31 of the following year. Eligibility will be 'established as follows subject to the restrictions in the preceding paragraph:
+Effective April 1,1998
+For employees who have completed	5 years of service	$200.00
+For employees who have completed	10	years	of service	$375.00
+For employees who have completed	15	years	of service	$475.00
+For employees who have completed	20	years	of service	$650.00
+Effective April 1,1999
+' For employees who have completed 5 years of service	$250.00
+For employees who have completed 10 years of service	$425.00
+For employees who have completed 15 years of service	$525.00
+For employees who have completed 20 years of service	$700.00
+Effective April 1, 2000
+For employees who have completed 5 years of service	$300.00
+For employees who have completed 10 years of service	$475.00
+For employees who have completed 15 years of service	$575.00
+For employees who have completed 20 years of service	$750.00
+MILEAGE
+142.	All regular full-time employees required by their job classification to use their personal vehicle in the performance of their duties for the City shall be reimbursed only for such actual mileage at the rate of twenty-eight cents ($.28) per mile.
+PAY DAY
+143.	The City shall regularly pay all employees every other week on Wednesday. If the pay day falls on a holiday, the City will pay all employees the day before the holiday.
+144.	Employees may be paid either by direct deposit, as authorized by the employee, hand delivery (being issued the paycheck at the work site) during their work shift, or by direct mail.
+145.	Employees who receive a paycheck by hand delivery and who are not scheduled to work on the date of the issuance of the paycheck will make arrangements through their supervisor or timekeeper to properly receive their paycheck.
+43
+146.	City time is not to be used for cashing a paycheck.
+147.	The City will process any paycheck error of fifty dollars ($50) or more within three (3) working days.
+PERSONNEL RECORDS
+148.	An employee shall, upon request, be permitted to review his divisional personnel records file, except reference letters, in the presence of appropriate supervision and he may initial and date the contents found therein. r Only copies of letters of discipline, evaluations and commendations shall be made available to the employee at the time of issuance. However, any materials in the employee's personnel record which have not been seen or signed by him or which are more than two (2) years old at the time discipline is being considered shall not be used against him. The signing of any materials to be placed in an employee's personnel record does not indicate agreement by the employee as to the contents of the material but does acknowledge he/she has seen it.	;
+RATINGS AND PROBATIONARY REPORTS
+149.	An employee shall be given the opportunity to review and respond in writing to rating and probationary reports which become a part of his personnel file. An employee’s written response to such rating reports will be attached to same and made a part of the personnel records.
+DISCIPLINE
+150.	Whenever the City determines that an employee may be subject to discipline, a pre-disciplinary conference will be scheduled to afford the employee an opportunity to offer an explanation of the alleged conduct, inclusive of oral and/or written testimony. The City shall notify the affected employee and his Union representative of the day and time of the conference and the incident for which discipline is being considered. The employee's Union representative shall be present at the pre-disciplinary conference unless otherwise agreed between said employee and his representative. Any such agreement shall be reduced to writing, signed by both parties and submitted to the City for the record. An employee may also elect, in writing, to waive the opportunity for a pre-disciplinary conference.
+151.	At least five (5) working days prior to meetings of the Accident Review Committee, the City shall provide the Union with the names of any bargaining unit members whose accidents are being reviewed at that meeting and copies of any reports or statements regarding the
+44
+accident.
+152.	An employee who is disciplined must be disciplined within five (5) working days of the events) upon which the discipline is based or within a reasonable time from the date the City had knowledge of said events). In the case of suspension or discharge, the employee shall be advised of his/her right to have his Union representative present and, upon request, will be permitted to discuss his/her suspension or discharge with the Union representative in an area made available by the City before he/she is required to leave the premises. If a steward is being disciplined, he has the right to be represented by a chapter officer.
+153,	Both the employee and the Union president shall be given a copy of any warning, reprimand or other disciplinary action entered on the employee’s personnel record within five (5) working days of the action taken. Any employee who has been disciplined by suspension or discharge will be given a written statement describing in detail the reason(s) for which he has been suspended or discharged. In the case of suspension, the employee will be advised of the duration of the suspension.	/
+154.	Any suspension shall be for a specific number of consecutive days on which the employee would regularly be scheduled to work. Holidays occurring during a period of suspension shall be counted as work days for the purpose of the suspension only.
+155.	All employees are obligated to report convictions for DUI or drug related offenses, and failure to report may result in immediate discharge.
+GRIEVANCE PROCEDURE
+156.	It is mutually agreed that the prompt adjustment of grievances is desirable in the interest of sound relations between the employees and the City. The prompt and fair disposition of grievances involves important and equal obligations and responsibilities, both joint and independent, on the part of the representatives of each party to protect and preserve the Grievance Procedure as an orderly means of resolving grievances. It is the intent of the City and Union to share information pertaining to grievances at all steps of the Grievance Procedure.
+157.	A grievance is defined as a dispute or difference between the City and employee(s) or die City and the Union concerning the interpretation and/or application of and/or compliance with any provision(s) of this Contract, including any and all disciplinary actions. A Group Grievance is a grievance filed by a group of employees relating to a single common issue or event covered by this Contract. A Policy Grievance is a grievance filed by the Union relating to a single common issue or event covered by this Contract. The grievance form shall set forth
+45
+the complete details of the grievance, i.e. the facts upon which it is based, the paragraph(s) “v allegedly being violated, the approximate time of occurrence and the relief or remedy requested.
+It is understood that a written grievance may be amended by the Union at any time during the Grievance Procedure. However, all amendments must be presented prior to the start of the Step Three (3) meeting at which the amended grievance is to be heard, except in the case of grievances which begin at Step 3, in which case all amendments must be presented not later than thirty (30) calendar days prior to arbitration.
+158.	It is important that the employee's grievance(s) regarding unjust or discriminatory discharges, or wage rates/step placement be handled promptly. Therefore, all such grievances shall be filed through the Grievance Procedure beginning at Step Three (3) within ten (10) working days as in Step One (1). Amendments to all such grievances may be submitted no later than thirty (30) calendar days prior to a scheduled arbitration.
+159.	Stepl:
+When a grievance arises, the following procedure shall be followed: An employee who believes he has a grievance has a right to notify his Union representative of the situation and to discuss the alleged violation. This discussion shall take place with regard for the City’s operational needs, but as soon as is reasonably possible. The grievance shall be reduced to writing and presented to the commissioner or appointing authority or his designee within ten (10) working days of the event(s) giving rise to said grievance. The commissioner or appointing authority or his designee shall meet with the steward and chapter officer within five (5) working days from the date of receipt of the grievance in an effort to resolve the grievance. Within ten (10) working days after this meeting, the commissioner or appointing authority or his designee shall give a written answer to the steward and chapter officer. Each grievance shall be answered separately. The answer shall set forth in detail the settlement reached between the parties and shall include the grievance number, grievant's name, and the date of the grievance hearing. Agreement on this settlement shall be noted by both parties, in writing, on the grievance answer. In the event the grievance is not resolved, the answer shall set forth in detail the reason or reasons for the denial of the grievance.
+160.	Step 2:
+If the grievance is not satisfactorily settled at Step One (1), it shall be presented in writing to the employee's director or his designee within ten (10) working days of the receipt of the Step One (1) answer. Within five (5) working days thereafter, the director or his designee shall meet with the local union officer and chapter officer. Within ten (10) working days after the Step Two (2) meeting, the director or his designee shall give a written answer, as defined in Step One (1), to the local union officer and chapter officer.
+46
+161.	Step 3:
+If the grievance is not satisfactorily settled at Step Two (2), it shall be presented in writing to the City's labor relations representative, with a copy to the affected director or his designee, within ten (10) working days after receipt of the Step Two (2) answer. The City's labor relations representative and the Union's staff representative will mutually agree on a date for a meeting for the purpose of considering grievances. A complete agenda for all grievances appealed in writing to Step Three (3) will be provided by the union prior to each meeting. Within thirty (30) calendar days after the Step Three (3) meeting, the City's labor relations representative shall give a written answer, as defined in Step One (1), to the Union's staff representative and to the local union president.
+162.	Step 4:
+If the grievance is not satisfactorily settled at Step Three (3), the Union may, within thirty (30) calendar days in the case of grievances appealing an employee discharge, and within thirty (30) working days in the case of all other grievances, submit the matter to final and binding arbitration. The Union shall notify the City of its ifttent to arbitrate the grievance. Within ten (10) calendar days thereafter, the parties shall meet and attempt to mutually agree upon an arbitrator. If no agreement can be reached, the Union shall within ten (10) calendar days after the meeting, notify the American Arbitration Association (AAA) and the City at the same time of its intent to arbitrate the grievance. The fees and expenses of the arbitrator shall be borne equally by the City and the Union. Furthermore, the aggrieved employee, his Union representative, and any necessary witness(es) shall not lose any regular straight-time pay for time off tiie job while attending an arbitration proceeding. The Union will provide the City with twenty-four (24) hours' advance notice of employees required to testify.
+163.	The parties may, by mutual agreement, choose to have a grievance involving suspension or discharge arbitrated on an expedited basis. The expedited arbitration will be conducted pursuant to the rules of the American Arbitration Association, and the fees and expenses of such proceeding including those of the Arbitrator, shall be bome equally by the City and the Union.
+164.	In the event a grievance goes to arbitration, the arbitrator shall have jurisdiction only over disputes arising out of grievances as to the interpretation and/or application and/or compliance with the provisions of this Contract, including all disciplinary actions. In reaching his decision, the arbitrator shall have no authority:
+[1]	to add to or subtract from or modify in any way of the provisions of this Contract;
+[2]	to pass upon issues governed by law; or
+[3]	to make an award in conflict with law.
+47
+The arbitrator shall issue a decision within thirty (30) calendar days after submission of the case ** to him.
+165.	In instances where the City objected to arbitration and the Union chose to proceed, the first (1st) question to be placed before the arbitrator will be that of arbitrability. If the arbitrator determines that the grievance is within the purview of arbitrability, the grievance will be heard on its merits before the same arbitrator.
+166.	All decisions of arbitrators consistent with Paragraph One Hundred Sixty-Four, (164), and all pre-arbitration grievance settlements reached by the Union and the City shall be final, conclusive and binding upon the City, the Union and the employees. Provided, that a grievance may be withdrawn by the Union at any time during the Grievance Procedure and the withdrawal of any grievance shall not be prejudicial to the positions taken by the parties as they relate to that or any other grievance.
+167.	For purpose of this section, timeliness is counted as working days from the date of the incident or the date expressed on the face of either the answer or the appeal notice, as applicable. Extensions of time limits shall be by mutual agreement and must be verified in writing and signed by both parties. The date of occurrence of the event causing time to run is not counted in the time limit. If the last date of a period is not a regular business day, the time period runs through the end of the next regular scheduled business day.
+HOSPITALIZATION / HEALTH COVERAGE
+168.	The City agrees to provide single or family coverage, whichever is applicable, for each eligible employee enrolled in any of the health coverage plans for the term of the Labor Contract under the terms and conditions set forth in this article. There shall be no duplicate coverage if both spouses are on the City's payroll. There shall be no reduction in benefit levels afforded by said plans unless by mutual agreement of the City and the Union.
+169.	Effective April 1,1998, through March 31, 2001 the City shall provide the following health insurance program options:
+Medical Mutual Super Med Plus
+Medical Mutual Super Med Select
+Kaiser
+HMO Health Ohio
+Aetna /U.S. Healthcare
+48
+170.	Employee premium cost-sharing contributions and other terms are as follows:
+Individual Coverage:
+Effective April 1, 1998 through March 31, 1999 - $20.00 per month
+Effective April 1,1999 through March 31, 2000 - $22.50 per month
+Effective April 1, 2000 through March 31, 2001 - $25.00 Per month
+Family Coverage:
+Effective April 1,1998 through March 31,1999 - $40.00 per month
+Effective April 1,1999 through March 31,2000 -$45.00 per month
+’ Effective April 1,2000 through March 31,2001 - $50.00 per month
+Health care deductions of one-half the above amounts shall be made the first (1st) two (2) pay periods of each month.
+171.	For all mental, nervous, and substance abuse treatment, in-patient and out-patient coverage shall be that set forth as part of the health care insurance plan selected by the employee..
+172.	The prescription program shall be that set forth as part of the health care insurance plan selected by the employee.
+LIFE INSURANCE
+173.	All full-time employees who have completed ninety (90) calendar days’ continuous service with the City will be provided with fifteen thousand dollars ($15,000) group term life insurance.
+DENTAL INSURANCE
+174.	The City agrees to pay the full premium, together with any future increases, for single or family coverage, whichever is applicable, for each employee for the current dental care program. There shall be no reduction in the benefit levels afforded by said plan unless by mutual agreement of the City and Union.
+WORKING CONDITIONS
+175.	The City agrees to maintain safe working conditions and/or vehicles. In the event a situation is determined to be unsafe, the employee shall notify his supervisor immediately. Any
+49
+protest alleging unsafe working conditions will be handled on an expedited basis with City ^ safety personnel investigating the job, if possible, on the same day it is protested.
+176.	The City shall provide HAZWOPER training to any employee who may be exposed to hazardous waste, hazardous chemicals or other hazardous materials. HAZWOPER training shall be taught by the Union.
+177.	As long as an employee has notified his supervisor of an alleged unsafe condition, the employee shall not be required to perform the work. However, said employee may be assigned alternative duties until an investigation can be completed.
+178.	The City will comply with nationally recognized safety standards to protect employees who operate video display terminals (VDT's) more than four (4) continuous hours per day.
+SAFETY COMMITTEE
+’.t
+•a	■
+i
+179.	There shall be established a joint safety committee in each department in which more than one hundred (100) bargaining unit employees work. The committee shall meet no less than once every other month, during working hours with no loss in pay. The purpose of the committee shall be to receive a summary of the findings of the investigation of allegations of unsafe working conditions made pursuant to Paragraph One Hundred Seventy-Five, (175), herein.
+TAX DEFERRAL: EMPLOYEE CONTRIBUTION TO P.E.R.S.
+180.	Employee contributions to the Public Employees Retirement System (P.E.R.S.) will not be included in the gross taxable income subject to federal income tax to the extent permissible under law.
+MODIFICATION
+181.	Any amendments to this Contract shall be made in the form of written "Addendum" signed by the City and the Union.
+LEGALITY
+182.	It is the intent of the City and the Union that this Contract comply in every respect with applicable statutes, constitutional requirements, affirmative action obligations and other governmental regulations, as well as judicial opinions unless lawfully superseded by the
+50
+over any and all rules and regulations of the Civil Service Commission. If any tribunal (including, but not limited to, a court of competent jurisdiction or any administrative agency or governmental body having jurisdiction), adjudges any article, section or clause in the Contract to be in conflict with any law, regulation or affirmative action obligation, all the remaining articles, sections and clauses which are not rendered meaningless, inoperable or ambiguous as a result of the judgement shall remain in full force and effect for the duration of this Contract.
+183.	In the event a tribunal renders such a decision, the parties shall meet to discuss such decision within thirty (30) calendar days after entry of final judgement therein for the purpose of negotiating a lawful alternative provision.
+184.	This Contract shall be considered reopened only as to those subjects which such court decisions and/or legislation require reopening.
+WAGES
+185.	It is the general policy of the City that no new employee will start at a higher rate than another employee in the same job classification. If an individual increase above the general increase is contemplated, the City will advise the Union of its intent to implement said action. Grievances involving this paragraph shall be filed initially at Step Three (3).
+186.	Effective April 1,1998, a three percent (3%) across-the-board wage increase shall be applied to all wage rates.
+187.	Effective April 1, 1999, a three and one-half percent (3.5%) across-the-board wage increase shall be applied to all wage rates.
+188.	Effective April 1, 2000, a three and one-half percent (3.5%) across-the-board wage increase shall be applied to all wage rates.
+189.	Employees in the job classifications listed below shall continue to be on the wage and salary schedule set forth herein in accordance with their job classification seniority date. If an employee is reclassified to a job classification listed, he shall be slotted into the next highest step.
+WAGE AND SALARY SCHEDULE
+Job Classification	04/01/98	04/01/99	04/01/2000
+51
+Air Pollution Inspector
+-- Step 4	$15.63	$16.18	$16.75
+Step 3	14.24	14.74	15.26
+Step 2	12.84	13.29	13.76
+Step 1	11.88	12.30	12.73
+Start	10.99	11.37	11.77
+Airport Operations Agent 1 Step 4	$15.70	$16.25	$16.82
+Step 3	14.86	15.38	15.92
+Step 2	14.11	14.60	15.11
+Step 1	13.59	14.07	14.56
+Start	12.82	13.27	13.73
+Airport Operations Agent 2 Step 4	$18.48	$19.13	$19.80
+Step 3	17.71	18.33	18.97
+Step 2	17.17	17.77	18.39
+Step 1	16.64	17.22	17.82
+Start	16.11	16.67	17.25
+Airport Information Representative Step 4	$12.70	$13.14	$13.60
+Step 3	12.41	12.84	12.29
+Step 2	10.93	11.31	11.71
+Step 1	No Increase	No Increase	No Increase
+Start	9.08	9.40	9.73
+Airport Safetyman Step 3	$16.06	$16.62	$17.20
+Step 2	14.31	14.81	15.33
+Step 1	13.80	14.28	14.78
+Start	12.86	13.31	13.78
+Assistant Plan Examiner Step 5	$17.44	$18.05	$18.68
+Step 4	16.37	16.94	17.53
+Step 3	15.32	15.86	16.42
+Step 2	14.27	14.77	15.29
+52
+Step 1 Start	13.21 12.16	13.67 12.59	14.15 13.03
+Bill Collector Step 4	$12.70	$13.14	$13.60
+Step 3	12.41	12.84	13.29
+Step 2	10.93	11.31	11.71
+Step 1	No Increase	No Increase	No Increase
+Start	9.08	9.40	9.73
+			
+Building Inspector Step 4	$16.86	$17.45	$18.06
+Step 3	15.81	16.36	16.93
+Step 2	14.74	15.26	15.79
+Step 1	13.69	14.17	14.67
+Start	12.92	13.37	13.84
+Cook Step 2	$11.94	$12.36	$12.79
+Step 1	10.32	10.68	11.05
+Start	10.32	10.68	11.05
+Customer Service Representative Step 6	$13.23	$13.68	$14.16
+Step 5	12.95	13.40	13.87
+Step 4	12.70	13.14	13.60
+Step 3	12.41	12.84	13.29
+Step 2	10.93	11.31	11.71
+Step 1	No Increase	No Increase	No Increase
+Start	9.09	9.41	9.74
+Data Conversion Operator Step 3	$11.51	$11.91	$12.33
+Step 2	10.85	11.23	11.62
+Step 1	No Increase	No Increase	No Increase
+Start	8.99	9.30	9.63
+Elevator Inspector Step 4	$16.86	$17.45	$18.06
+53
+Step 3	15.81	16.36	16.93
+Step 2	14.74	15.26	15.79
+Step 1	13.68	14.16	14.66
+Start	12.90	13.35	13.82
+Environmental Technician Step 4	$13.80	$14.28	$14.78
+Step 3	13.39	13.86	14.35
+Step 2	12.86	13.31	13.78
+Step 1	12.35	12.78	13.23
+Start	11.58	11.99	12.41
+Heating Inspector Step 4	$16.86	$17.45	$18.06
+Step 3	15.81	16.36	16.93
+Step 2	14.74	15.26	15.79
+Step 1	13.68	14.16	14.66
+Start	12.90	13.35	13.82
+House Connection Inspector Step 3	$14.10	$14.59	$15.10
+Step 2	No Increase	No Increase	No Increase
+Step 1	No Increase	No Increase	No Increase
+Start	11.51	11.91	12.33
+Housing Inspector Step 3	$15.00	$15.53	$16.07
+Step 2	14.10	14.59	15.10
+Step 1	No Increase	No Increase	No Increase
+Start	13.23	13.69	14.17
+Instrumentation Technician 1 Step 2	$16.23	$16.80	$17.39
+Step 1	15.63	16.18	16.75
+Start	15.29	15.83	16.38
+Instrumentation Technician 2 Step 2	$17.88	$18.51	$19.16
+Step 1	17.45	18.06	18.69
+54
+Start	17.06	17.66	18.28
+Junior Clerk			
+Step 4	$10.59	$10.96	$11.34
+Step 3	10.18	10.54	10.91
+Step 2	9.79	10.13	10.48
+Step 1	No Increase	No Increase	No Increase
+Start	8.97	9.28	9.60
+Junior Draftsman			
+Step 5	$12.98	$13.43	$13.90
+Step 4	11.61	12.02	12.44
+Step 3	10.46	10.83	11.21
+Step 2	9.42	9.75	10.09
+Step 1	8.49	8.79	9.10
+Start	7.65	7.92	8.20
+Meter Reader			
+Step 3	$13.92	$14.41	$14.91
+Step 2	13.39	13.86	14.35
+Step 1	12.85	13.30	13.77
+Start	11.62	12.03	12.45
+Office Machine Operator			
+Step 4	$11.09	$11.48	$11.88
+Step 3	10.57	10.93	11.31
+Step 2	10.04	10.39	10.75
+Step 1	9.50	9.83	10.17
+Start	8.97	9.28	9.60
+Parking Meter Serviceman			
+Step 1	$12.85	$13.30	$13.77
+Start	12.35	12.78	13.22
+Police Radio Technician			
+Step 1	$15.71	$16.26	$16.83
+Start	14.84	15.36	15.90
+Print Shop Helper
+55
+Step 4	$11.20	$11.59	$12.00
+*•-- Step 3	10.77	11.15	11.54
+Step 2	10.40	10.76	11.14
+Step 1	No Increase	No Increase	No Increase
+Start	9.61	9.95	10.30
+Public Health Nursing Aide Step 1	$10.57	$10.94	$11.32
+Start	9.63	9.97	10.32
+Public Health Sanitarian 1 Step 4	$14.12	$14.61	$15.12
+I	Step 3	13.39	13.86	14.35
+‘	Step 2	12.85	13.30	13.77
+Step 1	12.35	12.78	13.23
+i ■ Start	11.58	11.99	12.41
+Public Health Sanitarian 2			
+Step 4	$15.81	$16.36	$16.93
+Step 3	15.04	15.57	16.11
+1	Step 2	14.36	14.86	15.38
+Step 1	13.67	14.15	14.65
+Start	13.00	13.46	13.93
+Public Health Sanitarian 3 1	Step 4	$16.49	$17.07	$17.67
+f . Step 3	15.87	16.43	17.01
+Lj Step 2	15.22	15.75	16.30
+Step 1	14.58	15.09	15.62
+Start	14.04	14.53	15.04
+Radio Dispatcher - Water			
+1	$15.71	$16.26	$16.83
+Radio Dispatcher - Water Pollution Control			
+i-	■	$15.71	$16.26	$16.83
+L Radio Technician Step 1	$15.71	$16.26	$16.83
+56
+Start	14.84	15.36	15.90
+Refrigeration Inspector			
+Step 4	$16.86	$17.45	$18.06
+Step 3	15.81	16.36	16.93
+Step 2	14.74	15.26	15.79
+Step 1	No Increase	No Increase	No Increase
+Start	12.92	13.37	13.84
+Sanitarian Aide	%		
+Step 4	$11.88	$12.30	$12.73
+Step 3	No Increase	No Increase	No Increase
+Step 2	11.53	11.93	12.35
+Step 1	No Increase'	No Increase	No Increase
+Start	10.53	10.90	11.28
+	}		
+Senior Clerk			
+Step 6	$12.41	$12.84	$13.29
+Step 5	11.89	12.31	12.74
+Step 4	11.35	11.75	12.16
+Step 3	10.85	11.23	11.62
+Step 2	10.32	10.68	11.05
+Step 1	9.80	10.14	10.49
+Start	9.32	9.65	9.99
+Senior Draftsman			
+Step 5	$14.82	$15.34	$15.88
+Step 4	13.27	13.73	14.21
+Step 3	11.96	12.38	12.81
+Step 2	10.77	11.15	11.54
+Step 1	9.70	10.04	10.39
+Start	8.74	9.05	9.37
+Sewer Serviceman			
+1 year	$14.42	$14.92	$15.44
+Start	13.58	14.06	14.55
+Stenographer 1			
+Step 4	$11.12	$11.51	$11.91
+57
+Step 3	10.59	10.65	11.02
+Step 2	10.04	10.39	10.75
+Step 1	No Increase	No Increase	No Increase
+Start	8.86	9.17	9.49
+Stenographer 2 Step 4	$12.41	$12.84	$13.29
+Step 3	11.72	12.13	12.55
+Step 2	11.05	11.44	11.84
+Step 1	.No Increase	No Increase	No Increase
+Start'	’	9.77	10.11	10.46
+Traffic Sign & Marking Technician Step 1	$13.23	$13.69	$14.17
+Start	12.40	12.83	13.28
+Typist			
+Step 3	$11.51	$11.91	$12.33
+Step 2	10.86	11.24	11.63
+Step 1	No Increase	No Increase	No Increase
+Start	8.99	9.30	9.63
+Utility Adjuster Step 3	$11.51	$12.84	$13.29
+Step 2	11.51	11.91	12.33
+Step 1	No Increase	No Increase	No Increase
+Start	9.64	9.98	10.33
+Water Hydraulic Repairman Step 1	$14.42	$14.92	$15.44
+Start	13.58	14.06	14.55
+Water Meter Repairman Step 1	$14.42	$14.92	$15.44
+Start	13.58	14.06	14.55
+Water Pipe Repairman Step 2	$14.42	$14.92	$15.44
+Step 1	13.58	14.06	14.55
+58
+Start
+12.30	12.73	13.18
+Water System Construction Inspector
+Step 5	$18.01	$18.64	$19.29
+Step 4	17.26	17.86	18.49
+Step 3	16.45	17.03	17.63
+Step 2	15.66	16.21	16.78
+Step 1	14.91	15.43	15.97
+Start	14.20	14.70	15.21
+DEPARTMENT OF PARKS, RECREATION AND PROPERTIES ADDENDUM
+The City and the Union hereby agree to the following provisions governing the wages, hours, terms and conditions of work for employees who work in the Department of Parks, Recreation and Properties.
+For purposes of lateral transfers and the posting procedure, the Director's Office shall be considered a division.
+Division of Parking Facilities
+1.	The City shall provide suitable uniforms, jackets, gloves, goggles and rain gear for employees in the job classifications of Parking Meter Serviceman and Parking Attendant on or before March 1 of each year.
+2.	In cases of extremely poor weather (e.g. cold, rain, snow, etc.), in the absence of access to a heated booth, the City will provide, at every site that a Parking Attendant is required to stand outside, a warm vehicle for the purpose of reasonable warm-up time not to exceed fifteen (15) minutes per hour. Cold is defined as fifteen (15) degrees Fahrenheit or less as recorded by the National Weather Bureau at Cleveland Hopkins International Airport or Burke Lakefront Airport, depending where the employee is working, or a wind chill factor resulting in apparent temperatures of sixteen (16) degrees Fahrenheit or less.
+3.	The City will provide a relief employee and designate restroom facilities for any Parking Attendant who is assigned to a work location where said facilities are not conveniently available. If facilities cannot be provided by the City, the Attendant shall be allowed reasonable travel time to and from the nearest adequate, designated facilities.
+4.	Before any part-time employee is assigned to work all full-time employees must first
+59
+have been offered the opportunity to perform the said work.
+5.	If any employee is one (1) hour or more late reporting to work, he may be sent home without pay for the day.
+6.	All regular, full-time employees in the job classifications of Parking Attendant, and Parking Meter Serviceman shall receive an annual uniform credit of three hundred twenty-five dollars ($325). Said credit will be provided on or before March 1 of each year.
+7.	The Division may periodically rotate Parking Attendants involved in the collection of money at its various locations. Said rotation shall not be done more than three (3) times per year. Further, rotation to various locations involved in the collection of money shall be within the employee's shift.
+8.	Each location shall have a radio or telephone available on each regular shift for the purpose of communication with headquarters and which has the capability of contacting 911.
+9.	Parking Meter Servicemen who are assigned to operate the jackhammer shall be paid a
+minimum of two (2) hours and hour for hour thereafter at the appropriate rate.
+Division of Recreation
+10.	An employee may be denied a lateral transfer if said employee fails to meet any occupational qualifications required at a specific location.
+11.	When an employee is designated, and accepts, an Acting Center Manager position, he shall be paid in accordance with Paragraphs Eighty-Eight [a], [b] and [c], (88a,b,c), of the main Contract.
+12.	Work schedules at recreation centers shall be posted two (2) weeks in advance when reasonably possible. In the event it is necessary to change the posted schedule, the affected employees shall be advised no later than forty-eight (48) hours in advance. If timely notice is not provided and the employee must work on the day changed, he shall receive one and one-half (1-1/2) times his regular rate of pay for all hours worked.
+13.	The Division of Recreation may temporarily transfer employees who are stewards or alternate stewards provided that:
+[a]	To the extent possible, if an employee in the needed job classification who is not
+60
+a steward or alternate steward is available, that employee shall be transferred.
+[b]	The chapter chairperson shall be advised in advance of any transfer of a steward or alternate steward, the reason the transfer is necessary, and the duration of the transfer, when possible.
+14.	Employees assigned to work in the swimming pool who are not classified as Physical Directors shall be paid, in accordance with Paragraphs Eighty-Eight [a], [b] and [c]. (88a,b,c), of the main Contract, at the rate for the Physical Director job classification for all hours worked in the pool.
+15.	Employees are not required to use their personal vehicle to transport persons. However, if an employee agrees to use his personal vehicle in the performance of his job duties, he shall be reimbursed in accordance with the mileage reimbursement provisions of the main Contract. Mileage reimbursement shall be paid by the fifteeenth (15th) of the month provided mileage reports are submitted by the first (1st) of the month.
+16.	Employees assigned to work in a recreation center may combine their rest and lunch periods at the discretion of management. However, such discretion shall not be unreasonably denied.
+17.	The job classification of Play Director shall be reserved exclusively for seasonal employees. If a Play Director’s employment is continued after the completion of the season, he shall be reclassified as a part-time Recreation Instructor at his current rate of pay.
+18.	The City shall develop a two (2) step disciplinary policy for employees who work a summer season (Play Director, Lifeguard, Lifeguard Captain, Recreation Instructor. Employees who receive at least a one (1) day suspension under the two (2) step system are subject to a final step of discipline for any subsequent infraction of equal or greater seriousness during that season.
+DEPARTMENT OF PUBLIC SERVICE ADDENDUM
+The City and the Union hereby agree to the following provisions governing the wages, hours, terms and conditions of work for employees who work in the Department of Public Service:
+For purposes of lateral transfers and posting procedures, Public Service Administration shall be considered a Division.
+61
+Division of Motor Vehicle Maintenance
+1.	The storerooms shall be staffed when garages are open and full crews are working in an overtime situation.
+2.	The City shall provide and maintain five (5) shirts and five (5) trousers for employees in the job classifications of Stock Clerk, Storekeeper and General Storekeeper.
+3.	Employees responsible for the repair and maintenance of the City fuel system shall be provided with proper identifications and safety equipment. Further, the City shall provide and maintain five (5) shirts and five (5) trousers and rain gear for said employees. Provided a suitable portable shelter is available, it shall also be provided said employees.
+DEPARTMENT OF PUBLIC SAFETY ADDENDUM
+The City and the Union hereby agree to the following provisions governing the wages, hours, terms, and conditions of work for employees who work in the Department of Public Safety:
+Public Safety Administration
+1.	For purposes of lateral transfers and posting procedures, Public Safety Administration
+shall be considered a division.
+2.	Employees in the job classification of Police Radio Technician with the first (1st) or second (2nd) class F.C.C. (Federal Communications Commission) license, or upon receiving same, shall receive thirty cents ($.30) per hour in addition to the negotiated wage rate.
+3.	Employees in the job classification of Police Radio Technician shall receive an annual uniform allowance of three hundred twenty-five dollars ($325), an annual uniform maintenance allowance of one hundred eighty dollars ($180) and an annual work shoe allowance of eighty dollars ($80), said allowances to be provided on or before March 1 of each year. All employees hired after March 1, of any year who complete their probationary period not later than December 31 of the same year shall receive a pro-rata uniform maintenance allowance with thirty (30) calendar days of completeing their probationary period.
+4.	The City shall provide uniforms to employees in the job classification of Telephone Operator and either maintain the uniforms at City expense or provide a one hundred fifty dollar ($150) annual uniform maintenance allowance. All employees hired after March 1, of any year
+62
+who complete their probationary period not later than December 31 of the same year shall receive a pro-rata uniform maintenance allowance within thirty (30) calendar days of completing their probationaiy period.
+Division of Police
+Division of Fire
+5.	Notwithstanding anything to the contrary contained in Section 119 of the Charter of the City of Cleveland, the Chief of the Division of Fire, or his designee, and the Chief of the Division of Police, or his designee, shall have the authority to specify in a disciplinary charging letter the discipline to be imposed upon any employee in their respective divisions, including, but not limited to, suspensions pending discharge.
+6	. For the purposes of Paragraph One Hundred Fifty-Two, (152), of the Contract, an employee in the Division of Police or the Division of Fire who is disciplined shall be disciplined within ten (10) working days of the events upon which the discipline is based or within a reasonable time from the date the City had knowledge of said event(s).
+7.	For the purposes of Paragraph One Hundred Fifty-Nine, (159), of the Contract, grievances shall be presented to the Chief of Police or the Chief of Fire or their respective designee.
+8.	The City shall provide uniforms and either maintain the uniforms at City expense or provide an annual uniform maintenance allowance of one hundred fifty dollars ($150) to employees in the job classifications of Stock Clerk and Messenger. In addition the City shall provide an annual work shoe allowance of eighty dollars ($80). All employees hired after March 1, of any year who complete their probationary period not later than December 31 of the same year shall receive a pro-rata uniform maintenance allowance with thirty (30) calendar days of completing their probationary period.
+Division of Emergency Medical Service
+9.	The City agrees to meet with the Union for the purpose of establishing alternative starting times for employees who work for the Division of Emergency Medical Service.
+Division of Traffic Engineering and Parking
+10.	All employees assigned to operate the jackhammer shall be paid a minimum of two (2) hours and hour for hour thereafter at the lower rate established by the City Record. The City
+63
+shall rotate jackhammer assignments by job classification seniority every thirty (30) days.
+11.	Employees assigned to the Roadway Striper shall be paid for all hours worked while engaged in the striping operation at the appropriate rate of pay.
+12.	The phrase "appropriate rate of pay" as that phrase is used in Paragraph Eleven, (11), of the Department of Public Safety Addendum, Division of Traffic Engineering and Parlang, shall be established as a premium of four dollars ($4.00) per hour for the crew chief position and one dollar thirty cents ($1.30) for the control operator position. Employees assigned to these positions shall be paid the appropriate premium, in addition to their regular hourly rate, eight (8) hours per day, for nine (9) months of each calendar year, notwithstanding the phrase "for all hours worked while engaged in the striping operation" as set forth in Paragraph Eleven, (11), of the addendum.
+13.	The City shall provide and maintain seven (7) shirts and seven (7) trousers and suitable outer jackets, acceptable to both parties, for employees in the job classification of Traffic Sign and Marking Technician. Uniforms will be issued on or before March 1 of each year.
+14.	Employees in the job classification of Traffic Sign and Marking Technician shall be provided a work shoe allowance of eighty dollars ($80) to be paid on or before March 1 of each calendar year.
+15.	Red Cross type first aid kits shall be provided in the Traffic Sign Shop and on each traffic sign truck.
+DEPARTMENT OF COMMUNITY DEVELOPMENT ADDENDUM
+The City and the Union hereby agree to the following provisions governing the wages, hours, terms and conditions of work for employees who work in the Department of Community Development:
+Uniforms
+1.	The City will provide uniforms and, at the City’s option, either maintain the uniforms or provide an annual one hundred fifty dollar ($150) uniform maintenance allowance and provide work shoes on a one (1) time basis to employees in the following job classifications. All employees hired after March 1, of any year who complete their probationary period not later than December 31, of the same year shall receive a pro-rata maintenance allowance within thirty (30) calendar days of completing their probationary period.
+64
+Building Inspector
+Elevator Inspector
+Housing Inspector
+Rehabilitation Inspector
+Site Inspector
+Senior Site Inspector - Demolition
+Community Development Code Enforcement Inspector 1
+Community Development Code Enforcement Inspector 2
+Community Development Code Enforcement Inspector 3
+Community Development Code Enforcement Inspector / Heating 1
+’ Community Development Code Enforcement Inspector I Heating 2 Community Development Code Enforcement Inspector I Heating 3 Community Development Code Enforcement Inspector / Refrigeration 1 Community Development Code Enforcement Inspector I Refrigeration 2 Community Development Code Enforcement Inspector / Refrigeration 3
+The parties agree to establish a Labor-Management Committee to discuss the uniforms prior to implementation.
+Compensatory Time
+2.	The Union agrees to modify the provisions of Paragraphs One Hundred Twenty-Four, (124), and One Hundred Twenty-Five, (125), of the Contract to allow compensatory time as compensation for employees in the Department of Community Development who are required to work outside of their normal working hours. Said compensatory time shall be credited at the rate of one and one-half (114) times the number of all such hours worked, including necessary travel time as specified in the Fair Labor Standards Act of 1938, as amended (F.L.S.A.). No employee shall accumulate in excess of two hundred forty (240) hours of compensatory time. All hours worked in excess of forty(40) hours in one week or eight (8) hours in one day after an employee has accumulated the maximum amount of compensatoiy time shall be paid at the rate of one and one-half (1 ’A) times the employee's regular rate of pay subject to the provisions of Paragraph One Hundred Twenty-Eight, (128), of the Contract. Accrued compensatory time shall not be forfeited at any time, but must be used within twelve (12) months of the time it is earned. An employee who is terminated or retires from employment shall receive payment for earned but unused compensatory time as quickly as possible.
+3.	Mileage reimbursement shall be issued no later than the twenty-first (21st) of every month, provided mileage claims submitted by the employee to the City no later than the third (3rd) of each month.
+65
+4.	Tuition reimbursement shall be issued no later than the third (3rd) pay period following , receipt of all the proper papers by the City.
+Division of Administrative Services
+Division of Neighborhood Services
+Division of Neighborhood Development
+5.	All employees in the divisions of Administrative Services, Neighborhood Services and Neighborhood Development shall be required to report to work at a starting time assigned by City seniority within each division between the hours of 7:30 a.m. and 8:30 a.m. Each employee shall be required to work an eight (8) hour day from the time he/she reports to work. No employee shall report prior to a 7:30 a.m. starting time.
+6.	Employees currently in the job classifications of Rehabilitation Advisor and Rehabilitation Supervisor will be reclassified to the job classification of Rehabilitation Inspector. Current employees and new employees hired into this job classification will be required to pass the residential portion of the Ohio State Board of Building Standards Certification Test (CABO). Any reclassified or new employee who fails to pass the certification test within eighteen (18) months will be reclassified as a Housing Inspector once a vacancy is available in the Division of Building and Housing.
+Division of Building and Housing
+7.	The City shall provide Inspectors who are assigned to enforce the Ohio Basic Building Code (O.B.B.C.) with State code books and with the City of Cleveland code materials (Building, HVAC, Housing and Zoning) as they become available.
+8.	The City shall provide Inspectors with continuing education in order to maintain the Inspector’s state certification.
+9.	All employees appointed to the position of Community Development Code Enforcement Inspector 1 after September 25,1984, (the effective date of House Bill 300) are required to obtain State certification as a "Building Inspector" within eighteen (18) months of their date of appointment to their current title. In the event an employee fails to do so within said period, he shall be reclassified to and perform the duties of the job classification of Housing Inspector. Such employees shall be paid at the top step of the wage and salary schedule for the Housing Inspector job classification.
+10.	All persons hired as Community Development Code Enforcement Inspector - Trainee shall be required to obtain an Ohio Class HI Certificate of Competency, within eighteen (18)
+66
+months of appointment to this job classification. In the event an employee fails to do so, he '■-shall be reclassified to and perform the duties of the job classification of Housing Inspector and shall be paid at the top step of the wage and salary Schedule for the Housing Inspector job classification.
+11.	The wage rates for the job classification of Community Development Code Enforcement Inspector - Trainee shall be:
+	04/01/98	04/01/99	04/01/2000	
+Step 2	$14.73	$15.25	$15.78	2nd module
+Step 1	$13.43	,	$13.90	$14.39	1st module
+Start	$12.85	$13.30	$13.77	
+Advancement is based upon successful completion of modules of the N.C.P.C.C.I. exam
+12.	Once all the requirements set forth in Paragraph Eleven, (11), of this addendum have been met, advancement to Community Development Code Enforcement Inspector 1 shall be filled in accordance with the posting procedure. In the event an Inspector who has been reclassified to Housing Inspector for failure to obtain/maintain full State certification later obtains such certification, he shall likewise be advanced to Community Development Code Enforcement Inspector 1.
+13	. The job classifications of Building Inspector and Housing Inspector will be retained by the Division of Building and Housing at this time. New Inspector personnel will be hired into the job classification of either Community Development Code Enforcement Inspector -Trainee or Housing Inspector.
+14.	The parties agree to mutually work toward a modification of Section 4101:2-l-79 of the O.B.B.C. so as to broaden the definition of experience in related trades or general construction which is considered as qualifying an applicant for a Class HI, a Class HI Trainee or a Class V Certificate of Competency.
+15.	All employees in the classification of Elevator Inspector /HVAC Inspector who obtain state certification shall be paid at the current rate of the Community Development Code Enforcement Inspector 1 classification.
+16.	These provisions supersede all other agreements between the parties concerning Community Development Code Enforcement Inspector personnel. Any additional modifications
+67
+of this addendum will be subject to mutual agreement between the City and the Union.
+17.	The Division of Building and Housing shall continue its current flexible working hours agreement:
+[a]	The available position in each core hour category shall first (1st) be determined by the City in accordance with the operational needs of each section of the division. In the event more employees opt for a core hour category than can be accommodated, the available positions in that core hour category shall be assigned in order of City seniority as defined in the collective bargaining agreement to which the Union and the ' City are parties.
+[b]	All employees in the division shall be offered an election opportunity to indicate their preference with respect to core hours during the months of April and October, corresponding with the changes from Daylight Savings to Standard Time and vice versa. Such preference shall remain in effect until the next election opportunity, unless otherwise permitted as set forth herein.
+[c]	An employee may request a change in assigned core hours, prior to the next election opportunity in the event of the occurrence of an unexpected change in circumstances. The necessity of said change shall be evaluated by the City and the approval of the requested change shall not be unreasonably denied.
+[d]	During holiday seasons and peak vacation periods, the City may request that employees change to a different core hour category to accommodate the City's operational needs. However it is understood that any such change shall be voluntary on the part of the employee in cases where such change shall work a hardship on the employee's family circumstances (e.g. day care arrangements, schooling arrangements, transportation arrangements).
+18.	Employees of the Division of Building and Housing who are in need of delousing by virtue of exposure to pests during the performance of their normal duties shall be permitted to delouse at City facilities designated by the City. Such delousing shall occur on City time, but employees who complete delousing with more than one (1) hour remaining in their shift are expected to return to their regular duties
+GENERAL GOVERNMENT ADDENDUM
+The Department of Economic Development shall be considered a component of General
+68
+Government.
+Department of Economic Development
+,	1. The Union agrees to modify the provisions of Paragraph One Hundred Twenty-Four,
+j	(124), and One Hundred Twenty-Five, (125), of the Contract to permit compensatory time as
+compensation for employees in the classifications of Development Officer and Senior f 1 Development Officer who are required to work outside of their normal working hours of 8:00 1	a.m. to 5:00 p.m. Said compensatory time shall be credited at the rate of time and one-half for
+।	all hours worked in excess of forty (40) in one (1) week or eight (8) in one (1) day, including
+necessary travel time as specified in the Fair Labor Standards Act of 1938, as amended. No employees shall accumulate in excess of two hundred forty (240) hours of compensatoiy time. All hours worked in excess of forty (40) hours in a week or eight (8) in a day after an employee has accumulated the maximum amount of compensatory time shall be paid at the rate of one i and one-half (1 %) times the employees regular rate of pay subject to the provisions of l Paragraph One Hundred Twenty-Eight, (128), of the Contract. Accrued compensatory time shall not be forfeited at any time and an employee who is laid off or otherwise terminated from ) employment shall receive payment for earned but unused compensatory time as quickly as possible but not later than ten (10) working days after the effective date of the lay off or
+I termination.
+I ■.	•
+City Planning Commission
+2.	A schedule of flexible working hours shall be established as described herein:
+•	[a] Work Day. The City Planning Commission office hours are 7:00 a.m. - 6:00 p.m.
+..“
+[b] Core Hours. Each employee selects one (1) of three (3) daily schedules ("core hours"), with the following start times.
+1	A: 7:00 a.m. - 8:00 a.m. B: 7:30 a.m. - 8:30 a.m. C: 8:00 a.m. - 9:00 a.m.
+i j	"Ending Time" is nine (9) hours after “Start Time”, with one (1) hour for lunch. An
+employee’s lunch hour cannot be the first (1st) or last hour of the work day, unless :	vacation or compensatory time is being used.
+I	[c] Daily Schedules: An employee may select different core hours for different days
+of the week or month (such as "Schedule A for Monday, Wednesday, Friday" and
+.	"Schedule B for Tuesday, Thursday").
+1	69
+[d]	Changes: An employee may change his schedule with a request made in writing - at least thirty (30) days in advance of the requested change date. No deviations from the approved schedule will be permitted without written approval for the use of vacation or compensatory time, approved prior to the day of use.
+[e]	Approvals: The director will consider and approve schedule requests based on the office's operational needs.
+[f]	Tardiness: An employee will be considered "tardy" if he arrives after the end of his approved start time period. The employee will be "docked" if he arrives ten (10) ' minutes or more after the end of his approved start time period.
+[g]	Call In: An employee who will not be able to arrive on a particular day during the approved start time period is expected to call the office no later than the end of that start time period. An employee will be considered A.W.O.L. if he fails to call the office within one (1) hour after the end of his start time period for that day.
+3.	The Union agrees to modify the provisions of Paragraphs One Hundred Twenty-Four, (124), and One Hundred Twenty-Five, (125), of the Contract to provide compensatory time as compensation for employees in the job classifications Junior City Planner, Assistant City Planner, Senior Assistant City Planner, Architect, Secretary, Private Secretary and Principal Clerk who are required to work outside of their normal working hours of 8:00 a.m. to 5:00 p.m. Said compensatory time shall be credited at the rate of time and one-half (1 Vz) for all hours worked in excess of forty (40) in one (1) week or eight (8) in one (1) day, including necessary travel time as amended. No employee shall accumulate in excess of two hundred forty (240) hours of compensatoiy time. All hours worked in excess of forty (40) in a week or eight (8) hours in a day after an employee has accumulated the maximum amount of compensatory time shall be paid at the rate of one and one-half (1 !4) times the employee's regular rate of pay subject to the provisions of Paragraph One Hundred Twenty-Eight, (128), of the Contract. Accrued compensatory time shall not be forfeited at any time. An employee who is laid off or otherwise terminated from employment shall receive payment for earned but unused compensatory time as quickly as possible but not later than ten (10) working days after the effective date of the lay off or termination. An employee must give forty-eight (48) hours notice of the use of compensatory time and shall be entitled to use same provided operational needs permit. If the operational needs of the operational work unit cannot be met because there are too many requests for a specific day, the requests will be granted in accordance with City seniority.
+Community Relations Board
+70
+4.	The Union agrees to waive the provisions of Paragraphs One Hundred Twenty-Four, 4-(124), and One Hundred Twenty-Five, (125), of the Contract to allow compensatory time as compensation for employees in the job classifications of Community Relations Representative 1, 2, and 3. Said compensatory time shall be credited at the rate of time and one-half for all hours worked in excess of forty (40) in one (1) week or eight (8) in one (1) day, including necessary travel time as specified in the Fair Labor Standards Act of 1938 as amended. No employee shall accumulate in excess of two hundred forty (240) hours of compensatory time. All hours worked in excess of forty (40) hours in a week or eight (8) in a day after an employee has accumulated the maximum amount of compensatory time shall be paid at the rate of pay subject to the provisions of Paragraph One Hundred Twenty-Eight, (128), of the Contract. Compensatory time accumulated under the provisions of this addendum must be used by the end of each calendar year. However, accrued compensatory time shall not be forfeited at any time. An employee who is laid off or otherwise separated from employment shall receive payment for earned but unused compensatoiy time as quickly as possible but not later than ten (10) working days after the effective date of the layoff or other separation. An employee must give twenty-four (24) hours notice of the use of compensatory time and shall be entitled to use same provided operational needs permit. If the operational needs of the operational work unit cannot be met because there are too many requests will be granted in accordance with City seniority.
+DEPARTMENT OF PUBLIC UTILITIES ADDENDUM
+The City and the Union hereby agree to the following provisions governing the wages, hours, terms and conditions of work for employees who work in the Department of Public Utilities:
+1.	For purposes of lateral transfers and posting procedures, Public Utilities Administration
+shall be considered a division.
+2.	Except for any other mutually agreed upon practice now in effect, all service and maintenance employees shall be allowed at least fifteen (15) minutes prior to clocking or signing out as a clean-up and wash-up period.
+Safety Committee
+3.	The Joint Safety Committee currently established in the Department of Public Utilities shall be composed of one (1) bargaining unit representative each of the Division of Water and Division of Water Pollution Control and two (2) representatives of the department.
+4.	The purpose of the Committee shall be to examine current work practices and procedures
+for safety improvements; to explore diverse safety equipment, including training materials; and
+71
+to make recommendations for safety improvements to the appropriate commissioners).
+5.	Employees who are on the Safety Committee shall not lose regular straight-time pay for time spent in committee meetings. Employees will not be eligible for overtime or other premium pay for time spent on committee business.
+Division of Water
+Division of Water Pollution Control
+Division of Cleveland Public Power
+Division of Utilities Fiscal Control
+Safe Working Conditions and Equipment
+6.	The City agrees to provide and maintain safety equipment, including flashers, gas detectors, long rubber gloves, mercury spill kits, harnesses, ropes, bracing jacks, fire extinguishers, Red Cross first aid kits and adequate night fights for employees on all jobs.
+7.	The City agrees to provide personal safety equipment, including safety goggles, safety glasses, safety shields, ear protection, vista vests, safety helmets and foot protection to all employees whose job duties necessitate this equipment.
+8.	The City will continue to provide slicker boots, hip boots, rain pants, rain jackets and gloves and will also provide helmet liners and helmet chin straps to all employees whose job duties necessitate this equipment.
+9.	Employees shall wear and utilize all safety equipment which is provided by the City and utilize equipment and tools in a reasonable fashion in the performance of their work.
+10.	The present work equipment will be maintained in an operating maimer and tools and equipment necessary for employees to perform their work will be provided by the City.
+11.	The City agrees to provide heating equipment similar to that provided by other utilities in this area for those employees who are required to work outside during cold weather.
+12.	Employees shall not be left at a job site without vehicles equipped with an operable radio. In the event of an alleged safety violation, and pursuant to a request of the employee, the foreman shall contact the radio room. Thereafter, the radio room will contact necessary safety personnel.
+13.	Two (2) Meter Readers will be dispatched, consistent with current practice, on flushout,
+72
+master meter, steel mills or other assignments which require a Meter Reader to enter a vault to obtain a reading.
+14.	Employees who are required to work more than sixteen (16) consecutive hours shall not be required to work the first (1st) four (4) hours of their next regular shift, provided said shift begins within eight (8) hours of the time the employee was relieved. Affected employees will not lose pay for the time they are not required to report for work.
+15.	The City recognizes its responsibility to provide reasonable protection to its employees in the field and supervisors and the Safety and Security Section will maintain surveillance functions.
+Emergency Overtime Relief
+16.	The City will make every effort to obtain relief personnel for any employee who has notified supervision at the beginning of his shift that he cannot work emergency overtime that day. A fist will be posted at the beginning of each shift for employees to indicate their availability to work emergency overtime on that day. Employees on the availability list will be offered the opportunity for emergency overtime to replace an employee who has indicated at the beginning of his shift that he cannot work emergency overtime on that day. To the extent the City's efforts to obtain a replacement are unsuccessful, the provisions of Paragraph One Hundred Twenty, (120), of the main Contract shall apply.
+Contiguous Overtime
+17.	Contiguous overtime work will be assigned to those employees who performed the work involved during the applicable work day or shift. When more than three (3) employees are working, a steward or Union officer will be present and working. For purposes of contiguous overtime, a steward will not be added to a crew unless an additional or replacement employee is needed.
+Equalization of Overtime
+18.	Employees in the Division of Water who are on an approved leave of absence shall be credited with overtime hours for purposes of overtime equalization as if they were on active status. New employees shall be credited with the maximum hours accumulated by any one similarly situated employee.
+Premium Rates
+19.	Employees who are assigned to operate the jackhammer shall receive the lower rate of pay established by the City Record. An employee shall receive a minimum of two (2) hours pay, at the appropriate rate, when operating the jackhammer and hour for hour thereafter.
+73
+-20.	Employees whose work week is other than Monday through Friday shall receive a thirty-
+five cents ($.35) per hour premium for all hours worked.
+21.	Division of Water employees who are assigned to Main-Lining and Hydrant Inspection and Division of Water Pollution Control employees who are assigned to the Rodder, Vac-All, Jet, Turbine, TV Inspection/Grouting Truck and Combination Machine shall receive an additional twenty-five cents ($.25) per hour for all hours worked in that assignment.
+22. The established Career Ladder wage schedule for the Meter Reader job classification is:
+	04/01/98	04/01/99	04/01/2000
+Investigation	$14.42	$14.92	$15.44
+Commercial	$14.42	$14.92	$15.44
+Collections	$14.42	$14.92	$15.44
+Machine	$14.16	$14.66	$15.17
+Residential	According to established wage and salary schedule
+. Employees assigned to Investigations will be required to change water meters as part of their regular duties.
+23.	Employees in the job classification of Radio Technician with a first (1 st) or second (2nd) class F.C.C. (Federal Communications Commission) license or upon receiving same, shall receive thirty cents ($.30) per hour in addition to the negotiated wage rate.
+24.	Employees in the job classifications of Water Pipe Repairman, Water Meter Repairman, Water Hydraulic Repairman, Water System Construction Inspector and Radio DispatcherWater who obtain an Ohio E.P.A. (Ohio Environmental Protection Agency) Water Distribution License shall receive a license incentive in accordance with the following schedule effective January 1,1999:
+Class I License:	$.10 per hour
+Class II License:	$.15 per hour
+Class III License:	$.20 per hour
+Any course or test taken to obtain such license shall be on the employee’s own time.
+Alternate and Rotating Work Weeks
+25.	Vacancies on alternate work weeks and rotating work weeks shall be filled in accordance
+74
+t with the Lateral Transfer / Shift Preference / Work Week Preference and/or Posting Procedure 'contained in this Contract.
+26.	Employees whose work week is comprised of four (4) ten (10) hour days are considered to be assigned to a Rotating Work Week. All employees working said Rotating Work Week shall, in lieu of the compensation provided by Paragraphs One Hundred Twenty-Four, (124) and One Hundred Twenty-Five, (125), of the main Contract, receive one and one-half (1 %) times their regular rate of pay for all hours worked in excess of ten (10) in one (1) day during the twenty-four (24) hour period beginning with the start of his regularly scheduled shift.
+27.	An employee assigned to a Rotating Work Week who is called in and works their designated holiday shall be paid one and one-half (1 Vz) times his regular rate of pay for all hours worked on the designated holiday in accordance with all other applicable provisions of the Contract and City Policy.
+28.	Employees assigned to a Rotating Work Week shall be charged for paid and unpaid absences in ten (10) hour increments. The language in Paragraphs Sixty-Two, (62), and Seventy-Three, (73), which refers to working days, and which means days based on eight (8) hours per day, shall retain the same meaning for purposes of this addendum. However, should an employee assigned to a Rotating Work Week incur a death in his immediate family during a time period when he is scheduled to work either seven (7) or eight (8) consecutive days, the City agrees to adjust the provisions of Paragraphs Sixty-One [a] and [b], (61a,b),of the main Contract as follows:
+[a]	Five (5) working days or forty (40) hours may be adjusted to five (5) working days or fifty (50) hours as required.
+[b]	Seven (7) working days or fifty-six (56) hours may be adjusted to seven working days or seventy (70) hours as required.
+29.	There shall be three (3) fifteen (15) minute rest periods on each ten (10) hour shift each work day.
+30.	The City agrees to adjust the number of working days imposed for disciplinary suspensions for employees assigned to a Rotating Work Week.
+31.	The City agrees to adjust the Absence Abuse Policy as to its application for employees assigned to a Rotating Work Week.
+75
+Mileage / Travel Allowance
+-32. Meter Readers, other than residential walking Meter Readers, shall be reimbursed mileage in accordance with Paragraph One Hundred Forty-Two, (142), of the main Contract for the use of their personal vehicle in the performance of their job duties. Residential walking Meter Readers shall be paid the following travel allowance in Heu of the mileage allowance for the use of their personal vehicle during the performance of their job duties:
+$4.00 per day for travel within the City limits.
+$5.50 per day for travel outside the City limits.
+Payment will be included in the employee's regular paycheck.
+33.	Employees who report to a work location, and then are instructed to report to another work location, shall be provided with mileage reimbursement, in accordance with a schedule established by the City, for the travel to and from the first (1st) work location. Mileage reimbursement will be paid by the fifteenth (15th) of the month, provided mileage reports are submitted by the first (1st) of the month. Employees who are transported to another work location shall be provided transportation by City vehicle back to their original work location.
+34.	The City agrees to reimburse employees in the job classification of House Connection Inspector who are required to commute with a City vehicle for all fees assessed by City Ordinances. Employees are responsible for providing any necessary additional automobile insurance.
+Compensatory Time
+35.	The parties agree to modify the overtime provisions of the contract to allow employees in the Division of Utifities Fiscal Control to elect to receive compensatory time at the rate of one and one-half (1 %) times the actual hours worked in excess of eight (8) in one (1) day and forty (40) in one (1) week, whichever is applicable in lieu of cash payment.
+36.	Employees of the Division of Cleveland PubUc Power shall receive compensatory time at the rate of one and one-half (1 1/2) times the actual number of hours worked at summer festivals and after hour speaker events.
+37.	No employee will be permitted to accumulate in excess of forty-two (42) hours of compensatory time.
+38.	Accrued compensatory time for said employees shall be not be forfeited at anytime.
+39.	For all hours worked after said employees have accrued the maximum number of
+76
+compensatory time hours allowed by this agreement, employees shall be entitled to overtime '- compensation payment at the rate of one and one-half (1 V2) times their regular rate of pay.
+Payment shall be included in the employees regular pay check.
+40.	The Equalization of Overtime provisions of the Contract will continue to apply to all overtime offered to employees in the division.
+41.	Use of compensatory time must have prior approval of the appointing authority or designee. Requests to use compensatory time shall be granted based upon city seniority guidelines consistent with operational requirements.
+Uniforms / Uniform Allowance
+42.	All employees will report for work in proper uniform with proper footwear and appropriate attire for weather conditions. The City at its sole discretion will either provide and maintain uniforms and work shoes or will provide an annual uniform allowance, uniform maintenance allowance and work shoe allowance.
+43.	The following exceptions apply to the requirement that an employee be on payroll at the time the allowance is issued. Employees hired after March 1 of a calendar year who complete their probationary period not later than December 31 of the same year shall receive a pro-rata uniform maintenance allowance within thirty (30) calendar days of completing their probationary period.
+44.	The City agrees to provide ten (10) uniforms, maintained by the City, to employees in the job classifications of Sewer Serviceman, Assistant Civil Engineer and House Connection Inspector.
+45.	The City at its sole discretion will either provide and maintain uniforms or will provide, on or before March 1, annual uniform allowances, uniform maintenance allowances and work shoe allowances in the amounts listed, for the following job classifications:
+77
+Uniform Allowance
+Assistant Civil Engineer	$250
+Chief Miscellaneous Investigator	350
+General Storekeeper	-0-
+Head Storekeeper	-0-
+House Connection Inspector	250
+Instrumentation Technician 1	250
+Instrumentation Technician 2	250
+Meter Reader	350
+Miscellaneous Investigator	350
+Radio technician	325
+Sewer Serviceman	-0-
+Stock Clerk	-0-
+Storekeeper	c, , •	-0-
+Water Hydraulic Repairman	350
+Water Meter Repairman	350
+Water Pipe Repairman	350
+Water System Construction Inspector	250
+Uniform aintenance	Work Shoe Allowance
+-0-	$80
+$180	80
+-0-	80
+-0-	80
+-0-	80
+-0-	80
+-0-	80
+180	80
+180	80
+180	80
+250	80
+-0-	80
+-0-	80
+180	80
+180	80
+180	80
+-0-	80
+78
+v	DEPARTMENT OF PUBLIC HEALTH ADDENDUM
+Division of Correction
+1.	The City agrees to provide five (5) aprons by March 1 of each year to employees in the
+job classifications of Cook and Head Cook.
+Division of Health
+Division of the Environment
+2.	The City shall provide and maintain three (3) shirts, three (3) pants and one (1) pair of overalls to employees in the job classifications of Air Pollution Engineer 1, 2, 3 and Air Pollution Technician 1,2,3.
+■ »
+Compensatory Time
+3.	The parties agree to modify the overtime provisions of the contract to require employees in the Division of Health and the Division of the Environment to receive compensatory time at the rate of one and one-half (11/2) times the actual hours worked in excess of eight (8) in one (1) day or forty (40) in one (1) week, whichever is applicable, in Heu of cash payment for the following work assignments:
+Health
+-	Health Fairs and Guest Speakers
+-	Immunization Clinics
+-	Expanded Health Clinic Hours
+-	Investigation of Day Care Centers outside of normal working hours
+4.	No employee will be permitted to accumulate in excess of forty-two (42) hours of compensatory time. Accrued compensatory time for said employees shall be not be forfeited at anytime.
+5.	For all overtime hours worked after said employees have accrued the maximum number of compensatory time hours allowed by this agreement, employees shall be entitled to overtime compensation payment at the rate of one and one-half (1 V2) times their regular rate of pay. Payment shall be included in the employees regular pay check.
+Environment
+-	Evening and Weekend Enforcement Sweeps
+-	Travel outside of normal working hours
+-	Evening/Weekend Health Fairs
+-	Investigation of Fires
+or Health Code Emergencies
+79
+6.	The Equalization of Overtime provisions of the Contract will continue to apply to all <_ overtime offered to employees in the respective divisions.
+7.	Employee acceptance of a work assignment which requires the crediting of compensatory time is completely optional. Refusal will not result in overtime payment.
+8.	Use of compensatory time must have prior approval of the appropriate appointing authority. Requests to use compensatory time shall be granted based upon city seniority guidelines consistent with operational requirements.
+DEPARTMENT OF FINANCE ADDENDUM
+The City and the Union hereby agree to the following provisions governing the wages, hours, terms and conditions of work for employees who work in the Department of Finance:
+1.	For purposes of lateral transfers and the posting procedure, Finance Administration shall be considered a division.
+2.	The Department of Finance may at its discretion modify starting and quitting times for employees with demonstrated special circumstances.
+City Treasury
+3.	The City shall designate and provide suitable uniforms, rainsuits, gloves and jackets for the employees in the job classification of Parking Meter Collector on or before March 1 of each year.
+Division of Assessments and Licenses
+4.	The City shall continue its practice of providing uniforms to employees in the job classification of Inspector of Weights and Measures.
+5.	Employees in the job classification of Inspector of Weights and Measures must achieve
+state certification within eighteen (18) months of entering the classification.
+Division of Taxation
+Division of Printing and Reproduction
+Compensatory Time
+80
+6.	The parties agree to modify the overtime provisions of the contract to allow employees \in the Division of Taxation and the Division of Printing and Reproduction to elect to receive compensatory time at the rate of one and one-half (1 !4) times the actual hours worked in excess of eight (8) in one (1) day and forty (40) in one (1) week, whichever is applicable in Heu of cash payment.
+7.	No employee will be permitted to accumulate in excess of forty-two (42) hours of compensatory time.
+8.	Accrued compensatory time for said employees shall be not be forfeited at anytime.
+9.	For all hours worked after said employees have accrued the maximum number of
+compensatory time hours allowed by this agreement, employees shall be entitled to overtime compensation payment at the rate of one and one-half (1 !4) times their regular rate of pay. Payment shall be included in the employee’s regular pay check.
+10.	The Equalization of Overtime provisions of the Contract will continue to apply to all overtime offered to employees in the respective divisions.
+11.	Use of compensatory time must have prior approval of the appropriate appointing authority. Requests to use compensatory time shall be granted based upon city seniority guidelines consistent with operational requirements.
+DEPARTMENT OF PORT CONTROL ADDENDUM
+The City and the Union hereby agree to the following provisions governing the wages, hours, terms and conditions of work for employees who work in the Department of Port Control:
+Division of Burke Lakefront Airport
+Division of Cleveland Hopkins International Airport
+1.	The normal work week for employees in the job classification of Airport Safetyman shall
+consist of one (1) shift of twenty-four (24) consecutive hours, followed by forty-eight (48) hours off work with an additional twenty-four (24) consecutive hours off work (Kelly Day) once every three (3) weeks so that no person shall average more than forty-eight (48) hours of work per week within said three (3) week period. Shift bids and Kelly Days shall be bid once a year no later than November 1 in accordance with job classification seniority provisions as outlined in Paragraph One Hundred Thirty-Nine, (139), of the main Contract. In accordance with Paragraph One Hundred Thirteen, (113), of this Contract, the City reserves the right to go
+81
+to a forty (40) hour work week which would nullify Paragraphs One, Two and Three, Four and '..Five (1,2,3,4,5) of this addendum.
+2.	Employees classified as Airport Safetyman are entitled to an extra week of vacation to compensate for the following seven (7) holidays: New Year’s Day, Good Friday, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day.
+3.	In the event an employee in the job classification of Airport Safetyman retires, quits, or is terminated, he shall receive pro-rata pay for this week based upon the indicated year at the time of separation. One (1) day would equal one-fifih (1/5) of one (1) week's pay.
+4.	President's Day and Dr. Martin Luther King, Jr. Day shall be individual holidays for Airport Safetymen which will continue to be picked by shift seniority, one (1) day each calendar quarter, with approval of the chief or shift supervisor.
+5.	Twenty (20) hours of sick time will be charged for each twenty-four (24) hour shift off due to illness for employees in the job classification of Airport Safetyman.
+6.	The City will not incorporate security into the Airport Safetyman job classification unless both parties agree upon the modification.
+7.	License incentives shall be paid in accordance with City Ordinance as follows:
+[a]	Airport Safetymen
+License	One Time Payment	Incentive
+'	EMT-A		-0-	$ ,40/hr
+	ADV. EMT-A	$200	$ .50/hr
+	PARAMEDIC	$500	$1.00/hr
+[b]	Incentive payment shall be based on the highest license received.
+[c]	Employees shall receive incentive pay for all paid hours.
+[d]	Employees shall be required to show written documentation upon request of initial and/or continuing certification in order to receive monies outlined in Paragraph Seven [a], (7a), above.
+82
+[e]	Once certification and one (1) time payment has been received, the employee shall not voluntarily lose certification. Employees currently certified as an EMT-A must maintain this certification.
+8.	Airport Safetymen are salaried employees. However, the hourly rate specified in the wage and salary schedule shall be used for the calculation of overtime for all hours worked in excess of their regularly scheduled twenty-four (24) hour shift, impaid absences, and all Union negotiated benefits and increases. Additionally, with respect to disciplinary suspensions of employees assigned to twenty-four (24) hour shifts, the City agrees to a pro-rata adjustment.
+9.	• The City shall reimburse all Aiiport Safetymen for the necessary courses to maintain job requirements. Job requirements shall be determined by the Department of Port Control. If an employee fails the EMT-A course provided by the City to maintain certification for reasons other than non-attendance for bonafide medical reasons, the City will not be liable for any additional cost an employee may incur to maintain certification.
+10.	The City will discuss with the Union any anticipated changes in operations caused by airline policy decisions affecting either Cleveland Hopkins International Airport or Burke Lakefront Airport.
+11.	When Airport Safetymen are fighting five pit fires, no personnel will be required to enter the pit without the use of appropriate fire fighting agents as designated by the N.F.P. A. Pit fire training shall be performed at a facility where medical transport is available.
+12.	The Department of Port Control shall determine uniform requirements appropriate to the job to be performed and based upon those requirements will continue to provide uniforms or provide a voucher annually to employees in the job classifications of Airport Safetyman, Airport Operations Agent 1 and 2, Airport Information Representative, Stock Clerk, Storekeeper and Head Storekeeper. The City will meet and confer with the Union as to the quality and quantity of uniform items prior to ordering and issuing same. Said uniforms will be provided on or before March 1 of each year.
+13.	The City at its sole discretion, will either maintain uniforms or provide an annual maintenance allowance of one hundred fifty dollars ($150), on or before March 1, for the job classifications of Airport Safetyman, Airport Operation Agent 1 and 2, and Airport Information Representative.
+14.	All employees hired after March 1 of any year who complete their probationary period not later than December 31 of the same year shall receive a pro-rata uniform maintenance
+83
+allowance within thirty (30) days of completing their probationary period.
+15.	Airport Safetymen will have the option of wearing the EMT, or Paramedic and U.S. flag patches on uniform shirts and jackets. The City shall provide the patches and placement of said patches shall be determined by the City.
+16.	The Department of Port Control has established a safety committee comprised of representatives from both management and non-management. The Union shall designate two (2) members of its bargaining unit to be members of the safety committee.
+17.	- The purpose of the committee shall be to examine current work practices and procedures for safety improvements; to explore diverse safety equipment, including training materials, and to make recommendations for safety improvements to the appropriate commissioners.
+18.	Employees who are on the safety committee shall not lose regular straight-time pay for the time spent in committee meetings. Employees will not be eligible for overtime or other premium pay for time spent on committee business.
+19.	The City will establish an individual exercise program for Airport Safetymen. It is understood by the parties that the exercise program parameters for Airport Safetymen in the Department of Port Control shall be established by a physician. That physician shall establish a definition of reasonable effort which employees will be required to put forth in complying with the exercise program. Employees who make a good faith effort to put forth a reasonable effort shall not be subject to disciplinary action for failure to meet program goals. The individual detailed specifics of the exercise program shall be on a confidential basis.
+20.	The City will provide annual medical examinations to Airport Safetymen. The City will abide by relevant provisions of Ordinance 501-89 for the life of the ordinance or Contract, whichever expires last.
+21.	The City will provide a malpractice insurance policy to all Airport Safetymen who provide emergency medical service to the public. The City will provide the Union with a copy of its malpractice insurance policy.
+22.	In the event an Airport Safetyman responds to an emergency situation that extends into the last thirty (30) minutes their shift, they shall be allowed an additional thirty (30) minutes after their quitting time to finish reports, stow gear, clean up, etc. Such time to be paid at the overtime rate.
+84
+23.	Operations Department shift bids at Cleveland Hopkins International Airport (C.H.I. A.) will occur at least twice a year after the first (1st) complete week in May and after the first (1st) complete week in November. In the shift bid that occurs in May, in an odd numbered year, Paragraph Thirty-Two, (32), would not apply to the incumbent Union steward. Shift bids shall be on the equitable basis of operational job classification requirements as determined by management. Actual schedules based on operational needs will be established by management. There will be additional shift bids due to personnel changes as needed.
+24.	On occasions, it is necessary to determine ranking within a job classification in the Operations Departments at either C.H.LA. or Burke Lakefront Airport, the following criteria shall be applied:
+(a)	Job classification seniority date to include TA appointment if applicable.
+(b)	Time of service with the Operations Department.
+.t	•
+(c)	City seniority as defined by the Contract'.
+(d)	Random selection, by lottery, with the Union representative present.
+25.	Lockers will be provided for Airport Information Representatives provided space is available.
+26.	The City and Union will meet in a labor-management committee to discuss consolidating Airport Operation Agent and Airport Safetyman job classifications at Burke Lakefront Airport.
+27.	The City and Union will meet in a labor-management committee to discuss equity wage
+increase for Airport Operations Agents performing security related duties.
+DURATION
+186.	This Contract represents a complete and final understanding on all operational policies between the City and the Union, and it shall be effective upon execution and remain in full force and effect through March 31,2001.
+IN WITNESS WHEREOF, the parties have hereunto set their hands this 23 rd day of April, 1999.
+85
+On behalf of Ohio Council 8, AFSCME, AFL-CIO
+John^Filak, Staff‘Representative	Angela M. Caldwell, Staff Representative
+On behalf of Cleveland, Ohio City Employees, Local 100, AFSCME, AFL-CIO
+Harold M itchell, President
+Lawrence Haregsin, Chairperson Utilities Investigation Chapter
+‘ Eyv^nne Davis, Secretary Community Development Chapter
+Paul R. Garner, Chairperson Utilities Maintenance Chapter
+Florence £ Harris, Chairperson Public Health Chapter
+Trudy Hutchinson, Labor Relations Manager
+City of Cleveland
+86
+LETTERS OF UNDERSTANDING
+GENERAL LEAVE PROVISIONS
+It is understood that the City has the right to discipline employees who misrepresent facts related to funeral leave or who use a leave of absence for a purpose other than that for which it was granted.
+SERIOUS MISCONDUCT
+The Union agrees that effective upon ratification of the Contract, that the City has a disciplinary policy which allows it to discharge employees for serious misconduct including but not limited to:
+[a]	Theft of City property;
+[b]	Conviction of an offense involving the sale of drugs;
+[c]	For employees regularly scheduled to drive a City vehicle, two (2) DUI convictions within a two (2) year period.
+PARKING TICKETS
+Employees who fail to pay parking tickets/fines received on City vehicles after the ratification of this Contract will authorize the City to deduct the amount of the fines from their pay check once the administrative appeal process, if applicable, has been exhausted.
+CITY DRUG TESTING POLICY
+When there is reasonable cause to believe that an individual employee is using illegal drugs or alcohol at work or is under the influence of drugs or alcohol at work, such employee will be directed to report to a City designated physician or medical clinic, on City time and expense, for a fitness for duty examination. This will involve appropriate testing, including possible urine or blood tests or breathalyzer exam as determined by the appropriate medical personnel.
+All employees who are required to be randomly tested under law (e.g., Department of Transportation (DOT) regulations regarding employees required to have a Commercial Drivers License (CDL) who drives vehicles in excess of 26,000 pounds), and all employees in safety
+87
+sensitive positions shall be subject to random drug/alcohol testing. Such testing shall be conducted in accordance with the DOT proceduces. Both random examinations and resonable suspicion examinations are conducted for the purpose of determining the presence of illegal drugs or alcohol in the employee tested. An employee who is directed to submit to such examinations shall report to a City-designated physician or medical clinic, on City time and at City expense. The City’s Labor Relations Manager, or his designee, shall approve all drug/alcohol testing. This testing will include possible urine, blood, or breathalyser exams as determined by the appropriate medical personnel. An employee who refuses to submit to drug/alcohol testing under the provisions herein shall immediately be charged with insubordination and will be suspended pending discharge. An employee who fails a drug or alcohol test for the second time during his/her employment with the City shall be discharged immediately by the City.
+An employee may be referred for such fitness for duty screening if at least one (1) supervisor has a reasonable suspicion that the employee is then under the influence of alcohol or a controlled chemical substance. The circumstances supporting an allegation warranting reasonable suspicion testing shall be reduced to writing, signed by the referring supervisor and copies provided to the employee and the Union prior to testing. The demand for a urine, blood or breath specimen shall be made based only upon specific/objective facts, and reasonable inferences drawn from those facts in light of experience, that the employee is then under the influence of drugs or alcohol. In addition, employees may be referred for mandatory urine, blood or breath, for drug and/or alcohol screening under the following circumstances:
+[a]	A disciplinary probation for employees who have violated the City's drug and alcohol rules, or
+[b]	For employees returning from leaves of absence if they have given management a reason to suspect possible illegal drug and/or alcohol abuse. Possible reasons to suspect substance abuse include, but are not limited to, a history of excessive absenteeism not related to a specific illness, documented evidence of deteriorating job performance or of aberrant behavior in the six (6) months immediately preceding the leave of absence or documented involvement with drugs off the job.
+An employee shall be entitled to have a Union representative present before testing is administered.
+As concerns urine samples for drug testing, employees to be tested will undergo an initial screening (EMIT) test. For any positive results, a confirmatory test employing the gas chromatography/mass spectrometry (GC/MS) test will be used. The City will insure that there
+88
+is a continuous chain of custody of any sample taken from an employee. Specimen collection '.will occur in a medical setting. The testing procedures should not demean, embarrass, or cause physical discomfort employees. Altering or switching a specimen sample for a drug/alcohol test, or otherwise refusing to follow the established testing procedure and/or guidelines, shall be grounds for immediate suspension pending discharge.
+The results of a drug or alcohol screening test will be kept strictly confidential. An employee who tests positive for drugs and/or alcohol will have the opportunity to review the test results and, if desired, a reasonable opportunity to rebut the results. Copies of test results shall be given to the City and to the individual tested. Where urine or blood samples have been taken, two samples will be preserved for a reasonable period of time and tested employees will have the opportunity to take one these samples to a reputable physician, or laboratory of their choosing for a re-testing.
+Employees who may be drug or alcohol dependent are encouraged to voluntarily seek professional assistance through a reputable treatment program. The City's E.A.P. (Employee Assistance Program) can provide counseling and referral. All records of an employee seeking medical rehabilitation for a drug or alcohol problem, either through E.A.P. or otherwise, will be kept strictly confidential. Voluntary assistance should be sought before dependence affects job performance so as to endanger fellow employees, the public, or otherwise adversely impact on the employee's ability to perform his or her job duties.
+Participating in the E.A.P. program does not supplant the normal discipline and grievance procedure. An employee subjected to disciplinary charges which include substance abuse on the job will be given access to the drug or alcohol screening results, the ability to privately test the blood urine or other samples at an independent lab and the opportunity to rebut any allegation of chemical abuse. Any charging letter issued to an employee which includes allegations of substance abuse on the job shall list the basis upon which it was determined that there was reasonable cause to believe the employee was using drugs or was under the influence of drugs or alcohol.
+An employee shall be deemed to have positive screens for drugs or alcohol must be given medical clearance by a qualified physician acceptable to the City before returning to work.
+An employee shall be deemed to have failed an alcohol test if:
+[ 1 ] The person has a concentration of ten-hundredths (10/100) of one-percent (1%) or more by weight of alcohol in his blood;
+89
+[2]	The person has a concentration of ten-hundredths (10/100) of one (l)gram or more by weight of alcohol per two hundred ten (210) liters of his breath;
+[3]	The person has a concentration of fourteen-hundredths (14/100) of one (1) gram or more by weight of alcohol per one hundred (100) milliliters of his urine.
+The City is not responsible for any legal obligations and costs for claims based on the Union's duty of fair representation.
+The Union shall be indemnified and held harmless by the City for any violation of an employee's constitutional common law, or statutory rights.
+Safety Sensative Positions: Airport Safetyman
+PRIVATIZATION I SUBCONTRACTING / COMPETITIVE INITIATIVES
+The City shall have the right to institute competitive initiatives or subcontract services where the City's primary objective is to achieve financial economy, improved operating efficiency, and/or better quality of service. Forty-five (45) days prior to initiation of any bid procedure, the City shall conduct labor-management committee (LMC) meetings on a weekly basis to determine if there are methods of improving operating efficiency and reducing the cost of providing City services. Prior to the LMC meeting, the City shall provide the Union with information sufficient to allow LMC meetings to proceed in a productive fashion, including the cost of the work being performed and the problems with efficiency or productivity which the City would like to address.
+At the conclusion of the LMC Meetings, the City shall calculate the cost and evaluate the methods of providing services. Upon review by the City, if the alternative yields significant financial savings and improved operating efficiency, the City shall accept the Union's alternative instead of utilizing an outside bidder/vendor, although, to insure meaningful substantive evaluation, the City will be permitted to prepare bid documents during the initial forty-five (45) day LMC meeting period set forth above and to utilize the bid procedure immediately upon completing the forty-five (45) day LMC meeting period.
+If the City informs the Union that the alternative does not sufficiently meet the City's objective as stated in Paragraph One (1) above, then the City and the LMC will continue to work cooperatively for not less than twenty (20) days after the conclusion of the bidding process (which ends the day the City shares the lowest bid for and initiative with the LMC and affected union(s) after which the City may exercise its contractual rights to implement the proposed
+90
+initiative.
+Should the City decide to implement a competitive initiative, the City will make a good faith effort to assign displaced employees to vacant positions for which they are qualified or can be trained to become qualified within a reasonable period of time.
+The City and the Union agree that if there is a disagreement regarding the above, including over the true value of the Union's competitive alternative (financial savings, improved efficiency, quality of service - including the payment of a living wage), the Union will have the right to submit the issue of whether or not the Union's alternative "genuinely" meets or exceeds the City's objective to final and binding arbitration before the City implements its competitive initiative.
+CAREER LADDERS
+The City and the Union recognize the need for development and training of qualified employees to fulfill the City's work force requirements. The City agrees to the principles of career ladders and promotion from within its own organization. In keeping with such principles, the City and the Union shall continue to discuss a Career Development Program.
+LABOR MANAGEMENT COMMITTEE
+Representative of the City and Union shall meet at least quarterly to review grievances pending arbitration for the purpose of exploring settlement. The quarterly meetings shall be held between representatives from the City’s Department of Personnel and Department of Law, and a staff representative and the local union president. At least five (5) working days prior to the meeting the parties shall agree upon an agenda of grievances, not to exceed twenty (20), to be discussed during the meeting.
+The Union may request a Labor Management Committee meeting to revise and update existing bargaining unit Civil Service job descriptions.
+WAGE AND SALARY SCHEDULE COMMITTEE
+A joint task force with four (4) representatives from the City and four (4) representatives from the Union be established to consider the establishment of a wage step schedule for all bargaining unit classifications. The committee shall meet quarterly, unless the committee agrees to meet more often, and shall make non-binding recommendations to the City.
+91
+CHILD CARE
+There shall be established a joint City/Union committee to develop recommendations for the establishment of day care facilities for the children of employees. Each bargaining unit shall be invited to appoint a representative to the committee, and the committee shall be comprised for those individuals appointed in response to the invitation. The committee shall meet as often as necessary to carry out its mission. The recommendations of the committee shall be presented to the City, together with a timetable for implementation, at a time deemed appropriate by the committee. The City shall take the committee's recommendations under advisement and offer a comprehensive response within three (3) months from the date of the committee's recommendations. The committee shall continue to work until such time as its recommendations are fully adopted or dissolution of the committee is deemed appropriate by its members.
+TRAINING - RADIO TECHNICIANS
+TheCity shall provide training for all employees of Public Safety Administration in the job classification of Police Radio Technician and all employees of the Division of Water in the job classification of Radio Technician to install and/or repair new radio equipment.
+92
+IN WITNESS WHEREOF, the parties have set their hands this 83 th day of March; 1999.
+On behalf of Ohio Council 8, AFSCME, AFL-CIO
+John J/Filak, Staff Representative	Angela M. Caldwell, Staff Representative
+On behalf of Cleveland, Ohio City Employees, Local 100, AFSCME, AFL-CIO
+On behalf of the^City of Cleveland
+Michael R. White, Mayor I City of Cleveland
+Department of Personnel and Human Resources
+Trudy Hutchinson, Labor Relations Manager City of Cleveland
+93

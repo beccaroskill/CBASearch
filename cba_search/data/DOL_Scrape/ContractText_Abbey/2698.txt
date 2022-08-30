@@ -1,0 +1,1454 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edu/blscontracts/2/)
+Title: Irvine Unified School District and Irvine Teachers Association (2004)
+K#: 800261
+Location: CA Irvine
+Employer Name: Irvine Unified School District
+Union: Irvine Teachers Association
+Local:
+SIC: 8211
+NAICS: 611110
+Sector: L
+Number of Workers: 1000
+Effective Date: 07/01/04
+Expiration Date: 06/30/07
+Number of Pages: 91
+Other Years Available: N
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+AGREEMENT
+between IRVINE UNIFIED SCHOOL DISTRICT and IRVINE TEACHERS ASSOCIATION
+Effective July 1, 2004 to June 30, 2007
+TABLE OF CONTENTS
+Article 1	Agreement ..................................................................1
+Article 2	Recognition ................................................................1
+Article 3	Definition .................................................................2
+Article 4	Negotiation Procedures......................................................5
+Article 5	Management Rights and District Powers.......................................5
+Article 6	Association Rights..........................................................7
+Article?	Organizational Security....................................................9
+Article 8	Transfer 12...................................................................
+Article 9	Reassignment ..............................................................16
+Article 10	Working Conditions.........................................................18
+Article 11	Individual Constitutional Rights...........................................23
+Article 12	Evaluation Procedures......................................................24
+Article 13	Intern Teachers............................................................30
+Article 14	Independent Study Program Teachers.........................................31
+Article 15	Peer Assistance and Review (PAR)...........................................32
+Article 16	Personnel Files............................................................34
+Article 17	Compensation and Related Benefits..........................................35
+Article 18	Certificated Employee Benefits Mgt. Board (CEMMB)..........................41
+Article 19	Absences and Leaves........................................................45
+Article 20	Shared Contracts...........................................................52
+Article 21	Grievance Procedure........................................................53
+Article 22	Parent/Guardian Complaints.................................................56
+Article 23	Disciplinary Action......................................................57
+Article 24	Layoff for Lack of Funds.................................................59
+Article 25	Reduction to Part- Time Employment.......................................60
+Article 26	Dismissal of Probationary Employee.......................................61
+Article 27	Early Retirement.........................................................62
+Article 28	Retirement ..............................................................64
+Article 29	Concerted Activities.....................................................64
+Article 30	Support of Agreement.....................................................64
+Article 31	Sole and Entire Agreement................................................65
+Article 32	Savings..................................................................65
+Addendum.................................................................66
+Appendix A:	Salary Schedules...........................................68
+Appendix B:	Incentive Pay Formula......................................70
+Appendix C:	Examples of Duties Outside Instructional Time..............74
+Appendix D:	Teacher Transfer Rating Sheet..............................75
+Appendix E:	Advisement Workload........................................77
+Appendix F:	Certificated Leaves of Absence..............................79
+Appendix G:	Surplus Situation (7-12)..................................80
+Appendix H:	Benefits Management Board Guidelines.......................81
+Appendix I:	Memorandums of Understanding 2004-05........................83
+2005-06, 2006-07
+ARTICLE 1	- AGREEMENT
+1.1	The articles and provisions contained herein constitute a bilateral and binding agreement ("Agreement") by and between the Governing Board of the Irvine Unified School District ("District") and the Irvine Teachers Association ("Association"), a unit member organization.
+1.2	This Agreement is entered into pursuant to Chapter 10.7, Sections 3540-3549 of the Government code ("Act").
+1.3	The Association agrees to furnish information required by the District to fulfill the provisions of this
+Agreement.
+1.4	This Agreement shall remain in full force and effect from July 1, 2004, through June 30, 2007.
+1.5	Re-openers in 2006-07 shall be Salary and Health Benefits and up to three (3) articles per party.
+1.6	Unless the parties agree otherwise, the concept of the Living Contract shall be reinstituted for the 2007-08 school year.
+ARTICLE 2	- RECOGNITION
+2.1	For the purpose of meeting and negotiating, the District recognizes the Association as an exclusive
+representative for certificated employees excluding management (full or part time), Adult Education teachers, supervisory, confidential, substitutes (long and short term), classified, and other non-classified/non-certificated employees, noon supervisors, consultants, outside contract service personnel, and any other for which a certificate is not required in their position. The District will maintain a posture of neutrality toward employees joining or not joining the Association.
+ARTICLE 3	- DEFINITIONS
+Adjunct Duties	Activities related to the curricular or extracurricular program at a given site, or in a district-based program, but not predicated on the particular knowledge of any particular student.
+Assignment	The assigned teaching position or responsibilities.
+Conferee	A fellow unit member, supervisor, administrator, professional organization representative, or attorney.
+Consecutive Years	Years of employment within the District, whether in active service or on Board-approved leave. Board-approved leaves will not constitute a break in service nor will they count as salary credit except as noted in sabbatical leave.
+Day	Unless otherwise specified, it shall be a day when unit members are required to be present.
+District-Based Program	Services for students directed and coordinated at the District level; not a site-specific program.
+Domestic Partner	A domestic partner as legally registered with the California Secretary of State.
+Grievance	An allegation by one or more unit members that there has been an adverse effect by a violation or misapplication of the specific provision of this Agreement. (Other matters for which a specific method of review is provided by law, the rules and regulations of the District, administrative regulations and procedures and/or District policy of the District are not within the scope of this procedure.)
+Grievant	A certificated non-management and/or non-supervisory person or persons making the allegation.
+Immediate Supervisor	The individual having direct responsibility for the supervision and evaluation of the unit member.
+Incentive Pay Committee	A committee which consists of three principals or designees and three unit members from the various school levels mutually agreed to by the
+IT A Agreement July 1, 2004 - June 30, 2007	2
+	Association and the District whose task shall be to resolve discrepancies in application of the Incentive Pay formulas.
+Instructional Day	Instructional Day shall be comprised of the assigned time shared between a certificated person and a student or students for the purposes of instructing, tutoring, advising, counseling, diagnosing, and prescribing. The instructional day for support persons who serve as a resource to staff and who have program responsibilities which provide direct services to students may include direct contact with parents and unit members
+Intern	A graduate student who has met all course and field work requirements outlined by the teacher preparation program at a university. The intern is employed by the District and must hold a valid intern teaching credential.
+Member of the Immediate Family	The following relatives of the unit member, the unit member's spouse, former spouse, domestic partner, or anyone living in the household of the unit member: parent, sister, brother, child, daughterin-law, son-in-law, grandparent, grandchild, or former guardian; also, the unit member's spouse, domestic partner, and a person standing in loco parentis.
+Minimum Day	The minimum amount of time required by the state of California for attendance to count towards a complete day of schooling. The Education Code provides the following minimum days. K	180 minutes 1-3	230 minutes 4-12	240 minutes
+Modified Day	One on which the instructional day is less than the average unit member instructional day by grade level; the deficit time made up on other days.
+Negotiate in Good Faith A serious and honest effort on the part of each party to reach agreement.
+Partial Contract	A teaching contract of less than 100% in any one school year.
+Professional Growth Committee	A committee which consists of one district administrator, one elementary principal and one secondary principal appointed by his/her designee, one teacher from each level (elementary, middle, and high school), and one unit member at large. The teacher representatives shall be appointed by the president of the Association. IT A Agreement July 1, 2004 — June 30, 2007 3
+Reassignment	A change of teaching position, such as a grade level discipline (e.g. English to mathematics), or change from a specialized assignment (e.g. from a media specialist to a regular classroom teacher) at the same work site.
+Seniority	Seniority is defined based on the California Education Code 44845, i.e. the first day of paid service in probationary status.
+Shared Contract	One teaching position shared voluntarily by two unit members.
+Site	A school or a duty station where a unit member is assigned to perform job responsibility.
+Staff Meetings	Meetings called by the site administrator which occur within the unit member's work week and which deal with items related to unit members' instructional or adjunct responsibilities, or to the safe, sound, and efficient operation of the school. Staff meetings may include any generalized discussion or purpose for which committees are assigned.
+Student Day	The period of time from the start of the student instructional time to the end of the student instructional time. The student day may differ by grade level taught.
+Supervision	General supervision activities of more students than a teacher's immediate class, but within the school day, such as yard duty or bus duty.
+Transfer	A change in District worksite, for unit members of District-based programs not assigned full time to one (1) worksite, transfer shall be the same as reassignment.
+Unless otherwise defined all word(s) in this agreement shall have meaning as defined in any standard dictionary of general usage.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+4
+ARTICLE 4	- NEGOTIATION PROCEDURES
+4.1	Not later than June 1, or a mutually agreed to date of the calendar year in which this Agreement expires, the District and the Association shall meet and negotiate in good faith on negotiable items.
+4.1.1	Prior to the initial meeting, the District and the Association shall simultaneously present their proposals.
+4.1.2	Any subsequent agreement reached between the parties shall be reduced to writing
+and signed by them.
+4.1.3	ITA and the District shall meet in October to establish the collective bargaining calendar for the year.
+4.2	Either party may utilize the services of outside consultants to assist in the negotiations.
+4.3	The District and the Association may discharge their respective duties by means of authorized
+officers, individual representatives or committees.
+4.4	Negotiations shall take place at mutually agreeable times and places outside of the regular school day except as otherwise mutually agreed, provided that meetings shall be held within five days or a mutually agreed to time period from receipt of a written request by either party.
+ARTICLE 5	- MANAGEMENT RIGHTS AND DISTRICT POWERS
+5.1	It is understood and agreed that the District retains all powers and authority to direct and control District operations to the full extent of the law. Included, but not limited to those duties and powers, are the rights in accordance with the applicable laws and District regulations to direct the work of unit members, to determine the means and services to be provided, establish the educational philosophy and the goals and objectives of the District, school and/or other activity, to insure the rights of students, unit members, managers and Board of Education members; to determine the number and kinds of personnel required; to determine the job descriptions, to maintain the efficiency of the School District operation, to determine the curriculum with unit member consultation, to build, move or modify the facilities, to develop a budget; to develop and implement budget procedures with staff input, to determine the methods of raising revenue. In addition, the District retains the right to hire, assign, evaluate, terminate, and discipline unit members. Further, the District reserves the right to do all that is necessary to exercise the foregoing power, rights, authority, duties, and responsibilities, including but not limited to, the adoption of ITA Agreement July 1, 2004 — June 30, 2007
+5
+policies, rules, regulations, and practices in furtherance thereof, and the use of judgment and discretion in connection therewith, and shall be limited only by the specific and express terms of this Agreement, in conformance with the laws of the State of California.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+6
+ARTICLE 6	- ASSOCIATION RIGHTS
+6.1	The District agrees that employees in the represented unit shall have the right to freely organize, j oin,
+and support the Association for the purpose of representation in the meeting and negotiating process.
+6.2	The Association and its representatives may use school facilities at reasonable hours outside of instructional time in accordance with the District's use of facilities policy.
+6.3	Duly authorized representatives of the Association shall be permitted to transact official Association
+business on school property provided that this shall not interfere with the unit members' work schedule or interrupt normal school facility use.
+6.4	The Association shall have the right to post notices of activities and matters of Association concern
+on unit member bulletin boards. At least a portion of one bulletin board shall be provided in each school building for that purpose. All Association communications shall have proper identification of the Association. Except for the Association elections, political campaign literature shall not be posted on school bulletin boards or distributed through school mail by the Association or any of its unit members, nor shall school facilities or equipment be used in any manner for political purposes by the Association. This provision shall apply to both school buildings and the central offices and to persons working where regular mail boxes do not exist.
+6.5	The Association shall appoint all unit member representation on committees established for hiring management personnel when deemed necessary by management.
+6.6	The District agrees to furnish the Association, on request, information concerning the financial condition of the District, including annual financial reports and audits, register of certificated personnel, preliminary budget requirements and allocations, agenda and minutes of Board of Education meetings, census and attendance data, names and addresses of unit members, and such other information as will assist the Association in developing intelligent, accurate, informed and constructive programs on behalf of unit members. Nothing contained in the above shall be construed to require that the District provide such information in any form other than it would normally be provided by the District.
+6.7	The District will notify the Association of the following changes of status for bargaining unit members at least monthly: name, address, telephone, position, location, change in contract percent or status. Such notification will be sent directly to the Association office.
+6.8	The District shall maintain a current seniority list and a copy thereof shall be sent to the Association listing the first day each unit member rendered paid service to the District.
+IT A Agreement
+July 1, 2004 — June 30, 2007
+7
+6.9	All vendors seeking to do personal business with unit members shall be referred to the Association. Materials left at the District office and/or school sites by vendors for distribution to unit members shall be referred to the Association representative for review and/or distribution approval.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+8
+ARTICLE 7	- ORGANIZATIONAL SECURITY
+7.1	Any unit member who is a member of the Association at the effective date of this Article shall remain a member for the duration of this agreement. Any unit member who applies for membership shall sign and deliver to the District an assignment authorizing deduction of unified membership dues to the Association. Pursuant to such authorization, the District shall deduct appropriately prorated deductions from the regular salary checks of the unit member. Deductions for unit members who signed such authorizations after the commencement of the school year shall be appropriately prorated to complete payment by the end of the school year.
+7.2	Any unit member who is not a member of the Association, or who does not make application for membership within thirty (30) days of the effective date of this Agreement, or within thirty (30) days from the commencement of assigned duties, shall automatically become a fee payer of the Association and pay to the Association a fee in an amount equal to one hundred percent (100%) of the unified membership dues, prorated in cases of part-time employment in one lump-sum cash payment, or elect an exemption according to 7.4 below. In the event that a unit member shall not pay such fee directly to the Association, the District shall immediately begin automatic payroll deduction as provided in Education Code 45061.
+7.2.1	The Association shall indemnify and hold the District and its employees or agents harmless from any and all claims, demands, or suits or any action arising from the organizational security provision contained herein.
+7.2.2	ITA agrees to abide by the PERB adopted procedures in implementing Hudson.
+7.3	Any unit member employed by the District but not a member of the Association as of April 1, 1985, who objects to joining or financially supporting employee organizations shall not be required to join or financially support the Association, except that such unit member shall pay, in lieu of a service fee, sums equal to the total of unified membership dues to one of the following non-religious, non-labor organizations, charitable funds exempt from taxation under 501(c)(3) of Title 26 of the Internal Revenue Code.
+7.3.1	Irvine Public School Foundation (IPSF) unit member grants
+7.3.2	Foundation to Assist California Teachers (FACT)
+For purposes of Section 7.3, a unit member must use the deduction procedures outlined in Section 7.1 above. A written statement of objection to joining or financially supporting unit member organizations, pursuant to this section, shall be made to the District designating which charity is to receive the contribution as a condition of continued exemption from the provisions of Sections 7.1
+ITA Agreement
+July 1, 2004 — June 30, 2007
+9
+and 7.2. This provision shall not apply to an individual unit member who elects to join the Association by waiving this clause.
+7.4	Religious Exemption
+7.4.1	Any unit member not eligible for the exemption in Section 7.3 who is a member of a religious body whose traditional tenets or teachings include objections to joining or financially supporting employee organizations shall not be required to join or financially support the Association, but the unit member shall pay, in lieu of a service fee, sums equal to the unified dues to one of those charities listed in Sections 7.3.1 and 7.3.2. For the purpose of this section, a unit member must use the deduction procedures outlined in Section 7.1 above. The selection of one of the charitable funds listed in Section 7.3 may be changed only once per year.
+7.4.2	A written statement of objection along with verifiable evidence of the religious body whose traditional tenets or teachings object to joining or financially supporting employee organizations shall be submitted on an annual basis to the Association and the District as a condition of continued exemption from the provisions of Sections 7.1 and 7.2 above.
+7.5	With respect to all sums deducted by the District, pursuant to Sections 1 and 2 above, whether for membership dues or agency fee, the District agrees promptly to remit such monies to the Association, accompanied by an alphabetical list of unit members for whom such deductions have been made, categorizing them as to membership or non-membership in the Association, percentage of employment of less than full time, and shall indicate any changes in personnel from the list previously furnished.
+7.6	Any unit member making payments as set forth in Sections 7.3 and 7.4, and who requests that the grievance or arbitration provisions of this Agreement be used in his or her behalf, shall be responsible for paying the reasonable cost of using said grievance or arbitration procedures.
+7.7	The Association agrees to furnish any information needed by the District to fulfill the provisions of this Article. Changes in the amount of dues to be deducted shall be certified by the Association twenty (20) days before the effective date of change.
+7.8	In no instance will any unit member be dismissed because of failure to pay the dues or remain in good standing with the Association. However, current unit members must maintain their membership for the duration of the Agreement.
+7.9	In any instance in which the provisions of this Article are contested, the Association agrees to pay to the District all reasonable legal fees and costs incurred in defending against the court or administrative action.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+10
+7.9.1	It is understood that the expenses referred to above will not include District staff time normally expended.
+7.9.2	As long as the Association is not in default of its obligations to pay legal fees and costs, the Association will have the exclusive right to decide and determine whether any such actions or proceedings referred to in Section 7.9 shall or shall not be compromised, resisted, defended, tried or appealed.
+7.10	Upon appropriate written authorization from the unit member, the District shall deduct from the salary of any unit member and make appropriate remittance for annuities, credit union savings bonds, charitable donations, or any other plans or programs to a reasonable maximum approved by the District.
+7.11	The District shall not make service fee deductions from unit members who are in unpaid status but shall deduct a pro-rata share of the service fee for part-time unit members who have not become members of the Association.
+IT A Agreement
+July 1, 2004 — June 30, 2007
+11
+ARTICLE 8	- TRANSFER
+8.1	Transfer is a change in District worksite. For unit members of District-based programs not assigned full time to one (1) worksite, transfer shall be the same as reassignment.
+8.1.1	Types of Transfer
+8.1.1.1	Unit member Initiated - - The unit member requests transfer.
+8.1.1.2	District Initiated — Transfer necessitated because of a credentials issue, a return from leave, a vacancy, or an emergency and/or unresolvable issue.
+8.1.2	Transfer Criteria
+Seniority
+Prepared on/training
+Recommendations/evaluations
+Professionalism (as defined by criteria 6 of the California Standards for the
+Teaching Profession)
+Recent assignment/experience
+Instructional expertise
+Ability to contribute to the total school program/perform adjunct duties Observation
+Personal interview
+Other needs unique to the site or program
+8.2	A unit member" s activity in the Association shall not be a factor in the consideration of a transfer.
+8.3	Posting of Vacancies
+8.3.1	A list of all vacancies within the District shall be available at the District Office, shall be posted on the IUSD website, and notice shall be sent to the Association and the Association" s site representatives.
+8.3.2	Vacancies shall remain posted until their close date.
+8.4	Unit member Initiated Transfer
+8.4.1	Unit members shall request a voluntary transfer to a specific posted vacancy within the posted time limit (" close date") for the position.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+12
+8.4.2	Unit members applying for transfer shall be given first consideration. Such consideration
+shall include paper screening for appropriate credentials.
+8.4.2.1	It shall be the responsibility of the unit member to have current information regarding credentials and authorizations on file with the Human Resources office.
+8.4.3	Unit members shall be provided an interview. Should the number of requests for transfer
+be unmanageable for the timeline, unit members shall be selected for interview after the application of the transfer criteria in 8.1.2.
+8.4.4	The interview process shall be based on a weighted checklist of the criteria listed in 8.1.2, with the points assigned to Seniority at least equal to the other criteria with the highest point value.
+8.4.4.1	The results shall be recorded on the District Teacher Transfer Rating Sheet.
+8.4.4.2	The Association may review the weights placed on each criterion.
+8.4.5	Unit members considered for transfer may be observed by the principal or designated staff from the worksite where the vacancy exists.
+8.4.5.1	If an observation is to be conducted, the unit member shall be notified prior to
+the day of the observation.
+8.4.6	Unit members who are not selected for the vacancy shall be notified by phone or in writing within one working day after the vacancy is filled.
+8.4.7	In the event a transfer is denied, upon request by the unit member, the administrator shall
+provide specific reason(s) for the denial in writing.
+8.5	District Initiated Transfers
+8.5.1	Unit members shall not be transferred arbitrarily, capriciously, or without a rational basis
+in fact.
+8.5.2	Unit members shall be transferred only after a meeting or telephone conversation with the
+responsible administrator to communicate to the unit member the need for the transfer.
+8.5.3	Transfer policy shall not be used as a disciplinary measure.
+IT A Agreement
+July 1, 2004 — June 30, 2007
+13
+8.6	Surplus
+8.6.1	A surplus situation exists when the number of unit members at a particular work site or in
+a district-based program exceeds the district- and/or department-determined unit allocation.
+8.6.2	Surplus Situation
+8.6.2.1	Volunteers for transfer will be considered first for resolution of the surplus if they contribute to the resolution of the surplus issue as determined by the administration.
+8.6.2.2	The following point system shall be applied to each unit member in the declared surplus:
+1	. Seniority in the District
+One point granted to each unit member in the department with a surplus situation except for the number of uiit members corresponding to the number of surplus unit members who have the least district seniority as determined by the District seniority list.
+2	. Credential
+One point for proper credential authorization to teach the subject.
+3	. Extra Service and Share Assignments
+One point for each extra service and share assignment posted on the school/department list of recognized responsibility.
+8	.6.2.2.1 By the first day of each school year, each site administrator shall make available for review and posting, an rpdated list of all extra service and share assignments to be recognized by the site/program for the purpose of assigning points should there be a surplus situation.
+8	.6.2.2.2 Any extra service or share assignments new to the site/program and which carry a point for purposes of surplus, shall be identified at the time of posting.
+8	.6.2.2.3 Once an extra service or share assignment is identified as carrying a point, such identification shall last for the duration of the school year.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+14
+8.6.2.3	In the event application of above factors does not yield a resolution, seniority
+within the District shall be the first determining factor.
+8.6.2.3.1	If district seniority yields no resolution, then length of service at the site/program shall be the determining factor.
+8.6.2.4	The site administrator may exempt key unit members from District initiated transfer. To apply an exemption:
+8.6.2.4.1	The site administrator shall provide a written explanation posted at the site, and provided to the Association president that such exempted unit member(s) hold key curricular or extra-curricular assignments) within the school/department.
+8.6.2.4.2	The maximum number of unit members who may be exempted shall be three (3) in each comprehensive high school, two (2) in each middle school, and one (1) in each elementary school.
+8.6.3	The site administrator shall conduct a conference with each unit member being transferred.
+IT A Agreement
+July 1, 2004 — June 30, 2007
+15
+ARTICLE 9	- REASSIGNMENT
+9.1	Reassignment of Unit Members
+Reassignment is a change of teaching assignment, such as grade level, discipline (e.g. English to mathematics), or change from a specialized assignment (e.g. media specialist to classroom teacher) at the same worksite.
+For District-based programs, reassignment is a change of assignment within the total district-based program.
+Unit members of district based programs (e.g. special education, elementary science, and elementary fine arts) assigned full-time to a specific school site shall be considered site staff for the purposes of reassignment to a vacancy occurring at that site.
+9.1.1	Types of reassignment
+9.1.1.1	Unit Member Initiated - - The unit member requests reassignment.
+9.1.1.2	District Initiated — Reassignment is necessitated because of a credentialing problem, return from have, filling existing vacancies, a surplus situation, an emergency condition, or for the benefit of die school instructional program.
+The site administrator may assign unit Members according to these provisions in spite of written requests for reassignment consideration on file. The site administrator shall justify such action in writing if requested.
+In the event that the site administrator has not received any written requests for reassignment consideration, reassignments shall be considered district initiated.
+9.2	Posting of Positions New to a Site
+9.2.1	Positions new to a site (a duty not performed at the school in the prior year) shall include a brief description of the assignment, timeline for expression of interest, any special qualifications, and compensation (salary, release time, stipend and surplus point).
+9.2.2	Positions new to the school site and identified during the summer recess will be filled in the fill unless unit members are notified by mail of the position(s).
+9.2.3	Positions new to a site unfilled by a worksite reassignment shall be posted as a District vacancy.
+9.3	Unit Member Initiated Reassignment
+9.3.1	Vacancies (existing unfilled positions) and new positions at a site shall be made known to the site unit members who have submitted a written request for reassignment prior to any commitment to the position. Requests for reassignment made during the spring shall remain valid through the close of the following school year. During non-school months, the site administrator shall make a reasonable attempt to contact those individuals who have
+IT A Agreement
+July 1, 2004 - June 30, 2007
+16
+submitted a written request for reassignment. If the administrator is unable to contact the unit member(s) then the administrator may proceed with the reassignment process.
+9.3.1.1	It shall be the responsibility of the unit member to make available to the administrator a method of communication with the unit member, should the unit member be away from home.
+9.3.2	Requests for reassignment shall be submitted in writing to the building administrator within the time limit prescribed in order to be considered.
+9.3.3	In the event of a vacancy, unit members applying for reassignment shall be given first consideration. Unit member(s) not selected for the opening shall be notified prior to any announcement that the vacancy is filled or that the vacancy is being opened to other individuals.
+9.3.4	In the event a reassignment is denied, upon request by the unit member, the administrator shall provide in writing the specific reason(s) for the denial.
+9.4	District Initiated Reassignment
+9.4.1	Unit members shall not be reassigned arbitrarily, capriciously, or without a rational basis in fact.
+9.4.2	Unit members shall be reassigned only after a meeting with the responsible administrator to communicate to the unit member the need for the reassignment.
+9.4.3	Reassignment policy shall not be used as a disciplinary measure.
+9.5	Surplus Situation Reassignment
+Surplus language in Article 8, Subsection 8.6, applies to reassignment as well as to transfer. All references to transfer may be read for the purpose of this article as reassignment.
+9.6	A unit member’s activity in the Association shall not be a factor in the consideration of a reassignment
+at a site.
+IT A Agreement
+July 1, 2004 — June 30, 2007
+17
+ARTICLE 10	- WORKING CONDITIONS
+The District recognizes the importance of unit member input. In order to facilitate unit member input, the District uses a participatory management system that values unit member participation in decisions. Special importance is placed on receiving unit member feedback on professional issues and professional responsibilities.
+The Association shall have one seat on each Board-created advisory committee and shall select its committee member.
+10.1	The District agrees to provide facilities, equipment, and a wholesome and functional environment for
+unit members and students.
+10.1.1	Each unit member shall be provided upon request a filing cabinet, desk, or appropriate storage space, which will be lockable.
+10.1.2	The District shall provide designated on-campus parking for bargaining unit members assigned to a high school site.
+10.2	The individual unit member instructional day will be differentiated by grade level. Unit members recognize their responsibility to their profession and will perform other duties outside the instructional day necessary to fulfill their obligations to the educational process. Such other duties are delineated within: 10.2.1, 10.2.2, and 10.2.3.
+Kindergarten 300
+Grades 1-3	285
+Grades 4-6	308
+Grades 7-8	280
+Grades 9-12	280
+Worksites may deviate from these averages to allow the district to participate fully in the state funded staff development program and/or accommodate site decisions for minimum days.
+10.2.1	Category 1: Instructionally Related Duties
+Activities which are integrally connected by function or law to a unit member's instructional responsibility; by performing these duties the unit member facilitates, supports, or complements his/her instructional role. These activities are either 1) associated with a particular unit member by virtue of the unit member’s instructional relationship with individual students; i.e. no other unit member could perform these functions because they are predicated on the individual unit member/student relationship;
+IT A Agreement
+July 1, 2004 - June 30, 2007
+18
+or 2) mandated by law; i.e. responsibilities enumerated or inferred in existing legal statutes or within this Agreement.
+Instructionally related duties are implicitly assigned by the District through the vehicle of the unit member's employment.
+A non-exhaustive list of examples of instructionally- related duties is included in Appendix C of this Agreement.
+10.2.2	Category 2: K-8 Supervision Duties
+General supervision activities of more than a unit member's immediate class outside the instructional day, but within the school day, such as yard duty or bus duty.
+10.2.2.1	Each K-8 unit member shall perform supervision duties during the year as assigned by the site manager. Up to twenty hours of such duty may be assigned as needed.
+10.2.2.2	During-the-day supervision responsibilities of the certificated staff shall be a site-based decision.
+10.2.2.3	In the event that the site manager determines that a temporary need exists for supervision duty during the duty-free lunch period, the site manager shall first request volunteers to perform such duties. If there are not a sufficient number of volunteers, the site manager shall assign and allocate such duties on an equitable basis. Unit members will be paid the certificated hourly rate to perform such supervision duties.
+A non-exhaustive list of examples of supervision duties is included in Appendix C of this Agreement.
+10.2.3	Adjunct duties are activities related to the curricular or extracurricular program, but not predicated on the particular knowledge of any particular student. These duties are a shared responsibility of all unit members at a site or in a District-based program and generally occur outside the school day.
+Adjunct duties are a required part of the professional responsibilities of the teaching staff of the District. These duties shall be equitably assigned, based when possible on unit member preference, and will fall into the categories outlined in Appendix C.
+Fulfilling one's adjunct duty requirement is typified by a District curriculum committee member who spends 6-8 hours in committee meetings and interacts with colleagues at the site regarding the work of the committee. This particular adjunct duty is the basis for defining an Adjunct Duty Equivalency (ADE). To assure equity, each unit member is ITA Agreement July 1, 2004 — June 30, 2007
+19
+10.3
+10.4
+responsible for an ADE that matches their full-time employment equivalency (FIE) at the school.
+The site or program administrator, with opportunity for staff input, shall develop annually the site list of adjunct duties from which ADE's can be built. Each of these duties shall be weighted as to its ADE, e.g., the key leader in a non-review year might be weighted as one-half ADE. The site list of duties and their weights shall be posted by the site or program administrator not later than the second week of each school year. Subsequent to assignment, and by the end of the first month of school, the site or program administrator shall post the master list with the assignments designated.
+The total number of adjunct duty equivalencies at a site shall not exceed the number of FTE's at that site.
+10.2.4	It is recognized that unit members and support personnel normally work more than forty
+(40)	hours per week. However, the work week for support personnel and classroom unit members shall be forty (40) hours, no less than thirty-five (35) of which shall be on site.
+10.2.5	At the request of the teaching staff minimum days shall be scheduled at each site on the days of Back-to-School and Open House nights.
+10.2.6	A unit member shall be on site a minimum of thirty (30) minutes before the school instructional day begins.
+10.2.7	Unit members shall be entitled to one duty- free uninterrupted lunch period each day. The lunch period shall be at least thirty (30) consecutive minutes, exclusive of passing periods.
+Unit members who are required to travel between schools shall not be required to attend duplicate functions (except in an emergency).
+Class Size Enrollment
+10.4.	1 Grade level limits/averages shall conform to all the state requirements:
+Elementary:	K:	33
+	1-2:	22
+	3:	32
+	4-6:	35
+Secondary:	Limit:	187
+IT A Agreement
+July 1, 2004 - June 30, 2007
+20
+10.4.	2 In the event enrollments occur which exceed the indicated limits, the site manager shall immediately proceed with the development of a plan to redistribute pupils or provide support services and/or materials. Such plan is to be jointly developed within seven (7) days and implemented within thirty-five (35) days following the first day of overenrollment.
+10.4.	3 Class size average shall be defined as the total aggregate enrollment divided by the total number of class sections at a site excluding categorically funded classes.
+10.4.	4 Class size limitation at K-6 shall be defined as the number of students enrolled in a unit member" s class.
+10.4.	5 Class size limitation at 7 -12 shall be defined as the summation of all the students enrolled in the aggregate of classes taught by an individual unit member.
+10.4.	6	K-6 limitations shall not include classes in art, instrumental and vocal music, and physical
+education.
+10.4.	7	7-12 limitations shall not include classes in instrumental and vocal music, drama
+production, vocational arts, physical education, and joint lectures or demonstrations.
+10.4.	8 Counselors for secondary (7-12) sites shall be allocated at a minimum of
+0 - 750 students =1.0 counselor
+751 - 1125 students =1.5 counselors
+1126 - 1500 students = 2.0 counselors
+1501 - 1875 students = 2.5 counselors
+1876 - 2150 students = 3.0 counselors
+10.4.	9 There shall be a minimum of one media specialist for each 7-8 school and each comprehensive 9-12 school. The media specialist may be assigned to an alternate assignment for a portion of their contract.
+10.4.1	0 Teachers at 7-12 with contracts of 60% or greater shall be assigned the appropriate prorated portion of the student limit per instructional day.
+10.4.1	1 The secondary class load limit will not apply to sections within the class size reduction program, and will be prorated for the remaining sections.
+10.	5 Unit members shall not be required to work under unsafe conditions or to perform tasks which endanger their health, safety, or well-being.
+IT A Agreement July 1, 2004 — June 30, 2007 21
+10.	6 The District shall not predicate adverse actions upon a unit member's personal, political, or organizational activities unless they are interfering with classroom performance.
+10.	7 Calendar — A Calendar Committee, composed of two representatives appointed by the Association and two representatives appointed by the District, shall meet annually to provide a recommendation for the next two years' calendar. This must be presented to the negotiating teams prior to March 1 of the year in which the previous calendar recommendation has expired. It is the preference of the Calendar Committee to move Spring Recess to the second week of April in conjunction with the other school districts in Orange County.
+10.7.	1 The calendar shall include 184 working days (beginning July 1,1990) for unit members. There shall be 180 days of instruction. The 184-day calendar shall provide for participation in the state-funded staff development program. During the 1999-2000 school year there will be three (3) staff development days, two (2) foil days and one (1) day distributed as allowed by law. The structure of the distributed day will be decided cooperatively between site staff and administration. There shall be a minimum of one day for staff preparation and one day (decided cooperatively between staff and the site administrator) utilized for, but not limited to, parent-teacher conferences, staff development, orientation, student registration and/or visitation.
+10.	8 Unit members shall not be compelled to provide on-going medical treatment to students.
+10.	9	Teachers who are assigned to a combination class in the regular K - 6 program shall be released on
+site from classroom instruction three (3) days per year for purposes of planning and preparation.
+10.1	0 Part-time unit members shall participate proportionately in instructionally related and non-instructional obligations. Responsibilities will be commensurate with the proportion of theirteaching contract.
+10.1	1 Guidelines for Teacher Advisement Workload. See Appendix E.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+22
+ARTICLE 11	- INDIVIDUAL CONSTITUTIONAL RIGHTS
+11.1	Unit members shall be entitled to those citizenship rights incorporated into the constitutional law of the United States of America with its appropriate checks and balances on the rights of the institution and the rights of the individual. The private life of a unit member is not a matter for discipline except when it adversely affects work performance or violates existing statutes.
+11.2	A unit member shall have the freedom in classroom presentations and discussions to introduce political, religious, or otherwise controversial material provided that the presentation complies with all appropriate District policies and procedures on the balance of points of view and provided that the material is appropriate for the subj ect matter being taught, and provided that the lesson is in line with District-approved curricula.
+11.3	District Sexual Harassment and Non-Discriminationpolicies shall be posted at each school and at the District office.
+IT A Agreement
+July 1, 2004 — June 30, 2007
+23
+ARTICLE 12	- EVALUATION PROCEDURES
+12.1	Evaluation Process
+The overall purpose of evaluation is to improve instruction. Evaluation shall be a summative document of formal and informal observations and data about professional performance for the current school year. The unit member evaluation process shall be a comprehensive one based upon the California Standards for the Teaching Profession (CSTP’s), District Continuous Improvement Efforts as adopted by the Board of Education, school or program improvement “targets”, unit member annual goals and objectives, and performance of other duties normally required as an adjunct to the regular assignment.
+12.1.1	A written assessment of probationary and temporary unit members shall be completed at least once each school year.
+12.1.2	A written assessment of permanent unit members shall be completed at least once every
+other year, except as provided in Article 12.1.3.
+12.1.3	If a unit member with permanent status has been employed by the District for at least ten
+years, is “highly qualified” as defined by 20 U.S.C. section 7801 (NCLB), and has received a most-recent evaluation that meets or exceeds Evaluation Criteria as outlined in 12.2.1, the unit member and evaluator may agree to an evaluation at least once every five (5) years. In these circumstances, either the unit member or the evaluator may withdraw consent to this five-year evaluation cycle at any time.
+12.2	Evaluation Criteria
+12.2.1	Evaluation and assessment of unit members shall include, but not be limited to, consideration of
+•	California Standards for the Teaching Profession (CSTP’s)
+•	District Continuous Improvement Efforts
+•	School or program improvement “targets”
+•	Unit member annual goals and objectives
+•	Performance of other duties normally required as an adjunct to the regular assignment as prescribed in the Education Code
+12.3	Designation of Evaluator
+IT A Agreement
+July 1, 2004 - June 30, 2007
+24
+12.3.1	The principal or designee shall be responsible for the evaluation of all school-based employees.
+12.3.1.1	When the principal delegates that responsibility, the unit member shall be informed of his/her evaluator for the school year.
+12.3.1.2	A unit member may request of the principal that consideration be given to the assignment of a different evaluator.
+12.3.2	For those unit members assigned at a single site, but in a District-based program such as elementary music, art, science, APAAS, ELL, and Special Education (SDC, Speech, RSP, and Adaptive PE), the principal shall be the primary evaluator.
+12.3.2.1	The district program administrator shall provide input to the goal setting process as well as the final evaluation.
+12.3.3	When a District-based program unit member has responsibilities at two or more school/district sites, the District program administrator shall serve as primary evaluator.
+12.3.3.1	The principals of the sites to which the unit member is assigned shall provide input to the goal setting process as well as the final evaluation.
+12.3.4	When a unit member has a split assignment in the regular program, the principal of the site in which the unit member has the greater assignment shall be the primary evaluator.
+12.3.5	In the case of equal assignment at two sites, the two principals shall designate the unit member’s evaluator.
+12.3.6	All unit members shall be notified of their evaluation cycle status on an annual basis no later than the goal setting conference.
+12.4	Goal Setting
+Each unit member shall participate in an annual goal setting process to establish goals and obj ectives. The evaluator shall review the Evaluation Criteria in Article 12.2.1 with all unit members who are on the evaluation cycle.
+12.4.1	The goals and objectives shall be mutually agreed upon between evaluator and unit member.
+IT A Agreement July 1, 2004 — June 30, 2007 25
+12.4.1.1	In the event the evaluator and unit member cannot reach agreement on the goals and objectives, a panel, consisting of one member appointed by the District, one member appointed by the Association and one mutually agreed upon member to be appointed by the two appointees, shall finally resolve the goals and objectives.
+12.4.1.2	In the event that the unit member is on a formal plan for performance improvement, the goals and objectives shall be set by the evaluator.
+12.5	Evaluation Timelines
+12.5.1	Goal Setting Process
+12.5.1.1	No later than 20 workdays following the commencement of duties, the evaluator shall meet with unit members to outline:
+•	Goal setting component of the evaluation process
+•	CSTP’s
+•	District’s Continuous Improvement Efforts
+•	School or program improvement targets
+•	Observation and evaluation forms
+12.5.1.2	Unit members shall complete the goal setting process no later than six (6) weeks following the start of the school year.
+12.5.2	Formal Observation
+12.5.2.1	The purpose of formal observation is to commend outstanding accomplishment, identify deficiencies, and improve performance.
+12.5.2.2	The evaluator shall conduct a minimum of one (1) classroom/workplace formal ob servation during the school year for permanent unit members and a minimum of two (2) classroom/workplace formal observations for probationary and temporary unit members during the school year.
+12.5.2.2.1	At least one formal observation shall occur during the first semester, and each formal observation shall be sufficient in length to observe at least one lesson.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+26
+12.5.2.3	A conference shall be held within ten (10) working days following a formal observation.
+12.5.2.4	The formal observation notes shall be provided to the unit member.
+12.5.2.4	. IThe unit member may request an opportunity to review the formal observation notes prior to conferencing with the evaluator.
+12.5.2.5	The unit member may submit a written response to the formal ob servation.
+12.5.2.6	In the event that the evaluator identifies areas of Unsatisfactory Performance during a formal observation, the unit member shall receive:
+•	A written description of the areas of Unsatisfactory Performance, including recommendations to assist in those areas;
+•	Assistance in implementing such recommendations, including feedback;
+•	Release time, when appropriate, for the certificated unit member to visit and observe other similar classes; and
+•	A second formal observation no later than March 1, if areas of unsatisfactory performance are identified in the first semester formal observation.
+12.5.2.6.1	A conference shall be held within ten (10) working days following the second formal observation.
+12.5.2.6.2	The formal observation notes shall be provided to the unit member.
+12.5.2.6.3	The unit member may submit a written response to the formal observation.
+12.5.3	Final Evaluation
+12.5.3.1	A written evaluation shall be transmitted to the unit member on or before May 15 of the school year in which the evaluation takes place.
+12.5.3.2	The written evaluation shall be placed in the unit member’s personnel file.
+ITA Agreement
+July 1, 2004 — June 30, 2007 27
+12.5.3.3	The unit member may write a response to the evaluation and it shall be an attachment to the written evaluation. Such response shall be submitted within 30 days of receipt of the evaluation.
+12.5.3.4	No unit member shall be requested to backdate a written evaluation.
+12.5.4	No certificated unit member shall be held accountable for any aspect of the educational program over which he/she has no authority or ability to correct deficiencies.
+12.6 Final Evaluation Process
+12.6.1	A meeting shall be held with each unit member to discuss the Final Evaluation of the certificated unit member before the last scheduled school day and may include comments on:
+•	Evaluation Criteria (as defined in Article 12.2.1)
+•	Contributions to the total school program
+•	Areas of exceptional performance
+•	Areas for growth and improvement
+•	Areas of unsatisfactory performance
+•	Specific improvement plan suggestions, if appropriate
+12.6.1.	1 Unit members may request an opportunity to review the final evaluation form prior to meeting with the evaluator.
+12.6.1.	2 If areas of Unsatisfactory Performance are identified on the Final Evaluation, the unit member shall receive a copy of the Final Evaluation at least one (1) day prior to the conference.
+12.6.2	Unsatisfactory Final Evaluation
+12.6.2.1	The evaluator shall address any cited areas of Unsatisfactory Performance, including:
+•	Specific recommendations for improvement
+•	Assistance in implementing such recommendations, including feedback
+•	Release time, when appropriate, for the certificated unit member to visit and observe other similar classes
+IT A Agreement
+July 1, 2004 - June 30, 2007
+28
+12.6.2.2	Additional suggestions emerging from such a conference may be attached to the Final Evaluation as an Addendum.
+12.6.3	The evaluator shall base the Final Evaluation on information collected through valid data collection methods.
+12.7 On-going Assessment
+12.7.1	All certificated unit members are encouraged to engage in self-evaluation.
+12.7.1.1	Self-evaluation may be completed as a response or supplement to the administrative evaluation of the certificated unit members.
+12.7.2	Certificated unit members are encouraged to incorporate student assessments.
+12.7.2.1	The instrument shall be of the unit member’s choice and the frequency of evaluation is at the unit member’s discretion.
+12.7.3	Certificated unit members may provide a narrative summary of annual accomplishments, which may be included with the evaluator’s summary.
+IT A Agreement
+July 1, 2004 — June 30, 2007
+29
+ARTICLE 13	- INTERN TEACHERS
+13.1	It is recognized that the intern teacher program entered into by IUSD, the University of California Irvine (UCI), and the ITA is a cooperative program intended to promote and enhance the teaching profession. As such, intern teachers shall be employed by IUSD for the following reasons:
+13.1.1	Intern teachers shall be hired to facilitate the release of elementary science "release" teachers. Placement need not be at the school from which the science teacher is released. The number of intern teachers hired for this purpose shall not exceed the number of science teachers allocated.
+13.1.2	Intern teachers may be hired to release any teacher on sabbatical leave.
+13.1.3	An intern teacher may be hired to facilitate any type of "shared contract", thus permitting a currently contracted teacher to have a reduced contract.
+13.1.4	An intern teacher may be hired to release the President of the Association.
+13.1.5	Intern teachers will not be hired for other reasons than noted above without having been
+approved by the Intern Committee. In the event of the Committee's inability to reach a decision due to a tie vote, the accepted resolution procedure stipulated in 12.2 shall be used.
+13.1.5.1	The Intern Committee shall be composed of three teachers selected by ITA and three administrators selected by the Superintendent/Designee. Representatives shall be selected from the three levels of schools. The facilitator of the Committee shall be the Deputy Superintendent of Human Resources/Designee.
+13.1.6	Intern teachers who successfully complete an intern year with the District and who are subsequently employed by the District shall be granted one year of experience on the salary schedule.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+30
+ARTICLE 14	- INDEPENDENT STUDY PROGRAM TEACHERS
+14.1	It is recognized by both the Irvine Teachers Association and the District that the San Joaquin High School program and Irvine Home School not only meets the needs of an important sector of the IUSD student population, but that they are separate and distinct programs requiring unique staffing and maximum flexibility in the certificated staff working conditions. As such, unit members in these programs shall be employed under the following guidelines:
+14.1.1	Unit members shall be assigned flexible work hours each week to provide maximum opportunity for student instructional opportunities as designated by the program to meet state and district requirements for students participating in such a program. These hours will vary as to time of day or evening according to student needs. Length of the day and the days per week will also vary according to student needs. Unit members shall be assigned forty (40) hours per week of student instructional time.
+14.1.2	Unit members shall have a flexible work week based upon student needs and individual schedules.
+14.1.3	Unit members shall be assigned up to a maximum of forty (40) students per week for instruction. Reduced student loads shall be available to unit members serving in differentiated roles such as lead teacher, outreach teacher, or other roles unique to the program.
+14.1.4	The unique aspects of the independent study program make certain articles and sub articles of the master agreement invalid. These articles are listed below:
+Article 3: Instructional Day, Minimum Day, Modified Day
+Article 9:	Reassignment
+Reassignment within the independent study program is defined as a change of assignment from independent study program teacher to a differentiated role such as lead teacher or outreach teacher. It is not a change of teaching position such as grade level or discipline.
+Article 10:	Working Conditions
+10.2	Instructional Day
+10.2.2	K-8 Supervision Duties
+10.2.3	Adjunct Duties
+10.3	Attendance at duplicate functions
+10.4	Class Size
+ITA Agreement
+July 1, 2004 — June 30, 2007
+31
+ARTICLE 15 - PEER ASSISTANCE AND REVIEW (PAR)
+15.1	The Peer Assistance and Review Program shall be established in accordance with the Education Code (E.C. 44500). As established by law, the primary purpose is to allow exemplary unit members to assist permanent unit members who have received an unsatisfactory final evaluation. Other IUSD purposes for PAR include: support for beginning and experienced unit members, support for all unit members in the areas of curriculum and instruction, and enhanced professional development for all unit members.
+15.2	A Joint Committee shall be established to provide oversight for the PAR Program. The Joint Committee shall be seven (7) members, four (4) selected by the Association and (3) by the District. Committee members shall serve staggered four (4) year terms, and members shall not serve for more than one consecutive term. The Joint Committee shall operate under such by-laws or standing rules as it may adopt by consensus or, failing consensus, majority vote when a quorum is present. There must be a minimum of one more unit member than administrator present for any decision to be made by the Joint Committee.
+The Joint Committee shall:
+(a)	establish and make public the procedures and principles by which the Joint Committee shall operate;
+(b)	establish the decision making procedures by which the Joint Committee shall operate;
+(c)	determine the number of, selection process for, and terms of assignment for Consulting Teachers;
+(d)	select the pool of Consulting Teachers to support referred and voluntary participating unit members;
+(e)	determine the procedures by which the Consulting Teachers shall operate;
+(f)	recommend training for Joint Committee members and Consulting Teachers;
+(g)	annually evaluate the impact of the district" s PAR program in order to improve the program;
+(h)	review peer review reports prepared by Consulting Teachers;
+(i)	make recommendations to the Board of Education regarding participants in the program;
+(j)	review the annual budget and determine allocation of funds;
+(k)	establish the procedures for consideration of site and district proposals;
+(1)	select from among site and district program proposals those that support unit member professional development; curriculum development; and staff development in support of District and Site Continuous Improvement Targets;
+(m)	establish the job descriptions and procedures for selection of a TOSA for Peer Assistance and Review to be paid from the PAR resources;
+(n) annually assure compliance with the requirements of the law;
+IT A Agreement
+July 1, 2004 - June 30, 2007
+32
+(o)	keep confidential all proceedings and materials related to evaluation reports and other personnel matters, except as necessary to administer the Peer Assistance and Review program;
+(p)	match a consulting teacher to a participating teacher after conferring with the participating teacher and the evaluator.
+15.3	Consulting Teacher (CT)
+(a)	The Consulting Teacher, in consultation with the participating teacher and the evaluator, shall
+clarify areas of unsatisfactory performance;
+(b)	The Consulting Teacher, in consultation with the participating teacher, shall develop a plan for addressing areas of unsatisfactory performance.
+15.4	Referred Participating Teacher (RPT)
+(a)	The Referred Participating Teacher shall be an experienced unit member with permanent status who receives an unsatisfactory final evaluation in the area(s) of instructional strategies and/or subject matter;
+(b)	The Referred Participating Teacher has the right to appeal the consulting teacher assigned for assistance;
+(c)	The Referred Participating Teacher shall receive a copy of the consulting teacher" s report;
+(d)	The Referred Participating Teacher shall have the right to submit a written response, within twenty days, and have it attached to the final report of the consulting teacher.
+15.5	Voluntary Participating Teacher (VPT)
+(a)	On a limited basis a short-term match between a Voluntary Participating Teacher and a Consulting Teacher may be made by Joint Panel;
+(b)	There shall be no written documentation between the Voluntary Participating Teacher, Consulting Teacher, and Joint Committee.
+15.6	Liability Protection of Bargaining unit members
+(a)	Functions performed by unit members under this Article shall not constitute either management or supervisory functions.
+(b)	Consulting Teachers are entitled to defense and indemnification for activities performed as part of the PAR program, as set forth in applicable provisions of the California Government Code.
+15.7	Compensation
+(a)	Consulting Teachers who work on proposals approved by the Joint Committee shall receive
+an hourly rate of $40 (per person/per hour);
+(b)	Consulting Teachers who work with RPTs or VPTs shall receive an hourly rate of $50;
+(c)	Joint Committee unit members shall receive a stipend of $5,000 for 2002-03.
+IT A Agreement
+July 1, 2004 — June 30, 2007
+33
+ARTICLE 16	- PERSONNEL FILES
+16.1	Personnel File Contents and Inspection
+16.2	General
+Employee personnel files will be maintained in accordance with Education Code Section 44031. Secret files are prohibited.
+16.3	Inspection of Files
+Every unit member shall have the right to inspect/examine all his/her files upon request in accordance with Education Code Section 44031.
+16.3.1	Material not subj ect to inspection includes rating reports or records which were obtained
+prior to employment of the person involved, prepared by identifiable examination committee member, or obtained in connection with a promotional examination.
+16.3.2	A unit member shall have the right to authorize a representative to examine his/her file and
+obtain a copy of material in the file, except those materials indicated in 16.3.1.
+16.4	Information of a derogatory nature shall not be entered or filed unless and until the unit member is given notice and an opportunity to review and comment thereon.
+16.5	The unit member shall be sent any statement or letter prior to its being placed in his file and shall be provided an opportunity to react to any statement or letter placed in the file.
+16.6	Material that should be, but is not, found in the unit member's personnel file shall not serve as a basis for affecting the status of his/her employment.
+16.7	The unit member may place commendatory material relative to his/her professional status in his/her file.
+16.8	All material going in a file shall be signed and dated by the person placing said material in the file.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+34
+ARTICLE 17	- COMPENSATION AND RELATED BENEFITS
+17.1	Salary Schedule
+17.1.1	For the 2004-05 school year, the existing (2003-04) salary schedule shall reflect a 2% increase across all elements of the schedule, effective February 1,2005. (Appendix A)
+17.1.2	For the 2005-06 school year, the 2004-05 salary schedule shall reflect an additional 2%
+increase across all elements of the schedule, effective July 1, 2005.
+17.2	Initial Salary Schedule Placement
+17.2.1	Unit members shall be given credit for recognized prior experience up to a maximum of twelve (12) steps and up to seventy-five (75) semester units of graduate coursework beyond the Bachelors Degree.
+17.2.1.1	Coursework mustbe reasonably related to present or future assignments within the District.
+17.2.1.2	Until verification of experience, unit members entering the District will be given credit for a maximum of five (5) years of experience. Unit credit must be verified by official transcripts.
+17.3	Salary Schedule Movement
+17.3.1	Advancement on the salary schedule i s limited to one (1) column per school year.
+17.3.1.1	Additional units shall be banked for future salary schedule advancement.
+17.3.2	Salary step increments shall be credited only at the end of a school year for the following school year.
+17.3.3	One step on the salary schedule will be granted for each year of District employment in which the unit member completes 75% of the days in the contract year.
+17.3.3.1	Unit members with a partial contract of less than 75% will be granted one step on the salary schedule when their cumulative contracts meet or exceed 75%.
+17.3.4	Any unit member of the District who leaves a full-time assignment to serve in the Armed
+Forces of the United States will be entitled to all rights and privileges specified by law and will, in addition, upon return to the District, be credited on the appropriate salary schedule with service to equal one step on the salary schedule provided the unit member has the units required.
+ITA Agreement July 1, 2004 — June 30, 2007 35
+17.4
+17.5
+17.6
+17.7
+17.8
+17.3.5	Credit will be given for Peace Corps experience or VISTA experience only when such experience has directly involved the teaching of students in a regular class situation.
+Unit members who participate in the elementary school Outdoor Education program shall be provided two (2) compensatory days.
+A doctoral stipend will be limited to a degree in education or the specific teaching discipline and will be awarded in lieu of a Masters degree.
+Supplemental Pay
+The salaries for supplementary positions shall be based on the formulas in "Appendix B." See Appendix A for value. The District shall provide a supplemental pay list to the Association and post such list in schools on or before the end of the second week of September. The list shall include the following: school position and share value. Final distribution of shares shall be provided to the Association on or before the end of each school year covered by this agreement.
+Unit members who are hired on a partial contract shall be paid on a pro rata basis.
+Summer School/Intersession
+17.8.1 Summer School/Intersession hourly rates shall be determined as follows:
+2004-05
+Years of District Experience
+0-5 years	$28.00
+6-10 years	$30.00
+11-15 years	$32.00
+16 years +	$34.00
+2005-06
+Years of District Experience
+0-5 years	$29.00
+6-10 years	$31.00
+11-15 years	$33.00
+16 years +	$35.00
+17.8.	2 Selection of staff for summer school/intersession will be based on the following: percentage of students enrolled by site, recent assignment, and seniority in District.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+36
+17.8.	3 Posting and staff selection will adhere to Human Resources department guidelines and procedures.
+17.9	Hourly Rate of Pay
+17.9.1	The hourly rate shall be $28.00.
+17.9.2	Unit members who temporarily exceed their daily instructional minutes or class load at the request of their site manager shall be paid the certificated hourly rate.
+17.10	Days worked beyond 184 day calendar.
+17.10.1	Unit members requested by their administrator to work additional days beyond the 184 day calendar shall be paid per diem rate.
+17.10.1.1	Upon mutual agreement between the administrator and the unit member, compensation time shall be awarded in lieu of per diem rate.
+17.10.2	Upon mutual agreement between the administrator and the unit member, unit member may work days outside the conventional calendar. Compensatory time shall be awarded for such days.
+17.11	University/College Units, District Inservice/Workshops, Professional Growth Activities
+A Professional Growth Committee composed of four (4) representatives appointed by the Association and three (3) representatives appointed by the District shall meet and provide guidelines to the Association and the District.
+17.11.1	The Professional Growth Committee shall recommend to the Superintendent approval/disapproval of unit credit for undergraduate/graduate courses, for District inservice/workshops, and/or professional growth activities, for travel, for publishing, and/or for credential professional growth requirements. Further, the Professional Growth Committee shall actively promote and recognize exemplary achievements and growth by the professional staff of the Irvine Unified School District.
+All recommendations of the Professional Growth Committee shall adhere to District policy relative to granting of unit credit.
+17.11.2	Standards for Acceptability.
+17.11.2.1	To be acceptable for advancement in classification, course work shall meet
+the following standards:
+ITA Agreement July 1, 2004 — June 30, 2007 37
+17.11.2.1.1	Shall be taken at an accredited institution of higher learning. An accredited institution of higher learning is a college or university accredited by a regional accrediting commission and listed in the current edition of Accredited Institutions of Higher Learning published by the American Council on Education. Institutions approved by the Professional Growth Committee shall also be considered acceptable.
+17.11.2.1.2	Shall be upper division or graduate level. Lower division work in the field of the unit member's assignment shall be accepted if approval is granted by the Professional Growth Committee. All courses are subject to review and approval of the Professional Gowth Committee before acceptance for unit credit.
+17.11.2.1.3	Shall be in the unit member's major or minor field or in the field of the unit member's assignments, or acceptable toward related advanced educational degrees or credentials applicable to the District.
+17.11.2.1.4	Shall be course work recommended by evaluators to improve competencies.
+17.11.2.2	To be acceptable for unit credit, District inservice/workshops/ professional growth activities shall conform to unit hour requirements and District policy.
+17.11.2.3	To be acceptable for unit credit, professional growth activities accepted for clear credential renewal shall conform to unit hour requirements and District policy.
+17.11.2.4	To be acceptable for unit credit, the application for course work shall first be submitted to the unit member's evaluator for approval. Evaluators shall approve applications only if the intended course work is for the purpose of improving the unit member's job-related competency.
+17.11.3	Units taken during the Egular school year must not interfere in any way with the contracted responsibilities of the unit member.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+38
+17.11.4	Verification of course and/or degree credit.
+17.11.4.1	The unit member shall submit official verification of completed coursework
+and/or degree. Only official transcripts shall be accepted for unit credit.
+17.11.4.1.1	Official verification shall be an officially stamped transcript from the college or university.
+17.11.4.2	Salary credit verification of course/degree completion received by Human
+Resources by October 15 shall be included in the payroll
+warrant issued at the end of November. Salary credit shall be retroactive to September (July for year-round schools).
+17.11.4.3	Salary credit verification of course/degree completion received by Human
+Resources by November 15 shall be included on the first January payroll warrant. Salary credit shall be retroactive to September (July for yearround schools).
+17.11.4.4	Salary credit for verification of course/degree completion received after November 15 shall be banked for the subsequent year subject to the limitations of 17.3.
+17.11.5	The Irvine Unified School District shall recognize the value of individual travel as a means of improving the educational delivery system and may grant unit salary credit as follows:
+17.11.5.1	The candidate shall make every effort to apply for credit in this section prior to travel departure.
+17.11.5.1.1	In the event the application cannot be reviewed by the Professional Growth Committee at a regularly scheduled meeting prior to travel departure, tentative approval may be granted by the Human Resources Administrator until the next meeting of the Professional Growth Committee.
+17.11.5.2	The candidate shall establish in writing the specific relationship between the proposed travel and subsequent duties in the school district.
+17.11.5.3	Unit credit shall be granted on the basis of one unit credit for two weeks of
+domestic travel and one unit credit per week for international travel.
+ITA Agreement
+July 1, 2004 — June 30, 2007
+39
+17.11.5.4	A maximum of six units of travel credit shall be allowed per four-year period. In all cases, travel units shall not constitute more than 25% of an individual's total unit credit for salary purposes at the time it is to be approved for salary credit.
+17.11.5.5	Travel credit shall adhere to the provisions allowable by the Internal Revenue Service.
+17.11.6	The Irvine Unified School District shall recognize the value of published scholarly work and may grant unit salary credit.
+"	Publication" is defined as a body of work published in a professional journal, not for profit by the author, to be used as a learning tool for colleagues. A" Publication" reflects credible research and is equivalent to graduate level study. The Professional Growth Committee shall consider the award of salary credit based on the following:
+17.11.6.1	The author shall submit his/her publication to the Professional Growth Committee in published form.
+17.11.6.2	The work shall have been accomplished outside the normal working periods.
+17.11.6.3	The author shall give a written explanation as to how the publication benefited his/her professional growth, and it shall relate directly to his/her teaching assignment.
+17.11.6.4	The author shall be prepared to attend a Professional Growth Committee meeting to explain his/her position more thoroughly if the Committee so desires.
+17.11.6.5	The author shall request the number of semester units he/she believes is fair and adequate for the amount of growth (professional, academic, etc.) he/she has acquired through working on his/her publication.
+17.11.6.6	Final unit credit shall be based on the Professional Growth Committee's unbiased evaluation. The Committee shall consult with experienced people when the content of the publication is of a nature peculiar to a specific field and in which additional opinions are considered essential.
+17.11.6.7	A maximum of six semester units of credit shall be acceptable within a three-year period for publications.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+40
+ARTICLE 18	- BENEFITS MANAGEMENT BOARD (BMB)
+The purpose of the Benefits Management Board (BMB) is to provide a managed employee health benefits package while containing rising costs. The BMB has all rights and responsibilities in regard to the management and design of insurance benefits within the constraints of the funds available to the BMB for that purpose.
+The benefits pool shall include all benefits-eligible District employees and all benefits-eligible retirees.
+The District and ITA commit to continued " good faith" exploration of a joint employer/employee trust, which includes all IUSD employees, and resolution of future funding of health benefits.
+18.1	ITA will participate in the IUSD Benefits Management Board, according to the following guidelines
+and those established in the Benefits Management Board Operational Guidelines (Appendix I).
+18.1.1	The BMB operational guidelines shall reflect:
+•	50/50 District/Employee Group representation
+•	Consensus decision-making model
+•	Super-majority vote required for any action in the event consensus cannot be
+reached
+18.1.2	The BMB is authorized to determine the scope of insurance benefits in the following areas: Medical, Dental, Mental Health, Life, Disability, and Vision.
+18.1.2.1	The BMB is authorized to determine the employee dollar contribution for those employees electing dependent coverage.
+18.1.3	An annual actuarial analysis shall be completed by April 15th of each year, which shall recommend a per eligible employee/retiree contribution level to maintain the current plan design for the upcoming plan year. This recommendation shall be presented to both sides by the BMB no later than May 1.
+18.1.3.1	The analysis shall include the following elements: utilization, medical trend, experience, and IUSD plan document.
+18.1.3.2	If the recommended funding level is greater than the then existing District contribution, the BMB may, between April 1 and May 1, take action to implement or change one or more of the following:
+•	Plan modifications
+•	Unit member contributions for dependent coverage
+ITA Agreement
+July 1, 2004 — June 30, 2007
+41
+•	Unit member contributions for employee coverage
+•	Allocate excess funds from the insurance reserve to offset increased costs, so long as the remaining reserve balance is sufficient to cover 4.5 months of expenditure reserves
+18.1.3.3	In the event that plan modifications and contributions for dependent coverage are insufficient to meet the funding level recommended in the actuarial study, then Article 18.2.2 shall be implemented.
+18.1.4	ITA shall be entitled to four (4) official representatives on the BMB.
+18.1.5	The District and the employee group of the BMB shall each have one (1) vote.
+18.1.5.1	In the case of a tie vote on any issue, binding arbitration may be requested by either party.
+18.1.5.1.1	Nothing in this provision shall limit or impact the District’s implementation of payroll deductions as specified in Article 18.2.2.
+18.1.6	Decisions on matters before the BMB, whether by vote or consensus, shall be recorded in official minutes.
+18.1.7	The BMB shall meet on a regular basi s.
+18.1.8	Daily administration of the benefits program and responsibility for implementing the direction of the BMB shall be a responsibility of the District. All business correspondence, including claim waivers, formal proposals, bids, and correspondence shall be directed to the District for presentation as appropriate to the BMB.
+18.1.9	Authority to enter into contracts with respect to the benefits determined by the BMB shall rest with the District.
+18.1.10	The BMB shall be authorized to select consultants to be paid from BMB funds. Contracts with firms or individuals shall be under the auspices of the District and shall require the approval of the Board of Education.
+18.2	The District" s contribution for health benefits shall be $8,000 per eligible unit member per benefit year unless modified through the provisions of Article 18.2.2. The District’s contribution for the 2006-07 year and thereafter shall be subject to negotiation.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+42
+18.2.1	The District shall redirect $4,000,000 of reserves from the BMB Health Fund to the General Fund in the 2004-05 school year for the salary enhancements.
+18.2.1.1	The District shall maintain a minimum of 4.5 months of expenditure reserves in 2004-05 and 2005-06 in the BMB Health Fund.
+18.2.1.2	The District guarantees that there will be no payroll deductions for employee coverage in 2004-05 and 2005-06.
+18.2.1.3	The BMB will maintain the ability to modify the plan during this time, but is not required to do so as a result of this agreement.
+18.2.2	If agreement is not reached through the bargaining process by October 1 of any benefit
+year, and funding to the BMB is not sufficient to maintain the employee benefits proposed by the BMB, then the district shall cover one-half of the shortfall in funding and the remaining one-half shall be divided equally among active employees participating in the plan and paid for by individual payroll deductions.
+18.2.2.1	The payroll deduction shall be implemented no later than November 1.
+18.2.2.2	The District and ITA agree that reaching agreement on the funding level is a priority.
+18.3	Only those unit members with a contract assignment of 50% or more qualify for health benefits.
+18.3.1	Shared contracts shall have one health benefits package per FTE.
+18.4	Unit members new to the District shall receive insurance coverage the first day of work OR the day
+of completion and signing of insurance forms, whichever is LATER.
+18.5	Unit members who are absent because of long-term illness and who have exhausted their accumulated paid leaves shall continue to receive medical, dental, and vision benefits as specified by the BMB at the expense of the District for the first twelve (12) months of the unpaid leave period. Dependent coverage shall be at the expense of the unit member. At the conclusion of the twelvemonth period, the unit member shall have the option to continue to receive employee and dependent benefits in compliance with Federal Law (Public Law 99-272, COBRA/TAMRA).
+18.6	A unit member on District approved unpaid leave of absence shall have the option to continue to receive employee and dependent benefits as specified in compliance with Federal Law (Public Law 99-272, COBRA/TAMRA) effective the first day of the leave.
+18.7	The District shall provide medical, dental, and vision benefits as specified by the BMB for unit members retiring after reaching their 55th birthday, provided said unit member has served a ITA Agreement July 1, 2004 — June 30, 2007
+43
+minimum of fifteen (15) full time or equivalent years (last five (5) years to be consecutive) in the District and bargaining unit prior to retirement.
+18.7.1	This benefit shall be provided to the retiring unit member until the retiree becomes eligible for Medicare or age sixty-five (65), whichever comes first, or until the	retiree
+accepts other employment which provides medical and dental benefits.
+18.7.1.1	The retiree may purchase dependent coverage in the health and dental plans.
+18.7.2	Medical, dental, and vision benefits also will be provided for bargaining unit members who retire after reaching their 55th birthday provided they have a minimum of ten (10) years in active, full time or equivalent, service in the bargaining unit and that they were hired prior to July 1, 1988.
+18.7.2.1	The retiree may purchase dependent coverage in the health and dental plans.
+18.8	The District shall provide medical, dental and vision benefits as specified by the BMB for disabled unit members provided said unit member has served a minimum of ten (10) consecutive years in the District prior to retirement, has reached 55 years of age but less than 65 years of age, and is eligible for disability retirement through either SIRS or a physician's certification. This benefit shall be provided for the retiring disabled unit member until the retiree becomes eligible for Medicare or age sixty-five (65), whichever comes first, or until the retiree accepts other employment which provides medical and dental benefits.
+18.9	The District shall maintain employee benefits granted in this section for a sixty-day period for unit members laid off
+IT A Agreement
+July 1, 2004 - June 30, 2007
+44
+ARTICLE 19	- ABSENCES AND LEAVES
+19.1	General procedures for implementing absences and leaves procedures follow:
+19.1.1	It is the responsibility of each unit member to report each period of absence as prescribed by the District and to complete the appropriate District forms. Requests for leave of absence must be submitted to the Human Resources Office on or before July 1 for leaves for the following first semester or for leaves for the full year. Requests for leaves for second semester must be received in the Human Resources Office on or before December 1.
+19.1.2	The District must maintain an accounting of authorized time for absence or leave. Upon
+request of the unit member, the District will provide notification when leave time or accumulated absence has been used. This notification will generally be made to all personnel the first week in June, or as soon as possible thereafter, and will be itemized as to type of leave remaining.
+19.1.3	It shall be 1he responsibility of unit members on leave to notify the Human Resources Office in writing of their intention to return from a leave of absence to regular school district employment. Unless the Human Resources Office receives notice on or before April 1 for a year's leave and on or before December 15 for a semester's leave, and a date of return at the time of the request for leaves of less than one semester, the leave will be considered void. Unit members on partial leaves of absence will have their contracts reduced; unit members on full (100%) leaves will be terminated.
+19.1.4	Upon notification of the unit member's intent to return, the District shall inform the unit member of current position vacancies. If conditions permit, the unit member may be reassigned to a position similar to that held prior to leave. Until the time the unit member is reassigned from leave status the unit member may apply for reassignment to any vacancy, and may indicate preferences to the Human Resources Office for reassignment beyond current vacancies. The unit member shall be notified of reassignment from leave status as soon as such reassignment is made by the Human Resources Office. Once reassigned, the unit member has the option of requesting transfer or reassignment as delineated in Articles 8.2 and 9.2.
+19.1.5	Leaves of absence as specified in this article shall be limited to tenured unit members in the District with the following exceptions: sick leave, court summons leave, jury leave, maternity leave, bereavement leave, industrial accident and illness leave.
+19.1.6	Full or partial leaves of absence for tenured unit members must be applied for each school year prior to July 1. Each type of leave is available for a maximum of one ITA Agreement July 1, 2004 — June 30, 2007
+45
+year, regardless of the percent of the leave. Tenured unit members shall be eligible for a maximum of two leave types for a total of two years of leave in any four school years.
+19.2	Sick Leave and Daily Absences:
+Each unit member working the 184 day year, whether on a traditional or year round calendar, shall be entitled to ten (10) leaves of absence for illness during the school year. These days may be utilized for sick leave or personal necessity leave, as prescribed by law and the provisions of this agreement. Unused leave shall be carried forward to the succeeding year and shall be accumulated. A unit member who uses five (5) days or less during a school year will be entitled to eleven (11) days leave of absence the following year. Unit members with less than a 100% assignment shall have both sick leave and the incentive leave prorated to reflect the percentage of their contract.
+19.3	When persons employed in positions requiring certificated qualifications are absent from their duties due to illness, they shall use all of their accumulated sick leave. At the termination of the accumulated sick leave period, the unit member shall be eligible for up to five (5) additional months sick leave in the school year in which the absence occurs. For this additional sick leave, the District will pay the unit member the difference between the unit member's normal salary and the amount paid the substitute to fill the position or 50%, whichever is greater. Extended leave must be on the basis of a recognized medical doctor's statement.
+19.4	Maternity Leave:
+Maternity leave will be provided in accordance with existing law and provision of this article including the use of appropriate accumulated days leave. Extended leave must be on the basis of a recognized medical doctor's statement.
+19.5	Adoption Leave:
+Provided sick leave is available, a unit member who adopts a child will be granted the use of his/her accumulated sick leave (not differential) at the time of the adoption to a maximum of fifteen (15) days. Such leave shall be allowed at the time of the adoption for one parent in the event both parents are unit members of the District.
+19.6	The District shall release the Association president from teaching responsibilities for the term of the office. The Association president shall be released by employment of an intern teacher. Cost of such release shall be bome one-half by the Association and one-half by the District. The parties agree that the Association" s cost shall be paid for out of the interest earned on the reserve funds held by the Certificated Unit Member Benefits Management Board (Article 18.1.2). The District shall grant leave at the District's expense to certain officers and representatives of the Association, not to exceed a total of fifty (50) days (for all officers/ representatives) per school year, to attend to organizational business when circumstances are so circumscribed that the organizational matters must be attended during the normal working day, and for the purpose of meeting and negotiating with District's representatives. Additional days, not to exceed fifty (50), may be approved at the
+ITA Agreement
+July 1, 2004 - June 30, 2007
+46
+District's expense by the Superintendent or the Superintendent's designee. In carrying out this procedure, the District shall not incur any costs contrary to codes regulating the expenditure of school district funds.
+19.7	Sabbatical Leave:
+Sections 44966 and 44967 of the Education Code... The District may upon the recommendation of the Superintendent, grant a sabbatical leave. The professional Growth Committee shall meet and provide guidelines to the Association and the District.
+19.7.1	All applications for sabbatical leave shall be submitted to the Human Resources Office and shall include evidence that leave will be for the purpose of professional improvement and the development of concepts and materials which will benefit the curriculum of the District. This purpose may be achieved in the following methods:
+19.7.1.1	Academic Study Leave:
+An academic study leave is one during which the unit member pursues a program of a minimum of eight (8) units of semester credit per semester or the equivalent in an accredited institution.
+19.7.1.2	Independent Research Leave:
+An independent research leave is one which must be related to present or prospective service. The program must be at least equivalent in effort and content to the required units as pursued in academic study leave. A complete plan for such study must be approved and filed with the original application for leave.
+19.7.1.3	Travel Leave:
+A travel leave is one during which the unit member shall remain in travel status three and one-half (3-1/2) months for each semester of leave granted and the relation to present or prospective service to the District shall be specified by the applicant.
+19.7.1.4	Combination Travel/Study Leave:
+The above may be combined with one (1) calendar month of travel being considered as equivalent to two (2) semester units when in combination with study.
+19.7.2	A Unit member is eligible to apply for sabbatical leave who has served the District for seven (7) consecutive years. Authorized leaves shall not constitute a disruption of consecutive years of service accruing toward the sabbatical leave requirements.
+ITA Agreement
+July 1, 2004 — June 30, 2007
+47
+19.7.3	Applications for sabbatical leave must be submitted to the Human Resources Office not later than April 1 of the year preceding the year in which leave is requested.
+19.7.4	Not more than 2% of the certificated unit members may be granted sabbatical leave in any one school year. Where more unit members apply than the quota allows, preference shall be given according to the following criteria:
+19.7.4.1	Possible implementation and value to the District's curriculum as based upon the written study plan as submitted by the applicant.
+19.7.4.2	Level of professional growth to the applicant which is not generally available by other means in the District.
+19.7.4.3	Former sabbatical leaves granted individual.
+19.7.4.4	An application for sabbatical leave shall be considered only in case his/her teaching for the last three years has been determined as satisfactory. It shall be understood, however, that sabbatical leave is not a reward for meritorious work already performed, but rather is to be looked upon as an opportunity to prepare for improved service in subsequent years. Its granting, therefore, should not be regarded as an indication of the quality of service by a unit member. Evaluation and recommendation of application shall be made by the Professional Growth Committee.
+19.7.5	Sabbatical leave may be granted for a period of not less than one full semester and not more than two full semesters.
+19.7.6	The District shall pay a unit member who is on sabbatical leave 50% of the full salary for such period. Sabbatical leave salary payment will be made in the same manner as if applicant were teaching in the District.
+19.7.7	In cases of inj ury to, or illness of, the unit member during sabbatical leave, the sabbatical leave will be terminated and all provisions for sick leave will apply. If death prevents the unit member from fulfilling his agreement to return to service in the District, no repayment of salary will be required of his/her estate.
+19.7.8	Each applicant who has been granted sabbatical leave shall file a written report with the Superintendent not later than the day on which such applicant returns to duty. This report shall include the name of the institution attended, courses pursued, credits received, experience gained, and itinerary of travel, together with the applicant's appraisal of the professional value of the activities and the manner in which the knowledge and experience
+IT A Agreement
+July 1, 2004 - June 30, 2007
+48
+gained may be applied to the benefit of the children and the schools. The report should give a detailed account of the educational experiences upon which the request for benefits was based.
+This statement not only shall include a detailed account of the experience upon which the request was based, but must give concrete evidence of specific ways in which this experience contributed to the improvement of the educational program.
+19.7.9	Sabbatical leave of one year shall count as experience on the salary schedule in direct proportion to the length of the sabbatical leave.
+19.7.10	Upon application for sabbatical leave, the unit member will sign an agreement to return to service in the District for a period of not less than twice the length of the sabbatical leave upon completion of the leave, or restore to the District all salary payment received while on leave.
+19.8	Bereavement Leave:
+All certificated unit members are entitled to three (3) days leave of absence, five (5) days if extensive travel is required, for the death of any member of their immediate family, and for such additional days as the governing board may allow. No deduction shall be made from the salary of such unit member on account of such leave of absence.
+19.9	Industrial Accident or Illness Leave:
+Pursuant to the provisions of Education Code Section 44984, a certificated unit member shall be provided leave of absence for industrial accident or illness under the following rules and regulations.
+19.9.1	The accident or illness must have arisen out of and in the course of the employment of the unit member and must be accepted as a bona fide injury or illness arising out of and in the course of employment by the State Compensation Insurance Fund.
+19.9.2	Allowable leave for each industrial accident or illness shall be for the duration of the temporary disability, but shall not exceed sixty (60) calendar days.
+19.9.4	The leave under these rules and regulations will commence on the first day of absence.
+19.9.5	When a person is absent from his/her duties on account of industrial accident or illness, he/she shall be paid such portion of the salary due him/her for any month in which absence occurs, as when added to his/her temporary disability indemnity under appropriate sections of the Labor Code will result in a payment to him/her of not more than his/her full salary.
+ITA Agreement
+July 1, 2004 — June 30, 2007
+49
+19.9.6	Industrial accident or illness leave shall be reduced one day for each day of authorized absence regardless of a temporary disability indemnity award.
+19.9.7	When an industrial accident or illness leave overlaps into the next fiscal year, the unit member shall be entitled to only the amount of unused leave due him for the same illness or injury.
+19.9.8	During any paid leave of absence, the unit member shall endorse to the District the temporary disability indemnity checks received on account of his/her industrial accident or illness. The District, in turn, shall issue the unit member appropriate salary warrants for payment of the unit member's salary and shall deduct normal retirement and other authorized contributions.
+19.9.9	The benefits provided by the rules and regulations shall be applicable to all unit members who have completed a minimum of one year's service with the District.
+19.9.10	Any unit member receiving benefits as a result of these rules and regulations shall, during the period of injury or illness, remain within the State of California unless the governing board authorizes travel outside the state.
+19.9.11	Upon termination of the industrial accident or illness leave, the unit member shall be entitled to sick leave benefits as provided in Education Code Sections 44977, 44978, and 44983, and his absence for such purpose shall be deemed to have commenced on the date of termination of the industrial accident or illness leave, provided that if the unit member continues to receive temporary disability indemnity, he/she may elect to take as much of his/her accumulated sick leave as when added to his/her temporary disability indemnity, will result in payment to him/her of not more than his/her full salary.
+19.10	Personal Necessity Leave
+19.10.1	Unit members may use up to seven (7) days of allowable sick leave annually to attend to compelling personal business. Personal Necessity shall not be used for:
+•	Vacation
+•	Recreation
+•	Personal convenience
+•	Concerted activities
+19.10.2	Personal Necessity shall not be taken in order to extend a break in the school year (holidays or extended weekends). Absences prior to, or following a break in the school year shall require a reason be provided.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+50
+19.10.3	Notification of the need for Personal Necessity Leave shall be submitted on the required absence form prior to the day of the absence, except in a case of emergency or family illness.
+19.10.3.1	The Unit Member’s signature on the required absence form certifies that
+the absence does not violate the above limitations.
+19.11	Court Summons Leave:
+Unit members shall be granted a leave with pay, if called in a manner prescribed by law, to serve as a witness in Court other than as a litigant, or to respond to an official order from another government jurisdiction for reasons not brought through the connivance or misconduct of the unit member. The unit member shall notify the District as soon as possible after being officially called. The unit member shall receive the regular salary and shall sign over to the District any fees received except for travel allowance.
+19.12	Jury Leave:
+Unit members shall be granted leave of absence, with pay, to serve as a juror, if called in a manner prescribed by law. It is understood that bargaining unit members who are able to postpone jury duty to the summer break in the traditional calendar schools or to an intercession break in the yearround calendar schools shall receive the substitute rate of pay for each day of jury service up to a maximum of five (5) days. In order to receive the substitute pay, the unit member must submit a copy of the original summons, the notification of postponement of service, and the dated proof of jury service. Any fee, except travel allowance, paid to the unit member for jury duty shall be remitted	to	the	District.
+19.13	Other Leaves:
+The District may grant non-paid leaves of absence to tenured certificated unit members to allow acceptance of exchange teaching positions, fellowships or scholarships, suitable activities that will lead to professional improvement, child care, for reasons of health, for compelling family matters, or for District-recommended course of study.
+(See Appendix F)
+19.14	F amity Tragedy Leave
+Unit members who experience a tragedy involving a member of the immediate family (parent, spouse, child) shall be granted leave with differential pay. The leave shall be requested through the Human Resources Office, in writing, may be used only once in a school year, and the unit member will pay the difference between his/her salary and the cost of the substitute. This leave is available only after the unit member uses his/her other Personal Necessity leave days. The total number of consecutive days (inclusive of the first seven (7) of personal necessity) is twenty (20).
+ITA Agreement
+July 1, 2004 — June 30, 2007
+51
+ARTICLE 20	- SHARED CONTRACTS
+20.1	Bargaining unit members who request to share one teaching position shall be eligible to apply for shared contracts at each site. Site managers must review all applications for shared contracts. Their decision regarding such application is final. The application process shall include: site manager's recommendation, specific reason for initiating a shared contract, advantages to school/program/students, a specific calendar/teaching schedule, division of responsibilities and duties, and benefit package designation.
+20.2	In the event that one partner in the shared contract is unable to fillfill her/his commitment to the agreement, the remaining partner and the site manager shall work together to make arrangements which are mutually agreed to by the principal and the remaining partner. Should the remaining partner choose to assume the fill-time position, her/his employment status shall be changed appropriately.
+20.3	Shared contracts shall be entered into for periods of up to three years. These contracts may be renewed annually with the approval of the site manager and the Human Resources Office.
+20.4	There shall be one (1) health benefit package per shared contract.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+52
+ARTICLE 21	- GRIEVANCE PROCEDURE
+21.1	Guidelines
+21.1.1	Nothing contained herein will be construed as limiting the right of any unit member having
+a grievance to discuss a matter informally with any appropriate member of the administration and to have the grievance adjusted without intervention by the Association, provided that the adjustment is not inconsistent with the terms of this Agreement.
+21.1.2	The filing of a gievance shall not be construed as reflecting unfavorably on a unit member's good standing, performance, or loyalty to the District and no reprisal will be taken.
+21.1.3	Both parties agree that these proceedings will be kept as confidential as may be appropriate at any level of the procedure.
+21.1.4	The Association shall have the right to bring forth a grievance in the name of the unit member in lieu of the unit member using the individual grievance procedure, with the written permission of the affected unit member. Such grievances shall be an Association grievance and shall operate within the time frame outlines for each step of the following procedures. The Association shall also have the right to deny a unit member's request for an Association grievance. The Association shall have final determination in the acceptance/rej ection of resolutions of all Association grievances.
+21.2	Procedures
+21.2.1	Informal Level
+The grievant and his/her immediate supervisor shall attempt to resolve a difficulty by an informal conference. For Association grievances, the Association will meet with the immediate supervisor and/or appropriate District administrator. In the event the grievance is not satisfied informally, the grieved unit member/Association may prepare a formal grievance and proceed through the grievance process.
+21.2.2	Formal Level
+21.2.2.1	Level One:
+Within fifteen (15) days or after the grievant knows by reasonable diligence after the occurrence of the alleged act or omission giving rise to the grievance, the grievant shall complete and file a grievance form with both the District and the Association.	The filing of the grievance
+ITA Agreement July 1, 2004 — June 30, 2007
+53
+shall be acknowledged by the dated signature of the person receiving the grievance. The unit member and the immediate supervisor shall confer within ten (10) days following the filing of the grievance. Either party to the grievance may have conferees present if the minimum notice of two (2) working days has been given to the other party. The administrator shall render a written decision within five (5) days after the conference.
+21.2.2.2	Level Two:
+If the grievantis not satisfied with the disposition at Level One, within ten (10) days after the meeting with the administrator in Level One, the grievant may appeal the grievance in writing to the Superintendent.
+Within five (5) days from the receipt of the appeal, the Superintendent or his/her designee shall meet with the grievant and any conferees either party may desire. The Superintendent or Superintendent's designee shall, within five (5) days of the meeting, respond by sending to the grievant and to the Association a written disposition of the appeal.
+21.2.2.3	Level Three:
+If the grievant is not satisfied with the disposition of the grievance at Level Two or if a written decision has not been rendered by the Superintendent or Superintendent's designee within five (5) days, the grievant may request a hearing before the Board of Education. This request shall be made within ten (10) days of the decision rendered by the Superintendent or Superintendent's designee.
+At a mutually agreed upon date, the Board of Education shall meet in closed session with the grievant and any parties he/she may desire. The Board of Education shall, within five days of the meeting, respond by sending to the grievant and to the Association a written disposition of the appeal.
+21.2.2.4	Level Four:
+If the grievant is not satisfied with the disposition of the grievance at Level Three or if a written decision has not been rendered by the Board of Education within five (5) days, the Association may request in writing that the dispute be submitted to arbitration. This request shall be made within ten (10) days of the decision rendered by the Board of Education.
+The parties shall select a mutually acceptable arbitrator. Should they be unable to agree on an arbitrator within ten (10) days of submission of the grievance to
+ITA Agreement
+July 1, 2004 - June 30, 2007
+54
+arbitration, they shall request the State Mediation and Conciliation Service to supply a panel of five names of persons experienced in hearing grievances in public schools.	Each party shall
+alternately strike a name until only one name remains. The remaining panel member shall be the arbitrator. The order of striking shall be determined by lot.
+The arbitrator shall, as soon as possible, hear evidence and render a decision on the issue or issues submitted to him/her. The arbitrator's decision will be in writing and will set forth his/her findings of fact, reasoning and conclusions on the issues submitted. The arbitrator will be without power or authority to make any decision which requires the commission of an act prohibited by law or which is violative of the terms of this Agreement. The decision of the arbitrator will be final and binding.
+All costs for the services of 1he arbitrator, including, but not limited to, per diem expenses, travel and subsistence expenses and the cost of any hearing room will be bome equally and be mutually agreed to by the District and the Association. All other costs will be bome by the party incurring them.
+21.3	Miscellaneous Provisions
+21.3.1	The exercise by the District of its responsibility referred to in Article 5 (Management Rights) shall not be subject to this procedure.
+21.3.2	All documents, communications, and records dealing with the processing of a grievance shall be filed separately from the personnel files of the participants.
+21.3.3	No reprisals of any kind shall be taken by the District, or by any member or representative of the District against the Association, a grievant, or a person who assisted the grievant. No reprisals of any kind shall be taken by the Association or any unit member against either the grievant, the District, or any unit member who may have participated directly or indirectly in the grievance procedure.
+ITA Agreement
+July 1, 2004 — June 30, 2007
+55
+ARTICLE 22	- PARENT/GUARDIAN COMPLAINTS
+22.1	The normal channel for complaints concerning unit members shall be from complainant to unit member. After attempts to resolve the complaint with the unit member have been exhausted, the concern should be directed to the particular unit member's immediate supervisor, then to the Superintendent, or his/her designee, and finally to the Board of Education.
+22.1.1	Whenever a complaint other than that of a criminal nature is made of a unit member by a
+parent or guardian, the individual unit member involved shall be advised by his/her supervisor of the nature of the complaint and the name of the complainant, and shall be given the opportunity for explanation, comment, and presentation of the facts.
+22.1.2	If the unit member is dissatisfied with the resolution of the concern at the immediate supervisor's level, he/she may request in writing within five (5) days a review by the Superintendent or designee. The Superintendent, or designee, shall communicate his/her decision to the unit member within five (5) days.
+22.1.3	If the unit member is dissatisfied with the resolution of the concern at the Superintendent's
+level, he/she may request in writing within five (5) days, a review by the Board of Education. The Superintendent, or designee, shall inform the unit member of the decision of the Board within 30 days of receipt of the request for review.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+56
+ARTICLE 23	- DISCIPLINARY ACTION
+23.1	Disciplinary action as contained in this article shall be imposed for just cause. Normally, the District shall use progressive disciplinary procedures.
+23.2	In an appropriate situation, suspension(s) may be imposed as provided for in this article. Normally, suspension(s) will be reserved for repetitive or serious violations.
+23.3	This article is not designed to limit the District's right to evaluate unit members in accordance with the provisions of this Agreement. This disciplinary article is not intended to replace or limit the District's rights under the California Education Code or the California Administrative Code to institute dismissal proceedings or to institute immediate suspension or mandatory leaves of absence when so called for under California law. Discipline under this article shall not be regarded as a precondition to proceedings under the California Education Code.
+23.4	Except when the conduct warrants otherwise, the District shall utilize a "Progressive Disciplinary" procedure which includes the following:
+23.4.1	Oral waming(s).
+23.4.2	Conferences with written memorandum of summary.
+23.4.3	Reprimand(s) in written form with the unit member having the right to respond in writing and have such response attached to the original reprimand.
+23.5	Notice of Suspension:
+The Superintendent or designee shall give a written Notice of Proposed Suspension to the unit member within forty-five (45) calendar days of the act or occurrence giving rise to the disciplinary action. The Notice of Proposed Suspension shall include the cause(s) on which the suspension is based, the length of the suspension, the beginning and ending dates of the suspension, and any other relevant information regarding the suspension. The Notice of Proposed Suspension shall contain a statement that informs the unit member of his/her rights to request a hearing in accordance with the provisions outlined in this Article.
+23.6	Request for Hearing:
+The unit member shall have five (5) days following the receipt of the Notice of Proposed Suspension to request a hearing. The Request for a Hearing shall be made in writing to the Association and the District. Should the Association agree that a hearing is appropriate, the Association shall have ten (10) days following receipt of its copy of the Request for Hearing to meet with the District Superintendent or his/her designee to select an arbitrator in accordance with the grievance procedures of this Agreement or to otherwise resolve the matter.
+ITA Agreement
+July 1, 2004 — June 30, 2007
+57
+23.6.1	If a unit member fails to request a hearing within the timelines called for in this article, or the Association believes the hearing is unnecessary, the proposed suspension may be implemented by action of the Irvine Unified School District Board of Education. The suspension will not be implemented earlier than fifteen (15) days from the receipt of the Notice of Proposed Suspension. Unless otherwise agreed between the Association and the District, the terms of the suspension shall be in accordance with the terms of the original Notice of Proposed Suspension.
+23.7	Hearing
+23.7.1	If the unit member and Association have requested a hearing, an arbitrator shall be selected according to the procedure in Article 21.2.2.4. The imposition of the suspension shall be stayed until the hearing has been conducted and a decision rendered by the arbitrator.
+23.8	Miscellaneous
+23.8.1	The Association shall be given a copy of Notices of Proposed Suspension at the time these documents are served upon the unit member.
+23.8.2	A unit member may be represented by the Association at all stages of this disciplinary procedure.
+23.8.3	The parties to this Agreement agree that the disciplinary procedures outlined herein shall not be used in an arbitrary or capricious manner.
+23.8.4	In imposing discipline, neither the District nor the arbitrator may consider charges or reprimands which lave occurred more than four (4) years prior to the date of the charge(s) giving rise to the instant disciplinary action.
+IT A Agreement
+July 1, 2004 - June 30, 2007
+58
+ARTICLE 24	- LAYOFF FOR LACK OF FUNDS
+24.1	The District may lay off unit members pursuant to the provisions of Education Code Section 44955
+any time the District determines there is a lack of funds, provided the statutory timeline for notice governing such layoffs in Education Code Section 44949 will be changed from March 15 to May 15, with the other dates set back appropriately.
+24.2	The above provision shall not be construed in any manner as a limitation upon the right of the District to reduce or eliminate services or to lay off unit members, as such rights existed under the Education Code at the time of execution of this Agreement; nor shall such provision be construed to limit the rights of the District as set forth in Article 5 of this Agreement.
+24.3	Any dispute arising under this provision shall not be subj ect to the grievance/arbitration mechanism.
+Enforcement of rights hereunder shall be as provided by law.
+ITA Agreement
+July 1, 2004 — June 30, 2007
+59
+ARTICLE 25	- REDUCTION TO PART-TIME EMPLOYMENT
+25.1	In an effort to facilitate reduction to part-time employment, the District may permit members of the unit to reduce their workload from full time to part time, and to have their retirement benefits based on full-time employment, as provided by the Education Code.
+25.2	To qualify for reduction to part-time employment, unit members shall have ten (10) years of service in the District in a position requiring certification, shall have attained the age of 55 prior to the beginning of the school year or term in which the reduction of teaching service begins, and shall have initiated the request for reduced teaching service.
+25.3	The agreement for reduced service shall be mutually executed by the unit member and the District in writing no less than 30 days prior to the beginning of the school year in which the agreement should take effect.
+25.4	Reduced service may not be less than the half time service that was required of the unit member during the final year of full time service, prior to that year when half time service began. Minimum salary paid shall be equal to and no less than one half the salary that would have been earned if the unit member had remained on a full time basis.
+25.5	Part-time service is limited to a period not to exceed five years.
+25.6	The District shall reserve the right to deny granting a reduced assignment to a unit member if doing
+so would create unusual and/or difficult staffing problems. A denial shall only be temporary and the unit member may reapply for early retirement the following school year or term.
+25.7	The unit member and the District agree to submit contributions to the State Teachers Retirement System based on the compensation which would be earned for full time employment.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+60
+ARTICLE 26	- DISMISSAL OF PROBATIONARY EMPLOYEES
+26.1	Feedback to probationary employees on performance will be based on observations. Observation
+conferences shall be held on or before November 30 (October 31 for year-round) and February 15 (January 15 for year-round) of each year of probationary status. Final summative evaluation conference and/or written summary shall be completed by May 15th. Such feedback shall be based upon criteria established by the District.
+26.2	The rights of probationary dismissal shall be as determined and enforced by the Education Code, both in terms of procedural due process and rights to a hearing.
+26.3	Appeal of a recommendation for dismissal shall be to the Ebputy Superintendent, Human Resources Services. The decision of the Deputy Superintendent shall not be subject to the grievance procedure.
+ITA Agreement
+July 1, 2004 — June 30, 2007
+61
+ARTICLE 27 - EARLY RETIREMENT
+27.1	The District agrees according to the authorization in the Education Code 44929 to permit members
+of the State Teachers' Retirement System to receive up to two (2) years of service credit as provided and qualified below.
+27.2	The Board of Education must indicate by resolution that the best interests of the Irvine Unified School District would be served by encouraging the retirement of certificated unit members.
+27.2.1	To be valid, that resolution must find the retirement will either (1) result in a net savings to
+the District, or (2) result in a reduction of the number of certificated unit members as a result of declining enrollment, or (3) result in the retention of certificated unit members who are credentialed to teach in teacher shortage disciplines, including but not limited to, mathematics and science.
+27.3	The following conditions are necessary to validate the unit member's additional service credit.
+27.3.1	The unit member must be credited with five or more years of service under the State Teachers' Retirement System and retire during a period not more than 120 days or less than 60 days, commencing no sooner than the effective date of the formal action of the District which shall specify the period.
+27.3.2	The Superintendent of Schools must transmit to the retirement fund an amount determined by the Teachers' Retirement Board which equals the actuarial equivalent of the difference between the allowance the member receives after the receipt of service credit under this section and Education Code 22726 and the amount the member would have received without the service credit. The transfer to the retirement fund shall be made in a manner and time period acceptable to the Teachers' Retirement Board.
+27.3.3	The Superintendent of Schools must transmit to the retirement fund the administrative costs incurred by the State Teachers' Retirement System in implementing this section, as determined by the Teachers' Retirement Board.
+27.3.4	The Superintendent must certify, prior to the formal action becoming effective, that the net effect of the formal action will result in no costs to the State Teachers' Retirement System or the school district.
+27.4	The amount of service credit shall be a maximum of two years regardless of credited service, but shall not exceed the elapsed period of time intervening between the date of the member's retirement and the date the member attains normal retirement age as determined by the
+IT A Agreement
+July 1, 2004 - June 30, 2007
+62
+Teachers' Retirement Board. The school district or county superintendent of schools shall make the payment with respect to all eligible unit members who retired pursuant to this section and Education Code 22726.
+27.5	Any unit member who qualifies under this section and Education Code 22726 and subsequently reenters the State Teachers' Retirement System shall forfeit the service credit acquired under this section and Education Code 22726.
+27.6	This opportunity shall not be applicable to any unit member otherwise eligible if the unit member receives any unemployment insurance payments arising out of employment with an employer subj ect to Part 13 (commencing with Section 22000) of Title 1 during a period extending one year beyond the effective date of the formal action, or if the unit member is not otherwise eligible to retire for service under the State Teachers' Retirement System.
+27.7	Any unit member who wishes to retire under the provisions of this article must make written application to the District prior to June 1. Earlier application is advised so that time can be had for adequate retirement planning.
+ITA Agreement
+July 1, 2004 — June 30, 2007
+63
+ARTICLE 28	- RETIREMENT
+28.1	The District shall offer a unit member upon retirement a recognition stipend of $5,000. The recognition shall be offered to a unit member who has served a minimum of fifteen (15) full time or equivalent years (last five (5) years to be consecutive) in the bargaining unit.
+28.1.1	To be eligible for the retirement stipend:
+•	written notice of intent to retire at the end of the school year must be received by Human Resources on or before April 1;
+•	written notice of intent to retire at the end of the first semester must be received by Human Resources on or before October 1.
+28.2	Retirees from the Irvine Unified School District, who are hired back by the District, shall be placed on the step and column from which they retired or the corresponding placement with the current salary schedule.
+ARTICLE 29	- CONCERTED ACTIVITIES
+29.1	The Association recognizes its duty and obligation to comply with the provisions of this Agreement
+and to make every effort toward inducing all unit members to do so. There shall be no strike or work stoppage by the Association or its unit members.
+ARTICLE 30	- SUPPORT OF AGREEMENT
+30.1	The District and the Association agree that it is to their mutual benefit to encourage the resolution of
+differences through the development of this Agreement. Therefore, it is agreed that the Association and the District will support this Agreement.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+64
+ARTICLE 31	- SOLE AND ENTIRE AGREEMENT
+31.1	This Agreement concludes all collective bargaining between the parties hereto during the term hereof and constitutes the sole, entire and existing agreement between the parties hereto and supersedes all prior agreements and understandings, oral or written, express or implied, or practices, between the district and the Association or its unit members, and expresses all obligations and restrictions imposed on each of the respective parties during its term.
+The District and the Association acknowledge that during the negotiations which resulted in this Agreement, they had the unlimited right and opportunity to make demands and proposals with respect to any subject or matter not removed by law from the area of collective bargaining, and that the understandings of that right and opportunity are set forth in this Agreement. The district and the Association voluntarily and unqualifiedly waive the right, and agree that the District and the Association shall not be obligated to bargain collectively with respect to any subject or matter whether or not specifically referred to or covered by this Agreement, including but by no means limited to, any subject or matter which under the Agreement is within the rights of the District to decide, even though such subjects or matters may not have been within the knowledge or contemplation of the District or the Association at the time they negotiated or signed this Agreement.
+ARTICLE 32	- SAVINGS
+32.1	If any provision of this Agreement or any application thereof to any unit member is held by the highest court of the State or by a federal court to be contrary to law, then such provisions or application will be deemed invalid, to the extent required by court decision, but all other provisions or applications shall continue in full force and effect.
+FOR THE District:
+Terry Walker, Director
+March 23, 2005
+Date
+FOR THE ASSOCIATION:
+Anne Caenn, President
+March 23, 2005
+Date
+ITA Agreement
+July 1, 2004 — June 30, 2007
+65
+ITA Agreement
+July 1, 2004 - June 30, 2007
+66
+ADDENDUM
+STATEMENTS OF MUTUAL RECOGNITION AND MUTUAL RESPONSIBILITY
+The negotiations process offers an opportunity to delineate a variety of potential problems and agree on directions for guidance in areas where specific contractual solutions would be restrictive. Both parties acknowledge that the best solution to a problem is often specific to the situation, but that both teachers and administrators could benefit from reference to mutually derived positions for clarification purposes in deriving such a solution.
+The following statements are offered as a common ground between the parties to serve as guidance for teachers and administrators. They are presented here for ease of reference purposes only. The entire contents of this Addendum are not a part of the contract and are not subject to the grievance process allowed for in contractual disputes.
+CLASS SIZE
+It is recognized by all educators that optimal learning is facilitated by class sizes lower than the norms within the State of California. However, the high cost of significantly lowering class size is also recognized. Although there are contractual limitations on class size, instances may occur where student enrollment in a class may be excessively high. At grades 7-12, the District will make every attempt to limit class size to 35. Special circumstances may occur when a teacher and the school agree to exceed the contractual limit of 187 students per teacher. In such cases, additional support, if any, will be provided within the resources of the school.
+In such cases where it may be extremely difficult to monitor individual student progress or meet individual student needs, it is the mutual responsibility of the teacher and the administrator to develop a plan which will allow for the maximum learning and teaching to occur.
+DISTRICT POLICY
+The Board of Education acknowledges it's obligation to propose and establish policies for the District, to direct the administration to disseminate such policy to the school sites and the Association, and to manage the District in accordance with such policies.
+ASSOCIATION MEMBERSHIP INFORMATION
+ITA recognizes its responsibility to make information available to teachers regarding the benefits of membership in the Association.
+The IUSD Human Resources Department acknowledges its responsibility to provide new employees with information concerning their membership in the Association.
+NUTRITION BREAK
+ITA Agreement
+July 1, 2004 — June 30, 2007
+67
+It is mutually recognized that between the start of the school day and their lunch time, teachers may require a break to attend to personal needs. Administrators and teachers acknowledge their obligation to work with one another in consideration of such needs.
+PARTIAL CONTRACTS
+In accepting or seeking a partial contract assignment, a teacher may reasonably expect that the non-instructional obligations attached to such an assignment will be commensurate with the percentage proportion of the contract itself.
+In the matter of secondary class loads, the administrator will attempt to assign a student load commensurate with the percentage portion of the teacher's contract.
+Administrators, with input from the teacher, will also attempt to keep the time that the teacher is required to be on the site commensurate with the percentage portion of the teacher's contract by assigning consecutive periods wherever possible.
+SECONDARY CLASS PREPARATIONS
+Both parties recognize that the secondary teacher's class assignments generally require no more than three different preparations. It is also recognized that in cases where teachers are involuntarily assigned to more than three preparations, their teaching effectiveness may be reduced. It is therefore agreed that every attempt will be made to keep a secondary teacher's class preparation at a maximum of three.
+K-6 MEDIA SPECIALISTS
+It is recognized as desirable that each school site employ a certificated library/media specialist to enhance the school's educational program.
+TEACHER SAFETY
+It is recognized by both parties that teachers have a responsibility to be prudent in the time and location they spend at the school site beyond the instructional or work day. Both parties also recognize the District's responsibility to provide facilities which ensure teacher and student safety.
+PERSONNEL FILES
+It is recognized that every employee has the right to examine his/her files upon request in accordance with the Education Code. The teachers recognize their responsibility to respect the time and task constraints of the personnel employee to whom the request is made. The Human Resources Office acknowledges the desire of the teachers to inspect their files as promptly as is practicable.
+MODIFIED DAY
+Each site votes on modified day in the spring. Decision will be binding if it is expenditure neutral.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+68
+APPENDIX "A"
+Certificated Salary Schedule 2004-2005
+Step	Emerg	BA + Cred	45	60	75
+1	$	35,619	$	42,205	$	42,840	$	43,860	$	46,320
+2	$	37,516	$	42,840	$	43,860	$	45,900	$	48,057
+3	$	39,414	$	43,860	$	45,900	$	48,450	$	49,841
+4	$	41,311	$	45,390	$	48,450	$	50,490	$	51,918
+5	$	43,244	$	47,405	$	51,000	$	52,122	$	53,995
+6	$	43,244	$	48,803	$	52,122	$	53,142	$	56,071
+7	$	43,244	$	50,880	$	53,142	$	55,080	$	58,148
+8	$	43,244	$	53,860	$	55,080	$	57,120	$	61,393
+9	$	43,244	$	53,860	$	57,375	$	59,187	$	64,508
+10	$	43,244	$	53,860	$	57,375	$	63,612	$	65,936
+11	$	43,244	$	53,860	$	57,375	$	63,612	$	66,974
+12	$	43,244	$	53,860	$	57,375	$	63,612	$	68,013
+13	$	43,244	$	53,860	$	57,375	$	63,612	$	69,051
+14	$	43,244	$	53,860	$	57,375	$	63,612	$	69,051
+15	$	43,244	$	53,860	$	57,375	$	63,612	$	69,051
+16	$	43,244	$	56,493	$	59,768	$	66,247	$	70,608
+17	$	43,244	$	56,493	$	59,768	$	66,247	$	70,608
+18	$	43,244	$	56,493	$	59,768	$	66,247	$	70,608
+19	$	43,244	$	59,127	$	62,405	$	68,880	$	72,166
+20	$	43,244	$	59,127	$	62,405	$	68,880	$	72.166
+21	$	43,244	$	59,127	$	62,405	$	68,880	$	72,166
+22	$	43,244	$	61,762	$	65,038	$	72,552	$	74,762
+23	$	43,244	$	61,762	$	65,038	$	72.552	$	74,762
+24	$	43,244	$	61,762	$	65,038	$	72,552	$	74,762
+25	$	43,244	$	64,396	$	67,671	$	74,149	$	77,389
+26	$	43,244	$	64,396	$	67,671	$	74,149	$	77,389
+27	$	43,244	$	64,396	$	67,671	$	74,149	$	77,389
+28	$	43,244	$	69,238	$	72,514	$	78,991	$	82,230
+Supermax Salary = 28 years with Master's/Doctorate Degree and 75 units = $84,093 Master's or ‘Doctorate = $1,863
+EXPERIENCE:
+Teachers entering the district may be given salary credit for recognized prior K-12 experience not to exceed 12 years and 75 semester units of graduate work above the bachelors degree.** Course work must be reasonably related to present and/or future assignments within the district. Unit credit is granted in blocks of fifteen (15) semester units. Experience for contracted years of service will be considered if 75% or more of the year was taught on 75% or greater contract.
+LIMITATIONS:
+There are limits on experience without the specified minimum number of graduate units, completed and verified.
+*A doctoral stipend will be limited to a degree in education or the specific teaching discipline and will be awarded in lieu of a Masters degree.
+** =^= denotes maximum entry based on units completed.
+PROFESSIONAL GROWTH (fix continuing employees).
+To be acceptable for advancement in classification, course work must meet the following criteria:
+•	Shall meet the guidelines for credit courses."
+•	Be taken at an accredited college or university. Must be upper division or graduate level over and above bachelors degree. Lower division work in the field of the teachers assignment is acceptable toward an advanced degree or credential applicable to the district
+•	Shall be recommended course work to improve competencies.
+Other course work will be given consideration by the Professional Growth Committee upon written request.
+For unit advancement on the Salary Schedule see IUSD Guidelines.
+TRANSCRIPT—DATE:
+It shall be the responsibility of the employee to submit verification of completed work and/or degrees. Official transcripts from your college or university must be received in Human Resources by November 15th.
+ACCEPTABILITY OF COLLEGE OR UNIVERSITY UNITS
+(for initia I placemen t):
+Only upper division or graduate level course work (acceptable towards an advanced degree or credential) over and above a bachelors degree will be considered for initial placement.
+MISCELLANEOUS:
+Hourly = $28.00
+Share = S25.09
+Substitute (daily) = $95.00
+Substitute (long term) = $105.00
+after 15 days in same assignment, retroactive to first day
+Indudes 2.0% eft 2/1/05
+Board approved 4/5/05
+Irvine Unified School District
+IT A Agreement
+July 1, 2004 —June 30, 2007
+69
+Certificated Salary Schedule 2005-2006
+Ste p	E me rg	BA + Cred	45	60	75
+O	$	36,331	$	43,049	$	43,697	$	44,737	$	47,247
+1	$	38,266	$	43,697	$	44.737	$	46,818	$	49,019
+2	$	40,202	$	44,737	$	46,818	$	49,419	$	50,838
+3	$	42,137	$	46,298	$	49,419	$	51,500	$	52,956
+4	$	44.108	$	48,353	$	52,020	$	53,164	$	55,075
+5	$	44,108	$	49,779	$	53,164	$	54,205	$	57,193
+6	$	44,108	$	51,897	$	54,205	$	56,182	$	59,311
+7	$	44,108	$	54,937	$	56,182	$	58,262	$	62,621
+8	$	44,108	$	54,937	$	58,523	$	60,370	$	65,798
+9	$	44,108	$	54,937	$	58,523	$	64,884	$	67,255
+1 O	$	44,108	$	54,937	$	58,523	$	64,884	$	68,314
+1 1	$	44,108	$	54,937	$	58,523	$	64,884	$	69,373
+1 2	$	44,108	$	54.937	$	58,523	$	64,884	$	70,432
+1 3	$	44,108	$	54,937	$	58,523	$	64,884	$	70,432
+1 4	$	44.108	$	54,937	$	58,523	$	64,884	$	70,432
+1 5	$	44,108	$	57,623	$	60,963	$	67,572	S 72,021
+1 6	$	44,108	$	57,623	$	60,963	$	67,572	$	72,021
+1 7	$	44,108	$	57,623	$	60,963	$	67,572	$	72,021
+1 8	$	44,108	$	60,310	$	63,654	$	70,257	$	73,609
+1 9	$	44,108	$	60,310	$	63,654	$	70,257	$	73,609
+20	$	44.108	$	60,310	$	63,654	$	70,257	$	73,609
+21	$	44,108	$	62,997	$	66,338	$	74,003	$	76,257
+22	$	44,108	$	62.997	$	66,338	$	74,003	$	76,257
+23	$	44,108	$	62,997	$	66,338	$	74,003	$	76,257
+24	$	44,108	$	65.684	$	69,024	$	75,632	$	78,937
+25	$	44,108	$	65,684	$	69,024	$	75,632	$	78,937
+26	$	44.108	$	65,684	$	69,024	$	75,632	$	78,937
+27	$	44,108	$	70,623	$	73,964	$	80,571	$	83,874
+Supermax Salary = 28 years with Master's/Doctorate Degree and 75 units = $8S,774 Master's or *Doctorate = $1,900
+EXPERIENCE:
+Teachers entering the district may be given salary credit for recognized prior K-12 experience not to exceed 12 years and 75 semester units of graduate work above the bachelors degree.** Course work must be reasonably related to present and/or future assignments within the district. Unit credit is granted in blocks of fifteen (15) semester units. Experience for contracted years of service will be considered if 75% or more of the year was taught on 75% or greater contract
+LIMITATIONS:
+There are limits on experience without the specified minimum number of graduate units, completed and verified.
+*A doctoral stipend will be limited to a degree in education or the specific teaching discipline and will be awarded in lieu of a Masters degree.
+**-------denotes maximum entry based on units completed.
+ACCEPTABILITY OF COLLEGE OR UNIVERSITY UNITS
+(for initia I placemen t):
+Only upper division or graduate level course work (acceptable towards an advanced degree or credential) over and above a bachelors degree will be considered for initial placement.
+PROFESSIONAL GROWTH (for continuing employees):
+Tobe acceptable for advancement in classification, course work must meet the following criteria:
+•	Shall meet the guidelines for credit courses.'
+•	Be taken at an accredited college or university. Must be upper division or graduate level over and above bachelors degree. Lower division work in the field of the teacher s assignment is acceptable toward an advanced degree or credential applicable to the district
+•	Shall be recommended course work to improve competencies.
+Other course work will be given consideration by the Professional Growth Committee upon written request.
+For unit advancement on the Salary Schedule see IUSD Guidelines.
+TRANSCRIPT—DATE:
+It shall be the responsibility of the employee to submit verification of completed work and/or degrees. Official transcripts from your college or university must be received in Human Resources by November 15th.
+MISCELLANEOUS:
+Hourly = $28.00
+Share = S26.09
+Substitute (daily) = $95.00
+Substitute (long term) = $105.00
+after 15 days in same assignment, retroactive to first day
+Indudes 2.0% eff. 7/1/05
+Board approved 4/5/05
+Irvine Unified School District
+ITA Agreement
+July 1, 2004 - June 30, 2007
+70
+APPENDIX "B"
+ITA and IUSD representatives will meet to research and develop recommendations on Incentive Pay Formulas. No later than the first calendared negotiations date, the parties will meet to receive those recommendations. The parties agree to meet and calendar Incentive Pay Formulas as part of the scheduled negotiations.
+I.	Incentive Pay Formula (K-8)
+A teacher shall receive one share per student worked with based on a six-week commitment, 1 and 1/2 hours per day (outside of the student day), working on a four- day week with a maximum of eighteen weeks.
+II.	Incentive Pay Formula (9-12)
+Description		Formula	
+1.	Length of Activity (determined by weeks of season in Blue Book)	2 shares per week of season (20 week maximum)	
+2.	Number of Assistants, Direct Work with Head (Paid Adult)	5 shares per Assistant	
+3.	Budget Responsibility, ASB and School	10 - 499	= 500 - 2,999	= 3,000 - 5,999	= 6,000 or more	=	5 shares 10 shares 12 shares 15 shares
+4.	Number of Games	Less than 10	= 10 or more	=	10 shares 20 shares
+5.	Revenue-Producing Capabilities (Gate Receipts) Average per Game	0 - $249	= $250 - $499	= $500 or more	=	5 shares 10 shares 20 shares
+6.	Number of students participating per paid adult assistant	1 to 20	= 20 or more	=	15 shares 20 shares
+7.	Public Exposure	Intensity Level: Little or None	= Normal/Typical	= Above Normal	= High	=	0 shares 5 shares 10 shares 20 shares
+8.	No In-School Time	1 share per week per length of activity	
+ITA Agreement
+July 1, 2004 — June 30, 2007
+71
+Description		Formula
+	for Activity in Season	
+	Teaches at Site (Determined by weeks of season in Blue Book)	2 shares per week per length of activity for Varsity Head Coach
+9.	Teachers who hold two coaching positions. (Paid on June 1 warrant.)	60 shares
+10.	Coaches who are certificated and teach in the District, or who are classified and/or long-term substitute teachers and work at the site where they teach. Varsity Head Head Weight Varsity Assistant Weight Assistant	22 shares 12 shares 12 shares 7 shares
+11.	A coach who serves as a Varsity Head Coach for both boys' and girls' sports in the same season	15 shares
+12.	A coach who coaches for C.I.F. post season receives for each week, an additional per week portion of his/her stipend (Formula Items 1-11) based on Length of Activity.	
+	a)	These extra shares are to be paid on the June 1 warrant. All C.I.F. extra-duty pay will be submitted at one time.	
+	b)	Varsity Assistants who worked directly with the athletes during the season, and who work during post-season competition, will also receive these bonuses.	
+Head weight level coaches (other than Varsity), and assistant varsity coaches use 70% of the head varsity coaches' sharesfor Steps 1-7. Bonuses for Steps 8, 9,10, & 11 are added to this figure.
+Assistant weight level coaches use 70% of the head weight level coach for Steps 1-7 and then add any bonuses for Steps 8, 9, & 10.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+72
+Athletic Director receives 5% more than highest paid coach on his/her staff. Athletic Trainer receives 70% of Boys' Athletic Director.
+ITA Agreement
+July 1, 2004 — June 30, 2007
+73
+Agreements Relative to Interpretation of Incentive Pay Formula (9-12) in APPENDIX "B" of the Teacher Contract
+The Incentive Pay Formula is designed primarily for use with the computation of Head Coach stipends, and not with other non-athletic activity assignments.
+1.	Length of Activity
+Length of season is based on the current C.I.F. Blue Book dates. In the event a season extends over a vacation period, those weeks are counted, if the team either practices or performs during the vacation period. This factor does not include post-season CIF weeks (see #12).
+2.	Number of Assistants, Direct Work with Head (Paid Adult)
+Number of assistants refers strictly to the category of coach called Varsity Assistant (those coaches who work directly with the Varsity Head Coach during practices and games). Not included in this category are the heads of J.V. teams, nor assistants at the lower levels.
+3.	Budget Responsibility, ASB and School
+Included in this category is budget for which the head coach is responsible. Such items might include equipment, supplies, cleaning of uniforms reconditioning of equipment, scouting costs, and film service.
+Not included in this category are coaching stipends, the cost of officials, nor other items typically handled by the athletic directors.
+4.	Number of Major Performances
+The number of major performances is defined in the C.I.F. Blue Book. We included only those performances that occurred during the season.
+5.	Revenue-Producing Capabilities (Gate) Average per Performance
+Revenue refers to total gate receipts for home events only, regardless of the school's share of the gate receipts.
+6.	Number Participants per Paid Adult Assistant
+As in Item #2, Paid Adult Assistant refers to paid varsity assistants only.
+The number of participants refers to those participants during the season, not participants during practices outside the regular season. A clean way to determine the number of season participants is to count the names on the list of the program printed for the season's first performance. Divide number of participants by number of paid adult assistants.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+74
+7.	Public Exposure
+Public exposure refers to a combination of factors, such as the number of spectators at performances, relationships to parent booster clubs, and general school/community pressure to win. As a point of departure, the following represents the typical ratings of intensity:
+Golf, Cross Country, Tennis	=	0 Shares
+Non-specified	=	5 Shares
+Girls' Volleyball, Girls' Basketball, Wrestling	=	10 Shares
+Football, Boys' Basketball, Baseball	=	20 Shares
+8.	No In-School Time for Activity
+No in-school time means that the staff member does not receive a coaching period as one of the five periods normally awarded to teaching.
+9.	Teachers Who Hold Two Supplementary (Coaching Only) Positions
+Supplementary positions refers to those positions for which a stipend is awarded; and is awarded only one time (maximum) per person, per school year.
+10.	Coaches Who Coach at the Site Where They Teach
+In the case of classified personnel or long-term substitute teachers, this item also applies to full-time personnel who coach at the site where they work.
+This includes teachers, but excludes classified personnel, who work in the district, but who teach or work at a site different from the one where they coach.
+11.	Varsity Head of both Boys and Girls
+This can happen only in the sports of cross country, track and swimming.
+12.	Post-Season Weeks
+This works on the same basis as a per diem for extra work, except this is per week. For example, if the length of season is 10 weeks, and the coaches stipend (Items 1-11) is $1,000, the coach would receive for each additional week, the result obtained by dividing the stipend ($1,000) by the weeks/season (10), or $100.00.
+ITA Agreement
+July 1, 2004 — June 30, 2007
+75
+APPENDIX "C"
+Examples of Duties Outside Instructional Time
+The following non-exhaustive list of duties beyond instructional time is provided here for reference purposes only. It is understood that in providing these examples, no attempt has been made to list all of the possible duties in any one category.
+Category 1:	Instructionally Related Duties (See 10.2.1)
+►	Lesson Plans
+►	Evaluation of student performance
+►	Goals and Objectives
+►	Informal counseling of assigned students
+►	Providing individual re-teaching or extra help
+►	Making routine parent contacts
+►	Parent Teacher Conferences
+►	Responding to requests for information on District, State or school forms
+►	Attending Open House and Back-to- School Night
+►	Providing Lesson Plans for substitute teachers
+►	Attendance at Graduation ceremonies
+►	Attendance at Staff meetings
+►	Departmental meetings
+►	Individual Educational Plans (IEP) meetings
+►	SIP monitoring/planning meetings
+►	Chapter I meetings for funded staff
+►	Bilingual meetings for funded staff
+Category 2: K-8 Supervision Duties (See 10.2.2)
+►	Yard/Playground Duty
+►	Bus Duty
+►	Bike Duty
+►	General Campus Supervisors
+Category 3: Adjunct Duties (See 10.2.3)
+ELEMENTARY	MIDDLE	HIGH SCHOOL
+Site Council(s)	Site Council(s)	Site Council(s)
+Site Curriculum Committee	Site Curriculum Committee	Site Curriculum Committee
+Site Standing Committee	Site Standing Committee	Site Standing Committee
+Site Ad Hoc Committee	Site Ad Hoc Committee	Site Ad Hoc Committee
+Student Activities	Dances	Dances
+School Activities	Athletic/Supervision Activities Student Activities School Activities	Athletic Supervision/Activities Student Activities School Activities Letters of Recommendation (20 original letters = one ADE)
+76
+ITA Agreement
+July 1, 2004 - June 30, 2007
+APPENDIX "D"
+TEACHER TRANSFER RATING SHEET
+DIRECTIONS:
+Please complete the form below for each teacher requesting transfer to a vacant position in your school and for each outside applicant (if appropriate) following these guidelines.
+1.	Develop Site Specific Criteria (andpost on vacancy notice)
+2.	Assign points to each criteria (seniority must be equal to the criteria with the highest point value.)
+3.	Interview candidates and review file data as needed.
+Review Team Members:
+4.	Complete the form and submit to Human Resources with employment recommendation.
+Name of Candidate__________________________________________________________________
+Position Vacancy School
+Criteria	Point Value Assigned	Point Value Credited
+Seniority Notes:		
+Prepared on/Training Notes:		
+ITA Agreement
+July 1, 2004 — June 30, 2007
+77
+Criteria	Point Value Assigned	Point Value Credited
+Recommendation/Evaluation Notes:		
+Interpersonal Skills Notes:		
+Recent Assignment/Experience Notes:		
+Instructional Expertise Notes:		
+Contribution to School Program Notes:		
+Balanced/Program & Staff Notes:		
+Observation/Personal Interview Notes:		
+Other (i.e., site specific criteria listed on posting) Notes:		
+TOTAL POINTS	100	
+Summary Comments:
+78
+IT A Agreement
+July 1, 2004 - June 30, 2007
+Signature School/Program
+Date_________________________________
+APPENDIX "E"
+ADVISEMENT WORKLOAD
+The factors listed below impact teacher workload and therefore are relevant to the load limit provision in the Agreement between IUSD and ITA. To qualify for the Entitlement, the Advisement program at a given school must meet or exceed the specified level for each load factor under Preparation, and Conferences.
+Level I Level II
+Preparation
+- # of scheduled minutes/wk	>120	>60
+- # of meeting times/wk for defined curriculum	> 4	> 2
+- # of defined curriculum days/yr	>100	>50
+Conferences - assigned school-wide individual/yr	2	>1
+- exceptional student	Yes	Yes
+assessment groups - parent conference upon request	Yes	Yes
+Entitlement - advisee count under load	1.0	0.5
+limit provision - conference time provision	Yes	Yes
+- augmented staffing allocation - not to exceed	0.3*	0
+*requires accountability
+Curriculum Day
+A curriculum day is an Advisement period that is devoted to the defined Advisement curriculum. Silent Sustained Reading is not considered to be part of the defined curriculum.
+Proportionate Impact
+The Agreement between IUSD and ITA states that the class load "shall not include classes in instrumental and vocal music, industrial arts, vocational arts, physical education, and joint lectures or demonstrations." For those teachers whose assignment falls under the provision of the limit, but are less than 100%, the limit shall apply only to the specified classes plus advisees, and shall be the prorated portion of the student limit per instructional day. For example, if 4 of 5 class assignments (5 = full load) are in this category, the limit for this teacher for 4 classes plus advisees would be 4/5 of the class limit. (The fifth assignment does not affect the limit.)
+ADVISEMENT TIME
+Regularly scheduled Advisement (home base) time is considered part of the contractual teacher/student instructional time. Scheduled conference time is not considered instructional time relative to this provision.
+ITA Agreement
+July 1, 2004 — June 30, 2007
+79
+ITA Agreement
+July 1, 2004 - June 30, 2007
+80
+INDIVIDUAL PARENT CONFERENCE TIME
+Whenever school-wide individual parent conferences are scheduled, the school" s student classroom schedule shall be reduced by at least the equivalent of the minimum average conference minutes.
+Minimum average conference minutes are determined by multiplying the size of the average homeroom/Advisement group (classroom, homeroom, Advisement) by the number of minutes of the minimum allowable schedule parent conference. For example, if the school" s average Advisement group is 25 students and the minimum scheduled parent conference is 20 minutes, then the school" s student classroom schedule shall be reduced by at least 500 minutes (25 X 20).
+DW/km 2/98
+IT A Agreement
+July 1, 2004 — June 30, 2007
+81
+APPENDIX "F"
+1f Irvine Unified School District
+CERTIFICATED APPLICATION FOR LEAVE OF ABSENCE
+Name --------------------------------------------------------------------------- Type of Leave: Maternity	Q_________
+Assignment _____________________________________________________________________ Child Care	□---------%
+Personal	□ ___%
+School or Department ----------------------------------------------------------- Medical	Q _ _ _
+Family (FML) □
+Leave requested from  20___________________________________________ through  20
+Address while on leave: Phone No. 
+Explain in detail the purpose of leave: (If for pregnancy leave, attach copy of statement signed by physician, IUSD Form PS/1)
+In requesting the above leave, I agree to conform to the provisions of applicable regulations of the Irvine Unified School District. I understand that failure to notify Human Resources of my intention to return to work on or before 90 days prior to termination of my leave will be considered a resignation unless advance arrangements for extensions are made (see reverse side - Dates).
+Note: Working fewer than 75% of the days in any school year will result in loss of service credit for salary schedule advancement.
+Signature Date
+Recommendation:	Approval	Disapproval
+Date Principal/Department Head 
+Date Human Resources Administrator 
+Date Board of Education________________________________________________________________________________________________________
+10/02 Rev.
+ITA Agreement
+July 1, 2004 - June 30, 2007
+82
+APPENDIX "G"
+Surplus Situation, 7-12
+Example:
+Department with Surplus_________________________________________________
+No. Of Surplus Positions F.T.E.
+Teachers	Seniority Date	Credential	Extra Service Pay	Total
+				
+Exemptions:
+Teachers	Rationale
+	
+Teachers to be Transferred:
+Ref
+Article 8.6.2
+ITA Agreement
+July 1, 2004 — June 30, 2007
+83
+Neg. Agreement ITA/IUSD
+IT A Agreement
+July 1, 2004 - June 30, 2007
+84
+APPENDIX "H"
+IRVINE UNIFIED SCHOOL DISTRICT BENEFITS MANAGEMENT BOARD (BMB) GUIDELINES
+A.	The charge of the IUSD Benefits Management Board (BMB) is to:
+•	Design, manage and monitor the employee health benefits package
+•	Receive and review monthly reports of benefits usage, to be provided by the District consultant
+•	Receive an annual actuarial study prior to April 15th of each year (District administration’s responsibility)
+•	Receive and provide input to/from the respective associations regarding program changes, modifications, and/or contribution amounts for the upcoming year
+•	Recommend contribution rates for the District
+•	Set contribution rates for family coverage
+•	Set contribution rates for employees
+•	Make plan modifications
+•	Allocate excess funds from the insurance reserve to offset increased costs, so long as the remaining reserve balance is sufficient to cover 4.5 months of expenditure reserves
+•	The District is responsible for the daily administration of the benefits program
+B.	The BMB shall include representation from all District employee groups. The composition of the BMB shall be:
+•	Irvine Teachers Association (ITA) - 4 representatives
+•	Classified School Employees Association (CSEA) - 3 representatives
+•	Irvine Administrators Association (IAA) - 1 representative
+ITA Agreement
+July 1, 2004 — June 30, 2007
+85
+•	Administrative Assistants to the Principals (IAAP) - 1 representative
+•	Irvine Supervisory Association (ISA) - 1 representative
+The District shall be represented by the IUSD Deputy Superintendent/CFO Designees.
+C.	The annual actuarial study shall:
+•	Be received prior to April 15 of each year
+•	Serve as the basis for BMB recommendations for plan changes, modifications and/or recommendations for contribution amounts for the upcoming year
+D.	The BMB Decision-Making process, as it relates to plan changes and modifications, shall be:
+(1)	Consensus; if consensus cannot be reached, section (2) applies.
+(2)	If consensus is not reached the following is an example of the weighted vote for employee groups.
+Example
+The voting structure is weighted with each employee group maintaining a percentage of the weighted vote. For example, if ITA represents 1,400 employees out of a total of 1,900 employees, their voting weight would be 74 percent; if CSEA had 400 of these same 1,900 employees, they would have approximately 21 percentage weight in the voting, etc.
+(3)	The total employee representation group shall have one vote and the District shall have one vote.
+E.	BMB Meetings
+BMB meetings will take place a minimum of once a quarter, with financial statements forwarded to BMB members on a monthly basis. If additional meetings are necessary, this can occur at the request of any BMB group.
+NOTE: Per BMB direction, the following group convened on 9/4/02 to develop the BMB Guidelines:
+Steve Garretson - ITA, Terry Walker - ITA, Janelle Cranch - CSEA, Isaac Indich -CSEA, Vern Medeiros - District (Revised: 9-23-02)
+ITA Agreement
+July 1, 2004 - June 30, 2007
+86
+APPENDIX "I"
+Memorandum of Understanding between the Irvine Unified School District and the Irvine Teachers Association
+For the 2004-05, 2005-06, and 2006-07 school years:
+In recognition of the differential workload, Kindergarten and grades 4-6 teachers shall be awarded onsite release days as follows, based on student enrollment as reported 30 days prior to the end of the reporting period.
+# of students on K, 4-6 teacher roster
+29-30
+31-32
+33 +
+On-site release days
+1
+2
+3
+Terry Walker, Director
+For the District
+Date: March 23, 2005
+_	Anne Caenn, President
+For the Association
+Date: March 23, 2005________________
+ITA Agreement
+July 1, 2004 — June 30, 2007
+87

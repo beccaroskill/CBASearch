@@ -1,0 +1,1149 @@
+﻿Ohio Highway-Heavy Municipal-Utility State Construction
+Agreement
+Between
+Laborers’ District Council of Ohio Laborers’ International Union of North America
+CM
+CM
+and
+Ohio Contractors Association Labor Relations Division
+May 1, 2010 through April 30, 2013
+7703_ICS_COVERS.indd 1
+7/27/10 10:52 AM
+Laborers’ District Council of Ohio
+Affiliate of
+Laborers’ International Union of North America
+152 Dorchester Square Westerville, Ohio 43081-7300
+Phone: (614) 895-9002
+Fax:	(614)	895-8082
+Ralph E. Cole
+Business Manager
+Kenny Holland
+Secretary-Treasurer
+7703_ICS_COVERS.indd 2
+7/27/10 10:52 AM
+Table of Contents
+Article
+Page
+Preamble...........................1-2
+I	Scope ...............................3-4
+II	Definitions .........................5-8
+III	Working Conditions.................... 9
+Drug and Alcohol Abuse Programs ..9-11
+OSHA and Safety.....................11
+IV	Union Security ....................18-19
+V	Pre-Job Conference ................20-21
+VI	Wage Deductions ..................... 22
+VII	Contractors Dues .................... 23
+Administration Fee ................ 23
+VIII	Wage Rates........................... 24
+IX	Wage Fringes Program...............25-28
+X	Shifts, Work - Week, Holidays .....29-31
+XI	Pay Day.............................. 32
+XII	Lockouts & Strikes .................. 33
+XIII	Grievances and Arbitration ........34-35
+XIV	Savings & Separability ............. 36
+XV	Subcontractors ...................... 37
+XVI	Duration ............................ 38
+XVII	Geographical Scope................... 39
+Exhibit A (Classifications)......40-42
+Exhibit B (Wages & Fringes)......43-56
+Exhibit C (Use of Apprentices)...57-59
+Exhibit D (Jurisdiction of Local Unions) .61
+Exhibit E (Local Unions & Officers) ...62-65
+Acceptance of Agreement ..................67-73
+i
+heavy-highwaytable of contents2010.indd 1
+7/27/10 10:59 AM
+2010
+January	February	March
+Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa 12	123456	123456
+3	4	5	6	7	8	9	7	8	9	10	11	1213	7	8	9	10	11 1213
+10	11	12	13	14	15	16	14	15	16	17	18	1920	14	15	16	17	18 1920
+17	18	19	20	21	22	23	21	22	23	24	25	26 27	21	22	23	24	25 26 27
+24	25	26	27	28	29	30	28	28	29	30	31
+31
+April	May	June
+Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa 123	1	12345
+4	5 6 7	8 9	10	2	3	4	5	6	7 8	6	7 8	9	101112
+11	1213 14	151617	9	1011	12	131415	13	141516	171819
+18	19 20 21	22 23	24	16	17	18	19	20	21 22	20	21 22	23	24 25 26
+25	26 27 28	29 30	23	24	25	26	27	28 29	27	28 29	30
+30 31
+July	August September
+Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa 123	1234567	1234
+4	5 6	7	8	9 10	8	9	10	11	121314	5	6	7	8	9	1011
+11	12 13	14	15	16 17	15	16	17	18	19	20 21	12	13	14	15	16	17	18
+18	19 20	21	22	23 24	22	23	24	25	26	27 28	19	20	21	22	23	24	25
+25	26 27	28	29	30 31	29	30	31	26	27	28	29	30
+October November December
+Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa 12	123456	1234
+3	4 5	6	7 8	9	7	8	9	10	11	1213	5	6	7	8	9	1011
+10	11 12	13	14 15	16	14	15	16	17	18	1920	12	13	14	15	16	17 18
+17	18 19	20	21 22	23	21	22	23	24	25	26 27	19	20	21	22	23	24 25
+24	25 26	27	28 29	30	28	29	30	26	27	28	29	30	31
+31
+
+heavy-highwaytable of contents2010.indd 2
+7/27/10 10:59 AM
+2011
+January	February	March
+Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa 1	12345	12345
+2	3 4	5	6	7 8	6	7	8	9	101112	6 7 8	9	101112
+9	1011	12	131415	13	1415	16	171819	13 141516	171819
+16	17 18	19	20	21 22	20	21	22	23	24 25 26	20 21 22	23	24 25 26
+23	24 25	26	27	28 29	27	28	27	28 29	30	31
+30 31
+April	May	June
+Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa 12	1234567	1234
+3 4	5	6	7 8	9	8	9	10	11	121314	5	6 7	8	9	1011
+10 11	12	13	14 15	16	15	16	17	18	19	20	21	12	13 14	15	16	17	18
+17 18	19	20	21 22	23	22	23	24	25	26	27	28	19	20 21	22	23	24	25
+24 25	26	27	28 29	30	29	30	31	26	27 28	29	30
+July	August September
+Su Mo Tu	We	Th	Fr	Sa	Su	Mo	Tu	We Th	Fr Sa	Su	Mo Tu	We	Th	Fr	Sa
+12	123456	123
+3 4 5	6	7	8	9	7	8	9	10 11	1213	4	5 6	7	8	9	10
+10 11 12	13	14	15	16	14	15	16	17 18	1920	11	12 13	14	15	16	17
+17 18 19	20	21	22	23	21	22	23	24 25	26 27	18	19 20	21	22	23	24
+24 25 26	27	28	29	30	28	29	30	31	25	26 27	28	29	30
+31
+October November December
+Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa 1	12345	123
+2	3 4	5	6 7 8	6	7 8 9	101112	4	5	6	7	8 9	10
+9	1011	12	131415	13	1415 16	171819	11	1213	14	151617
+16	17 18	19	20 21 22	20	21 22 23	24 25 26	18	19	20	21	22 23	24
+23	24 25	26	27 28 29	27	28 29 30	25	26	27	28	29 30	31
+30 31
+iii
+heavy-highwaytable of contents2010.indd 3
+7/27/10 10:59 AM
+2012
+January
+Su Mo Tu We Th Fr Sa 1234567 8 9 10 11 121314 15 16 17 18 192021 22 23 24 25 26 27 28 29 30 31
+February
+Su Mo Tu We Th Fr Sa 1234
+5 6 7 8 9 1011 12 13 14 15 161718 19 20 21 22 23 24 25 26 27 28 29
+March
+Su Mo Tu We Th Fr Sa 123
+4 5 6 7 8 9 10 11 1213 14 151617 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+April
+Su Mo Tu We Th Fr Sa 1234567 8 9 10 11 121314 15 16 17 18 192021 22 23 24 25 26 27 28 29 30
+May
+Su Mo Tu We Th Fr Sa 12345
+6 7 8 9 1011 12 13 1415 16 171819 20 21 22 23 24 25 26 27 28 29 30 31
+June
+Su Mo Tu We Th Fr Sa
+12
+3456789
+10 11 12 13 141516
+17 18 19 20 21 22 23
+24 25 26 27 28 29 30
+July
+Su Mo Tu We Th Fr Sa 1234567 8 9 10 11 121314 15 16 17 18 192021 22 23 24 25 26 27 28 29 30 31
+August
+Su Mo Tu We Th Fr Sa 1234
+5 6 7 8 9 1011 12 13 14 15 161718 19 20 21 22 23 24 25 26 27 28 29 30 31
+September
+Su Mo Tu We Th Fr Sa
+1
+2345678 9 1011 12 131415 16 17 18 19 2021 22 23 24 25 26 27 28 29 30
+October
+Su Mo Tu We Th Fr Sa
+123456
+7 8 9 10111213 14 15 16 17 18 1920 21 22 23 24 25 26 27 28 29 30 31
+November
+Su Mo Tu We Th Fr Sa 123
+4 5 6 7 8 9 10 11 1213 14 151617 18 19 20 21 22 23 24 25 26 27 28 29 30
+December
+Su Mo Tu We Th Fr Sa
+1
+2345678 9 1011 12 131415 16 17 18 19 2021 22 23 24 25 26 27 28 29 30 31
+iv
+heavy-highwaytable of contents2010.indd 4
+7/27/10 10:59 AM
+2013
+January	February	March
+Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa 12345	12	12
+6 7 8 9	1011	12	3	4	5	6	7	8	9	3	4	5	6	7 8 9
+13 1415 16	171819	10	11	12	13	141516	10	11	12	13	141516
+20 21 22 23	24 25	26	17	18	19	20	21	22	23	17	18	19	20	21 22 23
+27 28 29 30	31	24	25	26	27	28	24	25	26	27	28 29 30
+31
+April	May	June
+Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa
+123456	1234	1
+7 8 9	10111213	5	6	7	8	9 1011	2	3	4	5	6	7	8
+14 15 16	17	18	1920	12	13	14	15	16 17 18	9	10	11	12	13	14	15
+21 22 23	24	25	26 27	19	20	21	22	23 24 25	16	17	18	19	20	21	22
+28 29 30	26	27	28	29	30 31	23	24	25	26	27	28	29
+30
+July	August September
+Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa
+123456	123	1234567
+7 8 9 10	11	1213	4	5	6	7	8 9	10	8	9	10	11	121314
+14 15 16 17	18	1920	11	12	13	14	15 16	17	15	16	17	18	1920 21
+21 22 23 24	25	26 27	18	19	20	21	22 23	24	22	23	24	25	26 27 28
+28 29 30 31	25	26	27	28	29	30	31	29	30
+October November December
+Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa
+12345	12	1234567
+6	7 8	9	1011	12	3	4 5	6 7 8	9	8	9 10	11	121314
+13	14 15	16	17 18	19	10	11 12	13 14 15	16	15	16 17	18	1920	21
+20	21 22	23	24 25	26	17	18 19	20 21 22	23	22	23 24	25	26 27	28
+27	28 29	30	31	24	25 26	27 28 29	30	29	30 31
+v
+heavy-highwaytable of contents2010.indd 5
+7/27/10
+10:59 AM
+vi
+heavy-highwaytable of contents2010.indd 6
+7/27/10 10:59 AM
+2010-2013
+OHIO HIGHWAY - HEAVY - MUNICIPAL - UTILITY STATE CONSTRUCTION AGREEMENT Between
+LABORERS’ DISTRICT COUNCIL OF OHIO An Affiliate of the
+LABORERS’ INTERNATIONAL UNION OF NORTH AMERICA
+And
+OHIO CONTRACTORS ASSOCIATION LABOR RELATIONS DIVISION
+1.	THIS AGREEMENT is made and entered into by and between the Labor Relations Division of the Ohio Contractors Association as the recognized bargaining representative of its members (hereinafter referred to as CONTRACTORS) as a party of the first part and the Laborers’ District Council of Ohio of the Laborers’ International Union of North America (hereinafter called the UNION), as party of the second part.
+2.	It is specifically understood that said Labor Relations Division of the Ohio Contractors Association and its Negotiating Committee shall not be liable hereunder for any reason whatsoever, including, but not limited to, any acts of its subscribing members.
+3.	It is specifically understood and agreed that the Laborers’ District Council of Ohio, as an entity, separate and apart from the Local Unions of which it is comprised, shall not be liable hereunder for any reason whatsoever, including, but not limited to, acts of Local Unions which are members of the Laborers’ District Council of Ohio.
+4.	It is further understood and agreed that the liabilities of the Contractors subscribing hereto and the Local Unions subscribing hereto shall be several and not joint.
+1
+heavy-highway2010.indd 1
+7/29/10 8:57 AM
+5.	(a) The said Labor Relations Division of the Ohio Contractors Association agrees to furnish to the Union a list of all present members subscribing to the terms within the Agreement. The Labor Relations Division of the Association will certify promptly to the Union, Contractors who affiliate subsequent to the date of this Agreement and such LRD members shall be covered and bound by the terms of this Agreement. The Union may request a meeting with such new member and the OCA-LRD representative and such meeting will be held within five (5) days of the request.
+(b)	The Union may extend this Agreement to Contractors who are not members of the Labor Relations Division of the Ohio Contractors Association and such Contractors shall be bound by the terms and provisions of this Agreement. The extension Agreement to be signed by individual Contractors will be known as “Acceptance of Agreement” form and shall be attached to this Agreement. The Union will give a copy of the individually signed “Acceptance of Agreement” form to the OCA-LRD promptly. Such Contractors shall be referred to as the “Contractor.”
+(c)	This Agreement covers the entire understanding between the parties hereto. No oral or written rule, regulation or understanding which is not mentioned or referred to herein shall be of any force or effect upon any party hereto.
+2
+heavy-highway2010.indd 2
+7/29/10 8:57 AM
+ARTICLE I SCOPE
+6.	The purpose of this Agreement is to determine the hours, wages and other conditions of employment, and to adopt measures for the settlement of differences and maintaining a cooperative relationship so that the Contractors may secure sufficient capable employees, and the employees may have as much continuous employment as possible without interruption by strikes, lockouts, or other labor troubles.
+7.	All members of the Ohio Contractors Association, Labor Relations Division, and any person, firm or corporation who as a Contractor becomes signatory to this Agreement shall be bound by all terms and conditions of this Agreement as well as any further amendments which may be negotiated by the Labor Relations Division of the Ohio Contractors Association, and the Union, and shall be bound to make Health and Welfare, Pension, Training and Apprenticeship, (LECET) Laborers-Employers Cooperation & Education Trust and LIUNA Tri-Fund contributions and any other payments as required for all work performed within the work jurisdiction outlined in Article II of this Agreement.
+8.	(a) This Agreement shall cover “Highway Construction,” “Airport Construction,” “Heavy Construction,” “Railroad Construction,” “Sewer, Waterworks, Utility Construction,” “Industrial and Building Site,” “Sewage Plant, Waste Plant, and Water Treatment Facilities Construction,” “Pumping Station Construction,” “Ethanol Plant Construction,” “Municipal, County and State Facility Pool Construction,” “Hazardous Waste Removal,” and “Lead Abatement” work that any Contractor or Subcontractor performs in the State of Ohio (eighty-eight (88) counties) and the three (3) counties of Boone, Campbell and Kenton in the State of Kentucky, and which comes within the jurisdiction of the Laborers’ District Council of Ohio, an affiliate of the Laborers’ International Union of North America, as set forth in Exhibit A.
+3
+heavy-highway2010.indd 3
+7/29/10 8:57 AM
+(b)	Any Contractor who is or becomes bound by the terms of this Agreement by its membership in the Labor Relations Division of the Ohio Contractors Association or who becomes bound as an individual Contractor signatory to this Agreement shall be bound by all terms and conditions of the Agreement or subsequent Agreements until or unless proper termination notice is given.
+(c)	The Contractor will make assignments of work to employees represented by the Union in accordance with the jurisdiction recognized to be that of L.I.U.N.A., by mergers and amalgamation of the International Union.
+4
+heavy-highway2010.indd 4
+7/29/10 8:57 AM
+ARTICLE I I DEFINITIONS
+9.	“Contractors” or “Subcontractors” where used in this Agreement means any person, firm or corporation, bound by the terms of this Agreement, who or which is a member of the Ohio Contractors Association, Labor Relations Division, and any person, firm or corporation, who as a Contractor becomes signatory to this Agreement and is engaged in either “Highway Construction,” “Airport Construction,” “Heavy Construction,” “Railroad Construction,” “Sewer, Waterworks and Utility Construction,” “Industrial and Building Site,” “Sewage Plant, Waste Plant, Water Treatment Facilities Construction,” “Pumping Station Construction,” “Ethanol Plant Construction,” “Municipal, County and State Facility Pool Construction,” “Hazardous Waste Removal,” and “Lead Abatement” work, as hereinafter defined within the jurisdiction.
+9.	(a) “Union,” where used in this Agreement, means Laborers' District Council and its affiliates. Affiliates or Local Unions shall be considered parties to this Agreement and bound by its terms and conditions.
+10.	The word “work” when used herein means “Highway Construction,” “Airport Construction,” “Heavy Construction,” “Railroad Construction,” “Sewer, Waterworks and Utility Construction,” “Industrial and Building Site,” “Pumping Stations, Ethanol Plants, and Municipal, County and State Facility Pool Construction,” “Sewage Plant, Waste Plant, Water Treatment Facilities Construction,” “Hazardous Waste Removal” and “Lead Abatement,” work as hereinafter defined coming within the jurisdiction of the Union as set forth in Exhibit A.
+11.	(a) “Highway Construction” work is defined as work performed to provide a facility to accommodate vehicular or pedestrian traffic (except as limited herein) and includes the construction of all streets, roads, expressways, turnpikes, bridges, drainage structures, grade separations, parking lots, rest areas, alleys, sidewalks, guardrails, highway lighting, signal lighting, sound barriers, bridge rails and fences.
+5
+heavy-highway2010.indd 5
+7/29/10 8:57 AM
+(b)	“Airport Construction” work is defined as including site preparation, grading, paving, drainage, fences, runway lighting, driveways, parking areas, and similar work incidental to the construction of airfields.
+(c)	“Heavy Construction” work is defined as including excavation for underground garages, grade separations, foundations, abutments, retaining walls, shafts, tunnels, subways, elevators, drainage projects, flood control projects, reclamation projects, reservoirs, water supply projects, water development projects, hydroelectric development, utility transmission lines, including right-of-way clearing, locks, dams, dikes, levees, revetments, channels, channel cutoffs, intakes, dredging projects, jetties, breakwater, docks, harbors, irrigation systems and all municipal and utility construction.
+(d)	“Railroad Construction” work is defined as including grading, drainage, placing of rails, crossties, ballast and the construction of bridges, and other incidentals for railroads, street railway construction projects and rapid transit system projects.
+(e)	“Sewer, Waterworks and Utility Construction” work is defined as including construction of all storm sewers, sanitary sewers, supplying and distributing waterlines, sewer rehabilitation, gaslines, telephone and television conduit, underground electrical lines, and similar utility construction. Main waterline and trunk sewers connecting waterworks and/ or sewage disposal plants are included within this definition.
+(f)	“Industrial and Building Site” work is defined as the clearance and excavation, and including sidewalks, roads, streets, parking lots, bridges, drainage, sewer and waterlines within property line but outside of the building proper.
+(g)	“Sewage Plant, Waste Plant, Water Treatment Facilities Construction, Pumping Stations, Ethanol Plant Construction, and Municipal, County and State Facility Pool Construction” (except packaged plants) shall be all work in construction of pumping stations, waste and sewage disposal plants, incinerator plants, water treatment plants, filtration plants and solid waste disposal plants.
+6
+heavy-highway2010.indd 6
+7/29/10 8:57 AM
+All work involved in laying and installation of process piping outside of a building, structure or other work, regardless of the material used or substance conveyed.
+All work involved in laying and installation of process piping both outside and within sewage filtration, water treatment plants, and ethanol plants, including, but not limited to, mechanical and pressurized pipe within.
+All work in connection with the construction of swimming pools, including but not limited to, the installation and demolition of water filtration systems, at municipal, county and state facilities.
+(h)	“Hazardous Waste Removal” This work shall include, but not be limited to, clearing brush and trees, installing fence and erosion curtains, building dikes with sandbags and/ or soil and lining with plastic materials, site clearing such as removal of steel, wood, trash, etc.; and locating buried lines, sewers, and drums, and establishing their condition; overpacking, applying absorbents to leaking material, handling and rigging of all materials and general clean-up of leaked materials and chemicals; opening sample drums, labeling and transferring bulk liquids from drums into other containers; decontaminating all tools, equipment and personnel on site; lining truck beds with plastic, and handling pumps and accessories necessary to drain or fill ponds, lagoons, and slurry walls.
+(i)	“Lead Abatement” The demolition of structures or parts thereof containing lead and the disposal, including the erection and removal of any structure or structures for the removal, including the encapsulation and/or containment of lead. The abatement process includes removing lead paint by means of dry scraping, power sanding or scraping, heat guns, and by chemical removers.
+7
+heavy-highway2010.indd 7
+7/29/10 8:57 AM
+(j)	“Cathodic Protection Installations” This work will include all construction and demolition work in conjunction with cathodic protection including, but not limited to, all testing, welding, cleaning (by any mode or method); drilling of holes, installation of anchors and electrical wire, mounting of rectifiers, running conduit and pulling wires to connect to DC side of rectifier; installation of conductive paste, spray or roll-on all necessary coatings or paint, installing anodes and conductive gels; loading, unloading, transporting, handling, sizing, fitting and placement of all materials as well as operating any and all necessary equipment for same.
+12.	This Agreement and its terms and conditions do not apply to building construction work performed by a Contractor. If a dispute arises concerning the application of this Agreement and whether the classification of building construction shall be applied to the work involved, then the dispute shall be referred for final and binding determination in accordance with the procedures established in Article XIII of this Agreement.
+13.	Employees shall not include professional engineering personnel, clerical employees, time-keepers, superintendents, assistant superintendents nor any supervisory personnel, but shall include all other persons employed by the Contractor in the performance of any of the various classes of work covered by this Agreement, coming within the jurisdiction of the Union as set forth in Exhibit A, excepting where a Contractor finds that he needs an exclusive Laborer foreman.
+8
+heavy-highway2010.indd 8
+7/29/10 8:57 AM
+ARTICLE I I I
+WORKING CONDITIONS
+14.	Employees shall be free to select the Contractor for whom they desire to work, and the Contractor shall be free to select the employees whom he desires to employ, subject to the terms of this Agreement.
+15.	Employees are to be paid the wages applicable to the work performed without any discount and in return the Contractors are to receive a fair and honest day’s work.
+16.	(a) The Contractor is to be the sole judge as to the satisfactory performance of work by an employee and may discharge for just cause any employee whose work is unsatisfactory or who fails to observe the safety precautions, substance abuse policies, or other rules and regulations prescribed by the Contractor for health, safety and protection of his employees. However, no employee shall be discharged for defending the rights of any employee under the terms of this Agreement.
+(b)	Further, no employee covered hereby may be discharged by a Contractor for refusing to cross a legal picket line, which picket line has been authorized and sanctioned by proper authorities. No jurisdictional picket line shall be recognized.
+DRUG AND ALCOHOL ABUSE PROGRAMS
+(c)	The parties recognize the problems that drug and alcohol abuse have created within the construction industry and agree on implementing drug and alcohol abuse prevention programs, that will work toward maintaining a safe workplace, free of drugs and alcohol.
+Drug Testing: The Contractor and the Union are committed to a policy that promotes safety in the work place, employee health, and well being. In consideration of this policy the Union and the Contractor agree that any employee found to be under the influence of, in possession of, engaged in the distribution of drugs or alcohol on the job site shall be subject to disciplinary action, up to and including immediate discharge.
+9
+heavy-highway2010.indd 9
+7/29/10 8:57 AM
+Within two (2) weeks of reporting to the job site, each new employee may be scheduled for a drug test. Employees using a prescription drug which may impair mental or motor function shall inform their supervisor in writing of such drug use.
+Employees’ involvement with drugs and alcohol can adversly affect job performance and employee morale. In the construction industry the consequences of drug or alcohol use or influence while on the job site can be disastrous. The Contractor and Union, therefore, agree to the following policy to insure all employees of a safe and efficient job site free from the effect of drug and alcohol use or influence.
+All job sites or work areas are subject to massive drug screening or random drug screening. Any employee who is involved in an on-the-job accident resulting in injury to a person or property, or whose observed behavior raises a reasonable suspicion of probable cause of illegal drug or alcohol use impairment while on the job site, may be required as a condition of continued employment to submit to a test for alcohol and/or illegal drug use which impaired the employee’s ability to safely perform his/her duties on the job site. Such tests usually involve a sampling of the employee’s blood, urine, or breath. Any employee who is asked to submit to such a test will be required to sign a consent form. If an employee who is asked to submit to a test refuses to do so, or refuses to sign the necessary consent form, that employee will be subject to disciplinary action up to and including discharge.
+All testing will be done by a reliable, established laboratory. If this initial test screen result indicates positive findings, further testing of the same sample must be done to confirm the original findings before the laboratory can report positive findings. The confirmation test will be conducted by an independent, accredited National Institute of Drug Abuse or College of American Pathology Laboratory and utilize the more scientific Gas Chromatography/ Mass Spectrometry examination (GC/MS). The results of all tests will be kept confidential between the employee and the Contractor.
+10
+heavy-highway2010.indd 10
+7/29/10 8:57 AM
+The employee shall be paid his/her regular hourly wages and fringes for the time required for drug testing provided results are negative.
+If the GC/MS test results are positive, the employee may be granted a leave of absence for the purpose of drug and alcohol rehabilitation. If the employee is eligible, such rehabilitation programs are covered under the Laborers’ International Union of North America Health and Welfare Program providing the employee confines himself/herself to a twenty-four (24) hour licensed rehabilitation medical facility.
+The employee shall be removed from the Contractor’s job site. Upon presentation of certification of the employee’s successful completion of the drug/alcohol rehabilitation program, the employee may be restored to his/her original job with the Contractor.
+If the employee was reinstated he/she shall for the next succeeding twelve (12) month period, present to the company representative monthly certification of negative drug/alcohol test results; failure to do so will result in denying the employee the right to maintain his/her availability to be sent to a job site or if working, to be removed from work.
+OSHA AND SAFETY
+(d)	In accordance with applicable OSHA safety & health standards requiring safety training and education, the Union shall make available to each Union member the 16-hour STP “Safety Training Program” certified by the U.S. Department of Labor in its training and apprenticeship program. The Contractors shall by company policy encourage or require the employee to obtain all training available. Laborers’ District Council shall provide all members training in recognition, avoidance and prevention of unsafe conditions in its Training and Apprenticeship Program. It shall be the responsibility of the member to take advantage of the opportunity to receive safety training and Laborers’ District Council shall not be held liable for his or her failure to do so.
+(e)	Effective May 1, 2011 and thereafter all Laborers dispatched
+11
+heavy-highway2010.indd 11
+7/29/10 8:57 AM
+to and/or employed on a project are required to have successfully completed the 16-hour Safety Training Passport (STP) program or an OSHA-approved 10-hour construction safety training program. Comparable safety training shall be renewed and updated every five (5) years or the Laborer shall be considered unqualified. Verification or valid, updated training must be presented to the employer upon dispatch, hire, or request. The Union and Contractors are in mutual agreement that should application of this provision cause an unreasonable financial or scheduling burden on the Laborers' Training & Apprenticeship Center, as determined by the Director, the provision shall be temporarily waived.
+17.	The number of men to be employed is at the sole discretion of the Contractor, and the fact that certain classifications and rates are established does not mean that the Contractor must employ employees for any one or all such classifications or to man any particular piece of equipment that happens to be on the worksite, unless the Contractor has need for such employee. However, this does not relieve the Contractors from the responsibility of properly manning any piece of equipment that is placed in operation. Subject to the terms of this Agreement, the Union will be the sole bargaining representative of all employees employed on the work covered by this Agreement.
+18.	(a) During the term of this Agreement, employees covered hereby may be offered the opportunity by the Contractor to accept employment on any other project of the Contractor coming within the terms and conditions of this Agreement, but said employment, if accepted by the employee, is subject to the provisions of this Agreement.
+(b)	An employee to be eligible for transfer under this provision must be a member in good standing of the Union under the terms of this Agreement and such employee is responsible for furnishing proof thereof at the time of transfer.
+(c)	An employee transferred under this provision who is not a member of the Union in good standing will be immediately removed from the job by the Contractor upon written notification from the Union.
+12
+heavy-highway2010.indd 12
+7/29/10 8:57 AM
+19.	A Contractor shall be designated as a local Contractor when working in the area of jurisdiction of the Local Union which has jurisdiction in the county where the Contractor’s home office is located, or where the contractor has established a divison or regional office which has been in place for at least one (1) year.
+Such local Contractor shall employ Laborers using the following procedures:
+(a)	Any Laborer Union member in good standing, who has worked for the Contractor during the past year may be hired or recalled.
+(b)	Local Contractors hiring additional help will obtain at least fifty percent (50%) of such additional employees through the Local Union.
+20.	A Contractor shall be designated as a Traveling Contractor when working on a project located outside of the jurisdiction defined for a local Contractor.
+(a)	Traveling Contractor shall be further defined and shall use the following hiring and transfer procedure.
+(b)	Any Traveling Contractor who is not performing the types of work specified in Paragraph 21 will man jobs on the following basis:
+1st man - Transferred employee
+2nd man - Hired through local Union
+3rd man - Transferred employee
+4th man - Transferred employee
+Additional workmen needed thereafter will be on the basis of two (2) employees secured through the local Union and one (1) transferred employee.
+Any Traveling Contractor who does not transfer employees from another Local Union jurisdiction as provided herein, shall hire any additional employees through the Local Union. However, if a local Union is not able to furnish qualified applicants, the Contractor may hire employees directly from any source.
+13
+heavy-highway2010.indd 13
+7/29/10 8:57 AM
+21.	Contractor’s crews engaged in the performance of the following types of work: curb, gutter, median-strip paving, guardrail work, fencing installations, sign installations, seeding and landscaping, asphalt and deck paving, electrical work, shall man crews as follows:
+1st man - Transferred employee
+2nd man - Hired through Local Union
+3rd man - Transferred employee
+4th man - Transferred employee
+5th man - Hired through Local Union
+Thereafter, employees shall be employed on a 50-50 basis between the transferred employees and those hired through the Local Union, with the sixth (6th) employee to be a transferred employee.
+22.	Specialty Contractors: Curb and gutter, concrete paving, tunneling and boring, fence installation, sign installation, seeding, landscaping, paint striping, delineators, guardrail, electrical, crack sealing, slurry seal, under drain, and water blasting. Bridge work one million five hundred thousand dollars ($1,500,000.00) or less.
+1st employee transferred
+2nd employee transferred
+3rd employee transferred
+4th employee hired from Local Union
+Thereafter employees shall be employed on a 50-50 basis between the transferred employees and those hired through the Local Union, with the 5th employee to be a transferred employee.
+(a)	Reporting pay shall be two (2) hours and actual time worked; beyond two (2) hours to include an hour’s pay for any portion of an hour worked.
+(NOTE: The Counties of Cuyahoga, Geauga and Lake are excluded from Sections 22 and 22a).
+(b)	Time and one-half shall be paid for all hours worked over forty (40) hours in a week, where not in violation of federal and
+14
+heavy-highway2010.indd 14
+7/29/10 8:57 AM
+state statute. (Note: paragraph (b) is not applicable to workers temporarily hired through the local union hall.)
+23.	The Contractor shall furnish ample protective clothing, namely: raincoats, rainsuits, knee boots or over, headgear, etc., when employees are required to work in mud, concrete or inclement weather or any other wet conditions. Boots shall be issued to the individual for the duration of the job and shall not be reissued until they have been thoroughly sterilized and dried. Protective clothing issued shall be chargeable to the employee if lost or damaged beyond ordinary wear and deterioration.
+Sanitation measures shall be taken and wearing apparel disinfected that is subject to spreading disease.
+24.	When special shoes and/or other safety apparel or equipment is required by a Contractor, it shall be provided by the Contractor at no expense to the employee.
+(a) The furnishing of tools or equipment shall not be a condition of employment. When special safety equipment is required by circumstances under which the employee is working (including communication devices) it shall be the responsibility of the Contractor to furnish same at no cost to the employee.
+25.	A Contractor shall not be hindered or prevented from using any type or quantity of machinery, tools, or appliances and may secure materials or equipment from any market or source he sees fit, except prison-made goods.
+26.	“Tunnel Work” (Compensation for Travel Within Tunnel) The individual Contractor shall pay employees covered by this Agreement working within the tunnel, adits, or shafts, on a portal to portal basis as follows: The hours of employment of such employee shall commence at the portal of the tunnel, adit or shaft at which he is directed by the individual Contractor to report for work on his shift and shall end at such portal.
+If a change house is located more than 1250 feet from a portal, adit or shaft, then the time of work shall start, for pay purposes, at the change house.
+15
+heavy-highway2010.indd 15
+7/29/10 8:57 AM
+27.	This Agreement is not to apply to any operations or business in which any Contractor engages except that set forth in Article II and/or that coming within the jurisdiction of the Union as described in Exhibit A, herein.
+28.	The authorized representative of the Union may visit jobs during working hours but must not hinder or interfere with the progress of the work.
+29.	The Business Manager in whose jurisdiction a job or project is located shall have the right to appoint a Steward from the Contractor’s or Sub-Contractor’s employees on said job or project or to send a Steward to the Contractor when an additional employee or employees are employed. The Steward shall be subject to the same terms of employment as any other employee. In recognizing the Union’s desire to have representation on the job or project when Laborers are employed, the Steward will be afforded the opportunity to work overtime, provided the Steward does not replace an other Laborer from previously assigned duties.
+The duties of the Steward shall be to see that this Agreement is strictly adhered to by both parties, protect the work jurisdiction as outlined in this Agreement, and represent the Union on jurisdictional problems that arise.
+The Contractor will notify the appropriate Local Union Business Manager forty-eight (48) hours prior to laying off a Union Steward, except no notice will be required for discharge for such offenses as drunkenness on the job, theft, substance abuse, assaulting another person, etc. When it becomes necessary to make a permanent lay-off, the Steward, provided he is qualified to perform the available work, will be the last man laid off.
+The Steward, in case of an employee being injured on a project, shall see that the employee’s family is properly notified and his belongings taken care of, unless the Contractor assumes the responsibility. The Steward shall not be made to suffer any loss of pay when discharging these responsibilities.
+The Union will notify the Contractor of the Steward so appointed.
+16
+heavy-highway2010.indd 16
+7/29/10 8:57 AM
+On a project operating two or more shifts, at the option of the Business Manager, he will appoint a Steward for each shift; however, said Steward shall act in his assigned capacity for his specific shift only.
+30.	On election days employees shall be allowed not to exceed two (2) hours’ time without pay for the purpose of voting, providing the employee has given notice to the Contractor or his agent and has made arrangements not less than twenty-four (24) hours in advance to receive such time off.
+31.	Employees leaving work for treatment by a physician because of a job injury will be paid for the eight (8) hour work day, providing the attending physician certifies in writing the employee is unable to return to work due to the injury received on the job site.
+32.	The Contractor shall furnish salt tablets and cold water in sanitary containers with sanitary drinking cups. Water shall be available on the job not later than one hour after starting time.
+Adequate sanitary toilet facilities on each project shall be provided as required by state and federal code.
+Flag persons shall be entitled to adequate relief for the use of toilet facilities.
+33.	The Contractor agrees to carry Ohio State Workers’ Compensation Insurance and Kentucky Workers’ Compensation Insurance for the three counties covered herein for the protection of the employees. Upon request of the Union, the Contractor shall show evidence of his Workers’ Compensation Insurance. The Contractor shall carry Unemployment Insurance as required by Ohio or Kentucky and show proof of such coverage.
+17
+heavy-highway2010.indd 17
+7/29/10 8:57 AM
+ARTICLE I V
+UNION SECURITY
+34.	The Contractor recognizes and acknowledges that the Laborers’ District Council of Ohio of the Laborers’ International Union of North America, is the sole representative of all employees in the classification of work under its jurisdiction covered by this Agreement, for the purposes of collective bargaining. The Union recognizes the Ohio Contractors Association, Labor Relations Division, as the sole bargaining agent for those members they represent, for work as defined therein for the area defined herein and recognizes the Ohio Contractors Association, Labor Relations Division, as negotiating agent for its members for all work defined in Article II for the area outlined in this Agreement.
+35.	Subject to the provisions and limitations of the National Labor Relations Act, as amended, all present employees who are members of the Union on the effective date of this Agreement shall continue their membership in the Union for the duration of this Agreement to the extent of paying an initiation fee and membership dues uniformly required as a condition of acquiring or retaining membership in the Union. All employees who are not members of the Union and all persons who hereafter become employees shall become members of the Union on the eighth (8th) day following the beginning of their employment or on the eighth (8th) day following the effective date of this Agreement, whichever is later, and shall remain a member of the Union, to the extent of paying an initiation fee and the membership dues uniformly required as a condition of acquiring or retaining membership in the Union, whenever employed under and for the duration of this Agreement.
+The Contractor will not discriminate in hiring of employees and will conform to laws with respect to hiring. It is understood the Contractor shall have the right to reject any employee referred for hire by the Union. Any employee referred by the Union to the Contractor at the Contractor’s request and then not put to work shall be paid reporting pay unless the employee is not capable or qualified to perform the work required.
+18
+heavy-highway2010.indd 18
+7/29/10 8:57 AM
+36.	It is a condition of this Agreement, agreed to by both the Union and the Contractor, to provide equal opportunity in employment for all qualified persons, and to prohibit discrimination in employment because of race, creed, color, sex, age or national origin. There shall be full compliance with all applicable federal and state statutes, regulations, rules and orders of appropriate federal or state agencies having jurisdiction over the subject matter of discrimination in employment.
+37.	The Union may notify the Contractor in writing of any default on the part of an employee to pay his initiation fee and membership dues, and if the employee has not paid his initiation fee and/or membership dues within seven (7) days from the receipt of written notice, the Contractor shall discharge such employee, provided membership was available under the same terms and conditions generally applicable to other members. Further, all employees who fail to maintain their Union membership as above provided shall be discharged by the Contractor.
+19
+heavy-highway2010.indd 19
+7/29/10 8:57 AM
+ARTICLE V
+PRE-JOB CONFERENCE
+38.	It is agreed that upon the request of either party, a pre-job conference must be held at least five (5) days prior to commencing work with a Contractor representative in attendance who is in charge of the project. When a Contractor is awarded a contract of $500,000 or more, the Contractor will notify the Union at the time he is awarded such job. It is further agreed that the Union may request and hold a pre-job conference with a Contractor on an individual Union basis wherein the following items will be discussed:
+(a)	The Contractor will advise the Local Union representative of the Contractor’s requirements of necessary employees in the classifications of work under this Agreement and the Local Union will determine and advise the Contractor of the ability of the Local Union to fulfill such requirements when requested.
+(b)	Work Schedules.
+(c)	Questions of jurisdiction and assignment of work.
+(d)	The Contractor agrees that wherever possible at such pre-job conference he will notify the Union having jurisdiction over the project of any subcontracts let by the Contractor, the names of the Subcontractors, and the nature of the work to be performed by the Subcontractors. The Union may request a Subcontractor to meet with the Union prior to commencing work on a project, if the Subcontractor did not attend the original pre-job conference for the project.
+(e)	The question of a shelter house for Laborers shall be discussed and agreed upon.
+It is understood and agreed that no agreement may be made at the pre-job conference which will change, modify, or abrogate the Labor Agreement in effect between the two parties hereto.
+39.	A pre-job conference form will be used at the pre-conference. Copies of the signed forms furnished by the Union will be sent to
+20
+heavy-highway2010.indd 20
+7/29/10 8:57 AM
+the Laborers’ District Council by the Union business manager and to the Ohio Contractors Association, Labor Relations Division, and to the representative of the Contractor within five (5) days from the date of the conference.
+40.	If the Union requests in writing a Contractor to hold a pre-job conference as outlined above, and the Contractor fails to hold the pre-job conference, the Union may withhold its labor from the Contractor until provisions of this Article are complied with.
+41.	In consideration of the covenants herein contained the Union agrees, when requested, to provide sufficient, able and efficient employees to properly perform the various classifications of labor required in the work under this Agreement.
+21
+heavy-highway2010.indd 21
+7/29/10 8:57 AM
+ARTICLE V I WAGE DEDUCTIONS
+42.	(a) The Contractor agrees to deduct Union dues, the original initiation fee, any legal assessment, and/or deduction for any employee who voluntarily and individually authorizes the deduction in writing on forms furnished by the Union. Since this Agreement covers the jurisdiction of more than one local Union, the Union agrees that it will furnish the Contractor with a standardized authorization form which will allow deductions to be made throughout the jurisdiction of this Agreement. Such deductions will be forwarded by the Contractor to the Secretary-Treasurer of the Local Union having jurisdiction where the work is being performed by employees covered by this Agreement, not later than the fifteenth (15th) day of the month following the month in which the work is performed. The Union agrees to notify the Ohio Contractors Association, Labor Relations Division, of any increase or decrease in the amount of the required deduction for each Local Union at least thirty (30) days prior to the effective date of said change.
+(b)	Contractors covered by this Agreement shall also deduct from the wages of employees who have authorized the same, District Council working dues assessment in the amount of thirty-five cents ($.35) for each hour worked and shall remit the same so deducted with the Fringe Benefit contributions to the Laborers’ Fringe Benefit Office, P.O. Box 71-1883, Columbus, Ohio 43271, monthly, together with an accurate list of employees from whose wages said working dues were deducted and the amounts applicable to each employee. Such deductions shall be forwarded no later than the fifteenth (15th) day of the month following the month in which the work is performed.
+(c)	Any member of the Union who is working in any capacity, including superintendents, assistant superintendents, or any supervisory personnel AND who is contributing to the fringe benefit funds shall pay the Laborers' District Council dues and appropriate working dues in the geographical area in which he/she is working.
+22
+heavy-highway2010.indd 22
+7/29/10 8:57 AM
+ARTICLE VII CONTRACTORS CONSTRUCTION ASSOCIATION DUES
+43. Each Contractor bound by this Agreement shall pay for the Contractors Construction Association dues fourteen cents ($.14) per hour for each hour worked by employees of the Contractors who are working within the bargaining unit therein. Such payments by check shall be made payable to the Ohio Contractors Association. Such checks shall be transmitted with the Health and Welfare payments provided herein or transmitted directly to the Ohio Contractors Association no later than the fifteenth (15th) day of the month immediately following the calendar month in which the work was performed. Reporting Forms for the Contractors Construction Association dues will be provided by the Ohio Contractors Association.
+(a)	Each Contractor bound by this Agreement shall pay the Ohio Construction Information Association fund for five cents ($.05) per hour for each hour worked by employees of the Contractor who are working within the bargaining unit therein. Such payments shall be transmitted with the Health & Welfare payments provided herein or transmitted directly to the Ohio Contractors Association no later than the fifteenth (15th) day of the month immediately following the calendar month in which the work was performed.
+Administrative Fee
+(b)	Each Contractor bound by this Agreement who is not an OCA member shall pay an administrative fee of eight cents ($0.08) per hour for each hour worked by employees of the Contractor who are working within the bargaining unit herein. Such payments shall be transmitted with the fringe payments provided herein or transmitted directly to the Ohio Contractors Association no later than the fifteenth (15th) day of the month immediately following the calendar month in which the work was performed.
+The Union shall have no participation or control of any kind or degree whatever nor shall the Union be connected in any way whatever for the Contractors Construction Association dues.
+23
+heavy-highway2010.indd 23
+7/29/10 8:57 AM
+(c)	It is futher understood and agreed by and between the parties that the Contractors Construction Association, or its duly authorized representative shall have the right, on written notice, to audit the books and records of any party obligated under this Agreement to contribute thereto, with respect to all payment obligations due in accordance with Article VII.
+ARTICLE V I I I WAGE RATES
+44.	All employees employed under this Agreement shall be classified in accordance with Exhibit B, attached hereto, and no other classification of labor of any kind will be recognized. Any question relative to the classification of an employee will be settled by the Contractor and the Union representative and if they are unable to reach a mutual decision, the matter shall be referred to the Grievances and Arbitration Procedures. The Contractor may classify such employee pending the final decision of the Grievance Procedure.
+45.	Any employee may be temporarily shifted by the Contractor from one classification of work to another classification of work, provided the employee is capable of performing the work and is paid at the rate of wage for the classification worked.
+46.	Exhibit B covering wage rates and classifications attached hereto is made a part of this Agreement.
+24
+heavy-highway2010.indd 24
+7/29/10 8:57 AM
+ARTICLE I X
+WAGE FRINGE PROGRAMS
+47.	The fringe benefit provisions contained herein shall apply to all Contractor members of the Labor Relations Division of the Ohio Contractors Association, all Contractors who become signatory or bound by this Agreement and any other Contractor or Contractor groups who become a party to an Agreement covering the fringe benefit programs set forth herein.
+The Contractor and the Union recognize that they must confront many issues of mutual concern which are more susceptible to resolution through labor-management cooperation than through collective bargaining. The Contractor and the Union also recognize that workers as well as business benefit from labor-management cooperation. To seek resolution of these mutual concerns and to advance mutual interests through labor-management cooperative efforts, the Contractor and the Union agree to participate in the labor-management cooperation trust funds described herein known as the OLDC-OCA Cooperation and Education Trust Fund (LECET) and the LIUNA Tri-Funds which are established in accordance with Section 302(c) (9) of the Taft-Hartley Act.
+All Contractors bound hereby agree to be bound by the Agreement and Declarations of Trust, as amended, establishing the Pension Fund, Health and Welfare Plan, Ohio L.E.C.E.T., Training and Apprenticeship, and LIUNA Tri-Funds, copies of which all parties agree have been furnished to, and read by all Contractors bound hereby prior to execution of this Agreement. It is mutually agreed that the provisions of said Agreements and Declarations of Trust and any rules, regulations or plans adopted by the Trustees pursuant thereto shall become a part of this Agreement as though fully written herein. All Contractors bound hereby irrevocably designate the Contractor Trustees of said Funds and Plan, and their successors as their representatives for the purposes set forth in said Agreements and Declaration of Trust.
+Contractors shall pay fringe benefit contributions to the respective Funds on behalf of any employee performing work within the jurisdiction of this Agreement at the rates specified in Exhibit B for all hours worked.
+25
+heavy-highway2010.indd 25
+7/29/10 8:57 AM
+Notwithstanding the terms of any local union negotiated agreement, a Contractor signatory to this Agreement may make the fringe benefit contributions for its “key workers” to other Laborers' trust funds approved by the Union and designated by the “key workers” as their home trust fund in accordance with procedures established by the Union or its affiliated Funds and shall not be obligated to contribute for the “key workers” to any other trust funds, provided that the trust funds so designated agree to accept the contributions and credit the “key workers” for those contributions in accordance with the trust funds’ rules. The contributions shall be at the customary rates set by the home trust funds. The “key workers” for whom contributions are made in accordance with this section to their designated home trust funds shall look only to those trust funds for benefits.
+It is further understood and agreed by and between the parties that duly authorized representatives of any of said Trust Funds or Plan shall have the right, on written notice, to audit the books and records of any party obligated under this Agreement to contribute thereto, with respect to the hours worked by and wages paid to all employees upon whom the Contractor is obligated to make contributions.
+Reports of employees who have worked, the number of hours that they have been paid and such other data and information as may be required, and all contributions payable to the Funds or Plan shall be transmitted to the offices of the Funds or Plan no later than the fifteenth (15th) day of the month immediately following the calendar month in which the work was performed. If contributions are not received by the fifteenth (15th) day of the month, following the month in which the work was performed, the Contractor will be subjected to and agree to pay liquidated damages of ten percent (10%) plus one percent (1%) per month for each month the Contractor is delinquent to cover the additional cost and expenses of continuing administration during the period of delinquency, interest and any and all costs of collection including reasonable attorney fees.
+26
+heavy-highway2010.indd 26
+7/29/10 8:57 AM
+In the event said audit is refused, reports not furnished or said contributions are not paid, as aforesaid, the following remedies, in whole or in part, and in addition to all other remedies, either in law, in equity, by contract or authorized by the aforementioned Agreements and Declarations of Trust, shall be available.
+(a)	After the Trustees or the Agent of any Fund and Plan have given the delinquent Contractor twenty-four (24) hours written notice at the address shown in the records of the Funds, Plan or Union, the Union shall have the right to take such legal and lawful action as it may deem necessary until such delinquent payments are made, or said audit is permitted, such action including but not limited to the right to strike such Contractor for as long as the failure to make such contributions or audit continues, Article XII notwithstanding.
+(b)	In the event either the Union or the Trustees of any Fund or Plan may decide to utilize the grievance and arbitration procedure in this paragraph to collect delinquent contributions and liquidated damages, to enforce any audit, or to obtain any report, the following procedure shall apply.
+1. Unless the issue is resolved between the Contractor and the party giving notice within five (5) calendar days after deposit of written notice of delinquency and/or demand for audit and/or report in the United States mail, to the Contractor at the address shown in the records of the Funds, Plan or Union, such party may refer the matter to an arbitrator to be named by the Labor Relations Division of the Ohio Contractors Association, and by the Laborers’ District Council of Ohio of the Laborers’ International Union of North America, whose decision in writing shall be final and binding on all parties. In the event such parties are unable to choose an arbitrator within ten (10) days after written request therefore, the Union or the Trustees of any Fund or Plan may request an arbitrator according to the rules and regulations of the American Arbitration Association whose decision in writing shall be final and binding on all parties. The parties to the arbitration shall each bear one-half (1/2) of the total costs.
+48.	In no event shall the foregoing provisions relating to fringe benefits be subject to or suitable for grievance and arbitration under Article XIII of this Agreement.
+27
+heavy-highway2010.indd 27
+7/29/10 8:57 AM
+Any Contractor who is party to this Agreement will be required to post cash bond to guarantee Fringe Benefit contributions, initiation fees, dues, legal assessments and/or deductions, except OCA-LRD members will not be required to post bond unless said OCA-LRD member has been delinquent twice in any twelve month period and has been declared delinquent by action of the Board of Trustees of a Fringe Benefit Fund.
+The Laborers’ District Council of Ohio may inform the OCA-LRD that they consider an OCA-LRD member delinquent in Fringe Benefit contributions, initiation fees, dues, legal assessments and/ or deductions and therefore subject to the bond requirement. If the OCA-LRD questions that said OCA-LRD member is delinquent for payment of fringes, the two parties shall meet and resolve the problems by checking payments made to the Fringe Benefit programs.
+The amount of bond required for a Contractor will be determined by the number of Laborers employed and the following formula:
+1-	5 ... Employees covered herein - $ 10,000.00
+6 -20 ... Employees covered herein - $ 25,000.00
+21-40... Employees covered herein - $ 50,000.00
+When a Contractor who is required to post such bond, and such Contractor requires over forty (40) covered employees, said bond will be determined at the Pre-Job Conference but in no event shall the amount of such bond be less than the maximum amount noted above.
+The Union shall withhold services and shall engage in a strike against delinquent Contractors, or Contractors refusing to post the required bond, until arrangements are made to pay the delinquent payments and/or to provide the bond as required. Further, all Contractors who default in any of the aforementioned shall be assessed a liquidated penalty to cover the total cost of collection and legal and proper expenses resulting from said default.
+28
+heavy-highway2010.indd 28
+7/29/10 8:57 AM
+ARTICLE X
+SHIFTS, WORK-WEEK, HOLIDAYS
+49.	When one shift is worked, eight (8) hours of continuous employment, except for lunch periods, shall constitute a day’s work and five (5) days for forty (40) hours shall constitute a regular week’s work.
+50.	When two (2) shifts are worked, eight (8) hours shall constitute a day’s work for the first shift and eight (8) hours shall constitute a day’s work for the second shift.
+When three (3) shifts are worked, eight (8) hours shall constitute a day’s work for the first shift, seven and one half (7-1/2) hours with eight (8) hours pay shall constitute the second shift, and seven (7) hours work with eight (8) hours pay shall constitute the third shift.
+51.	Forty (40) hours shall constitute a week’s work. The workweek shall commence on Monday a.m. and shall end on Friday p.m. All work performed by an employee in excess of eight (8) hours in any one day, or over forty (40) hours in any one week, or on Saturday, shall be paid at the rate of one and one-half (1-1/2) times the regular rate of pay.
+51(A). A five (5) day work week Monday through Friday of eight (8) hours per day with Saturday as a voluntary make-up day due to inclement weather only at straight-time rate of pay may be utilized on all projects provided that it is not a violation of federal or state laws or regulations. Each Contractor shall elect same on each project and agrees that the Union shall be given notification forty-eight (48) hours in advance of any change. Such change shall continue for no less than five (5) working days unless approval is granted by the Union.
+In the event make-up time is to be worked, not less than an eight (8) hour day shall be scheduled.
+(NOTE: The counties of Cuyahoga, Geauga and Lake are excluded from Section 51(A).)
+29
+heavy-highway2010.indd 29
+7/29/10 8:57 AM
+51(B). A Contractor has the option of scheduling a four (4) day, ten (10) hour week at straight-time rates. A Contractor scheduling a ten (10) hour, four (4) day week, shall notify the Local Union and employees in whose territorial area the project is located by Wednesday of the week before the change in schedule. Employees reporting to work on Friday as a make-up day shall be scheduled for no less than eight (8) hours.
+Time and one half (1-1/2) shall be paid for all work in excess of ten (10) hours per day and for Saturday work. Employees not receiving forty (40) hours shall receive time and one half (1-1/2) after 10 hours of work per day.
+Employees shall not be required to work more than five (5) hours without one half (1/2) hour meal period. When employees work over five (5) hours without being provided with a one half (1/2) hour meal period, they shall receive one half (1/2) hour pay at the overtime rate. Mealtime may be staggered to meet job requirements.
+51(C). Where proj ect owners establish specifications or requirements that limit the days or hours in which work may be performed, or for safety reasons, the Contractor, after advance notice to the Union, may start the workweek after 6:00 P.M. on Sunday at straight-time rates. In applying the schedule, Sunday, P.M. will be considered Monday; the following Friday will be considered Saturday, (paid at time and one-half) and Saturday will be considered Sunday (paid at the double time). All premium pay provisions will apply for the sixth and seventh days as to Saturday and Sunday respectively. This schedule shall be applied by the week.
+52.	When Laborers are complementing other trades on premium and/or overtime work, they shall be compensated on the same overtime and/or premium conditions as the trade they are complementing.
+30
+heavy-highway2010.indd 30
+7/29/10 8:57 AM
+53.	For all time worked on Sunday, New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day, employees shall be paid at a rate of two (2) times the regular rate of pay.
+No work shall be done on Labor Day except in extreme emergencies.
+If any of the holidays mentioned above fall on Sunday, they shall be observed on the Monday following. If any holidays mentioned above fall on Saturday, they are not observed except when you are working that Saturday.
+54.	An employee who reports for work, without prior notification not to report, shall be paid two (2) hours’ pay for reporting. An employee who commences work and works in excess of two (2) hours, shall receive pay for the actual time worked, including an hour’s pay for any portion of an hour worked. In order to be paid the two (2) hours’ reporting pay, the employee must report to work at the starting time of the shift and be available for work and remain on the job site up to two (2) hours, unless released by the Contractor.
+31
+heavy-highway2010.indd 31
+7/29/10 8:57 AM
+ARTICLE X I PAY DAY
+55.	Employees shall be paid once a week on the pay day established by the Contractor. Pay checks and the following information will be given to the employees:
+(1)	Total hours worked
+(2)	Overtime hours (premium hours)
+(3)	Gross Pay
+(4)	All deductions listed
+For employees receiving a “field” pay check not listing deductions, the Contractor shall mail to the employee at the end of the pay period, a statement noting the deductions and reasons thereof.
+A Contractor whose pay checks are returned for reason of insufficient funds shall thereafter pay employees in cash or certified check. A check returned as a result of the bank’s error shall not cause the Contractor to make cash or certified check payments.
+56.	Employees laid off or discharged for any cause, except bad weather or lack of material, shall be paid in full immediately. The Contractor shall pay eight (8) hours at the straight-time rate to each laid-off employee for each scheduled work day that falls between the time of layoff or discharge until such time as final payment is made to the employees.
+57.	If an employee quits on his or her own accord, he or she shall wait for his or her pay until the next regular pay day.
+58.	Employees who report for their pay check on a day when there is no work because of weather or other causes shall not be eligible for reporting pay. The employee may ask the Contractor to mail his or her check to his or her home on non-work pay days and the Contractor will mail checks prior to 5:00 p.m. on pay day.
+32
+heavy-highway2010.indd 32
+7/29/10 8:57 AM
+ARTICLE X I I
+LOCKOUTS AND STRIKES
+59.	Should differences of any kind arise between any Contractor and the Union or members thereof, it is specifically agreed that there will be no lockouts, strikes, or stoppage of any work of any sort, and all grievances and complaints which the parties involved are unable to adjust shall be disposed of in accordance with procedure set forth in Article XIII.
+33
+heavy-highway2010.indd 33
+7/29/10 8:57 AM
+ARTICLE X I I I
+GRIEVANCES AND ARBITRATION
+60.	The parties agree that all differences that arise during the life of this Agreement between any Contractor and any Union or members thereof, except as otherwise limited herein, are to be settled in accordance with the grievance and arbitration procedure set forth.
+All employee or Union initiated grievances must be reported to the Local Union office as soon as possible. Grievances must be filed in writing. Members who fail to report grievances to the Business Manager within fourteen (14) days shall forfeit their grievance. The Business Manager will report the grievance to the Contractor within three (3) days after receipt. All Contractor initiated grievances must be reported to the Local Union office within fourteen (14) days after occurrence. Failure of the employee or the Contractor to meet the time limits set forth above shall cause the grievance to be deemed waived and not subject to arbitration.
+61.	In the event that differences arise during the term of this Agreement concerning its interpretation or application, a prompt effort shall be made to settle employee or Union initiated differences at the site of the dispute, first between the Contractor and the Local Union and its members involved in the dispute. In case of the Contractor initiated grievance, the effort to settle such difference shall be made between the Contractor and the Local Union Business Manager. In the case of either an employee, Union or Contractor grievance, the Contractor and the Union have three (3) days to settle the difference.
+62.	In the event that the first step of the above process does not result in settlement after the first meeting between the Local Union and the Contractor, either party may then refer the matter in writing within five (5) days to the Business Manager of the Laborers’ District Council and to the representative of the Ohio Contractors Association, Labor Relations Division. They shall meet within ten (10) days after receipt of such notice to consider and resolve the dispute.
+34
+heavy-highway2010.indd 34
+7/29/10 8:57 AM
+63.	In the event that the parties named in Step 2 are unable to settle the dispute within the ten (10) days, either party may refer the matter to arbitration by written notice to the other party within ten (10) days thereafter, for final and binding decision by a single qualified arbitrator. The Union and Contractor shall have five (5) days to agree upon an arbitrator to hear and determine the dispute, failing which it shall be submitted by either party, by written request to the American Arbitration Association for the submission of a list of names of seven (7) qualified arbitrators from which list the parties will select a sole, qualified arbitrator. After receipt of such a list the parties shall within five (5) days meet to select the arbitrator, and proceeding by lot alternately strike names from the list of arbitrators until one (1) name remains. The name of the person last remaining shall be deemed acceptable to both parties and shall serve as the arbitrator to hear and decide the dispute which has been certified to arbitration. Each party shall have the right to exercise once within the five (5) day period in the case of each dispute, to reject the list submitted, in which event an immediate request will be made for another list of seven (7) arbitrators.
+64.	The arbitrator selected in the manner above indicated shall not add to, subtract from or modify any of the terms of the Agreement. He shall not change existing wage rates established in this Agreement. His authority is limited to matters of dispute, differences, disagreement or controversy arising concerning the interpretation, construction or application of the terms of this Agreement. Any decision of an arbitrator involving an award for back pay shall be limited to the amount of wages that the employee involved should properly have earned in the employ of the Contractor, less any wage received for employment accepted in place of his former employment, and unemployment compensation benefits received. The arbitrator shall decide the grievance or dispute in writing and deliver a copy to each party within thirty (30) days from the close of the arbitration hearing. The fees and expenses of the arbitrator and of any technical assistance required by the arbitrator and all costs of the hearing shall be divided equally between the parties.
+35
+heavy-highway2010.indd 35
+7/29/10 8:57 AM
+ARTICLE X I V SAVINGS AND SEPARABILITY
+65.	It is mutually agreed that if any clause, term or provision of this Agreement is or is thereafter found to be illegal or in contravention of any court ruling, National Labor Relations Board ruling or ruling of any other board or agency having jurisdiction in the matter, such clause, term or provision shall be or become inoperative and of no effect, without disturbing the other clauses, terms and provisions of this Agreement, and the remaining parts of this Agreement shall remain in full force and effect.
+In the event any clause, term or provision of this Agreement is found to be illegal or in contravention of any court ruling, National Labor Relations Board ruling or ruling of any other board or agency having jurisdiction in the matter, said clause, term or provision shall be renegotiated to the mutual satisfaction of the parties; but, during such renegotiation there shall be no interruptions of work by lockouts, strikes or other labor troubles.
+All personal nouns and pronouns refer to the male and female gender.
+36
+heavy-highway2010.indd 36
+7/29/10 8:57 AM
+ARTICLE X V SUBCONTRACTORS
+66.	It is agreed that all subcontractors shall be subject to the terms and provisions of this Agreement.
+Any Contractor who sublets any of his work must sublet same subject to this Agreement.
+The Contractor agrees to notify the Union as to the name of any subcontractors prior to the time the subcontractor commences on the job or project.
+37
+heavy-highway2010.indd 37
+7/29/10 8:57 AM
+ARTICLE X V I DURATION
+67.	All terms and conditions of this Agreement, as amended, shall be effective as of the first (1st) day of May, 2010, and shall remain in full force and effect until the first (1st) day of May, 2013, and shall continue to remain in full force and effect from year to year thereafter, unless either party notifies the other party in writing of its intention to amend, modify or terminate said Agreement at least sixty (60) days prior to expiration of this Agreement.
+68.	It is agreed any diversion of a scheduled wage increase to a fringe benefit program may be made, provided the Union gives written notice to the Ohio Contractors Association, Labor Relations Division at least sixty (60) days prior to the date the wage increase is to be effective.
+69.	There are areas within the scope of this Agreement for which the wages and conditions contained herein may not be appropriate due to competition or other reasons. In such cases adjustments will be made in accordance with principles agreed to by the parties during negotiations. Either party can request a meeting with the other party to be held within 15 days of notification to the other party.
+70.	More Favorable Conditions. If the Union shall furnish employees to any Contractor within the area of jurisdiction of this Agreement for construction work, as defined herein, upon any more favorable terms, conditions, or wage rates than those contained herein, the Union agrees that such more favorable terms, conditions, and wages shall automatically be extended to all Contractors signatory to this Agreement.
+38
+heavy-highway2010.indd 38
+7/29/10 8:57 AM
+ARTICLE X V I I GEOGRAPHICAL SCOPE
+71.	This Agreement covers the eighty-eight (88) Counties of Ohio and Boone, Campbell and Kenton Counties in the State of Kentucky.
+The Ohio Contractors Association Labor Relations Division (OCA-LRD) and the Laborers’ District Council of Ohio of the Laborers’ International Union of North America (the “Union”), modify their Ohio Highway-Heavy Municipal-Utility State Construction Agreement (“Agreement”) effective May 1, 2010 through April 30, 2013.
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the first (1st) day of May, 2010.
+Laborers’ District Council of Ohio, an affiliate of the Laborers’ International Union of North America	Ohio Contractors Association -Labor Relations Division /s/ Mark Sterling, Chairman Labor Executive Committee Beaver Excavating
+/s/ Ralph E. Cole Chairman	/s/ Mark Potnick, OCA Director, Labor Relations
+/s/ Anthony Liberatore, Jr. Committee Member	/s/ Raymond Chapin, Chairman OCA Negotiating Committee Lake Erie Construction Company
+/s/ Robert E. Richardson Committee Member
+/s/ Kenny Holland Committee Member
+/s/ Fred A. Jones, Sr. Committee Member
+/s/ Duane Shaw Committee Member
+/s/ Robert McCaskill Committee Member
+	39
+heavy-highway2010.indd 39
+7/29/10 8:57 AM
+EXHIBIT A
+The Labor Relations Division of the Ohio Contractors Association, party to this Agreement, will continue to assign work to Laborers as has been assigned to them in the past and within the Scope of Work as defined in Article II, and as provided in all classifications listed herein. The methods of performing the work classification and/or the handling, conveying, placing, loading and unloading of materials used in the Heavy and Highway Industry, and falling within the jurisdiction of the Laborers as contained in Exhibit A is also made part of this assignment. The Contractors also agree to consult with the Laborers’ District Council before assignment of any such work that may result from change in methods or materials which may replace existing methods or materials.
+Jurisdiction of the Laborers’ International Union of North America:
+TENDERS -Tending masons, plasterers, carpenters and other building and construction crafts, and mixing, handling and conveying of all materials used by masons, plasterers, carpenters and other building and construction crafts whether done by hand or any other process; drying of plastering when done by salamander heat and cleaning and clearing of all debris.
+SCAFFOLDING - Building of scaffolding and staging for masons and plasterers, etc.
+EXCAVATING AND FOUNDATIONS - Excavation of building and all other construction; digging of trenches, piers, foundations and holes, digging, lagging, sheeting, bracing and propping of foundations, holes, caissons, cofferdams, dams and dikes; handling and/or installation of well points or any other dewatering system.
+CONCRETE AND FORMS - Concrete for walls, foundations, floors or for any other construction; mixing, handling, conveying, pouring, gunniting and otherwise applying concrete, whether done by hand or any other process; and wrecking, stripping, dismantling and handling concrete forms and false work; building of centers for fire-proofing purposes and forms for paving of all types of runways, roadways, sidewalks and bridge decks.
+40
+heavy-highway2010.indd 40
+7/29/10 8:57 AM
+STREETS, WAYS AND BRIDGES - Work in the excavation, preparation, concreting, paving, ramming, curbing and surfacing of streets, ways, courts, underpasses, overpasses and bridges, and the grading and landscaping thereof, and all other semi- and unskilled labor connected therewith and the replacing of all steel mats, dowel bars and drilling for same, and including expansion joints in above mentioned paving of streets, roads, runways, sidewalks and bridge decks.
+TRENCHES, MANHOLES, ETC. - Cutting of streets and ways for laying of conduits for all purposes; digging of trenches, manholes, etc., handling and conveying all materials for same, concreting of same, backfilling, grading and resurfacing of same and all other semi- and unskilled labor connected therewith.
+TUNNELS, SUBWAYS AND SEWER - Construction of sewers, shafts, tunnels, subways, caissons, cofferdams, dikes, dams, aqueducts, culverts, flood controls and airports.
+UNDERPINNING AND SHORING - Shoring, underpinning and raising of all structures.
+DRILLING AND BLASTING - All work of drill running, jack hammering, operating air track and wagon drills and blasting.
+COMPRESSED AIR- All work in compressed air construction.
+SIGNAL MEN - Signal men in all construction work.
+GENERAL EXCAVATION AND GRADING -The clearing, excavating, filling, backfilling, grading and landscaping of all sites for all purposes, and all Laborers’ work of an unskilled and semi-skilled character.
+FACTORIES - Laborers in factories and mills.
+GENERAL LABORERS - All Laborers in shipyards, material yards, junk yards, cemeteries and the cleaning of streets, ways and sewers, and all Laborers’ work of an unskilled and semi-skilled character.
+41
+heavy-highway2010.indd 41
+7/29/10 8:57 AM
+PITS, YARDS AND QUARRIES - All drillers, signal men and Laborers in quarries, crushed stone yards, and gravel, and sand pits.
+WRECKING - The wrecking of buildings and all structures.
+WATER BLASTING AND PROTECTIVE APPLICATIONS - All cleaning including water blasting equipment. All epoxy and concrete protective applications.
+FLAGPERSON, HAZARDOUS WASTE REMOVAL, LEAD ABATEMENT
+WATCHPERSON - (A) Responsible to patrol and maintain a safe traffic zone including but not limited to barrels, cones, signs, arrow boards, message boards etc.
+Responsible to be a watchperson to see that equipment, job and office trailers etc. are secure.
+This watchperson is to contact his supervisor in case of an emergency on the project during watchperson’s shift.
+This person is not to set out mainline traffic closure.
+(B) Watchperson shall be governed by the working rules and rates applicable. Watchperson shall be furnished transportation on the project or satisfactory arrangements made (i.e. when the Contractor determines transportation is necessary for proper security of a project, watchperson shall be furnished transportation for the purpose of covering the project, or satisfactory arrangements made).
+42
+heavy-highway2010.indd 42
+7/29/10 8:57 AM
+EXHIBIT B - WAGES & FRINGES 2010-2013
+WAGE ZONES
+Zone 1 - Counties of Cuyahoga, Geauga, Lake
+Zone 2 - Counties of Ashtabula, Erie, Huron, Lorain, Lucas, Mahoning, Medina, Ottawa, Portage, Sandusky, Stark, Summit, Trumbull, Wood
+Zone 3 - Counties of Adams, Allen, Ashland, Athens, Auglaize, Belmont, Brown, Butler, Carroll, Champaign, Clark, Clermont, Clinton, Columbiana, Coshocton, Crawford, Darke, Defiance, Delaware, Fairfield, Fayette, Franklin, Fulton, Gallia, Greene, Guernsey, Hamilton, Hancock, Hardin, Harrison, Henry, Highland, Hocking, Holmes, Jackson, Jefferson, Knox, Lawrence, Licking, Logan, Madison, Marion, Meigs, Mercer, Miami, Monroe, Montgomery, Morgan, Morrow, Muskingum, Noble, Paulding, Perry, Pickaway, Pike, Preble, Putnam, Richland, Ross, Scioto, Seneca, Shelby, Tuscarawas, Union, VanWert, Vinton, Warren, Washington, Wayne, Williams, Wyandot
+Zone 4 - Counties of Boone, Campbell and Kenton in Kentucky (See Reference to Zone 4 on Page 57)
+Zone 5 - Counties of Cuyahoga and Geauga with respect to Sewage Plant, Waste Plant, Water Treatment Facilities, Pumping Stations, Ethanol Plants, and Municipal, County and State Facility Pool Construction [See Article II, Paragraph 11(g)]
+FOREMAN
+If, in the opinion of the Contractor, a foreman is necessary to direct and supervise Laborers working within their jurisdiction, the foreman shall be a Laborer.
+Foremen shall receive one dollar ($1.00) above the highest Laborer classification under their supervision.
+43
+heavy-highway2010.indd 43
+7/29/10 8:57 AM
+Classifications in Wage Group 1
+Laborers (construction), Plant Laborers or Yardmen, Right-of-Way Laborer, Landscape Laborer, Highway Lighting Worker, Signalization Worker, Pool Construction Laborer, Utility Man, *Bridge Man, Handyman, Joint Setter, Flagperson, Carpenter Helper, Waterproofing Laborer, Slurry Seal, Seal Coating, Surface Treatment or Road Mix Laborer, Riprap Laborer and Grouter, Asphalt Laborer, Dump Man (batch trucks), Guardrail and Fence Installers, Mesh Handlers and Placers, Concrete Curing Applicator, Scaffold Erector, Sign Installer, Hazardous Waste (Level D), Diver Helper, Zone Person and Traffic Control.
+*Bridge Man will perform work as per the October 31, 1949, memorandum on concrete forms, by and between the United Brotherhood of Carpenters and Joiners of America and the Laborers’ International Union of North America, which states in part:
+“The moving, cleaning, oiling and carrying to the next point of erection, and the stripping of forms which are not to be re-used, and of forms on all flat arch work shall be done by members of the Laborers’ International Union of North America.”
+44
+heavy-highway2010.indd 44
+7/29/10 8:57 AM
+EXHIBIT B - WAGES & FRINGES 2010-2013
+EFFECTIVE DATE OF RATES AND FRINGES
+WAGE GROUP 1
+		5/1/10	5/1/11	5/1/12
+Zone 1- Rate of Pay 			 $27.18	$28.03	$28.98
+Zone 2 - Rate of Pay 			 25.95	26.80	27.75
+Zone 3 - Rate of Pay 			 25.52	26.37	27.32
+Zone 4 - Rate of Pay 			 25.52	26.37	27.32
+All rates have fringe benefit contributions in addition to rates as follows:
+Health & Welfare ...... $5.20
+Pension ................ 2.65
+Tri-Fund...................05
+LECET ................... .10
+Training & Apprenticeship. . .20
+$5.20	$5.20
+2.65	2.65
+.05	.05
+.10	.10
+.20	.20
+Deductions: Pursuant to a voluntarily executed authorization, all wages are to have Laborers’ District Council of Ohio working dues in the amount of thirty-five cents ($.35) per hour deducted and paid as required in Article VI, paragraph 42(b).
+All rates have dues or fees in addition to wage rates and fringe benefits as follows:
+Contractor Dues 			 $.14	$.14	$.14
+OCIA Fund 			 .05	.05	.05
+Administrative Fee * 			 .08	.08	.08
+*Refer to Article VII paragraph 43(b) page 23 of contract.
+45
+heavy-highway2010.indd 45
+7/29/10 8:57 AM
+Classifications in Wage Group 2
+Asphalt Raker, Screwman or Paver, Concrete Puddler, Kettle Man (pipeline), All Machine-Driven Tools (gas,electric, air), Mason Tender, Brick Paver, Mortar Mixer, Skid Steer, Sheeting and Shoring Person, Surface Grinder Person, Screedperson, Water Blast, Hand Held Wand, Power Buggy or Power Wheelbarrow, Paint Striper, Plastic fusing Machine Operator, Rodding Machine Operator, Pug Mill Operator, Operation of All Vacuum Devices Wet or Dry, Handling of all Pumps 4 Inches and Under (gas, air or electric), **Diver, Form Setter, Bottom Person, Welder Helper (pipeline), Concrete Saw Person, Cutting with Burning Torch, Pipe Layer, Hand Spiker (railroad), Underground Person (working in sewer and waterline, cleaning, repairing and reconditioning), Tunnel Laborer (without air) ** **, Caisson, Cofferdam (below 25 feet deep), Air Track and Wagon Drill, Sandblaster Nozzle Person, Hazardous Waste (Level B),***Lead Abatement, Hazardous Waste (Level C).
+**Performing any and all underwater work when underwater paraphernalia is required, outlined in Article I, SCOPE, of this Agreement.
+***Includes the erecting of structures for the removal, including the encapsulation and containment of Lead abatement process.
+**** Tunnel Laborer rate with air-pressurized add $1.00 to the above wage rate.
+46
+heavy-highway2010.indd 46
+7/29/10 8:57 AM
+EXHIBIT B - WAGES & FRINGES 2010-2013
+EFFECTIVE DATE OF RATES AND FRINGES
+WAGE GROUP 2
+		5/1/10	5/1/11	5/1/12
+Zone 1- Rate of Pay 			 $27.35	$28.20	$29.15
+Zone 2 - Rate of Pay 			 26.12	26.97	27.92
+Zone 3 - Rate of Pay 			 25.69	26.54	27.49
+Zone 4 - Rate of Pay 			 25.69	26.54	27.49
+All rates have fringe benefit contributions in addition to rates as follows:
+Health & Welfare ...... $5.20
+Pension ................ 2.65
+Tri-Fund...................05
+LECET ................... .10
+Training & Apprenticeship. . .20
+$5.20	$5.20
+2.65	2.65
+.05	.05
+.10	.10
+.20	.20
+Deductions: Pursuant to a voluntarily executed authorization, all wages are to have Laborers’ District Council of Ohio working dues in the amount of thirty-five cents ($.35) per hour deducted and paid as required in Article VI, paragraph 42(b).
+All rates have dues or fees in addition to wage rates and fringe benefits as follows:
+Contractor Dues
+$.14	$.14	$.14
+OCIA Fund ......... .05	.05
+.05
+Administrative Fee * ........ .08	.08	.08
+*Refer to Article VII paragraph 43(b) page 23 of contract.
+47
+heavy-highway2010.indd 47
+7/29/10 8:57 AM
+Classifications in Wage Group 3
+Blaster and Powder Person, Muckers **** will be defined as shovel men working directly with the miners, Wrencher (mechanical joints and utility pipeline), Yarner, Top Lander, Hazardous Waste (Level A), Concrete Specialist, Curb Setter and Cutter, Grade Checker, Concrete Crew in Tunnels ****, Utility pipeline Tappers, Waterline, and Caulker. Signal Person will receive the rate equal to the rate paid the Laborer classification for which the Laborer is signaling.
+****Tunnel Laborer rate with air-pressurized add $1.00 to the above wage rate.
+48
+heavy-highway2010.indd 48
+7/29/10 8:57 AM
+EXHIBIT B - WAGES & FRINGES 2010-2013
+EFFECTIVE DATE OF RATES AND FRINGES
+WAGE GROUP 3
+		5/1/10	5/1/11	5/1/12
+Zone 1- Rate of Pay 			 $27.68	$28.53	$29.48
+Zone 2 - Rate of Pay 			 26.45	27.30	28.25
+Zone 3 - Rate of Pay 			 26.02	26.87	27.82
+Zone 4 - Rate of Pay 			 26.02	26.87	27.82
+All rates have fringe benefit contributions in addition to rates as follows:
+Health & Welfare ....... $5.20
+Pension ................. 2.65
+Tri-Fund....................05
+LECET .................... .10
+Training & Apprenticeship. . .20
+$5.20	$5.20
+2.65	2.65
+.05	.05
+.10	.10
+.20	.20
+Deductions: Pursuant to a voluntarily executed authorization, all wages are to have Laborers’ District Council of Ohio working dues in the amount of thirty-five cents ($.35) per hour deducted and paid as required in Article VI, paragraph 42(b).
+All rates have dues or fees in addition to wage rates and fringe benefits as follows:
+Contractor Dues ............ $.14	$.14
+$.14
+OCIA Fund ..........
+.05	.05	.05
+Administrative Fee * ......... .08	.08
+.08
+*Refer to Article VII paragraph 43(b) page 23 of contract.
+49
+heavy-highway2010.indd 49
+7/29/10 8:57 AM
+Classifications in Wage Group 4
+Miner,**** Welder, Gunite Nozzle Person
+****Tunnel Laborer rate with air-pressurized add $1.00 to the above rate.
+50
+heavy-highway2010.indd 50
+7/29/10 8:57 AM
+EXHIBIT B - WAGES & FRINGES 2010-2013
+EFFECTIVE DATE OF RATES AND FRINGES
+WAGE GROUP 4
+		5/1/10	5/1/11	5/1/12
+Zone 1- Rate of Pay 			 $28.13	$28.98	$29.93
+Zone 2 - Rate of Pay 			 26.90	27.75	28.70
+Zone 3 - Rate of Pay 			 26.47	27.32	28.27
+Zone 4 - Rate of Pay 			 26.47	27.32	28.27
+All rates have fringe benefit contributions in addition to rates as follows:
+Health & Welfare ...... $5.20
+Pension ................ 2.65
+Tri-Fund...................05
+LECET ................... .10
+Training & Apprenticeship . .20
+$5.20	$5.20
+2.65	2.65
+.05	.05
+.10	.10
+.20	.20
+Deductions: Pursuant to a voluntarily executed authorization, all wages are to have Laborers’ District Council of Ohio working dues in the amount of thirty-five cents ($.35) per hour deducted and paid as required in Article VI, paragraph 42(b).
+All rates have dues or fees in addition to wage rates and fringe benefits as follows:
+Contractor Dues
+$.14	$.14	$.14
+OCIA Fund .......... .05	.05
+.05
+Administrative Fee * ......... .08	.08
+.08
+*Refer to Article VII paragraph 43(b) page 23 of contract.
+51
+heavy-highway2010.indd 51
+7/29/10 8:57 AM
+EXHIBIT B - WAGES & FRINGES 2010-2013 EFFECTIVE DATE OF RATES AND FRINGES
+ZONE 5 (Work Under Article II, Paragraph 11(g) - Page 6)
+Cuyahoga & Geauga Counties Only Rate of Pay for Sewage Plant, Waste Plant, Water Treatment Facilities, Pumping Stations, Ethanol Plants, and Municipal, County and State Facility Pool Construction.
+5/1/10	5/1/11	5/1/12
+Laborer....................$28.56	$29.41	$30.36
+All rates have fringe benefit contributions in addition to rates as follows:
+Health & Welfare ...... $5.20
+Pension ................ 2.65
+Tri-Fund ................ .05
+LECET ................... .10
+Training & Apprenticeship . .20
+$5.20	$5.20
+2.65	2.65
+.05	.05
+.10	.10
+.20	.20
+Deductions: Pursuant to a voluntarily executed authorization, all wages are to have Laborers’ District Council of Ohio working dues in the amount of thity-five cents ($.35) per hour deducted and paid as required in Article VI, paragraph 42(b).
+All rates have dues or fees in addition to wage rates and fringe benefits as follows:
+Contractor Dues ........... $.14	$.14	$.14
+OCIA Fund ....... .05
+.05	.05
+Administrative Fee * ....... .08	.08	.08
+*Refer to Article VII paragraph 43(b) page 23 of contract.
+52
+heavy-highway2010.indd 52
+7/29/10
+8:57 AM
+(This page intentionally left blank.)
+53
+heavy-highway2010.indd 53
+7/29/10 8:57 AM
+EXHIBIT B - WAGES & FRINGES 2010-2013
+WATCH PERSON
+	...5/1/10	5/1/11	5/1/12
+Watch Person		...$18.25	$19.10	$20.05
+All rates have fringe benefit contribution in as follows:			addition to rates
+Health & Welfare 		. $5.20	$5.20	$5.20
+Pension 		... 2.65	2.65	2.65
+Tri-Fund 		... .05	.05	.05
+LECET 		... .10	.10	.10
+Training & Apprenticeship ..	... .20	.20	.20
+Deductions: Pursuant to a voluntarily executed authorization, all wages are to have Laborers’ District Council of Ohio working dues in the amount of thirty-five cents ($.35) per hour deducted and paid as required in Article VI, paragraph 42(b).
+All rates have dues or fees in addition to wage rates and fringe benefits as follows:
+Contractor Dues 			 $.14	$.14	$.14
+OCIA Fund 			 .05	.05	.05
+Administrative Fee * 			 .08	.08	.08
+*Refer to Article VII paragraph 43(b) page 23 of contract.
+The overtime rate shall be time and one-half (1 1/2) after 10 hours in any day and Sunday and Holidays.
+A)	The Watchperson shall be responsible to patrol and maintain a safe traffic zone including but not limited to barrels, cones, signs, arrow boards, message boards etc.
+The responsibilty of a watchperson is to see that equipment, job and office trailers etc. are secure.
+Watchpersons are to contact their supervisor in case of an emergency on the project during watchperson’s shift.
+This person is not to set out mainline traffic closures.
+B)	Watchperson shall be governed by the working rules and rates applicable. Watchperson shall be furnished transportation on the project or satisfactory arrangements made (i.e. when the Contractor determines transportation is necessary for proper security of a project, watchperson shall be furnished transportation for the purpose of covering the project, or satisfactory arrangements made).
+54
+heavy-highway2010.indd 54
+7/29/10 8:57 AM
+PROVISIONS FOR ZONE 4
+(Boone, Campbell & Kenton Counties in Kentucky)
+The following Paragraphs of this Agreement contained in Article X do not apply to Zone 4: 51, 51(A), 51(B) & 53
+For Zone 4, the following applies:
+(1)	Forty (40) hours shall constitute a week’s work. The work week shall commence on Monday a.m. and shall end on Saturday p.m. All work performed by an employee over forty (40) hours in any one week shall be paid at the rate of one and one-half (1-1/2) times the regular rate of pay.
+(2)	Time and one-half (1-1/2) shall be paid after 10 hours in any day and Sundays and Holidays.
+(3)	A Contractor shall pay all fringe benefits when due as listed in Wage Group 1.
+On all projects in Zone 4 the minimum wage rate shall be the Prevailing Wage rates in effect at the time the project was advertised. The Prevailing Wage rates shall continue for a period of three (3) years from the effective date of the work order, or until completion of the project, whichever occurs earliest. After the expiration of the aforementioned three (3) years, all wages and fringe benefits paid to employees covered by this Agreement on the project shall be paid at the current rate as set in the Agreement in effect at that time.
+Working dues assessment, contributions, per capita tax or gifts to the Laborers’ District Council of Ohio are not deductible as charitable contributions for Federal income tax purposes. Working Dues Assessments paid to the Laborers’ District Council of Ohio, however, may qualify as business expenses and may be deductible in limited circumstances subject to various restrictions imposed by the Internal Revenue Service.
+55
+heavy-highway2010.indd 55
+7/29/10 8:57 AM
+EXHIBIT B - WAGES & FRINGES 2010-2013 EFFECTIVE DATE OF RATES AND FRINGES RECAP ALL ZONES
+Zone 1 			 5/1/10	5/1/11	5/1/12
+Group 1 - Rate of Pay ...		$27.18	$28.03	$28.98
+Group 2 - Rate of Pay...		27.35	28.20	29.15
+Group 3 - Rate of Pay ...		27.68	28.53	29.48
+Group 4 - Rate of Pay ...		28.13	28.98	29.93
+Zone 2			
+Group 1 - Rate of Pay ..		$25.95	$26.80	$27.75
+Group 2 - Rate of Pay ...		26.12	26.97	27.92
+Group 3 - Rate of Pay ...		26.45	27.25	28.20
+Group 4 - Rate of Pay ...		26.90	27.75	28.70
+Zones 3 & 4			
+Group 1 - Rate of Pay ..		$25.52	$26.37	$27.32
+Group 2 - Rate of Pay ...		25.69	26.54	27.49
+Group 3 - Rate of Pay ...		26.02	26.87	27.82
+Group 4 - Rate of Pay ...		26.47	27.32	28.27
+Zone 5			
+Laborer 			$28.56	$29.41	$30.36
+Watch Person			
+All Zones 			$18.25	$19.10	$20.05
+56
+heavy-highway2010.indd 56
+7/29/10 8:57 AM
+EXHIBIT C
+USE OF APPRENTICES
+1.	The OCA-LRD and the Union amend the Laborers’ Training and Upgrading Fund Trust to provide for Apprenticeship training. The amended Fund is now known as the Laborers’ Training and Apprenticeship Trust Fund which will establish a program for the training and utilization of registered apprentices on construction sites. The program and contributions to it shall be in compliance with the Labor Management Relations Act and the federal and state Management requirements for approved apprenticeship programs. The trust agreement provisions and the rules for eligibility and regulations created by the Trustees overseeing the Laborers’ Training and Apprenticeship Committee are incorporated by reference and will be made available upon request by any contributing Contractor.
+2.	The OCA-LRD and the Union shall each appoint or re-appoint four trustees to constitute the Board of Trustees of the Laborers’ Training and Apprenticeship Trust Fund. All registered apprentices shall be under the direction and control of the committee.
+3.	The Contractor contribution to the amended Fund shall remain unchanged and be in the amount of contribution required for the Laborers’ Training and Upgrading Fund set forth in this Agreement.
+4.	The ratio of apprentices to Laborers shall be no less than one competent and qualified Laborer to one apprentice for the first apprentice on the job, and four competent and qualified Laborers to one apprentice thereafter. There shall be no commingling of apprentices onto one or more specific jobsites, as the ratio must be maintained for each project.
+5.	Every employee of the Contractor who comes within the scope of the Agreement shall be considered a Laborer unless registered as an apprentice under the Laborers’ Training and Apprenticeship fund.
+6.	Apprentices shall work under the supervision of competent and qualified workers on the job. Instruction in safety and safe work practices will be part of job instruction in addition to that included in related off-job instruction.
+57
+heavy-highway2010.indd 57
+7/29/10 8:57 AM
+7.	Any person entering but failing to maintain and complete his or her apprenticeship, as determined by the JTAC shall not be employed by the Contractor as a journeyworker under this Agreement for the duration of the remaining apprenticeship period.
+8.	The amount of wages to be paid the apprentice shall be at a percentage or graduated wage scale of the Laborer for the class of work and work location set forth in the agreement, as follows:
+Apprenticeship Hours Accumulated Percent of Wage Scale 0 -	1000....................60	percent
+1001 -	2000....................70	percent
+2001 -	3000....................80	percent
+3001 -	4000....................90	percent
+The above percentages are calculated on the base wage rate only. The apprentice shall receive full payment on his or her behalf into the fringe benefit programs at the rate called for in the Agreement. In no instance shall the starting rate be less than the hourly minimum of the Fair Labor Standards Act.
+9.	The Ohio Laborers’ Training and Apprenticeship Trust Fund shall formulate rules and regulations necessary to administer the apprenticeship program to govern eligibility, registration, and education to meet the needs and requirements of the program and in compliance with federal and state apprentice guidelines. The purpose of the program is to supply apprentices to Contractors signatory to the Agreement and the program will require Apprentices trained under the program to continue in the employ of signatory contractors during and after completion of the program. Any registered apprentice who goes to work for a non-signatory Contractor shall no longer be eligible for the program and shall repay to the Ohio Laborers’ Training and Apprenticeship Fund the cost of any schooling or training in an amount established by the Fund. The cost of training shall be repaid to the Fund if the individual who completes apprentice training goes to work for a non-signatory Contractor within the number of years following completion of the training as established by the Ohio Laborers’ Training and Apprenticeship Trust Fund.
+58
+heavy-highway2010.indd 58
+7/29/10 8:57 AM
+10.	A signatory Contractor to this Agreement may refer applicants to the Ohio Laborers’ Training and ApprenticeshipTrust Fund for proposed inclusion in the apprentice program provided it has no registered apprentice on layoff. Unless and until accepted, the referred applicant shall not be eligible for an apprentice rate.
+11.	A signatory Contractor may request the local union having jurisdiction over the work area covered by the specific project for apprentice referrals who, if referred, will serve as the employee hired through the local union.
+12.	For each employee whose Local Union has established or participates in a local joint apprenticeship fund, the Contractor, upon written notification from the Local Union, shall divert five cents ($.05) per hour for each hour worked from each employee’s wages and transmit said monies to the local joint apprenticeship committee. Contributions shall be due and owing on the 15th of the month following the month for which contributions are made. Upon written notice to the Contractor, the local joint apprenticeship fund, or its agent, shall be authorized to conduct a payroll audit to determine compliance with the provision.
+59
+heavy-highway2010.indd 59
+7/29/10 8:57 AM
+60
+heavy-highway2010.indd 60
+7/29/10 8:57 AM
+EXHIBIT D
+JURISDICTION OF LOCAL UNIONS
+Local Union No.
+and Metropolitan City
+Where Located
+Counties
+894.....Akron, OH - Medina, Portage, Summit
+245.....Ashtabula, OH - Ashtabula
+1015.... Canton, OH - Carroll, Stark, Wayne
+265.....Cincinnati, OH - Brown, Clermont, Clinton, Hamilton
+in Ohio; Boone, Campbell, Kenton in Kentucky
+860..... Cleveland, OH - Cuyahoga, Geauga, Lake
+423..... Columbus, OH - Fairfield, Fayette, Franklin, Hocking,
+Licking, Madison, Pickaway, Union
+1410....Dayton, OH - Champaign, Clark, Darke, Greene,
+Logan, Miami, Montgomery, Preble
+329.....Lima, OH - Allen, Auglaize, Mercer, Paulding,
+Putnam, Shelby, Van Wert
+758..... Lorain, OH - Lorain
+1216.... Mansfield, OH - Ashland, Crawford, Knox, Morrow,
+........ Richland
+639..... Marietta, OH - Monroe, Morgan, Washington
+574..... Marion, OH - Delaware, Hancock, Hardin, Marion,
+........ Seneca, Wyandot
+534..... Middletown, OH - Butler, Warren
+134..... Newcomerstown, OH - Coshocton,Holmes, Tuscarawas
+83...... Portsmouth, OH - Adams, Athens, Gallia, Highland,
+........ Jackson, Lawrence, Meigs, Pike, Ross, Scioto, Vinton
+480..... Sandusky, OH - Erie, Huron, Ottawa, Sandusky
+809..... Steubenville, OH - Columbiana, Harrison, Jefferson in
+Ohio; Brooke and Hancock in West Virginia
+500..... Toledo, OH - Defiance, Fulton, Henry, Lucas,
+Williams, Wood
+935..... Warren, OH - Trumbull
+1149.... Wheeling, WV -Belmont
+125..... Youngstown, OH - Mahoning
+530..... Zanesville, OH - Guernsey, Muskingum, Noble, Perry
+61
+heavy-highway2010.indd 61
+7/29/10 8:57 AM
+EXHIBIT E
+List of Local Unions and Officers concerned with the Laborers’ District Council of Ohio
+Highway-Heavy-Municipal & Utility State Construction Agreement
+Local Officer(s)
+Telephone
+894 Akron
+William E. Orr, Bus. Mgr.
+Robert E. Hill Jr., Sec.-Treas.
+720 Wolf Ledges	(330) 535-6145
+Akron, Ohio 44311-1521 FAX (330) 535-9331
+245 Ashtabula
+Randall Bates, Bus. Mgr./Sec.-Treas.
+P.O. Box 548
+2220 Center Street West	(440) 992-2013
+N. Kingsville, Ohio 44068-0548 FAX (440) 998-4489
+1015	Canton Jacob Croston, Bus. Mgr. Dwayne Mayle, Sec.-Treas. 1121 W. Tuscarawas St. Canton, Ohio 44702-2031	FAX	(330) 453-8915 (330) 453-5152
+265	Cincinnati John H. Phillips, Bus. Mgr. Anothony Brice, Sec.-Treas. 3457 Montgomery Rd Cincinnati, Ohio 45207-1549	FAX	(513) 221-5260 (513) 221-5573
+860	Cleveland Anthony Liberatore, Jr. Bus. Mgr./Sec.-Treas. 4220 Prospect Ave. Cleveland, Ohio 44103-4388	FAX	(216) 432-1022 (216) 432-1025
+423	Columbus Bob McCaskill, Bus. Mgr. Lynol Thompson, Sec.-Treas. 620 Alum Creek Dr. Columbus, Ohio 43205-1619	FAX	(614) 252-1093 (614) 252-6909
+	Newark Office John Rogers 34 N. 4th St., P.O. Box 977 Newark Ohio 43055-5010 62		(740)345-4910
+heavy-highway2010.indd 62
+7/29/10
+8:57 AM
+Local Officer(s)
+Telephone
+1410 Dayton
+Fred A. Jones, Jr., Bus. Mgr.
+Joe Barnes, Sec.-Treas.
+2228 E. Third St.	(937) 254-6172
+Dayton, Ohio 45403-2099 FAX (937) 254-9949
+329 Lima
+Earl E. Grisgby, Bus. Mgr.
+Timothy LuceWireman, Sec.-Treas.
+4580 S. Dixie Highway	(419) 999-2727
+Lima, Ohio 45806-1812	FAX (419) 999-2834
+758
+Lorain
+Pete Pappas, Bus. Mgr/Sec.-Treas
+2089 N. Ridge Rd. E.	(440) 324-6272
+Lorain, Ohio 44055-3413 FAX (440) 277-9929
+1216 Mansfield
+Perry Johnson, Bus. Mgr./Sec.-Treas.
+821 Park Avenue West	(419) 524-5202
+Mansfield, Ohio 44906-3010 FAX (419) 524-5343
+639 Marietta
+Scott Hoge, Bus. Mgr./Sec.-Treas.
+227 Gillman St.
+P. O. Box 639	(740) 373-5859
+Marietta, Ohio 45750- 2838 FAX (740) 373-2393
+574 Marion
+Gary Bretz, Bus. Mgr./Sec.-Treas.
+1585 Harding Highway East	(740) 382-4136
+Marion, Ohio 43302-4568 FAX (740) 387-6354
+534 Middletown
+Raymond Hipsher, Bus. Mgr.
+Saundra Napier, Sec.-Treas.
+5527 Hamilton-Middletown Rd. (513) 423-5533
+Middletown, Ohio 45044-9703 FAX (513) 539-4555
+63
+heavy-highway2010.indd 63
+7/29/10 8:57 AM
+Local Officer(s)
+Telephone
+134 Newcomerstown
+Tim Mulford, Bus. Mgr./Sec.-Treas.
+150 N. River St. P.O. Box 173	(740) 498-6414
+Newcomerstown, Ohio 43832-0173 FAX (740) 498-7215
+83	Portsmouth Gary Coleman, Bus. Mgr./Sec.-Treas. 2032 - 8th St.		
+	P.O. Box 867 Portsmouth, Ohio 45662-0867	FAX	(740) 354-3224 (740) 353-5702
+480	Sandusky Brian Francis, Bus. Mgr. Tim Dunlap, Sec.-Treas. 1205 W. Perkins Ave. P. O. Box 2214 Sandusky, Ohio 44870-4603	FAX	(419) 626-0793 (419) 626-0219
+809	Steubenville Clint Powell, Bus. Mgr. Chris Brown, Sec.-Treas. 306 Adams St. P.O. Box 67 Steubenville, Ohio 43952-2924	FAX	(740) 282-0771 (740) 282-6531
+500	Toledo Phillip Copeland, Bus. Mgr Anthony Coleman, Sec.-Treas. 2270 Ashland Ave. Toledo, Ohio 43620-1206	FAX	(419) 243-3279 (419) 243-2061
+	Defiance Office David Fleetwood 1931 E. Second Ave., Suite 2 Defiance, Ohio 43512-2572		(419) 784-2960
+64
+heavy-highway2010.indd 64
+7/29/10
+8:57 AM
+Local Officer(s)
+Telephone
+935 Warren
+Jody Stringer, Bus. Mgr.
+Reggie Christian, Sec.-Treas.
+465 W. Market St.	(330) 395-5105
+Warren, Ohio 44481-1031 FAX (330) 393-8656
+1149 Wheeling (Belmont County, Ohio)
+Tom Gray, Bus. Mgr.
+Joe Bowen, Sec.-Treas.
+98 C East Cove Ave.	(304) 243-7000
+Wheeling, W. Virginia 26003-5080 FAX (304) 243-7002
+125 Youngstown
+Rocky DiGennaro, Bus.Mgr.
+Robert D. Jones, Sec.-Treas.
+4178 Market St.	(330) 783-3124
+Youngstown, Ohio 44512-1116 FAX (330) 783-5543
+530 Zanesville
+Dan Foshee, Bus. Mgr./Sec.-Treas.
+1254 Linden Ave.	(740) 453-1214
+Zanesville, Ohio 43701-3462	FAX (740) 453-8077
+65
+heavy-highway2010.indd 65
+7/29/10 8:57 AM
+66
+heavy-highway2010.indd 66
+7/29/10 8:57 AM
+ACCEPTANCE OF AGREEMENT
+2010-2013
+In consideration of the benefits to be derived and other good and valuable consideration, the undersigned contractor although not a member of The Labor Relations Division of the Ohio Contractors Association does hereby join in, adopt, accept and become a party to the collective bargaining agreement heretofore made by The Laborer Relations Division, Ohio Contractors Association with the Laborers’ District Council of Ohio, including all of the provisions therein pertaining to contributions to Trust Funds and agrees to be bound by any Trust Agreement hereafter entered into between these parties and agrees to make contributions as required and authorizes these parties to name the Trustees to administer said Funds and ratifies and accepts such Trustees and the terms and conditions of the Trusts as if made by the undersigned.
+Name of Company__________________________________________
+Street_____________________________________________________
+City_____________________________________________________
+Telephone Number_________________________________________
+Authorized
+Representative
+and Title (Print)________________________________________
+Authorized
+Representative
+Signature J/sL______________________________ Date________
+Laborers’ District Council of Ohio
+152 Dorchester Square, Westerville, Ohio 43081
+Laborers’ International Union of North America Local_#___
+Street___________________________________________________
+City___________________________________________________
+Authorized
+Representative and Title (Print)______________________________________
+Authorized
+Representative Signature M____________________________________ Date.
+(Local Union Copy)
+67
+heavy-highway2010.indd 67
+7/29/10 8:57 AM
+68
+heavy-highway2010.indd 68
+7/29/10 8:57 AM
+ACCEPTANCE OF AGREEMENT
+2010-2013
+In consideration of the benefits to be derived and other good and valuable consideration, the undersigned contractor although not a member of The Labor Relations Division of the Ohio Contractors Association does hereby join in, adopt, accept and become a party to the collective bargaining agreement heretofore made by The Laborer Relations Division, Ohio Contractors Association with the Laborers’ District Council of Ohio, including all of the provisions therein pertaining to contributions to Trust Funds and agrees to be bound by any Trust Agreement hereafter entered into between these parties and agrees to make contributions as required and authorizes these parties to name the Trustees to administer said Funds and ratifies and accepts such Trustees and the terms and conditions of the Trusts as if made by the undersigned.
+Name of Company__________________________________________
+Street______________________________________.____________
+City_____________________________________________________
+Telephone Number_________________________________________
+Authorized
+Representative
+and Title (Print)________________________________________
+Authorized
+Representative
+Signature ./s/______________________________ Date________
+Laborers’ District Council of Ohio
+152 Dorchester Square, Westerville, Ohio 43081
+Laborers’ International Union of North America Locate____
+Street___________________________________________________
+City__________________________________________________________
+Authorized
+Representative and Title (Print)_____________________________________________
+Authorized
+Representative Signature _s____________________________________ Date_________
+(Contractor's Copy)
+69
+heavy-highway2010.indd 69
+7/29/10 8:57 AM
+NOTES
+70
+heavy-highway2010.indd 70
+7/29/10 8:57 AM
+ACCEPTANCE OF AGREEMENT
+2010-2013
+In consideration of the benefits to be derived and other good and valuable consideration, the undersigned contractor although not a member of The Labor Relations Division of the Ohio Contractors Association does hereby join in, adopt, accept and become a party to the collective bargaining agreement heretofore made by The Laborer Relations Division, Ohio Contractors Association with the Laborers’ District Council of Ohio, including all of the provisions therein pertaining to contributions to Trust Funds and agrees to be bound by any Trust Agreement hereafter entered into between these parties and agrees to make contributions as required and authorizes these parties to name the Trustees to administer said Funds and ratifies and accepts such Trustees and the terms and conditions of the Trusts as if made by the undersigned.
+Name of Company__________________________________________
+Street___________________________________._______________
+City_____________________________________________________
+Telephone Number_________________________________________
+Authorized
+Representative
+and Title (Print)________________________________________
+Authorized
+Representative
+Signature ./s/______________________________ Date________
+Laborers’ District Council of Ohio
+152 Dorchester Square, Westerville, Ohio 43081
+Laborers’ International Union of North America Locate____
+Street___________________________________________________
+City______________________________________________________
+Authorized
+Representative and Title (Print)_________________________________________
+Authorized
+Representative
+Signature _s_________________________________ Date________
+Mail to: OCA-LRD
+P.O. Box 909 • Columbus, Ohio 43216
+71
+heavy-highway2010.indd 71
+7/29/10 8:58 AM
+NOTES
+72
+heavy-highway2010.indd 72
+7/29/10 8:58 AM
+ACCEPTANCE OF AGREEMENT
+2010-2013
+In consideration of the benefits to be derived and other good and valuable consideration, the undersigned contractor although not a member of The Labor Relations Division of the Ohio Contractors Association does hereby join in, adopt, accept and become a party to the collective bargaining agreement heretofore made by The Laborer Relations Division, Ohio Contractors Association with the Laborers’ District Council of Ohio, including all of the provisions therein pertaining to contributions to Trust Funds and agrees to be bound by any Trust Agreement hereafter entered into between these parties and agrees to make contributions as required and authorizes these parties to name the Trustees to administer said Funds and ratifies and accepts such Trustees and the terms and conditions of the Trusts as if made by the undersigned.
+Name of Company______________________________
+Stre_et______________________________________
+City_____________________________________________________
+Telephone Number_________________________________________
+Authorized
+Representative and Title (Print)________________________________________
+Authorized
+Representative
+Signature ./s/___________________________________ Date
+Laborers’ District Council of Ohio
+152 Dorchester Square, Westerville, Ohio 43081
+Laborers’ International Union of North America Local #
+Stre_et__________________________________________________
+City____________________________________________________________
+Authorized
+Representative
+and Title (Print)_______________________________________________
+Authorized
+Representative Signature _s_____________________________________ Date__________
+(Laborers’ District Council of Ohio)
+73
+heavy-highway2010.indd 73
+7/29/10 8:58 AM
+74
+heavy-highway2010.indd 74
+7/29/10 8:58 AM
+Mark Potnick, Director
+Labor Relations Division
+Ohio Contractors Association
+P.O. Box 909
+1313 Dublin Road
+Columbus, Ohio 43216-0909
+Phone:	(614) 488-0724
+Fax:	(614) 488-0728
+Toll Free: (800) 229-1388
+7703_ICS_COVERS.indd 3
+7/27/10 10:52 AM
+The cost of printing this Heavy-Highway Contract Agreement between Laborers’ District Council of Ohio and the Ohio Contractors Association, Labor Relations Division, has been paid by Ohio LECET.
+Laborers-Employers Cooperation and Education Trust 152 Dorchester SQ - Ste 100 • Westerville, Ohio 43081-3350
+7703_ICS_COVERS.indd 4
+7/27/10 10:52 AM

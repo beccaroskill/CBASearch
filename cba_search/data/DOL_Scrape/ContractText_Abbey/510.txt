@@ -1,0 +1,1823 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref(a)cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edU/blscontracts/2/)
+Title: Public Service Company of Colorado and International Brotherhood of
+Electrical Workers (IBEW) Local 111 (2003)
+K# 6075
+Employer Name: Public Service Company of Colorado
+Location: CO
+Union: International Brotherhood of Electrical Workers (IBEW)
+Local: 111
+SIC: 4930	NAICS: 221
+Sector: P	Number of Workers: 2250
+Effective Date: 06/01/03	Expiration Date: 05/31/06
+Number of Pages: 124	Other Years Available: Y
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School, http://www.ilr.cornell.edu/
+INDEX
+EXHIBIT A
+JOB CLASSIFICATIONSAND DIAGRAM OF NORMAL PROMOTIONS & DEMOTIONS
+FLOW #	Organization	Page
+la	Appliance Service Department & Division............. 1
+2a	Construction Department & Division.................. 2
+3a	Corrosion	Prevention	Department - Denver Division .... 3
+3b	Corrosion	Prevention	Department - Mountain Division. 4
+3c	Corrosion	Prevention	Department - Northern Division. 5
+3d	Corrosion	Prevention	Department - San Luis Valley Division .. 6
+3e	Corrosion	Prevention	Department - Western Division..	7
+4a	Design Department	- Boulder Division.................. 8
+4b	Design Department	- Denver Division .................. 9
+4c	Design Department	- Front Range Division ............ 10
+4d	Design Department	- High Plains Division............. II
+4e	Design Department	- Mountain Division ............... 12
+4f	Design Department	- Northern Division................ 13
+4g	Design Department	- Pueblo Division..................  14
+4h	Design Department	- Southern Division................ 15
+4i	Design Department	- Western Division................. 16
+5a Distribution Control Center Department................. 17
+Index - Exhibit A - OP&M - i -	June 1,2003
+FLOW #	Organization	Page
+6a Electric Distribution Operations Maintenance Specialist Department and Division .............................. 18
+7a	Electric Line Department - Boulder Division ........... 19
+7b	Electric Meter Department - Boulder Division........... 20
+7c	Electric Line Department - Denver Division ...........  21
+7d	Electric Meter Department - Denver Division............ 22
+7e	Electric Line Department - Front Range Division........ 23
+7f	Electric Meter Department - Front Range Division....... 24
+7g	Electric Line Department - High Plains Division ....... 25
+7h	Electric Meter Department - High Plains Division ...... 26
+7i	Electric Line Department - Mountain Division........... 27
+7j	Electric Meter Department - Mountain Division.......... 28
+7k	Electric Line Department - Northern Division .......... 29
+7L	Electric Meter Department - Northern Division ......... 30
+7m	Electric Line Department - San Luis Valley Division ... 31
+7n	Electric Meter Department - San Luis Valley Division .. 32
+7o	Electric Line Department - Western Division ........... 33
+7p	Electric Meter Department - Western Division .......... 34
+8a	Energy Supply	- Cameo Department & Division .......... 35
+8b	Energy Supply	- Comanche Department &. Division...... 36
+8c	Energy Supply	- Fort St. Vrain Department & Division . 37
+8d	Energy Supply	- Hayden Department & Division......... 38
+Index - Exhibit A - OP&M
+- ii -
+June 1, 2003
+| FLOW #	Organization	Page
+3e Energy Supply - Metro Department & Division (Arapahoe, |	Cherokee, Steam Heat, Zuni Stations) ................. 39
+8f Energy Supply - Pawnee Department & Division............. 40
+'	8g	Energy Supply - Valmont Department & Division ........ 41
+|	8h	Energy Supply - Boulder Hydro Department & Division .... 42
+8i Energy Supply - Cabin Creek/Georgetown Hydro
+|	Department & Division ................................ 43
+8j Energy Supply - Shoshone Hydro Department & Division ... 44 i
+8k Energy Supply - Ames/Salida/Tacoma Hydro Department & Division ............................... 45
+I
+'	9a	Gas	Department	- Boulder Division .................. 46
+|	9b	Gas	Department	- Denver Division.................... 47
+9c	Gas Department - Front Range Division................. 48
+9d	Gas Department - High Plains Division ................ 49
+|	9e	Gas	Department	- Mountain Division.................. 50
+9f	Gas Department - Northern Division ................... 51
+'	9g	Gas	Department	- Pueblo Division.................... 52
+9h	Gas Department - San Luis Valley Division ............ 53
+9i	Gas Department - Western Division ..................   54
+9j	Gas Meter Shop Department - Denver Division .......... 55
+,	9k	Gas	Mechanical	Shop - Denver Division .............. 56
+9L	High Pressure Gas Department - Denver Division ....... 57
+9m	High Pressure Gas Department - Mountain Division...... 58
+Index - Exhibit A - OP&M
+- iii -
+June 1,2003
+FLOW #	Organization	Page
+9n	High	Pressure Gas Department - Northern Division .... 59
+9o	High	Pressure Gas Department - San Luis Valley Division ... 60
+9p	High	Pressure Gas Department - Western Division...... 61
+10a	Gas Standards Department and Division.................. 62
+Ila	Meter	Revenue Department	- Boulder Division ......... 63
+lib	Meter	Revenue Department	- Denver Division........... 64
+11 c	Meter	Revenue Department	- Front Range Division ..... 65
+lid	Meter	Revenue Department	- High Plains Division...... 66
+Ue	Meter	Revenue Department	- Mountain Division ........ 67
+1 If	Meter	Revenue Department	- Northern Division......... 68
+11g	Meter Revenue Department	- Pueblo Division .......... 69
+I Ih	Meter	Revenue Department	- San Luis Valley Division.. 70
+I li	Meter	Revenue Department	- Western Division ......... 71
+12a Metrology Department and Division....................... 72
+13a Service Investigation Department and Division........... 73
+14a	Stores Department -	Boulder Division .................. 74
+14b	Stores Department -	Denver Division.................... 75
+14c	Stores Department -	Front Range Division............... 76
+14d	Stores Department -	High Plains Division..............  77
+I4e	Stores Department -	Mountain Division ................. 78
+14f	Stores Department -	Northern Division.................  79
+14g	Stores Department -	Pueblo Division .................. 80
+Index - Exhibit A - OP&M
+-iv -
+June 1,2003
+FLOW #	Organization	Page
+14h	Stores Department - San Luis Valley Division ............ 81
+14i	Stores Department - Western Division  ................... 82
+15a System Operations Division - Denver Substation Department . . 83
+15b System Operations Division * Northeast Substation Department...................................................... 84
+15c System Operations Division - Southern Substation Department...................................................... 85
+15d System Operations Division - Western Substation Department...................................................... 86
+15e System Operations Division - Substation & Line Equipment Test Department........................................... 87
+15f System Operations Division - Transmission Line Department...................................................... 88
+16a	Transportation	Department - Boulder Division.............. 89
+16b	Transportation	Department - Denver Division............... 90
+16c	Transportation	Department - Mountain Division............. 91
+16d	Transportation	Department - Northern Division ............ 92
+I6e	Transportation	Department - Pueblo Division............... 93
+16f	Transportation	Department - San Luis Valley Division..... 94
+16g	Transportation	Department - Western Division.............. 95
+17a	Utility Services Department - Denver Division.........	96
+17b	Utility Services Department - Mountain Division........... 97
+17c	Utility Services Department - Northern Division .......... 98
+17d	Utility Services Department - Southern Division .......... 99
+17e	Utility Services Department - Western Division ...........100
+Index - Exhibit A - OP&M
+- v -
+June L 2003
+Exhibit A - OP&M	- I -	June 1. 2003
+EXHIBIT A
+APPLIANCE SERVICE DEPARTMENT & DIVISION
+.JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+(1)	Senior Service Specialist
+(2)	Service Specialist
+(3l Specialist-in-Training
+(4) Helper
+la Appliance Service Department & Division June 1,2003
+Exhibit A - OP&M	- 2 -	June 1, 2003
+EXHIBIT A CONSTRUCTION DEPARTMENT & DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+(1)	Working Foreman
+(2)	Classified Mechanic
+I	1
+(3 > *Skilled Welder (31 Construction Mechanic
+(31 *Skilled Mechanic (31 ^Classified Welder
+(4)	Apprentice Construction Mechanic
+(5)	Helper
+(6)	Laborer
+2a Construction Department & Division June 1,2003
+Exhibit A - OP&M	- 3 -	June 1,2003
+EXHIBIT A
+DENVER DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Corrosion Prevention Department t il Senior Corrosion Control Specialist (2) Corrosion Control Specialist O') Cathodic Protection Technician
+3a Denver Division Corrosion Prevention Department June 1, 2003
+Exhibit A-OP&M	-4-	June 1,2003-
+EXHIBIT A
+MOUNTAIN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Corrosion Prevention Department
+( I t Senior Corrosion Control Specialist
+(2)	Corrosion Control Specialist
+(31 Cathodic Protection Technician
+3b Mountain Division Corrosion Prevention Department June 1,2003
+Exhibit A - OP&M	-5-	June 1,2003
+EXHIBIT A
+NORTHERN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Corrosion Prevention Department
+fl) Senior Corrosion Control Specialist
+<2) Corrosion Control Specialist
+(3)	Cathodic Protection Technician
+i
+i
+3c Northern Division	।
+Corrosion Prevention Department
+June 1,2003	I
+Exhibit A - OP&M	- 6 -	June 1,2003
+EXHIBIT A
+SAN LUIS VALLEY DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Corrosion Prevention Department
+(1)	Senior Corrosion Control Specialist
+(2i Corrosion Control Specialist
+(3) Cathodic Protection Technician
+3d San Luis Valley Division Corrosion Prevention Department June L2003
+Exhibit A - OP&M	- 7 -	June 1,2003
+EXHIBIT A
+WESTERN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Corrosion Prevention Department
+fl) Senior Corrosion Control Specialist
+(2)	Corrasion Control Specialist
+(3)	Cathodic Protection Technician
+3e Western Division Corrosion Prevention Department June 1, 2003
+Exhibit A - OP&M	- 8 -	June 1, 2003
+EXHIBIT A
+BOULDER DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Design Department
+(1)	Designer
+(2)	Panner
+(3)	Technician
+(4)	Senior Associate
+(Si Associate*
+The Associate may transfer into a vacancy of Technician without becoming a Senior Associate
+4a Boulder Division Design Department June 1,2003
+Exhibit A - OP&M	- 9 -	June I, 2003
+EXHIBIT A
+DENVER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Design Department i fl) Designer t
+(2)	Planner
+1
+(3)	Technician
+(4) BCL Rep***----
+(5} Senior Associate
+(5) Associate ****
+*	Any Senior BCL Rep that is promoted to the Technician position shall maintain their current hourly wage rate at time of promotion until the Technician step progression exceeds their frozen hourly rate.
+*	* Senior BCL Rep may transfer into a vacancy of Technician without going down to BCL Rep.
+*	** The BCL Rep may transfer into a vacancy of Technician without becoming a Senior BCL Rep.
+*	*** The Associate may transfer into a vacancy of BCL Rep or Technician without becoming a Senior Associate.
+4b Denver Division Design Department June 1, 2003
+Exhibit A - OP&M	- 10 -	June 1,2003
+EXHIBIT A FRONT RANGE DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Design Department
+(1)	Designer
+(2)	Planner
+(3)	Technician
+I
+(4) Senior Associate
+I
+(5) Associate*
+* The Associate may transfer into a vacancy of Technician without becoming a Senior Associate
+4c Front Range Division Design Department
+June 1,2003
+EXHIBIT A
+HIGH PLAINS DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Design Department
+(1) Designer (2)P anner
+(3)	Technician
+(4)	Senior Associate
+I
+£5) Associate*
+E
+ft
+* The Associate may transfer into a vacancy of Technician without becoming a Senior Associate
+4d High Plains Division Design Department June 1, 2003
+Exhibit A - OP&M	- 12 -	June 1, 2003
+EXHIBIT A
+MOUNTAIN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Design Department
+(1)	Designer
+(2)	Planner
+(3)	Technician
+l 4 t Senior Associate
+(5) Associate*
+* The Associate may transfer into a vacancy of Technician without becoming a Senior Associate
+4e Mountain Division Design Department June 1,2003
+Exhibit A - OP&M	- 13 -	June I, 2003
+EXHIBIT A
+NORTHERN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Design Department
+(1) Designer
+(21 Planner
+(3)	Technician
+(4)	Senior Associate
+(5)	Associate*
+* The Associate may transfer into a vacancy of Technician without becoming a Senior Associate
+4f Northern Division Design Department June 1, 2003
+Exhibit A - OP&M	- 14 -	June I, 2003
+EXHIBIT A
+PUEBLO DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Design Department
+(1)	Designer
+(2)	P anner
+(3)	Technician
+(4)	Senior Associate
+(5)	Associate*
+* The Associate may transfer into a vacancy of Technician without becoming a Senior Associate
+4g Pueblo Division Design Department June 1,2003
+Exhibit A - OP&M	- 15 -	June 1, 2003
+EXHIBIT A SOUTHERN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Design Department
+(i)	Designer
+(2)	Planner
+(3)	Technician
+(4)	Senior Associate
+(5)	Associate*
+* The Associate may transfer into a vacancy of Technician without becoming a Senior Associate
+4h Southern Division Design Department June 1,2003
+Exhibit A - OP&M	- 16 -	June 1,2003
+EXHIBIT A
+WESTERN DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Design Department
+<1) Designer
+(2)	p anner
+(3)	Technician
+(4)	Senior Associate
+(51 Associate*
+* The Associate may transfer into a vacancy of Technician without becoming a Senior Associate
+4i Western Division Design Department June 1, 2003
+Exhibit A - OP&M	- 17 -	June 1,2003
+EXHIBIT A
+DISTRIBUTION CONTROL CENTER DEPARTMENT
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Prior to July 24. 2003
+After July 24.2003
+(11 Dispatcher
+Distribution System Operator
+(Note 4)
+Dispatcher
+(Note 2
+(21 Dispatcher in Training
+|	(Note 2)	|
+Electric Dispatcher	Gas Dispatcher
+(Note 1)	(Note 1)
+(Utility Services Department)
+(Note 3}
+Note 1: Denotes Employees in the department as of 10/26/98,
+Note 2: Disabled employees may be placed as a Dispatcher in accordance with Article 11, Section 6 of Labor Agreement,
+Note 3; Employees entering into this department shall come from the Utility Services Department ■& Division.
+Note 4: Employees entering into the job classification of Distribution System Operators shall be qualified Journeyman in Electric, Substation, Gas or Transmission Line Departments.
+5a Distribution Control Center Department June 1,2003
+Exhibit A - OP&M	- 18 -	June 1,2003
+EXHIBIT A
+ELECTRIC DISTRIBUTION OPERATIONS MAINTENANCE SPECIALIST DEPARTMENT AND DIVISION (ELECTRIC DISTRIBUTION SPECIALIST)
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+(1)	Electric Distribution Specialist
+(2)	Electrician Distribution Specialist in TYaining
+(3)	Journeymen as listed in Exhibit D
+6a Electric Distribution Operations Maintenance Specialist Department and Division June 1,2003
+Exhibit A - OP&M	-19-	June 1,2003
+EXHIBIT A
+BOULDER DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Line Department
+(2) Lineman-Trouble man
+(1> Working Foreman
+—I------------------------------------!
+(21 *Lineman	(2) * Local Service Representative
+(3) Apprentice Lineman
+(Utility Services Department') (Note 1)
+Note 1Employees entering into this department shall come from Utility Services Department.
+7a Boulder Division Electric Line Department June 1.2003
+Exhibit A - OP&M	- 20 -	June 1,2003
+EXHIBIT A BOULDER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Meter Department
+fl) Working Foreman
+(2)	Senior Meterman
+(3)	Meterman
+(4)	Apprentice Meterman
+(Utility Services Department)
+(Note 1)
+Note 1; Employees entering into this department shall come from Utility Services Department,
+7b Boulder Division Electric Meter Department
+June 1, 2003
+Exhibit A - OP&M	- 21 -	June 1,2003
+EXHIBIT A
+DENVER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS Electric Line Department
+(1)	Trouble Foreman	(1) Overhead Foreman (Working)	(Working) 1	.	1		(1) Underground Foreman (Working-) 1
+		(2) *Lineman (Cableman)
+1	1	1 (2)	*Lineman-	(2) *Lineman	(2) *Vau)tman-Cableman	(2) *Lineman Troubleman	Overhead	|	Underground (3)	Apprentice	(3) Apprentice	(3) Inside Lineman	Vaultman-Cableman	Troubleman		
+(41 Street-Light 14) Support Technician Inspector	(Note 2) 1			
+(Utility Servict	;s Department)	
+(Note I)
+Note I: Employees entering into this department shall come from transfers from Flows la, 7d. 15a, 15b, 15c, 15d, 17a.
+Note 2: When the Support Technician is vacated, the duties performed will be split into the Associate and Utility worker B classification and this position will cease to exist.	,
+7c Denver Division Electric Line Department June 1,2003
+Exhibit A - OP&M	- 22 -	June 1.2003
+EXHIBIT A
+DENVER DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Meter Department
+(1> Working Foreman	(1) Electric Meter Department
+(2l Senior Meterman
+(3)	Meterman
+(4)	Apprentice Meterman
+(Utility Services Department) (Note l)
+Note 1: Employees entering into this department shall come from transfers from Flows Ja. 7c, 15a. 15b, 15c. 15d. 17a.
+7d Denver Division Electric Meter Department June 1,2003
+Exhibit A ■ OP&M	- 23 -	June 1, 2003
+EXHIBIT A
+FRONT RANGE DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Line Department
+(1) Working Foreman
+(23 *Lineman-Trouhleman
+(23 * Lineman
+(33 Apprentice Lineman
+('Utility Services Department)
+(Noie 1)
+Note I: Employees entering into this department shall come from Utility Services Department & Division,
+7e Front Range Division Electric Line Department June 1,2003
+(23 *Locai Service Representative
+Exhibit A - OP&M	- 24 -	June 1, 2003
+EXHIBIT A
+FRONT RANGE DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Meter Department
+(1)	Senior Meterman
+(2)	Meterman I
+(3)	Apprentice Meterman
+^Utility Services Department! (Note I)
+Note 1: Employees entering into this department shall come from Utility Services Department.
+7f Front Range Division Electric Meter Department June 1,2003
+J?	EXHIBIT A
+3"
+|	HIGH PLAINS DIVISION
+| JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+2
+Electric Line Department
+11) Working Foreman
+j
+। (2) *Lineman-Troubleman	(2) *Lineman
+(3) Apprentice Lineman
+(Utility Services Department)
+(Note 1)
+Note 1: Employee*; entering into Lhi* department shall come from the Utility Services Department, 3
+—	7g High Plains Division
+g	Electric Line Department
+8	June 1,2003
+Exhibit A - OP&M	- 26 -	June 1, 2003
+EXHIBIT A
+HIGH PLAINS DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Meter Department
+(2)	Senior Meterman
+(3)	Meterman
+I
+(4)	Apprentice Meterman
+(Utility Services Department)
+(Note I)
+Note I: Employees entering into this department shall come from transfers from Utility Services Department.
+7h High Plains Division Electric Meter Department June 1,2003
+Exhibit A - OP&M	- 27 -	June I, 2003
+EXHIBIT A
+MOUNTAIN DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Line Department
+(1) Working Foreman
+(2) *Lineman-Troubleman
+L3LApQrenti£tLLmeman
+(4) * Dispatcher
+(Note 1) I
+(Note 2)
+Note 1: Disabled employees may be placed as a Dispatcher in accordance with Article 11,6 of the Labor Agreement, Note 2: Employees entering inlo this department shall come from the Utility Services Department.
+7i Mountain Division Electric Line Department June i, 2003
+(2) *Local Service Representative
+Exhibit A - OP&M	- 28 -	June 1,2003
+EXHIBIT A
+MOUNTAIN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Meter Department
+(2)	Senior Meterman
+(3)	Meter man
+<4i Apprentice Meterman
+(Utility Services Department^ (Note 1)
+Note I: Employees entering into this department shall come from the Utility Services Department.
+7j Mountain Division Electric Meter Department
+June 1, 2003
+Exhibit A - OP&M	- 29 -	June I. 2003
+EXHIBIT A NORTHERN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Line Department
+(1) Working Foreman
+(2) * Lineman
+(2) *Lineman-Troiibleinan
+(31 A on rent	ce Lineman
+	
+futility Services Department)
+(Note 2)
+(2)	*Local Service Representative
+(3)	Dispatcher (Greelev only)
+Note 1: Promotions, demotions & reductions in force shall be accomplished first at the headquarters involved and then within the Northern Division, This shall apply only to promotions, demotions & reductions in force.
+Note 2: Employees entering into this department shall come from the Utility Services Department.
+7k Northern Division Electric Line Department June 1, 2<H)3
+Exhibit A-OP&M	-30-	June 1,2003
+EXHIBIT A
+NORTHERN DIVISION ■JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Meter Department
+(1)	Senior Meterman
+(2)	Meterman
+(3)	Apprentice Meterman
+(Utility Services Department)
+(Note 2)
+Note 1: Promotions, demotions & reductions in force shall be accomplished first at the headquarters involved and then within the Northern Division. This shall apply only to promotions, demotions & reductions in force.
+Note 2: Employees entering into this department shall come from the Utility Services Department.
+7L Northern Division Electric Meter Department June 1,2003
+Exhibit A - OP&M	-31-	June 1,2003
+EXHIBIT A
+SAN LUIS VALLEY DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Line Department
+(1)	Working Foreman
+<21 *Lineman-Troubleman	<21 *Lineman	(2) *Local Service Representative
+(3) Apprentice Lineman
+(Utility Services Department) (Note [)
+Note 1: Employees entering into this department shall come from the Utility Services Department.
+7m San Luis Valley Division Electric Line Department
+June 1,2003
+Exhibit A - OP&M	- 32 -	June 1,2003
+EXHIBIT A
+SAN LUIS VALLEY DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Meter Department
+(2)	Senior. Meterman
+(3)	Meterman
+(4)	Apprentice Meterman
+(Utility Services Department) (Note 1)
+Note I: Employees entering into this department shall come from Utility Services Department.
+7n San Luis Valley Division Electric Meter Department June 1, 2003
+o
+EXHIBIT A
+WESTERN DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Line Department
+(1) Working Foreman
+I------------
+(2) *Lineman-Troubleman w
+i
+(2) *L neman
+-----------------1
+(2) *Local Service Representative
+(3)	Apprentice Lineman
+(4)	* Dispatcher
+(Note I)
+^Utility Services Department)
+(Note 2)
+Note I: Disabled employees may be placed as a Dispatcher in accordance with Article 11.6 of the Labor Agreement.
+c Note 2: Employees entering into this department shall come from the Utility Services Department, o
+—	7o Western Division
+w	Electric Line Department
+§	June 1, 2003
+Exhibit A - OP&M	- 34 -	June 1, 2003
+EXHIBIT A
+WESTERN DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Electric Meter Department
+(1)	Working Foreman
+i
+(2)	Senior Meterman
+I
+(3)	Meterman
+(4)	Apprentice Meterman
+(Utility Services Department) (Note I)
+Note 1: Employees entering into this department shall come from the Utility Services Department.
+7p Western Division Electric Meter Department
+June 1,2003
+Exhibit A-OP&M	-35-	June 1,2003
+EXHIBIT A
+CAMEO DEPARTMENT & DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Energy Supply
+(1) Working Foreman, Mechanic		
+(21 Mechanic Specialist (3) Apprentice Mechanic Specialist 1		(3) Working Foreman, Coal	(2)	Control Specialist (3)	Apprentice Control Specialist
+	(4) Plant Specialist A	(4) Stores Specialist
+	(5) Plant Specialist B |	1		
+	(6) Plant Specialist C	
+8a Cameo Department & Division Energy Supply June 1, 2003
+Exhibit A - OP&M	- 36 -	June I, 2003
+EXHIBIT A
+COMANCHE DEPARTMENT & DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Energy Supply
+(1)	Working Foreman. Mechanic
+(2)	Mechanic Specialist
+(31 Apprentice Mechanic Specialist L________________________________
+(2> Control Specialist
+(3)	Working Foreman, Coal	(3) Apprentice Control Specialist
+---------------1-----------------------------------------------1
+(4)	Plant Specialist A (4) Stores Specialist
+(5)	Plant Specialist B
+(6)	Plant Specialist C
+8b Comanche Department & Division Energy Supply June 1,2003
+Exhibit A - OP&M	- 37 -	June 1,2003
+EXHIBIT A
+FORT ST VRAIN DEPARTMENT & DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Energy Supply
+(D Working Foreman. Mechanic
+(2)	Meehan c Specialist	(2) Control Specialist
+(3)	Apprentice Mechanic Specialist	(3) Apprentice Control Specialist
+1	I	'
+<43 Plant Specialist A	U l Stores_Specialist
+<5> Plant Specialist B
+I 1------------------------------------------
+(6) Plant Specialist C
+Sc Fort SU Vrain Department & Division Energy Supply
+June 1,2003
+Exhibit A - OP&M	- 38 -	June 1, 2003
+EXHIBIT A
+HAYDEN DEPARTMENT & DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+(1) Working Foreman, Mechanic
+I
+(21 Mechanic Specialist
+(3) Apprentice Mechanic Specialist
+(3) Working Foreman, Coal
+(4)	Plant Specialist A
+I
+(5)	Plant Specialist B
+Plant Specialist C
+Energy Supply
+(2)	Control Specialist
+I
+(3)	Apprentice Control Specialist
+(4)	Stores Specialist
+(2)	Instrument (2) Electrician Specialist (Hayden) Specialist (Hayden)
+(3)	Electrician
+8d Hayden Department & Division Energy Supply June 1,2003
+Exhibit A - OP&M	- 39 -	June 1,2003
+EXHIBIT A
+METRO DEPARTMENT & DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Energy Supply
+(Arapahoe, Cherokee, Steam Heat. Zuni Stations)
+11)	Working Foreman. Mechanic
+(2)	Mechanic Specialist	(2) Control Specialist
+(3)	Apprentice Mechanic Specialist	(3) Working Foreman, Coal	(3) Apprentice Control Specialist
+1-----------------------------------I------------------------------------1
+(4)	Plant Specialist A	(4) Stores Specialist
+(5)	Plant Specialist B | I------------------------------------------
+(6)	Plant Specialist C
+8e Metro Department & Division Energy Supply
+June 1, 2003
+Exhibit A - OP&M	- 40 -	June 1,2003
+EXHIBIT A
+PAWNEE DEPARTMENT & DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+(1)	Working Foreman. Mechanic
+(2)	Meehan c Specialist
+f3) Apprentice Mechanic Specialist
+Energy Supply
+(2) Control Specialist
+f3~l Working Foreman. Coal
+(4)	Plant Specialist A
+(5)	Plant Specialist B ’—
+(6)	Plant Specialist C
+43) Apprentice Control Specialist
+(4) Stores Specialist
+8f Pawnee Department & Division Energy Supply June 1, 2003
+Exhibit A-OP&M	-41-	June 1,2003
+EXHIBIT A
+VALMONT DEPARTMENT & DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+(1)	Working Foreman, Mechanic I
+(2)	Mechanic Specialist
+(3) Apprentice Mechanic Specialist
+I_________________
+Energy Supply
+(2) Control Specialist
+(3) Working Foreman. Coal
+(4) Plant Specialist A
+Plant Specialist B
+(6) Plant Specialist C
+8g Valmont Department & Division Energy Supply June 1,2003
+(31 Apprentice Control Specialist
+____________,____I
+Exhibit A - OP&M	- 42 -	June 1,2003
+EXHIBIT A BOULDER HYDRO DEPARTMENT & DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Energy Supply
+('ll Working Foreman. Mechanic
+(2)	Mechanic Specialist	(2) Control Specialist
+(3)	Apprentice Mechanic Specialist	(3) Working Foreman. Coal	(3) Apprentice Control Specialist
+1-------------------------------------------I-------------------------------------------1
+(4)	Plant Specialist A	(4) Stores Specialist
+(5)	Plant Specialist B 1-----------------------------------------------------
+(6)	Plant Specialist C
+8h Boulder Hydro Department & Division
+Energy Supply
+June 1, 2003
+Exhibit A - OP&M	- 43 -	June 1,2003
+EXHIBIT A
+CABIN CREEK/GEORGETQWN HYDRO DEPARTMENT & DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Energy Supply
+O') Working Foreman, Mechanic
+<23 Mechanic Specialist
+I
+(31 Apprentice Mechanic Specialist
+(2)	Control Specialist
+I
+(3)	Apprentice Control Specialist
+(4)	Plant Specialist A	(4) Stores Specialist
+(51 Plant Specialist B
+I
+(til Plant Specialist C
+8i Cabin Creek/Georgetown Hydro Department & Division Energy Supply June 1,2003
+L
+Exhibit A - OP&M	-44 —	June 1,2003
+EXHIBIT A SHOSHONE HYDRO DEPARTMENT & DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+(1) Working Foreman, Mechanic
+(2) Mechanic Specialist
+Energy Supply
+!
+(4)_ Plant-Specialist A
+I
+(61 Plant Specialist C
+8j Shoshone Hydro Department & Division Energy Supply June 1,2003
+(2i Control Specialist
+(3)	Apprentice Control Specialist
+__________________I
+(4)	Stores Specialist
+Exhibit A - OP&M	- 45 -	June 1,2003
+EXHIBIT A AMES/SALIDA/TACOMA HYDRO DEPARTMENT & DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+(U Working Foreman. Mechanic
+Mechanic Specialist
+(31 Apprentice Mechanic Specialist
+Energy Supply
+(4) Plant Specialist A
+(5) Plant Specialist B
+(6)_Platlt Specialist C
+(3) Apprentice Control Specialist
+(4) Stores Specialist
+8k Ames/Salida/Tacoma Hydro Department & Division Energy Supply
+June 1.2003
+Exhibit A - OP&M	- 46 -	June 1, 2003
+EXHIBIT A
+BOULDER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Gas Department
+	
+1	1 (2) *District	(2) *Senior	(2) *Sen Service-Fitter	Service-Fitter {Note 1) L4) Apprentici	1	1 ice-Fitter	(2) *Service-	(2) *Lead Fitter-Welder	Service-Fitter (Note 2) Service-Fitter
+(Utility Services Department)
+(Note 3)
+Note ]: Shall apply to 1 -man operations in towns remote from division headquarters.
+Note 2: Where 2 or more Gas Operations employees are assigned in towns remote from division headquarters, only 1 employee shall be classified as Lead Service-Fitter.
+Note 3; Employees entering into this department shall come from the Utility Services Department,
+9a Boulder Division Gas Department June 1,2003
+Exhibit A - OP&M	- 47 -	June 1,2003
+EXHIBIT A DENVER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Gas Department
+Service Line of Flow (A)	(B) (1) Working Foreman	ID Working Foreman I	I	Construction & Maintenance Line of Flow (C) I'D Working Foreman	Pressure Control Line of Flow (D) (1) Working Foreman
+1	l (2) Senior Service-Fitter	(2) Lead Service-Fitter 1	,	i	(2) Lead Service-Fitter	1 (2) Lead Service-Fitter 1
+i (3) Service-Fitter	1 (3) Service-Fitter	1 (3) Service-Fitter
+(4) Specialist-in-Training (Note 1) 1		441 Specialist-in-Training (Note 1)	(4) Specialist-in-Training (Note 1) 	1
+(5)	Apprentice Service-Fitter
+.	(Utility Services Department!
+Note J: An employee whose job classification is listed on this
+Flow Diagram, other than Dispatcher, may bid	'	’
+Specialist-in-Training without regard to the tine of	,
+flow of this Exhibit A, based on department seniority.	Weaver Division
+Note 2: Employees entering into this department shall come	Gas Department
+from Utility Services Department.	June 1, 2003
+Exhibit A- OP&M	-48-	June 1,2003
+EXHIBIT A FRONT RANGE DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Gas Department
+(2) ’District Service-Fitter
+(Note I)
+(1)	Working Foreman
+! | ।
+(2)	’Senior	(2) ’Service-Fitter (2) ’Service-Fitter-
+Service-Fitter	Welder
+(3)	Apprentice Service jitter
+(Utility Services Department) (Note 3)
+I
+(2) ’Lead Service-Fitter
+(Note 2)
+Note I; Shall appty to 1-rnati operations in towns remote from division headquarters.
+Note 2: Where 2 or more Gas Operations employees are assigned in towns remote from division headquarters, only f employee shall be classified as Lead Service-Filler.
+Note 3r. Employees entering into this department shall come from Utility Services Department.
+9c Front Range Division Gas Department June 1,2003
+Exhibit A - OP&M	-49-	June 1,2003
+EXHIBIT A
+HIGH PLAINS DIVISION ■JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Gas Department
+	(1) Working Foreman
+(2) *District Service-Fitter (Note 1)	1	1	1 (2)	*Senior	(2) *Service-Fitter	(2) *Service-Fitter-	(2) *Lead Service-Fitter	Welder	Service-Fitter (Note 2) (3)	Apprentice Service-Fitter 1 futility Services Department) (Note 3)
+Mote 1: Shall apply to I-man operations in towns remote from division headquarters.
+Note 2; Where 2 or more Gas Operations employees are assigned in towns remote from division headquarters, only 1 employee shall be classified as Lead Service-Fitter. Note 3: Employees entering into this department shall come from Utility Services Department.
+9d High Plains Division
+Gas Department
+June 1,2003
+Exhibit A - OP&M	- 50 -	June 1, 2003
+EXHIBIT A MOUNTAIN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS Gas Department
+fl) Working Foreman				
+1 (2) ’District	1 (2) ’Senior	(2) ’Service-Fitter	1 (2) ’Service-Fitter-	(2) ’Lead
+Service-Fitter (Note 1)	Service-Fitter	(3) Apprentice Service-Fitter ^Utility Services Department) (Note 4)	Welder (3) Dispatcher (Note 3)	Service-Fitter (Note 2)
+Note 1: Shall apply to I-man operations in towns remote from division headquarters.
+Note 2: Where 2 or more Gas Operations employees are assigned in towns remote from division headquarters, only 1 employee shall be classified as Lead Service-Fitter. Note 3: Disabled employees may be placed as a Dispatcher in accordance with the Disabled Employee Policy as referenced in Article 11.6 of the Labor Agreement.
+Note 4; Employees entering into this department shall come from Utility Services Department.
+9e Mountain Division
+Gas Department
+June 1, 2003
+Exhibit A - OP&M	-51-	June 1,2003
+EXHIBIT A
+NORTHERN DIVISION JOB CLASSIFICATIONSAND DIAGRAM OF NORMAL PROMOTIONSAND DEMOTIONS
+Gas Department
+	(1) Working Foreman
+(2) *District Service-Fitter (Note 1}	"	1	1	1 (2)	*Senior	(2) ^Service-Fitter	(2) *Service-Fitter-	(2) *Lead Service-Fitter	Welder	Service-Fitter (Note 2} (3)	Apprentice Service-Fitter (Utility Services Department) (Note 3)
+Note I: Shell apply to 1-man operations in towns remote from division headquarters.
+Note 2: Where 2 or more Gas Operations employees are assigned in towns remote from division headquarters, only 1 employee shall be classified as Lead Service-Fit ter.
+Note 3; Employees entering into this department shall come from the Utility Services Department,
+9f Northern Division
+Gas Department
+June 1,2003
+S’	EXHIBIT A
+~	PUEBLO DIVISION
+? JOB CLASSIFICATIONSAND DIAGRAM OF NORMAL PROMOTIONSAND DEMOTIONS
+Gas Department
+(1) Working Foreman
+(2} *Lead Service-Fitter (2) *Senior	12) *Service-Fitter	(2i *Lead Welder
+y	Service-Fitter
+(3) Apprentice Service-Fitter
+i i i
+(Utility Services Department)
+(Note 1)
+Note 1: Employees entering into this department shall come from Utility Services Department, t—> c 3
+-	9g Pueblo Division
+g	Gas Department
+8	June 1,2003
+Exhibit A - OP&M	- 53 -	June 1,2003
+EXHIBIT A
+SAN LUIS VALLEY DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Gas Department
+	(D Workit		18 Foreman		
+(2) *District	1 (2) *Senior	(2) *Ser	ice-Fitter	(2) *Service-Fitter-	(2) *Lead
+Service-Fitter (Note 1)	Service-Fitter	(3) Apprentta	? Service-Fitter	Welder	Service-Fitter (Note 2)
+(Utility Services Department) (Note 3)
+Note I: Shall apply to 1-man operations in towns remote from division headquarters.
+Note 2: Where 2 or more Gas Operations employees are assigned in towns remote from division headquarters, only 1 employee shall be classified as Lead Service-Fitter.
+Note 3: Employees entering into this department shall come from Utility Services Department.
+9h San Luis Valley Division Gas Department June 1,2003
+Exhibit A - OP&M	- 54 -	June t, 2003
+EXHIBIT A
+WESTERN DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Gas Department (1) Working Foreman	
+	
+1 (2)	^District	(2) *Senior	(2) *Sen Service-Fitter	Service-Fitter (Note 1} (3)	Apprentict	ice-Fitter	(2) *Service-Fitter-	(2) *Lead Welder	Service-Fitter (Note 2) ? Service-Fitter
+(Utility Servic (No	(3) Dispatcher
+	(Note 3] es Department') te 4}
+Note I: Shall apply Co I-man operations in towns remote from division headquarters.
+Note 2: Where 2 or more Gas Operations employees are assigned in towns remote front division headquarters, only I employee shall be classified as Lead Service-Fitter. Note 3: Disabled employees may be placed as a Dispatcher in accordance with the Disabled Employee Policy as referenced in Article 11.6 of die Labor Agreement, Note 4: Employees entering into this department shall come from Utility Services Department.
+9i Western Division
+Gas Department
+June 1, 2003
+Exhibit A - OP&M	- 55 -	June 1,2003
+EXHIBIT A
+DENVER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Gas Meter Shop Department
+(D Working Foreman
+(2) Senior Meterman	(2) Senior Regulatorman
+(31 *Meterman	(3) *Regulatorman
+I
+(4) Apprentice Meterman
+I (Utility Services Department!
+(Note I)
+Note 1: Employees entering into this department shall come from the Utility Services Department.
+9j Denver Division Gas Meter Shop Department June 1, 2003
+Exhibit A - OP&M	- 56 -	June 1, 2003
+EXHIBIT A
+GAS DIVISION - DENVER
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Gas Mechanical Shop
+Welding	Machine Operations (1) Working Foreman	(It Lead Machine Operator	
+1	
+<2) Lead Welder	(2) Machine Operator	
+(3)	Welder (4)	Apprentice Welder 1		
+1 futility Services Department) (Note 2)	
+Note I: In order to bid to any position within the Company, a Lead Machine Operator or Machine Operator must have been a Lead Machine Operator and/or Machine Operator for at least 2 years.
+Note 2: Employees entering into this department shall come from Utility Services Department.
+9k Denver Division
+Gas Mechanical Shop
+June 1, 2003
+£	EXHIBIT A
+|	DENVER DIVISION
+> JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS o
+High Pressure Gas Department
+Leyden Distriet/Mesa District
+i LA
+1
+(1)	Working Foreman
+(2)	Field Operator	(2) Certified Welder
+______________________________________________I
+(3)	Sr. Natural Gas Fuel
+Station Mechanic
+(4)	Natural Gas Fuel Station Mechanic
+______________________________________________I
+(5)	Apprentice-Field Operator
+(6)	Laborer	(6) Roustabout
+Note: Denver Division Field Operator & Apprentice Field Operator classifications used as NSCHW & SW in compressor station operation & underground storage.
+C Note: Laborers will progress to Ute next 6-month wage step after working 6 months consecutive or otherwise. 5 —	9L Denver Division
+g	High Pressure Gas Department
+8	June 1, 2003
+Exhibit A-OP&M	-58-	June 1,2003
+EXHIBIT A MOUNTAIN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+High Pressure Gas Department
+Silverthorne District
+(1) Working Foreman I
+(2) Field	Operator	<2i Certified Welder
+			1
+		(3) Sr. Natural Gas Fuel Station Mechanic
+		(4) Natural Gas Fuel Station Mechanic 	l
+(51 Apprentice Field Operator I-------------------------------1------------------------------1
+(6) Laborer	(6) Roustabout
+Note: Denver Division Field Operator & Apprentice Field Operator classifications used as NSCHW & SW in compressor station operation & underground storage. Note: Laborers will progress to the next 6-month wage step after working 6 months consecutive or otherwise.
+9m Mountain Division High Pressure Gas Department June 1,2003
+Exhibit A - OP&M	- 59 -	June I, 2003
+EXHIBIT A NORTHERN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+High Pressure Gas Department
+Campion District/Roundup District
+(1)	Working Foreman
+(2)	Field Operator	(2) Certified Welder
+I
+(3)	Sr. Natural Gas Fuel Station Mechanic
+(4)	Natural Gas Fuel Station Mechanic
+I
+15) Apprentice Field Operator
+(6) Laborer	(6) Roustabout
+Note: Denver Division Field Operator & Apprentice Field Operator classifications used as NSCHW & SW in compressor station operation & underground storage. Note; Laborers will progress to the next 6-month wage step after working 6 months consecutive or otherwise.
+9n Northern Division High Pressure Gas Department June 1,2003
+Exhibit A - OP&M	- 60 -	June 1,2003
+EXHIBIT A SAN LUIS VALLEY DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+High Pressure Gas Department
+Del Norte District/Duraneo District
+ill Working Foreman
+(2)	Field Operator	(2) Certified Welder
+_____________________________________________I
+(3)	Sr, Natural Gas Fuel
+Station Mechanic I
+(4)	Natural Gas Fuel Station Mechanic
+_____________________________________________I
+(51 Apprentice Field Operator
+Laborer	(61) Roustabout
+Note: Denver Division Field Operator & Apprentice Field Operator classifications used as NSCHW & SW in compressor station operation & underground storage. Note: Laborers will progress to the next 6-month wage step after working 6 months consecutive or otherwise.
+9o San Luis Valley Division High Pressure Gas Department June 1,2003
+Exhibit A - OP&M	-61-	June i, 2003
+EXHIBIT A WESTERN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+High Pressure Gas Department
+Grand Junction Distrfct/Rangely District/Rifle District/Meeker District
+(11 Working Foreman
+I
+(2)	Field Operator	(2) Certified Welder
+_______________________________________________I
+(3)	Sr. Natural Gas Fuel
+Station Mechanic
+(4)	Natural Gas Fuel Station Mechanic
+I
+(Si Apprentice Field Operator
+i
+I-----------------------------------------------------------1
+(61 Laborer	(61 Roustabout
+Note: Denver Division Field Operator & Apprentice Field Operator classifications used as NSCHW & SW in compressor station operation & underground storage. Note: Laborers will progress to the next 6-month wage step after working 6 months consecutive or otherwise.
+9p Western Division High Pressure Gas Department June 1,2003
+Exhibit A - OP&M	- 62 -	June 1, 2003
+EXHIBIT A
+GAS STANDARDS DEPARTMENT AND DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Denver
+(1)	Gas Standards Technician
+10a Gas Standards Department and Division June 1,2003
+Exhibit A - OP&M	-63-	June J, 2003
+EXHIBIT A
+BOULDER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Meter Revenue Department
+Meter Reading
+(1) Order Reader*
+(2) Meter Reader**
+(3) Technician
+(3) Van Operator*
+Collection
+tl) Field Credit Representative
+(3) Collection Com
+Representative
+*
+*	The classifications of Order Reader, Van Operator and Collection Contact Rep applies to the Denver area only, except for the application of Article 19, Section 3.
+*	* Meter Readers will be given 1st opportunity for promotion into Field Credit Representative vacancies by Meter Reading Department seniority.
+Ila Boulder Division Meter Revenue Department June I, 2003
+Exhibit A - OP&M	- 64 -	June 1,2003
+EXHIBIT A
+DENVER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Meter Revenue Department
+Meter Reading
+I
+(1)	Order Reader*
+(2)	Meter Reader**
+Collection
+<23 Field Credit Representative
+(3) Technician--------------(3'1 Van Operator*
+<3i Collection Contact Representative*
+*	The classifications of Order Reader, Van Operator and Collection Contact Rep applies to the Denver area only, except for the application of Article 19, Section 3.
+•	* Meier Readers will be given 1st opportunity for promotion into Field Credit Representative vacancies by Meter Reading Department seniority.
+lib Denver Division Meter Revenue Department June 1,2003
+Exhibit A - OP&M	-65-	June 1,2003
+EXHIBIT A
+FRONT RANGE DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Meter Revenue Department
+(1) Order Reader*
+Collection
+(2) .Meter Reader**
+(2i Field Credi
+I Representative
+(3) Technician
+(3) Van Operator*
+(3l Collection Contact Representative
+*
+*	The classifications; of Order Reader, Van Operator and Collection Contact Rep applies to the Denver area only, except for the application of Article 19, Section 3.
+*	* Meter Readers will be given 1st opportunity for promotion into Field Credit Representative vacancies by Meter Reading Department seniority.
+lie Front Range Division Meter Revenue Department June 1, 2003
+Exhibit A - OP&M	-66-	June 1,2003
+EXHIBIT A
+HIGH PLAINS DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Meter Revenue Department
+Meter Reading
+(1) Order Reader*
+(2) Meter Reader**
+(3) Technician
+(31 Van Operator*
+Collection
+(21 Field Credit Representative
+(3) Collection Con
+Representative*
+* The classifications of Order Reader, Van Operator and Collection Contact Rep applies to the Denver area only, except for the application of Article 19, Section 3, " Meter Readers will be given I st opportunity for promotion into Field Credit Representative vacancies by Meter Reading Department seniority.
+lid High Plains Division Meter Revenue Department June 1, 2003
+Exhibit A - OP&M	- 67 -	June 1,2003
+EXHIBIT A
+MOUNTAIN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Meter Revenue Department
+Meter Reading
+(D Order Reader*
+Collection
+(2) Meter Reader**
+(2)	Field Credit Representative
+(3i Technician
+<3> Van Operator*	(3) Collection Contact Representative*
+* The classifications of Order Reader, Van Operator and Collection Contact Rep applies to the Denver area only, except for the application of Article 19, Section 3. ** Meter Readers will be given 1st opportunity for promotion into Field Credit Representative vacancies by Meter Reading Department seniority,
+lie Mountain Division Meter Revenue Department June 1,2003
+Exhibit A-OP&M	-68-	June 1.2003
+EXHIBIT A
+NORTHERN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Meter Revenue Department
+Meter Reading
+Collection
+(l> Order Reader*
+(2) Meter Reader**
+(31 Technician
+13) Van Operator*
+|2) Field Credit Representative
+(3) Collection Con
+Representative*
+*	The classifications of Order Reader. Van Operator and Collection Contact Rep applies to the Denver area only, except for the application of Article 19. Section 3.
+*	* Meter Readers will be given 1st opportunity for promotion into Field Credit Representative vacancies by Meter Reading Department seniority.
+Ilf Northern Division Meter Revenue Department June 1,2003
+Exhibit A - OP&M	- 69 -	June 1.2003
+EXHIBIT A
+PUEBLO DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Meter Revenue Department
+Meter Reading
+til Order Reader*
+(2)	Meter Reader**
+(3)	Technician-----------(3) Van Operator*
+Collection
+(2) Field Credi	Representative
+C3) Collection Con	act Renresentative*
+* The classifications of Order Reader, Van Operator and Collection Contact Rep applies to the Denver area only, except for the application of Article 19, Section 3. ** Meter Readers will be given 1st opportunity for promotion into Field Credit Representative vacancies by Meter Reading Department seniority.
+11g Pueblo Division Meter Revenue Department June 1, 2003
+I
+Exhibit A - OP&M	-70-	June i, 2003
+EXHIBIT A
+SAN LUIS VALLEY DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Meter Revenue Department
+Meter Reading
+(ILQrdfiLBfiadsii
+(2) Meter Reader**
+(31 Technician------------(3) Van Operator*
+Collection
+Field CreditRepresentative
+(3) Collection Contact Representative*
+* The classifications of Order Reader, Van Operator and Collection Contact Rep applies to the Denver area only, except for the application of Article 19, Section 3. Meter Readers will be given 1st opportunity for promotion into Field Credit Representative vacancies by Meter Reading Department seniority.
+llh San Luis Valley Division Meter Revenue Department June 1,2003
+Exhibit A - OP&M	- 71 -	June 1.2003
+EXHIBIT A
+WESTERN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Meter Revenue Department
+Meter F	leading
+	
+(1) Order Reader111
+(2) Meter Reader**
+13) Technician-------------13) Van Operator*
+Collection
+(2)	Field Credit Representative
+(3)	Collection Contact Representative*
+* The classifications of Order Reader. Van Operator and Collection Contact Rep applies to the Denver area only, except for the application of Article >4, Section 3. ” Meter Readers will be given 1st opportunity for promotion into Field Credit Representative vacancies by Meter Reading Department seniority.
+111 Western Division Meter Revenue Department June 1, 2003
+Exhibit A-OP&M	-72-	June 1,2003
+EXHIBIT A
+METROLOGY DEPARTMENT AND DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Denver
+fl) Working Foreman
+(2)	Senior Metroloaist/LMS
+(3)	Gas & Electric Meter &--------------(3) Metrologist
+Transformer Shop Specialist (G&E)*
+* Employees in the Design Department Associate classification will be given first right of transfer into the G&E classification.
+12a Metrology Department and Division
+June 1,2003
+Exhibit A - OP&M	-73-	June 1,2003
+EXHIBIT A
+SERVICE INVESTIGATION DEPARTMENT AND DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+(1) Senior Service Investigation Specialist
+(2) In & On Building Specialist
+(21 Service Investigation Specialist
+(2) Project Analyst
+(3) Trainee
+13a Service Investigation Department and Division June 1,2003
+Exhibit A - OP&M	-74-	June J, 2003
+EXHIBIT A
+BOULDER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Stores Department
+(1) Senior Storekeeper
+(ZL Storekeeper
+(3)	Storekeeper Trainee
+(4)	Delivervuerson
+(5)	Stores Utility Worker
+Mail Bus Driver
+14a Boulder Division
+Stores Department
+June 1, 2003
+Exhibit A - OP&M	-75-	June! T2OO3
+EXHIBIT A
+DENVER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Stores Department
+(1)	Senior Storekeeper
+I
+(2)	Storekeeper	Sr AS/RS Specialist
+(3)	Storekeeper Trainee
+I
+(4)	Deli very person
+15) Stores Utility Worker
+I
+(6) Mail Bus Driver
+14b Denver Division
+Stores Department
+June 1,2003
+Exhibit A - OP&M	-76-	June 1, 2003
+EXHIBIT A
+FRONT RANGE DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Stores Department
+(1)	Senior Storekeeper
+(2)	Storekeeper
+(3)	Storekeeper Trainee
+(4)	Delivervperson
+(5)	Stores Utility Worker
+(6)	Mail Bus Driver
+14c Front Range Division Stores Department June 1,2003
+Exhibit A - OP&M	-77-	June 1,2003
+EXHIBIT A
+HIGH PLAINS DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Stores Department
+(1)	Senior Storekeeper
+(2)	Storekeeper
+i'3'i Storekeeper Trainee
+(4)	Deliveryperson
+(5)	Stores Utility Worker
+f6> Mail Bus Driver
+14d High Plains Division Stores Department June 1, 2003
+Exhibit A - OP&M	-78-	June 1,2003
+EXHIBIT A
+MOUNTAIN DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Stores Department
+hl) Senior Storekeeper
+1'2) Storekeeper
+(3)	Storekeeper Trainee
+(4)	Deliveryperson
+t5) Stores Utility Worker
+(6) Mail Bns Driver
+14e Mountain Division Stores Department June 1,2003
+Exh i bit A - OP&M	- 79 -	June I, 2003
+EXHIBIT A
+NORTHERN DIVISION ■IOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Stores Department
+(1) Senior Storekeeper
+(21 Storekeeper I
+(3)	Storekeeper Trainee
+(4)	Delivervoerson I (St Stores Utility Worker
+(6) Mail Bus Driver
+14f Northern Division Stores Department June 1,2003
+Exhibit A - OP&M	- 80 -	June 1, 2003
+EXHIBIT A
+PUEBLO DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Stores Department
+(I)	Senior Storekeeper
+I
+(2)	Storekeeper
+(3)	Storekeeper Trainee
+(4)	Delivervperson
+(5)	Stores Utility Worker
+(61 Mail Bus Driver
+14g Pueblo Division Stores Department June 1,2003
+Exhibit A - OP&M	-81 -	June I, 2003
+EXHIBIT A
+SAN LUIS VALLEY DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Stores Department
+(1)	Senior Storekeeper
+(2)	Storekeeper
+(3)	Storekeeper Trainee
+I
+(4)	Delivervperson
+I
+(5)	Stores Utility Worker
+(6)	Mail Bus Driver
+14h San Luis Valley Division Stores Department June 1,2003
+Exhibit A - OP&M	- 82 -	June I, 2003
+EXHIBIT A
+WESTERN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Stores Department
+(1)	Senior Storekeeper
+(2)	Storekeeper
+(3)	Storekeeper Trainee
+(41 Deliveryperson I (51 Stores Utility Worker
+(6) Mail Bus Driver
+141 Western Division Stores Department June 1,2003
+Exhibit A - OP&M	-83-	June 1, 2003
+EXHIBIT A
+SYSTEM OPERATIONS DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Denver Substation Department
+(1) Electrical Foreman - Subs (Working)	(1) Electrical	(1) Shop Foreman - Plants	Foreman (Working)	(Working) ..	1	1		
+(2) Electrician Specialist •	(2) Electrician	(2) Cli Specialist -	Med		issified ianic
+Subs I		Plants .	1		
+(3) Elect	1 rician	(3) Apprentice		
+	Electrician Specialist - Plants		
+(4) Appr Electri	entice :ian	(4) Api Mec	»rentice tanic
+		(5) Heiner	
+(6) Laborer
+		(1)	Construction (1) Transformer Foreman	Foreman (Working)	(Working) (2)	Construction	(2) Classified Mechanic	Transformer		
+(3) * Heavy	(3) *Tool (3) Cons Truck	Room	Utilit			Mechanic truction	(3) Apprentice vman	Transformer	
+Operator Attendant			Mechanic	
+				
+15a System Operations Division Denver Substation Department June 1, 2003
+Exhibit A - OP&M	- 84 -	June 1,2003
+EXHIBIT A
+SYSTEM OPERATIONS DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS Northeast Substation Department
+(1) Electrical Foreman - Subs (Working)
+(2) Electrician Specialist - Subs 1		
+(3) Elect ri	cian - Subs
+	
+(4) Apprentice Electrician
+(511	elper
+	
+Laborer
+15b System Operations Division Northeast Substation Department June 1,2003
+(1)	Electrical Foreman - Plants (Working)
+(2)	Electrician Specialist - Plants
+(3) Apprentice Electrician Specialist - Plants
+Exhibit A - OP&M	- 85 -	June I, 2003
+EXHIBIT A
+SYSTEM OPERATIONS DIVISION ■JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS Southern Substation Department
+(1)	Electrical Foreman - Subs (Working) (2)	Electrician Specialist - Subs	(1)	Electrical F (Wor (2)	Electricians	ijreman - Plants king) pecialist - Plants ;e Electrician - Plants
+(3) Electr (4) Apprenti	cian - Subs	(3) Apprentit Spedalis ce Electrician	
+	""	1 (5> Heiner 1 (61 Laborer	
+15c System Operations Division Southern Substation Department June 1,2003
+Exhibit A - OP&M	- 86 -	June 1,2003
+EXHIBIT A
+SYSTEM OPERATIONS DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS Western Substation Department
+(1)	Electrical Foreman - Subs (Working) 1	 (2)	Electrician Specialist - Subs		(1)	Electrical Foreman - Plants (Working) 1 (2)	Electrician Specialist • Plants	
+(3) Electri (4) Apprenti	dan - Subs ce Electrician	(3) Apprenti* Specialis	:e Electrician - Plants
+	(5) 1	elper	
+(6) Laborer
+15d System Operations Division Western Substation Department June 1, 2003
+Exhibit A - OP&M	- 87 -	June 1, 2003
+EXHIBIT A
+SYSTEM OPERATIONS DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Substation and Line Equipment Test Department
+(1)	Electrical Equipment Tester
+(2)	Apprentice Electr cal Equipment Tester
+(3)	Helper
+15e System Operations Division Substation & Line Equipment Test Department June 1,2003
+Exhibit A - OP&M	- 88 -	June 1,2003
+EXHIBIT A
+SYSTEM OPERATIONS DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Transmission Line Department
+Transmission Line Crews
+<1> Working foreman
+(2) *L	neman
+	
+(2) * Lineman-Patrolman (Remote)
+(2) * Lineman-Patrolman (Urban)
+(3) ’Patrolman (L&D)
+(3) ’Patrolman
+(3i Apprentice Lineman
+(4) ’Line Truck (4) ’Special Pole (4) ’Groundman Operator Truck Operator
+(5) Laborer
+Note: Patrolman L&D or Patrolman must be a Journeyman Lineman to be eligible for Lineman-Patrol man.
+15f System Operations Division Transmission Line Department June 1, 2003
+Exhibit A - OP&M	-89-	June 1,2003
+EXHIBIT A BOULDER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Transportation Department
+(1)	Fleet Mechanic Lead
+(2)	Fleet Mechanic A
+(3)	Fleet Mechanic B
+(4~) Fleet Mechanic C
+16a Boulder Division Transportation Department June 1,2003
+Exhibit A - OP&M	- 90 -	June 1, 2003
+EXHIBIT A
+DENVER DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Transportation Department
+(1)	Fleet Mechanic Lead
+(2)	Fleet Mechanic A
+(3)	Auto Painter	(3) Fleet Mechanic B
+(4)	Fleet Mechanic C
+16b Denver Division Transportation Department June 1, 2003
+Exhibit A - OP&M	-91-	June 1,2003
+EXHIBIT A MOUNTAIN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Transportation Department
+tli Fleet Mechanic Lead
+(2)	Fleet Mechanic A
+(3)	Fleet Mechanic B
+(4)	Fleet Mechanic C
+16c Mountain Division Transportation Department June 1,2003
+Exhibit A * OP&M	- 92 -	June 1,2003
+EXHIBIT A
+NORTHERN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Transportation Department
+(1)	Fleet Mechanic Lead
+(2)	Fleet Mechanic A
+(3)	Fleet Mechanic B
+(4> Fleet Mechanic C
+16d Northern Division Transportation Department June 1,2003
+Exhibit A - OP&M	- 93 -	June 1,2003
+EXHIBIT A
+PUEBLO DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Transportation Department
+(1) Fleet Mechanic Lead
+<21 Fleet Mechanic A
+(3)	Fleet Mechanic B
+(4)	Fleet Mechanic C
+16e Pueblo Division Transportation Department June L 2003
+Exhibit A - OP&M	- 94 -	June 1,2003
+EXHIBIT A
+SAN LUIS VALLEY DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Transportation Department
+tit Fleet Mechanic Lead
+12> Fleet Mechanic A
+(3) Fleet Mechanic B
+14) Fleet Mechanic C
+16f San Luis Valley Division Transportation Department June 1,2003
+Exhibit A-OP&M	-95-	June 1,2003
+EXHIBIT A
+WESTERN DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS I
+Transportation Department	I
+i
+(1)	Fleet Mechanic Lead
+i
+(2)	Fleet Mechanic A	j
+(3)	Fleet Mechanic B
+.	I
+(4> Fleet Mechanic C
+16g Western Division Transportation Department
+June 1,2003
+Exhibit A - OP&M	- 96 -	June I, 2003
+EXHIBIT A
+DENVER DIVISION
+.JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONSAND DEMOTIONS
+Utility Services Department
+(1) Utility worker Lead
+(21 Utilityworker B
+(3) Utilityworker C
+Note: The affected employees in this department on date of ratification will, in the future, have first priority for promotion & transfers within their former respective Exhibits A & D.
+17a Denver Division Utility Services Department June 1,2003
+I
+Exhibit A - OP&M	- 97 -	June 1.2003
+EXHIBIT A
+MOUNTAIN DIVISION JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Utility Services Department
+fl) Utility worker Lead
+(2) Utility worker B
+(31 Utility worker C
+Note: The affected employees in this department on dale of ratification will, in the future, have first priority for promotion & transfers within their former respective Exhibits A & D.
+17b Mountain Division
+Utility Services Department June 1,2003
+Exhibit A-OP&M	-98-	June 1,2003
+EXHIBIT A
+NORTHERN DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Utility Services Department
+(1)	Utility worker Lead
+(2)	Utilitvworker B
+(3l Ltilitvwnrker C
+Note: The affected employees in this department on date of ratification will, in the future, have first priority for promotion & transfers within their former respective Exhibits A & D.
+17c Northern Division Utility Services Department June 1, 2003
+Exhibit A - OP&M	- 99 -	June 1,2003
+EXHIBIT A
+SOUTHERN DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Utility Services Department
+(1)	Utility worker Lead
+(2)	Utilitvworker B
+(3)	Utilityworker C
+Note: The affected employees in this department on dale of ratification will, in the future, have first priority for promotion & transfers within their former respective Exhibits A & D.
+17d Southern Division Utility Services Department June 1, 2003
+Exhibit A - OP&M	- 100-	June I, 2003
+EXHIBIT A
+WESTERN DIVISION
+JOB CLASSIFICATIONS AND DIAGRAM OF NORMAL PROMOTIONS AND DEMOTIONS
+Utility Services Department
+(1) Utility worker Lead
+(2l Utility worker B
+<31 Utilityworker C
+Note: The affected employees in this department on date of ratification will, in the future, have first priority for promotion & transfers within their former respective Exhibits A & D
+17e Western Division Utility Services Department June 1,2003
+EXHIBIT C
+OPERATIONS, ENERGY SUPPLY & MAINTENANCE AGREEMENT
+ENTERING OR HIRING-IN JOBS
+(The job classification listed includes all steps in the classification)
+Flow	Diagram No. & Department	lob Classification
+la	Appliance Service Department & Division	Helper
+2a	Construction Department & Division	Laborer
+3a	Corrosion Prevention Department - Denver Division	CP Technician
+3b	Corrosion Prevention Department - Mountain Division	CP Technician
+3c	Corrosion Prevention Department - Northern Division	CP Technician
+3d	Corrosion Prevention Department -San Luis Valley Division	CP Technician
+3e	Corrosion Prevention Department - Western Division	CP Technician
+4a	Design Department - Boulder Division	Associate
+4b	Design Department - Denver Division	Associate
+4c	Design Department - Front Range Division	Associate
+4d	Design Department - High Plains Division	Associate
+4e	Design Department - Mountain Division	Associate
+4f	Design Department - Northern Division	Associate
+4g	Design Department - Pueblo Division	Associate
+4h	Design Department - Southern Division	Associate
+4i	Design Department - Western Division	Associate
+5a	Distrubution Control Center Department	Dispatcher
+6a	Electric Distribution Operations Maintenance	Elec Dist Ops Mtce Specialist Department and Division	Specialist in Training	
+7a	Electric Line Department - Boulder Division	Utility Worker
+7b	Electric Meter Department - Boulder Division	Utility Worker
+Exhibit C - OP&M	- 1 -	June 1, 2003
+Flow Diagram No. & Department		Job Classification
+7c	Electric Line Department - Denver Division	Utility Worker
+7d	Electric Meter Department - Denver Division	Utility Worker
+7e	Electric Line Department - Front Range Division	Utility Worker
+7f	Electric Meter Department - Front Range Division	Utility Worker
+7g	Electric Line Department - High Plains Division	Utility Worker
+7h	Electric Meter Department - High Plains Division	Utility Worker
+7i	Electric Line Department - Mountain Division	Utility Worker
+7j	Electric Meter Department - Mountain Division	Utility Worker
+7k	Electric Line Department - Northern Division	Utility Worker
+7L	Electric Meter Department - Northern Division	Utility Worker
+7m	Electric Line Department - San Luis Valley Division	Utility Worker
+7n	Electric Meter Department - San Luis Valley Division	Utility Worker
+7o	Electric Line Department - Western Division	Utility Worker
+7p	Electric Meter Department - Western Division	Utility Worker
+8a	Energy Supply - Cameo Department & Division	Plant Specialist C
+8b	Energy Supply - Comanche Department & Division	Plant Specialist C
+8c	Energy Supply - Fort St. Vrain Department & Division	Plant Specialist C
+Sd	Enetgy Supply * Hayden Department & Division	Plant Specialist C
+8c	Energy Supply - Metro Department & Division (Arapahoe, Cherokee, Steam Heat, Zuni Stations)	Plant Specialist C
+8f	Energy Supply - Pawnee Department & Division	Plant Specialist C
+8g	Energy Supply - Valmont Department & Division	Plant Specialist C
+8h	Energy Supply - Boulder Hydro Department & Division	Plant Specialist C
+8i	Energy Supply - Cabin Creek/Georgetown Department & Division	Plant Specialist C
+8j	Energy Supply - Shoshone Department & Division	Plant Specialist C
+Exhibit C - OP&M
+-2-
+June 1,2003
+Flow Diagram No, & Department
+Job Classification
+8k	Energy Supply - Ames/Salida/Tacoma Hydro Department & Division	Plant Specialist C
+9a	Gas Department - Boulder Division	Utility Worker
+9b	Gas Department - Denver Division	Utility Worker
+9c	Gas Department - Front Range Division	Utility Worker
+9d	Gas Department - High Plains Division	Utility Worker
+9e	Gas Department - Mountain Division	Utility Worker
+9f	Gas Department - Northern Division	Utility Worker
+9g	Gas Department - Pueblo Division	Utility Worker
+9h	Gas Department - San Luis Valley Division	Utility Worker
+9i	Gas Department - Western Division	Utility Worker
+9j	Gas Meter Shop Department - Denver Division	Utility Worker
+9k	Gas Mechanical Shop - Denver Division	Utility Worker
+9L	High Pressure Gas Department - Denver Division	La borer/Roustabou t
+9m	High Pressure Gas Department -Mountain Division	Laborer/Roustabout
+9n	High Pressure Gas Department -Northern Division	La borer/Rou stabou t
+9o	High Pressure Gas Department -San Luis Valley Division	La borer/Rou st abou t
+9p	High Pressure Gas Department -Western Division	Laborer/Rou stabou t
+10a	Gas Standards Department and Division	Gas Standards Technician	
+Ila	Meter Revenue Department - Boulder Division	Van Operator
+11b	Meter Revenue Department - Denver Division	Van Operator
+lie	Meter Revenue Department - Front Range Division	Van Operator
+lid	Meter Revenue Department - High Plains Division	Van Operator
+He	Meter Revenue Department - Mountain Division	Van Operator
+Ilf	Meter Revenue Department - Northern Division	Van Operator
+Exhibit C - OP&M
+-3-
+Junc 1,2003
+Flow Diagram No, & Department		.lob Classification
+Hg	Meter Revenue Department - San Luis Valley Division Van Operator	
+llh	Meter Revenue Department - Western Division	Van Operator
+12a	Metrology Department and Division	G&E Meter and Transformer Shop Specialist or Metrologist
+13a	Service Investigation Department and Division	Trainee
+14a	Stores Department - Boulder Division	Stores Utility Worker
+14b	Stores Department - Denver Division	Stores Utility Worker
+14c	Stores Department - Front Range Division	Stores Utility Worker
+J4d	Stores Department - High Plains Division	Stores Utility Worker
+I4e	Stores Department - Mountain Division	Stores Utility Worker
+14f	Stores Department - Northern Division	Stores Utility Worker
+14g	Stores Department - Pueblo Division	Stores Utility Worker
+I4h	Stores Department - San Luis Valley Division	Stores Utility Worker
+i4i	Stores Department - Western Division	Stores Utility Worker
+15a	System Operations Division - Denver Substation Department	Helper
+15b	System Operations Division - Northeast Substation Department	Helper
+15c	System Operations Division - Southern Substation Department	Helper
+15d	System Operations Division - Western Substation Department	Helper
+15c	System Operations Div - Substation & Line Equipment Test Department	Helper
+I5f	System Operations Division - Transmission Line Department	Groundman
+16a	Transportation Department - Boulder Division	Fleet Mechanic C
+16b	Transportation Department - Denver Division	Fleet Mechanic C
+16c	Transportation Department - Mountain Division	Fleet Mechanic C
+Exhibit C - OP&M
+-4-
+June J, 2003
+Flow Diagram No. & Department
+I6d Transportation Department - Northern Division
+16e Transportation Department - Pueblo Division
+Job Classification
+Fleet Mechanic C
+Fleet Mechanic C
+I6f Transportation Department - San Luis Valley Division Fleet Mechanic C 16g Transportation Department - Western Division	Fleet Mechanic C
+17a	Utility Services Department	- Denver Division	Utility Worker C
+17b	Utility Services Department	- Mountain Division	Utility Worker C
+17c	Utility Services Department	- Northern Division	Utility Worker C
+17<1	Utility Services Department	- Southern Division	Utility Worker C
+17e	Utility Services Department	- Western Division	Utility Worker C
+Exhibit C-OP&M
+-5-
+June 1.2003
+Exhibit D - OP&M	- I -	June 1,2003
+Exhibit D Order for Honoring Transfer Requests Under Article 17, “Transfer”, Section 5, Rules First, Second & Third
+	DIVISION	OPERATING DISTRICT GEOGRAPHIC AREA	COMPANY-WIDE
+	FIRST**	SECOND**	THIRD**
+	Flow Diagram Nos.	Flow Diagram Nos.	Flow Diagram Nos.
+Organization	(AH Equal)*	(All Equal)*	(All Equal)*
+la
+Appliance Service Department	7a, 7b, 7c, 7d, 7e, 7f, 7g, 7h, 7i, 7j, & Division	7k, 7L, 7m, 7n, 7o, 7p, 9a, 9b, 9c, 9d, 9e,9f, 9g, 9h,9i,9j,9k la	17a, 17b, 17c, I7d, 17e	All Other Company Departments
+Construction Department & Division				8e, 9b, I6f, 16a, I6e, 7c, 7d, 9j, 9k, 16b, 14b, 9L, 17a	All Other Company Departments
+3a Corrosion Prevention Dept - Denver Div	9b, 17a, 4b 3b Corrosion Prevention Dept - Mountain Div	9e, 17b, 4e		
+		All Other Company Departments All Other Company Departments
+		
+Corrosion Prevention Dept - Northern Div	9f, 17c, 41 3d Corrosion Prevention Dept - San Luis Vly Div 9h, 17d, 4h		All Other Company Departments All Other Company Departments
+		
+Corrosion Prevention Dept - Western Div	9i, 17e, 4i 4a Design Dept - Boulder Division	7a, 9a, 17a		All Other Company Departments Alt Other Company Departments
+		
+Organization	DIVISION FIRST** Flow Diagram Nos. (All Equal)*	OPERATING DISTRICT GEOGRAPHIC AREA SECOND** Flow Diagram Nos. (All Equal)*	COMPANY-WIDE THIRD** Flow Diagram Nos. (All Equal)*
+4b Design Dept - Denver Division 4c Design Dept - Front Range Division	7c, 9b. 17a		All Other Company Departments All Other Company Departments
+	7e, 9c. 17a		
+			
+4d Design Dept - High Plains Division	7g, 9d, 17c		All Other Company Departments
+			
+4e Design Dept - Mountain Division	7i,9e, 17b		All Other Company Departments
+			
+4f Design Dept - Northern Division Design Dept - Puebio Division	7k, 9f, 17c 7m, 9g, 17d		All Other Company Departments All Other Company Departments
+			
+4h Design Dept - Southern Division 4i Design Dept - Western Division	7 m, 9h, 17d 7o,9i, 17e		All Other Company Departments All Other Company Departments
+			
+5a Distribution Control Center Dept 6a Electric Dist Operations Maintenance	All Other Electric, Gas, System Op Div 7c, 15a, 15e, 15f,		All Other Company Departments Al! Other Company Departments
+		7a, 7e. 7g, 7i, 7k. 7m, 4o	
+Specialist Dept & Div 7a		15b, 15c, 15d	
+Electric Line Dept - Boulder Division	7b, 9a, 14a, 16a, 17a	8g, 15b	All Other Company Departments
+Exhibit D - OP&M	-2-	June 1,2003
+Exhibit D - OP&M	- 3 -	June 1, 2003
+Organization	DIVISION FIRST** Flow Diagram Nos, (All Equal)’	OPERATING DISTRICT GEOGRAPHIC AREA SECOND** Flow Diagram Nos. (AH Equal)*	COMPANY-WIDE THIRD** Flow Diagram Nos. (All Equal)*
+7b Electric Merer Dept - Boulder Division	7a, 9a, 14a, 16a, 17a	8g, 15b	All Other Company Departments
+7c Electric Line Dept - Denver Division la, 7d, 15a, 15b, 15c. 15d, I5e, 17a		8e,9b, 15f,2a,9j,9k, 16b, 14b	All Other Company Departments
+7d Electric Meter Dept - Denver Division la, 7c, 15a, 15b, 15c, 15d, 15e, 17a		7e, 7f,9c, 14c, 9L 8e, 9b, 16c, 2a,9j.9k, 17b	All Other Company Departments
+7e Electric Line Dept - Front Range Division	7f, 9c, 14c, 17a	14b, 9L	AU Other Company Departments
+7f Electric Meter Dept - Front Range Division	7c, 9c, 14c, 17a		All Other Company Departments
+7g Electric Line Dept - High Plains Division	7h,9d, 14d, 17c	, . , . . , , , , , , * . , ,	All Other Company Departments
+7h Electric Meter Dept - High Plains Division	7g,9d, I4d. 17c		All Other Company Departments
+7i Electric Line Dept - Mountain Division	7j. 9e, I4e, J 6c, 17b	J6c	All Other Company Departments
+7j Electric Meter Dept - Mountain Division	7i, 9e, I4e, 16c, 17b	16c	All Other Company Departments
+7k Electric Line Dept - Northern Division	7L,9f, 14f. 16d, 17c	9n	All Other Company Departments
+Organization	OPERATING DISTRICT		
+	DIVISION FIRST** Flow Diagram Nos. (AH Equal)*	GEOGRAPHIC AREA SECOND** Flow Diagram Nos. (All Equal)*	COMPANY-WIDE THIRD** Flow Diagram Nos, (All Equal)*
+7L Electric Meter Dept - Northern Division	7k, 9f, I4f, I6d, 17c	9r>	All Other Company Departments
+7m Electric Line Dept - San Luis Valley Div	7n. 9h, 14h. I6F, I7d			All Other Company Departments
+7n Electric Meter Dept - San Luis Valley Div	7m, 9h. I4h, 16f, 17d			All Other Company Departments
+70 Electric Line Dept - Western Division	7p, 9i, 14i, 16g, 17e	15d. 8a	All Other Company Departments
+?P Electric Meter Dept - Western Division 8a Energy Supply - Cameo Dept & Division 8b Energy Supply - Comanche Dept & Division	7o.9i, 14i, 16g, lie	I5d,8a	All Other Company Departments
+			7o, 7p, 9i. 14i, 16g, I7e, 15d	AH Other Company Departments
+		9g, 16e, 14g, 9o, 17d	All Other Company Departments
+&C Energy Supply - Fon St Vrain Dept & Div			All Other Company Departments
+<HJ Energy Supply - Hayden Dept & Division 8e Energy Supply - Metro Dept & Division				All Other Company Departments
+		9b, ISE, 15a, 15e. 7c, 7d. la. 2a	All Other Company Departments
+8f Energy Supply - Pawnee Dept & Division		9j, 9k, 16b, 14b, 9L, 17a 9g,7h,9d. I4d,9n, 17c	All Other Company Departments
+Exhibit D - OP&M	-4-	June 1,2003
+Exhibit D - OP&M	- 5 -	June 1, 2003
+Organization	DIVISION first** Flow Diagram Nos. (All Equal)*	OPERATING DISTRICT GEOGRAPHIC AREA SECOND** Flow Diagram Nos. (All Equal)*	COMPANY-WIDE THIRD** Flow Diagram Nos. (AU Equal)*
+«g Energy Supply - Valmont Dept & Division		15b, 7a, 7b, 9a, 16a, J4a, 9n, 17a	All Other Company Departments
+8h Energy Supply - Boulder Hydro Dept & Div	Bi, 8j. 8k		All Other Company Departments
+8i Energy Supply - Cabin Creek/Georgetown	8h, 8j, 8k		All Other Company Departments
+Hydro Dept & Division Energy Supply - Shoshone Hydro Dept & Div	8h, 8i, 8k		All Other Company Departments
+8k Energy Supply ■ Ames/Salida/Tacoma Hydro	8b, 8i, 8j		All Other Company Departments
+Dept & Division 9a Gas Department - Boulder Division	7a, 7b, 14a, 16a, 17a	8g, 15b	All Other Company Departments
+9b Gas Department - Denver Division	9j,9k. 16b. 9L, 17a	8e, I5f, 15a, 15e. 7e. 7d, la, 2a, 14b	All Other Company Departments
+9c Gas Department - Front Range Division	7e,7f, 14c, 17a	. . .	All Other Company Departments
+9d Gas Department - High Plains Division	7g, 7h, 14d, 17c		All Other Company Departments
+9e Gas Department - Mountain Division	7i, 7j. 14e, 16c, 17b	15c	All Other Company Departments
+9f Gas Department - Northern Division	7k, 7L, 14f. 16d, 17c	9n	All Other Company Departments
+Organization	DIVISION FIRST** Flow Diagram Nos. (All Equal)*	OPERATING DISTRICT SECOND** Flow Diagram Nos. (All Equal)*	COMPANY-WIDE THIRD** Flow Diagram Nos. (Alt Equal)*
+Gas Department - Pueblo Division 9h Gas Department - San Luis Valley Div	I7d 7m, 7n, 14ft, 16c, I7d		All Other Company Departments All Other Company Departments
+Gas Department - Western Division 9j Gas Meter Shop Depl - Denver Division 9k Gas Mechanical Shop Dept - Denver Div 9L High Pressure Gas Dept - Denver Div 9m High Pressure Gas Dept - Mountain Div 9n High Pressure Gas Dept - Northern Div 9o	7o, 7p, I4L, 16g, 17e	15d. 8a	All Other Company Departments
+	9b, 9k, lb, 17a	8e, 15f, 15a, I5e.7c, 7d, la, 2a 14b, 9L	All Other Company Departments
+	9b, 9j, 16b, 17a	8e, 151, 15a, 15c. 7c, 7d, la, 2a 16b, 14b, 9L 9n, 9o, 9m, 9p 9L. 9n, 9o, 9p 9L. 9o. 9m, 9p	All Other Company Departments All Other Company Departments All Other Company Departments All Other Company Departments
+High Pressure Gas Dept - San Luis Vly Div 9p High Pressure Gas Dept - Western Div Ida Gas Standards Department & Division	4b, 9b. 17a	9L, 9n, 9m. 9p 9L, 9m. 9o, 9m	All Other Company Departments All Other Company Departments All Other Company Departments
+Exhibit D - OP&M	- 6 -	June I, 2003
+Exhibit D-OP&M	-7-	June 1,2003
+DIVISION		OPERATING DISTRICT GEOGRAPHIC AREA	COMPANY-WIDE
+	FIRST**	SECOND**	THIRD**
+	Flow Diagram Nos.	Flow Diagram Nos.	Flow Diagram Nos.
+Organization	(All Equal}*	(AU Equal)*	(AU Equal}*
+Ila			
+Meter Revenue Dept - Boulder Division			AH Other Company Departments
+lib Meter Revenue Dept - Denver Division			All Other Company Departments
+Ue Meter Revenue Dept - Front Range Division		... 		.	All Other Company Departments
+lid Meter Revenue Dept - High Plains Division			All Other Company Departments
+He Meter Revenue Dept - Mountain Division	. .	.......	J . .	............	AU Other Company Departments
+llf Meter Revenue Dept - Northern Division			All Other Company Departments
+ng Meter Revenue Dept - Pueblo Division	. . . . . . .	-	. . . ............	All Other Company Departments
+llh Meter Revenue Dept - San Luis Valley Div			All Other Company Departments
+Ui Meter Revenue Dept - Western Division		... ............	AH Other Company Departments
+12a Metrology Department and Division	7d, la, 4b, 9j. 9k. 13a	All Geographic Electric Meter, Electric	All Other Company Departments
+13a Service Investigation Department & Division	7c, 4b, 7d	Line and Design Divisions	All Other Company Departments
+OPERATING DISTRICT
+Organization	DIVISION FIRST** Flow Diagram Nos. (All Equal)*	GEOGRAPHIC AREA SECOND** Flow Diagram Nos. (Alt Equal)*	COMPANY-WIDE THIRD** Flow Diagram Nos. (All Equal)*
+14a			
+Stores Department - Boulder Division 14b	7a. 7b, 9a, Iba	8g. 15b, 17a	All Other Company Departments
+Stores Department - Denver Division 14c	■ ' 			8e, 9b, 15f, 15a, 15c, 7c. 7d, la, 2a 9j,9k, 16b, 9L, 17a	All Other Company Departments
+Stores Department - Front Range Division 14d	7e, 7f. 9c			All Other Company Departments
+Stores Department - High Plains Division 14e	7g, 7h. 9d		Ail Other Company Departments
+Stores Department - Mountain Division 141	7i, 7j, 9e, 16c	15c	All Other Company Departments
+Stores Department - Northern Division 14g	7k,7L,9f, 16d	9n, 17c	AU Other Company Departments
+Stores Department - Pueblo Division 14h			All Other Company Departments
+Stores Department - San Luis Valley Div 14i	7m, 7n. 12h, 16f		All Other Company Departments
+Stores Department - Western Division 15a	7o, 7p, 9i, 16g	17d, 8a	All Other Company Departments
+System Oper Div - Denver Substn Dept	la, 7c, 7d. 15b, 15c, 15d, I5e	8e, 9b, 15f, 2a,6i,6k, 16b, 14b 7e, 7f,9c, 9a, 14c, 9L	All Other Company Departments
+Exhibit D - OP&M	- 8 -	June 1,2003
+Exhibit D - OP&M	-9-	June 1,2003
+Organization	DIVISION FIRST** Flow Diagram Nos. (All Equal)*	OPERATING DISTRICT GEOGRAPHIC AREA SECOND** Flow Diagram Nos. (Alt Equal)*	COMPANY-WIDE THIRD** Flow Diagram Nos. (All Equal)*
+15b System Oper Div - Northeast Substn Dept	la, 7c, 7d, 15b, 15c, 15d, 15e	Sc, 8g, 8f, 7a, 7b, 9a, 16a, 14a, 7k	All Other Company Departments
+15c System Oper Div - Southern Substn Dept	la.7c.7d, 15a. 15b, 15d, 15e	7L, 9f, 14d, 16d, 7g, 7h, 9d, 9n 8b, 7in, 7n. 9b, 14h. 16f, 7i, 7j	All Other Company Departments
+15d System Oper Div - Western Substn Dept	la, 7c, 7d, 15a, 15b, 15c, 15e	9c, 14c, 16c, 9g. 16e, 14g. 9o, 9m 8a, 7o, 7p, 9i. 14i, 16g, 9e, 9p	All Other Company Departments
+15e System Oper Div - Substn & Line Eqpt	15a. 15b, 15c, I5d, 15f	8e, 9b, 7c, 7d, la. 2a, 9j, 9k. 16b	All Other Company Departments
+Test Dept ISf System Oper Div - Transmission Line Dept 			14b, 7e. 7f,9c,9a, 14c, 9L 8e,9b, 15a, 7c, 7d, la.2a.9j.	All Other Company Departments
+16a Transportation Dept - Boulder Division	7a, 7b, 9a, 14a	9k, 16b, l4b,9L 8g, 15b	All Other Company Departments
+16b Transportation Dept - Denver Division	9b, 9j, 9k	8e, I5f, 15a, 15c, 7c, 7d, la, 2a	All Other Company Departments
+16c Transportation Dept - Mountain Division	7i, 7j, 9e. 14e	14b, 9L, 17a 15c	All Other Company Departments
+16d Transportation Dept - Northern Division	7k, 7L, 9f, 14f	9n, 17c	All Other Company Departments
+Organization	DIVISION FIRST** Flow Diagram Nos. (AH Equal)*	OPERATING DISTRICT GEOGRAPHIC AREA SECOND** Flow Diagram Nos. (AH Equal)*	COMPANY-WIDE THIRD** Flow Diagram Nos. (All Equal)*
+16e Transportation Dept - Pueblo Division			AH Other Company Departments
+Ihf Transportation Dept - San Luis Valley Div	7m, 7n, 9h, 14h	...	.	... J	.	All Other Company Departments
+16g Transportation Dept - Western Division	7o, 7p, 9i, 14i	15d, 8a	All Other Company Departments
+17a Utility Services Dept - Denver Division	17b, 17c, 17d, 17e	Other Electr & Gas Divisions	All Other Company Departments
+17b Utility Services Dept - Mountain Division	17a, 17c, !7d, 17e	Other Electr & Gas Divisions	All Other Company Departments
+17c Utility Services Dept - Northern Division	17a, 17b, I7d, I7e	Other Electr & Gas Divisions	All Other Company Departments
+17d Utility Services Dept - Southern Division	17a, 17b, 17c, 17e	Other Electr & Gas Divisions	All Other Company Departments
+17e Utility Services Dept - Western Division	17a, 17b, 17c, 17d	Other Electr & Gas Divisions	All Other Company Departments
+*	Sequence of flow diagram numbers has no meaning. Listing made from Exhibit A Numerical Index.
+**F1RST - From applications made by employees within the division in which the vacancy exists in order of their division seniority.
+*	* SECOND - From applications made by employees of other divisions in the same operating district in order of their term of employment.
+**THIRD - From applications made by employees from other operating districts in the order of their lerm of employment.
+Exhibit D - OP&M	- 10 -	June 1, 2Q03
+EXHIBIT E
+1	ExtriNt E f	Coinpitny H	(fatal a	An	Sec	Ji4» Category			* " “ ““ Keyword
+	E-ODM	P 94-0232	M-94-IJ0J4	n	5	AU	LTD
+	E4J5I2	P 03-0116	M-U5-00W>	i;	J	All	Benefiis
+	E-0293	P-9F-0HI	M-98-Otlli	J7	9	All	Tntnsfm
+	E-W23	P-024 Ilf#	M-03-0008	15	4	Al)	ApprrnliccKlvps
+	E.0S26	P-02-0172	\WVOG11	25	4	AU	Apprenifcr^hipFi
+	U0237	P 994X136	M-99 1)002	25	4	Ail	MisrdJdzkTRJs
+	E-0523	JMKMKHs^	M-O3-POJ5	25	J	AO	CDL
+	&4M3	P4JMIH6	M-0JW5	15	4	All	BtfieJlb
+	E-0O62	P 93 0500	M-93-000)	19	20	AU	Training
+	1:0458	P-02-0030	M-02-itotU	25	4	AU	Miscdlaneoui
+	LO4?6	PXft-Oi 17	M-024AI4	25	4	All	M^ctllanciHis
+	EjW7 EfH)60	_ P-9J-0I96	M-O2-00J5	25	4	AO	ESO
+			M-94-WL3	n	6	All	Ditibltf<J ErnpTnyres
+	E-O4WI	P-O3-W87	M-OJ-UOUl	25	0	A«	App?rbik'estBp%
+	E4W93	P03-0023	MX)3-(M02	0	0	All	Mi^crlhneous
+	BOW	P-03-flWb	M-03-1X103	0	0	AO	Bcnefifs
+	EO050	P-1M4H9J		ll	5	All	ADA
+	E-OO63	P-93-0091	M-93-0010	7	9	AU	Overrime
+	E Oi«	P’9S4XX>3	M-9H-UXU	25	4	All	MhcdlJnrimS
+	E-02U	P 98-0109	M-98-KM8	25	4	AU	Benefits
+	Ei-0339	P-00-0H7	M4X)-(XXK	21	4	AO	Mjiscellarwous
+	e-wui		M014W04	25	1>	All	Appcenliceship*
+	E 41383	Fili-0026	M-0MW06	2	I	AK	
+	l?0H8	P-9S-OD97	M-98-IXK)?	24	1	AU	Cfas.$i fioawji
+	E-HW	P-08-tm		2i	4	AU	Miscellanemis
+	E-0IM6	P-98-0059	M-9g-mM)3	22	•	AH	MttCclluncouii
+	E-05JJ	P-03-0125	M-03-W07	M	2	AU	Miscellaneous
+	E4N16	P-Wfll W	MJU-nooz	23	4	AU	Paycheck	'
+	Ei-0460	P-02-0062	M4J2-OOJ2	23	4	All	Miitcdtaae'Xis
+	E-WIJO	P-97-0107	M-97-OOJ5	5	1	AO	Wage Raies
+	E4M16	P-974W7	M*97-IMX»	11	1	All	Benefit
+	E-U44O	P-OI-0187	M-02-IM03	2	1	All	BenefJis
+	E'<M4,1	P-0i4)l65	M-02-0004	25	4	All	Rtffletfis.
+	E0453	P-02-001 *	M-O24WW	25		All	Itenefe
+	E-OfJSD	P-96-0203	M-96-IXMM	1	1	AH	Recognition
+	E-0529	P-03-0069	M-03-OOid	25	4	AU	ficnefiib
+	B4M17		M-09-0007	II	2	All	BenEfilx
+	U-0003	P-9243089	6U9>0003	19	2fi	AJ|	Miscellaneous
+	E-1)6)1	P-034 >164	M4M-0006	12	1	AU	
+	H>W40	P4I3-O159	M-04-0005	11	I	AU	
+	120609	P 03-0155	M-OVOOfM	JI	9	Ail	Benefits
+■ Fjrtn		P-(H4W	Mftf-OWK	25	4	All	Miscellaneous
+IMKJIW		P-WiHg	M/Kl-lttQ	U	3	AU	Bcncfri
+IMKHtf		P-91-0111	M-OI-1MMJ6	24	1	AU	Relocation
+ii-iicn?		, . . P-92-0)58	M-92-UMJ2	II	1)	AU	MiscellirteiKi'.
+[-4KHG		P4M-<K)62		1	1	ASI	Took
+Exhibit E - OP&M	- 1 -
+March 18,2004
+EXHIBIT E
+Exhibit E *	Company #	Uniun#	Art		Job Category	Keyword
+EX)MI5	P04.0006	ESL-WMOt	2tt	7	E?ec<rrc Street Light	Tracing
+EXIIJ9	M74W91	ET-97-0002	20	7	FJecinc Trouble	Sennwiiy
+H-USlg	P-IB-0128	EU-03XMMH	20	7	Electric tlrwlergrcund	Upgrade
+EX)Ji)6	P-K8-OO55	EVC-884X1O4	2<l	7	Ekciric Vaulrman Cabfcmiiti	Raiiu
+E-0245	P-99XWW	A99-W6	20	«	Energy Sctpp/y	AlteffMm-'fr Wcrrft Sehtidirtev
+E-02R8	P-9R-0049	P-98-018	20	*	Energy Supply	Mixcdltinciius
+K-U244	P-99-0048	P-99-005	241	8	Energy Supply	Abcmaiive Work Schedule*
+E-0243	P-99-0047	F99-OO4	20	K	Energy Supply	Ahemutrvc Worrit Schedule*
+E-GMK	PfM-0151	P-9S-0t 7	20	8	Encnjy Supply	Alrcmadve Work Schedules
+E-IXJ66	P-90-OT55	P-904XJ3	KI	8	Energy Supply	Individual
+fi-0134	P 99X1003	P-99-002	20	8	Energy Supply	ADA
+E-U23I	P-99-0021	P-99-001	20	8	Energy Supply	Alierruuivc Work Scheduler
+E-O2G7	P-9R-G(Mif	P-98X7I 2	20	K	Energy Supply	Senwrtiy
+E-020D	P-98-H043	P-^R-008	21)	8	Energy Supply	Reduction In Force
+tow	P <98-00*2	P-98-OD7	20	X	Energy Supply	Mi*cellanrouh
+E4JJ57	P 98-0048	P-98-004	20	8	Energy Supply	Classi FKaliiin
+E-0149	P-W0032	P-98-003	20	8	Energy Supply	DiMbted Employee
+ErOIM	P 97-0012	P-97-005	20	8	Energy Supply	Disabled Employee
+E-0O69	P 81X1500	P-81-002	20	8	Energy Supply	Miv:clluncEius
+E-P067	P-85-OT16	P-85-005	20	8	Energy Supply	Training
+E-4KMH	LR-82X1075	P-#2-002	20	if	Energy Supp/y	
+E-(M|?	P-OIXI125	P-02-006	20	3	Energy Supply	Beards
+E-038S	P-Ol-OOUO	P 01-005	20	8	Energy Supply	Allenliitivc Work Scheduled
+ii-IWH	P-M-D02?	ES-IM-QOM	20	8	Energy Supply	Training
+E-tW	P-O44KI07	ES’W’OflM	20	8	Energy Supply	Afeemau^ Wurk Schedule
+E-4I6O6	P-03 0168	ESXM-0002	20	8	Energy Supply	Miscellaneous
+B-0536	WW	ES’IMOOOI	20	8	Energy Supply	Clussil'ication
+E-0367	PXX).O)67	P-00022	20	8	Energy Supply	Alternative Wurk Svtadjlcs
+	P-Gj-0122	PXI2-OO5	20	8	Energy Supply	Heard?
+E-M21	P-01-012?	P-O2-0O8	20	8	Energy Supply	Beards
+EQ420	P-01-0126	P-02-OCf?	20	S	Energy Supply	Beards
+E-IM22	r-oi-om	P-O2-OD9	20	8	Energy Supply	Bmrds
+E4M24	poi-nm	P-02-011	20	8	Energy Supply	Brands
+E-(M>5	P-OI-OB1	P-02-012	20	S	Energy Supply	Beards
+E-0439	PX)I -0173	p.02-018	20	8	LtKn)) Supply	Per Diem
+E-0292	P-93-CIO6	P-9B-0W	20	8	Energy Supply	Upgrade
+i?	p-oboui	P-tlZ(«>4	20	8	Energy Supply	Beardtt
+F.-O3I4	P-99-OOTO	P-99XHM!	20	8	Energy Supply	Alternative Work Schedules
+H-O2M	P-98-01 IS	P-98-020	20	8	Energy Supply	Alitmative Wark Schedules
+E-M23	P-m 0129	P-02-0J0	20	8	Energy Supply	Beard*
+£0295	P-S8XI1 (6	p-9£-(i2l	20	8	Energy Supply	Ahemuiive Work Schedule*
+E-OMfi	P-98 0151	P-98-025	20	r “ K	Energy Supply	Alternative Work Schedule*
+Fjroi	P-99-0035	P-99-007	20	8	Energy Supply	Altemuilw Wurk Schedule*
+J14KM6	P-34 IJODK	FL-WXWIO	20	9	Facility L+jcwc	CliisMfiearion
+E/W45	PX»tXKl37	FT.-9I-O0W	2(1	9	FucOiiy Ijxaie	SJenioricy
+E-HWI	P-94 -OH2	GA-94-tXXn	20	9	Gas Apptertiice	Apprenticeship*
+Exhibit E - OP&M	- 3 ~
+March 18,2004
+EXHIBIT E
+Exhibit E t	Compaaj *	Union U	Art	Sec	Job Category	Kcynvwd
+CO559	P-05 -0030	MR4M-0O25	20	11	Meter Revenue	bargaining Unit Work
+E-U57S	P4M-OOZ5	MD44-CXKH	2D	12	Mctmfcigy Department	Mi'iielhnecMjs
+R-0574	P-01-5000	SI 04-0001	20	13	Service InxcUifiAtion	Miivtellirteous
+110615	PQ4-0002	SI-CH-0002	20	13	Service lnveujgati<m	Wage Rate*
+E-W92	P 37-0054	S47-0C0I	20	14	Stores	Temporary Assignment
+E-03M	POOttMO	S 4)1-000 2	10	14	Slcne.'i	Wage Rate*
+E4K0B	P41MI1)	S-03-0U0J	20	14	Srtwe5	MAKelbnecus
+E02B9	MS0005	S-98-IXJO3	20	14	SttJrt*	Temporary Assignment
+&<H57	P-02-0027	$4)2-0001	20	id	Siore*	Alternative Work Schedules
+RGI42	P-97-0006	SD-97-OOO5	10	15	System Operation^	Alternative Work Schedules
+E-0M7	P-0J4H38	SA-034 NX)I	20	15	System Operaihms	CDL
+E-0019	P-9 3-0132	SA-13-0011	20	15	System Operation*	Tening
+E-Wlfi	P-95-0064	TL-95.0001	20	15	System Operations	Barchanding
+E-0015	P95-IBOO	SA-95-0003	20	15	System Operations	Training
+E-IXU4	P-K8-OO39	SD-8B4MMI3	20	15	System OperatitinK	Testing
+B 0.173	P-0I-0W6	TL-W-Olfll	20	15	System Operation*	Upgrade
+E-lri&J	P-OMI&O	LE04-0001	20	15	System Operations	Alternative Work Schedule
+E 0209	P-98-0100	SD-9M-0001	20	15	SyMem Operations	Alternative Wt,wk Schedules
+EdlJti	P-99-0123	SA-00-0002	20	15	System Operations	In dividual
+£>0272	P-99 0061	S5-99-0001	20	13	SyMem Operations	Alternative Work Schedule*
+E-01(14	P.DI-OO79	NES-OI-OOOI	20	15	System Operations	Alternative Work Schedule*
+E-C133	P-97-0101	SD-97 OOOI	20	15	System Operations	Miscellaneous
+BOI 17	P-97-01J6	WS 97-000!	20	15	System Operations	Atonrarive Wad Schedules
+E-0506	P-D3-0139	SD-03 0001	20	13	System Operations	Alternative Wort Schedules
+E-O5J3	P-U2-D10J	SA-03-0003	20	15	System Operations	Wage Rate*
+E4>332	P-03-00RH	SA-03-CHMJl	20	15	System Operations	CDt
+E-ooia	P 93-0135	SS-934JO15	20	15	System Operation*	Alternative Work Schedule
+li-0452	P4X2-OO53	TA-02-0001	20	16	Transponolkm All	Alternative Work Schedules
+E-0102	P 924)190	TA-92 OWI	20	16	TmsprUihnn All	Indemnify
+E-0099	P-954XJ62	TA-95-0001	20	16	Tramptifttttion AD	CJ.iK'j/k’aJMn
+E-0136	P-97-0003	TA-97 0001	20	16	Transportaliiwi All	ClassifiCiition
+E4K«8	F-95-O50I	TD-95 00G2	20	16	TY^n&portaii«nt Denver	C1a*%ineQrion
+Ei-0534	P-O2-OOI7	TO-03-0001	2(1	16	Transportation Denver	Alternative Wprk Schedule
+E-O35Z	p-oo-aioi	TD-OfrOOOI	20	16	Transportation Denver	Alternative Work Schedules
+E-OU97	PWIO65	TD93-0003	20	16	Transpiktiaiion Denver	Headquarter*
+E4KW6	P-96-0079	TD-96-0001	20	16	TranKpnnalion Denver	Classification
+E-O35J	P-99-01 lb	TODOO-OOOJ	20	16	Ouuhte Division	Alte-AMrite Work Schedule*
+E-0273	P-99-0068	TOD-99-OOD1	20	16	Tc&nvprtnaiion Outside Disisum	Alternative Work Schedules
+E4M66	P-98-GM4	UT-9S-0ft»3	2(1	it	Utility Worker	Transferx
+E-0165	P-98 0072	UT9S-0002	20	17	Utility Worker	Classiftcaiiun
+li-Olfc)	P-9K-U071	UT-9H-DOOI	20	17	Utility Worker	CJa^iGculion
+E0M6	P-tH-Ol58	UTtM-0002	20	IT	Utility Worker	Seniority
+E-0617	P-03-0074	UT-O4-DrtB	20	17	Utility Worker	Miscellaneous
+E0079	U-96-0221	UT’V6-IXX)1	2t>	17	Utility Wwkcr	Recognition
+E4>329	P-00 0025	UTWOOOI	20	17	Utility Worker	Classification
+F-XJ5&4	P-994J051	Lrn(Xt-(KKM	20	17	Urihty Worker	Upgrade
+	P-01 0093	UTO1-0002	20	17	Uli lily Wnrtwr	Seniority
+Exhibit E ■ OP&M
+March 18, 2004

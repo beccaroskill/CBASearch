@@ -1,0 +1,899 @@
+﻿Cornell University
+ILR School
+BLS Contract Collection - Metadata Header
+This contract is provided by the Martin P. Catherwood Library, ILR School, Cornell University. The information provided is for noncommercial educational use only.
+Some variations from the original paper document may have occurred during the digitization process, and some appendices or tables may be absent. Subsequent changes, revisions, and corrections may apply to this document.
+For more information about the BLS Contract Collection, see http://digitalcommons.ilr.cornell.edu/blscontracts/
+Or contact us:
+Catherwood Library, Ives Hall, Cornell University, Ithaca, NY 14853 607-254-5370 ilrref@cornell.edu
+Contract Database Metadata Elements (for a glossary of the elements see -
+http://digitalcommons.ilr.cornell.edu/blscontracts/2/)
+Title: Chino Valley Unified School District and Associated Chino Teachers, California Teachers Association, National Education Association (NEA), (2002)
+K#: 800320
+Location: CA Chino
+Employer Name: Chino Valley Unified School District
+Union: Associated Chino Teachers, California Teachers Association, National Education Association (NEA)
+Local:
+SIC: 8211
+NAICS: 611110
+Sector: L
+Number of Workers: 1500
+Effective Date: 07/01/02
+Expiration Date: 06/30/05
+Number of Pages: 78
+Other Years Available: N
+For additional research information and assistance, please visit the Research page of the Catherwood website - http://www.ilr.cornell.edu/library/research/
+For additional information on the ILR School - http://www.ilr.cornell.edu/
+TABLE OF CONTENTS
+PAGE
+ARTICLE 1	AGREEMENT	1
+ARTICLE 2	NEGOTIATION PROCEDURES	2
+ARTICLE 3	ASSOCIATION RIGHTS	3-7
+ARTICLE 4	RIGHTS RETAINED BY DISTRICT	8
+ARTICLE 5	NON-DISCRIMINATION	8
+ARTICLE 6	ADULT SCHOOL TERMS AND CONDITIONS	9-10
+ARTICLE 7	CLASS SIZE	11-15
+ARTICLE 8	EVALUATIONS	16-20
+ARTICLE 9	PERSONNEL FILE CONTENTS & INSPECTION	21-22
+ARTICLE 10	PUBLIC CHARGES	23-24
+ARTICLE 11	GRIEVANCE PROCEDURE	25-28
+ARTICLE 12	WORKING CONDITIONS	29-31
+ARTICLE 13	LEAVES	32-39
+ARTICLE 14	HOURS	40-43
+ARTICLE 15	PLACEMENT, ASSIGNMENT, REASSIGNMENT, TRANSFER, AND VACANCIES	44-50
+ARTICLE 16	RETIREMENT CREDIT FOR PART-TIME SERVICE	51
+ARTICLE 17	COMPENSATION & HEALTH AND WELFARE BENEFITS	52-55
+ARTICLE 18	CHILD DEVELOPMENT PROGRAMS	56
+ARTICLE 19	NO STRIKE - LOCKOUT	57
+ARTICLE 20	MISCELLANEOUS	58
+Continued....
+APPENDIX LISTING
+PAGE
+ARTICLE 21	COMPLETION OF NEGOTIATIONS	59
+ARTICLE 22	TERM OF AGREEMENT	60
+APPENDIX A	UNIT DEFINITION	61
+APPENDIX B	CERTIFICATED SALARY SCHEDULE (2002-2003; 1.65%)	62
+	CHILD DEVELOPMENT PROGRAM TEACHER SALARY	63
+	SCHEDULE (2002-2003; 1.65%) SALARY PLACEMENT GUIDELINES	64
+	GENERAL PROVISIONS OF THE CERTIF. SAL. SCHDL.	65-67
+	RECLASSIFICATION PROVISIONS OF THE CERT. SAL.	68
+	SCHEDULE MISCELLANEOUS	69
+APPENDIX C	EXTRA DUTY RATES ANNUAL STIPENDS FOR EXTRA DUTY COACHING & STUDENT ACTIVITY POSITIONS	70-73 74
+ASSOCIATED CHINO TEACHERS
+SUMMER SCHOOL TEACHER SELECTION PROCEDURES FOR 1998
+A.C.T. GUIDELINES
+CONSULTATION NOTIFICATION
+SIDE LETTERS/MEMORANDUMS OF UNDERSTANDING ACCEPTED PRACTICES
+PERFORMANCE EVALUATION FOR TEACHERS FORM BOARD POLICY AND ADMINISTRATIVE REGULATION 4161.9, 4261.9, 4361.9
+2
+NEGOTIATED AGREEMENT
+ARTICLE 1: AGREEMENT
+1.1	PARTIES
+The Articles and provisions herein and appendices hereto constitute a bilateral and binding agreement (“Agreement”) by and between the Chino Valley Unified School District (“District) and the Associated Chino Teachers/CTA/NEA (“Association”), and employee organization.
+1.2	RECOGNITION AND UNIT DEFINITION
+Pursuant to certification notice from the State of California Public Employment Relations Board (PERB) (Los Angeles Regional Office) dated May 30, 1986, the District recognizes Associated Chino Teachers/California Teachers Association/National Education Association as the exclusive representative for the unit which is described in Appendix A and incorporated herein by reference.
+1.2.1	The parties recognize that the duties and work described in this Agreement shall be performed only by bargaining unit members as set forth in Appendix A, unless there are no unit members who are qualified and/or interested in performing the work, as determined by site administrator and/or the District Human Resources Office.
+1.2.2	With regard to extra duty pay assignments, positions held by non-bargaining unit members shall be annually advertised District-wide by the District before May 1st. Unit members seeking coaching or advisory positions shall be given first consideration before non-bargaining unit members are considered. A position held by a unit member will be advertised only when a vacancy occurs, and this precludes the need for an annual search for these positions. Prior to contracting out bargaining unit work, the District shall determine that there are no bargaining unit members who are qualified and/or interested in performing the work.
+1.2.3	Any open teaching position held by a substitute teacher, other than a position previously held by a unit member who is currently on a leave of absence for 120 days or less, shall be deemed a vacant position after twenty (20) work days unless otherwise extended by mutual agreement. Vacant positions shall be filled according to the provisions of Article 15 of the Collective Bargaining Agreement.
+1
+ARTICLE 2: NEGOTIATION PROCEDURES
+2.1	No sooner than October 1, nor later than November 1 of the year prior to the expiration of the Agreement, the Association shall make its initial proposal to the District for the purpose of negotiating a successor Agreement. The District shall conduct a public hearing on the Association’s initial proposal at the next regularly scheduled meeting of the Board.
+2.1.1	The District shall conduct a public hearing on its initial proposal at the regular Board meeting immediately following the public hearing on the Association’s initial proposal.
+2.2	Not later than ten (10) working days following the public hearing(s) required by law on such proposal, the District and Association shall commence good faith negotiations concerning the successor Agreement.
+2.3	The District shall furnish the Association, upon request, a copy of the documents which are necessary and relevant for the Association to fulfill its role as exclusive bargaining representative. In addition, by no later than November 1 of each year, the District shall furnish the Association, upon request, data showing the placement of unit members on salary schedules as of October 1.
+2.4	This Agreement shall be in effect from July 1, 2002, through June 30, 2005.
+2
+ARTICLE 3: ASSOCIATION RIGHTS
+3.1	Authorized representatives of the Association shall have the right to transact official Association business on school property only when it does not interfere with the school program or duties of the unit members.
+3.2	The Association shall have the right to use District facilities and related equipment for Association meetings outside established work hours. The Association shall have the right to use District facilities and related equipment during work hours when: (a) an authorized Association representative secures advance permission from the site administrator for such use within established work hours (such permission shall not be unreasonably withheld); (b) Association meetings do not interfere with the school program or duties of unit members; (c) Association meetings do not interfere with the rights of employees to refrain from listening to or speaking with Association representatives.
+3.3	The Association shall have the right to use the District internal mail services and mail boxes. The Association shall have the sole right to post and remove notices of activities and matters of Association concern on Association bulletin boards, one of which shall be provided by the District at each school site in an area frequented by unit members. At the time of distribution or posting, a copy of the notice, distributed or posted, shall be provided to the Superintendent and the site administrator.
+3.4	Upon request, the District shall place on the agenda for any regular Board meeting an item for A.C.T. public communication. The Association shall be the exclusive employee organization representing the certificated bargaining unit which has the right to be placed on the agenda for any faculty meeting. The Association shall have the right to inform the faculty of meetings pertaining to any and all matters within the scope of representation and contract maintenance matters, and may, subject to reasonable regulation by the site administrator, report on matters pertaining to Association business.
+3.5	Names and work locations of all members of the bargaining unit shall be provided by the District to the Association on or about October 15 of the school year. At least bi-monthly thereafter during the same school year, the District shall furnish the Association corrections to the same list, including the above-specified information.
+3.6	The District shall furnish two copies of the District Board Policies to the Association for Association office use and shall provide one copy of the Guide at each school site. School copies shall be kept in a location accessible to the Association faculty representative and unit members who perform duty at that site. The District shall distribute two copies of changes to the Policies to the Association and shall distribute such changes at the time changes are distributed to site administrators.
+3.7	The District, upon request by the Association, agrees to furnish to the Association, within a reasonable time, all available public information concerning financial resources and ...
+3
+ARTICLE 3: ASSOCIATION RIGHTS cont
+...professional staffing. Other than as specifically set forth in this Agreement, the District shall not be obligated to provide any information or documents other than as regularly prepared in the ordinary course of business.
+3.8	Whenever the District forms, revises, or dissolves any committee, the Association shall be represented on such committee. The Association shall choose the Association representative. The District shall furnish the Association President, without delay, two copies of the communication announcing such formation, revision, or dissolution of the committee. Such communication shall be furnished within a reasonable period of time before any nomination or other response shall be expected from the Association. When forming or revising a committee, the communication shall show the purpose of the committee and names and titles of District representatives serving on the committee, if known at the time. Throughout the term of this Agreement, the District’s record of all such committees, reflecting current membership and the name of the administrator servicing the committee, shall be accessible to the Association President and/or to his/her designee.
+3.9	The Board shall have the authority to determine the need and desirability to form commissions comprised of community representatives to advise the Board on matters of importance to the District. These commissions may address matters such as resources, diversity, safety, and other issues of importance as determined by the Board. When such commissions are formed, however, the Association shall be apprised. The Association shall also have the right to select a non-voting member of the commission and may attend all meetings for the purposes of providing input on matters under consideration. Prior to the time that any commission provides recommendations to the Board, the Association shall be afforded the opportunity to express its point of view before any action is taken.
+3.10	A maximum of fourteen (14) days release time per school year may be utilized by members of the bargaining unit other than the Association President, as designated by the Association, for attendance at local, state, national meetings/conferences and for attendance at community and civic organization meetings or for conducting other business pertinent to Association affairs. Any day for which the District does not provide a substitute shall not be charged against the Association release days. In addition, the Association President shall be provided contract maintenance time to conduct Association business and grievance processing on a full-time basis. This full-time release provision may be divided between two unit members on a fractional basis not to exceed one full-time equivalent, subject to the mutual agreement of both the District and Association, on an annual basis. The Association shall reimburse the District for the time of the Association President as follows: 60% of the salary shown in group two, step one. The utilization of contract maintenance time and staffing arrangements shall be annually reviewed and agreed to by the parties. The Association President’s contracted work year shall be extended by twenty (20) additional days for Contract maintenance purposes...
+4
+ARTICLE 3: ASSOCIATION RIGHTS cont
+... and other Association business. The utilization of these days shall be determined by the Association.
+3.10.	1 In the event the Association President utilizing contract maintenance time rescinds his/her Association leave, the District shall return said officer to that unit member’s former assignment if requested to do so.
+3.11	CONSULTATION
+The Association shall have the exclusive right to represent members of the bargaining unit in consulting with the District on the definition of educational objectives, the determination of the content of courses and curriculum, methods of student evaluation, the selection of textbooks, or changes in written Board policies and/or written administrative regulations which affect the unit member covered by the terms of this Agreement.
+The composition of the consulting group representing the unit members shall be determined by the Association. The meetings shall be by mutual agreement. The District shall consult with the Association on any curriculum proposal which may have an adverse impact on student/teacher ratios or the District’s ability to equalize class loads in the core subject areas.
+3.11.1	The District shall give written notice to the Association on a mutually approved form that action on any matter of consultation, as defined herein, is being considered. Such notice shall be given to provide sufficient time for the parties to meet and consult in good faith.
+3.11.2	The Association may exercise its right to consult on proposed Board actions by requesting consultation on the subject(s). The Association may also initiate the consultation process on any matter.
+3.11.3	In the event that the Association exercises its right to consult, the parties shall meet as soon as feasible to exchange and consider information, options, proposals, and recommendations in order to make a good faith effort to reach resolution on matters where there may be differences of opinion.
+3.11.4	The District and the Association shall meet and consult upon a conference and inservice program for professional growth of unit members, and a calendar of mandatory inservice sessions to be offered to unit members. Mandatory inservices shall not be normally scheduled on non-student attendance teacher workdays between semesters nor at the end of the school year, during teacher preparation time, nor outside of the contractual workday.
+5
+ARTICLE 3: ASSOCIATION RIGHTS cont
+3.11.5	The District shall offer the maximum number of state reimbursed staff development days outside of the regular workday as defined in 14.1. Eligible unit members shall be compensated for attendance. The rate of compensation shall be subject to negotiation.
+3.12	PAYROLL DEDUCTION
+3.12.1	Any unit member who is a member of the Association, or who has applied for membership, shall sign and deliver to the District an assignment (allotment of pay) authorizing deduction of unified membership dues within ten (10) days from the date of employment. Such authorization shall continue in effect from year to year unless revoked in writing between July 1 and July 31 of any year. Pursuant to such authorization, the Board shall deduct one-tenth (1/10) of such dues from the regular salary check of the unit member each month for ten (10) months. Deductions for unit members who sign such authorization after the commencement of the school year shall be properly pro-rated to complete payments by the end of the school year.
+3.12.2	Any other authorized voluntary payroll deduction, as well as any change in deduction for tax purposes, may be initiated or discontinued by a unit member by written notice to the District Payroll Department. The District shall process such request expeditiously. The parties acknowledge that the processing of payroll is by the San Bernardino County Superintendent of Schools Office and is outside the direction and control of the District.
+3.13	AGENCY FEE
+3.13.1	The Chino Valley Unified School District (herein known as the District) agrees to deduct agency fees, as required by SB 1960, from the pay of unit members who do not become members of the Associated Chino Teachers (herein known as the Association).
+3.13.2	On or before September 10th of each year, the Association shall present to the District a list of bargaining unit members who are members of the Association. Upon receipt of this list, the District shall determine which bargaining unit members are not currently members of the Association. The District shall then notify each nonmember of his/her status and indicate that as a condition of his/her continued employment, the employee must within thirty (30) calendar days from the date of notification, either become a member of the Association or authorize a monthly payroll deduction as a representation fee which will provide an amount of money equal to only that portion of the total dues, initiation fees, and general assessments paid for representation. If the nonmember fails to notify the District of his/her decision to become a member or a fee payer within the allotted time, the District will commence the deduction of the full amount of the appropriate fees and assessment prorated over the remainder of the school year. Upon request, the Association shall return any PERB mandated refunds. The District shall follow a similar procedure for all those unit members hired after the presentation of the initial list.
+6
+ARTICLE 3: ASSOCIATION RIGHTS cont
+3.13.3	With respect to all sums deducted by the District for membership dues or agency fees, the District agrees to remit such moneys promptly to the association accompanied by an alphabetical list of unit members for whom such deductions have been made, and indicating any changes in personnel from the list previously furnished.
+3.13.4	The Association and District agree to furnish to each other any information needed to fulfill the provisions of this article.
+3.13.5	RELIGIOUS OBJECTORS
+3.13.5.1	Any unit member who qualifies as a religious objector shall not be required to join or financially support the association as a condition of employment; except that such unit member shall pay, in lieu of a service fee, sums equal to such service fee to one of the following non-religious, non-labor organization, charitable funds exempt from taxation under section 501 (c)(3) of the title 26 of the internal revenue code:
+AMERICAN CANCER ASSOCIATION
+MT. BALDY UNITED WAY
+AMERICAN HEART ASSOCIATION
+3.13.5.2	To receive a religious exemption, the unit member must submit a detailed written statement establishing the basis for the religious exemption. Forms for this purpose may be obtained from the association. If accepted, by the association, the unit member shall make the payment to an appropriate charity as described above. Such payment shall be made on or before the due date for cash dues/fees for each school year.
+3.13.5.3	Proof of payment shall be made on an annual basis to the Association and District as a condition of continued exemption from the payment of agency fee. Proof of payment shall be in the form of receipts and/or canceled checks indicating the amount paid, date of payment, and to whom payment in lieu of the agency fee has been made. No in-kind services may be received for payments, nor may the payment be in a form other than money such as the donation of used items. Such proof shall be presented on or before the due date for cash dues/fees for each school year.
+3.13.6	HOLD HARMLESS
+3.13.6.1	The Association agrees to pay to the District all reasonable legal fees; legal costs and settlement or judgment liability if any incurred by the association in defending against any court action and/or administrative action challenging the legality or constitutionality of the agency fee provision of this agreement or their implementation.
+3.13.6.2	The Association shall have the exclusive right to decide and determine whether any such action or proceeding referred to in paragraph 3.13.6.1 shall or shall not be compromised, resisted, defended, tried, or appealed.
+7
+ARTICLE 4: RIGHTS RETAINED BY DISTRICT
+4.1	All rights and powers which the District enjoyed prior to signing of this Agreement which have not been abridged, deleted, modified, or restricted by this agreement are reserved to the District. Such rights and powers shall include all of the authority which has been granted to the District by the Legislature through applicable sections of the statutes, including, but not limited to, the following: California Education Code, California Government Code, California Code of Civil Procedure, California Elections Code, California Health and Safety Code, California Revenue and Taxation Code, and Title 5, the California State Administrative Code.
+4.2	The Association and the District shall continue to work cooperatively in converting any site from standard schedule to a year-round program or vice versa. It is understood that evaluation timelines may need to be adjusted for a year-round school calendar.
+4.3	The District shall have the right to require newly employed teachers authorized and hired to teach EL students to remain in their teaching assignment for a maximum of five (5) years.
+ARTICLE 5:	NON-DISCRIMINATION
+5.1	Neither the District nor the Association shall unlawfully discriminate against any unit member on the basis of race, religious creed, color, national origin, ancestry, age, physical disability, mental disability, medical condition, marital status, sex or sexual orientation, or his/her scholarly literacy, or artistic endeavors, or on the basis of membership or lack of membership in an employee organization, participation in lawful employee organization activities, or refraining from participation in employee organization activities.
+8
+ARTICLE 6: ADULT SCHOOL TERMS AND CONDITIONS
+6.1	Those Adult School teachers who are employees in the Adult Education Program and who serve for twenty (20) or more hours per week are members of the bargaining unit.
+6.2	All Adult School teachers shall be paid hourly. Full-time Adult School teachers shall be paid an hourly rate based on the member’s placement on the Certificated Salary Schedule. Part-time Adult School teachers shall be paid the class instruction hourly rate set forth in Appendix B, Miscellaneous, paragraph 3.
+6.3	Openings for employment in Adult School shall be posted at each school site.
+6.4	Adult School unit members who worked between twenty (20) and thirty-five (35) hours
+during the 1991/92 school year shall receive full health benefits effective the first full month after the signing of this Agreement. For the duration of this Agreement, the following circumstances shall apply to health and welfare benefits of Adult School teachers who reenter the bargaining unit after September 1992. A full-time assignment shall be an assignment of thirty-five (35) or more hours per week. Adult School teachers taking a voluntary reduction in hours shall have their health and welfare benefits adjusted on a prorated basis; teachers taking an involuntary reduction in hours will retain their full benefits. Adult School teachers who are assigned a minimum of twenty (20) hours per week shall be entitled to a District contribution towards health and welfare benefits. The District’s contribution for fringe benefits for such part-time employees shall be pro rata, and be based on the same ratio as their regularly assigned hours of work bear to thirty-five (35) hours per week.
+6.5	No unsatisfactory evaluation of performance shall be predicated upon any written material of a derogatory or critical nature which has been received or written by the member’s evaluator unless the member has first been given notice of same or an opportunity to discuss the matter with the evaluator. The member shall have the right to have his or her written reply become a part of the member’s personnel file. In the event the member’s evaluator indicated any deficiencies on a written observation report or written evaluation, the evaluator shall hold a conference with the member to make specific recommendations as to the areas of needed improvement in the member’s performance and shall endeavor to assist the member in improving his/her performance.
+6.6	Only those Contract rights and benefits specifically granted herein shall apply to parttime Adult School teachers. Such teachers are specifically included in Article 3.10, Article 5, Article 9, Article 10, Article 12, and Article 13 of this Agreement. Rights specifically provided herein are subject to the grievance process. While Adult School teachers are not subject to the provisions of Article 15: Placement, Assignment, Reassignment, Transfer, and Vacancies, they are entitled to non-senority transfer consideration if they are deemed by the District to be fully qualified.
+9
+ARTICLE 6:	ADULT SCHOOL TERMS AND CONDITIONS cont
+6.7 Notwithstanding any other provision at this Article, Adult Education unit members shall receive all rights specifically granted under the California Education Code.
+10
+ARTICLE 7: CLASS SIZE
+7.1	It is herby agreed and understood that for the purposes of this Article the word “District” as used herein shall mean the Associate Superintendent, Human Resources, and that the word “Association” as used herein shall mean the A.C.T. President or his/her designee.
+7.1.1	The District shall make a “good faith” effort to equalize class loads at all grade levels and within subject areas of the secondary schools, and between tracks at year-round schools.
+7.1.2	The Association and District shall develop a standing class committee to meet on an as-needed basis, but no less than bi-monthly, beginning in September of each school year to monitor, review, and discuss class sizes in the District. The committee shall make recommendations to rectify any class size situations that are educationally unsound or unsafe. The composition of the committee shall be determined jointly by the Association and District.
+7.1.3	In case of fiscal emergency, as declared by the Board of Education, the Association and District shall meet and negotiate regarding the provisions set forth in this Agreement.
+7.1.4	Unit members teaching combination classes shall be paid a stipend of $1,000 per year in accordance with Section 7.2.1 of the Collective Bargaining Agreement. The $1,000 stipend will be prorated if the combination class is disbanded during the school year. The stipend shall be divided into two payments, one no later than February 1, the second shall be no later than July 1 of each school year. Annually, the District shall offer voluntary training for elementary teachers with respect to organizing and teaching combination classes. Combination class training shall not be a prerequisite to a teacher receiving a combination class assignment.
+7.2	DAILY TEACHING/CLASS LOADS
+By the end of the sixth (6th) school day of the school year, the site administrator shall make available to the Association President and Faculty Representatives all necessary information regarding master schedules, class lists, and other pertinent information regarding class size. After the start of the new school year, if the number of students enrolled in an individual class exceeds the average number stated below for more than nine (9) school days in the elementary (K-6) or more than fourteen (14) school days in the secondary (7-12), the site administrator shall, upon the request of the affected teacher(s), develop a plan to achieve a resolution within a reasonable period of time.
+After the time periods stated above, and in accordance with Section 7.2.8 stated below, the affected teachers shall be entitled to extra compensation for each day that their classes are above the average sizes according to the following schedule.
+11
+ARTICLE 7: CLASS SIZE cont
+For each pupil in excess of the preferred numbers stated below, the teacher is to receive an increment of five dollars ($5.00) per pupil for each day that number is exceeded. This additional pay shall be provided retroactively to the first day the excess student(s) entered the class unless the class level falls at or below the preferred number by the ninth (9th) school day at the K-6 grade level and by the fourteenth (14th) school day at the 7-12 grade level based on District attendance records. This additional compensation, which is to be determined on the basis of official District daily enrollment records and an accounting form to be adopted by the mutual agreement of the parties, shall be provided at the end of the first and second semesters in the same manner as other stipends. In the case of conflicting records between the District and the teacher, the District and the Association shall meet to resolve the issue.
+Max.
+Pupils Aver, Pupils Add. Pay Per Pupil
+Kindergarten	32	31	32 and above
+Grade 1	31	30	31 and above
+Grades 2-3	32	31	32 and above
+Grades 4-6	32	31	32 and above
+Grades K-6 Combination classes (K/l max 31/pay @31; x/i max 31/pay @31:3/4 max 32/ pay @ 32)			$1,000 per year (Paid at the end of each trimester. Prorated if combination class is discontinued.)
+Resource Specialist Program	28	28	29 and above
+Grades 7-8	34 per class		
+Grades 9-12
+Physical Ed.
+165 daily for 5 classes 166 and above (Excluding teacher assts.)
+35 per class
+165 daily for 5 classes 166 and above (Excluding teacher assts.)
+47 per class	236 and above
+12
+ARTICLE 7: CLASS SIZE cont
+7.2.2	The District shall make a “good faith” effort to equalize and balance teaching ratios. During the first six (6) weeks of each semester, the Association and District shall review all class sizes weekly to ensure that they are equalized and balanced to the fullest extent possible.
+7.2.3	The District and Association agree to review class size issues which are pertinent to special need students in the Special Day Class Program.
+7.2.4	The provision for additional compensation shall not include students at the secondary level that are added to classes at the teachers’ request to serve as Teacher Assistants.
+7.2.5	The District and Association further agree to resolve class size issues which are pertinent to physical limitations at the school sites, including such matters as work stations, limited classroom space, student safety considerations, etc. Possible solutions to identified challenges will be shared with the Superintendent’s Cabinet.
+7.2.6	To ameliorate any class size inequities as outlined in this Article, the site administrator and the teacher(s) shall meet to resolve the situation. If no resolution is mutually agreed upon, then the Association and the District shall meet to resolve the situation.
+7.2.7	Teachers shall be able to deviate from the ratios stated above if, with site administrative approval, they agree to do so for sound educational reasons. In such instances, the teacher and administrator(s) shall submit in writing to the Association and District the reasons for the deviation. It is preferred by the parties that all deviations be supported by affected unit members through the establishment of consensus. If this is not possible, a two-thirds (2/3rds) majority of the teachers involved must be in agreement with the deviation, subject to review and approval by the Association and the District with respect to possible adverse impact on individual unit members. All deviations shall be annually approved by the parties.
+7.2.8	The District shall be required to acquire written teacher consent before class size or daily teaching load maximums are exceeded. Except under extenuating circumstances, teachers shall not be required to teach more pupils than the maximum number stated above. Such extenuating circumstances shall be subject to approval by the District and the Association.
+7.2.9	The District shall retain the right to increase or decrease the number of pupils assigned to an individual teacher in accordance with the guidelines stated above.
+13
+ARTICLE 7: CLASS SIZE cont
+7.3	EXCEPTIONS TO THE DAILY TEACHING RATIOS
+Athletic Physical Education
+Chorus
+Band
+Independent Study (Including Home-Based)
+Team Teaching arrangements determined by the staff
+Work Experience
+7.4	SPECIAL STAFFING RATIOS
+The District shall maintain the following District-wide student-professional ratios.
+Nurses	2000:1
+Counselors	450:1 (grades 9-12 only)
+Elementary Music Teachers	1600 (grades K-6 only)
+7.5	ALTERNATIVE STAFFING ARRANGEMENTS
+7.5.1	In order to increase staffing flexibility the Association and District have agreed to the following concepts:
+7.5.1.1	So called “6-4” work assignments (i.e., responsibility to teach six (6) classes in the fall and only (4) classes in the spring).
+7.5.1.2	Teaching additional classes for one-sixth (l/6th) per diem compensation.
+7.5.1.3	Part-time contracts and related arrangements.
+7.5.2	With respect to these concepts, the following provisions have been agreed to by the parties:
+7.5.2.1	Any alternative arrangement must be on a “mutual agreement” basis. No unit member shall be required to accept an alternative staffing arrangement - as defined above.
+7.5.2.2	When a “6-4” work assignment is voluntarily agreed to by a unit member and a site administrator, the daily teaching loads shall be adhered to proportionately.
+14
+ARTICLE 7: CLASS SIZE cont
+7.5	.1.3 Teachers assigned to a “6-4” schedule shall work the regular seven (7) hour work day during the first semester, inclusive of lunch, and a five (5) hour work day during the second semester, exclusive of lunch. All unit members shall be given an equal opportunity for such an assignment when the master schedule permits doing so. When a “6-4” work assignment is agreed to by the unit member and the respective site administrator, the individual’s work day may include a conference period before or after the regular school day. Such “6-4” arrangements are to be considered commitments subject to mutual agreement in the event that changes are deemed necessary for the second semester.
+7.5	.1.4 When an additional class is to be taught, to the extent the master schedule requires doing so, all eligible unit members at that site shall be given equal opportunity on a rotational basis. This is to be accomplished in a manner which will result in the least disruption to both teachers and students. In such instances, the additional compensation shall be equivalent to one-sixth (l/6th) of the individual’s per diem rate of pay which shall be added to the regular monthly pay warrant with no additional earned sick leave or retirement credit. In the case of absences during the time in which a unit member is assigned to teach an additional class for pay, that individual shall continue to receive the one-sixth (l/6th) per diem compensation during days that paid sick leave is taken. This applies to no more than ten (10) days per semester (Not to exceed the unit member’s accrued sick leave). For absences extending beyond ten (10) days each semester, a unit member shall be paid the per diem amount minus the amount paid by the District to a substitute to teach the additional class. If no substitute is employed, no deduction shall be taken. In addition, if the unit member with an additional class is absent due to the performance of other District duties, that individual shall be entitled to the one-sixth (l/6th) additional compensation. The District reserves the right to discontinue additional classes at any time depending upon changes in student enrollment or other factors.
+7.5	.1.5 When part-time contracts are to be considered, the provisions of Sections 14.12, 17.4.8 and Article 16 of this Agreement shall control.
+15
+ARTICLE 8: EVALUATIONS
+8.1	The intent of the evaluation program shall be to maintain and improve the quality of the instructional program. The evaluation process shall be conducted in a manner which recognizes both the teacher and the administrator as professionals, and creates an atmosphere of trust and cooperation between the participants in the process. This statement of purpose shall not be subject to the grievance process.
+8.2	The District shall evaluate all permanent employees no less than once every two (2) years. All probationary and temporary employees shall be evaluated no less than once each year.
+8.3	Any unit member who is scheduled to be evaluated shall be so notified by the District no later than the thirtieth (30) pupil attendance day of the school year in which the evaluation is to take place. Such notice shall contain a brief explanation of the procedure for evaluation.
+8.4	No later than the seventh (7) week of the school year in which the evaluation is to occur, the evaluator and the unit member will meet to discuss the elements of evaluation. A written summary of this pre-evaluation meeting shall be given to the unit member. This summary shall set forth the elements of evaluation as listed in paragraph 8.5 herein, areas of performance which may need improvement (when deficiencies have been noted as required by paragraph 8.10), any professional improvement goals selected by the unit member, and, at the discretion of the evaluator, any positive directions for the unit member. In the event of a disagreement over any element of evaluation, the Association President and the Associate Superintendent, Human Resources, will meet to resolve the issue. The unit member shall be given an opportunity to attach a list of any constraints which he/she feels may inhibit his/her ability to meet the objectives. If, after the preevaluation meeting has been held, a substantial change in circumstances occurs which impacts upon the elements of evaluation, either participant may request modification of the summary to comport with the new circumstances.
+8.5	The unit member’s evaluation shall be based on the following elements:
+8.5.1	The progress of pupils toward standards of expected pupil achievement as established by the District at each grade level in each area of study. The evaluation and assessment of member competence shall not include the use of publishers’ norms established by standardized tests. Identifiable constraints shall not be vitiated by the District’s adopted standards of pupil achievement.
+8.5.2	The instructional techniques and strategies used by the unit member. A unit member shall not be evaluated on utilization of any particular technique or strategy with which he/she is not familiar.
+16
+ARTICLE 8: EVALUATIONS cont
+8.5.3	The use of and adherence to the curricular objectives as adopted by the District.
+8.5.4	The establishment and maintenance of a suitable learning environment, within the scope of the unit member’s responsibilities. No unit member shall be evaluated on any circumstances over which he/she has no control.
+8.5.5	The performance of the following professional responsibilities so long as those responsibilities are consistent with the terms of this Agreement.
+8.5.5.1	Adherence to a published campus supervision schedule.
+8.5.5.2	Providing of reasonable opportunity for parent-teacher conferencing.
+8.5.5.3	Completion of reports as required by District policy so long as these policies have been communicated to the unit member.
+8.5.5.4	Performance of duties, obligations, and responsibilities as stated in section 14.3 of this agreement.
+8.5.5.5	Compliance with all policies and administrative regulations adopted by the Board.
+8.6	An overall “needs to improve” or “ineffective/unsatisfactory rating” for a teacher may not be based exclusively on Article 8.5.5 above. Additionally, any negative material more than three (3) years old shall be removed from the on-site correspondence/evaluation file and not used for the evaluation process.
+8.6.1	The evaluation of unit members shall not include, nor be based upon, the following:
+8.6.1.1	Results of any tests utilized for measuring progress toward the fulfillment of goals set forth in School Improvement Plan.
+8.6.1.2	Achievement of objectives stated in Individualized Education Programs (lEP’s) developed for Special Education pupils.
+8.6.1.3	Teacher/student portfolios, unless unit members have received in-service on this method of pupil assessment and have agreed to its use during the pre-evaluation meeting referred to in Section 8.4.
+8.6.1.4	Correlation of District adopted courses of study, i.e., approved District curriculum, state frameworks.
+17
+ARTICLE 8: EVALUATIONS cont
+8.7	The evaluator shall observe performance of the unit member; at least one such observation shall be arranged and announced no less than two (2) working days prior to the date of observation. Post-observation conference shall be held within five (5) working days following the observation assuming that neither party is absent during that period of time. Following the observation conference, the observation shall be summarized in writing and a copy delivered to the unit member within five (5) days. If the employee’s performance was “ineffective/unsatisfactory” during the period of the observation, the summary shall so indicate with recommendations for improvement.
+8.8	For probationary employees, one post-observation conference shall be held prior to the thirteenth (13th) week of the school year and a second post-observation conference shall be held prior to February 15th, at which time the evaluation shall be discussed by the evaluator and the unit member.
+8.9	For permanent employees, the post-observation conference shall be held no later than February 15, at which time the preliminary evaluation shall be discussed by the evaluator and the unit member.
+8.10	If any observation, conference, preliminary evaluation, or final evaluation discloses any area in which improvement is needed, the evaluator shall offer positive assistance aimed at achieving the desired improvement. The unit member shall take definite action to correct any cited deficiencies, based upon the evaluator’s specific recommendations for improvement and assistance in implementing such recommendations.
+8.11	Any unit member receiving a “needs to improve” or ineffective/unsatisfactory rating on the final evaluation form must first have received, by February 15th, a written statement from the evaluator indicating the areas where improvement is required and suggested methods by which the unit member can mitigate the “need to improve.” No unit member shall receive an overall rating of “ineffective/unsatisfactory” unless he/she has been notified during a post-observation conference or at some other time in writing of the areas of performance wherein improvement is needed. Any negative comment made on the final evaluation form must be made and documented prior to the final evaluation.
+8.12	Any performance deficiencies, which may have been brought to the attention of the unit member and were subsequently corrected, shall not be included in the final evaluation summary. Unsubstantiated statements shall not be included in the evaluation.
+8.13	The final evaluation conference shall be held no later than forty-five (45) calendar days prior to the last regular school day of the unit member concerned. The evaluator shall present the written evaluation and discuss the matter with the unit member. The unit member will sign the evaluation report, signifying only that he/she has read the...
+18
+ARTICLE 8: EVALUATIONS cont
+...document and that he/she has been provided an opportunity of attaching a written response which shall become part of the permanent record.
+8.14	In the event of an overall rating of ‘ineffective/unsatisfactory,’ a second and final evaluation may be held upon request of the unit member. Said request must be submitted within ten (10) working days following receipt of the ineffective/unsatisfactory rating. The site administrator shall select the second evaluator.
+8.15	The District shall use the evaluation form adopted by mutual agreement of the parties.
+8.16	Unit members shall not participate in the evaluations(s) of other unit members. This shall not preclude, however, the involvement of department chairs, mentor teachers and others in the process of providing training and assistance to teachers who may require remediation, if mutually agreeable.
+8.17	If a unit member is not performing his/her duties in a satisfactory manner, the District shall notify him/her in writing of such fact and describe such ineffective/ unsatisfactory performance. The District shall thereafter confer with the unit member making specific recommendations as to areas of improvement and endeavor to assist him/her in such performance.
+8.18	In requiring an employee to participate in a program to improve appropriate areas of his/her performance, the District shall utilize resources within the District to the extent possible.
+8.19	Prior to a notice of non-REelection of a probationary unit member, the appropriate administrator preparing the evaluation shall have documented areas of needs improvement, or other justification as determined by the District. It is not the intent of this section to restrict the legal authority of the District to non-reelect probationary certificated employees as which is declared invalid in the grievance process, pursuant to Article 11, shall not preclude the District from exercising its election not to rehire for no cause.
+8.20	PERSONAL AND ACADEMIC FREEDOM
+It is the policy of the District that all instruction shall be fair, accurate, objective, and appropriate to the age and maturity of the pupil(s), and sensitive to the community’s needs and the needs and values of our diverse cultures and heritages. Academic freedom is essential to the fulfillment of this policy and the District acknowledges the fundamental need to protect unit members from any censorship or restraint which might interfere with a unit member’s obligation to pursue truth in the performance of his/her teaching duties.
+19
+ARTICLE 8: EVALUATIONS cont
+8.20.1	Unit members shall have reasonable freedom in classroom presentations and discussions, and may, consistent with existing Board Policy, introduce political, religious, social or otherwise controversial material, provided that said material is appropriate and relevant to adopted course content and is within the scope of the law.
+8.20.2	In performing teaching functions, unit members shall have reasonable freedom to express their opinions on all matters appropriate and relevant to the course content, in an objective manner. Unit members shall present all known sides of controversial issues and shall not utilize their positions to indoctrinate students with their own personal, political, social, and/or religious views.
+8.20.3	The personal life of a unit member is not an appropriate concern of the District for purposes of evaluation unless it prevents the unit member from performing his/her duties. No religious, political, nor personal activities, nor lack thereof, of any unit member shall be used for purposes of evaluation or disciplinary action unless said activities violate Board Policies, or local, state, or federal laws.
+20
+ARTICLE 9: PERSONNEL FILE CONTENTS AND INSPECTION
+9.1	There shall be a single personnel file for each unit member. Personnel files shall be kept in the central administrative offices of the District. Materials in personnel files of unit members which may serve as a basis for affecting the status of their employment are to be made available for the inspection of the unit member involved. Every unit member shall have the right to inspect and copy such materials, upon request, provided that the request is made at a time when such person is not actually required to render services to the employing district. Such material is not to include ratings, reports, or records which: (a) were obtained prior to the employment of the person involved, (b) were prepared by identifiable examination committee members, or (c) were obtained in connection with a promotional examination.
+9.1.1	Unit members shall have the right to have an Association representative present when reviewing the contents of their personnel files. Unit members may also provide written authorization for others to review their personnel files on their behalf.
+9.2	Information of a derogatory nature, except material mentioned in the fifth sentence of 9.1 of this Article, shall not be entered or filed unless and until the unit members is given a copy of the material and an opportunity to review and comment thereon. A unit member shall have the right to have attached any written comment thereon. Such review shall take place during normal business hours, and the unit member shall be released from duty for this purpose without salary reduction.
+9.3	Anyone who drafts and/or places material in a unit member’s personnel file shall sign the material and signify the date on which the material was drafted and placed in the file. Site administrators may maintain an on-site evaluation and correspondence file for unit members. The unit member will be apprised of the contents of such site level file, and such material may be placed in the unit member’s personnel file upon provision of (1) written notice to the unit member of such placement, and (2) an opportunity to first review and comment on such material. Prior to preparing a disciplinary letter for inclusion in a personnel file, the administrator shall make a good faith effort to conference with the employee and the Association representative if one is requested. The unit member shall have the opportunity to disprove allegations believed to be false in substance. Derogatory materials which are found to be false in substance shall not be placed in a unit member’s personnel file.
+9.4	All derogatory material placed in a unit member’s personnel file shall be dated and signed by the person who causes the material to be prepared. Derogatory material intended for a unit member’s personnel file shall be held in the Human Resources Office for a period of twenty (20) work days.
+21
+ARTICLE 9: PERSONNEL FILE CONTENTS AND INSPECTION cont
+9.5	The District shall cause a log to be maintained indicating the name and duty position of each person who has requested to examine a personnel file, as well as the date of examination and the reason for examination. Such log shall be available for examination by the unit member.
+9.6	Access to unit member personnel files shall be limited to the Board of Education when convened as a Board, site and District administrators, as well as other official representatives of the District such as attorney, claims administrators, investigators, and others, on a need-to-know basis.
+9.7	Upon written request of unit member, derogatory material which is more than four (4) yeas old, and which has not been used in the employee’s evaluation, shall be sealed and not available for District use unless disciplinary proceedings are commenced or planned against that unit member.
+9.8	Only material which has been duly placed in a unit member’s personnel file may affect the status of his/her employment. Both site and District personnel records are to be confidentially kept in a locked file.
+22
+ARTICLE 10: PUBLIC CHARGES
+10.1	A public charge is an allegation against a unit member by a member of the public (other than another employee or a student) which is deemed by the site administrator to be serious in nature. Allegations involving sexual harassment and discrimination shall be dealt with in accordance with appropriate Board Policy and corresponding Administrative Regulations and limited to Sections 10.6, 10.8, 10.10 and 10.11 below.
+10.2	“Serious in Nature” means that the allegation, if found to be true, could be placed in unit member’s personnel file and used by the District as a basis of disciplinary action against the unit member or as documentation for a negative comment on his/her evaluation.
+10.3	The District shall make a good faith effort to notify unit members of public charges within five (5) work days of receipt of the complaint or before an investigation is undertaken, whichever is sooner. Complaints which relate to conduct which may constitute a criminal act shall be referred to appropriate authorities and the District may elect not to take further action under this Article.
+10.4	Complaints made by fellow employees or students are considered to be internal matters, not public charges, and are to be resolved at the work site is possible. However, before any such complaint can result in material placed in a unit member’s personnel file, the complaint shall be investigated in accordance with Section 10.6 below.
+10.5	Site administrators shall make a good faith effort to resolve public charges at the site level. A good faith effort may include but not be limited to (a) discussions with complainant, (b) arranging a meeting between the unit member and the complainant, (c) arranging a meeting between the administrator, complainant, the unit member, and an Association representative if the unit member so requests.
+10.6	No public complaint shall be placed in a unit member’s personnel file, nor utilized in an evaluation or disciplinary action against the unit member unless the allegations have been investigated and verified by the site administrator. “Verified” as used herein, means that after investigation, it appears to the District more likely that the events alleged did occur than did not. Public charges which are found to be unsubstantiated by the District shall be discarded.
+10.7	If complainant refuses to sign a written complaint, the matter shall be dismissed unless there is independent information to substantiate the concern, in which case the District may proceed as deemed appropriate based on the independent information.
+10.8	If the unit member requests, the matter shall be reviewed by the Superintendent or designee prior to the complaint being placed in the personnel file. Further, if the unit member requests, the matter may be reviewed by the Board.
+23
+ARTICLE 10: PUBLIC CHARGES con’t.
+10.9	When a public charge has been resolved or placed in a unit member’s personnel file, the District may respond to the complainant indicating that the matter has been resolved, however, whether the District does so or not, the District shall protect the confidentiality of any action taken against the unit member. In cases involving allegations of sexual harassment or other forms of discrimination, the District shall protect the confidentiality of any action taken against the unit member to the extent required by law.
+10.10	The procedures contained in Board Policy and Administrative Regulation 1312.3, entitled Uniform Complaint Procedures, shall be supplemented in cases involving discrimination complaints filed against unit members under said Policy and Regulation as follows:
+10.11	.1 Step 1 - Filing of Complaint: To the extent permitted by law, the District shall provide notice of the filing of a complaint to the accused unit member.
+10.11	.2 Step 2 - Mediation: The accused unit member may request participation in mediation which shall be subject to final approval by the mediator.
+10.11	.3 Step 3 - Investigation of Complaint: The investigation of the complaint may include individual interviews or meetings with the accused unit member.
+10.11	.4 Step 4 - Final Written Decision: Unless otherwise restricted by law, the accused shall be notified of the outcome of the investigation.
+24
+ARTICLE 11: GRIEVANCE PROCEDURE
+11.1	DEFINITIONS
+11.1.1	A grievance is an allegation by a unit member or members that there has been a misinterpretation, misapplication, or violation of this agreement. Actions to challenge or change the policies, regulations, or other matters outside of this Agreement are not within the scope of this procedure, and review must be taken under separate processes.
+The Association shall have the right to grieve any alleged misinterpretation, misapplication, or violation of Association rights under this Agreement.
+No unit member shall suffer any retribution, loss of privileges, or otherwise be adversely affected or dealt with by the District by reason of having filed a grievance.
+The District and the grievant shall make every reasonable effort to resolve all grievances verbally at the lowest possible level.
+11.1.2	A day is a day upon which unit members are regularly scheduled to work.
+11.1.3	An immediate supervisor is the Principal, or his/her designee, or the District administrator having immediate jurisdiction over the grievant.
+11.2	TIME LIMITS
+The time limits contained herein are considered maximum limits; however, time limits may be extended by mutual written agreement. In the event the grievant fails to meet a time limit, such failure shall constitute a waiver of grievance. In the event the District fails to meet a time limit, such failure shall allow the grievant to proceed to the next level of the grievance procedure. The time limits provided herein at each level shall begin on the work day which follows receipt of the written response or grievance appeal.
+11.3	GRIEVANCE STEPS
+11.3.1	Informal Level. Before filing a formal written grievance, the grievant shall attempt to resolve the alleged violation through an informal conference with the grievant’s immediate supervisor or any other administrator that is alleged to have misinterpreted, misapplied or violated some express provision of the Agreement.
+11.3.2	Level I
+11.3.2.1	No later than twenty (20) days following the alleged act or omission giving rise to the grievance, or no later than twenty (20) days following the date upon which the unit...
+25
+ARTICLE 11: GRIEVANCE PROCEDURE cont
+...member reasonably should have known of the act of omission, the grievant must present such grievance in writing on an appropriate form to the immediate supervisor.
+11.3.2.2	The written grievance shall contain a clear, concise statement of the grievance, the specific provision(s) of the Agreement allegedly involved, and the specific remedy sought.
+11.3.2.3	The immediate supervisor shall communicate a written decision to the grievant within ten (10) days after receiving the grievance. Within the above time limits, either party may request a personal conference with the other party.
+11.3.3	Level II
+11.3.3.1	In the event the grievant is not satisfied with the decision at Step I, the grievant may appeal the decision on the appropriate form to the Superintendent or his designee within ten (10) days. Failure to meet this time limit by the grievant shall constitute an automatic waiver and withdrawal of the grievance.
+11.3.3.2	The Superintendent or his designee shall communicate a decision within ten (10) days after the conference in which to provide a written response.
+11.3.3.3	Either the grievant, or the Superintendent or his/her designee, may request a personal conference to be held within the above time limits. In the event that such a conference is requested, the Superintendent or his/her designee shall have ten (10) days after the conference in which to provide a written response. If the Superintendent or his/her designee does not respond within the time limits, the grievant may proceed to the next step.
+11.3.4	Level III
+11.3.4.1	A unit member not satisfied with the Level II decision may within ten (10) of the receipt of the written response request the Association to submit the grievance to arbitration. If the Association decides to submit the grievance to arbitration, it may within ten (10) days of receipt of the request from grievant, give written notice to the Superintendent of its intent to submit the grievance to arbitration. If any questions arise as to the arbitrariness of the grievance, such questions will be ruled upon first by the arbitrator.
+11.3.4.2	Within ten (10) days after receipt by the District of the written notice of intent to arbitrate, the Superintendent or his/her designee and the Association will attempt to agree on a mutually acceptable arbitrator and to obtain a commitment from the arbitrator to serve. If the parties are unable to so agree, a request for a list of seven arbitrators shall be made to the American Arbitration Association by either party. The parties will meet...
+26
+ARTICLE 11: GRIEVANCE PROCEDURE cont
+...within five (5) days following the receipt of the list and proceed according to the rules and procedures of the American Arbitration Association in the selection of an arbitrator, and that arbitrator shall proceed under the Voluntary Labor Arbitration Rules of the American Arbitration Association.
+11.3.4.3	The arbitrator’s decision will be in writing and will set forth finding of fact, reasoning, and conclusion on the issues submitted. The arbitrator, in rendering his/her opinion, shall not amend, modify, nullify, ignore, nor add to the provisions of this Agreement. The arbitrator’s authority shall be limited to deciding only the issue or issues presented in writing by the District and the grievant or grievant’s representative. The arbitrator’s decision shall be based upon the arbitrator’s interpretation of the meaning or application of the language of this Agreement. The decision of the arbitrator will be final and binding and will be submitted to the District and Association.
+11.3.4.4	The costs of the compensation to the arbitrator and the reimbursement of the arbitrator’s travel and subsistence expenses, as well as the cost of a hearing room, will be borne equally by the District and the Association. All other costs will be borne by the party incurring the costs.
+11.3.4.5	Upon mutual agreement of the Association and the District, a grievance may be taken directly to arbitration.
+11.3.4.6	All provisions of this Article shall survive the expiration date of this Agreement and shall continue in force during any effort to reach a successor Agreement.
+11.4	MISCELLANEOUS PROVISIONS
+11.4.1	A unit member may be represented at all stages of the grievance procedure by himself/herself or, at his/her option, by a representative provided by the Association or its representative, the District shall not agree to a resolution of the grievance without first providing the Association with a copy of the grievance, the proposed resolution, and an opportunity to respond.
+11.4.2	When it is necessary for a representative designated by the Association to investigate a grievance or attend a grievance meeting or hearing during the day, he/she shall be released without loss of pay in order to permit participation in the foregoing activities. Any unit member who is requested to appear in such investigations, meetings, or hearings as a witness will also be accorded the same right.
+11.4.3	The District will deal exclusively with the Association (or the grievant drectly, if unrepresented), for the processing of grievances.
+27
+ARTICLE 11: GRIEVANCE PROCEDURE cont
+11.4.4	The District shall maintain separate grievance files for documents, communications, and records dealing with the processing of a grievance.
+11.4.5	If a grievance arises from an action or inaction of the District at a level above the principal or immediate supervisor, the grievant shall submit such grievance in writing directly to the Superintendent or his/her designee and the Association with the processing of such grievance to commence at Level II.
+11.4.6	The Association, either on its own behalf or on the behalf of one or more unit members, shall have the right to initiate a grievance at Level II.
+11.4.7	Grievances related to safety shall commence at Level II.
+11.4.8	In the event a grievance is filed at such a time that it cannot be processed through all the steps by the end of the school year, vacation break, or off-track time, and if left unresolved harms the interests of either the grievant, the District, or Association, the time limits set forth herein shall be reduced so that the procedure may be exhausted as soon as feasible.
+11.4.9	If the parties agree, expedited arbitration procedures established by the American Arbitration Association may be used.
+28
+ARTICLE 12: WORKING CONDITIONS
+Recognizing that unit member contact with students is the primary responsibility of the District’ professional staff and that professional staff effectiveness, in part, depends upon positive District support, the District shall:
+12.1	Ensure unit member representation on District level and school level committees which are concerned with curriculum, budgeting, professional in-service training, pupil evaluation, job evaluation, educational needs assessments, or other areas in which unit member experience and professional preparation make their contributions valuable and provide lawful public information necessary to assist the committee.
+12.2	Provide readily accessible duplication equipment and clerical support, textbooks, including teacher’s editions and related resource materials that accompany the teacher’s edition and are included within the overall cost of these teacher’s editions supplies, and equipment consistent with curricular objectives.
+12.3	Provide a work schedule and administrative support such that unit members can expect reasonable security and protection.
+12.4	Provide the most reasonable working areas suitable to regular and special education instruction.
+12.5	Maintain operational plumbing, heating, air conditioning to ensure unit member comfort, and telephones for school business use. Unit members shall have telephones made available in places where confidentiality can be assured.
+12.6	Provide at least one emergency parking place per school site; however, the District shall not be held responsible for monitoring same.
+12.7	Provide teachers required to move from one classroom to another after the start of the work year with the necessary release time and timely physical assistance to facilitate the transition. The necessary release time may include, but not be limited to, one (1) to three (3) days full release to be determined mutually by the site administrator and the affected unit member. As an alternative, the equivalent number of non-contract days may be paid to the unit member at the daily substitute teacher rate.
+12.8	Traveling teacher. Provide teachers required to move daily from one classroom to another with reasonable time and assistance. Reasonable time and assistance shall be considered based on the following limitations: bell schedule, available support staff, location of appropriate classrooms, and financial constraints.
+12.	9 Make a good faith effort to ensure that no unit member shall be denied adequate time and classroom coverage for necessary rest room visits.
+29
+ARTICLE 12: WORKING CONDITIONS cont
+12.10	Make a reasonable effort, in the interest of safety, to assure that an administrator is present at each school site during the hours when students are present. When an administrator is not present, there will be a designated certificated employee in charge, and the site’s office personnel will inform any unit member at the site as to which employee has been so designated. Further, site personnel will assist in contacting appropriate administrative personnel. The provisions of this section are excluded from Level III of Article 11, (the arbitration provision of the Grievance Procedure), but may be grieved through Step II of Article 11, (the grievance level at which the Superintendent or his/her designee considers the matter), which shall be the final step for any grievances under this section.
+12.	11 Ensure that in any case where a teacher determines that there is an unsatisfactory working relationship between that teacher and aide assigned to his/her classroom, the teacher may initiate a request to the principal or designee to meet to attempt to resolve the matter.
+12.12	Work cooperatively with affected teachers on the assignment of student teachers from local teacher training institutions. Student teachers will not be assigned to work with a teacher without his/her approval.
+12.13	Prohibit students from inserting anything or removing anything from the mail boxes of unit members.
+12.14	Not require unit members to use their personal vehicles to transport students. All transportation of students shall be with prior approval of site administration and arranged in accordance with current transportation procedures.
+12.15	Not require unit members to perform special medical procedures unless they have been specifically trained to do so.
+12.16	Inform each teacher of any student who has caused or who has attempted to cause, serious bodily injury or injury to another person as defined in paragraphs (5) and (6) of subdivision (e) of Section 243 of the Penal Code or any conduct engaged in by the student which would be grounds for expulsion under Education Code 48900 (except Section H), 48900.2, 48900.3, 48900.4, OR 48900.7. The information provided by the District shall be based on any written records that the District maintains, or receives from law enforcement agencies and/or other agencies.
+12.17	Whenever possible, provide unit members with a designated, interruption-free work space or classroom. Unit members may also request and receive custodial cleaning schedules and they shall have a right to a staff work area and/or lounge which is not accessible to students.
+30
+ARTICLE 12: WORKING CONDITIONS cont
+12.18	Support a unit member’s right to expect professional treatment from all District personnel. Conversely, unit members shall be expected to conduct themselves in the same manner.
+12.19	Electronic acknowledgement of the receipt of the unit members’ routine work orders and purchase orders (when implemented), if submitted through their respective work location administrative offices, within twenty (20) days. The acknowledgement shall include an estimated completion date provided to the site. In those instances where the work order is related to an emergency, the acknowledgement shall be within twenty-four (24) hours, and urgent matters shall be dealt with as a priority and in an expeditious manner.
+12.20	Unit members shall have the right to be represented by the association to the extent required by law.
+31
+ARTICLE 13: LEAVES
+13.1	The leaves provided herein are the sole leaves provided by this Collective Bargaining Agreement. Any additional leaves which are mandated by law or are discretionary with the District are excluded from the terms of this Agreement and specifically excluded from the grievance procedure herein.
+13.2	SICK LEAVE
+Full-time unit members on a regular annual contract are entitled to one day’s sick leave per eighteen (18) contract days per year, at least a minimum of ten (10) days. Credit for the annual minimum of ten (10) days’ sick leave need to be accrued prior to taking such leave by the unit members, and such sick leave may be taken at any time during the school year. The unused portion of the unit member’s sick leave shall accumulate without limit.
+13.2.1	The District shall provide each unit member with a written statement of his/her accrued sick leave total and sick leave entitlement for the school year. Such statement shall be provided no later than October 15th of each school year.
+13.2.2	Part-time unit members employed less than five (5) school days per week shall be entitled to sick leave in the ratio that their service bears to full-time service.
+13.2.3	Summer school teachers may utilize during the summer up to three (3) full days of sick leave accumulated during the regular school year. Such utilization may be applied to fractional days in increments of at least one-half (U) day.
+13.2.4	For absence due to illness or injury extending beyond current year and accumulated sick leave credit, a unit member shall be paid his/her regular salary for a period of up to five school months, less the amount paid a substitute to fill the position during the unit member’s absence. If no substitute is employed, the unit member shall be paid regular salary less the amount which would have been paid to the substitute had one been employed. Upon request, the unit member shall provide the District a physician’s report as to the nature of the illness and the expected duration of the absence. Upon exhaustion of current year and accumulated sick leave, should the unit member be unable to return to work due to absence or illness, the District may require him/her, at District expense, to submit to a physical examination to determine the extent of the illness or injury and the anticipated date that the unit member will be able to return to work.
+13.2.5	In all cases of absence, the unit member shall furnish the administrator with an employee absence report, signed by the unit member, certifying the illness, injury, or quarantine. Satisfactory proof of the nature, extent, and duration of the illness may be required of the unit member in cases where an administrator feels that he/she is violating the intent of the leave policy.
+32
+ARTICLE 13: LEAVES con’t.
+13.2.6	Satisfactory proof of the unit member’s ability to return to normal duty may be required of the unit member in cases where an administrator has any question about the unit member’s ability to return to duty.
+13.2.7	A permanent employee who resigns and is reemployed within thirty-nine (39) months shall have all accumulated sick leave credit reinstated.
+13.2.8	TOTALLY DISABLED
+Unit members sixty (60) years of age or older who are not eligible for disability protection pursuant to STRS guidelines and who have exhausted all accrued sick leave may opt to waive the substitute pay differential benefit, as described in Paragraph 13.2.5, and select one of the following options:
+(1)	Regular retirement pursuant to STRS guidelines; or
+(2)	Receive an additional 100 days substitute pay differential provided by the District.
+Unit members electing option two (2) shall receive full salary less the amount paid a substitute employed to fill his/her regular position. If no substitute is employed, the unit member shall receive full salary less the amount which would have been paid a substitute had one been employed.
+13.3	PARENTAL LEAVE
+In cases of expected maternity, the unit member involved may secure a leave of absence, without pay, not to exceed one (1) school year, at the end of which, the unit member shall be reemployed at a comparable position, and, if possible, the same position.
+13.3.1	Paternal sick leave may be used for the delivery of a child, for a bonafide medical disability connected with a pregnancy, as verified by a doctor’s statement, and for normal postpartum recovery. Sick leave used for postnatal care of the infant or for child care shall not exceed ten (10) days.
+13.3.2	Upon request, the District shall provide a unit member who is a natural or adopting parent an unpaid leave of absence for the purposes of rearing his/her infant. The unit member shall notify the District that he/she intends to take such a leave at a reasonable time prior to the anticipated date on which the leave is to commence. The length of such leave shall be limited to the remainder of the current school year, with the option of requesting one (1) additional school year.
+33
+ARTICLE 13: LEAVES cont
+13.3.3	For a unit member who is legally adopting a child, he/she shall be entitled to such leave for the period of adjustment necessitated by having an adopted child placed in his/her home and care, up to a maximum number of fifteen (15) days of accumulated sick leave. When said fifteen (15) days are exhausted, the employee shall be entitled to further unpaid leave either under Section 13.3.2 or 13.8 herein.
+13.3.3.1 Additional days not to exceed ten (10) may be used from available personal necessity leave for adoption.
+13.4	MATERNITY LEAVE
+Unit members covered by this Agreement shall be entitled to use sick leave, as set forth in this Agreement, for disabilities caused or contributed to by pregnancy, miscarriage, childbirth, and/or recovery therefrom, on the same terms and conditions governing leaves of absence for other illnesses, injuries, or medical disabilities. Such leave shall not be used for childcare, child rearing, or preparation for childbearing, but shall be limited to those disabilities caused or contributed to by pregnancy, miscarriage, childbirth, and/or recovery therefrom.
+13.4.1	The length of such pregnancy disability leave, including the date on which the leave shall commence and the date on which the unit member’s duties with the District are to be resumed, shall be determined by the unit member and her physician, subject to the following conditions:
+13.4.1.1	Within five (5) days following delivery, the unit member shall provide to the Human Resources Office a physician’s statement indicating necessary postpartum recovery time.
+13.4.1.2	A unit member who is pregnant may continue in active employment as late into her pregnancy as she desires, provided she is able to properly perform her required duties and responsibilities and has submitted a physician’s certificate.
+13.4.1.3	A unit member returning from pregnancy leave shall return when she is able fully and properly to resume her duties and has submitted a physician’s certificate per 13.2.6.
+13.4.2	Unit members shall be entitled to leave without pay or other benefits for disabilities caused or contributed to by pregnancy, miscarriage, childbirth, or recovery therefrom, when all current, accumulated, and differential pay sick leave has been exhausted. The date on which the unit member shall resume duties shall be determined by the unit member on leave and the unit member’s physician; provided, however, that the District management may require a verification of the extent of disability.
+34
+ARTICLE 13: LEAVES cont
+13.4.3	This leave policy shall be construed as requiring the District to grant leave with pay only when it is necessary to do so in order that leaves for disabilities caused or contributed to by pregnancy, miscarriage, or childbirth be treated the same as leave for other illnesses, injuries, or disabilities.
+13.4.4	In all cases of absence, the unit member shall furnish the administrator with an employee absence report, signed by the employee, certifying the illness, injury, or quarantine.
+13.4.5	Satisfactory proof of the unit member’s ability to return to normal duty may be required of the unit member in cases where an administrator has any question about the employee’s ability to return to duty.
+13.4.6	A unit member on pregnancy disability leave for one hundred twenty (120) contract days or less shall be entitled to return to the same assignment held at the time such leave commenced unless such assignment has been discontinued, in which case, the employee shall be entitled to a comparable assignment. A unit member on pregnancy disability leave for more than one hundred twenty (120) contract days shall be entitled to return to an assignment held at the time such leave commenced. In any case, the assignment of the unit member upon return to work shall be comparable to that held at the time pregnancy disability began. “Comparable” means same educational level (primary or intermediate elementary, junior high school, or high school assignment) and also means immediate assignment within major and/or minor teaching fields, whenever possible, except by request of the employee and availability of the position.
+13.5	INDUSTRIAL ACCIDENT AND ILLNESS LEAVE
+Unit members will be entitled to industrial accident leave according to the provision in Education Code Section 44984 for personal injury which has qualified for workers’ compensation.
+13.5.1	Such leave shall not exceed sixty (60) days during which the schools of the District are required to be in session or when the unit member would otherwise have been performing work for the District in any one fiscal year for the same industrial accident.
+13.5.2	The District has the right to have the unit member examined by a physician designated by the District, at the District’s expense, to assist in determining the length of time during which the unit member will be temporarily unable to perform assigned duties and the degree to which a disability is attributable to the injury involved.
+13.5.3	For any days of absence from duty as a result of the same industrial accident the unit member may endorse to the District any wage loss benefit check from the District workers’ compensation carrier which would make the total compensation from both...
+35
+ARTICLE 13: LEAVES cont
+...sources exceed 100% of the amount the unit member would have received as salary had there been no industrial accident or illness.
+13.5.4	If the unit member does not endorse to the District any wage loss disability indemnity check received on account of the industrial accident or illness, as provided above, the District shall deduct from the Unit member’s salary warrant the amount of such disability actually paid to the unit member.
+13.6	JURY DUTY/COURT APPEARANCE
+13.6.1	The District shall grant paid leaves for unit members called to serve on jury duty, subject to the following conditions:
+13.6.1.1	Unit members must notify their immediate supervisor at least three (3) working days prior to the date of their first appearance; and
+13.6.1.2	Unit members shall be paid the difference between their regular salary and the amount they receive in the form of jury duty pay, exclusive of mileage fees. The District shall pay the unit member’s regular salary, and the unit member shall remit to the District the amount, received as jury duty pay within ten (10) days of receiving such pay. In the event the unit member has failed to remit such fees after receiving such fees, the District shall be entitled to withhold the appropriate amount from the unit member’s last salary check of the school year.
+13.6.2	The District shall grant paid leave for mandatory court appearance as a litigant or as a witness, pursuant to lawful judicial or administrative subpoena. In any case in which a witness fee is payable, such fee shall be collected by the unit member and remitted to the District, not to exceed actual amount paid a substitute. For the purpose of this Article, the definition of the word “litigant” does not include a plaintiff in a legal action.
+13.7	PERSONAL NECESSITY LEAVE (CHARGEABLE TO SICK LEAVE)
+13.7.1	A unit member shall be entitled to personal necessity leave in accordance with the following:
+13.7.1.1	A death occurring within the unit member’s immediate family/household when the number of days absent exceeds the limit provided in the bereavement policy; (See also 13.9.1) The total number of days shall not exceed the total number of days of bereavement leave provided in 13.9 plus seven (7) days of personal necessity leave;
+13.7.1.2	A serious or critical illness or injury of a member of the unit member’s immediate family/household that requires the services of a physician and of such a nature that the...
+36
+ARTICLE 13: LEAVES cont
+.. .immediate presence of the unit member is required during his/her work day. The total number of days shall not exceed ten (10).
+13.7.1.3	An accident involving the unit member’s property of the person or property of any member of the unit member’s immediate family/household. The accident must be serious nature, involve circumstances the unit member cannot reasonably be expected to disregard, and which require the attention of the unit member during his/her work day. Such leave is limited to ten (10) days per school year.
+13.7.1.4	Upon verification of a catastrophic illness or injury of a member of the unit member’s immediate family/household which requires the unit member of be off work for an extended period of time to care for the ill or injured family/household member, the unit member’s personal necessity leave entitlement shall be the number of days that the unit member is required to be off work or the number of days of accumulated sick leave, whichever is less. (See the District’s Catastrophic Leave Policy for further details)
+13.7.2	When sick leave is used for personal necessity as set forth in 13.7.1.1, 13.7.1.2, 13.7.1.3, or 13.7.1.4 above, the unit member shall not be required to secure advance permission, but shall notify his/her site administrator as soon as possible.
+13.7.3	Accumulated sick leave may be used for the following personal necessities with prior notification of the site administrator.
+13.7.3.1	For marriage of the unit member, the father, the mother, the son, the daughter, the sister, the brother, or the person living in the immediate household, which shall be limited to no more than seven (7) days for any one marriage; or
+13.7.3.2	Compelling personal necessity, including observance of religious holidays, which shall be limited to no more than seven (7) days per school year.
+13.8	PERSONAL LEAVE
+A personal leave of absence without remuneration for not more than thirty (30) days may be awarded administratively to transact urgent personal business. The justification and duration of such leaves shall be left to the discretion of the Superintendent or his/her designee. Leaves of absence in excess of thirty (30) days are subject to ratification by the Board of Education or its designee.
+13.8.1	A personal leave without pay or health and welfare benefits of not more than one (1) year shall be awarded to permanent unit members for the purpose of investigating or accepting employment opportunities elsewhere, if approved by the Superintendent or his/her designee.
+37
+ARTICLE 13: LEAVES cont
+13.8.2	Sick leave, and retirement credit shall not accrue during such leave.
+13.9	BEREAVEMENT AND IMMINENT DEATH LEAVE
+A unit member shall be granted leave of absence with pay for three (3) days due to death in the immediate family/household, or five (5) days if in excess of 400 miles round-trip travel is required to attend or arrange for the funeral (see also 13.7.1.1 additional days may be granted with the approval of the district’s human resources office).
+13.9.1	A member of the immediate family/household, for these limited purposes, is defined as spouse, son, daughter, brother, sister, mother, father, grandmother, grandfather, or a grandchild of the unit member or of the spouse of the unit member, or any member of the immediate household of the unit member.
+13.10	REGULAR LEAVE
+Leaves of absence for advanced study, travel, exchange teaching, health, or any other reason recommended by the Superintendent and approved by the Board of Education, may be granted to a permanent unit member. Such leave shall be without remuneration. No sick leave or retirement credit shall accrue during the term of such leave.
+13.11	PUBLIC OFFICE LEAVE
+Every permanent unit member who is elected to public office shall be granted an unpaid leave of absence from his/her duties as an employee of the District, upon request, for the term of office.
+13.11.1	Within six (6) months following the expiration of term of office, the unit member shall be entitled to return to a position comparable to the one held by him/her at the time of his/her election.
+13.12	MILITARY LEAVE
+Unit members are eligible for military leave in accordance with existing law.
+13.13	IN-SERVICE AND CONFERENCE ATTENDANCE
+The District shall maintain its current practice concerning administration of and provision for in-service, conference, and educational convention attendance. In-service and conference attendance shall not be unreasonably denied.
+38
+ARTICLE 13: LEAVES cont
+13.14	MISCELLANEOUS REGULATIONS
+13.14.1	Unit members on paid leaves shall receive credit for annual salary increments and all other fringe benefits, including but not limited to, insurance and retirement benefits to the extent not expressly prohibited by law, unless otherwise provided in this Agreement.
+13.14.2	Unit members on unpaid leave shall be entitled to continued coverage under the insurance plans, with payment of required premium amount to be remitted to the District by the unit member. Should the unpaid leave comprise more than twenty-five percent (25%) of the unit member’s regular contract days during the school year, step advancement shall not be granted for the ensuing school year.
+13.14.3	In the event the unpaid leave extends into a second (2nd) consecutive school year, and the total duty days actually worked during those two (2) consecutive years combine to comprise at least 75% of one year’s contract days, the unit member shall be eligible to apply for step advancement on the salary schedule. Under no circumstances shall any portion of said duty days actually worked be accumulated and/or applied for credit toward step advancement beyond the second (2nd) school year following the date the unpaid leave first commended. No unit member shall be awarded more than one (1) step per year on the salary schedule for longevity purposes.
+13.14.4	A unit member returning from any type of leave of one hundred twenty (120) contract days or less shall be entitled to return to the same assignment held at the time such leave commenced unless such assignment has been discontinued, in which case, the employee shall be entitled to a comparable assignment. A unit member on leave for more than one hundred twenty (120) contract days shall be entitled to return to an assignment comparable to the assignment held at the time such leave commenced. In any case, the assignment of the unit member upon return to work shall be comparable to that held at the time leave began. “Comparable” means same educational level (primary or intermediate elementary, junior high school, or high school assignment) and also means immediate assignment within major and/or minor teaching fields, whenever possible, except by request of the unit member and availability of the position.
+13.15	CATASTROPHIC LEAVE
+Unit members will be entitled to catastrophic leave in accordance with the Board Policy and Administrative Regulation. (Board Policy and corresponding Administrative Regulation 4161.9, 4261.9 and 4361.9 are attached.)
+13.16	FAMILY CARE AND MEDICAL LEAVE
+Unit members shall be eligible to utilize family care and medical leave in accordance with board policy 4161.8; 4261.8 and 4361.8 and administrative regulation 4161.8 (a); 4261.8 and 4361.8
+39
+ARTICLE 14: HOURS
+14.1	The regular work day for a unit member shall consist of seven (7) on-site duty hours or thirty-five (35) hours per week, inclusive of lunch. Unit members who receive an additional responsibility factor shall work thirty-five (35) hours per week, exclusive of lunch.
+14.2	Unit members shall report to their respective work site at least fifteen (15) minutes before the commencement of their first regularly scheduled class or period and remain at least thirty (30) minutes following the end of their last regularly scheduled class or period. It is not the intent of this paragraph to exceed 14.1 above. Unit members shall not be required to sign in when reporting for service unless otherwise directed by the District as part of a progressive corrective action plan.
+14.3	In addition to the above, unit members shall be required to perform appropriate additional professional duties and fulfill additional professional obligations as determined by their immediate supervisor so long as those duties and obligations are consistent with the terms of this Agreement. Those duties and obligations may include, but are not limited to: attendance at faculty meetings, parent conferences, student conferences, conferences with administrators, and calendared in-service meetings. Unit members may be required to attend one (1) Back-to-School/parent communications night in the fall, and one (1) Open House/parent communications night in the spring. The length of each function shall not exceed three (3) hours at the secondary schools and one and one-half (lU) hours at the elementary schools, and shall be kept shorter to the extent possible.
+14.3.1	Faculty/grade, level/department meetings shall be held immediately following the instructional day, except as otherwise agreed to by a majority vote of unit members concerned, and shall not be excessive in frequency and/or length. Such meetings shall normally be no longer than one (1) hour in length, and, with the exception of emergencies, unit members are to receive advance notice of at least one (1) week of all required meetings. No unit member shall be required to attend such meetings during his/her lunch period.
+14.3.2	Duties such as campus supervision and supervision of social and athletic events and field trips shall be posted at least two (2) weeks in advance and shall initially be offered to volunteers. In the event there are insufficient volunteers, such duties shall be assigned on an equitable basis. Equity shall be determined by the number of hours spent on extraduty assignments of which no stipend is paid. Unit members shall not be required to perform supervision duties on any day when the unit member is not required to otherwise be on duty.
+14.3.3	The District shall not require Special Education teachers to spend more hours providing student supervision than regular education teachers.
+40
+ARTICLE 14: HOURS cont
+14.3.4	Recognizing that the classroom teacher is an integral part of the Individualized Educational Plan (IEP) team, a good faith effort shall be made to accommodate the regular education teacher when scheduling IEP meetings. IEP meetings and student study meetings at the elementary sites shall not normally be scheduled during preparation time on minimum days or without the agreement of the unit members involved.
+14.4	Unit members shall be entitled to one (1) duty free lunch period per day of no less than thirty (30) minutes. Elementary schools on minimum day schedule may provide a thirty (30) minute lunch period for staff, as determined by site unit members in consultation with the principal. Unit members are not required to sign out before leaving campus during their lunch period.
+14.5	Unit members who wish to leave campus on school business during working time shall notify the principal or his/her designee. Unit members who wish to leave campus for personal business during working time, excluding lunch, shall first receive permission from the site principal or his/her designee.
+14.6	The scheduling of non-teaching work days may be changed by mutual agreement between the principal or his/her designee and the unit member. In the event mutual agreement is not reached, the principal or his/her designee will render the final decision. All classroom teachers who work 183 or more days will have three (3) non-teaching work days included in their contracted work year. The District Calendar shall be formulated by a District Calendar Committee (comprised of District employees), and, when adopted by the Board, shall be considered part of this Agreement.
+14.7	The District shall make a good faith effort to minimize and equalize the number of preparations required for secondary teachers.
+14.8	Unit members shall be given two (2) complete work days after the close of each grading period to complete grade reports. Grade reports shall be due on the morning of the third contract day.
+14.9	PREPARATION PERIODS
+14.9.1	Full-time secondary unit members shall be allowed one (1) conference/preparation period each regular workday.
+14.9.2	Except in cases of emergency, no unit member will be scheduled to teach as a substitute during said unit member’s regular work day. Prior to scheduling substitute service for any unit member, the District will make a good faith effort to obtain a substitute teacher. If no substitute is available, the District will first seek volunteers for substitute service. If no volunteers are available, assignments of substitute duty will be made on an equitable...
+41
+ARTICLE 14: HOURS cont
+...basis from among available unit members. A secondary teacher assigned to perform substitute duty shall receive the hourly instructional rate for each period of service. An elementary teacher who is required to take extra students because no substitute is available, shall receive a pro rata share of the hourly instructional rate based on the percentage of the total class which he/she receives.
+14.9.3	Upon the request of the District and agreement by the teacher, and in accordance with Article 7 of this Agreement, secondary-level teacher may surrender his/her preparation period in order to teach an additional period on an extended basis. “Extended basis” is defined as seven (7) or more days of substitute service following one (1) day of emergency service as emergency service is envisaged in Paragraph 14.9.2 above. The pay for such additional teaching shall be one-sixth (1/6) of the respective member’s per diem rate (see Section 7.5.2.4).
+14.10	PARTICIPATION ON COMMITTEES
+14.10.1	Unit member participation on District and site committees shall be on a voluntary basis.
+14.11	PREPARATION TIME
+14.11.1	The District shall provide to elementary teachers an uninterrupted conference/preparation period of no less than one hundred fifty (150) minutes per week. This preparation time is to be in blocks of no less than 20 minutes during the regular student contact day. The weekly minimum day may be determined collaboratively between the faculty and administration and may be held on any day of the week. Elementary preparation periods/time shall not be used for staff meetings unless there is a majority vote to do so by all unit members affected.
+14.11.1	.1 The District and Association agree to establish a committee to address the issue of elementary preparation time through a collaborative problem-solving approach. The size and composition of the committee shall be determined by the parties. The recommendations of the committee shall be submitted to the parties by November 1, 2002.
+14.11	.2 The District reserves the right to modify instructional minutes with input from site faculty representatives in order to implement this section. The District calendar shall provide four (4) minimum days for K-3 grade and seven (7) minimum days for 4 -6 grade, for elementary parent conferences in the first trimester. If these minimum days are scheduled on the day of an elementary preparation period, the preparation period shall be rescheduled. Unit members shall not be required to hold individual conferences with parents past one (1) hour after the completion of their regular workday, nor when there is not an administrator on campus.
+42
+ARTICLE 14: HOURS cont
+14.11	.3 Assessment/consultation time for elementary Resource Specialists will be a minimum of seventy (70) minutes per day during the student contact day exclusive of the minimum day.
+14.12	PART -TIME EMPLOYMENT/JOB SHARING
+14.12.1	Unit members wishing to work a reduced contract for the school year or semester next succeeding shall make their request in writing to the Human Resources Office no later than forty-five (45) days prior to the end of the year or semester preceding. Said request must have the support of the unit member’s site or District administrator.
+14.12.2	Salary for part-time unit members shall be computed based upon the reduced contract as it relates to the required 7-hour working day (section 14.1 of this Article). As an example, a unit member requesting a one-half (U) time contract would receive 50% of his/her salary and be required to spend one-half (U) the work day, as defined in Section 14.1 at the work site. Preparation time shall be given in exact ratio of the unit member’s part-time employment to that of a full-time employee.
+Unit members on part-time contract must accrue full-time equivalent days in order to earn a step increase for the next succeeding year. Unit members may accrue said days as discussed in Article 13.14.3 of this Agreement.
+14.12.3	The District shall provide fringe benefits in exact ratio of unit member’s contract to that of full-time. The unit member may provide the difference in cost to equal full coverage provided a full-time unit member.
+14.12.4	Part-time contracts shall be from year to year; unit members wishing to continue a parttime contract shall initiate a request, as defined in Section 14.12.1 of this Article.
+14.12.5	The District takes no responsibility in the effect part-time contracts have upon the unit member’s retirement accrual with STRS, and obtaining tenure with the District.
+14.12.6	All other rights and privileges provided to full-time unit members shall be provided to part-time unit members, with the exception of those provisions within this Article and Article 6: Adult School Terms and Conditions.
+14.13	DAYS
+The District and the Association agree to a work year equivalent to one hundred eighty-three (183) days. Newly employed unit members are required to work one (1) additional day.
+43
+ARTICLE 15: PLACEMENT, ASSIGNMENT, REASSIGNMENT, TRANSFER, AND VACANCIES
+15.1	GENERAL PROVISIONS
+The District reserves the right to make placement, assignments, reassignments, transfers, and fill vacancies of unit members subject to this Article.
+15.1.1	Definitions
+Placement means the school or schools at which the unit member is placed upon being employed by the District, upon returning from a discretionary leave of absence of more than one semester, or following a valid transfer.
+Assignment means the department or departments, subject area(s) schedule and/or grade level(s)/track within a school or schools to which a unit member is assigned.
+Reassignment means a change in the unit member’s assignment at the same work location(s).
+Schedule means arrangement of classes, according to the number, levels, subject area, and order in which they are to be taught.
+Transfer means a voluntary or involuntary change in placement of a unit member from one school to another.
+Vacancy means any new or vacated bargaining unit position which the District intends to fill with a permanent, probationary, or temporary unit member.
+15.1.2	The District shall exert all feasible effort to establish and maintain a balanced teaching staff in all schools. This balance may include racial, ethnic, gender, and teacher experience. Establishing and maintaining a balanced staff is consistent with the best interest of students which must be considered foremost in the development of school faculties. The interest of the employee, the employee’s professional growth, and the employee’s length of service shall also be important factors in faculty assignments.
+15.1.3	Transfers and/reassignments may be requested by the unit member, initiated by the principal or his/her designee, or initiated by the Superintendent or his/her designee. When transfers or reassignments are effected, every possible effort shall be made to keep such changes on a mutual approval basis so that the unit member concerned and the administrators involved are in accord.
+44
+ARTICLE 15: PLACEMENT, ASSIGNMENT, REASSIGNMENT, TRANSFER, AND VACANCIES cont
+15.1.4	The Human Resources Office shall consider the transfer requests of unit members currently serving in the District prior to the time new personnel are being considered, and if all factors are equal, as deemed by the administration, the transfer/reassignment shall be made on the basis of seniority in the District.
+15.1.5	Transfer/reassignment request forms shall be available at each site administrator’s office and at the Human Resources Office. The unit member shall be advised in writing as to the final action taken concerning his/her transfer request.
+15.1.6	Unit members shall be considered for seniority transfer pursuant to Article 15.2.4 after having completed five (5) years of satisfactory service with the District. Consideration shall include a good faith effort on the part of the District to arrange for and conduct an interview with the unit member(s) seeking a transfer.
+15.1.7	The District, upon request, shall provide assistance to each transferee in making the physical move to the new assignment. (See Section 12.7)
+15.1.8	No unit member shall be precluded from working 183 days by reason of voluntary or involuntary transfer to or from a year-round school. Service, such as substitute teaching, at per diem rate, may be an option by mutual agreement.
+15.1.9	Announcement of all open positions within the District shall be mailed to the Association and to each of the unit members who makes a request for such information. The notice of vacancy shall be mailed within three (3) working days of the date of the announcement. In addition, bulletin board copies shall be posted at all sites in designated areas. Site administrators shall make a good faith effort to contact by telephone all unit members who have requested a transfer to their respective sites.
+15.1.10	The voluntary transfer and assignment rights of Special Education teachers and other specialists shall be the same as other unit members.
+15.1.11	The closing date, which shall be at least five (5) contract days following the announcement date, shall be indicated on all notices of vacancy.
+15.1.12	No assignment to fill a vacancy shall be made prior to the closing date.
+15.2 VOLUNTARY TRANSFERS
+This section pertains to unit members transferring between schools only.
+45
+ARTICLE 15: PLACEMENT, ASSIGNMENT, REASSIGNMENT, TRANSFER, AND VACANCIES cont
+15.2.1	A voluntary transfer is a relocation acceptable to a unit member who has submitted a written request for transfer.
+15.2.2	Unit members who desire transfers to other schools shall have the opportunity to submit a Request for Transfer to the Human Resources Office. All requests for transfer remaining on file by March 1 shall become invalid. A unit member who still wishes to be considered for transfer must file a new request.
+15.2.3	Nothing in this Agreement shall prevent a unit member from amending or withdrawing a transfer request at any time prior to being transferred. If a member does not wish to be considered for vacancies which occur after the list of vacancies has been distributed, the unit member must cancel the transfer request in writing at the Human Resources Office.
+15.2.4	A unit member who has exercised his/her option and received a transfer pursuant to 15.2.5 shall not be eligible to repeat the option until he/she has served three (3) additional satisfactory years with the District.
+15.2.5	Eligible unit members with the longest length of service in the District (15.1.6) who have requested a transfer per 15.2.2 shall receive a transfer to the school of their choice if the following conditions are met:
+15.2.5.1	There exists an opening at the school of choice and the unit member has, within the past three (3) school years, taught within that range of grades (i.e., K-3, 3-4 or 4-6), or subject area advertised.
+15.2.5.2	He/she has been evaluated pursuant to Article 8 within two (2) years prior to the proposed date of transfer and has not received an “ineffective” evaluation within the past three (3) years.
+15.2.6	Positions may be exempt from this Article:
+15.2.6.1	When there is a need by the receiving school to consider diversity factors such as race, ethnic background, and gender; or
+15.2.6.2	When a position is coupled with extra-curricular assignments, e.g., drama, choir, band, etc. said extra-curricular assignments shall be specifically stated on the job announcement and shall be related to the teacher’s regular teaching assignment.
+15.2.6.3	Seventh period athletic physical education shall not constitute a regular teaching assignment for purposes of this Article.
+46
+ARTICLE 15: PLACEMENT, ASSIGNMENT, REASSIGNMENT, TRANSFER, AND VACANCIES cont
+15.2.7	Unit members not eligible pursuant to 15.1.6 may apply for open positions within the District; however, seniority shall not be considered in the selection process. Although seniority shall not be the determining factor, non-seniority transfer requests shall still be considered before hiring new employees from outside of the District.
+15.2.8	If a transfer occurs during a unit member’s regular teaching calendar, the unit member, may upon request, be afforded the option of 1, 2, or 3 working days for full-time preparation for the new assignment to be determined mutually be the site administrator and the affected unit member. Disputes regarding the number of preparation days shall be resolved by the A.C.T. President and the Associate Superintendent, Human Resources
+15.2.9	The Human Resources Office or the person responsible for making the transfer shall, upon request from an unsuccessful applicant for transfer, provide an interview to discuss the reason(s) for the decision.
+15.2.10	Transfers shall not be denied for vindictive, arbitrary, nor capricious reasons.
+15.3 INVOLUNTARY TRANSFERS
+This section pertains to unit members transferring between schools only.
+15.3.1	An involuntary (administrative) transfer is a relocation effected at the initiative of an administrator.
+15.3.2	A principal or the Superintendent or his/her designee, may recommend the involuntary transfer of a unit member by submitting a written request to the Human Resources Office with a copy forwarded to the affected unit member.
+15.3.3	The principal or the Associate Superintendent, Human Resources shall arrange a conference with the unit member to discuss the transfer, seeking cooperative agreement.
+15.3.4	Advance notice of no less than four (4) contract days shall be given to the unit member by the appropriate administrator when the purpose of the involuntary transfer is to balance class enrollments early in the school year or at mid-year within the following limitations.
+15.3.4.1 The District may utilize such short-notice transfers to balance enrollments only during the first three (3) weeks of the school year (all District schools) or only during the first two (2) weeks of the spring semester (secondary schools only);
+47
+ARTICLE 15: PLACEMENT, ASSIGNMENT, REASSIGNMENT, TRANSFER, AND VACANCIES cont
+15.3.4.	2 The unit member being transferred shall be granted up to three (3) days of release time for preparation for the new assignment specified in 15.2.8;
+15.3.4.	3 The amount of preparation time shall be determined by the receiving site administrator and the affected unit member. Disputes regarding the number of days shall be resolved by the A.C.T. President and the Associate Superintendent, Human Resources.
+15.3.5	In all other cases of involuntary transfer between schools, the Associate Superintendent/Human Resources shall give the unit member written notice of the prospective transfer no less than fifteen (15) days prior to the scheduled effective date of the transfer. The Associate Superintendent/Human Resources shall also inform the prospective transferee as to expected position vacancies so that he/she may have the opportunity to state preferences among the various vacancies.
+15.3.6	Involuntary transfers shall not be made for vindictive, capricious, nor arbitrary reasons.
+15.3.7	REDUCTION IN STAFF
+Whenever the number of unit members placed at a school site must be reduced, and the reduction causes an involuntary transfer, the unit member with the least seniority in the affected department at the secondary level or the affected grade level at the elementary level shall be offered a transfer to another site where there is an opening. At the elementary level only, the unit member with the least seniority, at the affected grade level, may bump the unit member with the least site seniority. In which case the unit member with the least site seniority will be transferred to another site where there is an opening. This transfer shall be limited to the class/or schedule for which the affected unit member qualifies. In cases where departmental or grade level seniority is equal, the unit member with the least site seniority, or if site seniority is equal, with the least District seniority, shall be offered the transfer. The displaced unit member will be transferred pursuant to the appropriate Section in Article 15.3. Exception to this section may be made by the site principal when there is a need by the school to consider such factors as race, ethnic background, gender and age, and/or the teacher is providing service in an extra-duty assignment.
+15.4 ASSIGNMENT/REASSIGNMENT
+15.4.1	A good faith effort shall be made to give each unit member a written notice of his/her next year’s tentative assignment by the close of school. At year-round sites (YRS), the unit member will receive written notice of his/her next year’s assignment at least two weeks prior to the end of the track to which the member is currently assigned. All said notices of assignment given are tentative and subject to change contingent on staffing...
+48
+ARTICLE 15: PLACEMENT, ASSIGNMENT, REASSIGNMENT, TRANSFER, AND VACANCIES cont
+...needs as determined by the administrator. Said change in tentative assignment is not subject to the grievance procedure provided this Agreement is not otherwise violated.
+15.4.	2 Requests for reassignment shall be directed to the principal of the school at which the unit member is placed. The site administrator shall work cooperatively with unit members who request reassignment.
+15.4.	3 All attempts will be made to assign unit members to positions where they will serve most effectively as determined by the principal. When two or more unit members are being considered for the same assignment, and all factors are equal (in addition to effectiveness, factors to be considered are balancing staff regarding race, ethnic background, gender, age and/or the teacher is providing service in an extra duty assignment) as determined by the administrator, the assignment shall be made on the basis of site seniority.
+15.4.	4 If a reassignment occurs during a unit member’s regular teaching calendar, the unit member may, upon request, be afforded the option of cne (1), two (2), or three (3), working days for full-time preparation for the new assignment. Upon the reassignment being made, the unit member must inform the principal of the number of days needed for preparation, and the amount of preparation time provided shall be determined by the site administrator and the affected unit member. Disputes regarding the number of preparation days shall be resolved by the A.C.T. President and the Associate Superintendent, Human Resources.
+15.4.	5 When a site or staff administrator needs to involuntarily reassign a unit member within his/her staff, such reassignment may be made upon the recommendation of the supervising administrator, provided that written notice is given to the unit member and to the Associate Superintendent/Human Resources no less than ten (10) contract days prior to the effective date of the change, except that short notice timelines set forth in 15.3.4 may be used when the reassignment is necessary to balance class enrollments.
+15.4.	6 Requests for reassignment within the same school from one grade level to another or from one subject area or group to another shall be directed to the principal of the school to which the unit member is assigned. The principal shall work cooperatively with the unit member on such reassignment.
+15.4.	7 Special Education teachers and other specialists who choose to return to regular classroom teaching will be given the same assignment/reassignment rights as regular classroom teachers at the site where the specialists are currently serving.
+49
+ARTICLE 15:	PLACEMENT, ASSIGNMENT, REASSIGNMENT, TRANSFER, AND VACANCIES cont
+15.4.8	When a vacancy occurs at a school site during the school year, the faculty shall be notified of the vacancy so that reassignment consideration can be given to interested unit members before transfers or outside individuals are considered. Prior to the summer months, it shall be the unit member’s responsibility to inform the site administrators of his/her assignment preferences so that consideration can be given.
+15.4.9	Assignments/reassignments shall not be made for vindictive capricious, nor arbitrary reasons.
+50
+ARTICLE 16:	RETIREMENT CREDIT FOR PART-TIME SERVICE
+16.1	The purpose of this policy is to allow certificated employees of the Chino Valley Unified School District to work part-time and receive full-time retirement credit.
+16.2	Such part-time employment status is limited to a period of five (5) years, or age 65, whichever comes sooner. No service prior to July 1, 1976, may be included as part-time service.
+16.3	Any participant shall have reached age 55 before the beginning of the unit member’s school year or semester in which the part-time service is to be effective. Such participant must have been employed full-time in a position requiring certification for at least ten (10) years, of which the immediately preceding five (5) years were full-time in the Chino Valley Unified School District.
+16.4	The option of part-time employment must be exercised at the request of the unit member and can be revoked only with the mutual consent of the District and the unit member.
+16.5	The participant shall be paid a salary which is the pro rata share of the salary he/she would be earning had he/she not elected to exercise the option of part-time employment, but shall retain all other rights and benefits for which he/she makes the payments that would be required if he/she remained in full-time service.
+16.6	The minimum part-time employment shall be the equivalent of one-half (U) of the number of days of service required by the unit member’s contract of employment during his/her prior year of service in full-time position.
+16.7	The unit member shall receive his/her pro rata share of the fringe benefits or health benefits, as provided for in the District Administrative Regulations, whichever is greater.
+16.8	Full retirement credit shall not be earned until the end of the full school year or semester. Unit members who terminate before the end of the school year or semester for which they were contracted will receive retirement credit based on the actual salary paid. No credit will be allowed beyond the date of termination for any reason, including resignation, death, or retirement. Unit member and District contributions must be paid monthly to State Teachers’ Retirement System.
+16.9	Any agreement for reduced service or reinstatement to full service must be in writing by the unit member and District prior to the beginning of the school year or semester.
+16.10	One class taught in the secondary school is defined as 20% teaching assignment for the purpose of this Article.
+51
+ARTICLE 17: COMPENSATION AND HEALTH AND WELFARE BENEFITS
+17.1	SALARY SCHEDULES
+Beginning July 1, 2002, unit members, except as otherwise provided herein, shall be paid according to Appendix B, “Base Certificated Salary Schedule and Regulations,” which is attached hereto and incorporated herein by reference.
+17.2	SALARY & FRINGE BENEFITS AGREEMENT
+For the 2002-2003 school year all salary schedules shall be increased effective July 1, 2002, by 1.65%.
+For the 2002-2003 school year the District health and welfare benefits cap will be $7,144.00.
+For the 2003-2004 and the 2004-2005 school years the District and the Association will meet to discuss methods to determine compensation and health and welfare benefits. The parties shall meet and discuss the implementation of the methods of compensation during October 2002. (It is the intent of the parties to meet and develop the formula before October the 31st)
+17.3	Effective July 1, 1998, through June 30, 2001, unit members performing extra duties shall be paid as specified in Appendix C, which is incorporated herein by reference. For fiscal years after June 30, 1999, rates reflected in Appendix C shall be adjusted annually at the same rate as the rate of change applied to the certificated salary schedule for that year as described in Section 17.1.
+17.4	FRINGE BENEFITS
+The purpose of fringe benefits as set forth herein is to provide health and welfare benefits and not a salary augmentation. During fiscal year 2002-2003 the District shall provide all full-time employed qualified unit members with a medical, dental, vision, and life insurance package as described in Section 17.4.1. For 2003-2004 the parties shall make a good faith effort to renegotiate the fringe benefit provisions of the Agreement as described in 17.2. Unit members may select a medical plan which exceeds the District’s maximum contribution, but shall be responsible for the payment of costs in excess of the District’s maximum contribution. The District’s maximum fringe benefits contribution for 2003-2004 shall be subject to increase through the negotiation process.
+17.4.1	Full-time employed unit members are to be provided an insurance package including medical, dental, and vision plans from the list below. The District’s Fringe Benefits Committee shall meet regularly to review and recommend changes to the medical,...
+52
+ARTICLE 17: COMPENSATION AND HEALTH AND WELFARE BENEFITS cont
+...dental vision, and life plans offered by the District. The District shall meet and confer with A.C.T. prior to any changes in Health and Welfare plans offered.
+Medical (single - up to full family coverage on one of the following plans.)
+1.	Kaiser Permanente
+2.	Southern California Schools Employee Benefits Association
+Blue Cross California Care Plan or other similar plan as offered by the Southern California Schools Employee Benefits Association
+3.	Blue Cross Prudent Buyer Plan or similar plan as offered by the Southern California Schools Employee Benefits Association
+4.	Other medical plan(s) as offered by the District.
+Dental (single - up to full family coverage on one of the following plans.)
+1.	Safeguard Dental
+2.	Delta Dental (New enrollees, or re-enrollees following a leave of absence, shall begin with 70% coverage. The percentage of coverage may be increased by 10% for each consecutive year of enrollment, until 100% coverage is reached. Delta Dental shall include orthodontic benefits for dependent children.)
+3.	Other dental plan(s) as offered by the District.
+Vision
+1.	Vision Service Plan (single - up to full family, including annual eyeglass lenses)
+2.	Other vision plan(s) as offered by the District.
+Life Insurance
+$50,000 life insurance policy (includes accidental death and dismemberment coverage).
+53
+ARTICLE 17: COMPENSATION AND HEALTH AND WELFARE BENEFITS cont
+17.4.2 Unit member who, at the close of the 1981-82 school year, were receiving a Tax Shelter Annuity (TSA) as a part of the fringe benefit package may elect to continue receiving a TSA as a part of the fringe benefit package at the 1982-82 level. No additional unit member will be allowed to utilize the TSA as a part of the District-paid fringe benefit package. For unit members, continuing the TSA as stated above, the following package is provided. A change in coverage when initiated by the unit member, shall result in loss of his/her TSA.
+Medical Single coverage Kaiser Permanente (only)
+Dental (single - up to full family coverage on one of the following plans.)
+1.	Safeguard Dental
+2.	Delta Dental (New enrollees, or re-enrollees following a leave of absence, shall begin with 70% coverage. The percentage of coverage may be increased by 10% for each consecutive year of enrollment, until 100% coverage is reached. Delta Dental shall include orthodontic benefits for dependent children.)
+Life Insurance
+$50,000 life insurance policy (includes accidental death and dismemberment coverage).
+17.4.3	Unless agreed otherwise, for the duration of this Agreement, the District will continue the insurance benefit specifications at least equal to those in existence at the time of the execution of this Agreement. If the District intends to change the insurance carriers for such benefits, the District shall so notify the Association for purposes of negotiation. Nothing in the Agreement shall preclude meeting and negotiation on such benefit changes as proposed by the District.
+17.4.4	Unit members who are on Board approved unpaid leave of absence shall be afforded the opportunity to continue their participation in District insurance plans. The unit member shall pay the premium for the continued coverage to the District.
+17.4.5	QUALIFIED RETIREES AND DISABILITANTS
+Medical Only (single - up to full family on coverage of following plans)
+54
+ARTICLE 17: COMPENSATION AND HEALTH AND WELFARE BENEFITS cont
+1.	Kaiser Permanente
+2.	Southern California Schools Employee Benefits Association
+3.	Southern California Schools Employee Benefits Association
+17.4.6	During the life of this Agreement, the District agrees to provide medical insurance coverage only for retirees who were in a full-time employment status in the Chino Valley Unified School District for ten (10) years immediately preceding retirement from the District. Such insurance will be the same as that available to regular unit members. A leave of absence from CVUSD of one year or less shall not operate to preclude an otherwise qualified retiree/disabilitant from receiving retiree medical coverage to age 65. Said coverage shall cease with the death of the retiree or age 65, whichever occurs first. The District also agrees to provide medically retired unit members approved by State Teacher Retirement System (STRS), the same medical insurance coverage as received by regular unit members. Such coverage shall cease upon the death of the retiree or age 65, whichever comes first. Retirees, after age 65, at their own expense, may elect to have an HMO medical insurance plan which is provided by the District.
+17.4.7	PART-TIME EMPLOYEES (Definition: Any unit member working less than 100% including hourly unit members employed more than 20 hours per week.)
+The District’s contribution for fringe benefits for part-time unit members shall be based on the same percentage basis as used to compute the unit member’s salary. The unit member may pay to the District any difference so as to permit full participation in the District’s fringe benefit program as outlined for full-time employment in Section 17.4.1.
+17.5 ADULT EDUCATION TEACHERS - BENEFITS
+Included in Bargaining Unit. Adult Education teachers regularly assigned to teach twenty (20) hours or more per week shall be included in the bargaining unit. All terms and conditions of employment of such employees shall remain exactly as they were prior to their inclusion in the unit except as provided in this Article with respect to entitlement to purchase certain fringe benefits.
+55
+ARTICLE 18: CHILD DEVELOPMENT PROGRAMS
+18.1	CLASS SIZE AND TEACHER-PUPIL RATIOS
+The number of students enrolled may not exceed the guidelines as established by state and federal regulations for the Preschool or Children’s Center Program. Teacher-pupil ratio may not exceed that established by the appropriate program regulations.
+18.2	HOURS
+Children’s Center Head Teacher shall work an eight (8) hour day, including one-half (16) hour paid lunch. Children’s Center teachers’ contract duty hours shall be determined by May 31 for the succeeding year according to anticipate enrollment. As enrollment changes occur throughout the year, additional duty hours may be necessary on a temporary basis in order to meet state and federal teacher-pupil ratio requirements. These additional duty hours shall be paid at a contract equivalent hourly/daily rate.
+18.2.1	Children’s Center teachers who work six (6) or more consecutive hours per day shall take two (2) duty-free breaks of not more than fifteen (15) minutes each.
+18.2.2	In addition to the minimum hours of duty stated above, Children’s Center teachers shall be obligated to perform other related activities in addition to those of actual classroom teaching.
+18.2.3	The work year for Children’s Center teachers shall consist of the number of days in each individual contract, but not to exceed the maximum number of student days in one year from July 1 through the following June 30.
+18.2.4	The work year for Child Development Programs shall be one hundred eight (180) days.
+56
+ARTICLE 19: NO STRIKE - NO LOCKOUT
+19.1	During the term of this Agreement, the Association agrees that neither it, its officers, agents, or members will authorize, encourage, or engage in a strike, work stoppage, slowdown, boycott, mass absenteeism, or any other interruption of, or interference with, the operations of the District.
+19.2	In the event of a strike, work stoppage, slowdown, boycott, mass absenteeism, or any other interruption of, or interference with, the operations of the District, the Association shall immediately notify the employees that such action is unauthorized and promptly order its members to return to work, and make every reasonable effort to terminate the unauthorized action.
+19.3	Respecting any picket line established for any reason at any facility of the District by the Association or any other organization or any employee, in concert or alone, during the term of this Agreement shall constitute a violation of this Article.
+19.4	The District agrees that during the term of this Agreement, it will not engage in any lockout or fail to abide by an arbitrator award, pursuant to Article 11 of this Agreement, in the event such award becomes final.
+19.5	It is understood that any employee violating this Article may be subject to appropriate discipline up to and including termination.
+57
+ARTICLE 20: MISCELLANEOUS
+20.1	Any individual contract between the District and an individual member shall be subject to and consistent with the terms of this Agreement. In the event of an inconsistency, the provision of the Agreement shall prevail.
+20.2	This Agreement shall supersede any rules, regulations, or practices of the District which are contrary to, or inconsistent with, its terms.
+20.3	The provisions of this Agreement shall not be interpreted nor applied in a manner which is arbitrary, capricious, or discriminatory.
+20.4	A member’s notification to the Board stating intention to resign shall remain revocable until such time as the Board officially takes action on such notification.
+20.5	SAVINGS CLAUSE
+Should any article, section, or clause of this Agreement be declared illegal by a court or competent jurisdiction, said article, section, or clause, as the case may be, shall be automatically deleted from this Agreement to the extent that it violates the law. The remaining articles, sections, and clauses shall remain in full force and effect for the duration of this Agreement if not affected by the deleted article, section or clause.
+20.5.1	Should a provision or application be deemed invalid, as described in paragraph 20.5 above, the parties shall meet not later than ten (10) chys after such court decision to renegotiate the provision or provisions affected.
+58
+ARTICLE 21: COMPLETION OF NEGOTIATIONS
+Except for new Contract negotiations, pursuant to Article 2, Negotiation Procedures, or where otherwise specified, or by mutual agreement, during the term of this Agreement, neither party shall be required to meet and negotiate with respect to any matter whether or not covered by this Agreement and whether or not within the knowledge or contemplation of either or both of the parties at the time they negotiated and/or signed this Agreement.
+59
+ARTICLE 22: TERM OF AGREEMENT
+Except as specifically provided herein, this Agreement shall remain in full force and effect from July 1, 2002, through June 30, 2005.
+FOR THE DISTRICT:
+FOR THE ASSOCIATION:
+Michael V. Maez Assistant Superintendent Human Resources
+Maggie Higgins
+Negotiations Chair
+Justine Cunningham Negotiations Chair
+Don Bridge, President
+Debbie Stevens, Member
+Date:
+Date:
+Board Action: July 18, 2002
+A.C.T. Ratification: July 17, 2002
+60
+APPENDIX A
+Included in Unit:
+Classroom Teachers, Curriculum Specialists, Counselors, Librarians, Nurses, Special Education Teachers, Music Teachers, Miller-Unruh Teachers, Speech-Language Pathologists, Department Chairpersons, Grade Level Chairpersons, Child Development Program Teachers, Elementary Reading Specialist, Teachers On Special Assignment, Hourly Adult School/ROP Teachers regularly assigned to teach twenty (20) or more hours per week, and part-time contract employees serving in any of the above positions.
+Excluded from Unit:
+Substitute Teachers, Home Teachers, hourly Adult School Teachers regularly assigned to teach less than twenty (20) hours per week, confidential classified and classified employees, and all management and supervisory employees listed hereafter:
+Superintendent, Deputy Superintendent, Associate Superintendents, Human Resources and Business/Operations, Assistant Superintendents, Student Support Services and Facilities/Planning, Director of Human Resources, Director of Categorical Programs, Directors of Secondary and Elementary Curriculum, Director of Special Education, Director of Special Programs and Services, Coordinator of Special Education, Coordinator of Special Programs, High School Principals, Junior High School Principals, Elementary Principals, Continuation High School Principals, Junior High Assistant Principals, Elementary Assistant Principals, Elementary Teaching Assistant Principals, Junior High Teaching Vice Principals, Psychologist, Special Education Program Specialist, Coordinator of Health Services.
+61
+appendix ts
+62
+APPENDIX B continued
+63
+APPENDIX B (continued)
+SALARY PLACEMENT GUIDELINES
+Definition of Groups
+Group I
+Bachelor’s Degree.
+Group II
+Bachelor’s plus 15 semester hours.
+Group III
+Bachelor’s plus 30 semester hours.
+Group IV
+1.	Bachelor’s Degree plus 45 semester hours.
+2.	Master’s Degree.
+Group V
+1.	Bachelor’s Degree plus 60 semester hours including Master’s.
+2.	Master’s Degree plus 15 semester hours.
+3.	Bachelor’s Degree plus 65 semester hours.
+64
+APPENDIX B
+(continued)
+General Provisions of the Certificated Salary Schedule
+1.	Schedule is for the equivalent to 183 work days. (184 days for new members)
+2.	Advancement may be made from Group IV to Group V without a Master’s Degree, in
+accordance with the following criteria:
+(a)	Must be on step 9 with a minimum of eight (8) years experience.
+(b)	Must have at least 65 semester units beyond a Baccalaureate Degree.
+Must have completed 15 semester units, in accordance with the salary provisions of this schedule since July 1, 1972.
+3.	Unit members working on extended contracts (those days beyond 183; 184 for new unit members) will be paid their daily rate for those days exceeding 183 days or 184 for new unit members.
+4.	A unit used for placement in Groups II through V shall be based on credit earned after the awarding of the Baccalaureate Degree with grade of Pass or C or above within the following classifications: (a) graduate credit; (b) upper division credit; (c) professional courses (offered for educators, but in some instances not identified by graduate level course numbers); (d) equivalent study connected with in-service courses or research programs performed for the District and with prior approval by the Associate Superintendent, Human Resources; (e) lower division credit, if approved by the immediate supervisor and Associate, Human Resources; (f) as many as six lower division units, if taken to meet the requirements of the Education Code relating school staff preparation in the History, Culture, and Current Problems of Racial and Ethnic Minorities; (g) subject required for renewal of credentials or educational licenses; (h) classes offered by the District/County/CTA for the purpose of certification in specialized areas (15 hours = 1 semester unit of credit; and (I) Continuing Education Units (CEU’s) for school nurses which are converted on the basis of ten (10) CEU’s = 1 semester unit of credit.
+5.	All semester units which are to be used for salary credit purposes must be semester hours earned after the awarding of the Baccalaureate Degree. Quarter units shall be given a two-thirds (2/3) semester unit value.
+6.	The following formula will be used for current as well as new employees having eleven (11) or more years of teaching experience in either public or private education. The base year will be “11”, which will be subtracted from the total number of creditable service years. The remainder will be divided by 2. The quotient is added to the “base year.” The sum will be the number of years granted for placement and/or movement on the...
+65
+General Provisions of the Certificated Salary Schedule cont
+... salary schedule. This formula in no way would cause a current employee to be placed at a step that is less than their current placement.
+(A)	New unit members having served in a position requiring a valid state teaching credential shall receive one step credit for each year prior experience in public or private schools, or public or private colleges/universities accredited by a recognized accreditation association of schools and colleges or parochial schools which are governed by a diocese or the equivalent. In order to receive such credit, a unit member must have taught a minimum of 75% of the days school is in session in the regular school term to count as one year of experience (75% = 135 days).
+(1)	For the purposes of this Article, a public school is defined as a school operated by the state or its designee which requires valid teaching credentials of those employees teaching therein.
+(2)	Experience which shall not be considered for initial placement includes private schools not accredited by a recognized accreditation association of schools and colleges, any private elementary or preschool (Preschools operated by the Chino Valley Unified School District excepted), private or parochial schools which are totally self governed, or state universities or colleges not requiring a valid state teaching credential of their teaching employees, or private or public adult school or substitute teaching of any type (Chino Valley Unified School District substitute experience excepted).
+(3)	Unit members presently serving the Chino Valley Unified School District in a K-12 position who have served the District in either of its preschool programs shall receive year-for-year experience for those years during which time the unit member held a valid state teaching credential authorizing service in grades K-12.
+(B)	Unit members shall receive one step credit for each year of active service in the military forces of the United States, limited to a maximum of two (2) years. A year’s credit will be granted when 75% of a year has been spent in active military duty.
+(C)	One (1) step credit may be granted for each year of trade, industrial, or business experience of journeyman level directly related to the teaching assignment within the occupational program, limited to a maximum of ten (10) years. Credit for step placement shall be granted for 75% of the last calendar year worked at the journeyman level. Nurses hired on or after July 1, 1989, shall receive the benefits of this clause.
+66
+General Provisions of the Certificated Salary Schedule cont
+7.	Salary step credit may be granted to unit members who take a personal leave of absence for the purposes of serving as a teacher in a foreign school. Such credit shall be limited to one (1) year. The unit member must have served in the foreign school a minimum of 75% of the total number of days Chino Valley schools were in session in the regular school term to count as one (1) year of experience.
+8.	Submission of official transcripts for column changes is limited between July 1 and October 1. Column changes and the resulting salary adjustments will become effective the month following the receipt of official transcripts between July 1 and October 1 verifying the completion of units needed for the group change. Temporary verification will be allowed in lieu of the official transcript for a period of not more than ninety (90) days. This temporary verification must be from an official representative of the institution, not the instructor of the course, and it must include the official seal from the college or university in order to be valid. In the event that within the period of ninety (90) days, commencing from the date that the request for the salary progression is made, the unit member’s salary shall be reduced to the former group and his/her salary shall be adjusted accordingly. The column change shall not be retroactive.
+9.	Unit members hired after the instructional year begins may combine days of service credit from their previous district with days of service credit in the Chino Valley Unified School District to fulfill the 75% requirement provided the days of service credit in the previous district were earned during the same school year when service began in the Chino Valley Unified School District.
+10.	Only substitute service performed under valid California teaching credentials in the Chino Valley Unified School District after July 1, 1981, will be recognized for service credit. Years of service credit for substitute teaching will be granted only for those school years in which the employee taught at least 135 days. Substitute service shall not count toward tenure or longevity pay.
+11.	A Doctor of Law Degree shall be considered the same as a Master’s Degree for purpose of placement on the Certificated Salary Schedule.
+67
+RECLASSIFICATION PROVISIONS OF THE CERTIFICATED SALARY SCHEDULE
+1.	College units taken for movement on the salary schedule shall be subject to the following conditions: All creditable college units for placement in groups must be upper division or graduate units in the teacher’s major or minor field (subjects currently taught in California public schools) or fulfilling credential requirements with grade of C or above (or pass), except as provided in paragraphs 4 and 5. If the college course work taken is not in the teacher’s major or minor, then it must be meaningfully related to the present teaching assignment or needed to obtain an additional teaching assignment or major or minor. The Associate Superintendent/Human Resources shall review all applications for movement on the salary schedule.
+2.	Unit members working on extended contracts (in excess of 183 days or equivalent) may accumulate excess days of service. Any days so accumulated may be carried forward not more than four (4) years and combined with the days from one other future year in which the unit member could not otherwise meet the 75% requirement to earn a year’s service credit. Notwithstanding this provision, no unit member shall be able to combine excess days to create more than one step credit per each school year. Substitute service shall not apply for this purpose.
+MISCELLANEOUS
+1.	ANNIVERSARY INCREMENTS
+Certificated personnel will receive anniversary increments in addition to their regular salary in accordance with the following schedule and formula:
+(A)	After completion of fifteen (15) creditable service years .028 x step 1 of the column where the unit member is placed on the schedule.
+(B)	After completion of eighteen (18) creditable service years, another .028 x step 1 of the column where the unit member is placed on the schedule.
+(C)	After completion of twenty-one (21) creditable service years, another .028 x step 1 of the column where the unit member is placed on the schedule.
+(D)	After completion of twenty-four (24) creditable service years, another .028 x step 1 of the column where the unit member is placed on the schedule.
+(E)	After completion of twenty-seven (27) creditable service years, another .028 x step 1 of the column where the unit member is placed on the schedule.
+2.	Additional compensation for counselors shall be a factor of 6% of the individual counselor’s regular annual salary.
+68
+ANNIVERSARY INCREMENTS cont
+3.	Special Rates: Hourly rates shall be determined by dividing the annual salary for Group III, Step 1 of the Certificated Salary Schedule by 183 then by 6. Class instruction hourly rate shall be at the hourly rate. Hourly rate for driver training, simulator training, and home teaching shall be .95% of the regular hourly rate.
+4.	Amounts owed to unit members as retroactive salary payments shall be paid between 45 and 60 days following ratification of the Agreement for providing for such payment.
+5.	When opening a new school, unit members may have three (3) days of substitute pay ($90.00 per day) for additional services to be rendered as assigned by the principal. As an alternative teachers may have three (3) days of release time to facilitate the move to the new school.
+69
+APPENDIX C EXTRA DUTY RATES
+1.	ELEMENTARY GRADE LEVEL AND SECONDARY DEPARTMENT CHAIRPERSONS
+Grade Level and Department Chairpersons, shall be elected by the teachers that they represent no later than the end of the current school year. This shall be accomplished on an annual basis and unit members will be entitled to cast votes in department elections in accordance with the actual classes that they are assigned to teach in each respective department. Annual department elections shall be facilitated by the administration and A.C.T. representatives at each site, and the results shall be subject to Board approval. Each site shall develop a nominating process that will allow for the private expression of preference for grade level and department chairs. Those unit members nominated shall be elected by majority vote (on a plurality basis) through the use of secret ballots which are to be counted by the site administrators and the A.C.T. representatives.
+In instances where the unit member elected to serve as chairperson is determined to be ineffective by the administration, the Principal may request that the department provides a replacement representative to serve as chair for the duration of the school year.
+It is agreed and understood that grade level and department chairs are members of the bargaining unit, and, therefore, their duties and responsibilities shall not include having “authority to hire, transfer, suspend, layoff, recall, promote, discharge, assign, reward, or discipline other employees, or the responsibility to assign work to and direct them, or to adjust their grievances, or effectively recommend such action if, in connection with the foregoing functions, the exercises of that authority is not of merely routine or clerical nature, but requires the use of independent judgment” [see Government Code section 3540.1 (M)]. Grade level and department chair meetings shall be open to others, with a recommendation that agendas and minutes be kept for all meetings to improve communication. Finally, grade level and department chairs may not be involved in the evaluation of other unit members.
+2.	CURRICULUM WRITING
+Unit members shall be provided release time for curriculum writing or be paid the hourly instructional rate per #5 below. (See page 82)
+3.	GENERAL PROVISIONS OF EXTRA-DUTY COACHING PAY
+A.	Bargaining unit members shall have first consideration for extra duty athletics/activities positions approved, according to appendix c. If no bargaining unit member applies for an extra duty stipend position, then the position will be flown and filled by either a walk-on athletics/activities person. When an athletics/activities position is held or filled by a non-bargaining unit person the position shall become vacant at the end of the season or activity (whichever comes first) then the position will be flown district-wide.
+70
+GENERAL PROVISIONS OF THE EXTRA-DUTY COACHING PAY cont
+B.	No extra duty stipend in a designated area (athletics/activities) may be given to nonunit members until all unit members providing a service for which a stipend has been approved, according to Appendix C, have been compensated. The District shall notify the Association before offering an extra duty stipend assignment to a non-unit member, and on request shall provide a list of names of anyone receiving an extra duty stipend.
+C.	Ten percent (10%) of the season’s stipend will be paid to the Varsity Head Coach and any Varsity Assistant Coach (in those cases where an assistant coach or coaches are approved, pursuant to Appendix C) Band Director, Assistant Band Director, and Drill-team advisor for each week the coaches’ team remains in CIF play-offs. For the purpose of this paragraph, the factor will be applied to the stipend, as reflected in Appendix C.
+D.	Extra duty pay for unit members involved in athletics shall be increased to give experience credit, as follows:
+For each year of coaching in the same sport, the coaching stipend will increase by the percentage of 1.046 added to the basic stipend. The increase will be applied to the stipend, as defined in Appendix C, and will continue for three (3) years (three stepsstep 1, step 2, step 3). Step 1 shall be the amount of the annual stipend reflected in Appendix C.
+Unit members may switch assignments between men and women’s teams of the same level of sport without penalty.
+A unit member leaving a coaching position for the purpose of a “leave of absence” as defined in Article 13, shall not lose credit for prior service in that sport so long as the unit member returns to coaching the same sport immediately following the leave of absence.
+E.	Credit will be given for coaching experience in the Chino Valley Unified School District only. Coaching service in the same sport is transferable within the District.
+4.	AFTER WORKING HOURS SUPERVISION
+Unit members are required to attend “Back-to-School” night and “Open House” as part of their contractual obligation to the District. Those unit members who provide service to the District for purposes of after-school supervision shall be reimbursed at the rate listed in #5 below. Such reimbursement shall be made only for time spent beyond the unit member’s regular student contact day.
+71
+GENERAL PROVISIONS OF THE EXTRA-DUTY COACHING PAY cont
+No unit member shall be reimbursed under this provision for any duty for which he/she is already receiving a stipend.
+5.	RATES OF COMPENSATION
+The following rates, other than substitute pay for unit members, are subject to any future adjustment which applies to Appendix “B”.
+A CHAIRPERSONS
+There will be one grade level chairperson for each of the following grade level/clusters K-l, 2-3, 4-6. If a school has more than ten (10) classes at a grade level/cluster, additional chair positions will be added for that grade level/cluster to a maximum number of two (2).
+The following examples are provided to assist in the application of this article and are intended to provide clarification as to practices in connection with payment of stipends and permissible configurations.
+1.	If a teacher has a combination class, said teacher may choose which grade/level cluster they wish to align with, i.e., - a K-l teacher with 15 kindergarteners and 4 first graders would probably wish to align with the kindergarten cluster due to the preponderance of students at that level. However, they would be permitted to align themselves with the first grade grouping if they so desire, the choice of alignment rests solely with the teacher.
+2.	Teachers would be permitted to voluntarily split the duties and responsibilities as well as the corresponding stipend for service as a grade level chair.
+3.	Stipends will be paid in accordance to the number of unit members serviced by each grade level chair, i.e., if a site had 17 classes of KI and 10 were aligned with the kindergarten cluster and 7 were aligned with the first grade cluster, the stipend would be as follows; the kindergarten chair would receive the stipend of $2,355,69 for 10 or more unit members and the first grade chair would receive the stipend of $1,884,55, for 7 to 9 unit members.
+4.	Should additional questions on permissible practices and configurations relating to compensation require clarification, the association and the district shall meet and examine the issue in question and arrive at a mutually acceptable resolution specific to that issue and/or question.
+72
+GENERAL PROVISIONS OF THE EXTRA-DUTY COACHING PAY cont
+Additional stipends for elementary grade level and secondary department chairpersons shall be paid as follows:
+Coordinating 1 or 2 unit members - $942.28
+Coordinating 3 or 6 unit members - $1,413.42
+Coordinating 7 or 9 unit members - $1,884.55
+Coordinating 10 or more unit members - $2,355.69
+(.025 x Grp. I, Step I)
+(.0375 x Grp. I, Step I)
+(.05 x Grp. I, Step I)
+(.0625 x Grp. I, Step I)
+B.	HOURLY INSTRUCTION
+The hourly instruction rate shall be $35.72 (Annual Salary for Group III, Step 1 of the Certificated Salary Schedule divided by 183 and then by 6)
+C.	COACHING/ADVISORS
+The coaching stipends are set forth herein Appendix “C ”
+D.	STUDENT SUPERVISION
+The hourly student supervision rate shall be $26.79 (75% of the hourly rate).
+E.	DRIVER’S EDUCATION
+The hourly rate for behind-the-wheel driver’s education instruction is $33.94 (95% of the hourly rate).
+F.	SUBSTITUTE RATE
+The daily rate for unit members substituting while off-track and during summer months shall be $115.
+73
+ANNUAL STIPENDS FOR EXTRA DUTY COACHING AND STUDENT ACTIVITY POSITIONS EFFECTIVE: JULY 1, 2002 (1.65%)
+All positions are single person positions, with the following exceptions: High School Assistant Varsity Football - 3 positions; High School Assistant Men/Women Track - 2 positions. In respect of High School Athletic or High School Activities Directors in Level I, service for less than one year shall entitle the member to a pro rata share of the stipend.
+LEVEL I $3326
+H.S. Varsity Football
+H.S. Athletic Director
+H.S. Activity Director
+LEVEL II $3247
+H.S. Band Director
+LEVEL III $3096
+H.S. Women/Men Var. Basketball
+LEVEL IV $2896
+H.S. Head Var. Baseball/Softball
+H.S.Head Var.Track (Women/Men)
+H.S. Asst.Varsity Football
+LEVEL V $2779
+H.S. A-V Coordinator
+LEVEL VI $2765
+H.S. Head Var. Soccer
+H.S. Head Var. Wrestling
+H.S. Head Water Polo
+H.S. Head Women/Men Swim
+LEVEL VII $2717
+H.S. Drill Team Advisor
+LEVEL VIII $2538
+H.S. Head Women/Men Tennis
+Head Cross Country
+H.S. Head Var. Volleyball
+H.S. Asst.Women/Men Basketball
+H.S. Head JV Basketball
+H.S. Badminton
+LEVEL IX $2479 H.S. Choral Director Agriculture Advisor H.S. Drama Director
+LEVEL X $2324 H.S. Soph/JV Football H.S. Frosh Football H.S. Frosh Baseball H.S. Frosh/Soph. Wrestling H.S. Asst. Womens Swim H.S. Asst. Var. Wrestling H.S. Frosh/Soph. Basketball H.S. Asst. Womens Softball H.S. JV Womens Softball H.S. Asst. Women/Men Track H.S. Frosh/Soph. Boys Soccer H.S. JV Wrestling Boys Republic Baseball Boys Republic Basketball Jr. High Activities Director
+LEVEL XI $2175 Jr. High Band Director H.S. FHA-HERO VICA FBLA/DECCA
+74
+LEVEL XII $2101
+H.S. Womens Asst.Volleyball H.S. Womens JV Volleyball H.S. Asst. Frosh Football H.S. JV Soccer H.S. Asst. Var. Baseball H.S. Asst. Water Polo H.S. Golf
+H.S. JV Boys Tennis
+H.S. JV Baseball
+H.S. Asst. JV Football Boys Republic Track Boys Republic Cross Country H.S. Asst. Badminton
+LEVEL XIII $1964 H.S. Yearbook Advisor H.S. Publications Advisor H.S. Pep Squad Advisor
+LEVEL XIV $1812 H.S. Photo Advisor
+LEVEL XV $1620
+Jr. High Drill Team Advisor
+LEVEL XVI $1465 Jr. High Football Jr. High Soccer
+LEVEL XVII $1390 H.S. Asst. Band Director Jr. High Basketball Jr. High Track
+Jr. High Volleyball
+Jr. High Coed Softball H.S. Choreographer Dir.
+H.S. Asst. Pep Squad Other J.H.S. coaches Two high school extra duty stipends for coaches of academic competition teams.
+LEVEL XVIII $1134
+H.S. Senior Class Advisor Jr. High Yearbook Advisor H.S. Jr. Class Advisor
+LEVEL XIX $983
+H.S. Soph. Class Advisor
+Jr. High Drama Director
+Jr. High Pep Squad Advisor
+Jr. High Vocal Music
+H.S. Frosh Class Advisor
+LEVEL XX $343
+7th grade Decathlon
+8th grade Decathlon
+** Additional funding will be provided for high school FHA-HERO VICA, FBLA/DECCA when such positions are to be filled by individual sites.
+Note: At the high school level the District shall provide 46 coaching stipends, 21 student activities stipends and 14 department chair stipends. At the junior high schools each site get 4 coaching stipends, 6 student activities stipends and 7 department chair stipends. At the elementary schools each site will receive two extra duty stipends.
+THE DISTRICT SHALL INCREASE THE NUMBER OF COACHING STIPEND POSITIONS AT THE HIGH SCHOOLS BY 10. THE INCREASE IN THE NUMBER OF STIPENDS WILL BE PHASED IN OVER THE DURATION OF THE AGREEMENT. THE STIPEND POSITIONS SHALL BE AT LEVEL XII. FOR THE 2002-2003 SCHOOL YEAR THE NUMBER OF STIPENDS WILL BE INCEASED BY THREE (3). FOR THE 2003-2004 SCHOOL YEAR THE NUMBER OF STIPENDS WILL BE INCREASED BY THREE (3). FOR THE 2004-2005 SCHOOL YEAR THE NUMBER OF STIPENDS WILL BE INCREASED BY FOUR (4).
+75
+ASSOCIATED CHINO TEACHERS
+Summer School Teacher Selection Procedures for 1998
+1.	In accordance with state regulations, summer school may be offered by the District, subject to funding limitations and pupil enrollment.
+2.	Summer school teaching positions shall be filled through a rotating seniority system, with the most senior of the teacher requesting consideration being placed at the top of the list. Seniority shall be determined on the basis of first day of paid service in the District. Permanent status in the District shall not be required.
+3.	Summer school assignments shall be based on available positions and the teacher’s assignment preferences in accordance with their seniority. At the elementary level, final grade level assignments will be made by the summer school principal when necessary.
+4.	After service in the summer school program is complete, the senior teacher shall be placed at the bottom of the seniority lest for next year and would not be selected again until all interested junior unit members have been given the opportunity for an assignment. Selected teachers who decline a summer school assignment shall not be placed at the bottom of the seniority list, however, if a summer school assignment is declined for two consecutive years the selected teacher will have to reapply for a position.
+5.	In order to be eligible, teachers shall possess the proper authorizing credential and have an overall effective performance rating in their most recent performance evaluation.
+6.	Interested teachers would be required to complete an application form for summer school, which would include prioritized, preferred teaching areas, courses, grade levels, and so forth.
+7.	In those instances whereby the summer school principal determines that special qualification may be necessary or preferred for a particular assignment, that determination shall be publicized after consultation with the A.C.T. and included in the summer school vacancy announcement to be published by the District.
+8.	If offered at Buena Vista, preferential consideration shall be given to the present faculty at Buena Vista High School and Independent Study for their extended summer program. This is due to the need for familiarity with the educational program and attendance records required in the Continuation and Independent Study Programs
+9.	In the event that a summer school class or course is cancelled within the first week after commencement of instruction due to insufficient pupil enrollment, the affected teacher shall be afforded the opportunity to assume any vacant position for which he/she may be qualified or priority substitute status. In the event there are no vacancies available, the affected teacher will not lose his/her place on the seniority rotation list.
+76
