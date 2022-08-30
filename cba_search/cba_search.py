@@ -6,13 +6,13 @@ from fastapi.staticfiles import StaticFiles
 from cba_search.contract_data.contract_data import ContractDatabase
 
 app = FastAPI(title="CBA Search")
-contract_db = ContractDatabase("data/DOL_Scrape/ContractText_Abbey", 
-                               "data/DOL_Scrape/index_Abbey", 
-                               "data/CBAList.csv",
-                               "data/2022_NAICS_Structure.csv")
+contract_db = ContractDatabase("/app/./cba_search/data/DOL_Scrape/ContractText_Abbey", 
+                               "/app/./cba_search/data/DOL_Scrape/index_Abbey", 
+                               "/app/./cba_search/data/CBAList.csv",
+                               "/app/./cba_search/data/2022_NAICS_Structure.csv")
 page_num = 1
-templates = Jinja2Templates(directory="templates/")
-app.mount("/static", StaticFiles(directory="static"), name="static")
+templates = Jinja2Templates(directory="/app/./cba_search/templates/")
+app.mount("/static", StaticFiles(directory="/app/./cba_search/static"), name="static")
 
 def get_context(request, search_results):
     return {"request": request, 
